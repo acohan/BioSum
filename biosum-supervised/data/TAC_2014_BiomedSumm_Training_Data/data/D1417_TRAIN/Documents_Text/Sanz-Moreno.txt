@@ -1,0 +1,491 @@
+﻿Rac Activation and Inactivation Control Plasticity of Tumor Cell Movement
+Victoria Sanz-Moreno1, Gilles Gadea1, Jessica Ahn1, Hugh Paterson1, Pierfrancesco Marra1, Sophie Pinner2, Erik Sahai2, Christopher J. Marshall1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2008.09.043
+Under an Elsevier user license
+Referred to by
+Daniel R. Croft, Michael F. Olson
+Regulating the Conversion between Rounded and Elongated Modes of Cancer Cell Movement
+Cancer Cell, Volume 14, Issue 5, 4 November 2008, Pages 349-351
+ PDF (158 K)
+  Open Archive
+Summary
+Tumor cells exhibit two different modes of individual cell movement. Mesenchymal-type movement is characterized by an elongated cellular morphology and requires extracellular proteolysis. In amoeboid movement, cells have a rounded morphology, are less dependent on proteases, and require high Rho-kinase signaling to drive elevated levels of actomyosin contractility. These two modes of cell movement are interconvertible. We show that mesenchymal-type movement in melanoma cells is driven by activation of the GTPase Rac through a complex containing NEDD9, a recently identified melanoma metastasis gene, and DOCK3, a Rac guanine nucleotide exchange factor. Rac signals through WAVE2 to direct mesenchymal movement and suppress amoeboid movement through decreasing actomyosin contractility. Conversely, in amoeboid movement, Rho-kinase signaling activates a Rac GAP, ARHGAP22, that suppresses mesenchymal movement by inactivating Rac. We demonstrate tight interplay between Rho and Rac in determining different modes of tumor cell movement, revealing how tumor cells switch between different modes of movement.
+
+Author Keywords
+CELLBIO
+Introduction
+Abnormal cell migration and invasion is a characteristic of malignant cancer cells and is one component of metastasis, the major clinical problem in cancer. To metastasize, tumor cells must move through tissues and cross tissue boundaries, which requires cell motility, remodeling of cell-cell contacts, and interactions with the extracellular matrix (Fidler, 1999). Tumor cells can move as individual cells or as collective groups (Wolf et al., 2007). Recent work has demonstrated that individual tumor cells have two different modes of movement: a mesenchymal mode characterized by an elongated morphology that requires extracellular proteolysis localized at cellular protrusions and an amoeboid mode in which movement is independent of proteases and cells have a rounded morphology with no obvious polarity (Wolf et al., 2003). In amoeboid movement, the cell surface undergoes very active blebbing driven by actomyosin contractility (Sahai and Marshall, 2003 and Wyckoff et al., 2006). It is also clear that these two modes of tumor cell movement are interconvertible, depending on environmental conditions (De Wever et al., 2004 and Wolf et al., 2003). Consequently, the ability of tumor cells to switch between different modes of motility may limit the effectiveness of single therapeutic agents aimed at reducing invasion.
+
+Members of the Rho family of small GTPases are key regulators of cell movement through their actions on actin assembly, actomyosin contractility, and microtubules (Ridley, 2001). Expression of Rho family proteins is deregulated in some tumors and correlates with progression of disease (Sahai and Marshall, 2002). The three prototypical members of the family, Rho, Rac, and Cdc42, have all been linked to cell movement. Rac1 drives motility by promoting lamellipodia formation (Ridley et al., 1992), whereas RhoA signals to the kinases ROCKI and II, promoting the formation of actin stress fibers and generation of the actomyosin contractile force required for cell movement (Amano et al., 1997 and Kimura et al., 1996). Previous work shows that amoeboid and mesenchymal modes of movement are distinguished by their different usage of signaling pathways. The amoeboid mode involves signaling through ROCK, whereas the mesenchymal mode does not have an obligate requirement for ROCK but requires extracellular proteolysis (Sahai and Marshall, 2003) for Rac-dependent actin protrusions to be pushed through channels in the extracellular matrix (Wolf et al., 2003). Amoeboid movement is characterized by high levels of actomyosin contractility driven by ROCK (Wilkinson et al., 2005), consistent with a mechanism whereby cells squeeze through voids and deform the matrix (Wolf et al., 2003 and Wyckoff et al., 2006).
+
+To investigate mechanisms of different modes of cell movement, we have studied how the regulation of Rho family GTPases determines the mode of tumor cell movement. Guanine nucleotide exchange factors (GEFs) and GTPase accelerating proteins (GAPs) are key regulators of small GTPases, with GEFs promoting activation to the GTP bound state and GAPs promoting inactivation by stimulating GTP hydrolysis (Bos et al., 2007). We carried out a systematic siRNA screen of GEFs and GAPs to identify regulators of Rho family GTPases affecting modes of tumor cell movement. We show that a Rac-specific GEF, DOCK3, in association with the adaptor molecule NEDD9, regulates Rac and WAVE2 to drive mesenchymal movement and suppress amoeboid movement. Conversely, in amoeboid movement, Rho signaling via ROCK to a Rac GAP, ARHGAP22, inactivates Rac and suppresses mesenchymal movement.
+
+Results
+DOCK3 Is a Rac GEF Regulating the Transition between Amoeboid and Mesenchymal Movement
+To investigate Rho family GTPase signaling pathways involved in tumor cell morphology and movement, we initially used A375M2 melanoma cells that show amoeboid movement in vivo (Pinner and Sahai, 2008) and in 3D tissue culture (Sahai and Marshall, 2003 and Wilkinson et al., 2005). Cells were plated on top of a thick deformable layer of collagen I, and cell morphology and movement were monitored by time-lapse microscopy. In this system, cell adhesion is at least partially dependent on integrin β1 (Figure S1A available online,) and cells show similar adhesion to when plated on a thin, rigid layer of collagen (Figure S1B). Approximately 90% of A375M2 cells displayed a rounded morphology on thick collagen (Figures 1A and 1B, Movie S1), and higher magnifications show that any one time about 20% of the rounded cells move randomly in an amoeboid fashion with dynamic blebbing plasma membranes (Movie S2, Figure 2F) with velocities of approximately 0.1 μm per min. These velocities of amoeboid movement on top of a deformable collagen layer are similar to those observed in a 3D collagen environment (Figure S1C). About 10% of A375M2 cells show an elongated morphology (Figures 1A and 1B), and of these about 40% are moving in a mesenchymal fashion with long protrusions at speeds similar to amoeboid cells (Figures 1D and 2F). Treatment with cytochalasin D to block actin polymerization showed that both amoeboid movement and elongated, mesenchymal-type movement require actin assembly (data not shown).
+
+Full-size image (84 K)
+Figure 1. 
+DOCK3 Is Required for the Amoeboid-Mesenchymal Transition
+(A) Upper panel: images of Mock or DOCK3 siRNA-transfected A375M2 cells plated on a thick layer of collagen for 24 hr. The scale bar represents 100 μm. Lower panel: DOCK3 immunoblot.
+(B) Upper panel: images of Mock or DOCK3 siRNA-transfected cells plated on collagen and treated with Y27632 for 16 hr. Lower panel: percentage of elongated cells after Y27632, H1152, or blebbistatin treatment (200 cells/experiment, n = 3, error bars indicate +SE).
+(C) Upper panel: percentage of elongated cells after transfection with four different DOCK3 oligos (200 cells/experiment, n = 3, error bars indicate +SE). Lower panel: DOCK3 immunoblot.
+(B and C) Student's t test was used to generate p values; ∗∗p < 0.01, ∗p < 0.05.
+(D) Migration speeds of cells on collagen in 1% serum treated with H1152 where indicated. Student's t test was used to generate p values; ∗∗p < 0.01.
+(E) Rac activation (GTP-bound Rac1/total Rac) in A375M2 cells transfected with siRNAs on collagen. Upper panels: left, representative pulldown; right, quantification (n = 3, error bars indicate +SE). Lower panels: A375M2 stably transfected with DELDOCK3; left, representative pulldown; right, quantification. (n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05.)
+Figure options
+Full-size image (120 K)
+Figure 2. 
+Rac Regulates the Amoeboid-Mesenchymal Transition
+(A) Left panels: images of A375M2 cells transfected with siRNAs or treated with 50 μM NSC23766, photographed at 24 hr on collagen. Right panel: percentage of elongated cells (200 cells/experiment, n = 3, error bars indicate +SE); inset, Rac1 immunoblot.
+(B) Rac activation on collagen after treatment for the indicated times with Y27632, H1152, or blebbistatin (blebbis). Left: representative pulldown. Right: quantification (n = 5, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05).
+(C) Percentage of elongated cells after Mock or Rac1 siRNA transfection at 24 hr after treatment with vehicle, Y27632, H1152, or blebbistatin (200 cells/experiment, n = 3, error bars indicate +SE).
+(A and C) Student's t test was used to generate p values; ∗∗p < 0.01.
+(D) Images of A375P cells on collagen stably transfected with Rac1 T17N, Rac1 shRNA, or control vectors.
+(E) Rac1 and RhoA activation in A375M2 and A375P cells.
+(F) Histogram showing the percentage of moving cells classified by cell shape on collagen after transfection with siRNAs and treated with H1152 where indicated (n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p <0.05).
+(G) A375M2 cells on collagen stably expressing Rac1Q61L. Upper panel: images. Lower panel: percentage of elongated cells (200 cells/experiment, n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01).
+(H) Migration speeds of cells on collagen. Student's t test was used to generate p values; ∗∗p <0.01.
+Figure options
+To examine the interconvertibility of cell morphologies and movement, we made time-lapse movies from reconstructions of confocal sections of cells contained within a 3D collagen matrix (Movie S3). These showed that individual A375M2 cells interconvert between a rounded and elongated morphology over a 24 hr time period. Examination of other melanoma cell lines on thick collagen showed that several were like A375M2, consisting of a majority of rounded cells that move in an amoeboid fashion; another group had similar proportions of rounded and elongated cells, whereas a third group consisted of a majority of elongated cells with mesenchymal-type movement (Figure S1D).
+
+To identify GEFs that regulate cell morphology and movement, we transfected A375M2 cells with siRNA oligonucleotide duplexes (Dharmacon Smart Pools) targeting 83 GEFs for Rho family GTPases (Table S1) and monitored them on thick collagen layers. Silencing of DOCK3/MOCA resulted in almost complete elimination of cells with an elongated morphology and blocked the interconversion between amoeboid and mesenchymal movement (Figures 1A and 1B) without affecting adhesive properties (Figure S1B, lower panel). We have previously shown that treatment of A375M2 cells with low concentrations of the myosin II ATPase inhibitor blebbistatin resulting in partial inhibition of actomyosin contractility leads to an elongated morphology and mesenchymal movement (Wilkinson et al., 2005); therefore, we investigated whether this conversion requires DOCK3. Furthermore, because Rho-ROCK signaling to phosphorylation of myosin light chain 2 (MLC2) has been shown to be a key determinant of actomyosin contractility, we investigated whether inhibition of ROCK led to an elongated morphology and whether this was dependent on DOCK3. Figure 1B shows that treatment with blebbistatin or two different ROCK inhibitors (Y27632 and H1152) resulted in conversion to elongated cells moving in a mesenchymal manner (Movies S6 and S7) and that this was abrogated by siRNAs targeting DOCK3 (Figure 1B; Movie S8). These results were confirmed with Dharmacon “On-Target Plus” oligonucleotides, which use a modified chemistry to reduce off-target effects and are directed at different sequences of the gene (Figure 1C). Interestingly, although blebbistatin or ROCK inhibition increased the proportion of elongated cells, it did not affect the speed of migration (Figure 1D). Knockdown of other GEFs from the DBL or the DOCK families did not affect cell elongation in response to ROCK inhibition (Figure S2).
+
+DOCK3 has been previously characterized as a GEF for Rac (Namekata et al., 2004); therefore, we investigated whether the conversion from amoeboid to mesenchymal movement involved the activation of Rac. Silencing of DOCK3 expression with two different oligonucleotides showed that Rac activity in A375M2 is dependent on DOCK3 (Figure 1E). Moreover, expression of an internal deletion mutant, DELDOCK3 (aa 1062–1393) (Namekata et al., 2004), which lacks the DHR2 exchange factor domain but retains protein-protein interaction domains and could act as a dominant negative, also decreased Rac activation (Figure 1E, lower panel) and blocked the conversion of rounded cells to elongated morphology (Figure S3). To determine whether Rac activation is required for the amoeboid-mesenchymal transition, we silenced Rac1 by siRNA transfection. Figures 2A and 2C and Movies S4 and S9 show that silencing of Rac1 abolished elongation of A375M2 cells. To confirm these results, we used treatment with compound NSC23766, which blocks Rac1 activation by interfering with complex formation between GEFs and Rac (Gao et al., 2004) or expression of the interfering Rac mutant Rac1T17N. NSC23766 treatment reduced the proportion of elongated cells to 1.5%, compared with 8% in control A375M2 cells (Figure 2A). Because NSC23766 has not been shown to affect Rac activation mediated by DOCK family members, we showed that NSC23766 blocks Rac activation after overexpression of DOCK3 (Figure S4). Only rounded cells were found to express Rac1T17N after transfection (data not shown). To determine whether cell elongation after inhibition of actomyosin contractility or ROCK led to Rac activation, we measured Rac-GTP levels after treatment with blebbistatin or ROCK inhibitors. Figure 2B shows that these treatments increase Rac activation. This activation of Rac is dependent on DOCK3 (data not shown). However, treatment with ROCK inhibitors or blebbistatin did not increase the proportion of elongated cells if Rac had been depleted by siRNA (Figure 2C) or by Rac1T17N transfection (data not shown).
+
+A375M2 was derived from a low metastatic melanoma cell line, A375P (Clark et al., 2000), that has a more elongated morphology (40% elongated) with fewer blebs than A375M2 cells (Figure 2D). Interestingly, we could show that A375P cells have lower levels of Rho-GTP and higher levels of Rac-GTP than do A375M2 cells (Figure 2E). In A375P cell lines stably expressing either Rac1T17N or shRNA-Rac1, the proportion of elongated cells was reduced (Figure 2D). These results show that Rac signaling is required for the elongated/mesenchymal phenotype. Because amoeboid movement of A375M2 cells is dependent on ROCK (Sahai and Marshall, 2003) but inhibition of ROCK leads to Rac-dependent mesenchymal-type movement, we investigated whether inhibition of ROCK in combination with blockage of Rac activation would prevent cells from moving. Figure 2F shows that the combination of ROCK-inhibitor treatment with silencing of either Rac or DOCK3 markedly reduces cell movement. To determine whether activation of Rac signaling is sufficient to convert rounded cells to elongated cells, we expressed a constitutively activated Rac1 Q61L in A375M2 cells; this resulted in the proportion of elongated cells increasing to 40%, compared to 4% in controls (Figure 2G).
+
+Blocking Rac Signaling Suppresses Mesenchymal Movement and Enhances Amoeboid Movement
+These experiments show that activation of Rac by DOCK3 in A375M2 cells results in an elongated morphology and mesenchymal movement but do not address the issue of whether Rac is required for amoeboid movement. Movie S9 shows that cells in which Rac has been silenced move solely in an amoeboid fashion. Time-lapse movies from reconstructions of confocal sections of A375M2 cells suspended within a collagen matrix show that blockage of Rac signaling either by siRNA transfection or treatment with NSCC2376 prevents conversion of rounded, amoeboid cells to elongated mesenchymal-type movement (Movies S4 and S5; compare with control cells in Movie S3). Surprisingly, analysis of the speed of cells plated on top of a collagen matrix showed that rounded cells in which Rac signaling was ablated moved up to 1.7-fold faster (Figure 2H). These results demonstrate that not only is Rac activation by DOCK3 required for an elongated morphology and mesenchymal movement, but it also suppresses amoeboid movement.
+
+NEDD9 Complexes with DOCK3 to Regulate Rac Activity
+DOCK3 is a member of the DOCK180 family of guanine nucleotide exchange factors, and individual members of the family activate either Rac or Cdc42 (Cote and Vuori, 2002). The prototypical member of this family, DOCK180, is activated via a complex consisting of the adaptors Crk and p130Cas (Kiyokawa et al., 1998). We speculated that DOCK3 may complex with a member of the p130Cas family. Expression studies by Q-PCR showed that p130Cas and NEDD9/HEF1 but not Efs/Sin were expressed in A375M2 human melanoma cells. Interestingly, NEDD9 is overexpressed in 35%–50% of metastatic human melanomas and is overexpressed and involved in invasion in a mouse model of metastatic melanoma (Kim et al., 2006). To investigate the roles of NEDD9 and p130Cas, we examined whether silencing of expression of p130Cas or NEDD9 caused a similar phenotype to silencing of DOCK3 expression. NEDD9 but not p130Cas ablation reduced the number of elongated cells after treatment with ROCK inhibitors (Figure 3A; knockdown in Figure S5A). To show that NEDD9 is required for Rac activation, we transfected A375M2 with siRNA oligonucleotides. Figure 3B shows that silencing NEDD9 expression reduces Rac activity.
+
+Full-size image (101 K)
+Figure 3. 
+NEDD9 Complexes with DOCK3 to Regulate Rac Activity
+(A) Upper panel: images of siRNA-transfected A375M2 cells on collagen treated with Y27632 for 16 hr. Lower panel: percentage of elongated cells (200 cells/experiment, n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01). The scale bar represents 100 μm.
+(B) Rac1 activation on collagen of siRNA-transfected A37M2 cells. Left panel: representative pulldown and NEDD9 immunoblot. Right panel: quantification of pulldowns (n = 3, error bars indicate +SE).
+(C) Rac1 activation in 293T cells transfected with HADOCK3 or FlagNEDD9 and siRNAs plated on plastic. Upper panels: representative pulldowns and immunoblots. Lower panels: quantification of pulldowns (n = 3, error bars indicate +SE).
+(B and C) Student's t test was used to generate p values; ∗∗p < 0.01, ∗p < 0.05.
+(D) Upper-left panel: anti-NEDD9 immunoprecipitates immunoblotted for DOCK3. Lower-left panel: anti-Flag immunoprecipitates from A375M2 cells transfected with Flag-NEDD9 immunoblotted for DOCK3. Upper-right panel: anti-HA immunoprecipitates from A375M2 cells transfected with HA-DOCK3 immunoblotted for NEDD9. Lower-right panel: anti-NEDD9 immunoprecipitates from A375M2 cells transfected with HA-DOCK3 immunoblotted for HA-DOCK3. IP, immunoprecipitated.
+Figure options
+To confirm that Rac activation by DOCK3 requires NEDD9, we overexpressed DOCK3 in HEK293T cells. Figure 3C shows that overexpression of DOCK3 led to Rac activation that was blocked by silencing of endogenous NEDD9 (knockdown in Figure S5C). Similarly, Rac activation by overexpressed NEDD9 was dependent on endogenous DOCK3 (Figure 3C, knockdown in Figure S5D). These results suggest that DOCK3 functions together with NEDD9 to activate Rac. Therefore, we used coimmunoprecipitation to look for evidence that NEDD9 and DOCK3 are in a signaling complex. We were able to detect an endogenous complex of DOCK3 with NEDD9 in A375M2 cells (Figure 3D). These results were confirmed by overexpression analysis; endogenous DOCK3 was found in immunoprecipitates isolated with Flag-tag antibodies from cells expressing Flag-epitope-tagged NEDD9 (Figure 3D, lower-left panel), whereas endogenous NEDD9 could be detected in complexes with HADOCK3 after expression of an HA-epitope-tagged DOCK3 (Figure 3D).
+
+Rac Signaling Suppresses Actomyosin Contractility through WAVE2
+Because amoeboid movement is associated with elevated levels of MLC2 phosphorylation and actomyosin contractility, we investigated whether Rac acts by controlling actomyosin contractility. Reduction of Rac1 expression with Rac1 siRNA in A375M2 cells (Figure 4A) or Rac1 shRNA in A375P cells (Figure 4B) increased phosphorylation of MLC2 on threonine18 and serine19. Similarly, silencing of DOCK3 or NEDD9 led to increased MLC2 phosphorylation (Figures 4C and 4D). Conversely, expression of constitutively activated Rac1Q61L in A375M2 cells that leads to an elongated morphology resulted in reduced levels of MLC2 phosphorylation (data not shown). These results show that Rac negatively regulates MLC2 phosphorylation and thereby actomyosin contractility.
+
+Full-size image (80 K)
+Figure 4. 
+Rac Suppression of Amoeboid Movement Is Mediated by WAVE2
+(A) Phospho-MLC (p-T18/S19-MLC2) in A375M2 cells on collagen after transfection with Rac1 siRNA (n = 3, error bars indicate +SE). Inset: representative immunoblot.
+(B) Phospho-MLC in A375P cells on collagen stably transfected with Rac1 shRNA (n = 3, error bars indicate +SE). Inset: representative immunoblot.
+(C) Phospho-MLC in A375M2 cells on collagen after transfection with siRNAs. Left panel: representative immunoblot. Right panel: quantification (n = 3, error bars indicate +SE).
+(D) Phospho-MLC in A375M2 cells on collagen after transfection with NEDD9 siRNAs. Upper panel: representative immunoblot. Lower panel: quantification (n = 3, error bars indicate +SE).
+(E) Phospho-MLC in A375M2 cells on collagen after transfection with WAVE2 siRNA. Upper panel: representative immunoblot. Lower panel: quantification (n = 3, error bars indicate +SE).
+(F) Mock or WAVE2 siRNA-transfected A375M2 cells on collagen treated with Y27632, H1152, or blebbistatin for 24 hr. Left panel: images of cells. Right panel: histogram showing the percentage of elongated cells (200 cells/experiment, n = 3, error bars indicate +SE).
+(G) Left panel: percentage of elongated A375M2 cells on collagen after transfection with four different On Target siRNAs against WAVE2 and treated with Y27632 (200 cells/experiment, n = 3, error bars indicate + SE). Right panel: WAVE2 immunoblot.
+Student's t test was used to generate p values; ∗∗p < 0.01, ∗p < 0.05.
+Figure options
+To find the Rac effector responsible for regulating MLC2 phosphorylation, we used siRNAs targeting the Rac effectors PAK1, 2, 3, and 4 as well as WAVE1, 2, and 3; only WAVE2 depletion led to elevated levels of MLC2 phosphorylation (Figure 4E). Consistent with its role in Rac-dependent Arp2/3 promotion of actin assembly and the formation of cell protrusions characteristic of the mesenchymal type of cell movement (Leng et al., 2005), WAVE2 silencing reduced the proportion of elongated A375M2 cells on thick collagen (data not shown) and abolished Rac-dependent elongation after ROCK inhibition (Figure 4F). We were not able to detect any defect in elongation after ROCK inhibition or change in the levels of MLC2 phosphorylation when depleting WAVE1 or WAVE3 (Figure S6).
+
+To confirm the results obtained for WAVE2, we used individual Dharmacon On-Target Plus oligos targeting different regions of WAVE2. As shown in Figure 4G, there is a strong correlation between the degree of knockdown for WAVE2 protein and the reduction in the percentage of elongated cells after ROCK-inhibitor treatment. These results therefore show that elongation of A375M2 cells requires Rac signaling to WAVE2 and that WAVE2 negatively regulates MLC2 phosphorylation, thereby suppressing rounded morphology and amoeboid movement.
+
+ROCK Signaling Downregulates Rac Activity via ARHGAP22
+We have shown that Rac opposes amoeboid movement while inhibition of ROCK in amoeboid cells leads to Rac activation, suggesting that ROCK signaling in rounded, amoeboid cells suppresses Rac activation. A potential mechanism is through ROCK regulation of a Rac GAP (Ohta et al., 2006). We investigated whether a Rac GAP regulates the mesenchymal transition by screening an siRNA library consisting of 72 Rho family GAPs (Table S2). Silencing of ARHGAP22 led to elongation of A375M2 rounded cells (Figures 5A and 5B, kd in Figure S5B) without altering the adhesion properties of the cells (Figure S1B, lower panel). We did not observe this increase in the number of elongated cells when knocking down the expression of GAPs belonging to the same subfamily such as ARHGAP24 or ARHGAP25 or other GAPs (Figure S7).
+
+Full-size image (93 K)
+Figure 5. 
+ROCK Signaling Downregulates Rac via ARHGAP22
+(A) Images of Mock or ARHGAP22 siRNA-transfected A375M2 cells plated on collagen for 24 hr.
+(B) Percentage of elongated cells (200 cells/experiment, n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05).
+(C) Rac activation in ARHGAP22 siRNA-transfected cells on collagen. Upper panels: representative pulldown. Lower panel: quantification (n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗p < 0.05).
+(D) Phospho-MLC in ARHGAP22 siRNA-transfected A375M2 cells on collagen. Upper panel: representative immunoblot. Lower panel: quantification (n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01).
+(E) Rac activation in A375P-ROCKER cell lines (wild-type [WT] or kinase dead [KD]) transfected with siRNAs plated on plastic and treated with 4-OH-tamoxifen or vehicle for 16 hr. Left panels: representative pulldowns. Right panels: quantification (n = 5, error bars indicate +SE).
+(F) Rac activation in A375P-ROCKERWT cells treated with 4-OH-tamoxifen and blebbistatin where indicated for 16 hr. Upper panel: representative pulldown. Lower panel: quantification (n = 3, error bars indicate +SE.
+(E and F) Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05.
+(G) Percentage of elongated cells on collagen at 24 hr from A375M2 cells transfected with siRNAs against ARHGAP22, DOCK3, or both, (200 cells/experiment, n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05). Inset: immunoblot for DOCK3.
+Figure options
+To show that ARHGAP22 regulates Rac-GTP levels, we assayed Rac activity in A375M2 cells in which expression of ARHGAP22 was abrogated with two different sets of oligonucleotides. RacGTP levels were increased 2-fold when ARHGAP22 expression was silenced (Figure 5C). Silencing of ARHGAP22 led to decreased MLC2 phosphorylation (Figure 5D), consistent with our observations that the Rac-WAVE2 pathway downregulates MLC phosphorylation. Silencing of a subset of other Rac GAPs did not affect Rac activity (Figure S7C).
+
+To demonstrate that ROCK regulates ARHGAP22, we used A375P cells expressing a ROCK-estrogen receptor fusion protein to provide a system whereby ROCK activity could be controlled (Croft and Olson, 2006). Activation of ROCK-ER-WT (wild-type) by 16 hr treatment with tamoxifen led to cells acquiring a rounded morphology with associated blebbing similar to A375M2 cells (Figure S8) and a substantial decrease in the level of Rac-GTP (Figure 5E, kd in Figure S5E). This decrease was not observed if cells were depleted of ARHGAP22 by siRNA (Figure 5E). In contrast, tamoxifen treatment of cells expressing a kinase-inactive version of ROCK fused to ER (kinase-dead K121G) did not lead to significant changes in Rac activation or cell morphology (Figure S8). These experiments show that ROCK suppresses Rac activation through ARHGAP22. A375M2 cells have high levels of actomyosin contractility driven by ROCK, and because treatment with low doses of the myosin II inhibitor blebbistatin leads to the activation of Rac (Figure 2B), we investigated whether ROCK signals to ARHGAP22 via actomyosin contractility. Blebbistatin treatment blocked the fall in Rac-GTP levels stimulated by increased ROCK activity, suggesting that ROCK does not regulate ARHGAP22 directly but does so via modulating actomyosin contractility (Figure 5F).
+
+Taken together, our data show that the Rac GEF DOCK3 activates Rac to promote an elongated, mesenchymal-type phenotype, whereas ROCK signaling to the Rac GAP ARHGAP22 opposes this phenotype. Consistent with this model, we find that silencing of ARHGAP22, which results in increased number of elongated cells, could be overcome by simultaneous silencing of DOCK3 (Figure 5G, kd in Figure S5F). These results confirm that DOCK3 and ARHGAP22 act in opposite ways to regulate the mesenchymal-amoeboid transition.
+
+Roles of NEDD9, DOCK3, and ARHGAP22 in 3D Cell Movement
+To examine the roles of the NEDD9-DOCK3-Rac and ROCK-ARHGAP22 signaling pathways in 3D cell movement, we tested invasion into a 3D collagen I matrix. We used two cell lines, A375M2 and WM1361, in the presence of serum or IGF1, a known motility factor for melanoma cells produced by dermal fibroblasts (Neudauer and McCarthy, 2003). Knockdown of NEDD9, DOCK3, or Rac1 alone or inhibition of ROCK had little effect on the numbers of invading cells (Figure 6A, kd in Figure S5G). However, imaging of invaded cells showed that although control A375M2 cells consisted of 10% elongated and 90% rounded cells (Figures 6B and 6C), like cells plated on top of a thick collagen layer (Figures 1A and 1B), abrogation of NEDD9, DOCK3, or Rac expression reduced the proportion of invaded elongated cells (Figures 6B and 6C). In contrast, abrogation of ARHGAP22 expression markedly increased the proportion of invaded elongated cells (Figures 6B and 6C). These results show that when the NEDD9-DOCK3-Rac pathway is blocked, cells invade through amoeboid movement, whereas when ROCK-ARHGAP22 signaling is blocked, cells invade in a mesenchymal fashion. These results suggest that cells use either amoeboid or mesenchymal-type movement to invade a 3D collagen matrix. Therefore, we tested whether blocking components of both signaling pathways would reduce invasion. The combination of H1152 to block ROCK signaling with NEDD9, DOCK3, or Rac1 ablation led to a significant decrease in invasion (Figure 6A), showing that amoeboid and mesenchymal modes of movement can act redundantly for invasion into a 3D matrix.
+
+Full-size image (70 K)
+Figure 6. 
+Roles of NEDD9, DOCK3, and ARHGAP22 in 3D Cell Movement
+(A) Invasion into collagen I matrix of A375M2 or WM1361 cells transfected with siRNAs and treated with H1152 where indicated (n = 4, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01, ∗p < 0.05).
+(B) Images of invaded GFP-A375M2 cells transfected with siRNAs after 24 hr of collagen I invasion assay. The scale bar represents 50 μm.
+(C) Morphology of cells invading the matrix expressed as the percentage of elongated cells (n = 6, error bars indicate +SE; Student's t test was used to generate p values, ∗∗p < 0.01).
+Figure options
+To investigate how signaling through these pathways influences cell morphology in vivo, we imaged subcutaneous tumors from A375M2 and WM1361 cells expressing green fluorescent protein (GFP). In the cortical regions, we found similar proportions of rounded and elongated cells to when cells were plated on a thick layer of collagen I (Figure 7A and Figure S1D). Imaging of tumors derived from a shARHGAP22-GFP-A375M2 stable cell line showed that the proportion of elongated cells was increased (Figure 7A), consistent with the effects of ARHGAP22 silencing in culture.
+
+Full-size image (149 K)
+Figure 7. 
+Roles of DOCK3 and ARHGAP22 In Vivo
+(A) Left panels: Representative images of the tumor surface from GFP-A375M2sh control or shARHGAP22 cells, and histogram of the percentage of elongated/rounded cells (n = 4, error bars indicate +SE; Student's t test was used to generate p values, ∗p < 0.05). Right panels: representative images of tumor surface from GFP-WM1361 cells, and histogram of the percentage of elongated/rounded cells (n = 4, error bars indicate +SE).
+(B) Multiphoton intravital microscopy of GFPMLC-A375M2 subcutaneous tumors. Panels i and ii: tumor matrix interface. Panels iii and iv: images from within the tumor. Panels ii and iv are merged images of three consecutive time points colored red, green, and blue to highlight motile cells by spatial separation (arrows); white pixels indicate stationary objects. Scale bars represent 25 μm. Lower panel: box and whisker plot of cell migration speeds.
+(C) Upper panel: histogram of control and ROCK inhibitor Y27632-treated cells showing different types of motile behavior into matrix surrounding tumor or between cells within tumor (error bars indicate +SE; n = 10 for control mice, and n = 5 for Y27632-treated mice). Chi-square test shows that Y27632 treatment changes the proportions of moving cells within the categories; p < 0.001. Lower panel: scatter plot of the number of cell movement events per 7 μm optical slice classified by type of cell motility. Mann Whitney U test shows that Y27632 treatment increases the number of moving elongated cells; p = 0.0001.
+(D) Representative images of mouse lungs injected with GFP-mock-transfected WM1361 cells or mRFP-siRNA-transfected cells at 30 min or 6 hr after injection. Scale bars represent 50 μm. Bar charts: relative proportions of mock- and siRNA-transfected cells within the lungs (error bars indicate +SE, n = 8 in each case; Student's t test was used to generate p values, ∗∗p < 0.01).
+Figure options
+To examine cell movement in vivo, we used two-photon intravital microscopy. As previously shown (Pinner and Sahai, 2008), control A375M2 cells show a range of cell behaviors, including fast amoeboid movement with rapidly changing morphology; slower, more chaotic movement with blebbing morphology; and extending protrusions with mesenchymal morphology. Figure 7B panels ii and iv and Movie S10 show that in the cortical regions of the tumor, fast amoeboid movement into the matrix is observed, whereas in the inner regions of the tumor, cells move between each other mainly through elongated, mesenchymal-type movement. Movies S11 and S12 show the two types of motility in more detail. Speeds of amoeboid movement in vivo are approximately 30 times faster than in culture (Figure 7B, lower panel), reflecting the lack of persistence of movement in culture due to the absence of chemotactic gradients. Similar to our observations in culture (Figures 1B, 1D, and 2F), treatment with ROCK inhibitor Y37652 reduced amoeboid movement and led to a 2.5-fold increase in the number of cells moving in an elongated, mesenchymal manner within the tumor (Figure 7C).
+
+During metastasis, cell motility is required for extravasation and colonization of new tissues. To determine how Rac activity influenced these processes, we made use of an assay that compares the ability of control or siRNA-transfected cells injected into the tail vein to colonize the lung (Pinner and Sahai, 2008). A feature of this short-term assay is that it permits evaluation of cytoskeletal events important for attachment to blood vessels, survival, and lung colonization (Tsuji et al., 2006) while ruling out effects on proliferation that may obscure other effects. Two hours after tail vein injection, tumor cells are lodged in capillaries with a morphology corresponding to the shape of the blood vessels (Pinner and Sahai, 2008). We chose WM1361 cells for these experiments because preliminary experiments show they are more efficient than A375M2 in entering the lung in this assay, and the higher proportion of elongated cells (Figure S1D) makes it easier to evaluate the contribution of the DOCK3-Rac pathway. Equal numbers of control and Rac1- or DOCK3-depleted WM1361 cells, marked with different-colored fluorescent proteins, were mixed and injected into the tail vein of mice. Thirty minutes after injection, there were equal numbers of control and siRNA-depleted WM1361 cells lodged in the narrow vessels of the lungs (Figure 7D). However, after 6 hr, the number of Rac1- or DOCK3-depleted cells that had entered the lung parenchyma was approximately 1.4 times more than control cells. Because depletion of Rac or DOCK3 enhances amoeboid movement, these results show that a rounded morphology and amoeboid movement favors colonization, whereas elevated Rac activity compromises the ability of cells to colonize the lung. These observations are consistent with studies showing that reduction in amoeboid movement and acquisition of an elongated morphology through abrogation of PDK1 expression reduces the ability of tumor cells to colonize the lung (Pinner and Sahai, 2008).
+
+Expression Levels of NEDD9, DOCK3, and ARHGAP22 Determine the Amoeboid-Mesenchymal Transition
+To extend our observations, we examined a set of melanoma cell lines for the expression of DOCK3, ARHGAP22, and NEDD9 together with an assessment of their morphology. When plated on a thick layer of collagen I, cell lines WM1361, SKMEL2, and SBCL2 contain 30%–65% elongated cells (Figure 8A and Figure S1D). These cell lines express NEDD9, DOCK3, and ARHGAP22, and when ROCK was inhibited, the proportion of cells with elongated morphology increased (Figure 8A, Figures S1D and S10). CHL, SKMEL28, and 501MEL cell lines show a high proportion of elongated cells and have little ARHGAP22, and treatment with ROCK inhibitor produced no change in the proportion of elongated cells. In contrast, WM3670, WM3629, and WM1366 show a high proportion of cells with rounded morphology and express ARHGAP22 (Figure 8A and Figure S9A). Inhibition of ROCK in these cell lines increased the proportion of elongated cells, apart from WM1366, where presumably the very high levels of ARHGAP22 keep Rac inactive even when ROCK is inhibited. We classified the cell lines into three categories according to their appearance on collagen: elongated (E), more than 65% elongated/mesenchymal cells, little change with ROCK-inhibitor treatment; rounded/amoeboid (R), less than 20% elongated/mesenchymal cells, increase in the percentage of elongated cells with ROCK-inhibitor treatment; and mixed (M), 30%–65% elongated cells, increase in the percentage of elongated cells with ROCK-inhibitor treatment. We compared Rac activation levels in selected cell lines; SKMEL28 (E group) displayed the highest Rac activity levels, whereas M group cells (WM1361, SBCL2, and A375P) had moderate levels of Rac1 activity. Finally, WM3670 and A375M2 (both R) showed the lowest levels of Rac activity (Figure S9B).
+
+Full-size image (143 K)
+Figure 8. 
+Expression levels of NEDD9, DOCK3, and ARHGAP22 Determine Cell Morphology in Melanoma Cell Lines
+(A) Relative expression levels of NEDD9, DOCK3, ARHGAP22, cell shape, and effects of ROCK inhibitor. Plasticity is the effect of ROCK inhibition on the percentage of elongated cells; −, no effect; +, 1.5-fold; ++, 3-fold; +++ 5- to 10-fold increase in the percentage of elongated cells.
+(B) Images of cell lines transfected with siRNAs and plated on collagen. The scale bar represents 100 μm.
+(C) Histogram of the percentage of elongated cells from two elongated (E), three mixed (M), and two rounded/amoeboid (R) melanoma cell lines transfected with Mock, DOCK3, NEDD9, or ARHGAP22 siRNAs and seeded on collagen (200 cells/experiment, n = 3, error bars indicate +SE; Student's t test was used to generate p values, ∗∗ p< 0.01, ∗p < 0.05).
+(D) Diagram outlining the relationships between signaling pathways, cell morphology, and movement.
+Figure options
+Silencing of ARHGAP22 expression in WM1361(M), SKMEL2(M), SBCL2(M), and WM3670(A) led to an increase in the proportion of elongated cells (Figures 8B and 8C, kd in Figure S5H), whereas silencing of NEDD9 or DOCK3 reduced the proportion of elongated cells (Figures 8B and 8C, kd in Figure S5H). In contrast, overexpression of NEDD9 in SKMEL2 or WM1361 cell lines resulted in a significant increase in the number of elongated cells (Figure S11). In CHL and SKMEL28 cell lines with a very high proportion of elongated cells, silencing of NEDD9 or DOCK3 expression resulted in conversion to a rounded morphology (Figures 8B and 8C). These results with a panel of cell lines suggest that NEDD9, ARHGAP22, and DOCK3 are key regulators of the morphology and mode of cell movement in melanomas and that their expression levels together with the signaling pathways that control their activity determine cell morphology and movement.
+
+Discussion
+DOCK3 belongs to the DOCK180 family of GEFs and was identified as a presenilin-binding protein specifically expressed in neurons (Cote and Vuori, 2002, Kashiwa et al., 2000 and Namekata et al., 2002). DOCK3 activates Rac1 (Namekata et al., 2004) and has been shown to colocalize with actin filaments at growth cones, suggesting that it is involved in cytoskeletal reorganization by locally regulating Rac activity. We show that DOCK3 is expressed in melanoma cells and is required for Rac-driven mesenchymal-type cell motility, whereas it represses amoeboid movement via activation of Rac1. Recent work from Palamidessi et al. (2008) has demonstrated the importance of Rab5-dependent endocytic traffic in the activation of Rac for mesenchymal-type movement; whether DOCK3 is localized in endosomes remains to be determined. Although multiple Rac GEFs are expressed in A375M2 cells, in our screen of 83 Rho family GEFs, DOCK3 was the only Rac GEF whose silencing suppressed mesenchymal movement. For example, silencing of DOCK180, a well-characterized Rac activator expressed in melanoma cells, appeared to have no effect on cell morphology or movement. Although we are cautious in interpretation of negative results, our data suggest that GEFs provide specificity in signaling to Rac activation to control cell movement.
+
+We show that DOCK3 is in a complex with NEDD9, a member of the p130Cas family, and they act together in Rac activation. NEDD9 has recently been established as a melanoma metastasis gene that is overexpressed in metastatic melanomas and enhances invasion in vitro and metastasis of normal and transformed melanocytes (Kim et al., 2006). Our data argue that a key role of NEDD9 in metastasis is in Rac activation. Members of the p130Cas family are adaptor proteins that mediate integrin signaling and are linked to Rac activation through a Cas-Crk-DOCK180 complex (O'Neill et al., 2000). Interestingly, Kim et al. (2006) did not find a role for p130Cas in melanoma cell migration, consistent with our finding that abrogation of DOCK180 or p130Cas expression had no effect on cell morphology or motility of A375M2 cells.
+
+An important finding from our studies is that Rac signaling represses amoeboid movement. Abrogation of Rac activity leads to elevated phosphorylation of MLC2 and faster amoeboid movement. Rac promotes cell protrusions and lamellipodia characteristic of mesenchymal movement through the SCAR/WAVE2 complex. SCAR/WAVE2 is a member of the WASP family of proteins that activates Arp2/3 a group of seven proteins that control actin assembly (Higgs and Pollard, 2001 and Welch, 1999). Interestingly, we find that Rac-dependent suppression of MLC2 phosphorylation requires WAVE2, suggesting a tight interplay between the mechanism that promotes Rac-dependent actin rearrangements in mesenchymal movement and the suppression of amoeboid movement. Signaling complexes containing WASP family members recruit regulatory proteins for Rho family GTPases, raising the possibility that Rac and Rho activity may be coordinated by GAP and GEF activities located in the multiprotein complexes that regulate actin assembly (Soderling et al., 2002). Interestingly, Hem-1, a haemopoetic specific partner of WAVE2, has been described to interact with two different Rho GAPs, and with the catalytic subunit and the MYPT1 targeting subunit of myosin phosphatase (Weiner et al., 2006), all of which could function to downregulate MLC2 phosphorylation.
+
+Rac promotes mesenchymal-type movement and suppresses amoeboid movement by keeping MLC2 phosphorylation low. Our data show that Rac activity is controlled by the interplay between the NEDD9-DOCK3 and ROCK-ARHGAP22 pathways (Figure 8D). In amoeboid movement, ROCK signaling promotes high levels of actomyosin contractility to provide the force for movement (Wyckoff et al., 2006), and the activation of ARHGAP22 prevents Rac activation from suppressing amoeboid movement. A negative regulatory role for Rho/ROCK signaling toward Rac has been described many times, and a recent study identified FILGAP as a Rac GAP phosphorylated and activated by ROCK (Ohta et al., 2006). Interestingly, ARHGAP22 is closely related to FILGAP, but although we can show that the GAP activity of ARHGAP22 depends on ROCK activity and actomyosin contractility, we have been unable to find evidence of ROCK-mediated phosphorylation of ARHGAP22 (V.S.M., unpublished data).
+
+A striking finding from our studies is the observation that Rac and Rho have opposing effects on different modes of tumor cell motility and that changing the activity of one signaling pathway changes the mode of movement (Figure 8D). These observations reinforce the view that different modes of cell movement are interconvertible (De Wever et al., 2004 and Wolf et al., 2003). We hypothesize that efficient metastasis may need each form of movement depending on the cellular microenvironment. Amoeboid movement can be a rapid form of movement where the composition of the extracellular matrix allows the contractile force of the cell to deform the matrix (Wyckoff et al., 2006 and Wolf et al., 2003), whereas mesenchymal movement may be required in more rigid environments where proteolysis is needed to generate tracks for the cell to move (Friedl, 2004). Within A375M2 tumors, cell movement is mesenchymal and unaffected by ROCK inhibition. We find that Rac activity associated with mesenchymal movement inhibits lung colonization by circulating tumor cells, consistent with the observations of Pinner and Sahai (2008) that rounded morphology and amoeboid movement favor lung colonization. Another aspect of high levels of actomyosin contractility and rounded morphology is that it may protect tumor cells from shear stresses in the circulation (Wang et al., 2002 and Sahai et al., 2007).
+
+Histopathological studies show that the tumor cells in malignant melanoma show morphological variability, appearing rounded/epithelioid or spindle shaped (Rosai, 2004). The variation in expression levels of NEDD9, DOCK3, and ARHGAP22 that we have identified are likely to be important determinants of the ability of tumor cells to convert between these different morphologies and associated modes of movement. Through these signaling pathways, tumor cells may switch between mesenchymal and amoeboid types of movement, allowing metastatic tumor cells to adapt their morphology and movement, permitting invasion and dissemination in different microenvironments.
+
+Experimental Procedures
+Materials
+Antibodies were as follows: Rho A (sc-418), ERα (sc-543) and DOCK180 (sc-13163) from Santa Cruz; anti-Cas and Purified IgG from Transduction Laboratories; diphospho-Thr18/Ser19-MLC2 from Cell Signaling Technology; MLC2 and α-tubulin from Sigma; WAVE2 from BD; Flag M2 from Stratagene; NEDD9 (2G9) from AbCam; HA (MMS-101) from Covance; and Rac1 (23A8) from Upstate. Anti-DOCK3 was a kind gift from Dr. David Schubert (Salk Institute, La Jolla, CA). Y-27632 (Tocris, Southampton, UK), blebbistatin, H1152, and NSC23766 (Calbiochem, Merck Biosciences, Nottingham, UK) were also used.
+
+Cell Culture, Transfection, and Plasmids
+A375P and A375M2 cells were from R. Hynes (Howard Hughes Medical Institute, Massachusetts Institute of Technology). CHL, SKMEL2, SKEML28, SBCL2, WM1361, WM1366, WM3629, WM3670, and 501MEL were from Drs. I Arozarena and R Marais (Institute of Cancer Research, London). Cells were maintained in Dulbecco's modified Eagle's medium (DMEM) or RPMI containing 10% fetal calf serum. Plasmid transfections were performed with Amaxa Nucleofector and reagents (Amaxa, GmbH). Stable cell lines were selected with G418 at 100 μg/ml (Sigma). Y27632 was used at 10 μM, H1152 at 5 μM, blebbistatin at 2.5 μM, and NSC23766 at 50 μM. CB6-EGFP-RacQ61L and CB6-EGFP-Rac1T17N were from Dr. Michael Way (Cancer Research UK, London Research Institute). EGFP-N1 was from Clontech (Basingstoke, UK). Sure Silencing shRNA plasmids Rac1 (KH00733N), DOCK3 (KH07467G), and ARHGAP22 (KH20417N) were from Superarray. pCIneo DOCK3HA was from Dr. Hideo Kimura (National Institute of Neuroscience, Tokyo, Japan). LZRSpBMN-Z-delta-NEDD9 was from Dr. Linda Chin (Dana Farber Cancer Institute, MA).
+
+Cell Culture on Thick Layers of Collagen
+Fibrillar bovine dermal collagen was prepared at a 1.7 mg/ml dilution in DMEM according to the manufacturer's protocol (Cohesion); 300 μl was placed in wells of 24-well plates, and 700 μl was placed in wells of 12-well plates. Cells were seeded on top of collagen in medium containing 10% serum and allowed to adhere for 24 hr, and medium was changed to 1% serum for 16 hr. Except where indicated, all cell imaging, immunoblotting, and pulldown assays were performed on cells cultured on a thick layer of collagen.
+
+siRNA Transfections
+siRNA oligonucleotides from Dharmacon (Lafayette, USA) are listed in Tables S1 and S2, and sequences are in Table S3. Cells (2 × 105) were plated in a 60 mm dish and transfected the next day with 20 nM SmartPools or individual oligos, with Optimem-I and Hiperfect (QIAGEN, Renfrewshire, UK). Cells were plated on collagen in 1% fetal bovine serum 48 hr after transfection and analyzed 24 hr later.
+
+Time-Lapse Phase-Contrast Microscopy
+Multisite microscopy of cells in 12-well plates containing thick layers of collagen was performed in a humidified CO2 chamber with a Diaphot inverted microscope (Nikon, UK) with a motorized stage (Prior Scientific, UK) controlled by Simple PCI software (Compix). For evaluation of the percentage of elongated cells, a cell was considered elongated when its longest dimension was twice the shortest and when it showed at least one protrusion.
+
+Time-Lapse Confocal Fluorescent Microscopy
+A375M2 membrane-targeted -GFP cells were mixed with a collagen matrix and plated in MatTek (Ashland, MA,) glass-bottomed dishes and placed on a Tokai heated stage.
+
+Tracking Assays
+Tracking of cell migration within collagen matrices was performed as described (Wilkinson et al., 2005) over a period of 24 hr from 16 hr after the gel was set. Individual cells were tracked in a semiautomated manner by repeated random selection of cells in movie frames and manual tracing of migration pathways with Simple PCI software. Speeds are presented as “box and whisker” plots showing median, quartile, and highest and lowest values. Any cells moving through convection were excluded.
+
+Quantitative Real-Time One-Step PCR
+The Quantitect SYBR Green RT-PCR system was used according to the manufacturer's instructions.
+
+Immunoprecipitation and Immunoblotting
+Lysates were fractionated by SDS-PAGE and transferred to nitrocellulose filters. Western blotting was performed with the ECL Plus detection System (GE Healthcare) with horseradish peroxidase-conjugated secondary antibodies (Sigma). Immunoprecipitations were performed as described (Sanz-Moreno et al., 2003). For p-Thr18/Ser19-MLC2 detection, whole-cell extracts from cells on collagen were harvested in Laemmli sample buffer and sonicated for 15 s prior to centrifugation.
+
+Pulldown Assays
+Glutathione S-transferase (GST)-conjugated Rhotekin and PAK-CRIB were expressed from pGEX-Rhotekin and pGEX-CRIB, and assays performed as in (Sahai and Marshall, 2002). Except where indicated, extracts were derived from cells on a thick collagen matrix (3 ml collagen/6-well dish).
+
+Tumor Imaging
+Nude mice were injected subcutaneously with either sh control or shRNA stably transfected A375M2 cells expressing GFP or WM1361 expressing GFP. When tumors were 3–7 mm in diameter, mice were anaesthetized and imaged as described (Wyckoff et al., 2006). For in vivo imaging of cell movement, ten control and five Y27632-treated tumors were imaged; four different regions were imaged for 20 min for each tumor. Moving cells were defined as those that moved 10 μm or more during 20 min.
+
+Lung Extravasation Assay
+WM1361 cells stably expressing membrane-tethered GFP or mRFP were transfected with Mock or siRNAs. Forty-eight hours after transfection, cells were trypsinized, mixed in equal numbers, and injected into the tail vein of nude mice. Mice were sacrificed after 30 min or 6 hr, and lungs were examined for GFP- or mRFP-expressing cells.
+
+Invasion Assays
+Cells were suspended in serum-free collagen I at 2.3 mg/ml to a final concentration of 2 × 103 cells/100 μl. One hundred microliter aliquots were dispensed into 96-well ViewPlates (Perkin-Elmer) coated with bovine serum albumin. Plates were centrifuged at 300 × g and incubated at 37°C/10% CO2 for 30 min before insulin growth factor or fetal calf serum to 5% was added with H1152 where indicated. After 24 hr incubation, cells were fixed in formaldehyde (final concentration 4%) and stained with 5 μg/ml Hoechst 33258 (Molecular Probes-Invitrogen). Confocal Z slices were collected from each well at 50 μm and 3 μm (bottom of well) with an INCELL3000 high-content microscope. Nuclear staining was quantified with INCELL3000 software with the Object Intensity module. Samples were run in quadruplicate and averaged. The invasion index was calculated as number of cells at 50 μm divided by the total number of cells. Data are presented as percentage of the invasion index of mock-transfected cells. For the 3D imaging of invaded cells, sequential Z sections of embedded cells were obtained by indirect immunofluorescence microscopy with a Nikon C1 confocal microscope. 3D reconstructions of embedded cells invading into the collagen were made with Volocity software (Improvision Inc, Waltham, MA,). For evaluation of the percentage of elongated cells invading, a cell was considered elongated when its longest dimension was twice the shortest and when it showed at least one protrusion.
+
+Statistical Analysis
+Student's t test was performed in all quantifications of Rac activation, P-MLC, percentage of elongated/mesenchymal-type cells, migration speed, invasive index, percentage of knockdown, and lung extravasation assay. ∗∗ indicates p < 0.01, and ∗ indicates p < 0.05. For the scatter plot in Figure 7C, Mann Whitney U test was used. Error bars indicate +SE.
+
+Acknowledgments
+This work was supported by Cancer Research UK and the European Union. V.S.M. is a Marie Curie Intra-European Fellow, and C.J.M. a Cancer Research UK Gibb Fellow. We thank Demelza Bird for technical help, Annette Self for technical advice, Imanol Arozarena, Richard Marais, Mike Olson, and David Schubert for reagents, and Clare Isacke, Pascal Peschard, and Anna Peyker for helpful comments.
+
+Supplemental Data
+ 
+Document S1. Supplemental Experimental Procedures, Three Tables, and 11 Figures.  
+Help with PDF filesOptions
+ 
+Movie S1. Time-Lapse Video Microscopy with a 10× Magnification Objective of A375M2 Cells Plated on Top of Collagen 48 hr after Mock Transfection.  
+Help with AVI filesOptions
+ 
+Movie S2. Time-Lapse Video Microscopy with a 40× Magnification Objective of A375M2 Cells Plated on Top of Collagen 48 hr after Mock Transfection.  
+Help with AVI filesOptions
+ 
+Movie S3. Time-Lapse Confocal Video Microscopy of A375M2-GFP Membrane-Targeted Cells Embedded in Collagen 48 hr after Mock Transfection.  
+Help with AVI filesOptions
+ 
+Movies S4. Time-Lapse Confocal Video Microscopy of A375M2-GFP Membrane-Targeted Cells Embedded in Collagen 48 hr after Transfection with Rac1 siRNA.  
+
+Compare with Movie S3 control.
+
+Help with AVI filesOptions
+ 
+Movies S5. Time-Lapse Confocal Video Microscopy of A375M2-GFP Membrane-Targeted Cells Embedded in Collagen after Treatment with Rac Inhibitor NSC23766.  
+
+Compare with Movie S3 control.
+
+Help with AVI filesOptions
+ 
+Movie S6. Time-Lapse Video Microscopy with a 10× Magnification Objective of A375M2 Cells Plated on Top of Collagen 48 hr after Mock Transfection, Treated with Y27632.  
+Help with AVI filesOptions
+ 
+Movie S7. Time-Lapse Video Microscopy with a 40× Magnification Objective of A375M2 Cells Plated on Top of Collagen 48 hr after Mock Transfection, Treated with Y27632.  
+Help with AVI filesOptions
+ 
+Movie S8. Time-Lapse Video Microscopy of A375M2 Cells Seeded on Top of a Collagen Matrix 48 hr after Transfection with DOCK3 siRNA and Treated with Y27632.  
+Help with AVI filesOptions
+ 
+Movie S9. Time-Lapse Video Microscopy with a 40× Magnification Objective of A375M2 Cells Seeded on Top of a Collagen Matrix 48 hr after Transfection with Rac1 siRNA.  
+Help with AVI filesOptions
+ 
+Movie S10. Two-Photon Microscopy Images from GFP-MLC A375M2 Subcutaneous Tumor In Vivo.  
+
+In the inner regions of the tumor, cells move between each other mainly in an elongated, mesenchymal-type of movement, whereas fast amoeboid movement into the matrix is observed in the cortical regions. Each clip spans 20 min.
+
+Help with AVI filesOptions
+ 
+Movie S11. Imaging In Vivo of Fast Amoeboid Moving GFP-MLC A375M2 Cells in Green Invading Collagen-Rich Matrix in Red Surrounding Tumor.  
+Help with AVI filesOptions
+ 
+Movie S12. Imaging In Vivo of A375M2 Cells in Green Extending Protrusions with Mesenchymal-type Morphology in the Inner Regions of the Tumor.  
+Help with AVI filesOptions
+References
+Amano et al., 1997
+M. Amano, K. Chihara, K. Kimura, Y. Fukata, N. Nakamura, Y. Matsuura, K. Kaibuchi
+Formation of actin stress fibers and focal adhesions enhanced by Rho-kinase
+Science, 275 (1997), pp. 1308–1311
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (767)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: Critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Clark et al., 2000
+E.A. Clark, T.R. Golub, E.S. Lander, R.O. Hynes
+Genomic analysis of metastasis reveals an essential role for RhoC
+Nature, 406 (2000), pp. 532–535
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1068)
+Cote and Vuori, 2002
+J.F. Cote, K. Vuori
+Identification of an evolutionarily conserved superfamily of DOCK180-related proteins with guanine nucleotide exchange activity
+J. Cell Sci., 115 (2002), pp. 4901–4913
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (230)
+Croft and Olson, 2006
+D.R. Croft, M.F. Olson
+Conditional regulation of a ROCK-estrogen receptor fusion protein
+Methods Enzymol., 406 (2006), pp. 541–553
+
+Article |  PDF (443 K) | View Record in Scopus | Citing articles (11)
+De Wever et al., 2004
+O. De Wever, Q.D. Nguyen, L. Van Hoorde, M. Bracke, E. Bruyneel, C. Gespach, M. Mareel
+Tenascin-C and SF/HGF produced by myofibroblasts in vitro provide convergent pro-invasive signals to human colon cancer cells through RhoA and Rac
+FASEB J., 18 (2004), pp. 1016–1018
+
+View Record in Scopus | Citing articles (169)
+Fidler, 1999
+I.J. Fidler
+Critical determinants of cancer metastasis: Rationale for therapy
+Cancer Chemother. Pharmacol., 43 (Suppl.) (1999), pp. S3–S10
+
+Full Text via CrossRef
+Friedl, 2004
+P. Friedl
+Prespecification and plasticity: Shifting mechanisms of cell migration
+Curr. Opin. Cell Biol., 16 (2004), pp. 14–23
+
+Article |  PDF (305 K) | View Record in Scopus | Citing articles (318)
+Gao et al., 2004
+Y. Gao, J.B. Dickerson, F. Guo, J. Zheng, Y. Zheng
+Rational design and characterization of a Rac GTPase-specific small molecule inhibitor
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 7618–7623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (524)
+Higgs and Pollard, 2001
+H.N. Higgs, T.D. Pollard
+Regulation of actin filament network formation through ARP2/3 complex: Activation by a diverse array of proteins
+Annu. Rev. Biochem., 70 (2001), pp. 649–676
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (453)
+Kashiwa et al., 2000
+A. Kashiwa, H. Yoshida, S. Lee, T. Paladino, Y. Liu, Q. Chen, R. Dargusch, D. Schubert, H. Kimura
+Isolation and characterization of novel presenilin binding protein
+J. Neurochem., 75 (2000), pp. 109–116
+
+View Record in Scopus | Citing articles (38)
+Kim et al., 2006
+M. Kim, J.D. Gans, C. Nogueira, A. Wang, J.H. Paik, B. Feng, C. Brennan, W.C. Hahn, C. Cordon-Cardo, S.N. Wagner et al.
+Comparative oncogenomics identifies NEDD9 as a melanoma metastasis gene
+Cell, 125 (2006), pp. 1269–1281
+
+Article |  PDF (1078 K) | View Record in Scopus | Citing articles (219)
+Kimura et al., 1996
+K. Kimura, M. Ito, M. Amano, K. Chihara, Y. Fukata, M. Nakafuku, B. Yamamori, J. Feng, T. Nakano, K. Okawa et al.
+Regulation of myosin phosphatase by Rho and Rho-associated kinase (Rho-kinase)
+Science, 273 (1996), pp. 245–248
+
+View Record in Scopus | Citing articles (1870)
+Kiyokawa et al., 1998
+E. Kiyokawa, Y. Hashimoto, S. Kobayashi, H. Sugimura, T. Kurata, M. Matsuda
+Activation of Rac1 by a Crk SH3-binding protein, DOCK180
+Genes Dev., 12 (1998), pp. 3331–3336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (328)
+Leng et al., 2005
+Y. Leng, J. Zhang, K. Badour, E. Arpaia, S. Freeman, P. Cheung, M. Siu, K. Siminovitch
+Abelson-interactor-1 promotes WAVE2 membrane translocation and Abelson-mediated tyrosine phosphorylation required for WAVE2 activation
+Proc. Natl. Acad. Sci. USA, 102 (2005), pp. 1098–1103
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+Namekata et al., 2002
+K. Namekata, N. Nishimura, H. Kimura
+Presenilin-binding protein forms aggresomes in monkey kidney COS-7 cells
+J. Neurochem., 82 (2002), pp. 819–827
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Namekata et al., 2004
+K. Namekata, Y. Enokido, K. Iwasawa, H. Kimura
+MOCA induces membrane spreading by activating Rac1
+J. Biol. Chem., 279 (2004), pp. 14331–14337
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Neudauer and McCarthy, 2003
+C.L. Neudauer, J.B. McCarthy
+Insulin-like growth factor I-stimulated melanoma cell migration requires phosphoinositide 3-kinase but not extracellular-regulated kinase activation
+Exp. Cell Res., 286 (2003), pp. 128–137
+
+Article |  PDF (291 K) | View Record in Scopus | Citing articles (25)
+O'Neill et al., 2000
+G.M. O'Neill, S.J. Fashena, E.A. Golemis
+Integrin signalling: A new Cas(t) of characters enters the stage
+Trends Cell Biol., 10 (2000), pp. 111–119
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (232)
+Ohta et al., 2006
+Y. Ohta, J.H. Hartwig, T.P. Stossel
+FilGAP, a Rho- and ROCK-regulated GAP for Rac binds filamin A to control actin remodelling
+Nat. Cell Biol., 8 (2006), pp. 803–814
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Palamidessi et al., 2008
+A. Palamidessi, E. Frittoli, M. Garre, M. Faretta, M. Mione, I. Testa, A. Diaspro, L. Lanzetti, G. Scita, P.P. Di Fiore
+Endocytic trafficking of Rac is required for the spatial restriction of signaling in cell migration
+Cell, 134 (2008), pp. 135–147
+
+Article |  PDF (2092 K) | View Record in Scopus | Citing articles (193)
+Pinner and Sahai, 2008
+S. Pinner, E. Sahai
+PDK1 regulates cancer cell motility by antagonising inhibition of ROCK1 by RhoE
+Nat. Cell Biol., 10 (2008), pp. 127–137
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (110)
+Ridley, 2001
+A.J. Ridley
+Rho GTPases and cell migration
+J. Cell Sci., 114 (2001), pp. 2713–2722
+
+View Record in Scopus | Citing articles (665)
+Ridley et al., 1992
+A.J. Ridley, H.F. Paterson, C.L. Johnston, D. Diekmann, A. Hall
+The small GTP-binding protein rac regulates growth factor-induced membrane ruffling
+Cell, 70 (1992), pp. 401–410
+
+Article |  PDF (10064 K) | View Record in Scopus | Citing articles (2383)
+Rosai, 2004
+M. Rosai
+Rosai and Ackerman's Surgical Pathology
+Mosby, Edinburgh (2004) pp. 166–167
+
+Sahai et al., 2007
+E. Sahai, R. Garcia-Medina, J. Pouyssegur, E. Vial
+Smurf1 regulates tumor cell plasticity and motility through degradation of RhoA leading to localized inhibition of contractility
+J. Cell Biol., 176 (2007), pp. 35–42
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+Sahai and Marshall, 2002
+E. Sahai, C.J. Marshall
+RHO-GTPases and cancer
+Nat. Rev. Cancer, 2 (2002), pp. 133–142
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (832)
+Sahai and Marshall, 2003
+E. Sahai, C.J. Marshall
+Differing modes of tumour cell invasion have distinct requirements for Rho/ROCK signalling and extracellular proteolysis
+Nat. Cell Biol., 5 (2003), pp. 711–719
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (534)
+Sanz-Moreno et al., 2003
+V. Sanz-Moreno, B. Casar, P. Crespo
+p38alpha isoform Mxi2 binds to extracellular signal-regulated kinase 1 and 2 mitogen-activated protein kinase and regulates its nuclear activity by sustaining its phosphorylation levels
+Mol. Cell. Biol., 23 (2003), pp. 3079–3090
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (30)
+Soderling et al., 2002
+S.H. Soderling, K.L. Binns, G.A. Wayman, S.M. Davee, S.H. Ong, T. Pawson, J.D. Scott
+The WRP component of the WAVE-1 complex attenuates Rac-mediated signalling
+Nat. Cell Biol., 4 (2002), pp. 970–975
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (110)
+Tsuji et al., 2006
+K. Tsuji, K. Yamauchi, M. Yang, P. Jiang, M. Bouvet, H. Endo, Y. Kanai, K. Yamashita, A. Moossa, R. Hoffman
+Dual-color imaging of nuclear-cytoplasmic dynamics, viability, and proliferation of cancer cells in the portal vein area
+Cancer Res., 66 (2006), pp. 303–306
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Wang et al., 2002
+W. Wang, J.B. Wyckoff, V.C. Frohlich, Y. Oleynikov, S. Huttelmaier, J. Zavadil, L. Cermak, E.P. Bottinger, R.H. Singer, J.G. White et al.
+Single cell behavior in metastatic primary mammary tumors correlated with gene expression patterns revealed by molecular profiling
+Cancer Res., 62 (2002), pp. 6278–6288
+
+View Record in Scopus | Citing articles (242)
+Weiner et al., 2006
+O.D. Weiner, M.C. Rentel, A. Ott, G.E. Brown, M. Jedrychowski, M.B. Yaffe, S.P. Gygi, L.C. Cantley, H.R. Bourne, M.W. Kirschner
+Hem-1 complexes are essential for Rac activation, actin polymerization, and myosin regulation during neutrophil chemotaxis
+PLoS Biol., 4 (2006), p. e38
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (37)
+Welch, 1999
+M.D. Welch
+The world according to Arp: Regulation of actin nucleation by the Arp2/3 complex
+Trends Cell Biol., 9 (1999), pp. 423–427
+
+Article |  PDF (229 K) | View Record in Scopus | Citing articles (117)
+Wilkinson et al., 2005
+S. Wilkinson, H.F. Paterson, C.J. Marshall
+Cdc42-MRCK and Rho-ROCK signalling cooperate in myosin phosphorylation and cell invasion
+Nat. Cell Biol., 7 (2005), pp. 255–261
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (157)
+Wolf et al., 2003
+K. Wolf, I. Mazo, H. Leung, K. Engelke, U.H. von Andrian, E.I. Deryugina, A.Y. Strongin, E.B. Brocker, P. Friedl
+Compensation mechanism in tumor cell migration: Mesenchymal-amoeboid transition after blocking of pericellular proteolysis
+J. Cell Biol., 160 (2003), pp. 267–277
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (654)
+Wolf et al., 2007
+K. Wolf, Y.I. Wu, Y. Liu, J. Geiger, E. Tam, C. Overall, M.S. Stack, P. Friedl
+Multi-step pericellular proteolysis controls the transition from individual to collective cancer cell invasion
+Nat. Cell Biol., 9 (2007), pp. 893–904
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (361)
+Wyckoff et al., 2006
+J.B. Wyckoff, S.E. Pinner, S. Gschmeissner, J.S. Condeelis, E. Sahai
+ROCK- and myosin-dependent matrix deformation enables protease-independent tumor-cell invasion in vivo
+Curr. Biol., 16 (2006), pp. 1515–1523
+
+Article |  PDF (735 K) | View Record in Scopus | Citing articles (188)
+Corresponding author contact information
+Corresponding author
+Copyright © 2008 Elsevier Inc. All rights reserved.

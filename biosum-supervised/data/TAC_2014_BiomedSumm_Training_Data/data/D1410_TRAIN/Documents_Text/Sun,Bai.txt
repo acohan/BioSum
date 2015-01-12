@@ -1,0 +1,329 @@
+miR-126 inhibits non-small cell lung cancer cells proliferation by targeting EGFL7
+Yanqin Suna, 1, Yifeng Baia, 1, Fan Zhanga, Yu Wanga, Ying Guob, Corresponding author contact information, E-mail the corresponding author, Linlang Guoa, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2009.12.098
+Get rights and content
+Abstract
+MicroRNAs (miRNAs) represent an abundant group of small non-coding RNAs that regulate gene expression, and have been demonstrated to play roles as tumor suppressor genes (oncogenes), and affect homeostatic processes such as development, cell proliferation, and cell death. Subsequently, epidermal growth factor-like domain 7 (EGFL7), which is confirmed to be involved in cellular responses such as cell migration and blood vessel formation, is identified as a potential miR-126 target by bioinformatics. However, there is still no evidence showing EGFL7’s relationship with miR-126 and the proliferation of lung cancer cells. The aim of this work is to investigate whether miR-126, together with EGFL7, have an effect on non-small cell lung cancer (NSCLC) cells’ proliferation. Therefore, we constructed overexpressed miR-126 plasmid to target EGFL7 and transfected them into NSCLC cell line A549 cells. Then, we used methods like quantitative RT-PCR, Western blot, flow cytometry assay, and immunohistochemistry staining to confirm our findings. The result was that overexpression of miR-126 in A549 cells could increase EGFL7 expression. Furthermore, the most notable finding by cell proliferation related assays is that miR-126 can inhibit A549 cells proliferation in vitro and inhibit tumor growth in vivo by targeting EGFL7. As a result, our study demonstrates that miR-126 can inhibit proliferation of non-small cell lung cancer cells through one of its targets, EGFL7.
+
+Keywords
+MicroRNAs (miRNAs); EGFL7; NSCLC; Proliferation
+Abbreviations
+NSCLC, non-small cell lung cancer; EGFL7, epidermal growth factor-like domain 7; ATCC, American Type Culture Collection; Quantitative RT-PCR, fluorescent real-time quantification by stemloop reverse transcriptase polymerase chain reaction; PTGS, post-transcriptional gene silencing; A549/mock cells, A549 cells transfected with pLEGFP-N1-mock plasmid; A549/miR-126 cells, A549 cells transfected with pLEGFP-N1-miR-126 plasmid
+Introduction
+miRNAs are a class of small non-coding RNAs of 18–24 nucleotides, which were first described in Caenorhabditis elegans more than 15 years ago as part of a cascade that leads to post-transcriptional gene silencing (PTGS) [1]. Today, miRNAs have been identified in mammals, including humans, as well as in fish, frogs, insects, worms, flowers, and viruses. In these organisms, they act post-transcriptionally to reduce the levels of multiple target transcripts and their encoded proteins [2] and [3]. miRNAs regulate important cellular functions such as cell proliferation, apoptosis, differentiation, the timing of developmental transitions, and organ development [4]. An accumulating body of evidence points to the important roles exerted by specific miRNAs in cancer development and progression, as well as in other common diseases [3]. Studies have shown that aberrant expression of miRNAs is involved in the initiation and progression of cancer [5], and several miRNAs have been characterized as tumor suppressors or oncogenes. For example, miR-126, miR-335, miR-125b-1, miR-143, miR-145, miR-15a, and miR-16-1 are all identified as tumor suppressors for their respective cancers [6], [7], [8] and [9]. Recently, miR-126 was identified as a metastasis suppressing miRNA that is downregulated in relapsing breast cancer, leukemia, and cervical cancer [6], [10] and [12].
+
+It is currently well-established that miRNAs play essential roles in biological processes through imperfect pairing with target messenger RNAs (mRNAs) of protein-coding genes and the transcriptional or post-transcriptional regulation of their expression [13], [14] and [15]. A range of algorithms including TargetScan, miRBase, and PicTar have been developed to predict the genes targeted by specific miRNAs. These algorithms suggest that conserved human miRNAs target at least 30% of all human genes and that each miRNA potentially targets hundreds to thousands of mRNAs [16], [17] and [18]. With this knowledge, it becomes possible to obtain lists of the potential target mRNAs for each miRNA. However, only a small number of predicted target genes regulated by miRNAs have been experimentally verified. For example, Tzur et al. [19] facilitated the identification of TGFbeta-R1 as a novel target gene of let-7; Zhang et al. [20] showed that miR-126 targeted the oncogene IRS-1 (insulin receptor substrate-1) in breast cancer cells. In addition, miR-126 targets HOXA9, the overexpression of which correlates with poor prognosis in acute myelogenous leukemia. These studies showed that miR-126 not only plays a critical role in tumorigenesis, but is also important in tumor progression and metastasis [21]. However, the molecular details of miR-126’s involvement in lung cancer development remain unclear.
+
+EGFL7, an epidermal growth factor-domain gene, was identified recently by a number of scientific research groups as a putative secreted factor produced by vascular endothelial cells (ECs). As a putative secreted factor produced by vascular endothelial cells, it plays a specific role in regulating vascular tubulogenesis, and is highly expressed in both endothelial cells and highly vascularized tissues, and it controls an important step in vasculogenesis [22] and [23]. EGFL7 is identified as a potential miR-126 target by bioinformatics, and miR-126 is located within intron 6 and 7 of EGFL7. Several studies have shown that EGFL7 protein is involved in vasculogenesis and up-regulated in many proliferative adult tissues, including tumors [23] and [24]. Saito et al. [21] examined expression levels and epigenetic changes of miR-126 and EGFL7 in human cancer cells and results showed that miR-126 is downregulated in cancer cells but is up-regulated together with its host gene, EGFL7, by epigenetic treatment. All of these results suggest that epigenetic changes can control the expression of tumor suppressor intronic miR-126 by directly controlling the host gene, EGFL7.
+
+Interestingly, by using reporter constructs, we show that the 3′-UTR of EGFL7 carries the direct binding site of miR-126, and is downregulated in lung cancer cell lines compared to normal lung tissues. In this study, we demonstrate that miR-126 is downregulated in NSCLC A549 cell lines. Moreover, bioinformatics predictions and experimental results both indicate that miR-126 can target EGFL7 and inhibit cell proliferation of lung cancer cells. Therefore, we postulate that the inhibition of NSCLC cells’ proliferation by miR-126 might in part be mediated through regulating EGFL7 expression.
+
+Materials and methods
+Cell culture. Human NSCLC cell lines A549 were purchased from American Type Culture Collection (ATCC) and cultured according to the guidelines recommended by ATCC in RPMI-1640 containing 10% fetal bovine serum, at 37 °C with 5% volume per volume CO2.
+
+Construction of miR-126 overexpression plasmid. miRNA target prediction of the miRNAs was performed by using TargetScan (http://genes.mit.edu/targetscan) [26], miRanda (www.microrna.org) [27], and PICTAR (http://pictar.bio.nyu.edu) software [16]. According to EGFL7 gene sequence (NP_057299), we designed the pLEGFP-N1-miR-126 recombined plasmid to directly aim at the secreted form of EGFL7 with the online RNAi design software from the Invitrogen company, and made homologization analysis on the target sequences by BLAST to remove non-specific microRNA. The sequence of mature miR-126 (5′-CAUUAUUACUUUUGGUACGCG-3′) and the control sequence were provided by Genechem.
+
+Transfection of miR-126 overexpression plasmid. A549 cells were transfected with pLEGFP-N1-miR-126 recombined plasmid and pLEGFP-N1 plasmid via lipofectamine 2000 (Invitrogen). Cells were sorted at 24 h after transfection by GFP expression on a FACSAria cell sorter machine, which produced a population which was 80% GFP-positive. At 48 h, cells were exposed to G418 (400 μg/ml, Sigma–Aldrich, St. Louis, MO) selection for 1 month. G418 resistant cells were ring-cloned and expanded to establish stable A549/miR-126 and A549/mock transfectants.
+
+Flow cytometry assay. We performed this experiment as previously described in Song et al.’s work [28].
+
+Quantitative RT-PCR.   We used quantitative RT-PCR to examine changes in levels of different EGFL7 mRNA from intervals of 24, 36, and 48 h after transfection, respectively. Our observations were made in an ABI Prizm 7300 Sequence Detection System using SYBR Green (Applied Biosystems, Foster City, CA) following the manufacturer’s instructions. Primers for quantitative RT-PCR were designed based on sequences from the GenBank as follows: forward primer, 5-GCCAGTCAGATGTGGATGAA-3; reverse primer, 5-CCCAACACTGGCACCAGTAA-3. The GAPDH gene was used as an internal control with primers as follows: forward primer, 5-AGCCTCAAGATCATCAGC-3; reverse primer, 5-GAGTCCTTCCACGATACC-3. The relative mRNA expression level of EGFL7 in each sample was calculated using the comparative expression level 2-ΔΔCT
+ method.
+
+Western blotting analysis. Thirty micrograms of protein extract were separated in a 15% SDS–polyacrylamide gel and electrophoretically transferred onto a PDVF membrane (Millipore, Etten-Leur, Netherlands). Membranes were blocked overnight with 5% non-fat dried milk and incubated for 2 h with an anti-EGFL7 antibody (Aviva, China) or anti-β-actin antibody (Sigma). After washing with TBST (10 mM Tris, pH 8.0, 150 mM NaCl, and 0.1% Tween 20), the membranes were incubated for 1 h with horseradish peroxidase-linked goat-anti-rabbit antibody (KPL, Maryland, USA). The membranes were washed again with TBST, and the proteins were visualized using ECL chemiluminescence. After cell transfection, protein samples were extracted at three different points (24, 36, and 48 h), respectively.
+
+Cell proliferation assays. For the plate clone forming experiment, we mixed 200 cells, respectively, in culture medium, seeded the three kinds of cells in six-well plates and each with two duplicate wells. Afterward, the cells were incubated for 3 weeks at 37 °C in air with 5% CO2. Two weeks later, we washed the wells with PBS, fixed them with methanol for 10 min, stained them with 0.4% hexamethylpararosaniline liquid for 10 min at room temperature, washed them with tap water for several times in order to get a clean background, and then the number of colonies were counted and statistically analyzed.
+
+For the soft agar clone forming experiment, we mixed 200 cells in culture medium with a twice-higher volume of 0.3% top agar and seeded them in six-well plates onto a base layer of complete medium containing 0.5% agar in the presence of medium from A549 cells, A549/mock cells, or A549/miR-126 cells. The cells were incubated at 37 °C in air with 5% CO2. After 2–3 weeks, the number of colonies were counted and statistically analyzed.
+
+For cell number count, cell suspensions of A549 cells, A549/mock cells, or A549/miR-126 cells (5000 cells per well) were seeded onto six-well plates in triplicate and incubated for 1 week. Cells were re-suspended and counted under the microscope every day.
+
+For cell cycle analysis, to determine the effects of overexpressed miR-126 plasmids on the A549 cell cycle, 5 × 105 A549/mock cells and A549/miR-126 cells were harvested and fixed in 70% ethanol, and the cells were treated with 50 μg/ml RNase in PBS for 5 min at room temperature. Next, 50 μg/ml PI was added for 10 min at 37 °C followed by flow cytometry analysis.
+
+In vivo tumor xenograft model. Female BALB/c nude mice aged 6–8 weeks were purchased from the Laboratory Animal Centre of Zhongshan University (Guangzhou). All procedures were performed according to the internationally accepted ethical guidelines. Cells were harvested, washed with PBS, and re-suspended in normal culture medium at a concentration of 1 × 107 cells/0.2 ml. More than thirty subculturing situs of 15 mice were divided into three groups for A549 cells, A549/mock cells, and A549/miR-126 cells, respectively. Each subculturing situs was injected with viable 1 × 107 cells/0.2 ml in the back leg to establish the cancer model, respectively. One month after injection, all the mice were euthanized. The tumors were excised and weighed. The inhibitory effect of miR-126 on tumors in nude mice was calculated using the following equation: inhibitory efficiency = [1 − tumor weight (experimental group)/tumor weight (control group)] × 100%.
+
+Immunohistochemistry staining. Immunohistochemistry was carried out according to the instructions for immunohistochemistry staining for VECTASTAIN elite ABC KIT (VECTOR Lab, USA). Three 4 μm replicate frozen sections were taken from the nude mice tumor samples; three groups (tumors from normal control cell, A549/mock cells and A549/miR-126 cells) were included. Scoring was determined by a board-certified pathologist.
+
+Statistical analysis. The data are presented as means ± standard deviation. Data of related assay were assessed by one-way ANOVA. SPSS 11.0 software (SPSS Inc., Chicago, IL) were used for all statistical analyses, with P < 0.05 considered statistically significant.
+
+Results
+Establishment of stable transfectants
+PLEGFP-N1-miR-126 and mock plasmids were transfected into A549 cells. At 48 h after transfection, fluorescent microscopy showed emission green fluorescence (Fig. 1C and D). After 1 month of G418 selection, neomycin resistant cells were established. Additionally, the shape of A549 cells transformed from polygon to fusiform (Fig. 1A and B).
+
+Full-size image (83 K)
+Fig. 1. 
+Stable transfectants establishment. (A) A549 cells(from ATCC), (B) A549 stable transfectants, (C) A549/mock cells, (D) A549/miR-126 cells. (A,B) Light microscopy, 400×. (C,D) Fluorescent microscopy, 400×.
+Figure options
+miR-126 overexpression increases EGFL7 production in human NSCLC cells
+Using flow cytometry assay, quantitative RT-PCR and Western blot, we confirmed the increased expression of EGFL7 at both the protein level and the mRNA level in A549/miR-126 cells when compared with the control groups of A549 cells and A549/mock cells. The results show a significant discrepancy between A549/miR-126 cells and both of the other two control groups (Fig. 2a–c).
+
+Full-size image (79 K)
+Fig. 2. 
+The expression of EGFL7 in stable transfectants via flow cytometry assay, quantitative RT-PCR, Western blot. (a) Flow cytometric histograms for expression of EGFL7 among the three lung cancer cell lines: A549, A549/MOCK, and A549/miR-126 cells, respectively. White peaks represent fluorescence of FITC-conjugated secondary antibody (2° Ab). Red peaks represent fluorescence of EGFL7. (b) The expression of EGFL7 by quantitative RT-PCR. (A) The overexpression of miR-126 in cells after transfection at three different periods (24, 36, and 48 h, respectively, after transient transfection); (B) the expression of EGFL7 at 3 different periods. (c) The expression of EGFL7 by Western blot at the three different periods. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this paper.)
+Figure options
+miR-126 overexpression inhibits the proliferation of human NSCLC cells in vitro
+To further investigate the biological role of miR-126 in A549 cells, the effect on cell growth was assessed by plate clone forming experiment, soft agar colony forming experiment, and cell number count, respectively (Fig. 3a–c). Comparing with the data from A549 cells, the two transfectants indicated a significant decrease of cell proliferation. Additionally, cell number count assay confirmed the results of both of the clone forming experiments (P < 0.01, Fig. 3b(C)).
+
+Full-size image (95 K)
+Fig. 3. 
+Overexpression of miR-126 inhibits the clonogenic growth of A549 cells. (a) Plate clone forming experiment of stable transfectants. (A) A549 cells, (B) A549/mock cells, and (C) A549/miR-126 cells. (b) (A) plate clone forming efficiency, (B) soft agar clone forming efficiency, (C) growth curves of A549 cells and stable transfectants. (c) Soft agar colony forming experiment of stable transfectants. (A) A549 cells, (B) A549/mock cells, and (C) A549/miR-126 cells. (d) Cell cycle alteration before and after transfection with plasmids. (A) A549 cell, (B) A549/mock cell, and (C) A549/miR-126 cell.
+Figure options
+miR-126 regulates cell-cycle progression
+For cell cycle analysis, the results show a significant decrease of growth fraction and indicated that cell proliferation was inhibited after transfection with overexpressed miR-126 plasmid. In addition, we found that cells transfected with overexpressed miR-126 plasmid accumulate in G1. This finding suggests that miR-126 regulates cell-cycle progression mostly by blocking or delaying the G1/S transition (Fig. 3d).
+
+miR-126 overexpression inhibits the proliferation of human NSCLC cells in vivo
+To further determine how miR-126 influences proliferation of human NSCLC cells in vivo together with tumorigenesis of stable transfectants, we established an in vivo tumor xenograft model. In this model, 15 nude mice were injected with the three types of cells, respectively, in subculturing situs of leg. The results show a significant discrepancy between the tumors formed by the A549/miR-126 cells, and the tumors formed by both of the other two groups of cells (P < 0.05, Fig. 4a and b).
+
+Full-size image (158 K)
+Fig. 4. 
+Overexpression of miR-126 inhibits the NSCLC tumor initiation in nude mice. (a) In vivo tumor xenograft model. (A) tumor from A549 cells, (B) tumor from A549/mock cells, and (C) tumor from A549/miR-126 cells. (b) Figures of the tumors show the volume and weight of tumors of different groups. The tumor size was measured using a caliper, tumor volume was calculated using the formula: (length × width2)/2, P < 0.01, two-way ANOVA, n = 15. (c) EGFL7 expression by immunohistochemistry staining among lung xenograft tumors, 400×. Brown chromogen represents positive staining. (A) tumor samples from A549 cells: −; (B) tumor samples from A549/mock cells: −; (C) tumor samples from A549/miR-126 cells: ++. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this paper.)
+Figure options
+Expression of EGFL7 in lung cancer tissues from xenograft tumors
+We examined the expression of EGFL7 by immunohistochemistry staining. The results show a higher expression of EGFL7 in lung tumor samples from A549 cells and A549/mock cells than from A549/miR-126 cells (Fig. 4c).
+
+Discussion
+The biological roles of only a small fraction of identified miRNAs have been elucidated to date. These miRNAs regulate cancer-related processes such as cell growth and tissue differentiation, and therefore might themselves function as oncomirs. For example, the miRNAs that are encoded by lin-4 and let-7 control the timing of cell differentiation and proliferation in C. elegans. Mutations in these C. elegans miRNA genes lead to abnormalities in cell-cycle exit and terminal differentiation, which are characteristics that are found in cancer cells [5]. Interestingly, the mammalian homologs of lin-4 and let-7 have been shown to control cell proliferation in human cell lines [29] and [30] and are also associated with various cancers [7], [30], [31], [32] and [33]. A recent study demonstrated that more than 50% of miRNA genes are located in fragile sites, and cancer-associated genomic regions, suggesting that miRNAs may play a more important role in the pathogenesis of human cancers [5]. Recent studies suggest that miRNA expression profiling can be correlated with disease pathogenesis and prognosis, and may ultimately be useful in the management of human cancer [36].
+
+Our studies found that, by transfecting the overexpressed miR-126 plasmid that targets EGFL7, expression of EGFL7 increased notably in vitro and in vivo. Afterward, miR-126 induced cell arrest in A549 stable transfectants. Most significantly, miR-126 restoration led to reduction of A549 initiating cell differentiation, accompanied by significant inhibition of tumor cells proliferation in vitro and tumor formation in vivo. Moreover, a recent study demonstrated the similar effects of EGFL7 in hepatocellular carcinoma [38].
+
+Studies have revealed that a single miRNA might bind to as many as 200 gene targets and that these targets can be diverse in their function. These functions include transcription factors, secreted factors, receptors, and transporters [5]. As identified in studies, the target genes of miR-126 are listed as follows: HOXA9, IRS-1, PI3K, p85beta, Crk, p85beta, etc. [11], [20], [34] and [37]. However, through bioinformation analysis, we found EGFL7 is also one of target genes of miR-126. Moreover, we have found that the overexpression of miR-126 targeting EGFL7 may cause apparent proliferation of NSCLC cells, which suggests that miR-126 may have a direct or indirect relationship with EGFL7. Therefore, the lack of association between expression of miR-126 and EGFL7 suggests their regulation is due to independent stimuli, this is despite the lack of correlation found in the findings of Díaz [35] between miR-126 expression and its host gene levels, EGFL7. That is to say, miR-126 may downregulate a negative modulator of EGFL7. This suggests that there may be miRNAs other than miR-126 that also participate in the development of lung cancer.
+
+Our results demonstrate that miR-126 can inhibit the proliferation of NSCLC A549 cells through positively regulating one of its targets, EGFL7, which is highly expressed in lung cancer and is important for angiogenesis. Based on the culmination of our findings, we propose that miR-126 regulates NSCLC cells proliferation partly by targeting EGFL7, and that the loss of miR-126 may provide a selective growth advantage during lung carcinogenesis.
+
+Recent work reported by Schmidt et al. [25] has shown that expression of EGFL7 decreases Notch-specific signaling of neural stem cells (NSCs) in vitro and consequently reduced proliferation and self-renewal of NSCs in the brain. Whether there is a similar negative interaction between EGFL7 and Notch systems in the lung cancer and other cancers is still unclear. Our further study might provide some useful information on this field.
+
+Acknowledgment
+This work was supported by a grant from the Natural Science Foundation of Guangdong (7005199).
+
+References
+[1]
+R.C. Lee, R.L. Feinbaum, V. Ambros
+The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarily to lin-14
+Cell, 5 (1993), pp. 843–854
+
+Article |  PDF (2574 K) | View Record in Scopus | Citing articles (3966)
+[2]
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (9851)
+[3]
+Georgia Sotiropoulou, Georgios Pampalakis, Evi Lianidou, Zissimos Mourelatos
+Emerging roles of microRNAs as molecular switches in the integrated circuit of the cancer cell
+RNA, 15 (2009), pp. 1443–1461
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+[4]
+I. Alvarez-Garcia, E.A. Miska
+MicroRNA functions in animal development and human disease
+Development, 132 (2005), pp. 4653–4662
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (470)
+[5]
+A. Esquela-Kerscher, F.J. Slack
+Oncomirs-microRNAs with a role in cancer
+Nat. Rev., 6 (2006), pp. 259–269
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2637)
+[6]
+S.F. Tavazoie, C. Alarcón, T. Oskarsson, D. Padua, Q. Wang, P.D. Bos, W.L. Gerald, J. Massagué
+Endogenous human microRNAs that suppress breast cancer metastasis
+Nature, 451 (2008), pp. 145–152
+
+[7]
+T. Sonoki, E. Iwanaga, H. Mitsuya, N. Asou
+Insertion of microRNA-125b-1, a human homologue of lin-4, into a rearranged immunoglobulin heavy chain gene locus in a patient with precursor B-cell acute lymphoblastic leukemia
+Leukemia, 19 (2005), pp. 2009–2010
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+[8]
+M.Z. Michael, S.M. O’Connor, N.G. van Holst Pellekaan, G.P. Young, R.J. James
+Reduced accumulation of specific microRNAs in colorectal neoplasia
+Mol. Cancer Res., 1 (2003), pp. 882–891
+
+View Record in Scopus | Citing articles (900)
+[9]
+G.A. Calin, C.D. Dumitru, M. Shimizu, R. Bichi, S. Zupo, E. Noch, H. Aldler, S. Rattan, M. Keating, K. Rai, L. Rassenti, T. Kipps, M. Negrini, F. Bullrich, C.M. Croce
+Frequent deletions and downregulation of micro-RNA genes miR15 and miR16 at 13q14 in chronic lymphocytic leukemia
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 15524–15529
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2071)
+[10]
+Z. Li, J. Lu, M. Sun, S. Mi, H. Zhang, R.T. Luo, P. Chen, Y. Wang, M. Yan, Z. Qian, M.B. Neilly, J. Jin, Y. Zhang, S.K. Bohlander, D.E. Zhang, R.A. Larson, M.M. Le Beau, M.J. Thirman, T.R. Golub, J.D. Rowley, J. Chen
+Distinct microRNA expression profiles in acute myeloid leukemia with common translocations
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 15535–15540
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (186)
+[11]
+W.F. Shen, Y.L. Hu, L. Uttarwar, E. Passegue, C. Largman
+MicroRNA-126 regulates HOXA9 by binding to the homeobox
+Mol. Cell. Biol., 28 (2008), pp. 4609–4619
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+[12]
+X. Wang, S. Tang, S.Y. Le, R. Lu, J.S. Rader, C. Meyers, Z.M. Zheng
+Aberrant expression of oncogenic and tumor-suppressive microRNAs in cervical cancer is required for cancer cell growth
+PLoS ONE, 3 (2008), pp. 2557–2567
+
+[13]
+D.P. Bartel, C.Z. Chen
+Micromanagers of gene expression: the potentially widespread influence of metazoan microRNAs
+Nat. Rev. Genet., 5 (2004), pp. 396–400
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (629)
+[14]
+N. Rajewsky
+MicroRNA target predictions in animals
+Nat. Genet. (Suppl.) (2006), pp. S8–S13
+
+Full Text via CrossRef
+[15]
+L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel, P.S. Linsley, J.M. Johnson
+Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs
+Nature, 433 (2005), pp. 769–773
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2275)
+[16]
+A. Krek, D. Grün, M.N. Poy, R. Wolf, L. Rosenberg, E.J. Epstein, P. MacMenamin, I. da Piedade, K.C. Gunsalus, M. Stoffel, N. Rajewsky
+Combinatorial microRNA target predictions
+Nat. Genet., 37 (2005), pp. 495–500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2059)
+[17]
+B.P. Lewis, C.B. Burge, D.P. Bartel
+Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets
+Cell, 120 (2005), pp. 15–20
+
+Article |  PDF (304 K) | View Record in Scopus | Citing articles (4437)
+[18]
+X. Xie, J. Lu, E.J. Kulbokas, T.R. Golub, V. Mootha, K. Lindblad-Toh, E.S. Lander, M. Kellis
+Systematic discovery of regulatory motifs in human promoters and 3’ UTRs by comparison of several mammals
+Nature, 434 (2005), pp. 338–345
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1135)
+[19]
+G. Tzur, A. Israel, A. Levy, H. Benjamin, E. Meiri, Y. Shufaro, K. Meir, E. Khvalevsky, Y. Spector, N. Rojansky, Z. Bentwich, B.E. Reubinoff, E. Galun
+Comprehensive gene and microRNA expression profiling reveals a role for microRNAs in human liver development
+PLoS ONE, 4 (2009), p. e7511
+
+Full Text via CrossRef
+[20]
+J. Zhang, Y.Y. Du, Y.F. Lin, Y.T. Chen, L. Yang, H.J. Wang, D. Ma
+The cell growth suppressor, mir-126, targets IRS-1
+Biochem. Biophys. Res. Commun., 377 (2008), pp. 136–140
+
+Article |  PDF (425 K) | View Record in Scopus | Citing articles (91)
+[21]
+Y. Saito, J.M. Friedman, Y. Chihara, G. Egger, J.C. Chuang, G. Liang
+Epigenetic therapy upregulates the tumor suppressor microRNA-126 and its host gene EGFL7 in human cancer cells
+Biochem. Biophys. Res. Commun., 379 (2009), pp. 726–731
+
+Article |  PDF (328 K) | View Record in Scopus | Citing articles (105)
+[22]
+L.H. Parker, M. Schmidt, S.W. Jin, A.M. Gray, D. Beis, T. Pham, G. Frantz, S. Palmieri, K. Hillan, D.Y. Stainier, F.J. De Sauvage, W. Ye
+The endothelial-cell-derived secreted factor Egfl7 regulates vascular tube formation
+Nature, 428 (2004), pp. 754–758
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (164)
+[23]
+M.J. Fitch, L. Campagnolo, F. Kuhnert, H. Stuhlmann
+Egfl7, a novel epidermal growth factor-domain gene expressed in endothelial cells
+Dev. Dyn., 230 (2004), pp. 316–324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+[24]
+L. Campagnolo, A. Leahy, S. Chitnis, S. Koschnick, M.J. Fitch, J.T. Fallon, D. Loskutoff, M.B. Taubman, H. Stuhlmann
+EGFL7 is a chemoattractant for endothelial cells and is up-regulated in angiogenesis and arterial injury
+Am. J. Pathol., 167 (2005), pp. 275–284
+
+Article |  PDF (1683 K) | View Record in Scopus | Citing articles (54)
+[25]
+M.H. Schmidt, F. Bicker, I. Nikolic, J. Meister, T. Babuke, S. Picuric, W. Müller-Esterl, K.H. Plate, I. Dikic
+Epidermal growth factor-like domain 7 (EGFL7) modulates Notch signalling and affects neural stem cell renewal
+Nat. Cell Biol., 11 (2009), pp. 873–880
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+[26]
+B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge
+Prediction of mammalian microRNA targets
+Cell, 115 (2003), pp. 787–798
+
+Article |  PDF (342 K) | View Record in Scopus | Citing articles (2247)
+[27]
+B. John, A.J. Enright, A. Aravin, T. Tuschl, C. Sander, D.S. Marks
+Human microRNA targets
+PLoS Biol., 2 (2004), pp. 1163–1179
+
+[28]
+Y. Song, D.A. Fullerton, D. Mauchley, X. Su, L. Ao, X. Yang, J.C. Cleveland, X. Meng
+Microfilaments facilitate TLR4-mediated ICAM-1 expression in human aortic valve interstitial cells
+J. Surg. Res. (2009), pp. 1–7
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2)
+[29]
+Y.S. Lee, H.K. Kim, S. Chung, K.S. Kim, A. Dutta
+Depletion of human micro-RNA miR-125b reveals that it is critical for the proliferation of differentiated cells but not for the downregulation of putative targets during differentiation
+J. Biol. Chem., 280 (2005), pp. 16635–16641
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (214)
+[30]
+J. Takamizawa, H. Konishi, K. Yanagisawa, S. Tomida, H. Osada, H. Endoh, T. Harano, Y. Yatabe, M. Nagino, Y. Nimura, T. Mitsudomi, T. Takahashi
+Reduced expression of the let-7 microRNAs in human lung cancers in association with shortened postoperative survival
+Cancer Res., 64 (2004), pp. 3753–3756
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1218)
+[31]
+S.M. Johnson, H. Grosshans, J. Shingara, M. Byrom, R. Jarvis, A. Cheng, E. Labourier, K.L. Reinert, D. Brown, F.J. Slack
+RAS is regulated by the let-7 microRNA family
+Cell, 120 (2005), pp. 635–647
+
+Article |  PDF (692 K) | View Record in Scopus | Citing articles (1861)
+[32]
+G.A. Calin, C. Sevignani, C.D. Dumitru, T. Hyslop, E. Noch, S. Yendamuri, M. Shimizu, S. Rattan, F. Bullrich, M. Negrini, C.M. Croce
+Human microRNA genes are frequently located at fragile sites and genomic regions involved in cancers
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 2999–3004
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1851)
+[33]
+M.V. Iorio, M. Ferracin, C.G. Liu, A. Veronese, R. Spizzo, S. Sabbioni, E. Magri, M. Pedriali, M. Fabbri, M. Campiglio, S. Ménard, J.P. Palazzo, A. Rosenberg, P. Musiani, S. Volinia, I. Nenci, G.A. Calin, P. Querzoli, M. Negrini, C.M. Croce
+MicroRNA gene expression deregulation in human breast cancer
+Cancer Res., 65 (2005), pp. 7065–7070
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1770)
+[34]
+M. Crawford, E. Brawner, K. Batte, L. Yu, M.G. Hunter, G.A. Otterson, G. Nuovo, C.B. Marsh, S.P. Nana-Sinkam
+MicroRNA-126 inhibits invasion in non-small cell lung carcinoma cell lines
+Biochem. Biophys. Res. Commun., 373 (2008), pp. 607–612
+
+Article |  PDF (750 K) | View Record in Scopus | Citing articles (145)
+[35]
+R. Díaz, J. Silva, J.M. García, Y. Lorenzo, V. García, C. Peña, R. Rodríguez, C. Muñoz, F. García, F. Bonilla, G. Domínguez
+Deregulated expression of miR-106a predicts survival in human colon cancer patients
+Genes Chromosomes Cancer, 47 (2008), pp. 794–802
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (97)
+[36]
+J. Manikandan, J.J. Aarthi, S.D. Kumar, P.N. Pushparaj
+Oncomirs: the potential role of non-coding microRNAs in understanding cancer
+Bioinformation, 2 (2008), pp. 330–334
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (45)
+[37]
+C. Guo, J.F. Sah, L. Beard, J.K. Willson, S.D. Markowitz, K. Guda
+The noncoding RNA, miR-126, suppresses the growth of neoplastic cells by targeting phosphatidylinositol 3-kinase signaling and is frequently lost in colon cancers
+Genes Chromosomes Cancer, 47 (2008), pp. 939–946
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (154)
+[38]
+F. Wu, L.Y. Yang, Y.F. Li, D.P. Ou, D.P. Chen, C. Fan
+Novel role for epidermal growth factor-like domain 7 in metastasis of human hepatocellular carcinoma
+Hepatology, 50 (2009), pp. 1839–1850
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Corresponding author contact information
+Corresponding authors. Address: Department of Pathology, Zhujiang Hospital, Southern Medical University, 253 Gongye Road, Guangzhou 510282, PR China. Fax: +86 20 84311872.
+1
+These authors contributed equally to this work.
+Copyright © 2009 Elsevier Inc. All rights reserved.

@@ -1,0 +1,482 @@
+Wild-Type H- and N-Ras Promote Mutant K-Ras-Driven Tumorigenesis by Modulating the DNA Damage Response
+Elda Grabocka1, Yuliya Pylayeva-Gupta1, Mathew J.K. Jones2, Veronica Lubkov1, Eyoel Yemanaberhan1, Laura Taylor1, Hao Hsuan Jeng1, Dafna Bar-Sagi1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.ccr.2014.01.005
+Get rights and content
+Referred to by
+Theonie Anastassiadis, Eric J. Brown
+Wild-Type RAS: Keeping Mutant RAS in CHK
+Cancer Cell, Volume 25, Issue 2, 10 February 2014, Pages 137-138
+ PDF (287 K)
+Highlights
+•
+Mutant K-Ras cancer cells require WT-H/N-Ras for G2 DNA damage checkpoint activation
+•
+The activation of ATR/Chk1 in mutant K-Ras cancer cells is dependent on WT-H/N-Ras
+•
+WT-H-Ras suppression leads to regression of K-Ras tumors in response to DNA damage
+Summary
+Mutations in KRAS are prevalent in human cancers and universally predictive of resistance to anticancer therapeutics. Although it is widely accepted that acquisition of an activating mutation endows RAS genes with functional autonomy, recent studies suggest that the wild-type forms of Ras may contribute to mutant Ras-driven tumorigenesis. Here, we show that downregulation of wild-type H-Ras or N-Ras in mutant K-Ras cancer cells leads to hyperactivation of the Erk/p90RSK and PI3K/Akt pathways and, consequently, the phosphorylation of Chk1 at an inhibitory site, Ser 280. The resulting inhibition of ATR/Chk1 signaling abrogates the activation of the G2 DNA damage checkpoint and confers specific sensitization of mutant K-Ras cancer cells to DNA damage chemotherapeutic agents in vitro and in vivo.
+
+Graphical Abstract
+Full-size image (32 K)
+Figure options
+Significance
+This study defines a functional dependence of K-Ras-driven tumors on wild-type H- and N-Ras for the DNA damage response and reveals a promising therapeutic strategy for the treatment of mutant K-Ras tumors. We demonstrate that mutant K-Ras cancer cells require wild-type H-Ras and N-Ras for the activation of the ATR-Chk1-mediated DNA damage checkpoint and that this dependence can be exploited to specifically sensitize K-Ras-driven cancers to DNA damage-inducing agents.
+
+Introduction
+Three closely related RAS oncogenes, HRAS, NRAS, and KRAS, have been identified in mammals. These genes encode small GTPases that function as molecular switches governing the activation of a vast network of signaling pathways. Growth factor signaling activates Ras by recruiting guanine nucleotide exchange factors (GEFs) that catalyze the exchange of guanosine diphosphate (GDP) for guanosine triphosphate (GTP) ( Bos et al., 2007). In turn, Ras activity is terminated through GTP hydrolysis, which is greatly enhanced by GTPase-accelerating proteins (GAPs). Hyperactivation of Ras, which largely occurs through the acquisition of mutations that hinder GTP hydrolysis, has been implicated in the etiology of a wide number of human cancers. Overall, mutations in the RAS genes have been associated with ∼30% of all human tumors. Such mutations are generally limited to one of the RAS genes, with KRAS being the most frequently mutated and with the highest incidence in adenocarcinomas of the pancreas (57%), colon (33%), and lung (17%) ( Pylayeva-Gupta et al., 2011).
+
+The critical role of oncogenic K-Ras as a driving mutation in the pathogenesis of cancer is supported by several genetically engineered mouse models. Accordingly, expression of mutant K-Ras alone is sufficient to drive malignant progression, whereas elimination of mutant K-Ras from established tumors leads to tumor regression (Chin et al., 1999, Fisher et al., 2001, Haigis et al., 2008, Jackson et al., 2001, Li et al., 2011 and Ying et al., 2012). Because of its capacity to constitutively engage downstream effector pathways, oncogenic K-Ras was initially thought to drive the tumorigenic process independently of the wild-type forms. However, it is becoming increasingly evident that the biological outputs of oncogenic K-Ras are subject to a complex and context-dependent modulation by wild-type Ras proteins. Studies in chemically induced models of lung or skin tumorigenesis have demonstrated that the acquisition of an activating mutation in a KRas or HRas allele is associated with loss of the KRas wild-type or HRas wild-type allele, respectively ( Bremner and Balmain, 1990, Hegi et al., 1994 and Zhang et al., 2001). Zhang et al. (2001) further demonstrated that loss of the wild-type KRas allele enhanced mutant K-Ras-driven tumorigenesis. Together, these results suggest a tumor suppressive effect of the wild-type Ras allele. Conversely, a recent study reported that in mutant K-Ras-driven colorectal cancer, wild-type K-Ras plays a tumor promoting role through counteracting mutant K-Ras-induced apoptosis by mediating signaling from mutant K-Ras-dependent autocrine-activated EGFR ( Matallanas et al., 2011).
+
+Mutant K-Ras-driven cancers also retain the wild-type products of the remaining RAS genes, H- and NRAS, which appear to synergize with mutant K-Ras in tumors of various tissues. For example, enhanced levels of GTP-bound H-Ras and N-Ras, due to mutant K-Ras-dependent nitrosylation of wild-type H- and N-Ras, were shown to be required for the proliferation of mutant K-Ras cancer cells ( Lim et al., 2008). A role for wild-type H-Ras and N-Ras proteins in mediating RTK signaling and proliferation of cancer cells that harbor mutant K-Ras has also been demonstrated ( Young et al., 2012). Moreover, Son of Sevenless (Sos), a guanine nucleotide exchange factor (GEF) for Ras and Rho GTPases, has been implicated in mutant Ras-driven tumorigenesis ( Jeng et al., 2012).
+
+In the current study, we sought to determine the mechanisms by which wild-type H-Ras and N-Ras proteins promote the mutant K-Ras-driven tumorigenic phenotype.
+
+Results
+Mutant K-Ras Cancer Cells Require Wild-Type H-Ras for Proliferation and Progression through Mitosis
+To investigate the functional relationship between mutant K-Ras and wild-type (WT) H/N-Ras, we took the approach of specifically suppressing the expression of WT-H-Ras and/or WT-N-Ras, in cancer cells positive or negative for mutant K-Ras. To this end, we initially employed the isogenic colon cancer cells DLD-1 K-RasWT/G12D (DLD1 K-RasMut) and DLD1 K-RasWT/− (DLD1 K-RasKO), where the K-RASG12D allele has been knocked out by homologous recombination ( Luo et al., 2009b and Shirasawa et al., 1993). These cell lines were engineered to harbor doxycycline (Dox)-inducible small hairpin RNAs (shRNAs) directed at H-Ras, N-Ras, or both H- and N-Ras. Accordingly, doxycycline treatment specifically suppressed expression and activity of the targeted isoforms, with no effect on the remaining isoforms ( Figures 1A and 1B; Figure S1A available online). As shown in Figure 1C, individual knockdown of WT-H-Ras or WT-N-Ras in DLD1 K-RasMut cells led to slower growth. Of note, no synergy was observed upon knockdown of both WT-H-Ras and WT-N-Ras, suggesting that the two WT-isoforms converge on the same signaling module that regulates growth of DLD1 K-RasMut cells ( Figure 1C). In contrast, knockdown of either WT-H-Ras or WT-N-Ras, or the two combined, in DLD1 K-RasKO cells, had no effect on cell growth, indicating that the dependence on WT-H- and/or N-Ras for cell growth is a specific property of mutant K-Ras cancer cells ( Figures 1D and S1A).
+
+Full-size image (134 K)
+Figure 1. 
+WT-H-Ras Knockdown Perturbs the Mitotic Progression of K-Ras Mutant Cancer Cells
+(A) Isoform-specific knockdown of WT-H-Ras, WT-N-Ras, or WT-H- and N-Ras combined. DLD1 K-RasMut cells that harbor doxycycline-inducible shRNAs directed at H-Ras (H-Ras sh 1, 2, 3), N-Ras (N-Ras sh 1, 2), H-Ras and N-Ras combined (H-Ras sh 1 and N-Ras sh 1), or scramble shRNA (Scr sh) were treated with doxycycline for 96 hr. Whole-cell lysates (WCL) were immunoblotted for H-Ras, N-Ras, K-Ras, and tubulin (loading control).
+(B) Effect of WT-H-Ras or WT-N-Ras suppression on the GTP-bound status of the remaining Ras isoforms. WCLs were subjected to GST-bound CRAF Ras-binding domain (RBD) pull-downs and immunoblotted with the indicated antibodies.
+(C and D) Effect of suppression of WT-H-Ras, WT-N-Ras, or WT-H- and N-Ras combined on the proliferation of DLD1 K-RasMut cells (C) and DLD1 K-RasKO cells (D). The relative cell density was measured using a Syto60 stain and is expressed in arbitrary units (a.u.).
+(E) Representative FACS histograms showing cell-cycle progression of synchronized control (−Dox) and H-Ras-suppressed (+Dox) DLD1 K-RasMut cells that harbor inducible H-Ras sh 3. Cells were released from a double thymidine block, fixed at the indicated time points, and FACS sorted for DNA content. Arrows indicate the G2/M fraction at relevant time points. Data are representative of at least three independent experiments.
+(F) Detection of mitotic fraction by FACS analysis of phosphorylated histone H3 (P-HH3)-positive cells in double-thymidine-release experiments as in (E).
+(G) Representative images of mitotic aberrations (arrows) seen in WT-H-Ras-depleted DLD1 K-RasMut cells following a double-thymidine-release experiment as in (E). Immunofluorescence images of cells stained for α-tubulin and DNA. Scale bar, 10 μm.
+(H) Scatter plots show the duration of mitosis, as determined by phase-contrast time-lapse microscopy, in asynchronous K-Ras Mut (DLD1 K-RasMut cells and Panc-1) and K-Ras WT (DLD1 K-RasKO and BxPC-3) cancer cells expressing scramble or H-Ras shRNAs. ∗∗∗∗p < 0.0001 by Student’s t test; NS, no significant difference.
+All experiments: error bars, mean ± SEM, n = 3, ∗p < 0.05, ∗∗p < 0.005, ∗∗∗p < 0.0005. See also Movies S1 and S2 and Figure S1.
+Figure options
+We next investigated whether the attenuated cell growth observed upon WT-H-Ras and/or N-Ras knockdown in DLD1 K-RasMut cells could be the result of a slower progression through the cell cycle. Initially, we examined the cell-cycle progression of WT-H-Ras-suppressed DLD1 K-RasMut cells that were synchronized at the G1/S border by double thymidine treatment. Six hours after release, both WT-H-Ras-suppressed (+Dox) and WT-H-Ras-intact (−Dox) DLD1 K-RasMut cells had completed replication and were predominantly in G2 as determined by the accumulation of cells with 4N DNA content (Figures 1E, 1F, and S1B). However, whereas the majority of WT-H-Ras-intact cells completed mitosis and cell division and reached G1 over the next 4 hr, WT-H-Ras-suppressed cells showed a delayed transition through G2/M, as evident by the persistence of cells with 4N DNA content (Figure 1E, arrows). Fluorescence-activated cell sorting (FACS) analysis of phosphohistone H3-positive cells revealed an increased mitotic index of WT-H-Ras-suppressed cells relative to control (7–11 hr), suggesting that the elevated fraction of 4N DNA content cells associated with WT-H-Ras knockdown was due to a mitotic delay (Figures 1E and 1F). Consistent with this interpretation, WT-H-Ras-suppressed DLD1 K-RasMut cells showed mitotic defects that would preclude the timely satisfaction of the spindle checkpoint, including misaligned and damaged chromosomes (Figure 1G). To quantitatively measure the mitotic delay within individual cells and rule out the possibility that the observed mitotic aberrations were due to the synchronization technique, we analyzed the duration of mitosis in asynchronous cells by time-lapse phase-contrast microscopy. We observed that WT-H-Ras knockdown delayed mitotic progression in DLD1 K-RasMut cells (duration of mitosis was ∼2 times longer compared to control), but not in DLD1 K-RasKO cells (Figures 1H, S1C, and S1D). Similar results were obtained when this analysis was extended to the pancreatic cell line pair Panc-1 (K-Ras mutant) and BxPC-3 (K-Ras WT) (Figure 1H; Movies S1 and S2; Figures S1C and S1D). Taken together, these data indicate that K-Ras mutant cells specifically require WT-H-Ras for the timely progression of mitosis.
+
+Wild-Type H- and N-Ras Knockdown Enhance DNA Damage in Mutant K-Ras Cancer Cells
+In principle, the delay in mitosis and damaged chromosomes, induced by WT-H-Ras knockdown, can be explained by misregulation of the DNA damage response (DDR) (Rieder and Maiato, 2004, Brown and Baltimore, 2000, Lam et al., 2004, Löffler et al., 2006 and Zachos and Gillespie, 2007). A defective DDR would compromise the ability of the cell to repair DNA damage, thereby leading to an enhancement in the levels of DNA strand breaks (Syljuåsen et al., 2005 and Toledo et al., 2011b). Evaluation of DNA strand breaks by monitoring γH2AX staining revealed a significant accumulation of γH2AX-positive cells upon knockdown of WT-H-Ras in the DLD1-K-RasMut cells and a panel of K-Ras mutant (Mut) pancreatic cancer cells (Panc-1, AsPC-1, PL45, and MIA PaCa-2) (Figures 2A–2C). In contrast, γH2AX levels remain unaltered when WT-H-Ras was knocked down in the DLD1-K-RasKO and K-Ras WT pancreatic cancer cell lines (BxPC-3 and Hs-700T), consistent with K-Ras Mut cancer cells being selectively dependent on WT-H-Ras for modulating DNA damage and cell-cycle progression (Figures 2A–2C). A similar dependency was observed upon knockdown of WT-N-Ras, and no synergistic effect was observed when both WT-H-Ras and WT-N-Ras were knocked down (Figures S2A–S2C). The elevated γH2AX levels were not due to an accumulation of cells in S-phase because there was no significant difference in the S-phase profiles between control and WT-H-Ras, WT-N-Ras, or WT-H- and N-Ras-suppressed cells (Figures 2A and S2B). Of note, we have observed no correlation between enhanced γH2AX levels due to WT-H- and/or N-Ras knockdown and the proliferative rate or basal γH2AX levels of the cancer cells analyzed (Figure S1D; data not shown). This suggests that the elevated DNA damage induced by WT-H- and/or N-Ras knockdown is not due to a faster proliferation rate or higher basal DNA damage of K-Ras mutant cells but instead is a consequence of a perturbed DDR. Moreover, knockdown of WT-H-Ras in melanoma cells that harbor an activating N-Ras mutation (NRas Q61L) also enhanced γH2AX levels, indicating that WT-Ras could be required for the regulation of the basal levels of DNA damage in cancer cells with activating mutations in any of the Ras isoforms (Figure S2E).
+
+Full-size image (98 K)
+Figure 2. 
+WT-H-Ras Knockdown Enhances DNA Damage in K-Ras Mut, but Not in K-Ras WT, Cancer Cells
+(A) Quantification of γH2AX-positive cells in K-Ras Mut and K-Ras WT cancer cells upon WT-H-Ras knockdown. K-Ras Mut and K-Ras WT cells from cancers of the colon (DLD1) and pancreas (Panc-1, AsPC-1, PL45, MIA PaCa-2, BxPC-3, and Hs-700T), depleted of WT-H-Ras, were costained for γH2AX and DAPI, and the percentage of cells positive for γH2AX foci (>10 per cell) was determined. At least 500 cells were scored per condition. Data are presented relative to the values obtained for scramble shRNA cells in each cell line, respectively. Error bars, mean ± SEM, n = 3, ∗∗p < 0.005, ∗∗∗p < 0.0005. S-phase percentages as determined by flow cytometry analysis of the percentage of BrdU-incorporating cells are indicated below the bar graphs.
+(B) Representative images showing γH2AX levels in WT-H-Ras-suppressed DLD1 K-RasMut cells. Cells were costained for γH2AX and DAPI. Scale bars, 5 μm.
+(C) Isoform-specific knockdown of H-Ras in the cancer cells lines shown in (A). ∗ indicates Erk2 as a loading control instead of vinculin.
+See also Figure S2.
+Figure options
+Dependence of Mutant K-Ras Cancer Cells on Wild-Type H- and N-Ras for the Activation of the G2 DNA Damage Checkpoint
+To directly evaluate whether WT-H-Ras knockdown impacted the activation of the DNA damage checkpoint, we subjected K-Ras Mut cells to UV-C irradiation and monitored mitotic entry at 1, 2, and 3 hr intervals after UV-C-induced damage. Panc-1 and DLD1-K-RasMut cells expressing scramble shRNA displayed a block in mitotic entry in response to UV-C-induced DNA damage, indicating a functional G2 DNA damage checkpoint (Figures 3A, 3B, and S3A). In contrast, progression into mitosis following UV-C treatment was unperturbed in Panc-1 and DLD1-K-RasMut cells depleted of WT-H-Ras, indicating a defective G2 DNA damage checkpoint (Figures 3A and 3B). This defect was not specific to UV-C-induced damage as Panc-1 (Figure 3C) and DLD1-K-RasMut cells (Figure S3B) depleted of WT-H-Ras failed to initiate and maintain cell-cycle arrest in response to the topoisomerase I inhibitor SN38. A similar defect was observed in Panc-1 cells depleted of WT-N-Ras (Figure S3C).
+
+Full-size image (157 K)
+Figure 3. 
+K-Ras Mutant Cancer Cells Selectively Depend on WT-H-Ras for the Activation of the ATR-Chk1-Mediated G2 DNA Damage Checkpoint
+(A) Representative FACS plots showing the P-HH3-positive population in untreated (−) and (+) UV-C treated (at 1 and 3 hr posttreatment) Panc-1 cells expressing scramble (Scr) or WT-H-Ras shRNA (n = 3). The boxed area represents the % P-HH3-positive cells.
+(B) Quantifications of the experiments described in (A) for K-Ras Mut cell lines. Data are presented as relative to the values obtained for the respective (scramble or WT-H-Ras shRNA) untreated cells.
+(C) FACS histograms showing the cell-cycle profile of WT-H-Ras-suppressed Panc-1 cells following SN38 (4 nM) treatment. The S and G2/M fractions are indicated. Data are representative of three independent experiments.
+(D and E) K-Ras Mut and K-Ras WT cancer cells expressing the indicated shRNAs were treated with UV-C, placed in nocodazole containing media for 4 hr to trap mitotic cells, and costained for P-HH3 (blue) and γH2AX (green). Representative immunofluorescence images of mitotic DLD1 K-RasMut cells treated as indicated are shown in (D). Scale bar, 10 μm. Quantifications of the fraction of mitotic cells (P-HH3) expressing the indicated shRNAs that are positive for γH2AX foci (>10 per cell) are shown in (E). Data are presented as relative to the values obtained for the scramble shRNA (Scr sh) cells. At least 50 mitotic cells were analyzed per experiment. S-phase percentages are indicated below the bar graphs.
+(F) Representative immunoblots for the indicated proteins in mock or SN38 treated (4 nM SN38 for 2 hr) Panc-1 (K-Ras Mut) and BxPC-3 (K-Ras WT) cancer cells are shown.
+All experiments: error bars, mean ± SEM, n = 3, ∗∗p < 0.005, ∗∗∗p < 0.0005. See also Figure S3.
+Figure options
+A predictable outcome of a defective G2 DNA damage checkpoint is entry into mitosis with unresolved DNA breaks following damage (Jiang et al., 2009). In agreement with this prediction, a significant fraction of WT-H- and/or N-Ras-depleted Panc-1 and DLD1-K-RasMut cancer cells that entered mitosis following UV-C exposure also stained positive for γH2AX (Figures 3D, 3E, and S3D). Notably, no such differences were observed in K-Ras WT cancer cell lines (Figures 3E and S3D). These data demonstrate that WT-H- and/or N-Ras are critical for the establishment of a functional G2 DNA damage checkpoint selectively in K-Ras Mut cancer cells.
+
+Wild-Type H- and N-Ras Knockdown Impairs Chk1 Activation in K-Ras Mutant Cancer Cells
+To gain insight into the molecular basis for the perturbation of the G2 DNA damage checkpoint by WT-H/N-Ras knockdown, we examined the DNA-damage-specific activation of ATR/Chk1 and ATM/Chk2 in response to SN38 or UV-C treatment (Bartek and Lukas, 2003 and Zhou and Elledge, 2000). Notably, WT-H-Ras knockdown was accompanied by a defective Chk1 activation in response to either SN38 or UV-C treatment in K-Ras Mut cell lines Panc-1 and DLD1-K-RasMut (Figures 3F, S3E, and S3F), and MIA PaCa-2 (Figure S4A) as evidenced by impaired phosphorylation of Chk1 at Ser 317 and Ser 345. The requirement for WT H-Ras for ATR/Chk1 activation was a specific property of K-Ras mutant cells as WT-H-Ras knockdown had no effect on Chk1 activation in the K-Ras WT cell lines BxPC-3 and DLD1-K-RasKO (Figures 3F, S3E, and S3F). The defect in Chk1 activation upon WT H-Ras knockdown in K-Ras mutant cells was also reflected in the impaired inhibitory phosphorylation of Cdk1 at Tyr 15 (Figures 3F and S3E). By comparison, Chk2 activation, as monitored by phosphorylation of Chk2 at threonine 68 (Thr68), was not affected by WT-H-Ras knockdown in either K-Ras Mut (Panc-1) or K-Ras WT (BxPC-3) cancer cell lines (Figures 3F and S3E). Of note, Chk2 protein levels in DLD1 cells were too low to reliably measure its activation status. WT-N-Ras knockdown also led to a selective and similar impairment of ATR/Chk1 activation in K-Ras mutant cells (Figure 4). Taken together, these results indicate that the defective G2 DNA damage checkpoint caused by WT-H/N-Ras knockdown in K-Ras mutant cells is due to the failure to properly activate Chk1.
+
+Full-size image (150 K)
+Figure 4. 
+WT-H- and N-Ras Knockdown Enhances Erk/p90RSK and PI3K/Akt Activation to Promote Phosphorylation of Chk1 at Ser 280 and Inhibit its Activity
+(A) Activation status of Erk, p90RSK, Akt, and Chk1 in WT-H/N-Ras-suppressed Panc-1 cells in the basal state or upon SN38-induced damage (8 nM SN38 for 2 hr).
+(B) The fold change in the amount of pErk1/2, p-p90RSK Thr573, pAkt Thr308, pChk1 S280, and pChk1 S317 in WT-H/N-Ras shRNA as compared to scramble shRNA-expressing cells is indicated. Quantification of pErk1/2, pAkt Thr308, pChk1 S280, pChk1 S317, and p-p90RSK Thr573 was carried out by densitometry scanning and normalized to the total levels of Erk, Akt, and Chk1, respectively, and vinculin for p-p90RSK Thr573. Error bars, mean ± SD, n = 3, ∗p < 0.05, ∗∗p < 0.005, ∗∗∗p < 0.0005, ∗∗∗∗p < 0.00005.
+(C) Panc-1 cells expressing the indicated shRNAs were treated with 8 nM SN38 for 2 hr and in the presence or absence of the MAPK inhibitor (U0126, 10 μM) or the PI3K inhibitor (LY294002, 5 μM). WCLs were analyzed to determine ERK/p90RSK or Akt inhibition and their respective effect on Chk1 phosphorylation and activation status.
+(D) Isogenic derivatives of DLD1 K-RasMut cells engineered to inducibly express GFP-H-RasG12V (DLD1 K-RasMut Flp-IN TREX GFP-H-RasV12) upon addition of doxycycline were induced for 0, 2, or 4 hr and subjected to SN38 (8 nM) for 2 hr (for the 2 hr Dox induction, Dox and SN38 were added simultaneously; for the 4 hr Dox induction, SN38 was added 2 hr postinduction and the cells were incubated for an additional 2 hr). Representative immunoblots for the indicated proteins are shown. Arrowhead indicates GFP-H-RasG12V, and ∗ indicates endogenous H-Ras.
+See also Figure S4.
+Figure options
+Wild-Type H- and N-Ras Negatively Regulate MAPK and Akt Signaling to Control Chk1 Phosphorylation
+The Ras effector signaling pathways, Raf/Erk and PI3K/Akt, have been shown to play a key role in Chk1 activation and the G2/M phase of the cell cycle. PI3K/Akt was reported to override DNA-damage-induced G2 arrest through repression of Chk1 activation via Akt-mediated inhibitory phosphorylation of Chk1 at Ser 280 (King et al., 2004, Puc and Parsons, 2005 and Shtivelman et al., 2002). More recently, the Raf/MAPK pathway has been shown to impair Chk1 activity through Chk1 Ser 280 phosphorylation by MAPK-activated protein kinase RSK (p90 ribosomal S6 kinase) (Li et al., 2012 and Ray-David et al., 2012). As wild-type Ras proteins have been reported to antagonize Ras effector signaling output in cancer cells that harbor mutant Ras (Young et al., 2012), we next investigated whether impaired Chk1 activation upon WT-H- or N-Ras knockdown was due to enhanced activation of Ras effector pathways. Knockdown of WT-H- or N-Ras in mutant K-Ras cancer cells was associated with elevated Erk/p90RSK and Akt activation, which correlated with enhanced inhibitory phosphorylation of Chk1 at Ser 280, both in the basal state and following SN38-induced DNA damage (Figures 4A and 4B). Conversely, suppression of Erk or Akt signaling via treatment with MAPK or Akt inhibitors overturned the hyperphosphorylation of Chk1 at Ser 280 in WT-H- or N-Ras-depleted mutant K-Ras cancer cells. Importantly, under these conditions, the activation of Chk1 in response to SN38-induced DNA damage was restored as shown by Chk1 Ser 317 phosphorylation (Figure 4C). Altogether, these results support a model whereby in K-Ras mutant cells, the downregulation WT-H/N-Ras leads to the enhancement of Erk/p90RSK and Akt signaling, which in turn represses Chk1 activation through Chk1 Ser 280 phosphorylation.
+
+To rule out the possibility that WT-H/N-Ras may also specifically prevent Chk1 Ser 280 phosphorylation, we generated an isogenic derivative of the DLD1-K-RasMut cell line that can inducibly express GFP-H-RasG12V upon doxycycline administration (DLD1-K-RasMut Flip-IN TREX GFP-H-RasV12) (Girdler et al., 2006). As illustrated in Figure 4D, expression of GFP-H-RasG12V at sub-endogenous levels led to a concomitant increase in Erk and AKT signaling despite the presence of WT-H/N-Ras in these cells. Moreover, this was accompanied by the phosphorylation of Chk1 at the inhibitory site Ser 280 and an impairment of Chk1 phosphorylation at the activation sites Ser 317 and Ser 345 (Figure 4D). Altogether, our data are consistent with a model in which the enhanced phosphorylation of Chk1 at Ser 280 and inhibition of Chk1 activity observed under conditions of WT-H-Ras deficiency in mutant K-Ras cells is a consequence of an increase in Erk/Akt signaling.
+
+If the activation of Chk1 is directly linked to the presence of mutant K-Ras, then the acute expression of mutant K-Ras in an otherwise K-Ras wild-type cancer cell line should render Chk1 activation in these cells dependent on WT-H/N-Ras. To test this idea, we silenced WT-H-Ras in BxPC-3 cells (K-Ras WT) that had been engineered to inducibly express K-RasG12V (BxPC-3 K-RasV12) (Figure S4C). Whereas, knockdown of WT-H-Ras in the parental BxPC-3 cell line had no effect on Chk1 Ser 280 phosphorylation and Chk1 activation (Figures 3F and S4B), knockdown of WT-H-Ras in BxPC-3 cells induced to express K-RasG12V led to elevated Erk activation, induction of Chk1 Ser 280 phosphorylation, and impairment of Chk1 phosphorylation at Ser 317 (Figure S4D). These results suggest that the hyperactivation of Erk/Akt pathways, the enhancement of Chk1 Ser 280 phosphorylation, and the impairment of Chk1 activation induced by WT-H-Ras knockdown represent a set of responses that are specifically dictated by the mutational status of K-Ras.
+
+Mutant K-Ras Cancer Cells Depleted of Wild-Type H- and N-Ras Are Highly Sensitive to DNA Damage-Inducing Agents
+The underlying premise for the therapeutic use of DNA-damaging agents is that susceptibility of cancer cells is linked to the lack of G1/S and G2 checkpoints (Ma et al., 2011 and Zhou and Bartek, 2004). Therefore, we reasoned that the abrogation of the ATR/Chk1-induced DNA damage checkpoint in K-Ras mutant cells by WT-H- and/or N-Ras knockdown could enhance the therapeutic efficacy of DNA damaging agents. Assessment of cell viability following treatment with SN38 indicated that the K-Ras mutant cells DLD1 K-RasMut and Panc-1-expressing shRNAs targeting H-Ras were on average ∼90-fold and ∼50-fold more sensitive to SN38, respectively, as compared to DLD1 K-RasMut and Panc-1 cells expressing scramble shRNA (Figure 5A). Similarly, WT-H-Ras knockdown sensitized these cells (∼13-fold for DLD1 K-RasMut and ∼25-fold for Panc-1) to the DNA intrastrand crosslinker oxaliplatin (Figure 5B). Notably, knockdown of WT-H-Ras or N-Ras in K-Ras WT cancer cells did not lead to a sensitization to SN38 or oxaliplatin treatment (Figures 5A and 5B). Analysis of the apoptotic index, as measured by FACS detection of cleaved caspase 3-positive cells, demonstrates an exacerbation of cell death by WT-H-Ras knockdown in response to SN38 treatment (Figures 5C and 5D). Knockdown of WT-N-Ras also sensitized these cells to SN38 and oxaliplatin (Figure S5). Together, these results show that WT-H-Ras or N-Ras knockdown specifically sensitizes K-Ras Mut cancer cells to DNA damaging agents. A similar sensitization pattern was observed upon the treatment of cells with the Chk1/Chk2 inhibitor AZD7726 (Figures 6A, 6B, and S6), supporting the hypothesis that WT-H/N-Ras downregulation selectively sensitizes K-Ras mutant cells to DNA damage-inducing agents by abrogating Chk1 activity.
+
+Full-size image (127 K)
+Figure 5. 
+Knockdown of WT-H-Ras Selectively Sensitizes Mutant K-Ras Cancer Cells to DNA Damage
+(A and B) MTT cell viability assays of K-Ras Mut cancer cells (DLD1 K-RasMut and Panc-1) and K-Ras WT cancer cells (DLD1 K-RasKO and BxPC-3) induced to express scramble or WT-H-Ras shRNAs, and following a 72 hr treatment with SN38 (A) or oxaliplatin (B). Viable fraction is expressed as a percentage of the viability values obtained for the respective untreated conditions. p < 0.005 for H-Ras sh 1 or H-Ras sh 3 plus SN38 or oxaliplatin versus Scr sh plus SN38 or oxaliplatin in K-Ras mutant cells, respectively.
+(C) Detection of cell death by FACS analysis of the Nucview Alexa-488 caspase 3-positive population in SN38-treated K-Ras Mut cells. Representative profiles of Nucview Alexa-488 caspase 3 fractions in DLD1 K-RasMut cells inducibly expressing scramble or WT-H-Ras shRNAs and treated with SN38 (16 nM) for 72 hr.
+(D) Quantification of cell death as determined by the Nucview Alexa-488 caspase 3-positive fraction in WT-H-Ras-depleted K-Ras mutant cells treated with SN38 as in (C). Data are presented relative to the values obtained for the respective scramble shRNA-expressing cells. Error bars, mean ± SEM, n = 3, ∗∗p < 0.005.
+See also Figure S5.
+Figure options
+Full-size image (71 K)
+Figure 6. 
+The Chk1/Chk2 Inhibitor AZD7762 Potentiates SN38 Cytotoxicity Selectively in K-Ras Mutant Cancer Cells
+Viable fraction is expressed as a percentage mean ± SEM of the viability values obtained for respective vehicle-only treated conditions from three independent experiments each performed in triplicate.
+(A and B) K-Ras mutant cancer cells (DLD1 K-RasMut, Panc-1, and MIA PaCa-2) (A) or K-Ras WT cancer cells (DLD1 K-RasKO and BxPC-3) (B) were treated with SN38 alone or a combination of SN38 and AZD7762 (SN38 + AZD7762) for 48 hr at the indicated concentrations and analyzed for cell viability by the MTT assay. ∗p < 0.05, ∗∗p < 0.01, ∗∗∗p < 0.001, ∗∗∗∗p < 0.0001 for SN38 + AZD7762-treated versus SN38-treated alone.
+(C) K-Ras mutant and K-Ras WT cells were treated with AZD7762 alone for 48 hr and assessed for cell viability by the MTT assay.
+See also Figure S6.
+Figure options
+Knockdown of Wild-Type H-Ras Sensitizes K-Ras Mutant Tumors to DNA Damage-Inducing Chemotherapy and Leads to Tumor Regression
+To test the in vivo effects of WT-H-Ras knockdown on the sensitivity of K-Ras mutant tumors to DNA damaging agents, we established xenografts of DLD1-K-Ras mutant cells that inducibly express WT-H-Ras shRNA upon exposure to doxycycline in athymic nu/nu mice. Administration of doxycycline or vehicle was initiated after tumors had reached ∼100 mm3. Seven days postinduction (tumor size ∼250 mm3), efficient knockdown of WT-H-Ras was confirmed in the established tumors, and treatment with irinotecan (CPT), a topoisomerase I inhibitor that is FDA-approved for the treatment of colorectal cancer, was initiated (Figure S7A). In the absence of treatment with irinotecan, tumors arising from the WT-H-Ras-suppressed cells grew similarly to those arising from uninduced control cells (Figures 7A and 7B). Thus, distinct from our in vitro studies, WT-H-Ras knockdown in vivo was not associated with any delay in growth or mitotic progression under these conditions (Figures 7A, 7D, and 7E). However, similar to our observations in the synchronization studies, we did note an elevation in aberrant mitotic figures (chromosome misalignment and lagging chromosomes), which is an indication of perturbed mitosis (Figure 1G; data not shown). Hence, the lack of a higher mitotic index despite aberrant mitosis may reflect clearance of the aberrant mitotic cells in the in vivo setting. In agreement with previously reported studies, treatment with irinotecan alone resulted in a reduction of tumor growth (Figures 7A and 7B) (Harris et al., 2005 and Zabludoff et al., 2008). Notably, 5 days following the termination of irinotecan administration, WT-H-Ras-suppressed tumors had undergone regression, which was maintained for the duration of the study, up to 18 days posttreatment (Figures 7A and 7B). In contrast, the control irinotecan-treated tumors showed in large part a modest growth over the same time period (Figure S7B). Consistent with our cell-based studies, abrogation of WT-H-Ras in mutant K-Ras tumors led to Erk and Akt hyperactivation and the inhibition of Chk1 activation, as reflected by an elevated Chk1 Ser 280 phosphorylation and an impaired Chk1 Ser 317 phosphorylation in both mock and irinotecan-treated tumors (Figure 7C). Assessment of the extent of apoptosis revealed that the combination of WT-H-Ras knockdown and irinotecan treatment induced a significant increase in tumor cell apoptosis compared to WT-H-Ras knockdown or irinotecan treatment alone (Figures 7D and 7E). Importantly, irinotecan treatment failed to induce cell-cycle arrest of WT-H-Ras-suppressed tumors as evident by the significant increase in the number of cells staining positive for phosphorylated histone H3 compared to WT-H-Ras-intact tumors (Figures 7D and 7E). These results indicate that WT-H-Ras knockdown in K-Ras mutant cells compromises the DNA damage checkpoint-mediated cell-cycle arrest in vivo.
+
+Full-size image (147 K)
+Figure 7. 
+WT-H-Ras Knockdown in Established Mutant K-Ras Tumors Impairs Cell-Cycle Arrest Induced by DNA Damaging Chemotherapeutic Agents and Leads to Tumor Regression
+(A) Waterfall plot and scatter plot showing percentage change in the volume of subcutaneous DLD1 K-RasMut tumors in nude mice 5 days after the last dose of irinotecan (CPT) administration. Percentage change was determined relative to the tumor volume at the start of irinotecan (CPT) treatment for each individual tumor. Mice engrafted with 2 × 106 DLD1 K-RasMut cells stable for the doxycycline-inducible H-Ras 1 sh were given either doxycycline or vehicle-only (0.5% sucrose) as a control via their drinking water once tumors attained ∼100 mm3. Irinotecan (CPT) administration (50 mg/kg every other day for 6 days [q2 dx3]) was initiated when tumors reached ∼250 mm3. Error bars, mean ± SEM.
+(B) Representative xenograft tumors are shown.
+(C) WCLs of tumor tissue obtained from the indicated animals 24 hr after the initiation of irinotecan (CPT) administration were immunoblotted with antibodies for the indicated proteins.
+(D and E) Tumor sections from mice in (A) treated as indicated were stained for hematoxylin and eosin (H&E), anti-cleaved caspase 3, or anti-P-HH3 antibody. Representative images are shown in (D), and quantifications are shown in (E). Scale bars, 40 μm. Cleaved caspase 3 or P-HH3-positive cells were counted per field of view (FOV) at 20× magnification. Error bars, mean ± SD, n = 3 mice per group, four FOV per mouse. ∗∗∗∗p < 0.0001.
+See also Figure S7.
+Figure options
+To further substantiate the in vivo analyses of the consequences of WT-H-Ras knockdown, we administered irinotecan or vehicle to xenograft tumors derived from either MIA PaCa-2 (K-Ras Mutant) or BxPC-3 (K-Ras WT) cells that were engineered to inducibly (+Dox) express WT-H-Ras shRNA (Figures S7C and S7D). Similar to DLD1-K-RasMut xenografts, combination of WT-H-Ras knockdown and irinotecan treatment led to MIA PaCa-2 tumor regression, but irinotecan alone led to a growth delay and WT-H-Ras knockdown alone had no effect (Figure S7C). Importantly, we found no synergy between WT-H-Ras knockdown and irinotecan treatment in BxPC-3 xenograft tumors (Figure S7D). Collectively, these observations establish a role for WT-H-Ras in maintaining a functional Chk1-dependent DNA damage checkpoint in established K-Ras mutant tumors.
+
+Discussion
+Effective targeting of oncogenic K-Ras-driven tumors has remained a major challenge in cancer therapy. Considerable evidence indicates that cancer cells develop dependencies on normal functions of certain genes that can potentially be exploited to improve therapeutic strategies (De Raedt et al., 2011, Kumar et al., 2012, Luo et al., 2009a and Luo et al., 2009b). In the present study, we demonstrate that K-Ras mutant cancers display a dependency on WT-H/N-Ras for the activation of the ATR/Chk1-mediated DNA damage response (DDR) and therefore can be sensitized to DNA-damaging chemotherapeutics through the suppression of WT-H/N-Ras. The activation of DDR has been shown to play distinct context-dependent roles in the course of malignant transformation (Toledo et al., 2011a). In premalignant lesions, DDR activation is triggered by oncogenic stress and commonly leads to cell death or senescence, thereby functioning as an intrinsic barrier to malignancy (Bartkova et al., 2005, Gilad et al., 2010 and Schoppy et al., 2012). Full malignant transformation, however, is accompanied by a weakening of the DDR barrier through the selective acquisition of mutations within critical DDR signaling modules (for example, p53 mutations and abrogation of ATM/Chk2/p53 signaling). As such, advanced tumors become highly reliant on the remaining functional DDR pathway (ATR/Chk1) for coping with the high levels of oncogene-induced genotoxic stress. In this context, the role of WT-H/N-Ras in coordinating the activation of ATR/Chk1 is critical for supporting the tumorigenic phenotype of K-Ras mutant tumors by preventing catastrophic DNA damage and enhancing tumorigenic fitness and survival. Consistent with this model, wild-type Ras has been shown to play a tumor-promoting role in cell lines from established tumors (Young et al., 2012).
+
+Our results identify a role for WT-H/N-Ras in facilitating Chk1 activation by suppressing the Erk/p90RSK and PI3K/Akt pathways that inhibit Chk1 via Ser 280 phosphorylation. The capacity of WT-Ras to negatively regulate effector pathway signaling in mutant Ras cancer cells is consistent with earlier reports showing that the levels of WT-Ras proteins in mutant Ras cancer cell lines are inversely correlated to the activation status of Ras-effector molecules (Young et al., 2012 and Zhang et al., 2001). It is noteworthy that the knockdown of wild-type isoform alone is sufficient to hyperactivate Erk and Akt and inhibit Chk1 activity and checkpoint function. This suggests a tightly controlled threshold for the WT-H/N-Ras-mediated attenuation of Ras-effector signaling in mutant K-Ras cancers. The mechanisms underlying the WT-H/N-Ras-mediated antagonism of Ras effector signaling in mutant K-Ras cancers remain to be delineated. Of potential relevance to this question are the seemingly contradictory observations that whereas the knockdown of WT-H/N-Ras in mutant K-Ras cancer cells induces Erk and Akt hyperactivation, the knockdown of Sos1, a guanine nucleotide exchange factor for Ras GTPases, instead impairs Erk and Akt activity (Jeng et al., 2012). A fundamental difference between these two scenarios is that whereas Sos knockdown would affect the levels of GTP-bound Ras, the knockdown of WT-H/N-Ras would inevitably lessen both GDP and GTP-bound Ras levels. Because the WT-isoforms exist predominantly in the GDP-bound form, knockdown of WT-H/N-Ras is likely to significantly alter the stoichiometry of GDP- to GTP-Ras molecules. This may provide a plausible explanation for the observed hyperactivation of Erk and Akt, as GDP-bound Ras molecules have been suggested to play an inhibitory role in Ras signaling (Singh et al., 2005). Furthermore, in the case of Raf, activation depends on Ras-mediated homo- and/or heterodimerization of Raf proteins, which likely require at least two Ras-GTP molecules (Heidorn et al., 2010, Inouye et al., 2000, Poulikakos et al., 2011, Rushworth et al., 2006 and Weber et al., 2001). Because Ras dimerization appears to be constitutive and nonselective for GDP or GTP-bound Ras, depletion of GDP-bound Ras, as in the case of knockdown of WT-H-Ras or N-Ras, would stoichiometrically favor Ras-GTP dimer formation and consequently lead to Raf hyperactivation (Heidorn et al., 2010 and Inouye et al., 2000).
+
+There is now a large body of pre-clinical evidence showing that inhibition of the ATR/Chk1 pathway enhances the efficacy of standard chemotherapy. Indeed, several Chk1 inhibitors are being tested in clinical trials (Ma et al., 2012). As such, the ability of WT-H/N-Ras to determine Chk1 activation in mutant K-Ras tumors may warrant further exploration into the development of a therapeutic approach that utilizes inhibition of wild-type Ras-ATR/Chk1 signaling in combination with DNA damaging agents for the selective targeting of K-Ras-driven cancers.
+
+Experimental Procedures
+Cell Culture and Lentiviral Transduction
+Human pancreatic cancer cell lines Panc-1, PL45, AsPC-1, CFPAC-1, MIA PaCa-2, BxPC-3, and Hs700T were obtained from the American Type Culture Collection. The isogenic colon cancer cells DLD1-K-RasMut and DLD1-K-RasKO were a kind gift from Dr. Mark Philips. Lentiviral particles were generated in accordance with standard protocols. For knockdown experiments, cells were transduced with lentiviral particles (multiplicity of infections [moi] for Hs700T, 15; all other cell lines, 7) containing pTripz scramble shRNA, H-Ras shRNA, or N-Ras shRNA and selected with puromycin (Calbiochem; for AsPC-1, 4 μg/ml; for all others, 2 μg/ml) for 3 days. Unless otherwise indicated, all experiments were performed on day 4 of doxycycline (1 μg/ml) induction. DLD1 K-RasMut Flip-IN TREX GFP-H-RasV12 cells were generated through Flp recombinase-mediated homologous recombination between the FRT sites in the DLD1 K-RasMut cell line and the pcDNA3/FRT/TO/GFP-HRasG12V expression vector. To generate BxPC-3-K-RasV12 cells, BxPC-3 cells were transduced with a TET-inducible lentiviral vector to express K-RasG12V, pLenti-TO-K-RasG12V (moi = 1). Following puromycin selection, cells that had efficiently integrated the K-RasG12V lentiviral construct (BxPC-3-K-RasV12) were expanded and subsequently transduced with a pTRIPZ-H-Ras sh construct. As both vectors are Dox inducible, induction of the expression of K-RasV12 also induces the knockdown of WT-H-Ras. Following a 48 hr induction, BxPC-3-K-RasV12 cells that also expressed the H-Ras sh were obtained by fluorescent sorting (RFP: pTRIPZ-H-Ras sh also expresses RFP upon Dox induction). The obtained cells were then cultured for an additional 48 hr in the presence of Dox and assayed for Chk1 activation upon treatment with SN38.
+
+Cell Viability Assays
+For viability assays, cells were treated with doxycycline to induce shRNA expression for 4 days and then seeded at a density of 4,000 cells/well in a 96-well plate in doxycycline containing media. Twenty-four hours postplating, SN-38 (Tocris Biosciences), oxaliplatin (Tocris Biosciences), or vehicle was added. Following a 72 hr treatment, cell viability was assessed by the MTT (3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide; Sigma-Aldrich) assay in accordance with the manufacturer’s protocol. Viable fraction is expressed as the percentage of vehicle-treated control cells. EC50 was calculated using Graphpad Prism (v. 4.0) software.
+
+Cell Synchronization and Flow Cytometry
+Cells were synchronized at the G1/S transition by a double thymidine block. Cells were treated with 2 mM thymidine for 22 hr and released from thymidine block by washing twice with PBS, followed by incubation in fresh medium. Fourteen hours after release, thymidine was added for another 20 hr. Induction of H-Ras shRNA expression was initiated with the first thymidine block. For the G2/M checkpoint analysis in response to UV-C, cells were irradiated with UV-C (25 J/m2) during the exponential growth phase. Cells were harvested 1, 2, and 3 hr later, fixed with ice-cold 80% ethanol/PBS, and incubated overnight at −20°C. Fixed cells were washed with PBS and permeabilized with 0.25% Triton X-100/PBS on ice for 10 min. Cells were stained with anti-phospho histone H3 to detect mitotic cells and TO-PRO 3 for DNA content. For G2/M checkpoint activation in response to SN-38, cells were treated with 4 nM SN-38 and fixed at the indicated time points. Staining for cleaved caspase 3-positive cells was performed using the Nucview-488 Caspase 3 Kit (Biotium). Flow cytometry was performed on an LSRII (BD Biosciences) at NYU School of Medicine Flow Cytometry Core Facility, and data were analyzed using FlowJo software.
+
+Animal Studies
+For xenograft studies, we subcutaneously implanted 2 × 106 DLD1 K-RasMut, MIA PaCa-2, or BxPC-3 cells stable for pTripz-H-Ras shRNA (1:1 in Matrigel, BD Biosciences) in both flanks of 8-week-old female athymic nude (NCRNU, Taconic) mice. When tumor size reached ∼100 mm3, mice were given drinking water containing either doxycycline (0.2 mg/ml)/0.5% sucrose or 0.5% sucrose alone. Water was replaced every 3 days. Tumor volume was determined using electronic calipers to measure length (l), width (w), and the formula (w2 × l)/2. Tumor volume was measured twice a week. We treated mice bearing H-Ras-depleted (dox/sucrose) or H-Ras-intact (sucrose) DLD1 K-RasMut tumors with either irinotecan or vehicle, once tumors reached 250 mm3. Irinotecan hydrochloride (CPT) powder was dissolved into solution as previously described (Harris et al., 2005 and Zabludoff et al., 2008). This solution was diluted with 5% dextrose for intraperitoneal (i.p.) injection at a dose of 50 mg/kg every other day for 3 rounds of treatment (q2 dx3). Irinotecan, or the combinatorial H-Ras knockdown and irinotecan treatments, were well tolerated as no weight loss above 10% body mass was observed. Body mass was measured using an electronic scale every 2 days. The percent change in tumor volume from day 0 of irinotecan treatment to tumor volume 5 days after the last dose of irinotecan administration was measured. Mice were euthanized by carbon dioxide-induced narcosis. To prepare lysates, tumor tissue was homogenized in RIPA buffer and sonicated to shear genomic DNA. All animal work was approved by New York University Langone Medical Center Institutional Animal Care and Use Committee.
+
+Statistical Analyses
+Data were analyzed by the Graphpad Prism built-in test (unpaired, two-tailed), and results were considered significant at p < 0.05.
+
+Acknowledgments
+We thank Dr. Cosimo Commisso for his critical reading of our manuscript and his helpful discussions. We are grateful to Dr. Stephen Taylor for providing the DLD1 Flip-IN TRex cell line. This work was supported by research grants from National Institutes of Health (GM078266 and CA 055360 to D.B.-S. and 1F32CA13922 to E.G.). The NYU Cancer Institute Cytometry and Cell Sorting and Immunohistochemistry Core Facilities were supported in part by a grant (5P30CA016087-32) from the National Cancer Institute.
+
+Supplemental Information
+ 
+Document S1. Supplemental Experimental Procedures and Figures S1–S7.  
+Help with PDF filesOptions
+ 
+Movie S1. Mitotic Progression in Panc-1 Cells.  
+
+Panc-1 cells induced to express a scramble shRNA were monitored every 7 min for a period of 16 hr. Time is shown in hr : min. Mitosis was tracked from prophase, just before nuclear envelope breakdown (NEB), until cytokinesis and partitioning of the cytoplasm.
+
+Help with MP4 filesOptions
+ 
+Movie S2. K-Ras Mutant Cancer Cells Require WT-H-Ras for the Timely Progression through Mitosis.  
+
+Panc-1 cells induced to express a WT-H-Ras shRNA were monitored as in Movie S1. Most WT-HRas ablated cells were delayed in prometaphase/metaphase, and took on average 2-3 times longer to progress to anaphase. A similar delay was also observed in anaphase/cytokinesis completion. This delay, together with the chromatin aberrations observed, similar to those shown for DLD1-K-RasMut cells in Figure 1G, suggest a failure to satisfy the spindle assembly checkpoint (SAC).
+
+Help with MP4 filesOptions
+References
+Bartek and Lukas, 2003
+J. Bartek, J. Lukas
+Chk1 and Chk2 kinases in checkpoint control and cancer
+Cancer Cell, 3 (2003), pp. 421–429
+
+Article |  PDF (388 K) | View Record in Scopus | Citing articles (732)
+Bartkova et al., 2005
+J. Bartkova, Z. Horejsí, K. Koed, A. Krämer, F. Tort, K. Zieger, P. Guldberg, M. Sehested, J.M. Nesland, C. Lukas et al.
+DNA damage response as a candidate anti-cancer barrier in early human tumorigenesis
+Nature, 434 (2005), pp. 864–870
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1311)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Bremner and Balmain, 1990
+R. Bremner, A. Balmain
+Genetic changes in skin tumor progression: correlation between presence of a mutant ras gene and loss of heterozygosity on mouse chromosome 7
+Cell, 61 (1990), pp. 407–417
+
+Article |  PDF (3150 K) | View Record in Scopus | Citing articles (114)
+Brown and Baltimore, 2000
+E.J. Brown, D. Baltimore
+ATR disruption leads to chromosomal fragmentation and early embryonic lethality
+Genes Dev., 14 (2000), pp. 397–402
+
+View Record in Scopus | Citing articles (519)
+Chin et al., 1999
+L. Chin, A. Tam, J. Pomerantz, M. Wong, J. Holash, N. Bardeesy, Q. Shen, R. O’Hagan, J. Pantginis, H. Zhou et al.
+Essential role for oncogenic Ras in tumour maintenance
+Nature, 400 (1999), pp. 468–472
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (598)
+De Raedt et al., 2011
+T. De Raedt, Z. Walton, J.L. Yecies, D. Li, Y. Chen, C.F. Malone, O. Maertens, S.M. Jeong, R.T. Bronson, V. Lebleu et al.
+Exploiting cancer cell vulnerabilities to develop a combination therapy for ras-driven tumors
+Cancer Cell, 20 (2011), pp. 400–413
+
+Article |  PDF (2548 K) | View Record in Scopus | Citing articles (64)
+Fisher et al., 2001
+G.H. Fisher, S.L. Wellen, D. Klimstra, J.M. Lenczowski, J.W. Tichelaar, M.J. Lizak, J.A. Whitsett, A. Koretsky, H.E. Varmus
+Induction and apoptotic regression of lung adenocarcinomas by regulation of a K-Ras transgene in the presence and absence of tumor suppressor genes
+Genes Dev., 15 (2001), pp. 3249–3262
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (324)
+Gilad et al., 2010
+O. Gilad, B.Y. Nabet, R.L. Ragland, D.W. Schoppy, K.D. Smith, A.C. Durham, E.J. Brown
+Combining ATR suppression with oncogenic Ras synergistically increases genomic instability, causing synthetic lethality or tumorigenesis in a dosage-dependent manner
+Cancer Res., 70 (2010), pp. 9693–9702
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Girdler et al., 2006
+F. Girdler, K.E. Gascoigne, P.A. Eyers, S. Hartmuth, C. Crafter, K.M. Foote, N.J. Keen, S.S. Taylor
+Validating Aurora B as an anti-cancer drug target
+J. Cell Sci., 119 (2006), pp. 3664–3675
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (175)
+Haigis et al., 2008
+K.M. Haigis, K.R. Kendall, Y. Wang, A. Cheung, M.C. Haigis, J.N. Glickman, M. Niwa-Kawakita, A. Sweet-Cordero, J. Sebolt-Leopold, K.M. Shannon et al.
+Differential effects of oncogenic K-Ras and N-Ras on proliferation, differentiation and tumor progression in the colon
+Nat. Genet., 40 (2008), pp. 600–608
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+Harris et al., 2005
+S.M. Harris, P. Mistry, C. Freathy, J.L. Brown, P.A. Charlton
+Antitumour activity of XR5944 in vitro and in vivo in combination with 5-fluorouracil and irinotecan in colon cancer cell lines
+Br. J. Cancer, 92 (2005), pp. 722–728
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+Hegi et al., 1994
+M.E. Hegi, T.R. Devereux, W.F. Dietrich, C.J. Cochran, E.S. Lander, J.F. Foley, R.R. Maronpot, M.W. Anderson, R.W. Wiseman
+Allelotype analysis of mouse lung carcinomas reveals frequent allelic losses on chromosome 4 and an association between allelic imbalances on chromosome 6 and K-ras activation
+Cancer Res., 54 (1994), pp. 6257–6264
+
+View Record in Scopus | Citing articles (82)
+Heidorn et al., 2010
+S.J. Heidorn, C. Milagre, S. Whittaker, A. Nourry, I. Niculescu-Duvas, N. Dhomen, J. Hussain, J.S. Reis-Filho, C.J. Springer, C. Pritchard, R. Marais
+Kinase-dead BRAF and oncogenic RAS cooperate to drive tumor progression through CRAF
+Cell, 140 (2010), pp. 209–221
+
+Article |  PDF (1715 K) | View Record in Scopus | Citing articles (493)
+Inouye et al., 2000
+K. Inouye, S. Mizutani, H. Koide, Y. Kaziro
+Formation of the Ras dimer is essential for Raf-1 activation
+J. Biol. Chem., 275 (2000), pp. 3737–3740
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+Jackson et al., 2001
+E.L. Jackson, N. Willis, K. Mercer, R.T. Bronson, D. Crowley, R. Montoya, T. Jacks, D.A. Tuveson
+Analysis of lung tumor initiation and progression using conditional expression of oncogenic K-ras
+Genes Dev., 15 (2001), pp. 3243–3248
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (601)
+Jeng et al., 2012
+H.H. Jeng, L.J. Taylor, D. Bar-Sagi
+Sos-mediated cross-activation of wild-type Ras by oncogenic Ras is essential for tumorigenesis
+Nat. Commun., 3 (2012), p. 1168
+
+Full Text via CrossRef
+Jiang et al., 2009
+H. Jiang, H.C. Reinhardt, J. Bartkova, J. Tommiska, C. Blomqvist, H. Nevanlinna, J. Bartek, M.B. Yaffe, M.T. Hemann
+The combined status of ATM and p53 link tumor development with therapeutic response
+Genes Dev., 23 (2009), pp. 1895–1909
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (108)
+King et al., 2004
+F.W. King, J. Skeen, N. Hay, E. Shtivelman
+Inhibition of Chk1 by activated PKB/Akt
+Cell Cycle, 3 (2004), pp. 634–637
+
+View Record in Scopus | Citing articles (49)
+Kumar et al., 2012
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas, M. Steckel, P. East, M. Diefenbacher, E. Armenteros-Monterroso, F. Lassailly, N. Matthews, E. Nye et al.
+The GATA2 transcriptional network is requisite for RAS oncogene-driven non-small cell lung cancer
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+Lam et al., 2004
+M.H. Lam, Q. Liu, S.J. Elledge, J.M. Rosen
+Chk1 is haploinsufficient for multiple functions critical to tumor suppression
+Cancer Cell, 6 (2004), pp. 45–59
+
+Article |  PDF (1086 K) | View Record in Scopus | Citing articles (153)
+Li et al., 2011
+Q. Li, K.M. Haigis, A. McDaniel, E. Harding-Theobald, S.C. Kogan, K. Akagi, J.C. Wong, B.S. Braun, L. Wolff, T. Jacks, K. Shannon
+Hematopoiesis and leukemogenesis in mice expressing oncogenic NrasG12D from the endogenous locus
+Blood, 117 (2011), pp. 2022–2032
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+Li et al., 2012
+P. Li, H. Goto, K. Kasahara, M. Matsuyama, Z. Wang, Y. Yatabe, T. Kiyono, M. Inagaki
+P90 RSK arranges Chk1 in the nucleus for monitoring of genomic integrity during cell proliferation
+Mol. Biol. Cell, 23 (2012), pp. 1582–1592
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (10)
+Lim et al., 2008
+K.H. Lim, B.B. Ancrile, D.F. Kashatus, C.M. Counter
+Tumour maintenance is mediated by eNOS
+Nature, 452 (2008), pp. 646–649
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+Löffler et al., 2006
+H. Löffler, B. Rebacz, A.D. Ho, J. Lukas, J. Bartek, A. Krämer
+Chk1-dependent regulation of Cdc25B functions to coordinate mitotic events
+Cell Cycle, 5 (2006), pp. 2543–2547
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Luo et al., 2009a
+J. Luo, N.L. Solimini, S.J. Elledge
+Principles of cancer therapy: oncogene and non-oncogene addiction
+Cell, 136 (2009), pp. 823–837
+
+Article |  PDF (1103 K) | View Record in Scopus | Citing articles (516)
+Luo et al., 2009b
+J. Luo, M.J. Emanuele, D. Li, C.J. Creighton, M.R. Schlabach, T.F. Westbrook, K.K. Wong, S.J. Elledge
+A genome-wide RNAi screen identifies multiple synthetic lethal interactions with the Ras oncogene
+Cell, 137 (2009), pp. 835–848
+
+Article |  PDF (2187 K) | View Record in Scopus | Citing articles (351)
+Ma et al., 2011
+C.X. Ma, J.W. Janetka, H. Piwnica-Worms
+Death by releasing the breaks: CHK1 inhibitors as cancer therapeutics
+Trends Mol. Med., 17 (2011), pp. 88–96
+
+Article |  PDF (449 K) | View Record in Scopus | Citing articles (88)
+Ma et al., 2012
+C.X. Ma, S. Cai, S. Li, C.E. Ryan, Z. Guo, W.T. Schaiff, L. Lin, J. Hoog, R.J. Goiffon, A. Prat et al.
+Targeting Chk1 in p53-deficient triple-negative breast cancer is therapeutically beneficial in human-in-mouse tumor models
+J. Clin. Invest., 122 (2012), pp. 1541–1552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Matallanas et al., 2011
+D. Matallanas, D. Romano, F. Al-Mulla, E. O’Neill, W. Al-Ali, P. Crespo, B. Doyle, C. Nixon, O. Sansom, M. Drosten et al.
+Mutant K-Ras activation of the proapoptotic MST2 pathway is antagonized by wild-type K-Ras
+Mol. Cell, 44 (2011), pp. 893–906
+
+Article |  PDF (1328 K) | View Record in Scopus | Citing articles (16)
+Poulikakos et al., 2011
+P.I. Poulikakos, Y. Persaud, M. Janakiraman, X. Kong, C. Ng, G. Moriceau, H. Shi, M. Atefi, B. Titz, M.T. Gabay et al.
+RAF inhibitor resistance is mediated by dimerization of aberrantly spliced BRAF(V600E)
+Nature, 480 (2011), pp. 387–390
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (300)
+Puc and Parsons, 2005
+J. Puc, R. Parsons
+PTEN loss inhibits CHK1 to cause double stranded-DNA breaks in cells
+Cell Cycle, 4 (2005), pp. 927–929
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (45)
+Pylayeva-Gupta et al., 2011
+Y. Pylayeva-Gupta, E. Grabocka, D. Bar-Sagi
+RAS oncogenes: weaving a tumorigenic web
+Nat. Rev. Cancer, 11 (2011), pp. 761–774
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (167)
+Ray-David et al., 2012
+H. Ray-David, Y. Romeo, G. Lavoie, P. Deleris, J. Tcherkezian, J.A. Galan, P.P. Roux
+RSK promotes G2 DNA damage checkpoint silencing and participates in melanoma chemoresistance
+Oncogene, 32 (2012), pp. 4480–4489
+
+Rieder and Maiato, 2004
+C.L. Rieder, H. Maiato
+Stuck in division or passing through: what happens when cells cannot satisfy the spindle assembly checkpoint
+Dev. Cell, 7 (2004), pp. 637–651
+
+Article |  PDF (396 K) | View Record in Scopus | Citing articles (290)
+Rushworth et al., 2006
+L.K. Rushworth, A.D. Hindley, E. O’Neill, W. Kolch
+Regulation and role of Raf-1/B-Raf heterodimerization
+Mol. Cell. Biol., 26 (2006), pp. 2262–2272
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (164)
+Schoppy et al., 2012
+D.W. Schoppy, R.L. Ragland, O. Gilad, N. Shastri, A.A. Peters, M. Murga, O. Fernandez-Capetillo, J.A. Diehl, E.J. Brown
+Oncogenic stress sensitizes murine cancers to hypomorphic suppression of ATR
+J. Clin. Invest., 122 (2012), pp. 241–252
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Shirasawa et al., 1993
+S. Shirasawa, M. Furuse, N. Yokoyama, T. Sasazuki
+Altered growth of human colon cancer cell lines disrupted at activated Ki-ras
+Science, 260 (1993), pp. 85–88
+
+View Record in Scopus | Citing articles (406)
+Shtivelman et al., 2002
+E. Shtivelman, J. Sussman, D. Stokoe
+A role for PI 3-kinase and PKB activity in the G2/M phase of the cell cycle
+Curr. Biol., 12 (2002), pp. 919–924
+
+Article |  PDF (283 K) | View Record in Scopus | Citing articles (114)
+Singh et al., 2005
+A. Singh, A.P. Sowjanya, G. Ramakrishna
+The wild-type Ras: road ahead
+FASEB J., 19 (2005), pp. 161–169
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Syljuåsen et al., 2005
+R.G. Syljuåsen, C.S. Sørensen, L.T. Hansen, K. Fugger, C. Lundin, F. Johansson, T. Helleday, M. Sehested, J. Lukas, J. Bartek
+Inhibition of human Chk1 causes increased initiation of DNA replication, phosphorylation of ATR targets, and DNA breakage
+Mol. Cell. Biol., 25 (2005), pp. 3553–3562
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (240)
+Toledo et al., 2011a
+L.I. Toledo, M. Murga, O. Fernandez-Capetillo
+Targeting ATR and Chk1 kinases for cancer treatment: a new model for new (and old) drugs
+Mol. Oncol., 5 (2011), pp. 368–373
+
+Article |  PDF (343 K) | View Record in Scopus | Citing articles (38)
+Toledo et al., 2011b
+L.I. Toledo, M. Murga, R. Zur, R. Soria, A. Rodriguez, S. Martinez, J. Oyarzabal, J. Pastor, J.R. Bischoff, O. Fernandez-Capetillo
+A cell-based screen identifies ATR inhibitors with synthetic lethal properties for cancer-associated mutations
+Nat. Struct. Mol. Biol., 18 (2011), pp. 721–727
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+Weber et al., 2001
+C.K. Weber, J.R. Slupsky, H.A. Kalmes, U.R. Rapp
+Active Ras induces heterodimerization of cRaf and BRaf
+Cancer Res., 61 (2001), pp. 3595–3598
+
+View Record in Scopus | Citing articles (121)
+Ying et al., 2012
+H. Ying, A.C. Kimmelman, C.A. Lyssiotis, S. Hua, G.C. Chu, E. Fletcher-Sananikone, J.W. Locasale, J. Son, H. Zhang, J.L. Coloff et al.
+Oncogenic Kras maintains pancreatic tumors through regulation of anabolic glucose metabolism
+Cell, 149 (2012), pp. 656–670
+
+Article |  PDF (3136 K) | View Record in Scopus | Citing articles (114)
+Young et al., 2012
+A. Young, D. Lou, F. McCormick
+Oncogenic and wild-type Ras play divergent roles in the regulation of mitogen-activated protein kinase signaling
+Cancer Discov., 3 (2012), pp. 112–123
+
+View Record in Scopus | Citing articles (1)
+Zabludoff et al., 2008
+S.D. Zabludoff, C. Deng, M.R. Grondine, A.M. Sheehy, S. Ashwell, B.L. Caleb, S. Green, H.R. Haye, C.L. Horn, J.W. Janetka et al.
+AZD7762, a novel checkpoint kinase inhibitor, drives checkpoint abrogation and potentiates DNA-targeted therapies
+Mol. Cancer Ther., 7 (2008), pp. 2955–2966
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (154)
+Zachos and Gillespie, 2007
+G. Zachos, D.A. Gillespie
+Exercising restraints: role of Chk1 in regulating the onset and progression of unperturbed mitosis in vertebrate cells
+Cell Cycle, 6 (2007), pp. 810–813
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Zhang et al., 2001
+Z. Zhang, Y. Wang, H.G. Vikis, L. Johnson, G. Liu, J. Li, M.W. Anderson, R.C. Sills, H.L. Hong, T.R. Devereux et al.
+Wildtype Kras2 can inhibit lung carcinogenesis in mice
+Nat. Genet., 29 (2001), pp. 25–33
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (166)
+Zhou and Elledge, 2000
+B.B. Zhou, S.J. Elledge
+The DNA damage response: putting checkpoints in perspective
+Nature, 408 (2000), pp. 433–439
+
+View Record in Scopus | Citing articles (1838)
+Zhou and Bartek, 2004
+B.B. Zhou, J. Bartek
+Targeting the checkpoint kinases: chemosensitization versus chemoprotection
+Nat. Rev. Cancer, 4 (2004), pp. 216–225
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (248)
+Corresponding author contact information
+Corresponding author
+Copyright © 2014 Elsevier Inc. All rights reserved.

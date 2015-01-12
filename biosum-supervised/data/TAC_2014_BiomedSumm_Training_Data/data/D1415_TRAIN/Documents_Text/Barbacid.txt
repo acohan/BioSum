@@ -1,0 +1,93 @@
+﻿Opening a New GATAway for Treating KRAS-Driven Lung Tumors
+Mariano Barbacid1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.ccr.2012.04.032
+Under an Elsevier user license
+Refers To
+Surbhi Gupta, Antoine R. Ramjaun, Paula Haiko, Yihua Wang, Patricia H. Warne, Barbara Nicke, Emma Nye, Gordon Stamp, Kari Alitalo, Julian Downward
+Binding of Ras to Phosphoinositide 3-Kinase p110α Is Required for Ras- Driven Tumorigenesis in Mice
+Cell, Volume 129, Issue 5, 1 June 2007, Pages 957-968
+ PDF (1318 K)  Supplementary content
+  Open Archive
+In a recent issue of Cell, Kumar and colleagues uncovered a synthetic lethal interaction between oncogenic KRAS and the transcription factor GATA2 in non-small cell lung carcinoma. Pharmacological inhibition of GATA2-mediated pathways with bortezomib and fasudil results in dramatic tumor inhibition. These observations unveil new armamentaria to fight this deadly disease.
+
+Main Text
+Non-small cell lung carcinoma (NSCLC) has one of the highest incidence and lowest survival rates, a combination that makes this tumor type one of the deadliest human cancers. At least a quarter of NSCLC express a mutant KRAS allele that encodes a constitutively active small G protein known to signal through a series of kinases. While these kinases are in principle amenable to pharmacological intervention, a selective treatment for KRAS mutant NSCLC is not yet available in the clinic.
+
+During the last decade, there have been significant efforts directed to reproduce the natural history of NSCLC in genetically engineered mouse (GEM) models (Heyer et al., 2010). Recently, these models have been utilized to evaluate potential therapeutic targets. Some of the validated targets include well-known downstream elements of KRAS signaling such as components of the mitogenic RAF/MEK/ERK cascade and the PI3K/AKT survival pathway, most of which are druggable kinases (Gupta et al., 2007, Engelman et al., 2008 and Blasco et al., 2011) (Figure 1A). However, these studies cannot be directly extrapolated to the clinic because target ablation occurred during tumor initiation rather than during tumor progression. Moreover, these Kras oncogene-driven GEM models retained the full component of tumor suppressors and, hence, do not develop metastatic tumors.
+
+Full-size image (78 K)
+Figure 1. 
+Preclinical Studies to Validate Therapeutic Targets in KRAS-Driven NSCLC
+(A) Schematic diagram of putative therapeutic targets validated by genetic approaches in GEM models of NSCLCs driven by resident Kras oncogenes. (Left) GEM models driven by conditional mutant Kras alleles develop adenomas and non-metastatic adenocarcinomas (in blue). (Right) GEM models that also carry mutated or null Tp53 or have Tp53 knockdown develop more aggressive adenocarcinomas (in red) that frequently metastasize to distant organs.
+(B) RNAi screens aimed at identifying human genes capable of inducing synthetic lethality in combination with KRAS oncogenes.
+(C) Pharmacologic approaches using selective targeted inhibitors in the above Kras-driven GEM models. Original references for these GEM models have been omitted due to space limitations.
+Figure options
+Other studies have attempted to validate pathways less directly linked to KRAS signaling. In one study, elimination of CDK4, but not the other interphase CDKs, elicited a rapid senescence response that resulted in partial tumor regression, an observation validated with clinically available CDK4 inhibitors (Puyol et al., 2010) (Figure 1A). Other studies have examined the therapeutic consequences of inhibiting the NF-κB pathway in GEM models carrying Tp53 null alleles or expressing reduced levels of p53 ( Meylan et al., 2009 and Xia et al., 2012). When challenged with an IκB super-repressor or when IKKβ expression was knocked down, tumors regressed, although they were not completely eliminated ( Figure 1). These observations suggest that blocking NF-κB-driven survival pathways might serve as a therapeutic strategy to thwart KRAS-driven tumor progression.
+
+Other investigators have expanded the repertoire of KRAS targets by searching for synthetic lethal genes using RNA interference (RNAi) libraries. Screens of human NSCLC cell lines carrying either wild-type or mutant KRAS have identified targets linked to the cell cycle such as PLK1, a kinase involved in mitotic progression and to the NF-κB pathway such as TKB1, a non-canonical IκB kinase ( Barbie et al., 2009 and Luo et al., 2009) ( Figure 1B). In vivo validation of these synthetic lethal genes will establish their therapeutic value in KRAS-driven lung tumors.
+
+In a recent issue of Cell, the Downward laboratory ( Kumar et al., 2012) went all the way from identifying GATA2 as a novel synthetic lethal gene to validating it using Kras-driven GEM models and, finally, to demonstrating its therapeutic potential by using surrogate drugs already approved for clinical use ( Figure 1). Kumar et al. (2012) screened human NSCLC cell lines carrying either wild-type or mutant KRAS with an RNAi library against 7,000 human genes. Using cell viability as the biological read-out, they identified the transcription factor GATA2 essential for the proliferation of cell lines carrying oncogenic KRAS. GATA2 knockdown also reduced the viability of cell lines carrying mutated loci functionally related to KRAS such as NRAS, NF1, EML4-ALK, and EGFR. Interestingly, GATA2 is an unlikely actor in lung cancer because its function has, so far, only been linked to the hematopoietic system.
+
+Gene set enrichment analysis revealed that reduction of GATA2-mediated transcription in lung tumor cells affected several pathways, suggesting that a pleiotropic effect is required for the observed synthetic lethality. Knockdown of GATA2 affected proteosomal activity in lung tumor cells, an observation reminiscent of that obtained in previous screens (Barbie et al., 2009 and Luo et al., 2009). This effect appears to be independent of the presence of oncogenic KRAS and is not sufficient to induce loss of cell viability. GATA2 depletion also led to transcriptional repression of IL-1 and NF-κB signaling pathways. In this case, some of the observed effects, mainly expression of TRAF6, were specific for KRAS mutant cells. Yet, direct inhibition of either IL-1 signaling by its antagonist IL-1ra or of NF-κB signaling by TRAF6 knockdown did not result in loss of cell viability, suggesting that inhibition of either pathway alone is not sufficient to phenocopy loss of GATA2 expression. Finally, Kumar et al. (2012) identified that some genes involved in RHO-related signaling pathways were occupied by GATA2 in KRAS mutant but not wild-type tumor cells. Not surprisingly, GATA2 knockdown in KRAS mutant cells resulted in a striking reduction of active GTP-bound RHO proteins, including the downstream ROCK kinase. Restoration of RHO activity by expression of constitutively active RHO proteins or by a ROCK-ER fusion kinase did not rescue cell viability in the absence of GATA2, again suggesting that blocking RHO signaling is not sufficient to mimic loss of GATA2 activity. Intriguingly, KRAS oncogene knockdown, while affecting cell viability of KRAS mutant cells to a similar extent as GATA2 knockdown, had no effect on the proteasome pathway, NF-κB activity, or RHO signaling. These observations suggest that GATA2 is not a downstream component of the KRAS oncogenic signaling pathway.
+
+Conditional ablation of Gata2 alleles in a Kras-driven GEM model of NSCLC prevented tumor initiation. More importantly, systemic elimination of Gata2 in mice already presenting Kras-driven lung tumors resulted in substantial tumor regression without major side effects suggesting that blocking GATA2 activity could have therapeutic value and might be well tolerated in patients. Whether inhibition of GATA2 results in defects in the immune system (a phenotype that might not be obvious in the protected environment of an animal facility) remains to be determined.
+
+Finally, Kumar et al. (2012) combined available inhibitors selective for two of the pathways regulated by GATA2 to treat mice with Kras-driven NSCLCs. The chosen inhibitors bortezomib (a proteasome inhibitor) and fasudil (a RHO/ROCK inhibitor) have already been approved for use in human patients. When combined, these inhibitors induced almost complete regression of well-established lung tumors in the Kras-driven GEM model (Figure 1C). These observations are reminiscent of a previous report in which similar tumors also regressed upon treatment with a combination of MEK and PI3K inhibitors (Engelman et al., 2008). However, MEK inhibitors have not been approved by the FDA due to undesired toxicities, and PI3K inhibitors have thus far shown rather limited anti-tumor activity.
+
+Are we on the verge of a major breakthrough in the treatment of KRAS-induced NSCLC? Possibly; however, we should consider the data of Kumar et al. (2012) as an exciting but early step in the long process of drug discovery. The GEM model used in this study retains wild-type Tp53, suggesting that the tumors successfully treated with bortezomib and fasudil might not be as aggressive as those in most NSCLC patients. Moreover, the in vivo data is still preliminary and other potential roadblocks such as drug resistance have not been examined. In spite of these caveats, the results of Kumar et al. (2012) represent a very important advance in the long-standing fight to conquer lung cancer. Undoubtedly, they have opened an important “GATAway” toward this challenging goal.
+
+References
+Barbie et al., 2009
+D.A. Barbie, P. Tamayo, J.S. Boehm, S.Y. Kim, S.E. Moody, I.F. Dunn, A.C. Schinzel, P. Sandy, E. Meylan, C. Scholl et al.
+Nature, 462 (2009), pp. 108–112
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (313)
+Blasco et al., 2011
+R.B. Blasco, S. Francoz, D. Santamaría, M. Cañamero, P. Dubus, J. Charron, M. Baccarini, M. Barbacid
+Cancer Cell, 19 (2011), pp. 652–663
+
+Article |  PDF (1248 K) | View Record in Scopus | Citing articles (56)
+Engelman et al., 2008
+J.A. Engelman, L. Chen, X. Tan, K. Crosby, A.R. Guimaraes, R. Upadhyay, M. Maira, K. McNamara, S.A. Perera, Y. Song et al.
+Nat. Med., 14 (2008), pp. 1351–1356
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (556)
+Gupta et al., 2007
+S. Gupta, A.R. Ramjaun, P. Haiko, Y. Wang, P.H. Warne, B. Nicke, E. Nye, G. Stamp, K. Alitalo, J. Downward
+Cell, 129 (2007), pp. 957–968
+
+Article |  PDF (1318 K) | View Record in Scopus | Citing articles (254)
+Heyer et al., 2010
+J. Heyer, L.N. Kwong, S.W. Lowe, L. Chin
+Nat. Rev. Cancer, 10 (2010), pp. 470–480
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Kumar et al., 2012
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas, M. Steckel, P. East, M. Diefenbacher, E. Armenteros-Monterroso, F. Lassailly, N. Matthews, E. Nye, G. Stamp, A. Behrens, J. Downward
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+Luo et al., 2009
+J. Luo, M.J. Emanuele, D. Li, C.J. Creighton, M.R. Schlabach, T.F. Westbrook, K.K. Wong, S.J. Elledge
+Cell, 137 (2009), pp. 835–848
+
+Article |  PDF (2187 K) | View Record in Scopus | Citing articles (351)
+Meylan et al., 2009
+E. Meylan, A.L. Dooley, D.M. Feldser, L. Shen, E. Turk, C. Ouyang, T. Jacks
+Nature, 462 (2009), pp. 104–107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (201)
+Puyol et al., 2010
+M. Puyol, A. Martín, P. Dubus, F. Mulero, P. Pizcueta, G. Khan, C. Guerra, D. Santamaría, M. Barbacid
+Cancer Cell, 18 (2010), pp. 63–73
+
+Article |  PDF (1649 K) | View Record in Scopus | Citing articles (88)
+Xia et al., 2012
+Y. Xia, N. Yeddula, M. Leblanc, E. Ke, Y. Zhang, E. Oldfield, R.J. Shaw, I.M. Verma
+Nat. Cell Biol., 14 (2012), pp. 257–265
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Corresponding author contact information
+Corresponding author
+Copyright © 2012 Elsevier Inc. All rights reserved.

@@ -1,0 +1,588 @@
+﻿Ragulator Is a GEF for the Rag GTPases that Signal Amino Acid Levels to mTORC1
+Liron Bar-Peled1, 2, Lawrence D. Schweitzer1, 2, Roberto Zoncu1, 2, David M. Sabatini1, 2, 3, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2012.07.032
+Under an Elsevier user license
+  Open Archive
+Summary
+The mTOR Complex 1 (mTORC1) pathway regulates cell growth in response to numerous cues, including amino acids, which promote mTORC1 translocation to the lysosomal surface, its site of activation. The heterodimeric RagA/B-RagC/D GTPases, the Ragulator complex that tethers the Rags to the lysosome, and the v-ATPase form a signaling system that is necessary for amino acid sensing by mTORC1. Amino acids stimulate the binding of guanosine triphosphate to RagA and RagB but the factors that regulate Rag nucleotide loading are unknown. Here, we identify HBXIP and C7orf59 as two additional Ragulator components that are required for mTORC1 activation by amino acids. The expanded Ragulator has nucleotide exchange activity toward RagA and RagB and interacts with the Rag heterodimers in an amino acid- and v-ATPase-dependent fashion. Thus, we provide mechanistic insight into how mTORC1 senses amino acids by identifying Ragulator as a guanine nucleotide exchange factor (GEF) for the Rag GTPases.
+
+Graphical Abstract
+Full-size image (40 K)
+Figure options
+Highlights
+► C7orf59 and HBXIP are required for amino acid sensing by the mTORC1 pathway ► C7orf59 and HBXIP are additional components the Ragulator complex ► Ragulator is a GEF for the RagA and RagB GTPases ► The v-ATPase controls Ragulator function in cells in response to amino acids
+
+Introduction
+Mechanistic target of rapamycin complex I (mTORC1) is a master growth regulator that couples nutrient availability to the control of cell growth and proliferation. When active, mTORC1 stimulates anabolic processes, such as translation, transcription, lipid biosynthesis, and ribosome biogenesis and inhibits catabolic processes, such as autophagy (reviewed in Howell and Manning, 2011; Ma and Blenis, 2009; Zoncu et al., 2011b). Consistent with its growth-promoting function, many of the oncogenes and tumor suppressors that underlie familial tumor syndromes and sporadic cancers are upstream of mTORC1. mTORC1 responds to a variety of stimuli, including growth factors, oxygen availability, and energy levels, all of which impinge on mTORC1 through the tuberous sclerosis heterodimer (TSC1-TSC2). TSC1-TSC2 negatively regulates the mTORC1 pathway by acting as a GTPase-activating protein (GAP) for Rheb1, a small GTPase that when bound to guanosine triphosphate (GTP) is an essential activator of mTORC1 kinase activity.
+
+One mTORC1 stimulus that does not funnel through the TSC1-TSC2-Rheb axis is amino acid sufficiency (Roccio et al., 2006; Smith et al., 2005). Recent findings indicate that amino acid signaling initiates within the lysosomal lumen (Zoncu et al., 2011a) and induces the translocation of mTORC1 to the lysosomal surface, where it comes in contact with Rheb and becomes activated. How mTORC1 moves to the lysosomal membrane is poorly understood, but another family of GTPases, known as the Rag GTPases, play an integral role (Kim et al., 2008; Sancak et al., 2008). Unique among the small GTPases, the Rags are obligate heterodimers: the highly related RagA and RagB are functionally redundant and bind to RagC or RagD, which are also very similar to each other (Hirose et al., 1998; Schürmann et al., 1995; Sekiguchi et al., 2001). The Rags localize to lysosomal membranes and bind to the raptor component of mTORC1, a process that depends on the binding of GTP to RagA or RagB. Amino acids regulate the binding of nucleotides to RagB, such that amino acid stimulation increases its GTP loading (Sancak et al., 2008). In cells expressing a RagA or RagB mutant that is constitutively bound to GTP, mTORC1 interacts with the Rags and localizes to the lysosome irrespective of amino acid levels, making the mTORC1 pathway immune to amino acid starvation (Kim et al., 2008; Sancak et al., 2008). Thus, a key event in the amino acid-dependent activation of mTORC1 is the conversion of RagA or RagB from a GDP- to GTP-bound state, yet the putative guanine nucleotide exchange factors (GEFs) that mediate this transition have yet to be identified.
+
+Unlike the many GTPases that rely on a lipid moiety for their subcellular localization, the Rags use the recently identified Ragulator complex as their tether to the lysosomal surface. Three proteins that localize to lysosomal membranes make up Ragulator: p18, p14, and MP1, which are encoded by the LAMTOR1, LAMTOR2, and LAMTOR3 genes, respectively. In cells depleted of these proteins, the Rags and mTORC1 no longer reside at the lysosome, and, consequently, the mTORC1 pathway is inactive ( Sancak et al., 2010).
+
+The lysosomal v-ATPase is a recently characterized Ragulator-interacting complex and required for amino acid activation of mTORC1 (Zoncu et al., 2011a). The mechanisms through which the v-ATPase activates the mTORC1 pathway and whether or not Ragulator has additional regulatory functions remain unknown. Here, we identify two additional components of Ragulator, the proteins encoded by the HBXIP and C7orf59 genes. These proteins interact with the Rag GTPases and together with p18, p14, and MP1 form a pentameric Ragulator complex. HBXIP and C7orf59 are necessary for both Rag and mTOR lysosomal localization and mTORC1 activation. Surprisingly, the pentameric Ragulator, but not individual subunits or the trimeric Ragulator, has GEF activity toward RagA and RagB. Furthermore, modulation of the Ragulator-Rag interaction by amino acids requires the v-ATPase, suggesting that v-ATPase activity is upstream of the GEF activity of Ragulator.
+
+Results
+HBXIP and C7orf59 Encode Components of an Expanded Ragulator Complex
+We previously identified p14, MP1, and p18, collectively named Ragulator, as proteins that interact with the Rag GTPases within cells (Sancak et al., 2010). However, in cell-free assays, Rag heterodimers interact relatively weakly with purified, recombinantly produced Ragulator (Sancak et al., 2010), suggesting that proteins responsible for stabilizing the interaction within cells are missing from our in vitro preparations. To identify such proteins, we used a purification strategy involving immunoprecipitation followed by mass spectrometry that previously led to the discovery of other mTORC1 pathway components (see Experimental Procedures). Immunoprecipitates prepared from HEK293T cells stably expressing FLAG-tagged p18, p14, or RagB, but not the Metap2 control, consistently contained HBXIP and the protein product of the C7orf59 gene, hereafter called C7orf59. Several studies implicate HBXIP in the regulation of cell cycle progression, proliferation, apoptosis, and Hepatitis B virus replication ( Fujii et al., 2006; Marusawa et al., 2003; Melegari et al., 1998; Wang et al., 2007; Wen et al., 2008), while C7orf59 has no described functions.
+
+Orthologs of HBXIP and C7orf59 exist in mammals besides humans and in Drosophila ( Figure S1A available online). Like other Ragulator components, HBXIP and C7orf59 lack protein sequence homology with any fission or budding yeast proteins, including Ego1p and Ego3p, which tether the yeast orthologs of the Rag GTPases to the vacuole ( Binda et al., 2009; Dubouloz et al., 2005; Gao and Kaiser, 2006). High-resolution crystal structures of MP1 and p14 reveal the presence of a roadblock domain in each ( Kurzbauer et al., 2004; Lunin et al., 2004), and secondary structure predictions suggest that the C-terminal regions of RagB and RagC also contain this domain ( Gong et al., 2011) ( Figure S1B). While the function of the domain is unknown, it is interesting to note that HBXIP also contains a roadblock domain ( Garcia-Saez et al., 2011), and our secondary structure analyses predict the same for C7orf59 ( Figure S1B). Thus, the Rag-Ragulator complex is likely to contain six roadblock domains.
+
+Full-size image (98 K)
+Figure S1. 
+Secondary Structure Predictions of Rag and Ragulator Proteins Indicate the Presence of the Roadblock Domain and Rags Preferentially Interact with a Pentameric Ragulator Complex, Related to Figure 1
+(A) Schematic amino acid alignment of human HBXIP and C7orf59 with their corresponding Drosophila orthologs.
+(B) The presence of roadblock domains in Ragulator and Rag proteins. Secondary structure predictions of the indicated proteins using Jpred 3 secondary structure prediction server (Cole et al., 2008). The dashed box outlines the canonical roadblock domain predicted in each protein.
+(C) Rags preferentially interact with a pentameric Ragulator complex. In vitro binding assay in which recombinant HA-GST-tagged-RagB-RagC, were incubated with the indicated purified FLAG-tagged Ragulator complexes. HA-GST precipitates were analyzed by immunoblotting for levels of the indicated proteins.
+(D) RagA and RagB are highly similar. Amino acid sequence alignment of RagA and RagB indicates that the two proteins are 98% identical. RagB contains an N-terminal extension that increases its molecular weight compared to RagA.
+(E) RagA is much more abundant than RagB in HEK293T cells. HEK293T cell lysate was analyzed by immunoblotting for RagA and RagB with an antibody from CST that recognizes the same epitope in both proteins.
+Figure options
+Experiments in cells and in cell-free systems indicate that HBXIP and C7orf59 are bona fide Ragulator components. When expressed in HEK293T cells, FLAG-tagged HBXIP or C7orf59, but not Rap2a, coimmunoprecipitated endogenous RagA, which is highly similar but far more abundant than RagB (Figures S1D and S1E), RagC, p18, and MP1 at similar levels as FLAG-p14 (Figures 1A and 1B). Gratifyingly, endogenous HBXIP and C7orf59 coimmunoprecipitated with an antibody to endogenous p18, but not a control protein (Figure 1C). When coexpressed along with Ragulator proteins in HEK293T cells, HBXIP and C7orf59 colocalized with p18 (Figure 1D), consistent with the lysosomal localization of other Ragulator components (Nada et al., 2009; Sancak et al., 2010; Wunderlich et al., 2001). In an in vitro binding assay, HBXIP bound to C7orf59 in the absence of other proteins, and the HBXIP-C7orf59 heterodimer, but neither protein alone, bound the established Ragulator components (MP1, p14, and p18) (Figure 1E). These results indicate that Ragulator is a pentameric complex in which HBXIP and C7orf59 form a heterodimer that interacts, through p18, with the MP1-p14 heterodimer (Figure 1F).
+
+Full-size image (86 K)
+Figure 1. 
+HBXIP and C7orf59 Are Components of an Expanded Ragulator Complex
+(A) Recombinant epitope-tagged HBXIP coimmunoprecipitates endogenous MP1, p18, RagA, and RagC. Anti-FLAG immunoprecipitates were prepared from HEK293T cells transfected with the indicated cDNAs in expression vectors. Cell lysates and immunoprecipitates were analyzed by immunoblotting for levels of indicated proteins.
+(B) Recombinant C7orf59 coimmunoprecipitates endogenous MP1, p18, RagA, and RagC. HEK293T cells were transfected with the indicated cDNAs in expression vectors and analyzed as in (A).
+(C) Endogenous p18 coimmunoprecipitates endogenous p14, MP1, RagA, RagC, HBXIP, and C7orf59. Anti-p18 immunoprecipitates were prepared from HEK293T cells and analyzed for the levels of the indicated proteins.
+(D) Images of HEK293T cells coimmunostained for p18 (green) and FLAG-HBXIP (red) or FLAG-C7orf59 (red). Cells were cotransfected with cDNAs encoding MP1, p14, and p18 and either FLAG-HBXIP or FLAG-C7orf59 and processed for immunostaining and imaging. In all images, insets show selected fields that were magnified five times and their overlays. Scale bar represents 10 μm.
+(E) Ragulator is a pentameric complex. In vitro binding assay in which recombinant HA-GST-tagged-p14-MP1, -C7orf59, or -HBXIP were incubated with the indicated purified FLAG-tagged Ragulator proteins. HA-GST precipitates were analyzed for levels of the indicated proteins.
+(F) Schematic summarizing intra-Ragulator interactions: p18 bridges MP1-p14 with HBXIP-C7orf59.
+(G) The pentameric Ragulator complex coimmunoprecipitates recombinant RagB and RagC. HEK293T cells were cotransfected with the indicated cDNAs in expression vectors and analyzed as in (A).
+(H) Requirement for a pentameric Ragulator complex to interact with Rags. In vitro binding assay in which recombinant HA-GST Ragulator with or without p18 was incubated with purified FLAG-RagB-RagC and analyzed as in (E).
+See also Figure S1.
+Figure options
+Consistent with our initial hypothesis that the original Ragulator lacked components required to bind strongly to the Rag GTPases, in HEK293T cells the pentameric Ragulator interacted to a much greater degree with the Rags than the trimeric one (Figures 1G and S1C). Likewise, in an in vitro binding assay, Rags interacted with an intact pentameric Ragulator, but not one lacking p18 (Figure 1H). It is likely that in previous work, these additional Ragulator components were present in binding experiments in substoichiometric amounts, explaining the weaker interactions we had observed (Sancak et al., 2010). Collectively, our results show that HBXIP and C7orf59 are part of an expanded Ragulator that requires all its subunits to bind strongly to the Rag GTPases.
+
+HBXIP and C7orf59 Are Necessary for TORC1 Activation by Amino Acids in Mammalian and Drosophila Cells
+We next examined the functions of HBXIP and C7orf59 in mTORC1 signaling. In HEK293T cells, RNA interference (RNAi)-mediated reductions in HBXIP or C7orf59 expression blunted mTORC1 activation by amino acids, as detected by S6K1 phosphorylation, to similar extents as knockdowns of the established Ragulator proteins p18 and p14 (Figure 2A). As expected for positive regulators of the growth-promoting mTORC1 pathway (Fingar et al., 2002; Kim et al., 2008; Sancak et al., 2008, 2010; Stocker et al., 2003), reductions in HBXIP and C7orf59 levels also decreased the size of HEK293T cells (Figure 2B). As the components of obligate heterodimers often behave (Cortez et al., 2001; Sancak et al., 2008), loss of either HBXIP or C7orf59 reduced the expression of its partner, but not of p14 (Figure 2A). Finally, consistent with the conserved functions of the Rag and Ragulator proteins in Drosophila ( Kim et al., 2008; Sancak et al., 2008, 2010), treatment of S2 cells with dsRNAs targeting the HBXIP (CG14812) or C7orf59 (CG14977) fly orthologs strongly inhibited dTORC1 activation by amino acids ( Figure 2C). These results establish that HBXIP and C7orf59 are positive components in mammalian and Drosophila cells of the amino acid sensing branch of the TORC1 pathway.
+
+Full-size image (141 K)
+Figure 2. 
+HBXIP and C7orf59 Are Necessary for TORC1 Activation by Amino Acids and Localization of the Rag GTPases and mTOR to the Lysosomal Surface
+(A) C7orf59 and HBXIP are necessary for the activation of the mTORC1 pathway by amino acids. HEK293T cells, treated with siRNAs targeting the mRNAs for the indicated proteins, were starved of amino acids for 50 min, or starved and stimulated with amino acids for 10 min. Immunoblot analyses were used to measure the levels of the indicated proteins and phosphorylation states.
+(B) Cells depleted of C7orf59 and HBXIP are smaller than controls. Cell size distributions are shown for HEK293T cells treated with siRNAs targeting C7orf59, HBXIP, or a scrambled nontargeting control.
+(C) Drosophila orthologs of HBXIP and C7orf59 are required for the activation of the TORC1 pathway. Drosophila S2 cells were transfected with a control dsRNA or dsRNAs targeting dRagC, dC7orf59, or dHBXIP, starved for amino acids for 90 min or starved and stimulated with amino acids for 30 min and analyzed as in (A).
+(D) Images of HEK293T cells, treated with a nontargeting siRNA or siRNAs targeting HBXIP or C7orf59, coimmunostained for RagA (red) and LAMP2 (green). Cells were starved for amino acids or starved and stimulated for the indicated times before processing for the immunofluorescence assay and imaging.
+(E) Images of HEK293T cells, treated with a nontargeting siRNA or siRNAs targeting HBXIP or C7orf59, coimmunostained for mTOR (red) and LAMP2 (green). Cells were treated and processed as in (A). In all images, insets show selected fields that were magnified five times and their overlays. Scale bars represent 10 μm.
+See also Figure S2.
+Figure options
+Localization of the Rag GTPases and mTOR to the Lysosomal Surface Requires HBXIP and C7orf59
+Upon amino acid stimulation, the Rag GTPases recruit mTORC1 to the lysosomal surface (Sancak et al., 2010). In the absence of Ragulator, the Rags detach from the lysosome and cannot target mTORC1 to this organelle. The inability of amino acids to activate mTORC1 in cells depleted of HBXIP and C7orf59 suggested that HBXIP and C7orf59, like p14, MP1, and p18, might also localize the Rags, and thus mTORC1, to the lysosome. Indeed, in HEK293T cells treated with small interfering RNAs (siRNAs) targeting C7orf59 and HBXIP, RagA, and RagC localized in a diffuse pattern throughout the cytoplasm and did not colocalize with the lysosomal marker LAMP2 (Figures 2D and S2A). The lysosomal localization of p18 was unaffected by depletion of HBXIP or C7orf59 (Figure S2B), consistent with its function as a lysosomal tether for the Ragulator complex that does not require other Ragulator components for its own lysosomal localization (Sancak et al., 2010; Nada et al., 2009). As expected from the mislocalization of the Rags, in cells depleted of HBXIP and C7orf59, mTOR also did not colocalize with lysosomes, irrespective of whether or not they had been stimulated with amino acids (Figure 2E). These results indicate that both HBXIP and C7or59 have similar functions to p14, MP1, and p18 and confirm that the pentameric Ragulator complex acts as a scaffold for the Rag GTPases and mTORC1 at the lysosomal membrane (Sancak et al., 2010). Thus, throughout the remainder of this paper, we use the name “Ragulator” to refer to the pentameric complex.
+
+Full-size image (55 K)
+Figure S2. 
+HBXIP and C7orf59 Are Required for the Localization of RagC but Not p18 to the Lysosomal Surface, Related to Figure 2
+(A) Images of HEK293T cells, treated with a nontargeting siRNA or siRNAs targeting HBXIP or C7orf59, coimmunostained for RagC (red) and LAMP2 (green) and processed for imaging.
+(B) Images of HEK293T cells, treated with a nontargeting siRNA or siRNAs targeting HBXIP or C7orf59, coimmunostained for p18 (red) and LAMP2 (green). Cells were treated and processed as in (A). In all images, insets show selected fields that were magnified five times and their overlays. Scale bars represent 10 μm.
+See also Figure S2.
+Figure options
+Amino Acids Regulate the Rag-Ragulator Interaction
+Multimeric signaling complexes often engage in regulated interactions as a mechanism to control downstream signaling events (Good et al., 2011). Because the Rag GTPases interact with mTORC1 in an amino acid-dependent manner, we wondered if the binding of Ragulator to the Rags might also be amino acid sensitive. In order to detect the endogenous Rag-Ragulator interaction using the antibodies available in the past, we had found it necessary to use crosslinked conditions that would have prevented detection of a regulated interaction (Sancak et al., 2010). Using optimized cell lysis conditions and improved antibodies, we find that amino acid starvation strengthens the interaction between endogenous Rags and the Ragulator isolated through p14, p18, HBXIP, or C7orf59 (Figures 3A, 3B, S3D, and S3E). Similarly, amino acid stimulation decreased the amounts of endogenous Ragulator that coimmunoprecipitated with RagB (Figures 3C and S3F). Leucine is necessary for mTORC1 activation (Hara et al., 1998) and the Rag-Ragulator as well as the Ragulator-v-ATPase interactions, were both strengthened in cells deprived of leucine (Figure 3D), consistent with a mixture of all 20 amino acids regulating Ragulator-v-ATPase binding (Zoncu et al., 2011a). Amino acids only slightly regulated the interaction between p18 and other endogenous Ragulator proteins (Figure S3C), whereas the amount of mTORC1 that coimmunoprecipitated with Ragulator substantially increased upon amino acid stimulation (Figures S3A and S3B). Because amino acids also modulate the nucleotide loading of RagB (Sancak et al., 2008), the regulated interaction between Ragulator and the Rag heterodimers suggested that Ragulator might have additional functions toward the Rags besides simply being their lysosomal scaffold.
+
+Full-size image (62 K)
+Figure 3. 
+Amino Acids Regulate the Rag-Ragulator Interaction
+(A) Amino acids regulate the amounts of endogenous RagA and RagC that coimmunoprecipitate with recombinant p14 and p18. HEK293T cells, transfected with the indicated cDNAs in expression vectors, were starved for amino acids for 2 hr or starved and stimulated with amino acids for 15 min. Anti-FLAG immunoprecipitates were prepared from cell lysates and analyzed by immunoblotting for levels of indicated proteins.
+(B) Amino acid starvation strengthens the interaction between endogenous Rags and recombinant C7orf59 and HBXIP. HEK293T cells stably expressing FLAG-C7orf59 or FLAG-HBXIP were starved and restimulated with amino acids. Anti-FLAG immunoprecipitates were analyzed as in (A).
+(C) FLAG-RagB coimmunoprecipitation of endogenous Ragulator is dependent on amino acids. HEK293T cells stably expressing FLAG-RagB were starved and restimulated with amino acids as in (A). Anti-FLAG immunoprecipitates were analyzed for the levels of the indicated proteins.
+(D) Leucine starvation strengthens the binding of Ragulator to endogenous Rags and the V1 domain of the v-ATPase. HEK293T cells stably expressing FLAG-p18 were starved and restimulated with total amino acids as in (A) or starved for leucine for 2 hr or starved and stimulated with leucine for 20 min. Anti-FLAG immunoprecipitates were analyzed for the levels of the indicated proteins.
+See also Figure S3.
+Figure options
+Full-size image (128 K)
+Figure S3. 
+Amino Acids Regulate the Ragulator-mTORC1 Interaction, Related to Figure 3
+(A) Amino acid stimulation increases the amount of endogenous mTORC1 that coimmunoprecipitates with recombinant p14 and p18. HEK293T cells stably expressing FLAG-p14 or FLAG-p18 were starved for amino acids for 2 hr or starved and stimulated with amino acids for 15 min. After in-cell crosslinking, anti-FLAG immunoprecipitates were prepared from cell lysates and analyzed by immunoblotting for levels of indicated proteins.
+(B) Amino acids regulate the amount of endogenous mTORC1 that coimmunoprecipitates with recombinant C7orf59 and HBXIP. HEK293T cells stably expressing FLAG-C7orf59 or FLAG-HBXIP were treated as in (A) and anti-FLAG immunoprecipitates were analyzed for the levels of the indicated proteins.
+(C) Inter-Ragulator interactions are moderately regulated by amino acids. HEK293T cells, transfected with the indicated cDNAs in expression vectors, were starved for amino acids for 2 hr or starved and stimulated for 15 min and anti-FLAG immunoprecipitates were analyzed for the levels of the indicated proteins.
+(D) Quantification of endogenous RagA and RagC binding to recombinant p14 and p18 upon amino acid starvation and re-stimulation. Each value represents the normalized mean ± SE for n = 2.
+(E) Quantification of endogenous RagA and RagC binding to recombinant C7orf59 and HBXIP upon amino acid starvation and re-stimulation. Each value represents the normalized mean ± SE for n = 2.
+(F) Quantification of endogenous Ragulator proteins binding to recombinant RagB upon amino acid starvation and re-stimulation. Each value represents the normalized mean ± SE for n = 2.
+Figure options
+Ragulator Preferentially Interacts with Nucleotide-free Rag GTPases
+Regulation of the Rag nucleotide-binding state is not understood, but is key for amino acid signaling to mTORC1. The amino acid-sensitive interaction between Rags and Ragulator prompted us to examine whether Ragulator might also regulate nucleotide binding to the Rags. Intriguingly, many proteins that regulate nucleoside triphosphatase (NTPases) have roadblock domains (Bowman et al., 1999; Koonin and Aravind, 2000; Miertzschke et al., 2011; Wanschers et al., 2008), which four of the five Ragulator components are likely to contain. Preliminary experiments indicated that Ragulator does not have GAP activity toward the Rag GTPases, and so we examined whether it might have the activity of a GEF. A characteristic of GEFs is their strong preference for binding nucleotide-free over nucleotide-loaded GTPases (Bos et al., 2007; Feig, 1999). Incubation with buffers containing EDTA, which chelates the magnesium ion necessary for nucleotide binding, is a common way to generate largely nucleotide-free GTPases (Wang et al., 2000). Interestingly, the presence of EDTA in the cell lysis buffer significantly increased the interaction of recombinant RagB and endogenous Ragulator proteins (Figures 4A and S4A) as well as the binding of recombinant p18 to endogenous RagA and RagC (Figure 4B). In vitro binding assays proved useful in dissecting the effects of nucleotides on the Rag-Ragulator interaction. Ragulator readily bound to the Rags in vitro, likely by displacing their nucleotides (see below), but the addition of GTP significantly weakened the interaction (Figure S4B). In a complementary experiment, highly purified Ragulator had a clear preference for interacting with a recombinant Rag heterodimer stripped of its nucleotides rather than nucleotide bound, indicating that both in cells and in vitro Ragulator prefers binding to nucleotide-free Rags (Figure 4C). It is important to note that even when nucleotide loaded, the Rag GTPases interact to a significant extent with Ragulator, consistent with its role as a scaffold and suggesting that the Rag-Ragulator complex can exist in interaction states of differing strengths.
+
+Full-size image (92 K)
+Figure 4. 
+Ragulator Preferentially Interacts with Nucleotide-free RagB
+(A) EDTA increases the interaction between endogenous Ragulator and FLAG-RagB. HEK293T cells stably expressing Flag-RagB were lysed in the absence or presence of EDTA and cell lysates and anti-FLAG immunoprecipitates analyzed by immunoblotting for the levels of the indicated proteins.
+(B) FLAG-p18 coimmunoprecipitates more endogenous Rags in the presence of EDTA. HEK293T cells stably expressing FLAG-p18 were treated and analyzed as in (A).
+(C) Ragulator preferentially interacts with nucleotide-free Rags. In vitro binding assay in which immobilized HA-GST-Ragulator was incubated with nucleotide-free FLAG-RagB-RagC or Rag heterodimers loaded with GTP. HA-GST precipitates were analyzed for the levels of the indicated proteins.
+(D) Table summarizing Rag mutants used in this study.
+(E) The RagBT54N mutant preferentially interacts with endogenous Ragulator. Anti-FLAG immunoprecipitates were prepared from HEK293T cells transfected with the indicated cDNAs in expression vectors and analyzed as in (A).
+(F) Quantification of endogenous MP1 and p18 binding to RagBT54N-RagC and RagB-RagCS75N. Each value represents the normalized mean ± SD for n = 3.
+See also Figure S4.
+Figure options
+Full-size image (55 K)
+Figure S4. 
+GTP Destabilizes the Rag-Ragulator Complex Both In Vitro and In Vivo, Related to Figure 4
+(A) Quantification of endogenous Ragulator proteins binding to recombinant RagB in the absence and presence of EDTA.
+(B) Excess GTP destabilizes the Rag-Ragulator interaction. In vitro binding assay in which FLAG-RagB-RagC was prebound to HA-GST-Ragulator and then further incubated in the absence or presence of GTPγS. HA-GST precipitates were analyzed by immunoblotting for the levels of the indicated proteins.
+(C) Quantification of the binding of GDP to RagBT54N or RagCS75N. Proteins were loaded with [3H ]GDP and the amount of GDP bound was determined by filter-binding assays. Each value represents the normalized mean ± SD of four independent samples.
+(D) Quantification of binding to GDP to RagBD163N (RagBX) or RagCD181N (RagCX). Proteins were loaded with [3H ]GDP and the amount of GDP bound was determined by filter-binding assays. Each value represents the normalized mean ± SD of four independent samples.
+(E) The nucleotide binding state of RagB governs the Rag-Ragulator interaction. Anti-FLAG immunoprecipitates were prepared from HEK293T cells transfected with the indicated cDNAs in expression vectors and cell lysates and immunoprecipitates were analyzed by immunoblotting for levels of indicated proteins.
+Figure options
+To study a potential regulatory function for Ragulator, it was necessary to first determine if the nucleotide binding state of RagB or RagC is the dominant determinant of the interaction between Rag heterodimers and Ragulator. To address this issue, we generated two different classes of Rag nucleotide binding mutants (Figure 4D). In the first, a critical Thr/Ser that is necessary for stabilizing magnesium was changed to Asn, resulting in mutants (RagBT54N and RagCS75N) that bind negligible amounts of nucleotides (Figure S4C). The corresponding H-Ras mutant (H-RasS17N) also binds nucleotides poorly, but, interestingly, interacts with GEFs to a greater extent than the wild-type protein (Feig, 1999; Feig and Cooper, 1988; John et al., 1993). Mutants in the second class are homologous to H-RasQ61L and are constitutively bound to GTP because they lack GTPase activity (RagBQ99L and RagCQ120L) (Frech et al., 1994; Krengel et al., 1990). Within cells the heterodimer of nucleotide-free RagB and wild-type RagC (RagBT54N-RagC) interacted with Ragulator at levels 4- to 6-fold greater than the heterodimer of wild-type RagB and nucleotide-free RagC (RagB-RagCS75N) (Figures 4E and 4F), suggesting that the presence or absence of nucleotide on RagB largely controls the Rag-Ragulator interaction. Consistent with this interpretation, a heterodimer of GTP-bound RagB and nucleotide-free RagC (RagBQ99L-RagCS75N) interacted with Ragulator much more weakly than a heterodimer with the opposite properties (RagBT54N-RagCQ120L) (Figure S4E). Thus, the nucleotide binding state of RagB is the major determinant of the strength of the interaction between Rag heterodimers and Ragulator.
+
+Ragulator Is a GEF for RagA and RagB
+The binding properties of Ragulator are highly consistent with it having GEF activity toward RagB. To test this possibility, it was necessary to develop a way to measure GDP dissociation from one Rag and not the other. To this end, we mutated the conserved Asp to Asn in the Rag “NKxD motif” (RagBD163N and RagCD181N). This mutation changes the base specificity of a GTPase from guanine to xanthosine nucleotides (Hoffenberg et al., 1995; Schmidt et al., 1996), and we denote these mutants as RagBX or RagCX both of which bind less than 2% of the guanine nucleotides than their wild-type counterparts (Figure S4D). Therefore, when we load RagBX-RagC or RagB-RagCX with GDP or GTP in vitro, we know which of the Rag GTPases in the heterodimer is bound to the guanine nucleotide.
+
+In vitro many GEFs displace GDP and GTP at similar rates from their cognate GTPases (Klebe et al., 1995; Lenzen et al., 1998; Zhang et al., 2005). Thus, we loaded RagBX-RagC or RagB-RagCX heterodimers with labeled GDP or GTP and tested the effects of Ragulator on their dissociation. Ragulator did not affect GDP or GTP dissociation from the Rap2a control GTPase (Figure 5A). When tested on RagC within the RagBX-RagC heterodimer, Ragulator modestly increased the release of GDP but not that of GTP (Figure 5B). In contrast, Ragulator greatly accelerated both GDP and GTP dissociation from RagB in the RagB-RagCX heterodimer (Figures 5C and S5A) and did so in a dose-dependent manner (Figure S5C). As expected from the very high level of homology between RagA and RagB (Figure S1D), Ragulator also greatly increased guanine nucleotide dissociation from RagA in the RagA-RagCX heterodimer (Figure 5D). Consistent with its function as a GEF, in a GTP binding assay in which we prebound RagB-RagCX or RagA-RagCX with unlabeled GDP and then incubated it with labeled GTP, Ragulator significantly increased GTP binding to RagB and RagA (Figures 5E, 5F, and S5B).
+
+Full-size image (74 K)
+Figure 5. 
+Ragulator Is a GEF for RagA and RagB
+(A) Ragulator does not stimulate GDP or GTPγS dissociation from Rap2a. Nucleotide dissociation assay, in which Rap2a was loaded with either [3H]GDP or [35S]GTPγS, and incubated with Ragulator. Dissociation was monitored by a filter-binding assay. Each value represents the normalized mean ± SD for n = 4.
+(B) Ragulator moderately stimulates GDP, but not GTPγS dissociation from RagC. RagBD163N-RagC was loaded, incubated with Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+(C) Ragulator greatly accelerates GDP and GTPγS dissociation from RagB. RagB-RagCD181N was loaded, incubated with Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+(D) Ragulator substantially increases GDP and GTPγS dissociation from RagA. RagA-RagCD181N was loaded with nucleotide, incubated with Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+(E) Ragulator accelerates GTPγS binding to RagB. RagB-RagCD181N was loaded with GDP and incubated with Ragulator or a control and [35S]GTPγS. [35S]GTPγS binding was determined as in (A). Each value represents the normalized mean ± SD for n = 4.
+(F) Ragulator potentiates GTPγS binding to RagA. RagA-RagCD181N was loaded with GDP and incubated with Ragulator or a control and [35S]GTPγS. [35S]GTPγS binding was determined as in (A). Each value represents the normalized mean ± SD for n = 4.
+(G) Individual Ragulator subunits do not increase GDP dissociation from RagB. [3H]GDP bound RagB-RagCD181N was incubated with Ragulator, p14-MP1, HBXIP-C7orf59, or p18, and [3H]GDP dissociation monitored as in (A). Each value represents the normalized mean ± SD for n = 4.
+(H) Trimeric Ragulator complexes do not increase GTPγS dissociation from RagB. [35S]GTPγS bound RagB-CD181N was incubated with Ragulator, p14-MP1-p18, or HBXIP-C7orf59-p18 and dissociation was monitored as in (A). Each value represents the normalized mean ± SD for n = 4.
+See also Figure S5.
+Figure options
+Full-size image (85 K)
+Figure S5. 
+The Nucleotide State of RagC Does Not Alter Ragulator Activity toward RagB and VPS39 Does Not Function as a GEF for RagB, Related to Figure 5
+(A) Ragulator stimulates GDP dissociation from RagB. Nucleotide dissociation assay in which RagB-RagCD181N was loaded with [3H]GDP and incubated with Ragulator or a control. Dissociation was monitored by a filter-binding assay and is reported as pmols of [3H]GDP per mg of RagB-RagCD181N. Each value represents the normalized mean ± SD for n = 4.
+(B) Ragulator increases GTPγS binding to RagA. RagA-RagCD181N loaded with GDP was incubated with Ragulator or a control and [35S]GTPγS. [35S]GTPγS binding was determined as in (A) and is reported as pmols of [35S]GTPγS per mg of RagA-RagCD181N. Each value represents the normalized mean ± SD for n = 4.
+(C) Ragulator stimulates GDP and GTPγS dissociation in a dose dependent manner. Dissociation assay in which RagB-RagCD181N was loaded with either [3H]GDP or [35S]GTPγS, and incubated with the indicated amounts of Ragulator and analyzed as in (A). Each value represents the normalized mean of two independent samples.
+(D) The nucleotide-binding state of RagC does not alter Ragulator-mediated GDP dissociation from RagB. Dissociation assay in which RagB-RagCD181N was loaded with either XDP or XTPγS and [3H]GDP and incubated with Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+(E) Ragulator-mediated GTP dissociation from RagB is not affected by RagC nucleotide binding. Dissociation assay in which RagB-RagCD181N was loaded with either XDP or XTPγS and [35S]GTPγS and incubated with Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+(F) VPS39 does not interact with endogenous Rags. Anti-FLAG immunoprecipitates were prepared from HEK293T cells transfected with the indicated cDNAs in expression vectors. Cell lysates and immunoprecipitates were analyzed by immunoblotting for levels of indicated proteins.
+(G) VPS39 does not stimulate GDP or GTP dissociation from RagB. Dissociation assay in which RagB-RagCD181N was loaded with either [3H]GDP or [35S]GTPγS, and incubated with either VPS39, Ragulator or a control and analyzed as in (A). Each value represents the normalized mean ± SD for n = 4.
+Figure options
+Because the Rags function as a heterodimer, we wondered whether the nucleotide binding state of RagC might alter the function of Ragulator toward RagB. When the RagB-RagCX heterodimer was coloaded with either XDP or XTP in addition to GDP or GTP (Figures S5D and S5E), there was no difference in Ragulator-mediated GDP or GTP dissociation from RagB, suggesting that the nucleotide binding state of RagC does not alter Ragulator GEF activity toward RagB.
+
+To determine if the exchange activity of Ragulator depends on a particular subunit, we tested p14-MP1, HBXIP-C7orf59, and p18 separately in the GDP exchange assay. Unlike the pentameric complex, none of these subassemblies increased GDP dissociation from RagB (Figure 5G). Likewise, trimeric Ragulators composed of either p14-MP1-p18 or HBXIP-C7orf59-p18 were no more effective at accelerating GTP dissociation from RagB than a control protein (Figure 5H). These results indicate that Ragulator is a GEF for RagA and RagB and that a pentameric Ragulator is required for this activity.
+
+Recently, Vam6 was shown to act as a GEF for Gtr1p, the yeast ortholog of RagA and RagB, and to be necessary for the activation of the TORC1 pathway in yeast (Binda et al., 2009). However, we found that VPS39, the mammalian ortholog of VAM6, not only failed to interact with endogenous RagA (Figure S5F) but also did not stimulate GDP or GTP dissociation from RagB (Figure S5G). These findings suggest that VPS39 is not a GEF for RagA or RagB and that the amino acid sensing mechanisms of yeast and higher eukaryotes have diverged.
+
+The v-ATPase Controls Ragulator Function in Cells
+The v-ATPase is a positive regulator of the mTORC1 signaling pathway that acts downstream of amino acids and upstream of the Rags (Zoncu et al., 2011a). The v-ATPase consists of V0 and V1 domains, two multisubunit complexes (Forgac, 2007), both of which interact with Ragulator (Zoncu et al., 2011a). Interestingly, amino acid starvation and restimulation strengthens and weakens the V1-Ragulator interaction, respectively, while v-ATPase inhibition prevents regulation of the interaction by locking it in the amino acid-free state. Because the v-ATPase, unlike Ragulator, is not required to maintain the Rag GTPases on the lysosomal surface (Zoncu et al., 2011a), it must have an important function distinct from the control of Rag localization. Given its regulated interaction with Ragulator, it seemed likely that the v-ATPase might regulate the GEF activity of Ragulator. To test this possibility, we used the amino acid-sensitive interaction between the Rag heterodimers and Ragulator as a marker of Ragulator GEF activity in cells. Consistent with the nucleotide loaded state of RagB determining the Rag-Ragulator interaction, in cells stably expressing the GTP-bound RagBQ99L mutant, the interaction between Ragulator and RagBQ99L was no longer regulated by amino acids and resembled the weak Rag-Ragulator interaction observed in amino acid stimulated cells (Figure 6A). Interestingly, pretreatment of cells with the v-ATPase inhibitors Salicylihalamide A (SalA) (Xie et al., 2004) or Concanamycin A (ConA) (Bowman et al., 2004), prevented amino acid stimulation from weakening the Rag-Ragulator interaction, which remained at the strong level observed in the absence of amino acids (Figures 6A, 6B, and S6A). Importantly, v-ATPase inhibition did not affect the already weak interaction between the RagBQ99L mutant and Ragulator (Figure 6A). Thus, regulation of the Rag-Ragulator interaction depends on the v-ATPase, which is necessary to transmit the amino acid signal to the GEF activity of Ragulator.
+
+Full-size image (55 K)
+Figure 6. 
+The v-ATPase Controls the Function of Ragulator
+(A) The v-ATPase functions upstream of the regulated binding between Rags and Ragulator. HEK293T cells stably expressing FLAG-RagB or FLAG-RagBQ99L were starved for 2 hr or starved and stimulated with amino acids for 15 min in the absence or presence of the v-ATPase inhibitor SalA. Cell lysates and anti-FLAG immunoprecipitates were analyzed by immunoblotting for the levels of the indicated proteins.
+(B) Inactivation of the v-ATPase blocks the amino acid dependent Rag-Ragulator interaction. HEK293T cells stably expressing FLAG-p18 were treated as in (B). Anti-FLAG immunoprecipitates were analyzed for the levels of the indicated proteins.
+(C) Model for amino acid induced mTORC1 activation. In the absence of amino acids the v-ATPase, Ragulator, and Rags exist in a tightly bound super complex and mTORC1 cannot associate with the lysosomal surface and remains inactive. Amino acid accumulation in the lysosomal lumen generates an activating signal that is transmitted in a v-ATPase-dependent fashion to activate the GEF activity of Ragulator toward RagA. Upon RagA-GTP loading, the Rag-Ragulator interaction weakens and mTORC1 is recruited to the lysosomal surface where it interacts with Rheb and becomes activated. Rheb is not shown.
+See also Figure S6.
+Figure options
+Full-size image (26 K)
+Figure S6. 
+v-ATPase Inhibition Decreases the Regulated Interaction between Rags and Ragulator, Related to Figure 6
+(A) Inactivation of the v-ATPase inhibits the amino acid dependent regulated interaction between Ragulator and Rags. HEK293T cells stably expressing FLAG-p18 were starved for amino acids for 2 hr or starved and stimulated with amino acids for 15 min in the absence or presence of the v-ATPase inhibitor ConA. Cell lysates and anti-FLAG immunoprecipitates were analyzed by immunoblotting for the levels of the indicated proteins.
+Figure options
+Discussion
+In this study, we identify HBXIP and C7orf59 as two additional components of the mTORC1 pathway. In association with known Ragulator proteins (p18, p14, and MP1), HBXIP and C7orf59 form a pentameric complex that is essential for localizing the Rag GTPases to the lysosomal surface and activating mTORC1 in response to amino acids. In addition to being a scaffold, Ragulator promotes nucleotide exchange of RagB and of the highly related RagA. Thus, we identify a key link in the signaling cascade that converts a signal emanating from amino acids into the nucleotide loading of the Rags and ultimately the recruitment of mTORC1 to the lysosomal surface. We suggest that C7orf59 and HBXIP be renamed LAMTOR4 and LAMTOR5, respectively, to reflect their critical roles in regulating the mTORC1 pathway and to be consistent with the naming convention of other Ragulator components.
+
+Our in vitro binding results and secondary structure predictions, combined with available structural data, support the following molecular architecture for pentameric Ragulator: p18 is a lysosome-associated scaffold protein that binds two roadblock-containing heterodimers, p14-MP1 and HBXIP-C7orf59, and thereby tethers them to the lysosome. In vitro and in vivo data suggest that all five members of Ragulator must be present to efficiently interact with the Rag heterodimers, although the stoichiometry between the two complexes is unknown. The recently reported crystal structure of a Gtr1p-Gtr2p heterodimer, the yeast orthologs of mammalian Rags, reveals the presence of roadblock domains in the C-terminal portion of both GTPases, a structural feature that the C-terminal domains of the Rags are also predicted to have (Gong et al., 2011). Thus, the roadblock domain may represent the basic architectural element of the Ragulator-Rag complex.
+
+Several proteins that interact with NTPases have a roadblock domain, suggesting that it may have regulatory functions as well as structural ones (Koonin and Aravind, 2000). The recently solved crystal structure of the bacterial GAP, MglB, shows that it contains a roadblock domain and may promote GTP hydrolysis through stabilization of the catalytic machinery of its cognate GTPase (Miertzschke et al., 2011). Consistent with a possible regulatory role for proteins with this domain, Ragulator prefers to bind to nucleotide-free rather than nucleotide-bound RagB. These binding properties are characteristic of other GEF-GTPase interactions and suggested that Ragulator might be a GEF for RagA and RagB. To test this hypothesis, it was necessary to develop a system for monitoring the nucleotide bound to an individual Rag in a heterodimer containing two of them. To this end, we made use of Rag complexes containing a wild-type Rag that binds guanine nucleotides and a RagX mutant that cannot. We suggest that the RagX mutants may be useful reagents for the identification of other factors that control the nucleotide-loading state of the Rags. Ragulator greatly increases both GDP and GTP dissociation from RagB and RagA but not RagC. The preferential GEF activity of Ragulator for RagB and RagA likely stems from differences between the RagA/B and the RagC switch I/II regions, which are known to serve as a critical recognition motif on a GTPase for its cognate GEF (Fiegen et al., 2006; Goldberg, 1998). In addition, the intrinsic rapid GDP dissociation capacity of RagC suggests that a GEF might not be necessary for it. Rather, other regulators, namely guanine dissociation inhibitors, which block GDP dissociation (Garcia-Mata et al., 2011; Jennings and Pavitt, 2010), might have a more prominent role in the regulation of GTP binding by RagC.
+
+Protein scaffolds encompass one of the most diverse sets of signaling molecules in cells. Recent studies have suggested that in addition to bringing multiple proteins together, some scaffolds also have catalytic functions. Escherichia coli uses the catalytic scaffold EspG to inhibit host intracellular trafficking by bringing together the Arf1 GTPase and Pak2 kinase as well as blocking Arf1-GAP assisted-GTP hydrolysis and activating Pak2 kinase activity ( Selyunin et al., 2011). Similarly, by binding to both Rags and the v-ATPase, Ragulator not only physically connects two major regulators of mTORC1 but also transmits the amino acid signal from the v-ATPase to the Rags through its GEF activity.
+
+Our inability to detect GEF activity in partial assemblies of Ragulator implies that multiple surfaces, which exist only on the pentameric Ragulator are required to endow it with exchange activity. Recently, TRAPPI, a multiprotein tethering complex was identified as a GEF for YPT1 (Jones et al., 2000; Wang et al., 2000). Like Ragulator, the GEF activity of the TRAPPI complex is not contained in one subunit, but requires the presence of multiple components (Cai et al., 2008).
+
+The likely presence of roadblock domains in the C-terminal regions of all four Rags raises the tantalizing possibility that one Rag may directly regulate the nucleotide cycle of the other. The solution of a Rag-Ragulator structure will greatly enhance our understanding of the function of the roadblock domain in this system and the precise mechanism by which Ragulator activates RagA and RagB. While Ragulator is a GEF that directly regulates Rag nucleotide binding, we anticipate the identification of other Rag regulatory proteins such as GAPs that will help explain how amino acid starvation inactivates the Rags and by extension the mTORC1 pathway.
+
+The regulated interaction between Rags and Ragulator depends on amino acids and the nucleotide binding state of RagA and RagB and provides an in-cell output for the activity of Ragulator and the pathway downstream of it. Using this assay, we find that inhibition of the v-ATPase inactivates Ragulator. The fact that the v-ATPase is required for mTORC1 activation, functions downstream of amino acids but upstream of RagA/B nucleotide loading, and interacts with Ragulator, suggests a model in which the v-ATPase links an amino acid-generated signal to the activation of the Ragulator GEF activity (Figure 6C).
+
+There are many possible functions for the regulated interaction between the Rags and Ragulator. In one model, the Rag-Ragulator complex exists in two conformations that are determined by amino acid availability: a tightly bound state, which cannot interact with mTORC1, and an open one that favors mTORC1 recruitment to the lysosomal surface. Upon amino acid stimulation, Ragulator promotes GTP loading of RagA/B, leading to a weakening of Ragulator-Rag binding and a conformation that may expose an mTORC1-binding surface on the Rag GTPases. A precedent for such a nutrient-dependent conformational change exists within mTORC1. Conditions that inhibit the mTORC1 pathway result in a stronger association between mTOR and raptor with a concomitant decrease in in vitro kinase activity, and conditions that activate result in a weaker interaction and greater in vitro activity (Kim et al., 2002).
+
+Alternatively, or in addition to the first model, the regulated interaction might be necessary for the Rags to reversibly leave the lysosomal surface. During starvation conditions, Ragulator would hold Rags at the lysosome. Upon amino acid stimulation, Rags may dissociate from Ragulator when RagA/B binds GTP, capture mTORC1 in the cytoplasm, and then shuttle it back to the lysosome by reassociating with Ragulator. Many GTPases are known to cycle on and off membranes in a nucleotide dependent manner (Hutagalung and Novick, 2011), and Rag cycling may provide a physical means to ferry mTORC1 to the lysosome. Future work combining structural studies and dynamic live cell imaging will clarify the mechanistic aspects of the regulation of Rag-mTORC1 binding, and how mTORC1 is ferried to the lysosome.
+
+Experimental Procedures
+Cell Lysis and Immunoprecipitation
+Cells were rinsed once with ice-cold PBS and lysed with Chaps lysis buffer (0.3% Chaps, 10 mM β-glycerol phosphate, 10 mM pyrophosphate, 40 mM HEPES [pH 7.4], 2.5 mM MgCl2 and one tablet of EDTA-free protease inhibitor [Roche] per 25 ml). Where specified in the figures, Chaps lysis buffer was supplemented with 12.5 mM EDTA. When only cell lysates were required (i.e., no immunoprecipitation was to be performed), 1% Triton X-100 was substituted for Chaps. When the interaction between Ragulator and mTORC1 was interrogated, in cell crosslinking with DSP was preformed as described in (Sancak et al., 2008) prior to cell lysis. The soluble fractions of cell lysates were isolated by centrifugation at 13,000 rpm in a microcentrifuge for 10 min. For immunoprecipitations, primary antibodies were added to the cleared lysates and incubated with rotation for 1.5 hr at 4°C. 60 μl of a 50% slurry of protein G-Sepharose was then added and the incubation continued for an additional 1 hr. Immunoprecipitates were washed three times with lysis buffer containing 150 mM NaCl. Immunoprecipitated proteins were denatured by the addition of 20 μl of sample buffer and boiling for 5 min, resolved by 8%–16% SDS-PAGE, and analyzed by immunoblotting as described (Kim et al., 2002). For anti-FLAG-immunoprecipitations, the FLAG-M2 affinity gel was washed with lysis buffer 3 times. 20 μl of a 50% slurry of the affinity gel was then added to cleared cell lysates and incubated with rotation for 2 hr at 4°C. The beads were washed three times with lysis buffer containing 150 mM NaCl. Immunoprecipitated proteins were denatured by the addition of 50 μl of sample buffer and boiling for 5 min.
+
+For cotransfection experiments, 2,000,000 HEK293T cells were plated in 10 cm culture dishes. Twenty-four hours later, cells were transfected with the pRK5-based cDNA expression plasmids indicated in the figures in the following amounts: 100 ng or 1,000 ng FLAG- or HA-HBXIP; 100 ng or 1,000 ng FLAG- or HA-HBXIP; 100 ng or 1,000 ng FLAG-p14; 100 ng HA-MP1; 100 ng or 1,000 ng FLAG- or HA-p18; 100 ng or 1,000 ng FLAG-Rap2a; 300 ng Flag-Metap2; 300 ng Flag-VPS39; 100 ng Flag- or HA-RagB and 100 ng HA- or HA-GST-RagC. The total amount of plasmid DNA in each transfection was normalized to 2 μg with empty pRK5. Thirty-six hours after transfection, cells were lysed as described above.
+
+Identification of HBXIP and C7orf59
+Immunoprecipitates from HEK293T cells stably expressing FLAG-p18, FLAG-p14, FLAG-RagB, or FLAG-Metap2 were prepared using Chaps lysis buffer as described above. Proteins were eluted with the FLAG peptide (sequence DYKDDDDK) from the FLAG-M2 affinity gel, resolved on 4%–12% NuPage gels (Invitrogen), and stained with simply blue stain (Invitrogen). Each gel lane was sliced into 10–12 pieces and the proteins in each gel slice digested overnight with trypsin. The resulting digests were analyzed by mass spectrometry as described (Sancak et al., 2008). Peptides corresponding to HBXIP and C7orf59 were identified in the FLAG-p14, FLAG-p18, and FLAG-RagB immunoprecipitates, while no peptides were detected in negative control immunoprecipitates of FLAG-Metap2.
+
+Total Amino Acid Starvation and Stimulation, Leucine Starvation and Stimulation, Salicylihalamide A, and Concanamycin A Treatment
+HEK293T cells in culture dishes or coated glass coverslips were rinsed with and incubated in amino acid-free RPMI or leucine-free RPMI for either 50 min or 2 hr, and stimulated with a 10× mixture of total amino acids or 10× leucine for 10–20 min, respectively. After stimulation, the final concentration of amino acids in the media was the same as in RPMI. The 10× mixture of total amino acids was prepared from individual powders of amino acids. Where drug treatment was performed, cells were incubated with 2.5 μm of salicylihalamide A or 2.5 μm of concanamycin A during the 2 hr starvation period and the 15 min stimulation period.
+
+RNAi in Mammalian Cells
+On day one, 200,000 HEK293T cells were plated in a 6 well plate. Twenty-fours hours later, the cells were transfected with 250 nM of a pool of siRNAs (Dharmacon) targeting HBXIP or C7orf59, a nontargeting pool, or 125 nM of siRNAs targeting p14 or p18. On day four, the cells were transfected again but this time with double the amount of siRNAs. On day five, the cells were either split onto coated glass coverslips or rinsed with ice-cold PBS, lysed, and subjected to immunobloting as described above.
+
+In Vitro Binding Assays
+For the binding reactions, 20 μl of a 50% slurry containing immobilized HA-GST-tagged proteins were incubated in binding buffer (1% Triton X-100, 2.5 mM MgCl2, 40 mM HEPES [pH 7.4], 2 mM DTT, and 1 mg/ml BSA) with 2 μg of FLAG-tagged proteins in a total volume of 50 μl for 1 hr and 30 min at 4°C. In binding assays where HA-GST-Ragulator was used, HA-GST-p14-MP1 was prebound to FLAG-HBXIP-HA-C7orf59 and FLAG-p18 for 5 min at 4°C prior to the addition of other FLAG-tagged proteins. In experiments where the Flag-RagB-HA-RagC heterodimer was loaded with nucleotide, 2 μg of FLAG-RagB-HA-RagC was incubated at 25°C for 10 min in Rag loading buffer (0.3% Chaps, 40 mM HEPES [pH 7.4], 5 mM EDTA, 2 mM DTT, and 1 mg/ml BSA) supplemented with 1 mM GTPγS in a total volume of 10 μl. The Rag-nucleotide complex was stabilized by the addition of 20 mM MgCl2 and incubated for an additional 5 min at 25°C. In assays with nucleotide free Rags, 2 μg of FLAG-RagB-HA-RagC was added to the binding assay with 3 μl of Calf-alkaline phosphatase (NEB). Binding assays in which Ragulator was incubated with nucleotide-loaded or -free Rags were conducted at 4°C for 45 min. For the nucleotide competition assay, 2 μg FLAG-RagB-HA-RagC was prebound to Ragulator proteins for 30 min followed by the addition of 1 mM GTPγS and further incubated for 1 hr and 30 min at 4°C. To terminate all binding assays, samples were washed three times with 1 ml of ice-cold binding buffer supplemented with 150 mM NaCl followed by the addition of 50 μl of sample buffer.
+
+Nucleotide Exchange Assays
+40 pmols of FLAG-RagBD163N-HA-RagC, FLAG-RagCD181N-HA-RagB, Flag-RagCD181N-HA-RagA, or FLAG-Rap2a were loaded with either 2 μM of [3H]GDP (25–50 Ci/mmol), 10 μCi of [35S]GTPγS (1,250 Ci/mmol), 2 mM GDP (for GTP binding assays), or coloaded with guanine nucleotides and either 50 nM of XTPγS or 50 nM XDP (Ragulator GEF activity was maintained between a range of 5–500 nM xanthine nucleotide) in a total volume of 100 μl of Rag loading buffer as described above. The GTPase-[3H]GDP-XDP/ XTPγS or GTPase-[35S]GTPγS-XDP/ XTPγS and GTPase-GDP complexes were stabilized by addition of 20 mM MgCl2 followed by a further incubation at 4°C for 12 hr or 25°C for 5 min, respectively. To initiate the GEF assay, 40 pmols of pentameric Ragulator, the indicated Ragulator subcomplexes or a control (FLAG-Metap2, FLAG-VPS39, or FLAG-HBXIP-HA-C7orf59) were added along with 200 μM GTPγS or 5 μCi of [35S]GTPγS (for GTP binding assays) and incubated at 25°C. Samples were taken every 2 min and spotted on nitrocellulose filters, which were washed with 2 ml of wash buffer (40 mM HEPES [pH 7.4], 150 mM NaCl, and 5 mM MgCl2). Filter-associated radioactivity was measured using a TriCarb scintillation counter (PerkinElmer).
+
+open menuExtended Experimental Procedures
+Acknowledgments
+We thank all members of the Sabatini Lab for helpful suggestions, John Doench for technical assistance, and Eric Spooner for mass spectrometric analyses of samples. This work was supported by grants from the NIH (CA103866 and AI47389) and Department of Defense (W81XWH-07-0448) to D.M.S., awards from the LAM Foundation to D.M.S., and fellowship support from the NCI (F31CA167872) to L.D.S. and from the LAM Foundation and the Jane Coffin Childs Memorial Fund for Medical Research to R.Z. D.M.S. is an investigator of the Howard Hughes Medical Institute.
+
+Supplemental Information
+ 
+Document S1. Article plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Binda et al., 2009
+M. Binda, M.P. Péli-Gulli, G. Bonfils, N. Panchaud, J. Urban, T.W. Sturgill, R. Loewith, C. De Virgilio
+The Vam6 GEF controls TORC1 by activating the EGO complex
+Mol. Cell, 35 (2009), pp. 563–573
+
+Article |  PDF (1570 K) | View Record in Scopus | Citing articles (122)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Bowman et al., 1999
+A.B. Bowman, R.S. Patel-King, S.E. Benashski, J.M. McCaffery, L.S. Goldstein, S.M. King
+Drosophila roadblock and Chlamydomonas LC7: a conserved family of dynein-associated proteins involved in axonal transport, flagellar motility, and mitosis
+J. Cell Biol., 146 (1999), pp. 165–180
+
+Full Text via CrossRef
+Bowman et al., 2004
+E.J. Bowman, L.A. Graham, T.H. Stevens, B.J. Bowman
+The bafilomycin/concanamycin binding site in subunit c of the V-ATPases from Neurospora crassa and Saccharomyces cerevisiae
+J. Biol. Chem., 279 (2004), pp. 33131–33138
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+Cai et al., 2008
+Y. Cai, H.F. Chin, D. Lazarova, S. Menon, C. Fu, H. Cai, A. Sclafani, D.W. Rodgers, E.M. De La Cruz, S. Ferro-Novick, K.M. Reinisch
+The structural basis for activation of the Rab Ypt1p by the TRAPP membrane-tethering complexes
+Cell, 133 (2008), pp. 1202–1213
+
+Article |  PDF (1627 K) | View Record in Scopus | Citing articles (77)
+Cortez et al., 2001
+D. Cortez, S. Guntuku, J. Qin, S.J. Elledge
+ATR and ATRIP: partners in checkpoint signaling
+Science, 294 (2001), pp. 1713–1716
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (514)
+Dubouloz et al., 2005
+F. Dubouloz, O. Deloche, V. Wanke, E. Cameroni, C. De Virgilio
+The TOR and EGO protein complexes orchestrate microautophagy in yeast
+Mol. Cell, 19 (2005), pp. 15–26
+
+Article |  PDF (715 K) | View Record in Scopus | Citing articles (147)
+Feig, 1999
+L.A. Feig
+Tools of the trade: use of dominant-inhibitory mutants of Ras-family GTPases
+Nat. Cell Biol., 1 (1999), pp. E25–E27
+
+Full Text via CrossRef
+Feig and Cooper, 1988
+L.A. Feig, G.M. Cooper
+Inhibition of NIH 3T3 cell proliferation by a mutant ras protein with preferential affinity for GDP
+Mol. Cell. Biol., 8 (1988), pp. 3235–3243
+
+View Record in Scopus | Citing articles (479)
+Fiegen et al., 2006
+D. Fiegen, R. Dvorsky, M.R. Ahmadian
+Structural principles of Ras interaction with regulators and effectors
+Proteins Cell Regul., 4 (2006), pp. 45–66
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+Fingar et al., 2002
+D.C. Fingar, S. Salama, C. Tsou, E. Harlow, J. Blenis
+Mammalian cell size is controlled by mTOR and its downstream targets S6K1 and 4EBP1/eIF4E
+Genes Dev., 16 (2002), pp. 1472–1487
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (521)
+Forgac, 2007
+M. Forgac
+Vacuolar ATPases: rotary proton pumps in physiology and pathophysiology
+Nat. Rev. Mol. Cell Biol., 8 (2007), pp. 917–929
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (393)
+Frech et al., 1994
+M. Frech, T.A. Darden, L.G. Pedersen, C.K. Foley, P.S. Charifson, M.W. Anderson, A. Wittinghofer
+Role of glutamine-61 in the hydrolysis of GTP by p21H-ras: an experimental and theoretical study
+Biochemistry, 33 (1994), pp. 3237–3244
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+Fujii et al., 2006
+R. Fujii, C. Zhu, Y. Wen, H. Marusawa, B. Bailly-Maitre, S. Matsuzawa, H. Zhang, Y. Kim, C.F. Bennett, W. Jiang, J.C. Reed
+HBXIP, cellular target of hepatitis B virus oncoprotein, is a regulator of centrosome dynamics and cytokinesis
+Cancer Res., 66 (2006), pp. 9099–9107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Gao and Kaiser, 2006
+M. Gao, C.A. Kaiser
+A conserved GTPase-containing complex is required for intracellular sorting of the general amino-acid permease in yeast
+Nat. Cell Biol., 8 (2006), pp. 657–667
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (86)
+Garcia-Mata et al., 2011
+R. Garcia-Mata, E. Boulter, K. Burridge
+The ‘invisible hand’: regulation of RHO GTPases by RHOGDIs
+Nat. Rev. Mol. Cell Biol., 12 (2011), pp. 493–504
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (93)
+Garcia-Saez et al., 2011
+I. Garcia-Saez, F.B. Lacroix, D. Blot, F. Gabel, D.A. Skoufias
+Structural characterization of HBXIP: the protein that interacts with the anti-apoptotic protein survivin and the oncogenic viral protein HBx
+J. Mol. Biol., 405 (2011), pp. 331–340
+
+Article |  PDF (955 K) | View Record in Scopus | Citing articles (7)
+Goldberg, 1998
+J. Goldberg
+Structural basis for activation of ARF GTPase: mechanisms of guanine nucleotide exchange and GTP-myristoyl switching
+Cell, 95 (1998), pp. 237–248
+
+Article |  PDF (1015 K) | View Record in Scopus | Citing articles (321)
+Gong et al., 2011
+R. Gong, L. Li, Y. Liu, P. Wang, H. Yang, L. Wang, J. Cheng, K.L. Guan, Y. Xu
+Crystal structure of the Gtr1p-Gtr2p complex reveals new insights into the amino acid-induced TORC1 activation
+Genes Dev., 25 (2011), pp. 1668–1673
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Good et al., 2011
+M.C. Good, J.G. Zalatan, W.A. Lim
+Scaffold proteins: hubs for controlling the flow of cellular information
+Science, 332 (2011), pp. 680–686
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (168)
+Hara et al., 1998
+K. Hara, K. Yonezawa, Q.P. Weng, M.T. Kozlowski, C. Belham, J. Avruch
+Amino acid sufficiency and mTOR regulate p70 S6 kinase and eIF-4E BP1 through a common effector mechanism
+J. Biol. Chem., 273 (1998), pp. 14484–14494
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (702)
+Hirose et al., 1998
+E. Hirose, N. Nakashima, T. Sekiguchi, T. Nishimoto
+RagA is a functional homologue of S. cerevisiae Gtr1p involved in the Ran/Gsp1-GTPase pathway
+J. Cell Sci., 111 (1998), pp. 11–21
+
+View Record in Scopus | Citing articles (44)
+Hoffenberg et al., 1995
+S. Hoffenberg, L. Nikolova, J.Y. Pan, D.S. Daniel, M. Wessling-Resnick, B.J. Knoll, B.F. Dickey
+Functional and structural interactions of the Rab5 D136N mutant with xanthine nucleotides
+Biochem. Biophys. Res. Commun., 215 (1995), pp. 241–249
+
+Article |  PDF (482 K) | View Record in Scopus | Citing articles (21)
+Howell and Manning, 2011
+J.J. Howell, B.D. Manning
+mTOR couples cellular nutrient sensing to organismal metabolic homeostasis
+Trends Endocrinol. Metab., 22 (2011), pp. 94–102
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (75)
+Hutagalung and Novick, 2011
+A.H. Hutagalung, P.J. Novick
+Role of Rab GTPases in membrane traffic and cell physiology
+Physiol. Rev., 91 (2011), pp. 119–149
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (230)
+Jennings and Pavitt, 2010
+M.D. Jennings, G.D. Pavitt
+eIF5 has GDI activity necessary for translational control by eIF2 phosphorylation
+Nature, 465 (2010), pp. 378–381
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+John et al., 1993
+J. John, H. Rensland, I. Schlichting, I. Vetter, G.D. Borasio, R.S. Goody, A. Wittinghofer
+Kinetic and structural analysis of the Mg(2+)-binding site of the guanine nucleotide-binding protein p21H-ras
+J. Biol. Chem., 268 (1993), pp. 923–929
+
+View Record in Scopus | Citing articles (142)
+Jones et al., 2000
+S. Jones, C. Newman, F. Liu, N. Segev
+The TRAPP complex is a nucleotide exchanger for Ypt1 and Ypt31/32
+Mol. Biol. Cell, 11 (2000), pp. 4403–4411
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (118)
+Kim et al., 2002
+D.-H. Kim, D.D. Sarbassov, S.M. Ali, J.E. King, R.R. Latek, H. Erdjument-Bromage, P. Tempst, D.M. Sabatini
+mTOR interacts with raptor to form a nutrient-sensitive complex that signals to the cell growth machinery
+Cell, 110 (2002), pp. 163–175
+
+Article |  PDF (780 K) | View Record in Scopus | Citing articles (1231)
+Kim et al., 2008
+E. Kim, P. Goraksha-Hicks, L. Li, T.P. Neufeld, K.L. Guan
+Regulation of TORC1 by Rag GTPases in nutrient response
+Nat. Cell Biol., 10 (2008), pp. 935–945
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (387)
+Klebe et al., 1995
+C. Klebe, H. Prinz, A. Wittinghofer, R.S. Goody
+The kinetic mechanism of Ran—nucleotide exchange catalyzed by RCC1
+Biochemistry, 34 (1995), pp. 12543–12552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (165)
+Koonin and Aravind, 2000
+E.V. Koonin, L. Aravind
+Dynein light chains of the Roadblock/LC7 group belong to an ancient protein superfamily implicated in NTPase regulation
+Curr. Biol., 10 (2000), pp. R774–R776
+
+Article |  PDF (158 K) | View Record in Scopus | Citing articles (45)
+Krengel et al., 1990
+U. Krengel, I. Schlichting, A. Scherer, R. Schumann, M. Frech, J. John, W. Kabsch, E.F. Pai, A. Wittinghofer
+Three-dimensional structures of H-ras p21 mutants: molecular basis for their inability to function as signal switch molecules
+Cell, 62 (1990), pp. 539–548
+
+Article |  PDF (4641 K) | View Record in Scopus | Citing articles (198)
+Kurzbauer et al., 2004
+R. Kurzbauer, D. Teis, M.E. de Araujo, S. Maurer-Stroh, F. Eisenhaber, G.P. Bourenkov, H.D. Bartunik, M. Hekman, U.R. Rapp, L.A. Huber, T. Clausen
+Crystal structure of the p14/MP1 scaffolding complex: how a twin couple attaches mitogen-activated protein kinase signaling to late endosomes
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 10984–10989
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (63)
+Lenzen et al., 1998
+C. Lenzen, R.H. Cool, H. Prinz, J. Kuhlmann, A. Wittinghofer
+Kinetic analysis by fluorescence of the interaction between Ras and the catalytic domain of the guanine nucleotide exchange factor Cdc25Mm
+Biochemistry, 37 (1998), pp. 7420–7430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (152)
+Lunin et al., 2004
+V.V. Lunin, C. Munger, J. Wagner, Z. Ye, M. Cygler, M. Sacher
+The structure of the MAPK scaffold, MP1, bound to its partner, p14. A complex with a critical role in endosomal map kinase signaling
+J. Biol. Chem., 279 (2004), pp. 23422–23430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Ma and Blenis, 2009
+X.M. Ma, J. Blenis
+Molecular mechanisms of mTOR-mediated translational control
+Nat. Rev. Mol. Cell Biol., 10 (2009), pp. 307–318
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (628)
+Marusawa et al., 2003
+H. Marusawa, S. Matsuzawa, K. Welsh, H. Zou, R. Armstrong, I. Tamm, J.C. Reed
+HBXIP functions as a cofactor of survivin in apoptosis suppression
+EMBO J., 22 (2003), pp. 2729–2740
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (235)
+Melegari et al., 1998
+M. Melegari, P.P. Scaglioni, J.R. Wands
+Cloning and characterization of a novel hepatitis B virus x binding protein that inhibits viral replication
+J. Virol., 72 (1998), pp. 1737–1743
+
+View Record in Scopus | Citing articles (119)
+Miertzschke et al., 2011
+M. Miertzschke, C. Koerner, I.R. Vetter, D. Keilberg, E. Hot, S. Leonardy, L. Søgaard-Andersen, A. Wittinghofer
+Structural analysis of the Ras-like G protein MglA and its cognate GAP MglB and implications for bacterial polarity
+EMBO J., 30 (2011), pp. 4185–4197
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+Nada et al., 2009
+S. Nada, A. Hondo, A. Kasai, M. Koike, K. Saito, Y. Uchiyama, M. Okada
+The novel lipid raft adaptor p18 controls endosome dynamics by anchoring the MEK-ERK pathway to late endosomes
+EMBO J., 28 (2009), pp. 477–489
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (86)
+Roccio et al., 2006
+M. Roccio, J.L. Bos, F.J. Zwartkruis
+Regulation of the small GTPase Rheb by amino acids
+Oncogene, 25 (2006), pp. 657–664
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (74)
+Sancak et al., 2008
+Y. Sancak, T.R. Peterson, Y.D. Shaul, R.A. Lindquist, C.C. Thoreen, L. Bar-Peled, D.M. Sabatini
+The Rag GTPases bind raptor and mediate amino acid signaling to mTORC1
+Science, 320 (2008), pp. 1496–1501
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (650)
+Sancak et al., 2010
+Y. Sancak, L. Bar-Peled, R. Zoncu, A.L. Markhard, S. Nada, D.M. Sabatini
+Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids
+Cell, 141 (2010), pp. 290–303
+
+Article |  PDF (2232 K) | View Record in Scopus | Citing articles (419)
+Schmidt et al., 1996
+G. Schmidt, C. Lenzen, I. Simon, R. Deuter, R.H. Cool, R.S. Goody, A. Wittinghofer
+Biochemical and biological consequences of changing the specificity of p21ras from guanosine to xanthosine nucleotides
+Oncogene, 12 (1996), pp. 87–96
+
+View Record in Scopus | Citing articles (49)
+Schürmann et al., 1995
+A. Schürmann, A. Brauers, S. Massmann, W. Becker, H.G. Joost
+Cloning of a novel family of mammalian GTP-binding proteins (RagA, RagBs, RagB1) with remote similarity to the Ras-related GTPases
+J. Biol. Chem., 270 (1995), pp. 28982–28988
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Sekiguchi et al., 2001
+T. Sekiguchi, E. Hirose, N. Nakashima, M. Ii, T. Nishimoto
+Novel G proteins, Rag C and Rag D, interact with GTP-binding proteins, Rag A and Rag B
+J. Biol. Chem., 276 (2001), pp. 7246–7257
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Selyunin et al., 2011
+A.S. Selyunin, S.E. Sutton, B.A. Weigele, L.E. Reddick, R.C. Orchard, S.M. Bresson, D.R. Tomchick, N.M. Alto
+The assembly of a GTPase-kinase signalling complex by a bacterial catalytic scaffold
+Nature, 469 (2011), pp. 107–111
+
+Full Text via CrossRef
+Smith et al., 2005
+E.M. Smith, S.G. Finn, A.R. Tee, G.J. Browne, C.G. Proud
+The tuberous sclerosis protein TSC2 is not required for the regulation of the mammalian target of rapamycin by amino acids and certain cellular stresses
+J. Biol. Chem., 280 (2005), pp. 18717–18727
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (200)
+Stocker et al., 2003
+H. Stocker, T. Radimerski, B. Schindelholz, F. Wittwer, P. Belawat, P. Daram, S. Breuer, G. Thomas, E. Hafen
+Rheb is an essential regulator of S6K in controlling cell growth in Drosophila
+Nat. Cell Biol., 5 (2003), pp. 559–565
+
+View Record in Scopus | Citing articles (287)
+Wang et al., 2007
+F.Z. Wang, L. Sha, W.Y. Zhang, L.Y. Wu, L. Qiao, N. Li, X.D. Zhang, L.H. Ye
+Involvement of hepatitis B X-interacting protein (HBXIP) in proliferation regulation of cells
+Acta Pharmacol. Sin., 28 (2007), pp. 431–438
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Wang et al., 2000
+W. Wang, M. Sacher, S. Ferro-Novick
+TRAPP stimulates guanine nucleotide exchange on Ypt1p
+J. Cell Biol., 151 (2000), pp. 289–296
+
+Full Text via CrossRef
+Wanschers et al., 2008
+B. Wanschers, R. van de Vorstenbosch, M. Wijers, B. Wieringa, S.M. King, J. Fransen
+Rab6 family proteins interact with the dynein light chain protein DYNLRB1
+Cell Motil. Cytoskeleton, 65 (2008), pp. 183–196
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+Wen et al., 2008
+Y. Wen, V.S. Golubkov, A.Y. Strongin, W. Jiang, J.C. Reed
+Interaction of hepatitis B viral oncoprotein with cellular target HBXIP dysregulates centrosome dynamics and mitotic spindle formation
+J. Biol. Chem., 283 (2008), pp. 2793–2803
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+Wunderlich et al., 2001
+W. Wunderlich, I. Fialka, D. Teis, A. Alpi, A. Pfeifer, R.G. Parton, F. Lottspeich, L.A. Huber
+A novel 14-kilodalton protein interacts with the mitogen-activated protein kinase scaffold mp1 on a late endosomal/lysosomal compartment
+J. Cell Biol., 152 (2001), pp. 765–776
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (134)
+Xie et al., 2004
+X.S. Xie, D. Padron, X. Liao, J. Wang, M.G. Roth, J.K. De Brabander
+Salicylihalamide A inhibits the V0 sector of the V-ATPase through a mechanism distinct from bafilomycin A1
+J. Biol. Chem., 279 (2004), pp. 19755–19763
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (67)
+Zhang et al., 2005
+B. Zhang, Y. Zhang, E. Shacter, Y. Zheng
+Mechanism of the guanine nucleotide exchange reaction of Ras GTPase—evidence for a GTP/GDP displacement model
+Biochemistry, 44 (2005), pp. 2566–2576
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+Zoncu et al., 2011a
+R. Zoncu, L. Bar-Peled, A. Efeyan, S. Wang, Y. Sancak, D.M. Sabatini
+mTORC1 senses lysosomal amino acids through an inside-out mechanism that requires the vacuolar H(+)-ATPase
+Science, 334 (2011), pp. 678–683
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (187)
+Zoncu et al., 2011b
+R. Zoncu, A. Efeyan, D.M. Sabatini
+mTOR: from growth signal integration to cancer, diabetes and ageing
+Nat. Rev. Mol. Cell Biol., 12 (2011), pp. 21–35
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (953)
+Supplemental References
+Cole et al., 2008
+Cole, C., Barber, J.D., and Barton, G.J. (2008). The Jpred 3 secondary structure prediction server. Nucleic Acids Res. 36, W197–W201.
+Sancak et al., 2010
+Sancak, Y., Bar-Peled, L., Zoncu, R., Markhard, A.L., Nada, S., and Sabatini, D.M. (2010). Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids. Cell 141, 290–303.
+Corresponding author contact information
+Corresponding author
+Copyright © 2012 Elsevier Inc. All rights reserved.

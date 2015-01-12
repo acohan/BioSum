@@ -1,0 +1,316 @@
+Mixed Lineage Kinase Domain-like Protein MLKL Causes Necrotic Membrane Disruption upon Phosphorylation by RIP3
+Huayi Wang1, Liming Sun1, Lijing Su2, Josep Rizo2, Lei Liu1, Li-Feng Wang3, Fu-Sheng Wang3, Xiaodong Wang1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molcel.2014.03.003
+Get rights and content
+Highlights
+•
+Phosphorylation of MLKL at T357/S358 by RIP3 kinase drives its oligomerization
+•
+MLKL oligomer translocates from cytosol to intracellular and plasma membranes
+•
+MLKL oligomer directly disrupts membrane integrity during necroptosis
+•
+The MLKL phosphorylation occurs during drug-induced liver injury in human
+Summary
+Programmed necrotic cell death induced by the tumor necrosis factor alpha (TNF-α) family of cytokines is dependent on a kinase cascade consisting of receptor-interacting kinases RIP1 and RIP3. How these kinase activities cause cells to die by necrosis is not known. The mixed lineage kinase domain-like protein MLKL is a functional RIP3 substrate that binds to RIP3 through its kinase-like domain but lacks kinase activity of its own. RIP3 phosphorylates MLKL at the T357 and S358 sites. Reported here is the development of a monoclonal antibody that specifically recognizes phosphorylated MLKL in cells dying of this pathway and in human liver biopsy samples from patients suffering from drug-induced liver injury. The phosphorylated MLKL forms an oligomer that binds to phosphatidylinositol lipids and cardiolipin. This property allows MLKL to move from the cytosol to the plasma and intracellular membranes, where it directly disrupts membrane integrity, resulting in necrotic death.
+
+Graphical Abstract
+Full-size image (44 K)
+Figure options
+Introduction
+Cell death executed by intrinsic biochemical pathways has important roles in multicellular organisms during developmental and adult stages. These cell death pathways cause either apoptotic or necrotic death, which are characterized by different morphological and biochemical changes associated with losing cell vitality.
+
+Apoptosis manifests with cell shrinkage, nuclear membrane breakdown, chromatin fragmentation and aggregation, and finally breakdown of the cell body into small, membrane-bound vesicles named apoptotic bodies that are quickly removed through phagocytosis by macrophages and neighboring cells (Kerr et al., 1972). These morphological and biochemical changes during apoptosis are executed by a class of intracellular cysteine proteases known as caspases (Thornberry and Lazebnik, 1998). These proteases are synthesized as inactive zymogens that become activated either by extrinsic death-inducing signals through a family of tumor necrosis factor (TNF) cytokine receptors or intrinsically by the Bcl-2 family of proteins, which cause release of proteins normally located in the intermembrane space of mitochondria into the cytosol. One such released protein is cytochrome c, which binds to its partner protein Apaf-1 in the cytosol to activate caspases (reviewed by Danial and Korsmeyer, 2004).
+
+The TNF family of cytokines also induces necrotic cell death, characterized by swelling and coalescing of intracellular organelles, loss of cellular ATP content, and rupture of the plasma membrane (Laster et al., 1988). Necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors (Cho et al., 2009 and He et al., 2009). This form of necrosis, also termed necroptosis, requires the activity of receptor-interacting protein kinase 1 (RIP1) and its related kinase, RIP3 (Cho et al., 2009, Degterev et al., 2008, He et al., 2009, Holler et al., 2000 and Zhang et al., 2009). Studies using RIP3 knockout mice have provided evidence that this form of cell death is important for response against microbial infections and inflammation-mediated tissue damages (reviewed by Moriwaki and Chan, 2013).
+
+How RIP3 causes necrotic cell death and whether this pathway is naturally operational in human tissue remain the two biggest questions in our quest to understand necroptosis. RIP1, RIP3, and the mixed lineage kinase domain-like (MLKL) protein form a necrosis signaling complex named necrosome, within which MLKL is phosphorylated at T357 and S358 residues by RIP3 (Sun et al., 2012). MLKL is a pseudokinase that is able to bind RIP3 through its kinase-like domain, and cells from MLKL knockout mice demonstrate resistance to necroptosis similar to that from the RIP3 knockout mice ( Murphy et al., 2013 and Wu et al., 2013). How such phosphorylation on MLKL leads to necrosis is not known.
+
+In this current study, we report the development of a monoclonal antibody that specifically detects the phosphorylation on the T357 and S358 sites of the human MLKL protein in cells undergoing necroptosis. Through a series of biochemical experiments, we showed that the necrosome translocated from the cytosol to the plasma and intracellular membranes. The shift is likely a result of gaining direct lipid binding ability for MLKL after its oligomerization driven by phosphorylation. Once on the membrane, the oligomerized MLKL forms membrane-disrupting pores, allowing necrosis to occur.
+
+Results
+Detection of Phosphorylation of T357/S358 of MLKL during Necroptosis
+T357 and S358 of MLKL are phosphorylated during necroptosis, and mutations on these two sites to alanine block necrosis progression (Sun et al., 2012). To search for a more specific cellular marker for detecting necroptosis, we developed a rabbit monoclonal antibody against the phosphorylated T357/S358 of human MLKL. The specificity of this antibody was confirmed by western blotting analysis using extracts of human colorectal cancer HT-29 cells treated with necrosis inducers, a combination of TNF-α (T), Smac mimetic (S), and a pan-caspase inhibitor z-VAD-fmk (Z). As shown in Figure 1A, this antibody did not detect any signal when the extracts were obtained from cells treated with vehicle DMSO (lane 1), TNF-α (lane 2), Smac mimetic (lane 3), or z-VAD-fmk (lane 4) alone; TNF-α plus Smac mimetic that induced apoptosis in human colon cancer HT-29 cells (lane 5); or TNF-α plus z-VAD-fmk (lane 6). A band the size of MLKL was detected when cells were treated with Smac mimetic plus z-VAD-fmk (lane 7). Since Smac mimetic triggers autocrine TNF-α secretion in this cell line, addition of just Smac mimetic and z-VAD can induce necrosis, as previously reported (He et al., 2009). The signal became stronger when additional TNF-α was used (lane 8). There were no other bands detected across the entire set of molecular weight markers ranging from 10–250 kDa using this antibody. Similar amounts of total MLKL protein or β-actin were detected with their respective antibodies in each lane. The appearance of the phospho-MLKL signal was correlated with cell death, as measured by a drop in ATP levels (Figure 1A, lower panel).
+
+Full-size image (95 K)
+Figure 1. 
+MLKL Phosphorylation Is a Cellular Marker of Necrosis
+(A) MLKL phosphorylation was detected by MLKL phosphospecific antibody. HT-29 cells were treated with the indicated stimuli for 8 hr and then harvested. Aliquots of 20 μg whole-cell lysates were subjected to SDS-PAGE followed by western blot analysis of phosphorylated MLKL (p-MLKL), total MLKL, and β-actin, which is shown as a loading control (upper panel). The number of surviving HT-29 cells with the indicated stimuli for 12 hr was determined by measuring ATP levels using the CellTiter-Glo kit (lower panel). The data are represented as the mean ± SD of duplicate wells. Abbreviations are as follows: D, DMSO; S, Smac mimetic; Z, z-VAD. The final concentrations of 20 ng/ml TNF-α, 100 nM Smac mimetic, and 20 μM z-VAD were used to induce necrosis. Identical concentrations of these necrosis-inducing agents were used in subsequent experiments unless otherwise stated.
+(B) Phosphorylation of MLKL correlates with ATP decrease and plasma membrane disruption. HT-29 cells were treated with T/S/Z to induce necrosis for the indicated time. The cells were then harvested, and the whole-cell extracts were analyzed by western blotting to check for MLKL phosphosignal (upper panel). The numbers of surviving cells (middle panel) or dead cells (lower panel) were determined by measuring ATP levels (middle panel) or dead-cell protease activity in cell culture media using the CytoTox-Glo kit (lower panel). The data are represented as the mean ± SD of duplicate wells.
+(C and D) Necrosis inhibitors induce diverse effects on MLKL phosphorylation. HT-29 cells were treated with T/S/Z with or without necrosis inhibitors for 12 hr (C) or 8 hr (D). The number of dead cells was determined by measuring released protease activity in culture medium (C). The data are represented as the mean ± SD of duplicate wells. The whole-cell extracts were prepared and analyzed by western blotting using antibodies as indicated (D). Abbreviations are as follows: Nec-1, necrostatin-1; NSA, necrosulfonamide. The final concentrations of 10 μM necrostatin-1 or 1 μM necrosulfonamide were used to block necrosis. Identical concentrations of these necrosis inhibitors were used in subsequent experiments unless otherwise stated.
+(E) Knocking down of RIP3 expression blocks MLKL phosphorylation. HT29 cells and HT29 cells with stable expression of RIP3-shRNA or MLKL-shRNA were treated with the indicated stimuli for 8 hr (upper panel) or 14 hr (lower panel). The aliquots of whole-cell extracts were analyzed by western blotting using antibodies as indicated (upper panel). The number of surviving cells was determined by measuring ATP levels (lower panel). The data are represented as the mean ± SD of duplicate wells. See also Figure S1.
+Figure options
+Necrotic cell death has also been marked by the loss of cytoplasmic membrane integrity, which can be directly measured by detecting the presence of cytosolic protease activity in the cell culture media. To further verify the correlation between phospho-MLKL signal and cell death, we treated HT-29 cells with necrosis inducers and analyzed phospho-MLKL, ATP drop, and cell membrane leakage at different time points. The ATP drop and leakage of the cytoplasmic membrane all started 6 hr after treatment and continued with linear kinetics up to 12 hr (Figure 1B, middle and lower panels). The phospho-MLKL signal also first appeared at 6 hr of treatment (Figure 1B, upper panel).
+
+Necroptosis can be specifically inhibited by RIP1 inhibitor necrostatin-1 (Nec-1) and MLKL inhibitor necrosulfonamide (NSA), which targets the N-terminal coiled-coil domain of MLKL without interfering with phosphorylation by RIP3 (Degterev et al., 2008 and Sun et al., 2012). Consistent with those previous reports, Nec-1 and NSA completely blocked necroptosis measured by the membrane leakage assay (Figure 1C). The phospho-MLKL signal was blocked by Nec-1, but not by NSA, confirming that MLKL functions downstream of RIP1/RIP3 in the necroptosis pathway (Figure 1D).
+
+The phospho-MLKL signal detected by the antibody should depend on RIP3 and MLKL. We therefore knocked down RIP3 and MLKL with their respective shRNAs. As shown in Figure 1E, knockdown of either protein blocked necroptosis and eliminated the phospho-MLKL signal (lanes 4 and 6). Consistent with previous reports, knockdown of MLKL did not prevent RIP3 from shifting upward on SDS-PAGE due to phosphorylation (lanes 2 and 6).
+
+The correlation between the appearance of phospho-MLKL signal and necroptosis observed in HT-29 cells was repeatable using human leukemia cell line U937 cells (Figures S1A–S1D available online). Additionally, the phospho-MLKL signal was also detected in necrosis induced by lipopolysaccharide (LPS) plus z-VAD-fmk in that cell line, and the signal was blocked with necrostain-1, but not NSA (Figures S1E and S1F).
+
+RIP3-Mediated Phosphorylation of MLKL Shifts MLKL into Membrane Compartments
+To characterize the MLKL activation process, we took advantage of a unique property of a detergent, Triton X-114, that undergoes phase transition at different temperatures. At low temperature (0°C), Triton X-114 is uniformly mixed with aqueous solution. When the temperature is raised to 30°C, the detergent phase separates from the aqueous solution and forms a distinguished layer after centrifugation, as illustrated in Figure 2A. When we used Triton X-114 to extract HT-29 cells undergoing necroptosis at different time points and subjected the cell extracts to the temperature-dependent phase separation procedure, we observed the appearance of phospho-MLKL and disappearance of MLKL from the aqueous phase 6 hr after necrosis induction. Interestingly, phospho-MLKL appeared in the detergent phase at this time (Figure 2B), indicating that MLKL moved from the cytosol to membrane compartments after phosphorylation by RIP3. In contrast, cytosolic actin and a mitochondrial inner-membrane protein cytochrome c oxidase component, Cox4, stayed in their respective aqueous and detergent phases when subjected to the same procedure ( Figure 2B).
+
+Full-size image (48 K)
+Figure 2. 
+Phosphorylated MLKL Translocates to the Membrane Fraction during Necrosis
+(A) A schematic representation of the phase separation of integral membrane proteins in Trion X-114 solution.
+(B) Phosphorylated MLKL was concentrated in the micelle-rich fraction after phase separation. HT-29 cells were treated with T/S/Z for the indicated time. The cells were harvested and solubilized in Triton X-114 lysis buffer then separated into aqueous phase (Aq) and detergent phase (Det) as described in the Experimental Procedures and as shown in (A). The samples were analyzed by western blotting using antibodies as indicated. β-actin and mitochondria membrane protein Cox4 were shown as loading controls for soluble protein and membrane protein, respectively.
+(C) Necrosulfonamide blocked p-MLKL translocation to the membrane fraction. HT-29 cells were treated with T/S/Z with or without necrosis inhibitors Nec-1 or NSA for 8 hr. The cells were harvested and then separated into the aqueous phase and detergent phase, performed as described in (B). The samples were analyzed by western blotting using antibodies as indicated.
+(D) Phospho-dead mutant form of MLKL did not translocate to the membrane fraction upon necrosis induction. HeLa/Myc-Rip3 cells stably expressing Flag-tagged wild-type MLKL (WT) or the phospho-dead mutant of MLKL (A/A) was treated with the indicated stimuli for 4 hr. The cells were harvested and then separated into the aqueous phase and detergent phase, performed as described in (B). The samples were analyzed by western blotting using antibodies as indicated.
+Figure options
+Since NSA does not prevent MLKL phosphorylation (Figure 1D), but it does prevent necroptosis (Figure 1C), we analyzed the phospho-MLKL phase transition in the presence of NSA. As shown in Figure 2C, the phospho-MLKL was readily detected in the presence of necrosis inducers and NSA (lanes 2, 4, and 6). The signal was blocked by necrostatin-1 (lanes 3 and 7). However, phospho-MLKL was not able to shift to the detergent phase (comparing lanes 2 and 6 versus 4 and 8), indicating that NSA blocks phospho-MLKL targeting to membranes.
+
+To test the requirement of RIP3-meidated phosphorylation for membrane partitioning of MLKL, we ectopically expressed FLAG-tagged wild-type MLKL and the T357A/S358A mutant and analyzed those proteins with the same phase separation experiment. Wild-type MLKL readily shifted to the detergent phase after necroptosis induction. In comparison, very little phosphorylation site mutant was able to do so, supporting the hypothesis that phosphorylation of these sites is required for MLKL membrane targeting (Figure 2D).
+
+To further investigate which membrane compartment the phospho-MLKL is moving to, we performed a cell fractionation experiment by subjecting cell extracts to differential centrifugation and probed different fractions with organelle-specific markers, including Tom20 (mitochondria), epithelial growth factor receptor (EGFR; plasma membrane and endosome), Lamp1 (lysosome and endosome), and ERp72 (endoplasmic reticulum) (diagramed in Figure 3A). As shown in Figure 3B (left panel), when cells were treated with TNF-α alone, which activated NF-κB, but not apoptosis and necrosis, phospho-MLKL was not detected, and the bulk of MLKL was located in the aqueous supernatant fraction after centrifugation at 100,000 × g (also known as the S100 fraction), which is widely accepted to be the cytosolic fraction. RIP3 was also present in this fraction. Only a small amount of MLKL was detected in the heavy membrane fraction. RIP1, on the other hand, had distribution on membrane fractions in addition to the cytosol, indicating its activation and binding to the TNF receptor. The mitochondrial marker Tom20 was mostly located in the heavy membrane fraction, while the lysosome marker Lamp1 had both light and heavy membrane distributions, reflecting the heterogeneous nature of lysosome/endosome species.
+
+Full-size image (145 K)
+Figure 3. 
+Necrosomes Shift to Plasma Membrane and Membranous Organelles during Necrosis
+(A) An overview of the basic steps of subcellular organelle isolation by differential centrifugation.
+(B) Tracing the subcellular distribution of necrosome components by differential centrifugation. HT-29 cells were treated with the indicated stimuli for 8 hr. The cells were harvested and homogenized, then separated into the indicated fractions shown as in (A). These factions were analyzed by western blotting using antibodies as indicated or used in sucrose density gradient centrifugation (Figure S2).
+(C) Subcellular localization of necrosomes labeled with antibody against phospho-MLKL. HeLa/Myc-Rip3 cells stably expressing Flag-tagged wild-type MLKL were treated with the indicated stimuli for 4 hr. The distribution of phosphorylated MLKL (red) was detected by immunofluorescence with different cellular organelle markers (green) or analyzed by merging the immunofluorescence images with the corresponding differential interference contrast (DIC) images. Scale bar, 10 μm. Profiles of representative arrowheads trace the intensities of phospho-MLKL signals along with organelle markers. Membrane structures containing phospho-MLKL puncta were counted as described in the Experimental Procedures. The data are represented as the mean ± SE of 30 cells (n = 30). See also Figures S2 and S3.
+Figure options
+The phospho-MLKL signal appeared after necroptosis induction and was located in all membrane fractions examined (Figure 3B, right panel). Consistently, RIP3, RIP1, and total MLKL also showed similar patterns of membrane distribution, although there were significant amounts of these three proteins left in the S100 fraction. Compared to nonnecrotic cells, there was also more Tom20 signal in the postmitochondrial fractions and more LAMP1 in the P20 fraction than the P100 fraction. These changes may reflect mitochondria and lysosome disruption during necroptosis. To confirm that the presence of phospho-MLKL in these three fractions represents distinguishing cellular membrane structures, we further separated these membrane fractions using continuous sucrose gradient fractionation and analyzed for the presence of phospho-MLKL and organelle markers in fractions collected from the sucrose gradient (Figure S2). Again, the mitochondria marker Tom20 was mostly present in the mitochondrial heavy-membrane fraction (P7, pellet of 700 × g spin) and peaked at fractions 8 and 9 of the sucrose gradient. There was a small amount of Tom20 in the P20 fraction (pellet of 20,000 × g spin), but the peak was shifted to lighter fractions (7 and 8) of the gradient. Lamp1 showed the most heterogeneity, with peaks around fractions 6–9 from the P7, 5–8 from the P20, and 3–6 from the P100 (pellet of 100,000 × g spin). Phospho-MLKL also showed a similar pattern of heterogeneity with its presence in all the membrane fractions, and its presence in the P100 fraction was even lighter than Lamp1 ( Figure S2). These results clearly indicated that activated necrosome targeted a broad range of membrane structures.
+
+To further quantify the colocalization of phospho-MLKL with different cellular membrane compartments, we performed immunostaining on HeLa cells expressing a RIP3 transgene using this antibody together with antibodies recognizing organelle markers including Tom20, Lamp1, and the endoplasmic reticulum marker KDEL. No phospho-MLKL signal was detected in living cells, whereas staining was detected throughout dying cells (Figure 3C). Similar to the result obtained using cell fractionation, phospho-MLKL signals partially overlapped with all these organelles but did not exclusively colocalize with any of them. It is worth noting that significant phospho-MLKL signals were also detected on the plasma membrane when the boundary of a cell was visualized under the bright field. The percentage of colocalization between the phospho-MLKL signal and the membrane markers was calculated after those confocal images were scanned and the intensity of the signal was plotted using Zeiss LSM Image Browser software (Figure 3C). The percentage of overlapping between the phospho-MLKL signal (red dots) and the LAMP-1, Tom20, and KDEL signal (green signal) is around ∼14%–23%, while about 22% of the phospho-MLKL signal was on the plasma membrane.
+
+The shape of the phospho-MLKL signal in the dying cells reminded us of the formation of RIP3 puncta during necroptosis (He et al., 2009 and Sun et al., 2012). To see if the phospho-MLKL dots were overlapping with those of RIP3, we coimmunostained these two proteins under normal or necrosis-inducing conditions in the presence or absence of NSA, which arrests RIP3 conjugates at a smaller size (Sun et al., 2012). Not surprisingly, these two signals completely overlapped when cells were treated with necrosis inducers (Figure S3).
+
+Phosphorylation of MLKL Drives a Monomer-to-Oligomer Transition
+Phosphorylation of MLKL by RIP3 caused MLKL translocation from cytosolic (aqueous) to membrane (detergent) compartments. To explore the biochemical basis of such a transition, we analyzed the MLKL protein by SDS-PAGE under nonreducing conditions and by gel filtration chromatography. As shown in Figure 4A, phospho-MLKL signals appeared and partitioned into the detergent phase when cells were treated with necrosis inducers (lanes 2, 5, 8, and 11). The necrosis inhibitor NSA prevented phospho-MLKL from going to the detergent phase (lanes 3, 6, 9, and 12). Interestingly, under nonreducing conditions, a higher-molecular-weight band running above the 250 kDa marker appeared (lanes 2, 3, 5, and 6). The band collapsed into the monomeric size of MLKL in the presence of the reducing agent β-mercaptoethanol (lanes 8, 9, 11, and 12), indicating that disulfide bonds were formed between the oligomeric phospho-MLKL.
+
+Full-size image (79 K)
+Figure 4. 
+MLKL Forms Oligomers during Necrosis
+(A) Oligomerization analysis of phospho-MLKL under nonreducing condition. HT-29 cells were treated with the indicated stimuli for 8 hr. The cells were harvested and then separated into two fractions, performed as described in Figure 2B. Nonreducing and reducing samples from each fraction were analyzed by western blotting using antibodies as indicated.
+(B) Gel filtration analysis of purified recombinant MLKL on Superdex 200. The elution positions of size standards are indicated (thyroglobulin, 670 kDa; ferritin, 440 kDa; BSA, 67 kDa; ovalbumin, 44 kDa; ribonuclease A, 14 kDa).
+(C) Detection of self-assembly of recombinant MLKL using chemical crosslinker. Aliquots of purified recombinant wild-type or mutant forms of MLKL proteins were mixed with DMSO or crosslinker disuccinimidyl glutarate (DSG) as described in the Experimental Procedures, then subjected to SDS-PAGE and analysis by Coomassie blue staining.
+(D) MLKL phosphorylation is required for its oligomerization after necrosis induction. HeLa/Myc-Rip3 cell lines stably expressing Flag-tagged wild-type MLKL (WT) or the phospho-dead mutant of MLKL (A/A) were treated with the indicated stimuli for 4 hr. The cells were harvested, then nonreducing samples of the whole-cell extract were analyzed by western blotting using antibodies as indicated. See also Figure S4.
+Figure options
+The formation of oligomeric complexes seems to be an intrinsic property of MLKL proteins. When full-length recombinant wild-type MLKL was generated, purified, and analyzed by gel filtration chromatography, two protein peaks, one eluted between the 67 kDa and 44 kDa molecular size markers and another one between 440 kDa and 67 kDa, were observed (Figure 4B, upper panel). When the T357A/S358A phosphorylation sites’ mutant protein was analyzed under the same conditions, the majority of the protein was eluted at the smaller-molecular-weight size (middle panel). However, the phosphomimic mutant T357E/S358D protein was predominantly found at the higher-molecular-weight size (lower panel).
+
+The above data suggested that MLKL naturally exists in two states, and the acidification at its T357 and S358 sites shifts MLKL toward the oligomeric state. Such a property was further demonstrated by subjecting the wild-type, T357A/S358A, and T357E/S358D mutants of MLKL to SDS-PAGE (under reducing condition) in the absence and presence of an amine-to-amine crosslinker, disuccinimidyl glutarate (DSG) (Figure 4C). All three proteins ran at the monomeric molecular weight slightly above 55 kDa on SDS-PAGE without the crosslinker (lanes 1–3). In the presence of DSG, about half of wild-type proteins shifted to a molecular weight above the 250 kDa marker, similar to that observed in cells undergoing necrosis (lane 4). The majority of phosphorylation-site mutants stayed at the smaller size, whereas most of the phosphomimic proteins migrated to the size above 250 kDa (lanes 5 and 6).
+
+To confirm that the oligomerization ability of the phosphorylation site mutant is impaired in vivo, we ectopically expressed a Flag-tagged MLKL with either the wild-type sequence or the T357A/S358A mutant and analyzed the protein by SDS-PAGE under nonreducing conditions. As shown in Figure 4D, wild-type MLKL formed an oligomer above the 250 kDa marker when the host cells were induced to undergo necroptosis (lane 2). The T357A/S358A mutant protein runs as a monomer under the same conditions (lane 4).
+
+Similar to human MLKL, mouse MLKL also showed two different sized peaks when analyzed using gel filtration chromatography or SDS-PAGE under nonreducing conditions (Figures S4A and S4C). The phosphomimic (S345D) mouse MLKL also predominantly runs at a larger size (Figure S4A, lower panel). Consistently, mouse MLKL oligomers in a mouse sarcoma cell line (L929) appeared when the cells were treated with necroptosis inducers, and only the oligomer MLKL was present in the detergent phase when analyzed by the Triton X-114 phase separation procedure (Figure S4C, lane 4).
+
+A recently reported mouse monomeric structure of MLKL has identified an important hydrogen bonding interaction between K219 and Q343 (Murphy et al., 2013). Disrupting such an interaction caused MLKL to become constitutively active (Murphy et al., 2013). Q343 is only one amino acid residue away from the MLKL phosphorylation site S345. Consistently, mutation of human MLKL K230, the equivalent of K219 of mouse MLKL, also shifted the human MLKL to its oligomeric size (Figure S4B), indicating that the conserved interaction might be important to keep MLKL as monomers.
+
+MLKL Binds Membrane Lipids with its N-Terminal Coiled-Coil Domain
+To search for the molecular mechanism of MLKL membrane association, we used the purified recombinant full-length MLKL protein and its N-terminal coiled-coil domain and C-terminal kinase-like domain to test for direct lipid binding. Hydrophobic membrane lipid strips with 100 pmol of 15 different membrane lipids were incubated with full-length MLKL, its coiled-coil domain, or kinase-like domain followed by antibody detection. Four phospholipids showed strong binding to MLKL full-length protein (Figures 5A and 5B). The same lipids also bound to the N-terminal coiled-coil domain of MLKL, whereas the kinase-like domain did not bind any of these lipids. The four lipid species are phosphatidylinositol 4-phosphate (PI4P), phosphatidylinositol (4,5)-bisphosphate (PIP2), phosphatidylinositol (3,4,5)-triphosphate (PIP3), and the mitochondrial-specific lipid cardiolipin. The specificity of MLKL for phosphatidylinositol phosphates was further verified with titrations of different species of these lipids (Figure S5).
+
+Full-size image (106 K)
+Figure 5. 
+MLKL Binds Phospholipids and Liposomes
+(A) Diagram of the exact layout of lipids in lipid strips.
+(B) MLKL binds phospholipids. Protein-lipid overlay assay was performed as described in the Experimental Procedures. Recombinant proteins of full-length and truncated MLKL were using as indicated: MLKL-FL, full-length MLKL (1–471 aa); MLKL-CC, coiled-coil domain of MLKL (1–178 aa); MLKL-KL, kinase-like domain of MLKL (179–471 aa). Anti-N-terminal or C-terminal MLKL antibodies were used to detect the MLKL signal on lipid strips.
+(C) MLKL binds liposomes containing phospholipids. Liposome/protein coprecipitation assay was performed by using wild-type full-length MLKL as described in the Experimental Procedures. The liposome compositions were indicated. The samples were subjected to SDS-PAGE and analysis by Coomassie blue staining. S, supernatant; P, precipitate.
+(D) Comparison of the liposome binding affinity between the wild-type and the phospho-dead forms of MLKL. Liposome/protein coprecipitation assay was performed as described in (C). See also Figure S5.
+Figure options
+To further test if the observed lipid binding activity was responsible for MLKL association with membranes, we incubated MLKL proteins with liposomes with defined lipid compositions and measured liposome association by collecting the liposomes through centrifugation after incubation. As shown in Figure 5C, MLKL protein did not associate with liposomes consisting of a 4:1 molar ratio of phosphatidylcholine (PC) and phosphatidylethanolamine (PE) or such liposomes plus 5% phosphatidylinositol (PI) or 5% phosphatidylserine (PS). Consistent with the lipid strip binding results, liposomes containing 5% PI(4)P or PI(4,5)P recruited MLKL, with PI(4,5)P-containing liposomes showing higher affinity for MLKL. Interestingly, the majority of MLKL bound to the liposome with 15% cardiolipin, the level close to that of mitochondria, but only a small fraction bound to the liposome containing only 5% cardiolipin.
+
+To verify the specificity of the liposome-binding activity of MLKL, we conducted the same liposome-binding assay using wild-type and phosphorylation site mutant MLKL. As shown in Figure 5D, both versions of MLKL stayed in the supernatant without liposomes. The wild-type MLKL readily bound to liposomes with 5% PI(4,5)P2, whereas the mutant protein failed to do so and stayed in the supernatant. A slightly higher percentage of the mutant MLKL bound to the liposome with 15% cardiolipin, but that was still much less than the wild-type.
+
+MLKL Breaks Phosphatidylinositol Phosphate- and Cardiolipin-Containing Membranes
+Although the MLKL N-terminal coiled-coil domain readily binds to phosphatidylinositol lipids and cardiolipin, as well as liposomes containing these lipids, no sign of binding could be detected if cardiolipin was presented in the form of nanodiscs (data not shown). This observation suggested the possibility that MLKL binds to lipids not through a surface interaction, but rather by inserting deeply into the bilayers, which is prevented in nanodiscs because of the constraints imposed by the scaffolding protein used to build them (Brewer et al., 2011). Thus, MLKL may form pores within membranes and/or disrupt membranes similar to the apoptosis-inducing proteins Bax and Bak. We therefore tested whether MLKL is able to cause leakage in liposomes, releasing their contents. Liposomes were prepared with Tb3+ ions, followed by incubation with different versions of purified MLKL proteins in the presence of dipicolinic acid (DPA). Tb3+ has very weak fluorescence. When released from liposome and bound to DPA, the fluorescence of the Tb3+/DPA chelate increases about 104-fold and therefore gives a strong signal for liposome leakage (Wilschut and Papahadjopoulos, 1979). As shown in Figure 6A (upper panel), more than 50% of Tb3+ in the 5% PI(4,5)P2-containing liposomes was released by the phosphomimic MLKL (red line). The same amount of wild-type MLKL was able to release about 30% of Tb3+ (green line), and the level decreased to less than 20% when the phosphorylation site mutant MLKL was used (blue line). The higher level of liposome leakage caused by the phosphomimic MLKL is depending on the PI(4,5)P2, and when it was substituted by 5% PI4P or 5% PI, the activity dipped to about 20% or baseline level, respectively (Figure 6B, upper panel). The activity was significantly blocked in the presence of NSA (Figure 6C, upper panel). A similar trend was observed when the 15% cardiolipin-containing liposome was used, although the activity increased to close to 90% and 60% for the phosphomimic and wild-type MLKL, respectively (Figure 6A, lower panel). Interestingly, even though the phosphomimic MLKL was able to release close to 90% of liposomal content from the 15% cardiolipin-containing liposome, it caused less than 10% leakage of content if the liposomes contained 5% or no cardiolipin (Figure 6B, lower panel). Again, NSA attenuated the leakage from the 15% cardiolipin-containing liposomes (Figure 6C, lower panel).
+
+Full-size image (124 K)
+Figure 6. 
+MLKL Directly Caused Liposome Leakage and Necrotic Cell Death by Pore Formation
+(A–D) Time course of liposome leakage was monitored as described in the Experimental Procedures. Asterisks indicated the time points when Triton X-100 was added to achieve complete release of Tb3+.
+(A) Comparison of wild-type and phosphomutant MLKL in liposome leakage assay. Liposomes containing PI(4,5)P2 (upper panel) or cardiolipin (CL) (lower panel) were used as indicated. Curves in different colors represent purified recombinant wild-type, phospho-dead mutant, and phosphomimic mutants of MLKL.
+(B) Different phospholipids prime MLKL, causeing liposome leakage with different strengths. Purified recombinant MLKL phosphomimic mutants were used. Curves represent liposomes containing native PI, PI(4)P, or PI(4,5)P2 (upper panel), and liposomes with different proportions of CL (lower panel), and are shown in different colors as indicated.
+(C) Necrosulfonamide disturbs MLKL-induced liposome leakage. Purified recombinant MLKL phosphomimic mutant was incubated with 2 uM necrosulfonamide or DMSO at room temperature for 2 hr. Time course of Tb3+ leakage from liposomes containing PI(4,5)P2 (a) or cardiolipin (b) were monitored as described in (B). The curves representing MLKL with NSA (+NSA, dashed line) or DMSO (−NSA, solid line) were indicated.
+(D) Mapping the MLKL pore-forming domain. Liposomes containing PI(4,5)P2 (upper panel) or cardiolipin (CL) (lower panel) were used as indicated. Curves represent purified recombinant full-length and truncated MLKL (MLKL-CC, 1–178 aa; MLKL-KL, 179–471 aa), which are indicated in different colors.
+(E and F) Polymerized phosphomimic MLKL causes necrosis. U2OS Tet-On cells with tet-inducible expression of myc-tagged MLKL phosphomimic mutant fusion with two AP20187 binding (FKBPv) domains (diMLKL[ED]-U2OS) (see Figure S6D, upper panel) were used to test cell viability (E) and monitor fluorescence in living cells (F). (E) The diMLKL(ED)-U2OS cells were induced by Dox overnight then treated with necrosis inhibitors for 2 hr before the AP20187 was added. After 10 hr, the number of surviving cells was determined by measuring ATP levels (lower panel). The data are represented as the mean ± SD of duplicate wells. After doxycycline induction, the MLKL level was measured by western blot analysis as shown in the upper panel. (F) The diMLKL(ED)-U2OS cells were induced by doxycycline overnight and then treated with the AP20187. The live-cell fluorescent images were obtained as described in the Experimental Procedures. The time after treatment was indicated. See also Figure S6.
+Figure options
+We also tested full-length MLKL, its N-terminal coiled-coil domain, and C-terminal kinase-like domain for the liposome-content-releasing activity. As shown in Figure 6D, full-length wild-type and the N-terminal coiled-coil domain of MLKL were able to release about 30% of contents from liposomes containing 5% PI(4,5)P2 (upper panel) and 60% from liposomes containing 15% cardiolipin (lower panel), whereas the C-terminal kinase-like domain had no such activity.
+
+For both 5% PI(4,5)P2 and 15% cardiolipin-containing liposomes, MLKL released their contents in a concentration-dependent manner. Additionally, with higher concentrations of MLKL, increasingly larger dextran molecules were released, indicating that the pore formed by MLKL became large with more MLKL inserted to the membrane (Figures S6A and S6B).
+
+The liposome-disrupting activity was also observed with mouse MLKL, with the phosphomimic mutant (S345D) showing higher activity than wild-type (Figure S6C).
+
+MLKL Is Sufficient to Cause Cell Death when Ectopically Expressed
+The finding that MLKL is sufficient to break the membranes of PIP2- and cardiolipin-containing liposomes and release their contents raised the possibility that MLKL might be able to cause necrosis directly if ectopically expressed, and the cell-killing activity should be enhanced when artificially linked together with a chemical linker. To this end, we ectopically expressed MLKL proteins fused with a Myc tag and two modified FKBP (FKBPV) dimerization domains at its C terminus and observed cell death after the addition of AP20187 (FK-506 derivative, indicated as Dimerizer) (Figure S6D). At a similar level of expression, the phosphomimic MLKL caused more cell death than wild-type, which in turn killed more cells than the phosphorylation site mutant (Figure S6D). To further characterize this system, we generated a stable cell line from the human osteosarcoma U2OS cells, in which the phosphomimic version of MLKL-FKBPV dimerization domain fusion protein was under the control of a doxycycline-inducible promoter. U2OS cells do not express RIP3 and thus normally do not undergo necroptosis. As shown in Figure 6E, the MLKL fusion protein was only expressed in the presence of doxycycline, and the expression of this protein caused about 30% of cells to die, as measured by cellular ATP levels. The death rate increased to about 60% by adding AP20187. Cell death was not affected by the presence of caspase inhibitor z-VAD-fmk or RIP1 kinase inhibitor necrostatin-1 but was significantly attenuated by the MLKL inhibitor NSA, indicating that the cell death observed was MLKL mediated. The necrotic nature of cell death was confirmed by staining dying cells with SYTOX Green (Figure 6F). Similar results were also observed with constitutively active mouse MLKL mutants (Murphy et al., 2013).
+
+The Antibody against Phospho-MLKL Detects Active Necroptosis in Human Liver Biopsy Samples from Patients Suffering from Drug-Induced Liver Injury
+The above data suggested that phosphorylation on MLKL might constitute a key commitment step for necrotic death execution. Therefore, the monoclonal antibody against phosphospecific MLKL should be useful to measure this specific necroptosis marker in vivo, particularly in human diseased tissues where necroptosis might play a role.
+
+One such disease is drug-induced liver injury (DILI), a disease that is frequently found in clinic. Animal studies using RIP3 knockout mice have indicated a positive role of necroptosis in the disease progression (Ramachandran et al., 2013). We therefore stained phospho-MLKL on biopsy samples from cohorts of DILI patients and normal liver transplant donors. As shown in Figure 7A, three adjacent sections from a typical liver biopsy sample of a patient were analyzed. Strong phospho-MLKL signals scatted around the central vein region were detected in the section stained with the antibody, but no signal was seen in the adjacent section stained without the primary antibody (b). The histology analysis with hematoxylin and eosin (H&E) staining showed obvious liver damage in this area (c). No phosphor-MLKL signal and hepatocyte injury were detected in similar adjacent sections from liver samples of transplant donors (Figure 7B). The areas of positive phosphor-MLKL staining from two other DILI patients were further analyzed under microscope with higher magnification (Figure 7C). The phosphor-MLKL staining resided with hepatocytes, which appeared to be at different stages of necrosis. The areas were surrounded by infiltrates of inflammatory cells with nuclei smaller and darker than those of hepatocytes (Figure 7C).
+
+Full-size image (199 K)
+Figure 7. 
+Phospho-MLKL Signals Were Detected in Liver Biopsy Samples from Patients with Drug-Induced Liver Injury
+(A) Immunohistochemical staining of a representative liver biopsy sample from a DILI patient. (a) A section of liver biopsy sample from a DILI patient was stained with the antibody against phospho-MLKL. Positive cells appear red in the section counterstained with hematoxylin. (b) The IHC staining without primary antibody was used as negative control to (a). (c) A section adjacent to (a) and (b) was stained with H&E for histological analysis. Magnification, 10×.
+(B) Similar sections of liver biopsy samples from two healthy transplant donors were either subjected to IHC staining with the antibody against phospho-MLKL (a, b) or stained with H&E (a′, b′). Asterisk in a′, central vein; asterisk in b′, portal vein.
+(C) Representative IHC staining of phospho-MLKL staining of liver samples from two DILI patients. Positively staining cells appear brown in sections counterstained with hematoxylin (blue). Inflammatory cells (white arrows) infiltrated the injury region and grouped around with ensuing hepatocellular necroptosis (long black arrows for necrotic hepatocytes and short black arrow for hepatocyte with phospho-MLKL staining). Images were acquired using a 10× objective. Higher-power views of selected areas were acquired using a 40× objective.
+(D and E) Difference in phospho-MLKL signals between healthy donors and DILI patients. The percentage of phospho-MLKL positive cells was analyzed within 40× frames (D), and the phospho-MLKL stained areas were quantified using Image-Pro Plus software (E). All of the data were represented as the mean ± SE. ∗∗∗p < 0.0001 (n = 13 for normal; n = 14 for DILI).
+Figure options
+The phosphor-MLKL staining from liver tissues of 14 DILI patients and 13 normal liver transplant donors were quantified by the percentage of positively stained cells per 40× frame (Figure 7D) and percentage of positively stained areas in a section (Figure 7E). Both methods showed statistically significant indication of positive phosphor-MLKL staining with the disease.
+
+Discussion
+Necrosis Signaling Pathways
+The above data outlined several of the execution steps of the necroptosis pathway. Upon phosphorylation of T357 and S358 by RIP3, MLKL shifts the equilibrium between monomer and oligomer toward oligomeric state. The molecular mechanism of such a shift could be deduced from the analysis of the structure of monomeric mouse MLKL (Murphy et al., 2013). In that structure, the α helix from L339 to S347, which contains Q343 that forms hydrogen bonding with K219 and the phosphorylation site S345, is closely stacked with the α helix from S228 to T242. The coordinate of S345 would not be able to accommodate a phosphorylated serine or the phosphomimic residue of aspartic acid. Therefore, it is conceivable that phosphorylation or a mutation into aspartic acid would change the position of the α helix consisting of L339 to S347 of MLKL. This would disrupt the hydrogen bonding interaction of K219 and Q343, which is proposed to stabilize the monomeric structure. Consistent with this hypothesis, mutation of S345 to aspartic acid and mutation on either K219 or Q343 leads to constitutively active MLKL (Murphy et al., 2013). Additionally, the human equivalent of K219 mutation K230A behaves like a phosphomimic in terms of oligomer formation (Figure S4B). Therefore, the phosphorylation on MLKL is likely to destabilize the monomeric structure and favor the oligomer formation. A more detailed molecular understanding will undoubtedly benefit from the oligomeric structure of phospo-MLKL in the future.
+
+The precise number of proteins that make such an oligomer has yet to be determined. Two recent reports have speculated that it is either a tetramer or trimer (Cai et al., 2014 and Chen et al., 2014). However, based on its migration on SDS-PAGE gel under nonreducing conditions and gel filtration chromatography, it is most likely a hexamer. Once oligomerized, MLKL gains the ability to bind negatively charged lipids, which allows MLKL to translocate and become incorporated into multiple intracellular and plasma membranes enriched in phosphoinositides and cardiolipin, where the necrosome directly disrupts membrane integrity, resulting in necrotic death.
+
+The lipid-binding and pore-formation activities reside in the N-terminal coiled-coil domain of MLKL, which folds into a four-helix bundle linked by two α helix hinges to the pseudokinase domain in its monomeric state (Figures 5 and 6; Murphy et al., 2013). The pseudokinase domain seems to be functioning in a regulatory role that controls the equilibrium between monomeric and oligomeric states of MLKL.
+
+The result that oligomerized MLKL directly disrupts membrane bilayer by forming pores also reconciled the conflicting reports that calcium or sodium influx into cells is required for necroptosis execution (Cai et al., 2014 and Chen et al., 2014). Both phenomena could be the result of plasma membrane pore formation. Consistently, cells cultured in either calcium- or sodium-free media were still able to undergo necroptosis (Figure S7).
+
+Preventing MLKL Oligomerization to Treat Human Diseases
+The development of the monoclonal antibody that specifically recognizes the phosphorylated form of MLKL allowed us to probe human diseased tissues for the involvement of necroptosis in human diseases. From liver biopsy samples of patients with active liver damage, positive phospho-MLKL was readily detected around the necrosis areas (Figure 7). The areas were also populated with infiltrated inflammatory cells. The histological analysis of the disease suggested a possible etiology for the disease. The initial hepatocyte necrosis could be directly caused by drugs through nonspecific hepatocyte injury, which results in the release of cellular contents that function as the danger-associated molecular pattern molecules (DAMP). The released DAMPs recruit inflammatory cells that secrete cytokines, such as TNF-α, and induce the elevation of RIP3 as seen in the animal model (He et al., 2009 and Ramachandran et al., 2013). The elevated RIP3 and drug-damaged mitochondria could bypass the requirement for caspase inhibitor and Smac mimetics for necroptosis induction in vivo.
+
+The RIP1/RIP3/MLKL pathway should be amenable to developing therapeutic agents that inhibit RIP1 and/or RIP3 kinase activity or MLKL oligomerization. Since RIP3 and MLKL knockout mice are largely normal, inhibition of RIP3 and/or MLKL may not have major side effects, especially for many tissue damage-related diseases.
+
+Experimental Procedures
+Chemicals and Antibodies
+We collaborated with Epitomics to develop the rabbit monoclonal antibody against phospho-MLKL (ab187091; Abcam). The rabbits were immunized with the peptide cELRKTQ-pTpS-MSLGTTR. Hybridoma lines were screened by western blot analysis. The final antibody was purified using protein A agarose. The reagents, plasmids, and methods are described in the Supplemental Experimental Procedures.
+
+Cell Culture and Stable Cell Lines
+HT-29, HeLa, L929, and U2OS cells, as well as the establishment of stable cell lines, are described in the Supplemental Experimental Procedures.
+
+Cell Survival Assay and Membrane Leakage Assay
+Cell survival assay and cell membrane leakage assay were performed using the CellTiter-Glo Luminescent Cell Viability Assay kit and CytoTox-Glo Cytotoxicity Assay kit, respectively, according to the manufacturer’s instructions (Promega). Luminescence was recorded with a Tecan GENios Pro Plate Reader.
+
+Live-Cell Imaging and Immunofluorescence Staining
+Live-cell imaging was obtained with a Nikon Ti inverted microscope and the PerkinElmer UltraVIEW VoX system. The detailed methods of live-cell imaging and immunofluorescence staining are described in the Supplemental Experimental Procedures.
+
+Fractionation by Phase Separation
+Triton X-114 lysis buffer was used to perform the phase separation assay and overviewed in Figure 2A. The details are described in the Supplemental Experimental Procedures.
+
+Fractionation by Differential Centrifugation and Sucrose Density Gradient Centrifugation
+The basic steps of subcellular organelle isolation by differential centrifugation were overviewed in Figure 3A. The details of the differential centrifugation and sucrose density gradient centrifugation are described in the Supplemental Experimental Procedures.
+
+Protein-Lipid Overlay Assay
+The recombinant proteins of MLKL produced as in Sun et al. (2012) were diluted to 200 ng/ml. The protein-lipid interactions were analyzed with commercial lipid strips (Echelon Biosciences) according to the manufacturer’s instructions. The details are described in the Supplemental Experimental Procedures.
+
+Liposome Sedimentation Assay and Leakage Assay
+Natural and synthetic lipid products used for liposome preparation were from Avanti. The liposomes were prepared using Avanti Mini-Extruder according to the manufacturer’s instructions. Liposomes prepared within 24 hr were aliquoted and used for liposome sedimentation assay and leakage assay. For liposome sedimentation assay, 10 μM MLKL recombinant proteins were incubated with 1 mM (lipid concentration) liposomes for 30 min and pelleted by centrifugation at 4°C for 20 min at 100,000 × g. The cosedimented proteins were analyzed by SDS-PAGE followed by Coomassie blue staining. For liposome leakage assay, the released fluorescence was recorded with a Tecan GENios Pro Plate Reader. The details are described in the Supplemental Experimental Procedures.
+
+Immunohistochemical Staining of Liver Samples
+Human liver biopsy samples were stained with phospho-MLKL and hematoxylin. For phospho-MLKL signal analysis, three 40× frames with p-MLKL-positive staining of different areas were randomly selected for each acute liver failure sample. Phospho-MLKL-stained areas were quantified using Image-Pro Plus software. The details are described in the Supplemental Experimental Procedures.
+
+Acknowledgments
+We thank Ms. Sasha Sa for critically reading the manuscript. L. Sun and H.W. are supported by Amgen-China postdoctoral fellowships. This work was supported by a National Basic Science 973 grant (2010CB835400) from the Chinese Ministry of Science and Technology.
+
+Supplemental Information
+ 
+Document S1. Supplemental Experimental Procedures and Figures S1–S7.  
+Help with PDF filesOptions
+ 
+Document S2. Article plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Brewer et al., 2011
+K.D. Brewer, W. Li, B.E. Horne, J. Rizo
+Reluctance to membrane binding enables accessibility of the synaptobrevin SNARE motif for SNARE complex formation
+Proc. Natl. Acad. Sci. USA, 108 (2011), pp. 12723–12728
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Cai et al., 2014
+Z. Cai, S. Jitkaew, J. Zhao, H.C. Chiang, S. Choksi, J. Liu, Y. Ward, L.G. Wu, Z.G. Liu
+Plasma membrane translocation of trimerized MLKL protein is required for TNF-induced necroptosis
+Nat. Cell Biol., 16 (2014), pp. 55–65
+
+View Record in Scopus | Citing articles (6)
+Chen et al., 2014
+X. Chen, W. Li, J. Ren, D. Huang, W.T. He, Y. Song, C. Yang, W. Li, X. Zheng, P. Chen, J. Han
+Translocation of mixed lineage kinase domain-like protein to plasma membrane leads to necrotic cell death
+Cell Res., 24 (2014), pp. 105–121
+
+View Record in Scopus | Citing articles (4)
+Cho et al., 2009
+Y.S. Cho, S. Challa, D. Moquin, R. Genga, T.D. Ray, M. Guildford, F.K. Chan
+Phosphorylation-driven assembly of the RIP1-RIP3 complex regulates programmed necrosis and virus-induced inflammation
+Cell, 137 (2009), pp. 1112–1123
+
+Article |  PDF (1761 K) | View Record in Scopus | Citing articles (377)
+Danial and Korsmeyer, 2004
+N.N. Danial, S.J. Korsmeyer
+Cell death: critical control points
+Cell, 116 (2004), pp. 205–219
+
+Article |  PDF (355 K) | View Record in Scopus | Citing articles (2509)
+Degterev et al., 2008
+A. Degterev, J. Hitomi, M. Germscheid, I.L. Ch’en, O. Korkina, X. Teng, D. Abbott, G.D. Cuny, C. Yuan, G. Wagner et al.
+Identification of RIP1 kinase as a specific cellular target of necrostatins
+Nat. Chem. Biol., 4 (2008), pp. 313–321
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (371)
+He et al., 2009
+S. He, L. Wang, L. Miao, T. Wang, F. Du, L. Zhao, X. Wang
+Receptor interacting protein kinase-3 determines cellular necrotic response to TNF-alpha
+Cell, 137 (2009), pp. 1100–1111
+
+Article |  PDF (1460 K) | View Record in Scopus | Citing articles (343)
+Holler et al., 2000
+N. Holler, R. Zaru, O. Micheau, M. Thome, A. Attinger, S. Valitutti, J.L. Bodmer, P. Schneider, B. Seed, J. Tschopp
+Fas triggers an alternative, caspase-8-independent cell death pathway using the kinase RIP as effector molecule
+Nat. Immunol., 1 (2000), pp. 489–495
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (671)
+Kerr et al., 1972
+J.F. Kerr, A.H. Wyllie, A.R. Currie
+Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics
+Br. J. Cancer, 26 (1972), pp. 239–257
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (8521)
+Laster et al., 1988
+S.M. Laster, J.G. Wood, L.R. Gooding
+Tumor necrosis factor can induce both apoptic and necrotic forms of cell lysis
+J. Immunol., 141 (1988), pp. 2629–2634
+
+View Record in Scopus | Citing articles (425)
+Moriwaki and Chan, 2013
+K. Moriwaki, F.K. Chan
+RIP3: a molecular switch for necrosis and inflammation
+Genes Dev., 27 (2013), pp. 1640–1649
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Murphy et al., 2013
+J.M. Murphy, P.E. Czabotar, J.M. Hildebrand, I.S. Lucet, J.G. Zhang, S. Alvarez-Diaz, R. Lewis, N. Lalaoui, D. Metcalf, A.I. Webb et al.
+The pseudokinase MLKL mediates necroptosis via a molecular switch mechanism
+Immunity, 39 (2013), pp. 443–453
+
+Article |  PDF (1318 K) | View Record in Scopus | Citing articles (21)
+Ramachandran et al., 2013
+A. Ramachandran, M.R. McGill, Y. Xie, H.M. Ni, W.X. Ding, H. Jaeschke
+Receptor interacting protein kinase 3 is a critical early mediator of acetaminophen-induced hepatocyte necrosis in mice
+Hepatology, 58 (2013), pp. 2099–2108
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+Sun et al., 2012
+L. Sun, H. Wang, Z. Wang, S. He, S. Chen, D. Liao, L. Wang, J. Yan, W. Liu, X. Lei, X. Wang
+Mixed lineage kinase domain-like protein mediates necrosis signaling downstream of RIP3 kinase
+Cell, 148 (2012), pp. 213–227
+
+Article |  PDF (1611 K) | View Record in Scopus | Citing articles (112)
+Thornberry and Lazebnik, 1998
+N.A. Thornberry, Y. Lazebnik
+Caspases: enemies within
+Science, 281 (1998), pp. 1312–1316
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5085)
+Wilschut and Papahadjopoulos, 1979
+J. Wilschut, D. Papahadjopoulos
+Ca2+-induced fusion of phospholipid vesicles monitored by mixing of aqueous contents
+Nature, 281 (1979), pp. 690–692
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Wu et al., 2013
+J. Wu, Z. Huang, J. Ren, Z. Zhang, P. He, Y. Li, J. Ma, W. Chen, Y. Zhang, X. Zhou et al.
+Mlkl knockout mice demonstrate the indispensable role of Mlkl in necroptosis
+Cell Res., 23 (2013), pp. 994–1006
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Zhang et al., 2009
+D.W. Zhang, J. Shao, J. Lin, N. Zhang, B.J. Lu, S.C. Lin, M.Q. Dong, J. Han
+RIP3, an energy metabolism regulator that switches TNF-induced cell death from apoptosis to necrosis
+Science, 325 (2009), pp. 332–336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (349)

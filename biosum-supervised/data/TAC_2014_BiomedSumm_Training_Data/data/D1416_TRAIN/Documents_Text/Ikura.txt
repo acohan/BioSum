@@ -1,0 +1,440 @@
+Involvement of the TIP60 Histone Acetylase Complex in DNA Repair and Apoptosis
+Tsuyoshi Ikura1, 2, 2, Vasily V Ogryzko2, 8, Mikhail Grigoriev3, 2, 3, Regina Groisman1, Jin Wang4, Masami Horikoshi5, 6, Ralph Scully1, Jun Qin4, Yoshihiro Nakatani1, 2, 1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S0092-8674(00)00051-9
+Under an Elsevier user license
+  Open Archive
+Abstract
+It is well known that histone acetylases are important chromatin modifiers and that they play a central role in chromatin transcription. Here, we present evidence for novel roles of histone acetylases. The TIP60 histone acetylase purifies as a multimeric protein complex. Besides histone acetylase activity on chromatin, the TIP60 complex possesses ATPase, DNA helicase, and structural DNA binding activities. Ectopic expression of mutated TIP60 lacking histone acetylase activity results in cells with defective double-strand DNA break repair. Importantly, the resulting cells lose their apoptotic competence, suggesting a defect in the cells' ability to signal the existence of DNA damage to the apoptotic machinery. These results indicate that the histone acetylase TIP60-containing complex plays a role in DNA repair and apoptosis.
+
+Introduction
+Given that hyperacetylated histones are a typical feature of transcriptionally active chromatin, histone acetylases have been believed to play a role in transcriptional activation in chromatin contexts (reviewed in 16, 37, 42 and 32). Consistent with this model, intrinsic histone acetylase activity has been found in various coactivators that function by interacting with a wide variety of DNA binding transcriptional activators. Coactivators with histone acetylase activity include yeast GCN5 (Brownell et al. 1996), PCAF (Yang et al. 1996), p300/CBP (2 and 25), ACTR/Src1 (6 and 36), TIP60 (Yamamoto and Horikoshi 1997), and TAFII250 (Mizzen et al. 1996). Although exact mechanisms of how acetylation of histones contribute to transcriptional activation have not been clarified, it has been thought that acetylation of nucleosomal histones leads to relaxation of chromatin structure so that various transcription factors can gain access to and function on chromatin DNA (for reviews, see 16, 37, 42 and 32). While many histone acetylases have been identified, the fact that most (as recombinant proteins) cannot efficiently acetylate histones in chromatin contexts in vitro (e.g., see 11 and 26) is problematic. For this reason, it was thought that additional factors might be required for acetylation of relevant substrates.
+
+In support of this notion, a purified PCAF complex consisting of at least 20 distinct subunits was shown to acetylate histones in nucleosomal contexts, indicating that subunits in the PCAF complex could stimulate acetylation of relevant substrates (Ogryzko et al. 1998). Moreover, characterization of subunits of the PCAF complex has revealed a subset of the TBP-associated factors (TAFs), originally found in TFIID; TAF-related PAF65α and β; human homologs of yeast transcriptional cofactors ADA2, ADA3, and Spt3; and PAF400, which exhibits sequence similarity to members of ATM superfamily (26 and 38). Importantly, TAFII80, TAF-like PAF65α, and TAFII20/15 bear sequence similarities to core histones (Ogryzko et al. 1998) and thus may form a histone octamer-like structure in the PCAF complex, as has been proposed for TFIID (12, 22 and 44). Furthermore, TAF-like PAF65β has WD40 repeats, motifs often found in factors that target chromatin (Ogryzko et al. 1998).
+
+As an extension of this work, we now represent the purification and characterization of the TIP60 complex. TIP60 was originally isolated as an HIV-1-Tat-interactive protein (Kamine et al. 1996) and later identified as a histone acetylase (Yamamoto and Horikoshi 1997). The TIP60 complex consists of at least 14 distinct subunits and displays histone acetylase activity on chromatin. Additionally, it has ATPase, DNA helicase, and structural DNA binding activities. Importantly, the ATPase activity is intrinsic to the subunits related to RuvB, which plays a role in damaged DNA repair in bacteria (reviewed in West 1997). This suggests a role of TIP60 histone acetylase complex in DNA repair. To support the notion that TIP60 acetylation plays a broader role than previously thought, we show that exogenous expression of mutated TIP60 lacking histone acetylase activity results in cells with defective double-strand break repair and that transformed cells loose their apoptotic competence. These results provide a glimpse into a fascinating web of interactions that link the TIP60 histone acetylase complex to the area of DNA repair and apoptosis.
+
+Results
+Purification of the TIP60 Complex
+TIP60 was purified from HeLa cells stably expressing FLAG-HA epitope-tagged TIP60 (eTIP60). Western blot analyses of nuclear extracts fractionated by glycerol gradient centrifugation showed that eTIP60-expressing cells contained about twice the amount of TIP60 as nontransduced cells but that all of the TIP60 is present in high molecular weight fractions corresponding to sizes larger than the 670 kDa molecular weight marker (data not shown). eTIP60 was purified from nuclear extracts by affinity chromatography on anti-FLAG antibody-conjugated agarose, and the bound polypeptides were eluted with the FLAG peptide under native conditions (Figure 1A, lane 2). As a control, we performed a mock purification from a nuclear extract prepared from nontransduced HeLa cells (lane 1). The FLAG affinity-purified materials were further purified by immunoaffinity chromatography with anti-HA antibody (lanes 3 and 4). After the second affinity purification, at least 12 proteins that specifically associate with TIP60 were identified.
+
+Full-size image (118 K)
+Figure 1. 
+Purification of the TIP60 Complex
+(A) The TIP60 complex was purified from a nuclear extract prepared from FLAG-HA epitope-tagged TIP60 (eTIP60)-expressing HeLa cells (lanes 1 and 3). As a control, we performed mock purification from a nuclear extract prepared from nontransduced HeLa cells (lanes 2 and 4). The TIP60 complex was immunoprecipitated on anti-FLAG antibody-conjugated agarose from nuclear extracts, and the bound materials were eluted with FLAG peptide (lanes 1 and 2). The eluates were further purified on anti-HA antibody-conjugated agarose in a similar way (lanes 3 and 4). Proteins were resolved by SDS–PAGE and stained with Coomassie brilliant blue. The major polypeptides specific to the fraction purified from the eTIP60-expressing cells are indicated. The asterisk denotes eTIP60 degradation products.
+(B) The TIP60 complex purified by FLAG antibody, corresponding to lane 2 in (A), was further purified on a 10%–30% glycerol gradient by centrifugation. After fractionation, each fraction was resolved by SDS–PAGE and visualized by silver staining (top) and Western staining with anti-FLAG antibody (bottom). Input (IP) was also analyzed by silver staining. The polypeptides that comigrate with eTIP60 are indicated. Note that the 50 and 60 kDa polypeptides appearing in lanes 5 and 6 are clearly distinct from p50 and eTIP60 in the original silver-stained gel, as judged by their mobility and the color of the bands.
+Figure options
+The FLAG affinity-purified complex (Figure 1A, lane 2) was separated on a 10%–30% glycerol gradient by ultracentrifugation (Figure 1B). A Western blot analysis with FLAG antibody revealed at least two forms of eTIP60: a slowly sedimenting form (bottom panel, fractions 1 and 2) and a faster sedimenting form (fractions 7 and 8). Since a slowly sedimenting form was not detected when a nuclear extract was fractionated (data not shown), this could represent the free form or a partial complex of TIP60 that was produced during purification. A silver-stained SDS–PAGE gel of these fractions (top panel), together with Western blots with various antibodies against associated proteins (Figure 3B and Figure 4A, and unpublished data), showed that the faster sedimenting form of eTIP60 comigrates with all associated proteins identified in the doubly affinity-purified material (Figure 1A). These data suggest that all these polypeptides might belong to the large complex.
+
+Full-size image (53 K)
+Figure 3. 
+The TIP60 and PCAF Complexes Share a Common Subunit
+(A) PAF400 is present in both TIP60 and PCAF complexes. The mock control (lane 1), the TIP60 complex (lane 2), and the PCAF complex (lane 3) were stained with anti-PAF400 antibody.
+(B) PAF400 and TIP60 cosediment in glycerol gradient centrifugation. The TIP60 complex purified on a 10%–30% glycerol gradient, which corresponds to the samples shown in Figure 1B, was stained with anti-PAF400 antibody after SDS–PAGE.
+Figure options
+Full-size image (74 K)
+Figure 4. 
+RuvB-Like TAP54α and β Have ATPase Activity
+(A) TAP54α and β cosediment with TIP60 in glycerol gradient centrifugation. The TIP60 complex separated on a 10%–30% glycerol gradient, which corresponds to the samples shown in Figure 1B, was subjected to SDS–PAGE and stained with anti-TAP54α (top) and β (bottom) antibodies.
+(B) ATPase activity in the TIP60 complex. The ATPase activities of the TIP60 complex (lanes 2–5) and the mock control (lanes 6–9) were assayed. The reactions were stopped at the indicated times. Free phosphate produced by hydrolysis of ATP was separated from ATP by thin-layer chromatography. Free phosphate (fast migrating spot) and ATP (slowly migrating spot) were visualized by autoradiography. Note that a trace amount of free phosphate contaminated ATP (lane 1).
+Figure options
+The TIP60 Complex Can Acetylate Nucleosomes
+We tested the histone acetylase activity of the TIP60 complex with either free core histones or polynucleosomes (Figure 2) as substrates. Consistent with an earlier report (Yamamoto and Horikoshi 1997), recombinant TIP60 protein acetylated histones H2A, H3, and H4 when free histones were used as substrates (lane 1). However, it did not acetylate nucleosomal histones either in the presence or absence of linker histones (lanes 2 and 3). In contrast to recombinant TIP60 protein, the TIP60 complex efficiently acetylated nucleosomes even when linker histones were present (lanes 5 and 6), suggesting that this complex can act on native substrates. Note that although histone H3 was acetylated when free histones were used as substrates (lane 4), it was hardly acetylated in the nucleosomal context (lanes 5 and 6). In no case was acetylation observed without the addition of enzymes (data not shown). Given that associated factors stimulate acetylation only in a nucleosomal context, not in free histones, they may stimulate accessibility of the catalytic subunit to histone tails in nucleosomes.
+
+Full-size image (98 K)
+Figure 2. 
+The TIP60 Complex Has Histone Acetylase Activity that Acts on Nucleosomes
+The histone acetylase activity was measured using either free core histones (lanes 1 and 4), linker histone-containing polynucleosomes (lanes 2 and 5), or linker histone-stripped polynucleosomes (lanes 3 and 6) as substrates. Acetylase assays were performed with equimolar amounts of recombinant TIP60 protein (lanes 1–3) and the TIP60 complex (lanes 4–6). After separation by SDS–PAGE, the gel was stained with Coomassie brilliant blue (bottom); acetylated histones were then detected by autoradiography (top).
+Figure options
+The 400 kDa Subunit Is Common to the TIP60 and PCAF Complexes
+We employed mass spectrometry to identify subunits in the TIP60 complex. An MS/MS spectrometric analysis indicated the 400 kDa band as PAF400 (Vassilev et al. 1998), which is identical to the largest subunit of the PCAF complex as well as to the c-Myc and E2F binding protein TRRAP (McMahon et al. 1998). The mass sequencing data were confirmed by Western blot (Figure 3A) showing that anti-PAF400 antibody reacts with a 400 kDa polypeptide in both of the TIP60 (lane 2) and PCAF (lane 3) complexes but not with the mock control (lane 1). Moreover, Western blot analysis of the TIP60 complex fractionated by glycerol gradient revealed that PAF400 cofractionated with TIP60 (Figure 1B and Figure 3B). Our results showing that PAF400 is common to both the TIP60 and PCAF complexes suggest that PAF400 plays a similar role in these histone acetylase complexes. Given that associated factors are crucial for effective acetylation of nucleosomes in both complexes (Ogryzko et al. 1998) (Figure 2), the common subunit PAF400 may play a role in acetylation of nucleosomal histones.
+
+RuvB-Like Proteins, β-Actin, and the Actin-Related Protein in the TIP60 Complex
+MS/MS spectrometric analysis of the 54 kDa band identified two distinct but related polypeptides, referred to as TIP60-associated protein (TAP) 54α and β. Mass spectrometric analysis revealed that the former protein is identical to the TATA binding protein (TBP)-interacting protein TIP49a (Makino et al. 1999) or RUVBL1 (Qiu et al. 1998), while the later is identical to TIP49b (Kanemaki et al. 1999) or RUVBL2 (GenBank accession number AF155138). Western blot analysis demonstrated that both TAP54α and β cosediment with TIP60 (Figure 1B and Figure 4A) in glycerol gradient separation. Moreover, anti-TAP54 antibody coprecipitated TIP60 from the TIP60 complex (data not shown). Thus, we conclude that TAP54α and β are bona fide subunits of the TIP60 complex.
+
+Both TAP54α and β possess sequence similarity to the bacterial hexameric ring helicase RuvB (data not shown) that plays a role in damaged DNA repair (West 1997). Conserved among all helicase family members are motifs I and II, which are believed to be involved in NTP binding and hydrolysis, respectively (West 1997). Both these motifs are well conserved in TAP54α, β, and RuvB (data not shown).
+
+Moreover, MS/MS spectrometric analysis indicated the 45 and 50 kDa bands as two additional ATP binding proteins, β-actin and the actin-related protein BAF53 (53 kDa BRG1/human BRM-associated factor), respectively. β-actin and actin-related proteins have been found in the various ATP-dependent chromatin remodeling complexes (4, 28, 47 and 34). As reported here for the TIP60 complex, both β-actin and BAF53 have been identified in the BAF chromatin-remodeling complex (Zhao et al. 1998). Likewise, the actin-related proteins Arp7 and Arp9 are present in the yeast SWI/SNF chromatin-remodeling complex (Peterson et al. 1998) and RSC (Cairns et al. 1998). Furthermore, Arp4, Arp5, and Arp8 are found in the yeast Ino80p chromatin-remodeling complex (Shen et al. 2000).
+
+β-actin and actin-related proteins appear to have weak ATPase activities, which contribute ∼1% of the total activity in the BAF remodeling complex (Zhao et al. 1998). Results of experiments using the actin monomer sequestering product latrunculin B suggest that β-actin and BAF53 are required for stimulation of the ATPase activity of the BAF complex by chromatin (Zhao et al. 1998). On the other hand, genetic analyses in yeast suggest that although deletions of Arp7 or Arp9 show a Swi−/Snf− phenotype, mutations that result in impairment of ATPase activity cause no detectable defects (Cairns et al. 1998). Thus, actin-related proteins in remodeling complexes may play a structural rather than catalytic role.
+
+The TIP60 Complex ATPase Activity Intrinsic to RuvB-like TAP54α and β
+Since the TIP60 complex contains the RuvB-like subunits, β-actin, and the actin-related protein, we measured ATPase activity in the TIP60 complex. As expected, the TIP60 complex has ATPase activity, while the mock control preparation has no detectable activity (Figure 4B). We assumed that this ATPase activity in the TIP60 complex is derived mainly from TAP54α and β because β-actin and actin-related proteins themselves appear to have very weak ATPase activity (Zhao et al. 1998). However, in spite of sequence similarities between RuvB and TAP54α and β, it remains uncertain whether these factors have intrinsic ATPase activity. While Qui et al. (1998) reported that recombinant human RUVB1 (or TAP54α), expressed in insect cells via a baculovirus transfer vector, has no detectable ATPase activity, Makino et al. 1999 demonstrated ATPase activity in recombinant rat Tip49a (or TAP54α) produced in E. coli.
+
+To clarify this question, TAP54α and β were expressed as His-tagged proteins in E. coli. Recombinant proteins were purified by Ni2+-NTA agarose chromatography, Mono Q chromatography, followed by Superdex 200 chromatography. TAP54α eluted from a Superdex 200 column at the position of monomer ( Figure 4C) and associated ATPase activity was hardly detectable ( Figure 4D), in agreement with a report by Qui et al. (1998). Although our data is inconsistent with the results obtained by Makino et al. 1999, this discrepancy may be simply due to different sensitivities in the assay systems employed. On the other hand, TAP54β eluted at the position of a dimer or trimer ( Figure 4C) and a weak ATPase activity was detected at this position ( Figure 4D), in agreement with the data of Kanemaki et al. 1999. However, the ATPase activity in purified TAP54β was considerably lower than that of the purified TIP60 complex when an equal amount of TAP54 was used for the assay ( Figure 4D).
+
+Given that both recombinant TAP54α and β were present as a low molecular weight form (Figure 4C), we investigated the possibility that TAP54α and β may form a heteromeric complex. To reconstitute the TAP54α/β complex, equimolar recombinant TAP54α and β were incubated in vitro and were analyzed on a Superdex 200 gel filtration column. The peak fractions eluting around an apparent molecular mass of 500 kDa were rechromatographed on the same column (Figure 4C). TAP54α and β coeluted from the gel filtration column at a stoichiometric ratio (Figure 4E). Importantly, the ATPase activity of the reconstituted complex was significantly stronger than that of the individual subunits, although it was somewhat weaker than that of the TIP60 complex (Figure 4D). From these results, we conclude that TAP54α and β form a stoichiometric complex and that this multimerization is crucial for efficient ATP hydrolysis.
+
+The TIP60 Complex Binds to Structural DNAs
+Given that RuvB binds to Holliday junction by forming a complex with the Holliday junction binding protein RuvA, we expected such an activity in the Tip60 complex. The 100 bp duplex DNA as well as structural DNAs containing replication fork-like three-way junction and recombination intermediate four-way or Holliday junction were employed as substrates (Figure 5A). Filter binding assays show that the TIP60 complex binds to both three- and four-way junctions with high affinities but does not bind to duplex DNA (Figure 5B). On the other hand, none of the probes bind to the mock control (data not shown). In contrast to the TIP60 complex, the TAP54α/β complex exhibited no binding to either duplex DNA or structural DNAs in either filter binding assays (Figure 5B). From these results, we concluded that the TIP60 complex binds to structural DNA but that the RuvB-like TAP54α and β are not sufficient for such binding.
+
+Full-size image (131 K)
+Figure 5. 
+TIP60 Complex Has Structural DNA Binding and DNA Helicase Activities
+(A) DNA substrates for the binding assays. 32P-labeled S1 and unlabeled S2 substrates, each having heterologous single-strand tails denoted in light gray and dark gray, were annealed to form a Holliday junction. In the case of a fully homologous substrate, S2, spontaneous branch migration results in the formation of two duplex products (top). To create a semimobile Holliday junction, the S1 substrate was annealed with the second S2(Δ1) branch migration substrate containing a single internal base deletion, which acts as a barrier against spontaneous branch migration and prevents dissociation of the Holliday junction into two duplex products (bottom). Three-way junctions were prepared by annealing the S1 substrate with short S2(s) substrate (middle). An asterisk denotes the 32P label.
+(B) Filter binding assay. Filter binding assays were performed with the TIP60 complex (open symbols) and the recombinant TAP54α/β complex (closed symbols). Both complexes contain about 10 ng of TAP54α/β proteins/μl. Various volumes of the complexes were incubated with duplex (triangles), three-way junction (squares), and four-way junction (circles). After passing through a nitrocellulose membrane, radioactivity retained on the membrane, which reflects protein-bound DNA, was measured.
+(C) The substrate for DNA helicase assays. An asterisk denotes the 32P label. Note that the directionality of DNA helicase activity is defined as a 5′ to 3′ or 3′ to 5′ polarity relative to the strand of DNA first bound by the enzyme. Thus, release of the 32-mer denotes 5′ to 3′ DNA helicase activity, whereas release of the 24-mer denotes 3′ to 5′ DNA helicase activity.
+(D) DNA helicase activity was measured with the mock control (lane 2), the TIP60 complex (lane 3), recombinant TAP54α (lanes 4 and 5), recombinant TAP54β (lanes 6 and 7), and the reconstituted TAP54α/β complex (lanes 8 and 9). Enzyme concentrations are indicated as the molarity of TAP54α/β monomers. Boiled probe was also analyzed to identify the positions of oligonucleotides (lane 1).
+(E) ATP dependency of DNA helicase activity. DNA helicase assay was performed with the mock control (lane 1) and the TIP60 complex (lanes 2–6) in the absence of ATP (lanes 1 and 2) and in the presence of increasing concentrations of ATP (lanes 3–6).
+(F) Inhibition of DNA helicase activity with nonhydrolyzable ATP. DNA helicase assay was performed in the absence (lanes 1–4) and presence of ATP, ATPαS (lanes 5–10). Reactions were performed with (lanes 8–10) and without (lanes 5–7) preincubation of ATPαS with the TIP60 complex.
+Figure options
+The TIP60 Complex Has DNA Helicase Activity
+Given that RuvB is a DNA helicase, we tested such activity in the TIP60 complex. To test DNA helicase activity and its directionality (defined as a 5′ to 3′ or 3′ to 5′ polarity relative to the strand of DNA first bound by the enzyme), the 52-mer oligonucleotide was annealed with φX174 virion single-stranded DNA, digested asymmetrically with endonuclease HpaII, and then labeled at the 3′ ends as illustrated in Figure 5C. The 24-mer fragment was specifically released from this template by incubating with the TIP60 complex (Figure 5D, lane 3) but not by incubating with the mock control (lane 2), indicating that the TIP60 complex possesses intrinsic 3′ to 5′ DNA helicase activity. On the other hand, recombinant TAP54α, TAP54β, and TAP54α/β complex failed to show detectable helicase activity (Figure 5D, lanes 4–9). Thus, we conclude that the RuvB-like TAP54α and β are not sufficient for DNA helicase activity under our assay conditions. Our results are not in agreement with previous reports (14 and 19) showing 3′ to 5′ and 5′ to 3′ DNA helicase activities respectively in Tip49a (or TAP54α) and Tip49b (or TAP54β). Although the reasons for this discrepancy are not clear, our results are consistent with observations showing that the DNA helicase activity of RuvB is dependent on the Holliday junction binding protein RuvA under physiological conditions (for review, see West 1997). Nevertheless, further experiments are required to determine factor(s) responsible for binding to Holliday junction in the TIP60 complex.
+
+Next, we tested the ATP requirement for DNA helicase activity of the TIP60 complex. Unexpectedly, significant DNA helicase activity was observed even in the absence of ATP (Figure 5E, lane 2). A slight stimulation was observed by adding ATP to the assay system (lanes 3–6). On the other hand, when the TIP60 complex was preincubated with the nonhydrolyzable ATP analog ATPαS prior to the helicase assay, the activity was inhibited (Figure 5F, lanes 8–10). However, when ATPαS was added in the beginning of the helicase assay, no obvious inhibition was detected (lanes 5–7). These results suggest that the TIP60 complex may have endogenous ATP in the complex and utilize it when bound to substrates.
+
+Expression of the Mutated TIP60 Lacking Histone Acetylase Activity Results in Cells with Defective Double-Strand Break Repair
+The presence of functional RuvB counterparts in the TIP60 complex suggests a role of the TIP60 histone acetylase complex in DNA damage repair. To investigate this possibility, we expressed the mutated TIP60 lacking histone acetylase activity in HeLa cells and observed its dominant-negative effects. To inactivate the histone acetylase activity of TIP60, we introduced a mutation into the acetyl CoA binding site. This motif is also conserved among members of GCN5/PCAF-related N-acetyltransferases (Neuwald and Landsman 1997) and has been shown to be involved in acetyl CoA binding in three-dimensional structural studies (9, 40, 7, 18 and 31). To abolish acetyl CoA binding activity of TIP60, two residues (Gln-377 and Gly-380) that are crucial for acetyl CoA binding were mutated to glutamic acid (Wolf et al. 1998). The resulting double-point mutant of TIP60, which has no detectable histone acetylase activity in vitro (Figure 6A), was stably expressed in HeLa cells by retroviral transduction. Quantitative Western blotting analyses of the mutated TIP60-expressing cells revealed that the total level of TIP60 is about twice that of nontransduced HeLa cells and that at least 80% of TIP60 derived from the mutant form.
+
+Full-size image (107 K)
+Figure 6. 
+Introduction of the Mutated TIP60 Lacking Histone Acetylase Activity Alters the Kinetics of Double-Strand DNA Break Repair
+(A) The histone acetylase activities of BSA (lane 1), wild-type TIP60 (lane 2), and the mutated TIP60 (lane 3) were measured using free core histones as substrate. SDS–PAGE gel stained by Coomassie brilliant blue (bottom) and its autoradiography (top) are represented.
+(B) Nontransduced (−), wild-type TIP60-expressing (w), and TIP60 histone acetylase mutant-expressing (m) cells were exposed to 12 Gy (lanes 4–21). At the indicated times, cellular DNA was analyzed by pulsed-field gel electrophoresis. Unexposed cells were used as controls (lanes 1–3).
+(C) Fluorescence was quantitated and the fraction of DNA entering the gel was estimated using the formula: percent release = (signal in lane)/[(signal in lane) + (signal in plug)] × 100, as described (Scully et al. 1999). The measured value of signal present in unirradiated cells was subtracted. The data presented were normalized to the percent released at zero time.
+Figure options
+To determine whether TIP60 histone acetylase activity makes a contribution to double-strand break repair, double-strand repair kinetics in the mutated TIP60-expressing cells were compared with those of the wild-type TIP60-expressing cells as well as with those of parental nontransduced cells. Fractions of fragmented DNA caused by double-strand breaks were analyzed by pulsed-field gel electrophoresis at various time points after γ-irradiation. As shown in Figure 6B and Figure 6C, the mutated TIP60-expressing cells failed to repair double-strand DNA breaks efficiently. The most striking defect was observed during the first 30 min: while almost 40% of double-strand break repair was completed in parental HeLa cells, only 5% was completed in the TIP60 mutant-expressing cells. Interestingly, more efficient double-strand break repair was observed in the wild-type TIP60-expressing cells compared with nontransduced cells. This might be related to the elevated level of the TIP60 complex in the ectopic TIP60-expressing cells (see above). These results suggest that TIP60 histone acetylase activity may play a role in double-strand break repair.
+
+Induction of the Mutated TIP60 Lacking Histone Acetylase Activity Inhibits γ-Irradiation-Induced Apoptosis
+In general, DNA repair–competent cells have mechanisms to signal the existence of DNA lesions to the apoptotic machinery (D'Atri et al. 1998), allowing badly damaged cells to be deleted. We attempted to determine whether the mutated TIP60-expressing cells retain such signaling. After 12 hr of γ-irradiation, apoptosis was strongly induced in parental and the wild-type TIP60-expressing cells (Figure 7). In contrast, the TIP60 mutant-expressing cells were resistant to apoptosis, indicating that TIP60-dependent double-strand break repair is likely to be involved in signaling the existence of damaged DNA to the apoptotic machinery. Moreover, if Holliday junctions turn out to be the preferred target DNA structure of the TIP60 complex in vivo, this would indicate that the cell monitors not only the existence of recombinogenic lesions (such as double-stranded DNA breaks) but also the later intermediates of recombination (i.e., the Holliday junction).
+
+Full-size image (215 K)
+Figure 7. 
+Ectopic Expression of the Mutated TIP60 Lacking Histone Acetylase Activity Inhibits γ-Irradiation-Induced Apoptosis
+(A) Nontransduced (none), wild-type TIP60-expressing (TIP60 wt), and TIP60 histone acetylase mutant-expressing (TIP60 mut) cells were exposed to 12 Gy. Cells were stained with anexin V and propidium iodide (PI) after 12 hr and analyzed by flow cytometry. For unexposed controls, only the data for nontransduced cells is shown.
+(B) Percentages of apoptotic cells (negative for PI and positive for annexin V) are indicated.
+Figure options
+These results were obtained in HeLa cells, which are functionally deficient in p53, due to expression of the Papilomaviral E6 protein. Therefore, at a minimum, TIP60 activity can modify radiation-induced apoptotic responses independent of p53 activity. These results do not exclude a potential additional role for TIP60 in p53-dependent apoptotic responses.
+
+Discussion
+Although TIP60 is a previously identified histone acetylase, the TIP60 monomer is unable to acetylate chromatin (Yamamoto and Horikoshi 1997). However, the multimeric TIP60 complex does display such activity, indicating that this complex can act on native substrates. In addition to histone acetylase activity on chromatin, the TIP60 complex has ATPase, DNA helicase, and structural DNA binding activities. It is noteworthy that ATPase and DNA helicase activities are not present in the PCAF complex. Conversely, histone-like factors and transcriptional cofactors such as human ADA2, ADA3, and Spt3 are unique to the PCAF complex (Ogryzko et al. 1998). The diversity of associated proteins in distinct histone acetylase complexes may correlate with a variety of roles of histone acetylases. On the other hand, the common subunit of the TIP60 and PCAF complexes is PAF400. Since associated factors are required for effective acetylation of nucleosomes in both TIP60 and PCAF, the common factor PAF400 may modulate acetylation of nucleosomal histones by stimulating accessibility to histone tails or by stimulating catalytic activity.
+
+Recent studies have described the purification and characterization of the yeast NuA4 complex, which contains a histone acetylase, ESA1, that is related to TIP60. As reported here for the TIP60 complex, the NuA4 complex contains TRA1, Act1, and Act3/Arp4, which are related, respectively, to PAF400, β-actin, and BAF53 (1 and 10). However, RuvB-related subunits cannot be detected in the purified NuA4 complex by Western blotting; consistent with this observation, the NuA4 complex has no detectable ATPase activity (J. Côté, personal communication). This difference between the human and yeast complexes may reflect dissociation of the RuvB-related subunits from the yeast NuA4 complex during purification. Alternatively, there might be no link between the RuvB-related subunits and the histone acetylase in yeast.
+
+Histone acetylases have been reported to be involved in chromatin transcription and replication-dependent nucleosomal assembly (reviewed in 16, 37, 42 and 32). However, acetylation of histones could be involved in other kinds of DNA metabolism, including DNA repair, replication, and recombination, given that substrates of DNA metabolism in eukaryotes are chromatin DNA, rather than naked DNA. In support of this notion, we have demonstrated that the TIP60 histone acetylase complex has ATPase, DNA helicase, and structural DNA binding activities. Importantly, ectopic expression of the mutated TIP60 lacking histone acetylase activity causes defects not only in DNA repair competency but also in the ability of the cell to signal the presence of damaged DNA to the apoptotic apparatus, impairments that lead to accumulation of damaged DNA in cells. The defined mechanisms by which the TIP60 complex influences the apoptotic response are unclear at this moment. A similar phenomenon has been reported in mismatch repair mutant cells (D'Atri et al. 1998). Unlike DNA repair–competent cells, mismatch repair-deficient cells are highly resistant to apoptosis induced by temozoloamide, which induces O 6-methylguanine in DNA. Thus, the loss of a cell's ability to signal the existence of DNA lesions to the apoptotic machinery caused by DNA repair deficiency might be a general mechanism of tumorigenesis.
+
+A direct link between DNA lesion recognition proteins and cell cycle checkpoint proteins has been demonstrated. Nbs1, encoded by the Nijmegen breakage syndrome (NBS) gene, plays a role in suppression of origin-of-replication firing in the presence of DNA damage (reviewed in 15 and 29). Although the mechanism whereby Nbs1 affects the S phase checkpoint is still unclear, ionizing radiation-dependent phosphorylation of Nbs1 by the ATM kinase is crucial for S phase checkpoint (17 and 43). Importantly, NBS has been shown to form a complex with Rad50 and Mle11, which are involved in double-strand break repair (for reviews, see 5, 15 and 29). Given that Mre11 binds double-strand DNA breaks very rapidly after ionizing radiation, Mre11/Rad50 might be a detector of damaged DNA (Nelms et al. 1998). Likewise, the TIP60 complex may interact with checkpoint proteins to activate an apoptotic pathway in response to the existence of DNA lesions. Alternatively, the TIP60 complex by itself may possess a checkpoint protein(s).
+
+Experimental Procedures
+Wild-Type and Mutant TIP60-Expressing Cells
+To obtain a histone acetylase-deficient mutant of TIP60, Gln-377 and Gly-380 of TIP60 were mutated to glutamic acid by in vitro mutagenesis. HeLa cells were transduced with a recombinant retrovirus expressing a bicistronic mRNA encoding wild type or the mutant form of FLAG-HA-tagged TIP60 linked to an αILR2 subunit surface marker, and the transduced subpopulation was purified by repeated cycles of affinity cell sorting.
+
+Protein Purification
+The TIP60 complex was immunoprecipitated from nuclear extracts prepared from HeLa cells expressing eTIP60 by incubating with M2 anti-FLAG agarose (Kodak) for 4 hr with rotation. After an extensive wash with 0.1 M KCl-containing buffer B (20 mM Tris-HCl [pH 8.0], 5 mM MgCl2, 10% glycerol, 1 mM PMSF, 0.1% Tween 20, 10 mM β-mercaptoethanol), the bound proteins were eluted from M2 agarose by incubation for 60 min with the FLAG peptide (Kodak) in the same buffer (0.2 mg/ml). The eluates were further purified by immunoprecipitation with protein A sepharose (Pharmacia) conjugated with anti-HA 12CA5 antibody. The bound proteins were eluted from the matrix by incubating for 60 min with the HA peptide in buffer B containing 0.1 M KCl (0.2 mg/ml). For glycerol gradient sedimentation, 100 μl of FLAG antibody-immunoprecipitated material was loaded onto a 3.1 ml 10%–35% glycerol gradient in buffer B. After centrifugation at 50,000 rpm for 3 hr, fractions were collected from the top of the centrifugation tube.
+
+Recombinant TAP54α and β were expressed as histidine-tagged proteins in E. coli BL21(DE3) from pET28a (Novagen). Recombinant proteins were purified by Ni2+-NTA agarose chromatography as described before. Purified materials were further purified by Mono Q ion exchange chromatography followed by Superdex 200 gel filtration chromatography, as described above. For reconstitution of the TAP54α/β complex, equimolar amounts of purified TAP54α and β proteins were incubated on ice for 30 min. The complex was isolated by Superdex 200 gel filtration chromatography with 0.1 M KCl-containing buffer B.
+
+Antibodies
+Antibodies employed were as follows: rabbit polyclonal antibody against PAF400 was described previously (Vassilev et al. 1998); rabbit polyclonal antibodies against TAP100 and TAP54β were raised against fragments containing residues 2–200 and 155–337, respectively; and anti-RUVBL1/TAP54α antibody (Qiu et al. 1998) was kindly provided by Dr. Anindya Dutta.
+
+Histone Acetylase Assay
+Core histones were purified from chicken erythrocytes as previously described (Simon and Felsenfeld 1979). Chromatin was prepared from chicken erythrocytes as described before (Simon and Felsenfeld 1979) except that no hydroxyapatite chromatography was performed, and the micrococcal nuclease digestion was adjusted to give ∼10 nucleosome fragments. The resulting polynucleosomes were further purified by glycerol gradient centrifugation in the presence of 0.34 M NaCl (to obtain linker histone-containing chromatin) or 0.6 M NaCl (to obtain linker histone-depleted chromatin) and then dialyzed against 10 mM Tris-HCl buffer (pH 8) containing 0.2 mM EDTA and 0.25 mM PMSF. Histone acetylase assay was performed as previously described (Ogryzko et al. 1996) with the following modifications: reactions contained 1 nmol of [14C]acetyl CoA, 1 pmol of recombinant TIP60 or TIP60 complex, and 30 pmol of core histones or chromatin in a total volume of 20 μl. Acetylation of free histones was performed at 37°C for 10 min, while acetylation of chromatin was carried out at 37°C for 30 min.
+
+Mass Spectrometry
+Protein sequences were determined by mass spectrometry as previously described (Ogryzko et al. 1998). The following sequences were determined from respective polypeptides. PAF400: N′-STLMLEHQAFEK-C′. TAP54α: N′-KTEVLMENFR-C′; N′-QAASGLVGQENAR-C′. TAP54β: N′-GTEVQVDDIK-C′; N′-GLGLDDALEPR-C′; N′-KGTEVQVDDIK-C′; N′-LLLIVSTTPYSEK-C′; N′-DKVQA-GDVITIDK-C′. TAP50: N′-DDGSTLMEIDGDKGK-C′; N′-ENMEAISPLK-C′; N′-QGGPTYYIDTNALR-C′; and N′-IPEGLFDPSNVK-C′. TAP45: N′-SYELPDGQVITIGNER-C′; N′-AVFPSIVGRPR-C′; N′-VAPEEHPVLLTEAPLNPK-C′.
+
+ATPase Assay
+The reaction mixture contained 10 mM HEPES-NaOH buffer (pH 7.5), 0.1 mM [γ-32P]ATP (∼100 Ci/mole), 50 μg/ml of bovine serum albumin (BSA), and 5 mM MgCl2. Reactions were reconstituted in a total volume of 5 μl and carried out at 37°C. One microliter aliquots were spotted onto PEI-Cellulose TLC plates (J.T. Baker), which had been prerun in distilled water and dried, and developed with 0.5 M LiCl and 1 M formic acid.
+
+DNA Binding Assay
+All structural DNA substrates as well as duplex DNA were prepared as previously described (Panyutin and Hsieh 1994). The binding reactions were performed at 37°C for 20 min in a reaction buffer containing 50 mM Tris-acetate (pH 8.0), 20 mM potassium acetate, 15 mM magnesium acetate, 1 mM dithiothreitol, and 100 μg/ml of BSA. DNA bound to protein was detected by filter binding assays (Wong and Lohman 1993).
+
+DNA Helicase Assay
+The 52-mer oligonucleotide (5′-CGAACAATTCAGCGGCTTTAACCGGACGCTCGACGCCATTAATAATGTTTTC-3′) was annealed with φX174 virion single-stranded DNA, digested with endonuclease HpaII, and then filled in at the 3′ ends with [α-32P]CTP and cold GTP. The substrate was separated from free oligonucleotide and unincorporated nucleotides by passing over a G-50 spin column three times. The resulting partial duplex DNA was used as a substrate. For DNA helicase assay, 5 μl of reaction mixtures were reconstituted with purified proteins and 40 ng of substrate in a reaction buffer containing 20 mM Tris-HCl (pH 7.5), 80 mM KCl, 0.5 mM MgCl2, 2 mM dithiothreitol, and 500 μg/ml of BSA and incubated at 37°C for 30 min. Various concentrations of ATP or 0.6 μM ATPαS were added to the reaction mixtures as indicated. When specified, the TIP60 complex was preincubated with 0.6 μM ATPαS. The reaction mixture was separated by 10% PAGE with TBE buffer and visualized by autoradiography.
+
+Double-Strand Break Repair and Apoptosis Assays
+Cells were irradiated with a 137Cs source (12 Gy) at 4°C and incubated at 37°C. At the indicated times, cells were harvested and used for double-strand break repair and apoptosis assays. Cellular DNA was analyzed by pulsed-field gel electrophoresis as described (Scully et al. 1999). For apoptosis assay, cells were stained with annexin V and PI, and then analyzed by flow cytometry, according to the manufacturer's protocol (BioVision, Palo Alto, California).
+
+Acknowledgements
+We would like to thank colleagues in the Livingston and Nakatani labs for many helpful discussions; Xuetong Shen and Carl Wu for advice on the DNA helicase assay; Anindya Dutta for RUVBL1 antibody; and Birgit An der Lan (BAAR Biomed) for editing the manuscript.
+
+References
+1
+S Allard, R.T Utley, J Savard, A Clarke, P Grant, C.J Brandl, L Pillus, J.L Workman, J Cote
+NuA4, an essential transcription adaptor/histone H4 acetyltransferase complex containing Esa1p and the ATM-related cofactor Tra1p
+EMBO J., 18 (1999), pp. 5108–5119
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+2
+A.J Bannister, T Kouzarides
+The CBP co-activator is a histone acetyltransferase
+Nature, 384 (1996), pp. 641–643
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1290)
+3
+J.E Brownell, J Zhou, T Ranalli, R Kobayashi, D.G Edmondson, S.Y Roth, C.D Allis
+Tetrahymena histone acetyltransferase A: a homolog to yeast Gcn5p linking histone acetylation to gene activation
+Cell, 84 (1996), pp. 843–851
+
+Article |  PDF (219 K) | View Record in Scopus | Citing articles (932)
+4
+B.R Cairns, B.H Erdjument, P Tempst, F Winston, R.D Kornberg
+Two actin-related proteins are shared functional components of the chromatin-remodeling complexes RSC and SWI/SNF
+Mol. Cell, 2 (1998), pp. 639–651
+
+Article |  PDF (522 K) | View Record in Scopus | Citing articles (141)
+5
+J.P Carney, R.S Maser, H Olivares, E.M Davis, M Le Beau, J.R Yates III, L Hays, W.F Morgan, J.H Petrini
+The hMre11/hRad50 protein complex and Nijmegen breakage syndrome: linkage of double-strand break repair to the cellular DNA damage response
+Cell, 93 (1998), pp. 477–486
+
+Article |  PDF (367 K) | View Record in Scopus | Citing articles (800)
+6
+H Chen, R.J Lin, R.L Schiltz, D Chakravarti, A Nash, L Nagy, M.L Privalsky, Y Nakatani, R.M Evans
+Nuclear receptor coactivator ACTR is a novel histone acetyltransferase and forms a multimeric activation complex with P/CAF and CBP/p300
+Cell, 90 (1997), pp. 569–580
+
+Article |  PDF (532 K) | View Record in Scopus | Citing articles (1115)
+7
+A Clements, J.R Rojas, R.C Trievel, L Wang, S.L Berger, R Marmorstein
+Crystal structure of the histone acetyltransferase domain of the human PCAF transcriptional regulator bound to coenzyme A
+EMBO J., 18 (1999), pp. 3521–3532
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+8
+S D'Atri, L Tentori, P.M Lacal, G Graziani, E Pagani, E Benincasa, G Zambruno, E Bonmassar, J Jiricny
+Involvement of the mismatch repair system in temozolomide-induced apoptosis
+Mol. Pharmacol., 54 (1998), pp. 334–341
+
+View Record in Scopus | Citing articles (200)
+9
+R.N Dutnall, S.T Tafrov, R Sternglanz, V Ramakrishnan
+Structure of the histone acetyltransferase Hat1: a paradigm for the GCN5-related N-acetyltransferase superfamily
+Cell, 94 (1998), pp. 427–438
+
+Article |  PDF (2460 K) | View Record in Scopus | Citing articles (152)
+10
+L Galarneau, A Nourani, A.A Boudreault, Y Zhang, L Héliot, A Allard, J Savard, W.S Lane, D.J Stillman, J Côté
+Multiple links between the NuA4 histone acetyltransferase complex and epigenetic control of transcription
+Mol. Cell, 5 (2000), pp. 927–937
+
+Article |  PDF (394 K) | View Record in Scopus | Citing articles (182)
+11
+P Grant, D Schieltz, M Pray-Grant, D Steger, J Reese, J Yates III, J Workman
+A subset of TAFIIs are integral components of the SAGA complex required for nucleosome acetylation and transcriptional stimulation
+Cell, 94 (1998), pp. 45–53
+
+Article |  PDF (326 K) | View Record in Scopus | Citing articles (334)
+12
+A Hoffmann, C Chiang, T Oelgeschlager, X Xie, S Burley, Y Nakatani, R Roeder
+A histone octamer-like structure within TFIID
+Nature, 380 (1996), pp. 356–359
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (138)
+13
+J Kamine, B Elangovan, T Subramanian, D Coleman, G Chinnadurai
+Identification of a cellular protein that specifically interacts with the essential cysteine region of the HIV-1 Tat transactivator
+Virology, 216 (1996), pp. 357–366
+
+Article |  PDF (201 K) | View Record in Scopus | Citing articles (190)
+14
+M Kanemaki, Y Kurokawa, T Matsu-ura, Y Makino, A Masani, K Okazaki, T Morishita, T Tamura
+TIP49b, a new RuvB-like DNA helicase, is included in a complex together with another RuvB-like DNA helicase, TIP49a
+J. Biol. Chem., 274 (1999), pp. 22437–22444
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (96)
+15
+P Karran
+DNA double strand break repair in mammalian cells
+Curr. Opin. Genet. Dev., 10 (2000), pp. 144–150
+
+Article |  PDF (169 K) | View Record in Scopus | Citing articles (306)
+16
+M.H Kuo, C.D Allis
+Role of histone acetyltransferases and deacetylases in gene regulation
+Bioessays, 20 (1998), pp. 615–626
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (729)
+17
+D.-S Lim, S.T Kim, B Xu, R.S Maser, J Lin, J.H Petrini, M.B Kastan
+ATM phosphorylates p95/nbs1 in an S-phase checkpoint pathway
+Nature, 404 (2000), pp. 613–617
+
+View Record in Scopus | Citing articles (577)
+18
+Y Lin, C.M Fletcher, J Zhou, C.D Allis, G Wagner
+Solution structure of the catalytic domain of GCN5 histone acetyltransferase bound to coenzyme A
+Nature, 400 (1999), pp. 86–89
+
+View Record in Scopus | Citing articles (63)
+19
+Y Makino, M Kanemaki, Y Kurokawa, T Koji, T Tamura
+A rat RuvB-like protein, TIP49a, is a germ cell-enriched novel DNA helicase
+J. Biol. Chem., 274 (1999), pp. 15329–15335
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+20
+S.B McMahon, H.A Van Buskirk, K.A Dugan, T.D Copeland, M.D Cole
+The novel ATM-related protein TRRAP is an essential cofactor for the c-Myc and E2F oncoproteins
+Cell, 94 (1998), pp. 363–374
+
+Article |  PDF (496 K) | View Record in Scopus | Citing articles (371)
+21
+C.A Mizzen, X.J Yang, T Kokubo, J.E Brownell, A.J Bannister, T Owen Hughes, J Workman, L Wang, S.L Berger, T Kouzarides et al.
+The TAFII250 subunit of TFIID has histone acetyltransferase activity
+Cell, 87 (1996), pp. 1261–1270
+
+Article |  PDF (2470 K) | View Record in Scopus | Citing articles (540)
+22
+Y Nakatani, S Bagby, M Ikura
+The histone folds in transcription factor TFIID
+J. Biol. Chem., 271 (1996), pp. 6575–6578
+
+View Record in Scopus | Citing articles (28)
+23
+B.E Nelms, R.S Maser, J.F MacKay, M.G Lagally, J.H Petrini
+In situ visualization of DNA double-strand break repair in human fibroblasts
+Science, 280 (1998), pp. 590–592
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (353)
+24
+A.F Neuwald, D Landsman
+GCN5-related histone N-acetyltransferases belong to a diverse superfamily that includes the yeast SPT10 protein
+Trends Biochem. Sci., 22 (1997), pp. 154–155
+
+Article |  PDF (861 K) | View Record in Scopus | Citing articles (300)
+25
+V.V Ogryzko, R.L Schiltz, V Russanova, B.H Howard, Y Nakatani
+The transcriptional coactivators p300 and CBP are histone acetyltransferases
+Cell, 87 (1996), pp. 953–959
+
+Article |  PDF (385 K) | View Record in Scopus | Citing articles (1901)
+26
+V.V Ogryzko, T Kotani, X Zhang, R.L Schlitz, T Howard, X.J Yang, B.H Howard, J Qin, Y Nakatani
+Histone-like TAFs within the PCAF histone acetylase complex
+Cell, 94 (1998), pp. 35–44
+
+Article |  PDF (561 K) | View Record in Scopus | Citing articles (421)
+27
+I.G Panyutin, P Hsieh
+The kinetics of spontaneous DNA branch migration
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 2021–2025
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (167)
+28
+C.L Peterson, Y Zhao, B.T Chait
+Subunits of the yeast SWI/SNF complex are members of the actin-related protein (ARP) family
+J. Biol. Chem., 273 (1998), pp. 23641–23644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+29
+J.H Petrini
+The Mre11 complex and ATM: collaborating to navigate S phase
+Curr. Opin. Cell Biol., 12 (2000), pp. 293–296
+
+Article |  PDF (86 K) | View Record in Scopus | Citing articles (187)
+30
+X.B Qiu, Y.L Lin, K.C Thome, P Pian, B.P Schlegel, S Weremowicz, J.D Parvin, A Dutta
+An eukaryotic RuvB-like protein (RUVBL1) essential for growth
+J. Biol. Chem., 273 (1998), pp. 27786–27793
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+31
+J.R Rojas, R.C Trievel, J Zhou, Y Mo, X Li, S.L Berger, C.D Allis, R Marmorstein
+Structure of Tetrahymena GCN5 bound to coenzyme A and a histone H3 peptide
+Nature, 401 (1999), pp. 93–98
+
+View Record in Scopus | Citing articles (153)
+32
+R.L Schiltz, Y Nakatani
+The PCAF acetylase complex as a potential tumor suppressor
+Biochem. Biophys. Acta, 1470 (2000), pp. M37–M53
+
+Article |  PDF (1617 K) | View Record in Scopus | Citing articles (74)
+33
+R Scully, S Ganesan, K Vlasakova, J Chen, M Socolovsky, D.M Livingston
+Genetic analysis of BRCA1 function in a defined tumor cell line
+Mol. Cell, 4 (1999), pp. 1093–1099
+
+Article |  PDF (250 K) | View Record in Scopus | Citing articles (258)
+34
+X Shen, G Mizuguchi, A Hamiche, C Wu
+Multiprotein chromatin remodeling complex containing Ino80p ATPase and RuvB-like helicase is implicated in transcription and DNA processing
+Nature, in press (2000)
+
+35
+R.H Simon, G Felsenfeld
+A new procedure for purifying histone pairs H2A + H2B and H3 + H4 from chromatin using hydroxylapatite
+Nucleic Acids Res., 6 (1979), pp. 689–696
+
+View Record in Scopus | Citing articles (182)
+36
+T.E Spencer, G Jenster, M.M Burcin, C.D Allis, J Zhou, C.A Mizzen, N.J McKenna, S.A Onate, S.Y Tsai, M.J Tsai, O.B.W Malley
+Steroid receptor coactivator-1 is a histone acetyltransferase
+Nature, 389 (1997), pp. 194–198
+
+View Record in Scopus | Citing articles (907)
+37
+K Struhl
+Histone acetylation and transcriptional regulatory mechanisms
+Genes Dev., 12 (1998), pp. 599–606
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1177)
+38
+A Vassilev, J Yamauchi, T Kotani, C Prives, M.L Avantaggiati, J Qin, Y Nakatani
+The 400 kDa subunit of the PCAF histone acetylase complex belongs to the ATM superfamily
+Mol. Cell, 2 (1998), pp. 869–875
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (133)
+39
+S.C West
+Processing of recombination intermediates by the RuvABC proteins
+Annu. Rev. Genet., 31 (1997), pp. 213–244
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (318)
+40
+E Wolf, A Vassilev, Y Makino, A Sali, Y Nakatani, S.K Burley
+Crystal structure of a GCN5-related N-acetyltransferase: Serratia marcescens aminoglycoside 3-N-acetyltransferase
+Cell, 94 (1998), pp. 439–449
+
+Article |  PDF (512 K) | View Record in Scopus | Citing articles (136)
+41
+I Wong, T.M Lohman
+A double-filter method for nitrocellulose-filter binding: application to protein-nucleic acid interactions
+Proc. Natl. Acad. Sci. USA, 90 (1993), pp. 5428–5432
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (280)
+42
+J Workman, R.E Kingston
+Alteration of nucleosome structure as a mechanism of transcriptional regulation
+Annu. Rev. Biochem., 67 (1998), pp. 545–579
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (781)
+43
+X Wu, V Ranganathan, D.S Weisman, W.F Heine, D.N Ciccone, T.B O'Neill, K.E Crick, K.A Pierce, W.S Lane, G Rathbum et al.
+Requirement of ATM phosphorylation of Nijimegen breakage syndrome protein in a DNA damage response
+Nature, in press (2000)
+
+44
+X Xie, T Kokubo, S Cohen, U Mirza, A Hoffmann, B Chait, R Roeder, Y Nakatani, S Burley
+Structural similarity between TAFs and the heterotetrameric core of the histone octamer
+Nature, 380 (1996), pp. 316–322
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (203)
+45
+T Yamamoto, M Horikoshi
+Novel substrate specificity of the histone acetyltransferase activity of HIV-1-Tat interactive protein Tip60
+J. Biol. Chem., 272 (1997), pp. 30595–30598
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (164)
+46
+X.J Yang, V.V Ogryzko, J Nishikawa, B.H Howard, Y Nakatani
+A p300/CBP-associated factor that competes with the adenoviral oncoprotein E1A
+Nature, 382 (1996), pp. 319–324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1156)
+47
+K Zhao, W Wang, O.J Rando, Y Xue, K Swiderek, A Kuo, G.R Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Correspondence: Yoshihiro Nakatani, 617 632 4766 (phone), 617 632 4786 (fax)
+1
+To whom correspondence should be addressed (e-mail: yoshihiro_nakatani@dfci.harvard.edu).
+2
+These authors contributed equally to this work.
+3
+Present address: Institut de Biologie Cellulaire et Genetique, UMR CNRS 5099, Toulouse, France.
+Copyright © 2000 Cell Press. All rights reserved.

@@ -1,0 +1,310 @@
+Reconstitution of a Core Chromatin Remodeling Complex from SWI/SNF Subunits
+Michael L Phelan1, Saïd Sif1, Geeta J Narlikar1, Robert E Kingston1, *, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S1097-2765(00)80315-9
+Under an Elsevier user license
+  Open Archive
+Abstract
+Protein complexes of the SWI/SNF family remodel nucleosome structure in an ATP-dependent manner. Each complex contains between 8 and 15 subunits, several of which are highly conserved between yeast, Drosophila, and humans. We have reconstituted an ATP-dependent chromatin remodeling complex using a subset of conserved subunits. Unexpectedly, both BRG1 and hBRM, the ATPase subunits of human SWI/SNF complexes, are capable of remodeling mononucleosomes and nucleosomal arrays as purified proteins. The addition of INI1, BAF155, and BAF170 to BRG1 increases remodeling activity to a level comparable to that of the whole hSWI/SNF complex. These data define the functional core of the hSWI/SNF complex.
+
+Introduction
+The packaging of DNA into nucleosomes represses transcriptional activity, and relief from this repression is a key element of transcriptional control (reviewed in 10 and 30). Nucleosomal repression is relieved in part through the action of protein complexes that each contain a DNA- and/or nucleosome-stimulated ATPase. Complexes of this type have been demonstrated to use the energy of ATP hydrolysis to alter nucleosome structure in vitro (reviewed in 19, 18, 3 and 12). There are two main families of these complexes, and these are distinguished by the central ATPase. Members of the SWI/SNF family contain an ATPase with extensive similarity to the yeast SWI2/SNF2 protein, and members of the ISWI-containing family contain ISWI or a related ATPase (Cairns 1998). ATPase subunits from both types of complex contain a related central ATPase domain that is also found in numerous other proteins. Thus, it possible that there are numerous other ATP-dependent chromatin remodeling complexes.
+
+The SWI/SNF family was initially discovered and characterized genetically in yeast. Mutations in genes encoding SWI2/SNF2 or any of several other subunits of the 11 subunit yeast SWI/SNF complex (ySWI/SNF) result in transcriptional defects at specific promoters. A highly related yeast complex called RSC consists of at least 15 subunits and appears to have a very different biological role from the SWI/SNF complex: rsc mutants do not display swi/snf transcriptional defects and some, unlike swi/snf mutants, are lethal. SWI/SNF complexes in higher eukaryotes include the Drosophila Brahma (BRM)-containing complex (dSWI/SNF) ( 8 and 17) and human SWI/SNF complexes (hSWI/SNF) ( 14, 28, 29 and 23). These complexes each have eight or more subunits, and each contains a DNA-dependent ATPase homologous to yeast SWI2/SNF2 (BRG1 or hBRM in the human complexes, BRM in the Drosophila complex). In addition, the Drosophila and human complexes all contain subunits that are homologs of SWI3, SNF5, SWP73, and the recently identified RSC and ySWI/SNF subunits ARP7 and ARP9 ( 16, 28, 5, 17, 20 and 32). Thus, all SWI/SNF-related remodeling complexes contain a set of conserved proteins (see Table 1) and also contain four or more other subunits.
+
+Table 1.
+Evolutionarily Conserved SWI/SNF Subunitsa
+S. Cerevisiae	Drosophila	Human	
+ySWI/SNF	RSC	dSWI/SNF	hSWI/SNF	Common Features
+SWI2/SNF2	STH1	Brahma	BRG1, hBRM	ATPase domain, bromodomain
+SWI3	RSC8	BAP155	BAF155, BAF170	coiled coil, SANT domain
+SNF5	SFH1	SNR1	INI1	coiled coil, repeat region
+SWP73	RSC6	BAP60	BAF60a, 60b, 60c	conserved C terminus
+ARP7, ARP9	ARP7, ARP9	BAP55	BAF53	actin-related proteins
+a
+For references, please see text.
+Table options
+The roles for each of these conserved subunits are not understood. One possibility, addressed here, is that certain of these conserved subunits form the functional core of the complex that is responsible for ATP-dependent chromatin remodeling. There is precedent for protein complexes consisting of a core of subunits that perform the primary catalytic function, with additional subunits that play a regulatory role (e.g., bacterial RNA polymerases). In addition, other ATP-dependent chromatin remodeling complexes are able to function with many fewer subunits than the SWI/SNF complex. We show here that a subset of human SWI/SNF subunits can be reconstituted into an efficient, ATP-dependent remodeling complex. Furthermore, we find that some remodeling activity can be observed using either homogeneous BRG1 or hBRM.
+
+Results
+Purification and Association of Human SWI/SNF Subunits
+We purified subunits of the hSWI/SNF complex (Table 1) either as individual proteins or as complexes following overexpression using baculovirus (Figure 1). We performed virus titrations and time courses of expression to determine conditions where we could express maximal amounts of intact BRG1 and hBRM (SWI2/SNF2 homologs), BAF170 and BAF155 (SWI3 homologs), and INI1 (SNF5 homolog). We were unable to generate high efficiency expression of BAF60a, which is one of the human SWP73 homologs. Proteins were tagged with either the HA (INI1) or Flag (all others) epitope, or left untagged, as appropriate, and were purified to apparent homogeneity using immunoaffinity matrices (Figure 1A; data not shown).
+
+Full-size image (64 K)
+Figure 1. 
+Silver Staining of hSWI/SNF Proteins Purified from Sf9 Cells
+(A) Individually and coexpressed proteins.
+(B) Copurification of hSWI/SNF proteins following incubation of nuclear extract containing HA-INI1, BAF155, and BAF170, nuclear extract containing F-BRG1, and M2-agarose beads.
+Figure options
+Initial experiments tested whether the conserved subunits were capable of stable interaction. We found that INI1, BAF155, and BAF170 could be coexpressed following a mixed infection; however, BRG1 could not be coexpressed with these proteins. We could copurify untagged BAF155 and BAF170 via association with HA-INI1 following mixed infection (Figure 1A, lane 5), implying that these subunits can form a complex. Since BRG1 could be expressed at high levels by itself, we mixed an Sf9 nuclear extract containing Flag-tagged BRG1 (F-BRG1) with nuclear extract containing HA-INI1 and untagged BAF155 and BAF170 and found that we could copurify all four proteins by immunopurification based on the Flag epitope (Figure 1B). This interaction was stable in buffer containing 0.1% NP40 and 100 to 700 mM KCl (data not shown). Thus, we observe stable interactions between INI1, BAF155, and BAF170 and stable interactions between these proteins and BRG1 in the absence of other members of the human SWI/SNF complex (Figure 1A, lane 5, and Figure 1B). We used the preparations shown in Figure 1A to assess the ability of these proteins to remodel nucleosomal templates.
+
+Remodeling by BRG1 and hBRM
+To examine the function of isolated subunits and reconstituted complexes, we used two different measures of SWI/SNF remodeling activity. We assembled rotationally phased mononucleosomes using an octamer transfer protocol and tested for the ability of the SWI/SNF proteins to alter the DNAse digestion pattern of the nucleosomal DNA. We also assembled plasmid DNA into arrays of nucleosomes and examined the ability of SWI/SNF proteins to alter the nucleosome-induced supercoiling of these plasmids. These protocols were chosen because they limited the risk that the results were influenced by activities that contaminate the template preparation; the mononucleosomes isolated following octamer transfer contain only the core histones, and templates assembled using the Xenopus assembly extract do not have any associated remodeling activities.
+
+To characterize the isolated ATPase subunits, in vitro assembled mononucleosomes were incubated with increasing amounts of BRG1 or hBRM and then digested with DNAse I (Figure 2A and Figure 2B). In the absence of remodeling activity, DNAse I digestion of nucleosomal DNA produces a periodic pattern of enhanced cutting every ten base pairs (lanes 2 and 3, absence and presence of ATP), in contrast to the pattern of cutting of naked DNA (lane 1, N). When BRG1 was present, the DNAse digestion pattern was altered in an ATP-dependent manner, an effect that increased with the amount of protein used (Figure 2A). When hBRM was present, an altered pattern was also generated in an ATP-dependent manner, although about 4-fold as much hBRM was required to achieve a similar effect (compare Figure 2B, lane 11 [80 ng hBRM], to Figure 2A, lane 13 [20 ng BRG1]).
+
+Full-size image (127 K)
+Figure 2. 
+Nucleosome Remodeling by hSWI/SNF ATPases
+(A) Mononucleosome disruption by BRG1. End-labeled mononucleosome cores were incubated with increasing amounts of F-BRG1 (in 2-fold increments from 1.25 ng, lanes 4 and 5, to 20 ng, lanes 12 and 13), in the absence or presence of ATP, and then treated with DNAse I. Enhanced (filled arrows) or diminished (open arrows) cleavage is indicated. N, naked DNA control.
+(B) Mononucleosome disruption by hBRM. As in (A), except that the amount of F-hBRM used was increased in 2-fold increments beginning with 20 ng (lanes 6 and 7), up to 160 ng (lanes 10 and 11). The activity of hSWI/SNF purified from HeLa cells (approximately 75 ng) is shown in lanes 4 and 5.
+(C) Remodeling of arrays by BRG1 and hBRM. Plasmid DNA assembled into nucleosomal arrays was incubated with topoisomerase I and increasing amounts of either F-BRG1 (3-fold increments starting with 0.3 ng in lanes 2 and 3) or F-hBRM (3-fold increments starting with 1.3 ng, lanes 9 and 10), in the presence or absence of ATP, in a total of 12.5 μl. Lanes 15 to 20 contained both F-BRG1 and F-hBRM, beginning with 0.15 ng F-BRG1 and 0.6 ng F-hBRM (lanes 15 and 16) and increasing in 3-fold increments. N, nicked DNA; L, linear; S, supercoiled; R, relaxed or partially supercoiled.
+Figure options
+To measure the ability of BRG1 and hBRM to remodel nucleosomal arrays, we assessed ATP-dependent changes in supercoiling. Remodeling by hSWI/SNF in the presence of topoisomerase I reduces supercoiling of assembled plasmids (Kwon et al. 1994), which can be detected as a decrease in electrophoretic mobility following deproteinization (Sif et al. 1998). Both BRG1 and hBRM were capable of remodeling arrays of nucleosomes in an ATP-dependent fashion (Figure 2C). Approximately 4-fold more hBRM than BRG1 was required to achieve similar remodeling activity (compare lane 14 [11.6 ng hBRM] to lane 8 [2.5 ng BRG1]). Thus, in both this assay and in the DNAse protocol (Figure 2), BRG1 had a higher specific activity for remodeling than hBRM. This might reflect different intrinsic activities of these proteins and/or a differential ability of these proteins to fold properly following overexpression. Since BRG1 and hBRM were each capable of remodeling, but with apparently differing activities, we tested whether the combination of BRG1 and hBRM would be either inhibitory or synergistic. Mixed preparations showed similar levels of remodeling when compared to the activity of each individual protein (Figure 2C).
+
+Conserved Subunits Enhance Remodeling Activity
+The specific activity of isolated BRG1 and hBRM for remodeling was lower than we had observed for hSWI/SNF (data not shown, see below). We therefore examined the effect on remodeling of non-ATPase subunits that are conserved between all SWI/SNF-like complexes. We added a purified preparation containing INI1 and both BAF155 and BAF170 (see Figure 1A, lane 5) to an amount of purified BRG1 that showed a low level of activity in the plasmid supercoiling assay (Figure 3A, lane 4) and observed a significant increase in activity (lanes 6 to 10). Maximal stimulation occurred when INI1, BAF155, and BAF170 were added in a 2:1 stoichiometry relative to BRG1 (lane 8); addition of more of these subunits slightly inhibited activity (lane 10). INI1, BAF155, and BAF170 showed no ATP-dependent remodeling without BRG1 (lane 12). These experiments show that these conserved subunits can stimulate the ATP-dependent remodeling activity of BRG1.
+
+Full-size image (104 K)
+Figure 3. 
+Effect of Conserved SWI/SNF Subunits on Remodeling of Nucleosomal Arrays by F-BRG1
+(A) Reconstitution of a core complex with remodeling activity. As in Figure 2C, except using a fixed amount of F-BRG1 (lanes 3 to 10 and 13 to 18, 0.6 ng) and increasing amounts of HA-INI1, BAF155, and BAF170 (0.63-fold molar excess, lanes 5 and 6, and increasing in 3-fold increments), or F-BAF155 and F-BAF170 (2.53-fold molar excess, lanes 13 and 14, increasing in 3-fold increments) in a total of 12.5 μl.
+(B) Activity of hSWI/SNF purified from HeLa cells (lanes 1 to 10; purified as described in Sif et al. 1998) or recombinant hSWI/SNF core complex (lanes 11 to 20) consisting of F-BRG1, BAF170, BAF155, and HA-INI1 (a 1:1 molar mix of the proteins shown in lanes 1 and 5 of Figure 1A). The molar ratio of SWI/SNF to individual nucleosomes was increased in two-fold steps from 0.25:1 (lanes 1, 2, 11, and 12) to 4:1 (lanes 9, 10, 19, and 20); comparison of the molarity of the two complexes was verified by silver-staining. Full disruption does not occur until relatively high ratios of SWI/SNF per nucleosome because substrate concentrations (2.7 ng/25 μl reaction) below the apparent Km were used.
+Figure options
+We next addressed the relative importance of the SWI3 homologs BAF155 and BAF170 versus INI1. Our initial experiments revealed that the former interact stably with BRG1, while INI1 alone does not (data not shown). We used a Flag tag to separately purify BAF155, BAF170, and BRG1 (see Figure 1A, lanes 1, 3, and 4) and tested the activity of a mixture of these proteins. BAF155 and BAF170 were able to enhance remodeling by BRG1 in the absence of INI1 (compare lanes 16 and 18 to lane 8). Higher levels of BAF155 and BAF170 were required to stimulate BRG1 activity in the absence of INI1. For example, stimulation was not seen at a 2.6:1 molar ratio of the BAF subunits to BRG1 (lane 14) but was seen at a 7.6:1 molar ratio (lane 16). Addition of either the INI/BAF155/BAF170 complex or isolated BAF155 and BAF170 also stimulated hBRM activity (data not shown).
+
+The most efficient reconstituted remodeling complex obtained in these experiments contained BRG1, BAF170, BAF155, and INI1. We compared the activity of this complex to the activity of bona fide hSWI/SNF isolated from HeLa cells (Sif et al. 1998). Side-by-side titrations of the recombinant complex and bona fide hSWI/SNF showed that similar molar amounts of these complexes had similar activities (Figure 3B). We estimate that the intact complex from HeLa cells is approximately twice as active as the reconstituted complex (compare lanes 8 and 20, which have similar activity but a 2-fold difference in molar amount of SWI/SNF). The high specific activity of the reconstituted complex, combined with the high degree of purity of the proteins used to reconstitute this activity (Figure 1A, lanes 1 and 5), provides evidence that the activity we observe cannot be due to fortuitously copurifying contaminants.
+
+Stimulation of ATPase Activity by the Conserved Subunits
+Addition of INI1/BAF155/BAF170 to BRG1 stimulates ATP-dependent remodeling. This might result from a stimulation of the ability of BRG1 to hydrolyze ATP, a stimulation of the efficiency with which the energy of ATP hydrolysis is used to remodel nucleosomes, or a combination of both. To begin to address this issue, we tested the ATPase activity of BRG1 alone and supplemented with INI1/BAF155/BAF170. Analogous to yeast SWI2, the ATPase activity of isolated BRG1 was stimulated ∼10-fold by naked plasmid DNA and by nucleosomes (Figure 4A; kcat = 10 min−1; Km for ATP = 100 μM with nucleosomes). This turnover rate is 5-fold slower than that of the intact hSWI/SNF complex isolated from HeLa cells (data not shown).
+
+Full-size image (63 K)
+Figure 4. 
+ATPase Activity of BRG1
+(A) Stimulation of ATP hydrolysis by nucleosomes (closed circles) and plasmid DNA (closed squares). ATP hydrolysis in the absence of added DNA is depicted by the open circles.
+(B) Effect of INI/BAF155/BAF170 complex (closed triangles) on nucleosome-stimulated ATPase. Addition of the HA-INI1/BAF155/BAF170 complex (closed triangles) stimulated the ATPase activity of F-BRG1 by 7-fold (quantified by subtracting the background ATPase activity of the HA-INI1/BAF155/BAF170 preparation [open triangles] and then dividing by the ATPase activity of F-BRG1 in the presence of nucleosomes). The individual rates vary by ≤20%. The stimulation of the F-BRG1 ATPase activity by the HA-INI1/BAF155/BAF170 complex varied from 3- to 7-fold over a F-BRG1 range of 0.5–1 nM. In both (A) and (B), the phosphate shown at time zero is from the small amounts (0.2–0.4%) of γ-32P-phosphate present in the (γ-32P)ATP stocks.
+Figure options
+Addition of the INI1/BAFs complex to high concentrations of BRG1 (>2 nM) gave no detectable stimulation of ATP-hydrolysis (<1.5-fold; data not shown) suggesting that the INI1 and BAF subunits do not stimulate the maximal ATPase activity of BRG1. To determine whether these subunits facilitate other steps involved in the ATPase reaction, concentrations of BRG1 were used that were lower than required for maximal BRG1 activity. At these low concentrations of BRG1 (<1 nM), ATP hydrolysis was barely above background, and nucleosomes stimulated the ATPase activity by less than 3-fold (Figure 4B). Under these conditions, addition of the INI1/BAFs complex stimulated ATP hydrolysis by 7-fold in the experiment shown and 3–7 fold in four independent experiments over a range of BRG1 from 0.5 to 1 nM. This effect was not seen in the absence of nucleosomes (data not shown). Thus, the INI1/BAFs complex is able to stimulate the ATPase activity of BRG1 under submaximal experimental conditions.
+
+Discussion
+The primary conclusion of this work is that an efficient ATP-dependent chromatin remodeling complex can be reconstituted using a subset of the proteins that are found in the human SWI/SNF complex. The protein subunits required for remodeling are highly conserved subunits found in all characterized SWI/SNF family complexes from yeast through humans and were initially identified as having significant phenotypic effects in genetic screens in yeast (SWI2/SNF2, SWI3, and SNF5) and Drosophila (Brm, the SWI2/SNF2 homolog, and possibly Moira, which might be the Drosophila SWI3 homolog [ Papoulas et al. 1998]). Some of the human proteins required for full remodeling activity are also known to have significant biological effects. For example, changes in expression of BRG1 can alter growth phenotypes in tissue culture ( 9 and 24), and mutations that truncate INI1 are strongly correlated with formation of malignant rhabdoid tumors ( Versteege et al. 1998).
+
+Every characterized SWI/SNF complex contains at least four proteins apart from those that are sufficient for remodeling. These other proteins might be required for regulation or targeting of remodeling activity or might play a role in multistep remodeling reactions. Mutational analyses of the ySWI/SNF and RSC complexes imply that these complexes have distinct biological roles despite similar enzymatic activities (7 and 4). There is also evidence that multiple SWI/SNF complexes exist in mammalian cells and that these can play different roles in transcriptional regulation (28, 29 and 1). It is possible that the additional factors in the SWI/SNF family of complexes determine the specificity of remodeling. Additionally, remodeled nucleosomes can be released from both hSWI/SNF and RSC complexes (15 and 22); the efficiency of release of the nucleosome and recycling of SWI/SNF is not measured in any of the protocols reported here, so it is possible that other subunits contribute to this process.
+
+The presence of a functional core might be a general property of ATP-dependent chromatin remodeling complexes. ISWI, which is the ATPase subunit of the Drosophila NURF, CHRAC, and ACF complexes, is capable of remodeling chromatin as a purified subunit ( Corona et al. 1999 [this issue of Molecular Cell]). We observe remodeling activity for the isolated BRG1 and hBRM proteins. BRG1, hBRM, and ISWI all share a large region of homology centered on the ATPase domain. Numerous other eukaryotic proteins share this domain, including Mi-2 and its close relatives. These proteins have been found in deacetylase complexes that are also capable of ATP-dependent chromatin remodeling ( 25, 27 and 31). It is possible that many of these related ATPase proteins have intrinsic chromatin remodeling activity and that this has allowed the evolution of a large family of ATP-dependent remodeling complexes that play different roles in diverse biological processes.
+
+The remodeling activity of BRG1 and hBRM is stimulated by BAF170/BAF155 and is further stimulated when INI1 is added. There are several potential roles that these proteins might play to stimulate remodeling. They might increase the affinity of BRG1 for nucleosomal substrate. They might stabilize a conformation of BRG1 that is more active for remodeling. Finally, they might play a direct mechanistic role in promoting remodeling. The ability to reconstitute remodeling activity from isolated subunits will allow a detailed analysis of the contribution of each of these subunits to remodeling. It also will allow experiments to be performed that address the relative abilities of the intact SWI/SNF complex and the core remodeling complex to function in regulated settings.
+
+Experimental Procedures
+Plasmid Constructions
+A C-terminal Flag tag was added to BRG1 by PCR using a 3′ primer designed to incorporate the FLAG sequence (DYKDDDDK) before the stop codon, followed by SalI and SpeI restriction sites. The PCR product was digested with BglII and SpeI and cloned into pBS/Brg1. The full-length Brg1 cDNA was then excised out of pBS/FL-Brg1 as a SalI fragment and cloned into pFastBac1 to generate pFastBac1/Brg1(Flag).
+
+A similar PCR strategy was used to generate a C-terminally Flag-tagged version of hBRM. This PCR product contained EcoRI and KpnI restriction sites 3′ to the hBRM stop codon, was digested with HpaI and KpnI, and inserted into pCG/hBrm (Khavari et al. 1993). pCG/FL-hBrm was digested with EcoRI, and the resulting fragment was cloned into the EcoRI site of pFastBac1.
+
+pFastBac1-INI1(HA/HMK), used to make HA-INI1, was generated in two steps. First, the C-terminally Flag-tagged Ini1 cDNA from pBabe/FL-Ini1 (Sif et al. 1998) was cloned into the EcoRI site of pFastBac1. Then, sequences encoding the C-terminal tryptophan of INI1 and the Flag epitope were replaced by sequences encoding a heart muscle kinase (HMK) recognition sequence (ARRASV) and an HA epitope (YPYDVPDYA). This was accomplished by replacing the ApaI/HindIII fragment of pFastBac1-INI1(Flag) with a double-stranded oligo.
+
+We constructed a composite full-length cDNA for hSWI3 (BAF155) using a 2.4 kb partial human cDNA that was isolated as described previously (Sif et al. 1998) and a 1.8 kb RT-PCR-amplified fragment obtained from human liver poly(A) RNA. We consistently isolated the partial hSWI3 cDNA (2.4 kb) from several libraries. It appears that an adenine-rich stretch at the 3′ end of these cDNAs hybridizes with the oligo(dt) primers used to create the first strand of the cDNA. An oligo that anneals in the sense direction to the partial cDNA, and an oligo that anneals to the 3′ UTR of the highly related hSWI3 clone described previously (Wang et al. 1996a), BAF155, were used to generate the missing coding sequences. The amplified fragment was inserted into the BamHI and SpeI sites of pBS-5′hSWI3, which contains the partial hSWI3 cDNA. The protein encoded by this complete ORF is highly related to BAF155, except for a few positions scattered throughout the protein. Most of these differences are substitutions of BAF155 sequences with the corresponding sequences of BAF170. To generate pFastBac1-BAF155, an XhoI–SpeI fragment of pBS/hSWI3 was inserted into the SalI–SpeI sites of pFastBac1. A C-terminal Flag epitope was added by PCR. The product of this PCR reaction was digested with SphI and transferred into pFastBac1-BAF155.
+
+The plasmid pBS(SK-)-BAF170 (T3) was a kind gift of Drs. Weidong Wang and Gerald Crabtree. To make pFastBac1-BAF170, BAF170 sequences were transferred into pFastBac1 using NotI and HindIII. A C-terminal Flag epitope was added by PCR. The product of this PCR reaction was digested with SphI and HindIII, transferred into pFastBac1-BAF170.
+
+Expression and Purification of Human SWI/SNF Subunits Using Sf9 Cells
+Baculoviruses were created using the Bac-to-Bac system (GIBCO/BRL). Correct expression was confirmed by Western blot analysis using antisera reactive to BRG1 (Schnitzler et al. 1998) and BAF155/BAF170 sequences (Sif et al. 1998) and M2 (Sigma) and 12CA5 (Boehringer Mannheim) monoclonal antibodies, which recognize the Flag and HA epitope tags, respectively.
+
+Sf9 cells grown in suspension in CCM3 (Hyclone) were infected with single or multiple viruses at an MOI of between 2 and 10 pfu/cell. Cells were harvested around 40 hr postinfection and nuclear extracts were isolated as described previously (2 and 23), then dialyzed into BC-100 (20 mM HEPES [pH 7.9], 100 mM KCl, 10% glycerol, 0.2 mM EDTA, 1 mM DTT, 0.2 mM PMSF). Protease inhibitors used throughout the extraction procedure were 16 μg/ml benzamidine, 10 μg/ml of each phenanthroline, aprotinin, and leupeptin, 2.25 μg/ml pepstatin, 50 μg/ml TLCK. Nuclear extracts were incubated at 4°C with M2-agarose beads (Sigma) or αHA 12CA5 conjugated to agarose beads. Beads were then washed in column form using BC-100 and BC-300 (BC-100 with 300 mM KCl), then eluted in BC-100 using an excess of Flag or HA peptide. Amounts of each protein were determined by silver staining of SDS-PAGE gels.
+
+Chromatin and Mononucleosome Remodeling Assays
+Mononucleosomes were assembled by octamer transfer as described previously (Rhodes and Laskey 1989), using “TPT” (Schnitzler et al. 1998) as the DNA template. Remodeling of mononucleosomes was assayed in 25 μl reactions as described (Imbalzano et al. 1996), except that 80 ng/μl BSA was added.
+
+Nucleosomal arrays were assembled with core histones purified from HeLa cells and internally labeled plasmid DNA of ∼3 kb using a heat-treated Xenopus egg extract, as described previously ( Imbalzano et al. 1996). Remodeling assays were performed in 12.5 or 25 μl (see figure legends) at 30°C for 90 min, also as described ( Imbalzano et al. 1996), except that the final conditions included 7 mM MgCl2, 4 mM ATP, and 80 ng/μl BSA.
+
+ATPase Assays
+Reactions were carried out at 30°C using 2–20 μM ATP in 12 mM NaHEPES (pH 7.9), 60 mM KCl, 7 mM MgCl2, 60 ng/μl BSA, and 6% glycerol. For the experiment shown in Figure 4A, ATP hydrolysis was measured using 9.2 nM BRG1 with no added DNA, 720 nM nucleosomes or 20 nM plasmid DNA (3.15 kb). For the experiment shown in Figure 4B; 0.5 nM BRG1 was used with no added DNA, 160 nM nucleosomes, or 160 nM nucleosomes and 4 nM INI1/BAF170/BAF155 complex. Reactions were initiated by adding 2 μl of a solution of ATP, MgCl2, and a trace quantity of (γ-32P)ATP to bring the reaction volume to 10 μl. At specific times after initiation of reaction, 2 μl aliquots were quenched in 5 μl of stop solution containing 3% SDS, 100 mM EDTA, and 50 mM Tris (pH 7.5). Each “time point” was spotted onto PEI-Cellulose TLC plates (JT Baker), which had been prerun in distilled water and dried. Inorganic phosphate was separated from unreacted ATP by running the TLC plates in 0.5 M LiCl and 1 M formic acid. The ratio of inorganic phosphate to ATP at each time point was quantitated on a Molecular Dynamics PhosphorImager. Rates were obtained from linear least-squares fits to the data (Kaleidagraph).
+
+Acknowledgements
+We thank Drs. Weidong Wang and Gerald Crabtree for the gifts of pBS-BAF170 and pBS-hBAF60a, and Dr. Doug Koshland for the probe used to isolate the BAF155 cDNA, Hui Su and Jared Kesselheim for technical assistance, and Gavin Schnitzler, Jeff Guyon, Zhaohui Shao, Steve Bell, and Jim DiRenzo for advice. We thank Dr. Peter Becker for communication of unpublished results. This work was funded by NIH grants (R. E. K. and S. S.), a grant from Hoechst AG, the National Cancer Institute of Canada (M. L. P.), and the Damon-Runyon Walter Winchell fund (G. J. N.).
+
+References
+1
+J.A Armstrong, J.J Bieker, B.M Emerson
+A SWI/SNF-related chromatin remodeling complex, E-RC1, is required for tissue-specific transcriptional regulation by EKLF in vitro
+Cell, 95 (1998), pp. 93–104
+
+Article |  PDF (544 K) | View Record in Scopus | Citing articles (45)
+2
+F.M Ausubel, R Brent, R.E Kingston, D.D Moore, J.G Seidman, J.A Smith, K Struhl
+Current Protocols in Molecular BiologyGreene Publishing Associates/Wiley Interscience, New York (1992)
+
+3
+B.R Cairns
+Chromatin remodeling machines: similar motors, ulterior motives
+Trends Biochem. Sci, 23 (1998), pp. 20–25
+
+Article |  PDF (1220 K) | View Record in Scopus | Citing articles (136)
+4
+B.R Cairns, Y Lorch, Y Li, M Zhang, L Lacomis, H Erdjument-Bromage, P Tempst, J Du, B Laurent, R.D Kornberg
+RSC, an essential, abundant chromatin-remodeling complex
+Cell, 87 (1996), pp. 1249–1260
+
+Article |  PDF (3235 K) | View Record in Scopus | Citing articles (449)
+5
+B.R Cairns, H Erdjument-Bromage, P Tempst, F Winston, R.D Kornberg
+Two actin-related proteins are shared functional components of the chromatin-remodeling complexes RSC and SWI/SNF
+Mol. Cell, 2 (1998), pp. 639–651
+
+Article |  PDF (522 K) | View Record in Scopus | Citing articles (141)
+6
+D.F.V Corona, G Längst, E.J Bonte, S Ferrari, J Tamkun, P.B Becker
+ISWI is an ATP-dependent nucleosome remodeling factor
+Mol. Cell, 3 (1999), pp. 239–245 this issue,
+
+Article |  PDF (158 K) | View Record in Scopus | Citing articles (148)
+7
+J Coté, J Quinn, J.L Workman, C.L Peterson
+Stimulation of GAL4 derivative binding to nucleosomal DNA by the yeast SWI/SNF complex
+Science, 265 (1994), pp. 53–60
+
+View Record in Scopus | Citing articles (574)
+8
+A.K Dingwall, S.J Beek, C.M McCallum, J.W Tamkun, G.V Kalpana, S.P Goff, M.P Scott
+The Drosophila snr1 and brm proteins are related to yeast SWI/SNF proteins and are components of a large protein complex
+Mol. Biol. Cell, 6 (1995), pp. 777–791
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (161)
+9
+J.L Dunaief, B.E Strober, S Guha, P.A Khavari, K Alin, J Luban, M Begemann, G.R Crabtree, S.P Goff
+The retinoblastoma protein and BRG1 form a complex and cooperate to induce cell cycle arrest
+Cell, 79 (1994), pp. 119–130
+
+Article |  PDF (2617 K) | View Record in Scopus | Citing articles (448)
+10
+G Felsenfeld
+Chromatin Unfolds
+Cell, 86 (1996), pp. 13–19
+
+Article |  PDF (1648 K) | View Record in Scopus | Citing articles (234)
+11
+A.N Imbalzano, G.R Schnitzler, R.E Kingston
+Nucleosome disruption by human SWI/SNF is maintained in the absence of continued ATP hydrolysis
+J. Biol. Chem, 271 (1996), pp. 20726–20733
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (76)
+12
+J.T Kadonaga
+Eukaryotic transcription: an interlaced network of transcription factors and chromatin-modifying machines
+Cell, 92 (1998), pp. 307–313
+
+Article |  PDF (78 K) | View Record in Scopus | Citing articles (425)
+13
+P.A Khavari, C.L Peterson, J.W Tamkun, D.B Mendel, G.R Crabtree
+BRG1 contains a conserved domain of the SWI2/SNF2 family necessary for normal mitotic growth and transcription
+Nature, 366 (1993), pp. 170–174
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (388)
+14
+H Kwon, A.N Imbalzano, P.A Khavari, R.E Kingston, M.R Green
+Nucleosome disruption and enhancement of activator binding by a human SWI/SNF complex
+Nature, 370 (1994), pp. 477–481
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (463)
+15
+Y Lorch, B.R Cairns, M Zhang, R.D Kornberg
+Activated RSC-nucleosome complex and persistently altered form of the nucleosome
+Cell, 94 (1998), pp. 29–34
+
+Article |  PDF (190 K) | View Record in Scopus | Citing articles (154)
+16
+C Muchardt, C Sardet, B Bourachot, C Onufryk, M Yaniv
+A human protein with homology to Saccharomyces cerevisiae SNF5 interacts with the potential helicase hbrm
+Nucleic Acids Res, 23 (1995), pp. 1127–1132
+
+View Record in Scopus | Citing articles (106)
+17
+O Papoulas, S.J Beek, S.L Moseley, C.M McCallum, M Sarte, A Shearn, J.W Tamkun
+The Drosophila trithorax group proteins BRM, ASH1 and ASH2 are subunits of distinct protein complexes
+Development, 125 (1998), pp. 3955–3966
+
+View Record in Scopus | Citing articles (219)
+18
+M.J Pazin, J.T Kadonaga
+SWI2/SNF2 and related proteins: ATP-driven motors that disrupt protein–DNA interactions?
+Cell, 88 (1997), pp. 737–740
+
+Article |  PDF (64 K) | View Record in Scopus | Citing articles (229)
+19
+C.L Peterson
+Multiple switches to turn on chromatin?
+Curr. Opin. Genet. Dev, 6 (1996), pp. 171–175
+
+Article |  PDF (603 K) | View Record in Scopus | Citing articles (115)
+20
+C.L Peterson, Y Zhao, B.T Chait
+Subunits of the yeast SWI/SNF complex are members of the actin-related protein (ARP) family
+J. Biol. Chem, 273 (1998), pp. 23641–23644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+21
+D Rhodes, R.A Laskey
+Assembly of nucleosomes and chromatin in vitro
+P.M Wassarman, R.D Kornberg (Eds.), Methods in Enzymology, Academic Press, San Diego, California (1989) 575–585.pp
+
+22
+G Schnitzler, S Sif, R.E Kingston
+Human SWI/SNF interconverts a nucleosome between its base state and a stable remodeled state
+Cell, 94 (1998), pp. 17–27
+
+Article |  PDF (516 K) | View Record in Scopus | Citing articles (227)
+23
+S Sif, P.T Stukenberg, M.W Kirschner, R.E Kingston
+Mitotic inactivation of a human SWI/SNF chromatin remodeling complex
+Genes Dev, 12 (1998), pp. 2842–2851
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (191)
+24
+C Sumi-Ichinose, H Ichinose, D Metzger, P Chambon
+SNF2beta-BRG1 is essential for the viability of F9 murine embryonal carcinoma cells
+Mol. Cell. Biol, 17 (1997), pp. 5976–5986
+
+View Record in Scopus | Citing articles (89)
+25
+J.K Tong, C.A Hassig, G.R Schnitzler, R.E Kingston, S.L Schreiber
+Chromatin deacetylation by an ATP-dependent, HDAC-associated nucleosome remodeling complex
+Nature, 395 (1998), pp. 917–921
+
+View Record in Scopus | Citing articles (383)
+26
+I Versteege, N Sevenet, J Lange, M.F Rousseau-Merck, P Ambros, R Handgretinger, A Aurias, O Delattre
+Truncating mutations of hSNF5/INI1 in aggressive paediatric cancer
+Nature, 394 (1998), pp. 203–206
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (707)
+27
+P.A Wade, P.L Jones, D Vermaak, A.P Wolffe
+A multiple subunit Mi-2 histone deacetylase from Xenopus laevis cofractionates with an associated Snf2 superfamily ATPase
+Curr Biol, 8 (1998), pp. 843–846
+
+View Record in Scopus | Citing articles (298)
+28
+W.D Wang, Y.T Xue, S Zhou, A Kuo, B.R Cairns, G.R Crabtree
+Diversity and specialization of mammalian SWI/SNF complexes
+Genes Dev, 10 (1996), pp. 2117–2130 a
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (402)
+29
+W.D Wang, J Cote, Y Xue, S Zhou, P.A Khavari, S.R Biggar, C Muchardt, G.V Kalpana, S.P Goff, M Yaniv, J.L Workman, G.R Crabtree
+Purification and biochemical heterogeneity of the mammalian SWI-SNF complex
+EMBO J, 15 (1996), pp. 5370–5382 b
+
+View Record in Scopus | Citing articles (483)
+30
+J.L Workman, R.E Kingston
+Alteration of nucleosome structure as a mechanism of transcriptional regulation
+Annu. Rev. Biochem, 67 (1998), pp. 545–579
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (783)
+31
+Y Zhang, G LeRoy, H.-P Seelig, W.S Lane, D Reinberg
+The dermatomyositis-specific autoantigen Mi2 is a component of a complex containing histone deacetylase and nucleosome remodeling activities
+Cell, 95 (1998), pp. 279–289
+
+Article |  PDF (417 K) | View Record in Scopus | Citing articles (503)
+32
+K Zhao, W Wang, O.J Rando, Y Xue, K Swiderek, A Kuo, G.R Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Corresponding author: Robert E. Kingston, 617 726 5990 (phone), 617 726 5949 (fax)
+*
+To whom correspondence should be addressed (e-mail: kingston@frodo.mgh.harvard.edu).
+Copyright © 1999 Cell Press. All rights reserved.

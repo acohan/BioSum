@@ -1,0 +1,208 @@
+Differential effects of caspase inhibitors on TNF-induced necroptosis
+Hirofumi Sawai Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2013.01.126
+Get rights and content
+Abstract
+TNF has been reported to induce caspase-independent necroptosis in the presence of Z-VAD-fmk, a pan-caspase inhibitor. We examined whether necroptosis was induced by caspase inhibitors other than Z-VAD-fmk. TNF-induced necroptosis was detected in the presence of Z-DEVD-fmk, which is commonly used as a caspase-3-specific inhibitor, but not in the presence of Z-Asp-CH2-DCB, which was reported to be a pan-caspase inhibitor. TNF-induced caspase-3 activity was completely inhibited by Z-VAD-fmk, Z-DEVD-fmk, or Z-Asp-CH2-DCB. Although TNF-induced proteolytic activation of procaspase-3 was completely prevented by Z-VAD-fmk or Z-DEVD-fmk, the partial proteolysis of procaspase-3 was induced in the presence of Z-Asp-CH2-DCB. Furthermore, although TNF-induced proteolytic activation of procaspase-8 was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk, the partial proteolysis of procaspase-8 to the p43/41 intermediate and p18 active fragment was detected in the presence of Z-Asp-CH2-DCB. The cleavage of RIP1, which plays a crucial role in TNF-induced necroptosis and is cleaved by caspase-8, was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk, whereas the partial degradation of RIP1 was detected in the presence of Z-Asp-CH2-DCB. These results suggest that the partial activation of caspase-8 in the presence of Z-Asp-CH2-DCB may suppress TNF-induced necroptosis via the cleavage of RIP1, and also suggest that Z-Asp-CH2-DCB, but not Z-DEVD-fmk, may be used as a caspase-3-specific inhibitor in cells.
+
+Highlights
+► TNF-induced necroptosis was not detected in the presence of Z-Asp-CH2-DCB. ► TNF-induced caspase-3 activity was completely inhibited by Z-Asp-CH2-DCB. ► Proteolysis of procaspase-8 was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk. ► Partial proteolysis of procaspase-8 was detected in the presence of Z-Asp-CH2-DCB. ► Z-Asp-CH2-DCB may be used as a caspase-3-specific inhibitor in cells.
+
+Abbreviations
+CHX, cycloheximide; PI, propidium iodide; PBS-T, PBS with 0.1% Tween 20
+Keywords
+Apoptosis; Necroptosis; Necrostatin-1; Z-VAD-fmk; Z-Asp-CH2-DCB; Z-DEVD-fmk
+1. Introduction
+The mechanisms of apoptosis have been extensively investigated and two major pathways to apoptosis have been established [1] and [2]. The death-receptor (or extrinsic) pathway is triggered by death ligands such as Fas (CD95) ligand and TNF. In the case of Fas ligand, binding of Fas ligand to its receptor, Fas induces the formation of death-inducing signaling complex composed of FADD and procaspase-8, resulting in the generation of active caspase-8. Active caspase-8 either directly cleaves procaspase-3 to generate its active form or indirectly activates caspase-3 via the mitochondrial pathway through the cleavage of Bid [3] and [4]. On the other hand, the mitochondrial (or intrinsic) pathway is generally used in response to genotoxic stresses including irradiation, ultraviolet, and anticancer drugs. Owing to the activation of proapoptotic Bcl-2 family members such as Bax and Bak, cytochrome c is released from the intermembrane space of mitochondria to the cytosol and forms a complex termed apoptosome with Apaf-1 and procaspase-9 to generate active caspase-9, which leads to the activation of executioner caspases including caspase-3, -6, and -7.
+
+In contrast with post-apoptotic (caspase-dependent) secondary necrosis, caspase-independent necrosis has been reported [5] and [6]. The involvement of RIP1 kinase in Fas-induced caspase-8-independent necrotic cell death has been demonstrated [7]. Recently, specific inhibitors of caspase-independent necrosis, necrostatins, have been identified, and caspase-independent necrostatin-inhibitable necrosis has been termed necroptosis [8]. It was demonstrated that necrostatins attenuated necroptosis via inhibition of the kinase activity of RIP1 [9]. RIP1 was reported to interact with RIP3 [10] and [11]. It has been suggested that the enzymes involved in energy metabolism may play an important role in necroptosis downstream of RIP3 [12]. Recently, the mixed lineage kinase domain-like protein and PGAM5, a mitochondrial phosphatase, have been identified as the downstream targets of RIP3 [13] and [14].
+
+Z-VAD-fmk, a pan-caspase inhibitor, has been used for the induction of caspase-independent necroptosis [5], [6] and [7]. In this study, we found that necroptosis was not induced in the presence of Z-Asp-CH2-DCB, another caspase inhibitor [15], although it completely inhibited TNF-induced caspase-3 activity and apoptosis. The mechanism of differential effects by caspase inhibitors on TNF-induced cell death was investigated.
+
+2. Materials and methods
+2.1. Cell culture
+Human monocytic leukemia cell line U-937 cells were purchased from RIKEN Cell Bank (Japan). Cells were maintained in RPMI1640 medium supplemented with 10% heat-inactivated fetal bovine serum and 100 U/ml penicillin/100 μg/ml streptomycin in a humidified 5% CO2 incubator at 37 °C.
+
+2.2. Assessment of apoptosis and necroptosis
+U-937 cells were pretreated for 30 min with or without 10 μM necrostatin-1 (Sigma) in the presence or absence of 10 μM Z-VAD-fmk (Peptide Institute, Japan), 20 μM Z-DEVD-fmk (Bachem, Switzerland), or 50 μM Z-Asp-CH2-DCB (Peptide Institute, Japan) and were then treated with 10 ng/ml recombinant human TNF-α (Wako, Japan) plus 10 μg/ml cycloheximide (CHX) (Sigma) for 4 h. Cells were incubated with 2.5 μl FITC-conjugated Annexin V (MBL, Japan) and 2.5 μg/ml propidium iodide (PI) (Sigma) in 100 μl binding buffer containing 10 mM HEPES/KOH (pH 7.4), 140 mM NaCl, and 2.5 mM CaCl2 for 30 min at 4 °C, and were analyzed using FACS Calibur (BD Biosciences) and CellQuest software. As we recently reported [16], early necroptotic cells were Annexin V-positive/PI-negative. Although the appearance of Annexin V-positive/PI-negative early necroptotic cells was almost completely inhibited by necrostatin-1, Annexin V-positive/PI-negative staining of early apoptotic cells was only slightly affected by necrostatin-1.
+
+2.3. Analysis of cellular DNA content by flow cytometry
+Cellular DNA content was assessed as described [16]. Briefly, cells were fixed with 1% paraformaldehyde in PBS containing 0.5% saponin for 5 min at 4 °C. After centrifugation, cells were incubated in buffer containing 5 μg/ml PI and 1 mg/ml ribonuclease A (Nacalai Tesque, Japan) for 10 min at 4 °C. Cells were then analyzed using FACS Calibur and CellQuest software. Hypodiploid cells due to DNA fragmentation were regarded as apoptotic cells.
+
+2.4. Western blot analysis
+Cells were lyzed in buffer containing 10 mM HEPES/KOH (pH 7.4), 1% Triton X-100, 5 mM EDTA, and 1 mM PMSF. After centrifugation at 400g for 5 min, the supernatant was collected, 20 μg protein was applied to each well, separated in SDS–PAGE, and transferred onto an Immobilon PVDF membrane (Millipore). After preincubation in PBS with 0.1% Tween 20 (PBS-T) containing 10% Blocking One (Nacalai Tesque, Japan) for 30 min, the membrane was incubated with rat anti-caspase-3 (clone 1F3) (MBL, Japan), mouse anti-caspase-8 (clone 1C12) (Cell Signaling Technology), or mouse anti-caspase-9 (clone 5B4) (MBL, Japan) antibody for 2 h, washed in PBS-T for 15 and 5 min, and further incubated with the respective secondary antibody conjugated with horseradish peroxidase (Santa Cruz Biotechnology) for 1 h. After washing in PBS-T for 5 min three times, the membrane was incubated in Supersignal West Pico chemiluminescent substrate (Pierce) according to the manufacturer’s protocol, and images were analyzed using VersaDoc 5000 (Bio-Rad). The membrane was reprobed with goat anti-actin antibody conjugated with horseradish peroxidase (Santa Cruz Biotechnology) to confirm equal protein loading.
+
+2.5. Measurement of caspase-3 activity
+After washing three times with PBS, cells were lyzed and the supernatant was collected as described above. Five microliters of the supernatant was incubated with 100 μl buffer containing 10 mM HEPES/KOH (pH 7.4), 0.1% CHAPS, 10% sucrose, 1 mM dithiothreitol, and 10 μM Ac-DEVD-MCA (Peptide Institute, Japan) in black 96 well plates for 1 h at 37 °C. Fluorescence was detected using SpectraMax M5 (Molecular Devices) with excitation at 355 nm and emission at 460 nm.
+
+3. Results
+3.1. TNF-induced necroptosis in the presence of Z-VAD-fmk or Z-DEVD-fmk, but not in the presence of Z-Asp-CH2-DCB
+Since caspase-independent necroptosis has been induced in the presence of Z-VAD-fmk, a pan-caspase inhibitor, we examined whether necroptosis was induced by caspase inhibitors other than Z-VAD-fmk. First, Z-DEVD-fmk, another caspase inhibitor commonly used as a caspase-3-specific inhibitor, was examined. As expected, Z-DEVD-fmk completely inhibited TNF-induced caspase-3 activity and the externalization of phosphatidylserine (demonstrated by binding of Annexin V) at 2 h (data not shown). PI-positive as well as Annexin V-positive/PI-negative cells, the appearance of which was almost completely inhibited by necrostain-1, were detected at 4 h in the presence of Z-DEVD-fmk (Fig. 1A and B), indicating that necrostatin-inhibitable necroptosis was induced in the presence of Z-DEVD-fmk in a manner similar to Z-VAD-fmk (although Z-DEVD-fmk was less potent than Z-VAD-fmk at the same concentration, namely, the effect of 20 μM Z-DEVD-fmk was almost the same as that of 10 μM Z-VAD-fmk).
+
+Full-size image (91 K)
+Fig. 1. 
+Differential effects of caspase inhibitors on TNF-induced cell death. (A) U937 cells were treated for 4 h with 10 ng/ml TNF (T) plus 10 μg/ml CHX (C) in the presence or absence of 10 μM necrostatin-1 (Nec), 10 μM Z-VAD-fmk (V), 20 μM Z-DEVD-fmk (D), or 50 μM Z-Asp-CH2-DCB (A). Cells were collected and incubated with Annexin V-FITC and PI at 4 °C for 30 min, and analyzed by flow cytometry. Dot plots representative of three independent experiments with similar results are presented. (B) The results are the mean of three independent experiments performed as described in (A). The bars indicate one standard deviation. UL, Annexin V−/PI+; UR, Annexin V+/PI+; LR, Annexin V+/PI−. (C) U937 cells were treated for 4 h with 10 ng/ml TNF plus 10 μg/ml CHX in the presence or absence of 10 μM Z-VAD-fmk, 20 μM Z-DEVD-fmk, or 50 μM Z-Asp-CH2-DCB. Apoptotic hypodiploid cells were analyzed as described in Section 2. The results are the mean of three independent experiments. The bars indicate one standard deviation.
+Figure options
+Next, Z-Asp-CH2-DCB, which has been reported to be another pan-caspase inhibitor [15], was used. Unexpectedly, PI-positive as well as Annexin V-positive/PI-negative cells were hardly detected in the presence of Z-Asp-CH2-DCB at 4 h (Fig. 1A and B), although TNF-induced caspase-3 activity and the externalization of phosphatidylserine was completely inhibited by Z-Asp-CH2-DCB (Fig. 1 and Fig. 3).
+
+An increase in the number of hypodiploid cells due to TNF-induced apoptotic DNA fragmentation was almost completely suppressed by Z-VAD-fmk, Z-DEVD-fmk, or Z-Asp-CH2-DCB at 4 h (Fig. 1C), which confirmed that each caspase inhibitor effectively protected cells from apoptotic cell death and that TNF-induced cell death in the presence of Z-VAD-fmk or Z-DEVD-fmk at 4 h was due to necroptosis, not apoptosis.
+
+3.2. The effects of different doses of Z-VAD-fmk on TNF-induced caspase-3 activity and apoptosis/necroptosis
+Next, we investigated the relationship between the concentration of Z-VAD-fmk, caspase-3 activity, and the mode of cell death. More than a 10-fold increase in caspase-3 activity was detected when U-937 cells were treated with TNF for 2 h (Fig. 2A). TNF-induced caspase-3 activity was inhibited by Z-VAD-fmk in a dose-dependent manner. It was almost completely inhibited by 1 μM Z-VAD-fmk, and was below the control level at 10 μM. Necrostatin-1 only slightly attenuated TNF-induced caspase-3 activity. TNF-induced apoptosis (assessed by dual staining with Annexin V-FITC and PI) was inhibited by Z-VAD-fmk at 2 h in a dose-dependent manner (data not shown). TNF induced only a few necrotic (PI-positive) cells in the absence of Z-VAD-fmk at 4 h (Fig. 2B). However, PI-positive and Annexin V-positive/PI-negative cells were induced in the presence of 1 μM or more Z-VAD-fmk at 4 h. In the presence of 10 μM Z-VAD-fmk, the appearance of PI-positive and Annexin V-positive/PI-negative cells was completely inhibited by necrostatin-1, indicating that necroptosis was induced at 10 μM. Almost the same results were obtained in the presence of 20 μM Z-VAD-fmk (data not shown). In the presence of 1 μM Z-VAD-fmk, the appearance of PI-positive cells was almost completely inhibited by necrostatin-1 whereas that of Annexin V-positive/PI-negative cells was only partially inhibited by necrostatin-1, suggesting that some part of Annexin V-positive/PI-negative cells was apoptotic.
+
+Full-size image (34 K)
+Fig. 2. 
+The effects of different doses of Z-VAD-fmk on TNF-induced caspase-3 activity (A) and cell death (B). (A) U937 cells were treated for 2 h with 10 ng/ml TNF (T) plus 10 μg/ml CHX (C) in the presence or absence of 10 μM necrostatin-1 (Nec) and the indicated concentration (μM) of Z-VAD-fmk (V), and caspase-3 activity was measured using Ac-DEVD-MCA as a substrate. The results are the mean of a triplicate experiment. The bars indicate one standard deviation. (B) U937 cells were treated for 4 h with 10 ng/ml TNF (T) plus 10 μg/ml CHX (C) in the presence or absence of 10 μM necrostatin-1 (Nec) and the indicated concentration (μM) of Z-VAD-fmk (V), and dual staining with Annexin V-FITC/PI was performed. The results are the mean of three independent experiments. The bars indicate one standard deviation.
+Figure options
+Similarly, TNF-induced cell death could not be completely inhibited in the presence of Z-DEVD-fmk at any concentration up to 50 μM, although TNF-induced caspase-3 activity was completely inhibited by treatment with 10 μM or more Z-DEVD-fmk (data not shown).
+
+3.3. The effects of different doses of Z-Asp-CH2-DCB on TNF-induced caspase-3 activity and apoptosis/necroptosis
+Next, we examined the effects of different doses of Z-Asp-CH2-DCB on TNF-induced caspase-3 activity and the mode of cell death. As shown in Fig. 3A, TNF-induced caspase-3 activity was suppressed by Z-Asp-CH2-DCB in a dose-dependent manner. A slight increase in caspase-3 activity was detected at 20 μM, whereas caspase-3 activity was completely inhibited at 50 μM. Dual staining with Annexin V-FITC and PI demonstrated that TNF-induced apoptosis was completely inhibited in the presence of Z-Asp-CH2-DCB at 50 μM or more, whereas it was only slightly (by 10–20%) suppressed at 20 μM or less (Fig. 3B). In contrast with Z-VAD-fmk or Z-DEVD-fmk, necrostatin-inhibitable cell death (necroptosis) was not detected at any concentration up to 100 μM of Z-Asp-CH2-DCB.
+
+Full-size image (34 K)
+Fig. 3. 
+The effects of different doses of Z-Asp-CH2-DCB on TNF-induced caspase-3 activity (A) and cell death (B). (A) Caspase-3 activity was measured as described in Fig. 2A in the presence or absence of 10 μM necrostatin-1 (Nec) and the indicated concentration (μM) of Z-Asp-CH2-DCB. The results are the mean of a triplicate experiment. The bars indicate one standard deviation. (B) Dual staining with Annexin V-FITC/PI was performed as described in Fig. 2B in the presence or absence of 10 μM necrostatin-1 (Nec) and the indicated concentration (μM) of Z-Asp-CH2-DCB (A). The results are the mean of three independent experiments. The bars indicate one standard deviation.
+Figure options
+3.4. Z-Asp-CH2-DCB completely inhibits caspase-3 activity with partial proteolytic activation of procaspase-8
+To investigate the mechanism of the differential effects between Z-VAD-fmk, Z-DEVD-fmk, and Z-Asp-CH2-DCB, proteolytic activation of caspases induced by TNF was examined using Western blot analysis. Proteolysis of procaspase-3 was completely prevented by Z-VAD-fmk or Z-DEVD-fmk, whereas the partial proteolysis of procaspase-3 to the p20 fragment (but not to the p17 active fragment) was detected in the presence of Z-Asp-CH2-DCB (Fig. 4). Furthermore, although proteolysis of procaspase-8 was completely suppressed in the presence of Z-VAD-fmk or Z-DEVD-fmk, partial proteolysis of procaspase-8 to the p43/41 intermediate and p18 active fragment was detected in the presence of Z-Asp-CH2-DCB. Similarly, proteolysis of procaspase-9 to the p37/35 fragment was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk, but not by Z-Asp-CH2-DCB.
+
+Full-size image (26 K)
+Fig. 4. 
+Differential effects of caspase inhibitors on proteolysis of procaspases-3, -8, -9, and RIP1. U937 cells were treated for 2 h with 10 ng/ml TNF plus 10 μg/ml CHX in the presence or absence of 10 μM Z-VAD-fmk (V), 20 μM Z-DEVD-fmk (D), or 50 μM Z-Asp-CH2-DCB (A). Western blotting was performed as described in Section 2. The results are representative of three independent experiments with similar results.
+Figure options
+Since it has been reported that RIP1 is cleaved by caspase-8 [17], the protein level of RIP1 was investigated. As shown in Fig. 4, RIP1 was almost completely degraded by treatment with TNF. In the presence of Z-VAD-fmk or Z-DEVD-fmk, the protein level of RIP1 was not reduced at all, whereas it was partially degraded in the presence of Z-Asp-CH2-DCB. These results suggest that the partial degradation of RIP1 may be induced by the partially activated caspase-8 in the presence of Z-Asp-CH2-DCB.
+
+4. Discussion
+In this study, TNF-induced necroptosis was induced in the presence of Z-VAD-fmk or Z-DEVD-fmk, but not in the presence of Z-Asp-CH2-DCB, although TNF-induced caspase-3 activity and apoptosis were completely inhibited by Z-VAD-fmk, Z-DEVD-fmk, or Z-Asp-CH2-DCB. TNF-induced proteolytic activation of procaspase-3 was completely prevented by Z-VAD-fmk or Z-DEVD-fmk, whereas the partial proteolysis of procaspase-3 was induced in the presence of Z-Asp-CH2-DCB. Moreover, TNF-induced proteolytic activation of procaspase-8 as well as procaspase-9 was almost completely suppressed by Z-VAD-fmk or Z-DEVD-fmk, but only partially by Z-Asp-CH2-DCB. Since caspase-8 is the initiator caspase and both caspase-9 and caspase-3 are activated downstream of caspase-8 in the death-receptor pathway, these results suggest that Z-Asp-CH2-DCB may be a preferable inhibitor for the activity of caspase-3 over that of caspase-8, and that not only Z-VAD-fmk but also Z-DEVD-fmk (although commonly used as a caspase-3-specific inhibitor) may effectively inhibit the activity of caspase-8 in cells. Furthermore, these results implied that the partial activation of caspase-8 in the presence of Z-Asp-CH2-DCB may suppress caspase-independent necroptosis. To support this notion, the cleavage of RIP1 by caspase-8 was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk, but the partial degradation of RIP1 was detected in the presence of Z-Asp-CH2-DCB. Since RIP1 has been reported to play a crucial role in necroptosis [7], [8] and [9], these results suggest that the partial activation of caspase-8 in the presence of Z-Asp-CH2-DCB may suppress TNF-induced necroptosis via the partial cleavage of RIP1.
+
+Z-VAD-fmk has been reported to inhibit capase-8 more effectively than caspase-3 [18] and [19]. Although Z-DEVD-fmk is commonly used as a caspase-3-specific inhibitor, it has been reported that Ki values for the inhibition of caspase-3 and caspase-8 by Ac-DEVD-aldehyde are 0.23 nM and 0.92 nM, respectively [19], suggesting that Z-DEVD-fmk may inhibit caspase-8 almost as effectively as caspase-3. Consistent with this idea, the effect of Z-DEVD-fmk on TNF-induced cell death was similar to that of Z-VAD-fmk in this study. Thus, necroptosis was induced by TNF in the presence of Z-DEVD-fmk, and Western blot analysis demonstrated that proteolytic activation of procaspase-8 as well as procaspase-3 and procaspase-9 was completely inhibited by Z-DEVD-fmk. Since proteolytic activation of procaspase-8 depends on its autocatalytic activity [20], these results indicated that Z-DEVD-fmk potently inhibited the activity of (pro)caspase-8 in cells.
+
+In contrast with Z-VAD-fmk and Z-DEVD-fmk, necroptosis was not induced by TNF in the presence of Z-Asp-CH2-DCB atany concentration up to 100 μM. Although Z-Asp-CH2-DCB was used as a pan-caspase inhibitor [15], the specificity of its inhibitory effects on individual caspases has not been reported. In this study, proteolytic activation of procaspase-8 was partially induced in the presence of Z-Asp-CH2-DCB, although Z-Asp-CH2-DCB completely inhibited TNF-induced caspase-3 activity, suggesting that Z-Asp-CH2-DCB preferentially inhibited the activity of caspase-3 over that of caspase-8. Furthermore, necroptosis was not induced by TNF in the presence of Z-Asp-CH2-DCB, presumably due to the partial degradation of RIP1 by the activated caspase-8.
+
+In conclusion, it was shown that necroptosis was induced by TNF in the presence of Z-VAD-fmk or Z-DEVD-fmk, but not in the presence of Z-Asp-CH2-DCB. Although TNF-induced proteolytic activation of procaspase-8 was completely inhibited by Z-VAD-fmk or Z-DEVD-fmk, it was only partially suppressed by Z-Asp-CH2-DCB. Since RIP1 was partially degraded in the presence of Z-Asp-CH2-DCB, but not in the presence of Z-VAD-fmk or Z-DEVD-fmk, these results suggested that the partial degradation of RIP1 by the activated caspase-8 in the presence of Z-Asp-CH2-DCB may attenuate the induction of TNF-induced necroptosis. These results also suggest that Z-Asp-CH2-DCB, but not Z-DEVD-fmk, may be used as a caspase-3-specific inhibitor in cells.
+
+Acknowledgments
+This work was supported in part by a Grant-in-Aid for Scientific Research (C) (22592105) from the Japan Society for the Promotion of Science.
+
+References
+[1]
+C. Scaffidi, S. Fulda, A. Srinivasan, C. Friesen, F. Li, K.J. Tomaselli, K.M. Debatin, P.H. Krammer, M.E. Peter
+Two CD95 (APO-1/Fas) signaling pathways
+EMBO J., 17 (1998), pp. 1675–1687
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2212)
+[2]
+M.O. Hengartner
+The biochemistry of apoptosis
+Nature, 407 (2000), pp. 770–776
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4220)
+[3]
+X. Luo, I. Budihardjo, H. Zou, C. Slaughter, X. Wang
+Bid, a Bcl2 interacting protein, mediates cytochrome c release from mitochondria in response to activation of cell surface death receptors
+Cell, 94 (1998), pp. 481–490
+
+Article |  PDF (409 K) | View Record in Scopus | Citing articles (2452)
+[4]
+H. Li, H. Zhu, C.J. Xu, J. Yuan
+Cleavage of BID by caspase 8 mediates the mitochondrial damage in the Fas pathway of apoptosis
+Cell, 94 (1998), pp. 491–501
+
+Article |  PDF (4896 K) | View Record in Scopus | Citing articles (2919)
+[5]
+D. Vercammen, R. Beyaert, G. Denecker, V. Goossens, G. Van Loo, W. Declercq, J. Grooten, W. Fiers, P. Vandenabeele
+Inhibition of caspases increases the sensitivity of L929 cells to necrosis mediated by tumor necrosis factor
+J. Exp. Med., 187 (1998), pp. 1477–1485
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (439)
+[6]
+D. Vercammen, G. Brouckaert, G. Denecker, M. Van de Craen, W. Declercq, W. Fiers, P. Vandenabeele
+Dual signaling of the Fas receptor: initiation of both apoptotic and necrotic cell death pathways
+J. Exp. Med., 188 (1998), pp. 919–930
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (334)
+[7]
+N. Holler, R. Zaru, O. Micheau, M. Thome, A. Attinger, S. Valitutti, J.L. Bodmer, P. Schneider, B. Seed, J. Tschopp
+Fas triggers an alternative, caspase-8-independent cell death pathway using the kinase RIP as effector molecule
+Nat. Immunol., 1 (2000), pp. 489–495
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (671)
+[8]
+A. Degterev, Z. Huang, M. Boyce, Y. Li, P. Jagtap, N. Mizushima, G.D. Cuny, T.J. Mitchison, M.A. Moskowitz, J. Yuan
+Chemical inhibitor of nonapoptotic cell death with therapeutic potential for ischemic brain injury
+Nat. Chem. Biol., 1 (2005), pp. 112–119
+
+View Record in Scopus | Citing articles (547)
+[9]
+A. Degterev, J. Hitomi, M. Germscheid, I.L. Ch’en, O. Korkina, X. Teng, D. Abbott, G.D. Cuny, C. Yuan, G. Wagner, S.M. Hedrick, S.A. Gerber, A. Lugovskoy, J. Yuan
+Identification of RIP1 kinase as a specific cellular target of necrostatins
+Nat. Chem. Biol., 4 (2008), pp. 313–321
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (371)
+[10]
+S. He, L. Wang, L. Miao, T. Wang, F. Du, L. Zhao, X. Wang
+Receptor interacting protein kinase-3 determines cellular necrotic response to TNF-α
+Cell, 137 (2009), pp. 1100–1111
+
+Article |  PDF (1460 K) | View Record in Scopus | Citing articles (343)
+[11]
+Y.S. Cho, S. Challa, D. Moquin, R. Genga, T.D. Ray, M. Guildford, F.K. Chan
+Phosphorylation-driven assembly of the RIP1–RIP3 complex regulates programmed necrosis and virus-induced inflammation
+Cell, 137 (2009), pp. 1112–1123
+
+Article |  PDF (1761 K) | View Record in Scopus | Citing articles (377)
+[12]
+D.W. Zhang, J. Shao, J. Lin, N. Zhang, B.J. Lu, S.C. Lin, M.Q. Dong, J. Han
+RIP3, an energy metabolism regulator that switches TNF-induced cell death from apoptosis to necrosis
+Science, 325 (2009), pp. 332–336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (349)
+[13]
+L. Sun, H. Wang, Z. Wang, S. He, S. Chen, D. Liao, L. Wang, J. Yan, W. Liu, X. Lei, X. Wang
+Mixed lineage kinase domain-like protein mediates necrosis signaling downstream of RIP3 kinase
+Cell, 148 (2012), pp. 213–227
+
+Article |  PDF (1611 K) | View Record in Scopus | Citing articles (112)
+[14]
+Z. Wang, H. Jiang, S. Chen, F. Du, X. Wang
+The mitochondrial phosphatase PGAM5 functions at the convergence point of multiple necrotic death pathways
+Cell, 148 (2012), pp. 228–243
+
+Article |  PDF (1438 K) | View Record in Scopus | Citing articles (107)
+[15]
+T. Mashima, M. Naito, S. Kataoka, H. Kawai, T. Tsuruo
+Aspartate-based inhibitor of interleukin-1 beta-converting enzyme prevents antitumor agent-induced apoptosis in human myeloid leukemia U937 cells
+Biochem. Biophys. Res. Commun., 209 (1995), pp. 907–915
+
+Article |  PDF (517 K) | View Record in Scopus | Citing articles (156)
+[16]
+H. Sawai, N. Domae
+Discrimination between primary necrosis and apoptosis by necrostatin-1 in Annexin V-positive/propidium iodide-negative cells
+Biochem. Biophys. Res. Commun., 411 (2011), pp. 569–573
+
+Article |  PDF (898 K) | View Record in Scopus | Citing articles (14)
+[17]
+Y. Lin, A. Devin, Y. Rodriguez, Z.G. Liu
+Cleavage of the death domain kinase RIP by caspase-8 prompts TNF-induced apoptosis
+Genes Dev., 13 (1999), pp. 2514–2526
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (320)
+[18]
+N. Margolin, S.A. Raybuck, K.P. Wilson, W. Chen, T. Fox, Y. Gu, D.J. Livingston
+Substrate and inhibitor specificity of interleukin-1 beta-converting enzyme and related caspases
+J. Biol. Chem., 272 (1997), pp. 7223–7228
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (191)
+[19]
+M. Garcia-Calvo, E.P. Peterson, B. Leiting, R. Ruel, D.W. Nicholson, N.A. Thornberry
+Inhibition of human caspases by peptide-based and macromolecular inhibitors
+J. Biol. Chem., 273 (1998), pp. 32608–32613
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (675)
+[20]
+M. Muzio, B.R. Stockwell, H.R. Stennicke, G.S. Salvesen, V.M. Dixit
+An induced proximity model for caspase-8 activation
+J. Biol. Chem., 273 (1998), pp. 2926–2930
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (738)

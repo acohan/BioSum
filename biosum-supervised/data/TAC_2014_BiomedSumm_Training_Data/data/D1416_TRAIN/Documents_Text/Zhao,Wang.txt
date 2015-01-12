@@ -1,0 +1,427 @@
+Rapid and Phosphoinositol-Dependent Binding of the SWI/SNF-like BAF Complex to Chromatin after T Lymphocyte Receptor Signaling
+Keji Zhao1, §, Weidong Wang1, §, ∣∣, Oliver J Rando1, Yutong Xue1, ∣∣, Kristine Swiderek2, Ann Kuo1, Gerald R Crabtree1, ‡, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S0092-8674(00)81633-5
+Under an Elsevier user license
+  Open Archive
+Abstract
+Lymphocyte activation is accompanied by visible changes in chromatin structure. We find that antigen receptor signaling induces the rapid association of the BAF complex with chromatin. PIP2, which is regulated by activation stimuli, is sufficient in vitro to target the BAF complex to chromatin, but it has no effect on related chromatin remodeling complexes containing SNF2L or hISWI. Purification and peptide sequencing of the subunits of the complex revealed β-actin as well as a novel actin-related protein, BAF53. β-actin and BAF53 are required for maximal ATPase activity of BRG1 and are also required with BRG1 for association of the complex with chromatin/matrix. This work indicates that membrane signals control the activity of the mammalian SWI/SNF or BAF complex and demonstrates a direct interface between signaling and chromatin regulation.
+
+Introduction
+Certain cell types undergo chromatin structural modifications induced by external stimuli. For example, peripheral lymphocytes circulate for many years in a resting, almost spore-like Go state with barely detectable rates of transcription and protein synthesis. These “resting” cells have small, extremely compact nuclei with dense heterochromatin. However, within a few hours after antigenic activation their nuclei increase 5- to 10-fold in volume and euchromatin appears. These visible changes in chromatin structure follow the first wave of immediate gene activation in T lymphocytes but precede the activation of perhaps a thousand or more genes that take place 16–48 hr after activation (30 and 5). General and rapid changes of chromatin structure also occur in other cell types such as sperm, which undergo widespread changes in chromatin structure after entering an egg. At present little or nothing is known of the mechanisms that underlie these rapid, signal-dependent changes in chromatin.
+
+Several chromatin remodeling complexes have been identified in recent years (for review, see Kingston et al. 1996 and Kadonaga 1998). Most of these are related to the yeast SWI/SNF complex by virtue of the fact that they contain a subunit that is homologous to SWI2 or SNF2 (26 and 31). Both biochemical and genetic studies suggest that SWI/SNF complex antagonizes chromatin-mediated repression (13 and 3) in yeast. The view that SWI/SNF-related complexes function similarly in other organisms is supported by the discovery of the Brahma (Brm) gene in Drosophila, which is 50% identical to SWI2/ SNF2. Brm mutations suppress polycomb mutations and are required for proper developmental control of several homeotic genes ( Tamkun et al. 1992). Mammalian cells contain at least two genes, hBRM ( Muchardt and Yaniv 1993) and BRG (Brahma-related gene) ( Khavari et al. 1993), that are closely related to SWI2 and also to Brahma. Both BRG1 and hBRM are part of independent complexes ( 19 and 37), which have nucleosome remodeling activity similar to that of the yeast complex ( Wang et al. 1996a). Furthermore, a group of proteins tightly associated with BRG1 and hBRM called BAFs (BRG or Brm associated factors) are related to subunits of the yeast SWI/SNF complex ( 37 and 38). The subunits of the mammalian complex are encoded by gene families. These family members appear to be assembled into the mammalian BAF complex by a combinatorial mechanism, giving rise to a diverse group of chromatin remodeling complexes ( 37 and 38). In addition to the SWI/SNF and BAF complexes, several related chromatin remodeling complexes have been found in higher eukaryotes, including NURF ( Tsukiyama and Wu 1995), Chrac ( Varga-Weisz et al. 1997), and ACF ( Ito et al. 1997) from Drosophila. These complexes contain ISWI, a subunit that is remotely related to SWI2/SNF2 but 70% identical to hSNF2L ( Elfring et al. 1994). Why so many different chromatin remodeling complexes are present in higher eukaryotes is unknown.
+
+While all of the chromatin remodeling complexes appear similar in their ability to modify nucleosomal structure and allow binding of transcription factors such as GAL4 in vitro, it is not yet clear that this is the only or even the major activity of these complexes in vivo. This view (Lewin 1994) is inspired by the observation that the mammalian SWI/SNF complex is over ten times the molecular weight of a nucleosome and has two ATPases and one potential ATPase (Khavari et al. 1993, and this study). Thus, the complex would be well suited to a highly energetic task that might also make use of the extensive surface area provided by a protein complex of 2 MDa. To date, however, the only in vitro assays available are those that use assembled nucleosomal templates. Particularly lacking are assays that could be used to learn the mechanism underlying the way the complex is targeted to its sites of action.
+
+In the course of investigating the events that underlie the rapid changes in chromatin structure following activation of lymphocytes, we found that dominant negative mutations of the BAF57 protein lacking the HMG domain but containing the kinesin domain (Wang et al. 1998) expressed at physiological levels in T lymphocytes of transgenic mice completely block T lymphocyte activation (Chi et al., unpublished data). However, the lymphocytes of these mice proliferate and survive normally. To search for the mechanism underlying this striking effect, we have investigated the behavior of the BAF complex after lymphocyte activation, which we introduce as a useful model system for study of the mechanisms by which extracellular signals induce genome-wide chromatin remodeling.
+
+Results
+The BAF Complex Becomes Stably Associated with the Nuclei of Lymphocytes within 10 Min of Activation
+We reasoned that the rapid chromatin decondensation that occurs after engagement of the antigen receptor in lymphocytes might require the regulated association of one of the known chromatin remodeling complexes with chromatin or nuclei. In resting murine lymphocytes, about 80%–90% of the BAF complex rapidly leaked out of isolated nuclei, indicating that the complex is not tightly associated with the nucleus. However, within 10 min of stimulation with an antibody to the antigen receptor nearly 90% of the BAF complex became tightly associated with the nucleus (Figure 1A and Figure 1B). The association of other proteins with the nucleus was not changed by the stimulation, as revealed by Coomassie blue staining (Figure 1C).
+
+Full-size image (51 K)
+Figure 1. 
+Stimulation of Lymphocytes Results in Rapid Retention of BAF Complexes in Nuclei
+(A) Mouse lymphocytes were stimulated with either ionomycin (I) and PMA (P) or anti-CD3 antibody at 37°C for 20 min. The nuclei were isolated and incubated in nuclear buffer at 30°C for 1 hr. The solubilized proteins were separated from the insoluble by pelleting. Both the supernatant and pellet were resolved by SDS-PAGE and immunoblotted with different antibodies against BAF complex subunits. Since the results were similar for the other subunits, only the BRG1 blot is shown. The bands were quantitated by scanning, and the percentage of the BAF complexes retained in the nucleus is listed below the blots.
+(B) Time course of stimulation. Nuclei prepared from mouse lymphocytes stimulated with I+P for the indicated period of time were incubated at 30°C for 1 hr. The solubilized and retained BAF complexes were analyzed as in (A). Only the BAF53 blot is shown, but each of the BAF subunits becomes associated with the nucleus. The bands were quantitated by scanning, and the percentage of the BAF complexes retained in the nucleus is listed below the blots.
+(C) Coomassie blue staining of the solubilized proteins from the time course of stimulation in (B).
+(D) Same experiment with (B) except blotted against hSNF2L or hISWI.
+(E) Ionomycin or PMA stimulation. Lymphocytes were stimulated with ionomycin or PMA at 37°C for 20 min and analyzed as in (A).
+Figure options
+Eukaryotic cells also contain a number of chromatin remodeling complexes based on hISWI or hSNF2L, a protein similar to SWI2 or SNF2. In contrast to BRG1 and other BAF components, hISWI or hSNF2L remained unassociated with the nucleus during the entire time course of lymphocyte activation (Figure 1D). Thus, lymphocyte activation signals selectively affect BAF complexes.
+
+Lymphocytes require both a Ca2+ signal and a PKC/ras signal for activation. PMA alone, which activates PKC, was unable to induce maximal nuclear association of the BAF complex. Likewise, ionomycin alone, which opens membrane Ca2+ channels, was unable to induce maximal association of the BAF complex with the nucleus of murine lymphocytes. However, the combination of the two was as good as stimulation through the T cell receptor at inducing the association of BAFs with the nucleus (Figure 1E).
+
+Phosphatidyl Inositol 4,5-Bisphosphate (PIP2) Regulates the In Vitro Binding of BAF Complexes to the Nuclear Scaffold/Matrix and Chromatin
+To further define the signals necessary for stable association of the BAF complex with the nucleus we sought to develop an in vitro assay for nuclear association. We found that the BAF complex rapidly leaked out of digitonin-treated nuclei of resting lymphocytes (Figure 2A, lane 1), suggesting that adding back signaling intermediates might mediate nuclear association. Addition of PIP2, one of the major mediators of signaling in lymphocytes, induced nuclear association of BAF complexes (Figure 2A, lanes 2–4). PIP2 is more effective than phosphatidylinositol 4-phosphate (PIP) (compare lanes 2, 3, and 4 with 5, 6, and 7). Thus, the ability of phosphoinositols to control the association of BAFs with the nucleus parallels the activity of these signaling intermediates to regulate actin-binding proteins. The nuclear retention of BAF complexes was also enhanced by PIP2 when nuclear extracts from Jurkat cells were incubated with nuclei of SW-13 cells, which, as will be shown later, have no detectable BRG1 and do not have BAF complexes tightly associated with the nucleus (Figure 2B, top panel). The distribution of hSNF2L complexes was not changed by PIP2 treatment (Figure 2B, bottom panel). Thus, PIP2-dependent targeting was selective for BAF complexes and not related chromatin remodeling complexes based on hSNF2L.
+
+Full-size image (52 K)
+Figure 2. 
+PIP2 Is Sufficient to Enhance Binding of BAF Complexes to Chromatin and Nuclear Matrix
+(A) PIP2 enhances the nuclear retention of BAF complexes in lymphocytes. Nuclei isolated from mouse lymphocytes were incubated in nuclear buffer in the presence of 25, 50, or 100 μM of PIP2 (lanes 2, 3, and 4) or PIP (lanes 4, 5, and 6) or without anything (lane 1). The solubilized proteins were separated from the insoluble and analyzed as in Figure 1A. The bands were quantitated by scanning, and the percentage of the BAF complexes retained in the nucleus is listed below the blots.
+(B) PIP2 enhances nuclear binding of exogenous BAF complexes, but not hSNF2L-containing complexes, to SW-13 cells. Permeabilized SW-13 cells were incubated with Jurkat nuclear extracts at 30°C for 30 min in the presence of varying amounts of PIP2. The nucleus-bound proteins were separated from the soluble proteins and analyzed by Western blotting against BRG1 or hSNF2L.
+(C) PIP2 enhances binding of exogenous BAF complexes to nuclear matrix. Permeabilized SW-13 cells were incubated with Jurkat nuclear extracts at 30°C for 30 min in the absence (lane 1) or presence of 100 μM of PIP2 (lane 2). BAF complexes that bound to SW-13 cell nuclei were analyzed by Western blotting against BRG1. Following incubation of SW-13 cells with Jurkat nuclear extracts, nuclear matrix prepared by DNase I digestion, and high salt extraction was analyzed by Western blotting against BRG1 (lane 3). WC, whole cell; NM, nuclear matrix.
+(D) PIP2 enhances BAF complex binding to chromatin. Permeabilized SW-13 cells were incubated with Jurkat nuclear extracts from a HA-tagged BAF57 cell line at 30°C for 30 min in the absence (lane 1) or presence of 100 μM of PIP2 (lane 2). The cells were cross-linked with formaldehyde and digested with MNase to release chromatin. The chromatin purified by CsCl isopycnic centrifugation was resuspended in 2× Laemmli sample buffer and incubated at 65°C overnight to reverse the cross-linking and analyzed by Western blotting against the HA-tagged BAF57 subunit of BAF complexes.
+Figure options
+We found that about 40% of the BAF immunoreactivity was retained by the nuclear “matrix or scaffold” (Figure 2C, compare lanes 2 and 3), which contains about 5%–10% of the total cellular DNA. To investigate the possibility that the BAF complex bound to chromatin associated with the matrix, the nuclear extracts of Jurkat cells stably transfected with an HA-tagged BAF57 protein (Wang et al. 1998) were incubated with permeabilized SW-13 nuclei. Following HCHO cross-linking, chromatin-bound BAF complexes were then separated from free complexes by CsCl isopycnic centrifugation (Orlando and Paro 1993). HA-tagged BAF57 contributed from the Jurkat nuclei was then detected with antibodies to HA. PIP2 enhanced the binding of BAF complexes to chromatin as detected with HCHO cross-linking (Figure 2D). When only SW-13 nuclei were used for cross-linking, BAF complexes were not found to be chromatin associated as they were in Jurkat cell nuclei (data not shown). We conclude from these results that the BAF complex interacts with chromatin in nuclei and this interaction is enhanced by PIP2.
+
+The 53 kDa Subunit of the BAF Complex Is an Actin-Related Protein
+Because our studies indicated that some component of the BAF complex could respond to PIP2-induced signaling, we purified the complex and determined the amino acid sequence of the remaining uncharacterized 53 kDa and 47 kDa subunits of the mammalian SWI/SNF or BAF complex. Based on the four peptide sequences obtained from the 53 kDa subunit, a cDNA clone encoding 429 amino acids was isolated. BAF53 shows extensive homology with actin and actin-related proteins Act2 and Act3. In addition, after we completed this work, the yeast genome project was completed, revealing two open reading frames in yeast, YPR034w and YMR033w ( Figure 3A), encoding BAF53 homologs. In addition, an open reading frame encoding a BAF53 homolog was found in the C. elegans database ( Figure 3A). Two out of three amino acids (Asp11, Gln137, and Asp154 in actin) involved in tight Ca2+ binding are conserved (Asp17 and Asp171 in BAF53). In contrast with the overall homology to actin, the ATP-binding pocket in actin ( Kabsch et al. 1990) is poorly conserved in BAF53, suggesting that BAF53 may not have ATP binding activity (additional evidence will be presented in Figure 4A). A comparison of the sequences of actin family members ( Figure 3B) reveals that BAF53 is most related to Arp3 involved in Listeria motility ( Theriot et al. 1994).
+
+Full-size image (200 K)
+Figure 3. 
+BAF53 Is an Actin-Related Protein
+(A) The mouse and human BAF53 sequences are aligned with human α-actin, human γ-actin, yeast actin, and actin-related proteins. The sequences obtained from the purified BAF complex are underlined in β-actin. The conserved residues that bind calcium and nucleotide are indicated by arrows.
+(B) Dendrogram of BAF53, ARPs, and actins.
+Figure options
+Full-size image (31 K)
+Figure 4. 
+β-Actin Is a Specific Subunit of BAF Complex
+(A) Azido-[γ-32P]-ATP labels BRG1 and a 48 kDa band. BAF complex was isolated by immunoprecipitation with antibodies against BRG1 as shown by silver staining in lane 1. The complex was then incubated with azido-[γ-32P]-ATP, resolved by SDS-PAGE after irradiation with UV, and blotted onto a nitrocellulose membrane. The 32P-labeled bands were detected by exposure to X-ray film. The same membrane was used for Western analysis to identify the labeled bands. Asterisks indicate bands present without nuclear extracts and BAF complexes.
+(B) The same assay as in (A) with different antibodies. The IgG heavy chain was nonspecifically labeled because it was in 1000-fold excess over the BAF subunits.
+(C) β-actin is associated with BAF complexes in vivo. Nuclear extracts made from DSP-treated (lanes 1 and 2) or nontreated Jurkat cells were denatured with 8 M urea and subjected to immunoprecipitation against BRG1. The precipitates were analyzed by Western blotting against BRG1 and β-actin.
+(D) BAF complex binds to cofilin and profilin beads. Nuclear extracts were incubated with glutathione beads bound by the fusion proteins of cofilin (lane 3), profilin (lane 4), or thymosin β4 (lane 5) with GST or GST alone (lane 2). The beads were washed 3 × 5 min with a buffer containing 0.5 M NaCl. The bound proteins were resolved by SDS-PAGE, blotted to a nitrocellulose membrane, and detected with BRG1 and BAF170 antibodies. Five percent of the input was loaded in lane 1.
+Figure options
+To determine the proportion of total cellular BAF53 in the mammalian complex, we immunoprecipitated the complex with antibodies to several different stoichiometric components of the BAF complex. Antibodies to BRG1 (Figure 4A, lane 1), BAF170, and BAF57 (data not shown) immunoprecipitated most of the nuclear BAF53. Depletion of BAFs from Jurkat nuclear extracts with antibodies to BAF57, BRG1, and BAF150 also depleted BAF53 (data not shown), suggesting most of the nuclear BAF53 is in the complex.
+
+β-Actin Is a Subunit of the BAF Complex
+Sequences derived from the lower band of the 47 kDa doublet (Figure 4A, lane 1) proved to correspond to the previously characterized hSNF5 or Ini protein (18 and 37). Purification of the upper band and determination of six peptide sequences revealed that they were all derived from actin (as shown in Figure 3A): four from the common region of α- and β-actin and two from the unique region of β-actin. Because actin is a frequent contaminant in biochemical purifications, we repeated the purification and sequence determination. Again all of the peptide sequences were derived from actin (data not shown).
+
+To determine whether the actin within the complex could bind and hydrolyze ATP, we used azido-γ-32P-ATP, which can be cross-linked to nearby amino acid residues by UV irradiation. Two bands from the purified BAF complex were labeled with 32P after incubation with N3-γ-32P-ATP, which was dependent on UV irradiation (Figure 4A, lanes 2 and 3). The 200 kDa band reacted with BRG1 antisera, while the lower band comigrated with actin and reacted with antibodies to β-actin. The bands labeled with the asterisk bound to the beads nonspecifically. Notably, BAF53 did not bind azido-γ-32P-ATP (Figure 4).
+
+To rule out the possibility that actin was nonspecifically immunoprecipitated because of its abundance, antibodies to several different BAF components were used for the immunoprecipitation and azido-ATP labeling experiments (Figure 4B). Actin was coimmunoprecipitated by all of the antibodies against subunits of the BAF complex (lanes 1, 2, and 3), but not by antibodies to other nuclear proteins (lanes 4, 5, 6, and 7). To more rigorously examine the presence of β-actin in the BAF complex, we used a cell line stably transfected with HA-tagged BAF57. The HA antibody immunoprecipitated actin only from the nuclear extracts derived from the HA BAF57 cell line but not from its parent cell line (compare lanes 8 and 9 in Figure 4B). Using antibodies to hISWI/hSNF2L, we found no evidence of actin in these complexes (data not shown).
+
+To determine whether actin is associated with the BAF complex in living cells, we treated living Jurkat cells with the membrane-permeable, cleavable cross-linking reagent, DSP. Following denaturation in 8 M urea, we immunoprecipitated with antibodies to BRG1. β-actin was only coimmunoprecipitated from DSP-treated cells, but not from untreated cells (Figure 4C, compare lanes 2 and 4). In contrast similar cross-linking studies using the SW-13 cell line, which does not have actin associated with the complex (see later results), did not reveal actin (data not shown). These results definitively demonstrate that β-actin is associated with the BAF complex in vivo and is directly bound to BRG1, since DSP cross-linking is too inefficient to show interactions mediated by a third protein.
+
+Immobilized BAF complexes did not bind phalloidin (data not shown); hence, the actin within the purified complex is likely to be a monomer. Quantitation using specific antibodies to actin revealed that there is about one actin molecule per BAF complex and that about 3% of the nuclear actin and about 0.03% of total cellular actin is associated with the BAF complex.
+
+The BAF Complex Binds the PIP2-Responsive Actin-Regulatory Proteins, Cofilin, and Profilin
+The many cellular functions of actin are regulated by small actin-binding proteins such as profilin and cofilin that are in turn regulated by PIP2 (10 and 33). If actin were a functional component of the BAF complex, one would predict that it would interact with PIP2-responsive actin-regulatory proteins, such as profilin and cofilin. As shown in Figure 4D, BAF complexes bound to profilin and cofilin, coupled to beads (lanes 3 and 4), but no binding was detected to GST or thymosin β4 beads (lanes 2 and 5). The BAF complex also specifically bound to DNAse I, which binds actin (data not shown). Since profilin and cofilin bind to domains 1 and 3 on the barbed end of actin (29 and 12), these results indicate that these domains would be available for the BAF-associated actin to bind to actin-regulatory molecules.
+
+Association of Actin and BAF53 with the Complex Requires BRG1
+To define the components of the BAF complex that are essential for chromatin association, we made use of the SW-13 cell line. The SW-13 cell line contains no detectable hbrm or BRG1 proteins, but nonetheless contains a BAF-like complex without BRG1 or hbrm (25 and 8). BAF57 antibodies immunoprecipitated a “core complex” from SW-13 nuclear extracts that contains most subunits but not BAF53 or actin. However, BAF53 was present in SW-13 cells at levels comparable to those in other cell types (Figure 5A and Figure 5B), demonstrating that BAF53 and actin are not associated with the core complex in SW-13 cells.
+
+Full-size image (45 K)
+Figure 5. 
+Association of BAF53 and β-Actin with BAF Complex Requires the Presence of BRG1
+(A) The SWI/SNF-like complex in SW-13 cells does not contain BAF53. The SWI/SNF-like complex was isolated by immunoprecipitation from SW-13 or Jurkat nuclear extracts with antibodies against the universal nonpolymorphic subunit, BAF57 (Wang et al. 1998). The immunoprecipitated proteins were analyzed by Western blot with antibodies against different subunits of BAF complex. SW, SW-13 cells; JK, Jurkat cells.
+(B) The SWI/SNF-like complex in SW-13 cells does not contain β-actin. The SWI/SNF-like complex was isolated by immunoprecipitation from SW-13 or Jurkat nuclear extracts with antibodies against BAF57, BAF170, and BRG1. The proteins were labeled and analyzed as described in Figure 4A. BAF57 and BAF170 are shared subunits in the SWI/SNF-like complexes both in SW-13 cells and in Jurkat cells. Similar results were seen with antibodies to β-actin (results not shown).
+(C) Introduction of BRG1 into SW-13 cells assembles the β-actin- and BAF53-containing BAF complex. The different BRG1 constructs were transiently transfected into SW-13 cells by electroporation. Nuclear extracts were made after 48 hr and were immunoprecipitated with HA antibody (12CA5). The immunoprecipitated proteins were analyzed by azido-[γ-32P]-ATP labeling or Western blot. AS-BRG1, antisense BRG1 construct; BRG1520, BRG1 truncation of 150 amino acid from its C terminus; BRG1095, BRG1 truncation of 675 amino acid from its C terminus.
+Figure options
+The above observations suggest that the association of actin and BAF53 with the complex may require the presence of BRG1. To test this possibility, we transfected an HA-tagged BRG1 expression vector into SW-13 cells, then immunoprecipitated with HA antibodies to determine whether BRG1 could mediate the assembly of β-actin and BAF53 into the BAF complex. BAF53 and actin were specifically immunoprecipitated with HA antibodies only with transfection of BRG1 but not antisense BRG1 (compare lanes 1 and 2 of Figure 5C). C-terminal deletion of 150 amino acids from BRG1 severely compromised assembly of the complex (lane 3), while truncation, which removed half of the ATPase domain, abolished complex assembly, leaving some actin still bound to the complex (lane 4). We conclude that BRG1 is required in vivo to support the assembly of actin and BAF53 into the BAF complex.
+
+β-Actin and BAF53 Directly Interact with BRG1 in the BAF Complex
+The observation that BRG1 was required for actin and BAF53 to associate with the BAF complex led us to determine whether these subunits directly interact. After treatment of Jurkat nuclear extracts with 5.5 M urea for 30 min at 25°C, actin but none of the other subunits was coimmunoprecipitated with BRG1 by anti-BRG1 (for silver staining see Figure 6A, lane 1, and for Western blot see Figure 6B). Although two other bands are present on the silver-stained gel (Figure 6A, lane 1), they are substoichiometric and thus unlikely to mediate an interaction between BRG1 and actin. Hence, actin and BRG-1 are likely to directly interact. To test this possibility more carefully, we first briefly treated Jurkat nuclear extracts with DSP and then partially denatured with urea. Under these conditions both actin and BAF53 were found to coimmunoprecipitate with BRG-1 (Figure 6A and Figure 6C). These experiments demonstrate that actin and BAF53 directly interact with BRG1 in the BAF complex in vitro, since the cross-linking was sufficiently inefficient to detect interactions mediated by a third protein.
+
+Full-size image (36 K)
+Figure 6. 
+β-Actin and BAF53 Directly Interact with BRG1 in BAF Complex
+(A) BAFs interact with BRG1 with different affinity. Jurkat nuclear extracts were partially denatured with 5.5 M urea following DSP treatment and subjected to immunoprecipitation against BRG1. The immunoprecipitates were analyzed by SDS-PAGE and silver staining. Note that β-actin resisted 5.5 M urea denaturation, and BAF53 was directly cross-linked to BRG1. Asterisks indicate bands present without nuclear extracts and BAF complexes.
+(B) The Jurkat nuclear extracts were treated with 5.5 M or 8 M urea before immunoprecipitation using BRG1 antibodies. The coprecipitated proteins were analyzed by Western blot with antibodies against different subunits of BAF complex.
+(C) Western blot analysis of immunoprecipitates against BRG1 following DSP and 5.5 M urea treatment. The Jurkat nuclear extracts were treated with DSP before treatment with 5.5 M urea. The immunoprecipitated proteins with BRG1 antibodies were analyzed by Western blot with different antibodies.
+Figure options
+Introduction of BRG1 into BRG1-Deficient Cells Induces Stable Association of BAF53 and Actin with Chromatin/Nuclear Matrix
+Nuclear fractionation experiments revealed that the BAF complex was stably associated with the nuclear matrix in HeLa cells, which has the BRG1-, BAF53-, and β-actin-containing “complete” complex, but not in SW-13 cells that contain a complex lacking BAF53, actin, and BRG1 (Figure 7A). Furthermore the “complete” complex from Jurkat cells binds stably to the nuclei of SW-13 cells in an in vitro assay (Figure 2B), raising the possibility that stable association of the complex with the nucleus required BRG1, BAF53, and β-actin. To test this possibility, we prepared nuclear matrix/chromatin from SW-13 cells transiently transfected with HA-tagged BRG1 and determined whether the complex is retained in the nuclear matrix/chromatin in the absence and presence of BRG1 by double immunostaining. Whole-cell staining demonstrated that BRG1 (red) was detected only in transfected cells, while BAF57 (green), which is in the SW-13 complex, and BAF53 (green), which is not in the SW-13 complex, were detected in the nucleus of every cell (Figure 7B). However, the BAF57 and BAF53 signals were only detected in the nuclear matrix preparations where BRG1 was detected (Figure 7B, panels labeled NM). We conclude that the assembly and stable association of the complex with the nuclear matrix/chromatin requires BRG1, BAF53, and β-actin.
+
+Full-size image (85 K)
+Figure 7. 
+BRG1 and Actin Subunits Are Required for BAF Complex Association with the Nuclear Scaffold or Matrix
+(A) The nuclear scaffold or matrix preparation from HeLa and SW-13 cells was resolved by SDS-PAGE, blotted onto a nitrocellulose membrane, and detected with different antibodies. The intensity of the band with the Lamin B1 antibody is shown to reflect the number of nuclei present in the sample. WC, whole cell; NM, nuclear scaffold or matrix.
+(B) Transfection of BRG-1 into SW-13 cells results in the stable association of β-actin- and BAF53-containing complexes with the nuclear scaffold or matrix. Either whole-cell (WC) or scaffold/nuclear matrice (NM) prepared from SW-13 cells transiently transfected with BRG1 were immunostained and double-labeled with red (BRG1) and green (BAF57 or BAF53).
+Figure options
+The Actin Monomer Sequestering Natural Product, Latrunculin B, Blocks Chromatin-Dependent ATPase Activation of the BAF Complex
+Since actin appears to directly interact with BRG1, we examined whether actin affected the rate of ATP hydrolysis by BRG1 by using latrunculin B (LB), a well-characterized molecule that specifically inhibits the actions of actin by sequestering actin monomers (Coue et al. 1987). Binding of BAF to DNA or chromatin resulted in a substantial increase in the ATPase activity of the complex (Figure 8A, lanes 1, 2, and 3). Addition of 600 μM LB completely blocked the DNA or chromatin-induced increase in ATPase activity of the complex (Figure 8A, lanes 4, 5, and 6) but had only minor effects on the background nonstimulated ATPase activity (Figure 8A, compare lanes 1 and 4). Cytochalasin D, which binds to the barbed ends of actin filaments and prevents filament growth, did not have a significant effect on the stimulated or basal ATPase activity (Figure 8A, lanes 7, 8, and 9). These results are consistent with the observation that actin is likely to be a monomer in the complex. Latrunculin B was not simply inhibiting the ATPase activity of BRG1 because neither the basal level ATPase activity of the BAF complex nor the ATPase activity of the isolated ATPase domain of BRG1 was affected by latrunculin B (Figure 8A, compare lanes 10, 11, and 12). Furthermore, the ATPase activity of complexes based on hSNF2L was not inhibited by latrunculin B (data not shown).
+
+Full-size image (61 K)
+Figure 8. 
+The Actin Subunits Are Required for the ATPase Activity of BRG1
+(A) Latrunculin B inhibited the chromatin-stimulated ATPase activity of the BAF complex. In lanes 1–9, affinity-purified BAF complex (1 μg) was assayed for ATPase activity in the presence (+) or absence (−) of DNA or chromatin (chr) with 600 μM latrunculin B (L.B.) or 200 μM cytochalasin D (C.D.). After 30 min incubation, the products were analyzed by TLC and quantitated by scanning. In lanes 10–12, 1 μg of the BRG1 ATPase domain (aa 735–1443) expressed in Pichia was assayed and analyzed similarly.
+(B) The actin subunit of BAF complex hydrolyzes ATP. Azido-[γ-32P]-ATP was cross-linked to purified BAF complex by UV irradiation as described in Figure 3A and incubated in reaction buffer for the indicated period of time before stopping the reaction by addition of SDS sample buffer. The proteins were resolved by SDS-PAGE, blotted onto membrane, and exposed to X-ray film. The radioactivity in the actin band was quantitated and listed under the figure.
+(C) Western blot of 5 M urea-treated complex. Lanes 1 and 2, intact BAF complex purified with antibodies against BRG1; lanes 3 and 4, immunoprecipitates against BRG1 following 5 M urea treatment of nuclear extracts; lanes 5 and 6, complex purified as in lanes 1 and then washed with 5 M urea for 10 min at room temperature.
+(D) The different immunoprecipitates described in (C) were assayed for ATPase activity in the presence or absence of DNA. The products were analyzed by TLC and quantitated by phosphorimage.
+Figure options
+The BAF complex contains two ATP-binding subunits, actin and BRG1, as shown in Figure 4A. To distinguish between the possibility that latrunculin B directly inhibited the actin ATPase versus the possibility that actin is required to enhance the BRG1 ATPase activity, we measured the ATPase activity of the actin subunit in the complex. This was done by covalently cross-linking N3-γ-32P ATP to its binding site in actin in the pure complex so that the 32P would not be lost unless hydrolyzed. As shown in Figure 8B, the 32P label was gradually lost during incubation, suggesting that the ATP bound to actin was hydrolyzed, most likely by the ATPase activity of actin itself. The rate of release of [32P]Pi was 3 mol/mol.hr at 37°C in the first 10 min of incubation. Since the nucleotide exchange rate was not considered, this estimation of actin ATPase activity in the complex is an upper limit. The overall ATPase activity of the BAF complex was measured according to Laurent et al. 1993 and Cote et al. 1994 and found to be about 350 mol/mol.hr at 37°C. Therefore, the β-actin subunit contributes about 1% of the overall ATPase activity of BAF complex in vitro. Furthermore, the ATPase activity of β-actin was not stimulated by DNA or chromatin (data not shown). These results indicate that Latrunculin B blocks the activated ATPase activity of the BAF complex by interfering with the actions of actin on the ATPase activity of BRG1.
+
+The Actin Subunit Is Required for Optimal ATPase Activity of BRG1
+To provide independent evidence that actin and BAF53 regulate the ATPase activity of BRG1, we purified a subcomplex containing BRG1, BAF53, and β-actin by immunoprecipitation with the BRG1 antibody following treatment of Jurkat nuclear extracts with 5 M urea at 25°C for 10 min (Figure 8C, lanes 3 and 4). For comparison, BRG1 alone was prepared using a 10 min wash of immunopurified intact complex at 25°C with 5 M urea, which dissociated all the subunits including BAF53 and β-actin (Figure 8C, lanes 5 and 6). BAF250 and 60 (Wang et al. 1996b) were also removed as determined by silver staining (data not shown). The BRG1, BAF53, and actin subcomplex retained about 20% of the ATPase activity of the intact complex (Figure 8D, compare lanes 1 and 3). However, when β-actin and BAF53 were removed, the ATPase activity dropped to only 2% (Figure 8D, compare lanes 1 and 5). The ATPase activity of the subcomplex was not due to the ATPase activity of actin, since actin contributes only about 1% of the total ATPase activity of the intact complex (Figure 8B). Furthermore, similar amounts of purified actin did not result in significant ATP hydrolysis under the conditions used to assay SWI/SNF or BAF complex ATPase activity (data not shown). The reduced activity of BRG1 alone as compared to the BRG1, BAF53, and actin subcomplex was not due to urea denaturation, since both were exposed to 5 M urea and this treatment was not sufficient to interfere with the BRG1–antiBRG1 interactions necessary to maintain the complex on beads. The ATPase activity of the BRG1, BAF53, and actin subcomplex was not stimulated by DNA (Figure 8D, lanes 3–6), suggesting that a DNA-binding subunit (such as BAF57) is necessary for contacting DNA and stimulating ATPase activity.
+
+Binding of Actin and BAF53 to BRG1 Requires In Vivo Coassembly
+The ability to prepare isolated BRG1 protein led us to carry out two additional tests to determine whether actin could nonspecificially associate with the BAF complex. In the first we added back the SW-13 nuclear extract containing free BAF53 and β-actin to the isolated BRG1 protein beads (Figure 8C, lanes 5 and 6). We found no evidence of BAF53 or β-actin binding to the BRG1 beads under conditions that readily detected both actin and BAF53 using extracts from a variety of cell types (data not shown). In the second approach we cotranslated these subunits in a rabbit reticulocyte lysate and immunoprecipitated with the J1 anti-BRG-1 antibody. Again no evidence of coimmunoprecipitation was found under conditions where anti-BRG1 antibodies coimmunoprecipitated both actin and BAF53 from cell extracts (data not shown). These results suggest that the tight interaction between BRG1, actin, and BAF53 is established through molecular chaperones in vivo and could not have occurred during preparation of extracts or mixing of nuclear and cytoplasmic components.
+
+Discussion
+β-Actin and the Actin-Related Protein BAF53 Are Subunits of BAF Complexes
+The following lines of evidence support the conclusion that β-actin and the actin-related protein BAF53 are functional subunits of the BAF complex: (1) they specifically coimmunoprecipitate at physiological concentrations with all available antibodies against BAF subunits even under very stringent conditions; (2) they associate with the complex only in the presence of BRG1; (3) they directly interact with BRG1 in the complex by two independent biochemical criteria; (4) actin can be specifically covalently cross-linked to BRG-1 in living cells using bifunctional cross-linking agents that do not detect interactions mediated by a third protein; and (5) they are required for the maximal ATPase activity of BRG1. Additional support for our conclusion that BAF53 is a functional component of the complex comes from the identification of a yeast homolog. After isolation of the mammalian BAF53 cDNA, the yeast genome project revealed two yeast homologs of BAF53 (YPR034W and YMR033W). Peptide sequences of the yeast homologs of BAF53 were identified from the purified yeast SWI/SNF complex by Cairns and Kornberg. Null mutations in this gene have a phenotype similar to the phenotype of mutations in the SWI/SNF genes (B. Cairns and R. Kornberg, unpublished data).
+
+The existence and function of nuclear actin has been in question for a number of years. Our results demonstrate that in excess of 90% of SWI/SNF complexes, but not related chromatin remodeling complexes based on hISWI, have tightly associated β-actin. One role of this actin is to participate with BAF53 and BRG1 in the association of the complex with nuclear matrix/chromatin. A second role is to enhance ATPase activity of BRG1.
+
+A Model for the Regulation of the mSWI/SNF or BAF Complex by Membrane Signaling
+Our studies indicate that signals from the lymphocyte antigen receptor regulate chromatin remodeling by regulating PIP2 levels that in turn control the association of the complex with chromatin or some component of nuclear matrix. A likely role for PIP2 is to control the actions of actin in the BAF complex by regulating the function of a nuclear actin-binding protein.
+
+PIP2 directly regulates actin function by displacing actin-binding proteins from actin (15 and 40). For most actin-binding proteins this would require that domains 1 and 3 of actin be exposed in the BAF complex, which is the case since both profilin and cofilin bind to actin within the complex. The role of actin in targeting the complex is supported by the observation that BRG1, BAF53, and actin are required for association of the BAF complex with the nuclear matrix/chromatin in SW-13 cells, which have a complex that lacks these three subunits. This model requires that PIP2 and PI4-phosphate 5-kinase, which is the enzyme that responds to rho family GTPases and regulates PIP2 synthesis (2 and 11), be present within the nucleus. This is in fact the case, and a large proportion of both PIP2 and PI 4-phosphate-5 kinase are present in the nucleus (7 and 6). Furthermore, the beta-isoenzyme of phospholipase C, which hydrolyzes PIP2, is found on the nuclear scaffold or matrix (Mazzotti et al. 1995). Although changes in PIP2 in response to lymphocyte signaling have not been studied, when Friend cells are induced to differentiate, nuclear PLCβ activity is reduced, accompanied by a significant increase of nuclear PIP2 (Billi et al. 1993). The increase in nuclear PIP2 would be expected to displace actin-binding proteins from actin in the BAF complex. While substantial data support each of these steps, definitive evidence for this model will require purification of the proposed nuclear PIP2-responsive nuclear actin regulatory protein(s) and biochemical add back experiments using purified BAF complexes.
+
+The observation that the mSWI/SNF or BAF complex becomes stably associated with chromatin within 10 min of antigen receptor stimulation strongly indicates that neither protein synthesis nor new gene activation is required for targeting the complexes, since no detectable increase in transcription or protein synthesis is seen before this time (Crabtree 1989). At present little is known of how external stimuli lead to rapid chromatin decondensation. Our findings that BAF complexes are capable of chromatin remodeling in vitro (Wang et al. 1996a), contain actin and actin-related proteins, and are rapidly targeted to chromatin and the nuclear scaffold or matrix by a PIP2-dependent mechanism define a direct interface between chromatin regulation and signal transduction. While actin is a likely candidate to mediate the targeting of BAF complexes to chromatin/nuclear matrix, additional studies will be essential to demonstrate this directly.
+
+Experimental Procedures
+Purification and cDNA Cloning of BAF53
+BAF53 was purified by isolating the BAF complex from calf thymus nuclear extracts by conventional and immunoaffinity chromatography as described previously (Wang et al. 1996a).
+
+The 48 kDa subunit of the BAF complex was originally isolated from rat liver nuclear extract and sequenced by Edman-degradation method. All three tryptic peptide sequences match actin (data not shown). The subunit was also isolated from human KB cells and analyzed by electron spray mass spectrometry.
+
+Nuclear Retention Assay of BAF Complex in Lymphocyte Nuclei
+Lymphocytes (3 × 108) isolated from mouse lymph nodes were stimulated with 1 μM ionomycin and 2 ng/ml PMA at 37°C. The nuclear retention assay was performed as described (Reyes et al. 1997). The released proteins were separated from nuclei by centrifugation, and both the supernatant and pellet were analyzed by SDS-PAGE according to Laemmli 1970 and Western blot. For the phosphotidylinositol phosphate experiments, the nuclei isolated from nonstimulated lymphocytes were incubated in the presence of PIP2 or PIP from homogeneous micelles prepared as previously described (Goldschmidt-Clermont et al. 1990).
+
+Immunoprecipitation of the BAF Complex after In Vivo Cross-Linking
+Jurkat cells (1 × 108) were cross-linked with 0.5 mM dithiobis-succinimidylpropionate (DSP) for 10 min at room temperature, and nuclear extracts were made as described previously (Wang et al. 1996a). The nuclear extract (200 μl) was precipitated with (NH4)2SO4 (final concentration 35%) and denatured by resuspending the pellet in 8 M urea. The denatured nuclear extracts were diluted 10-fold in RIPA buffer (10 mM Tris/Cl [pH 7.4], 1 mM EDTA [pH 7.4], 300 mM NaCl, 1% Triton X-100, 0.1% SDS, 0.1% sodium deoxycholate, 1 mM DTT, 1 mM PMSF) and immunoprecipitated with antibodies to BRG1. The cross-linking was cleaved by boiling the sample in 2× Laemmli sample buffer for 10 min, and proteins were analyzed by SDS-PAGE and Western blot.
+
+Azido-(γ-32P)-ATP Labeling
+The BAF complex beads (10 μl) were incubated with 2 μCi of 8-azidoadenosine 5′-[γ-32P] triphosphate for 3 min at room temperature in 15 μl of buffer containing 20 mM HEPES (pH 7.6), 100 mM KCl, 5 mM MgCl2, 1 μM ZnSO4, 1 mM DTT, and 0.1% Tween 20. The reaction mixture was irradiated for 3 min using a short-wave UV light. The beads were washed immediately twice with 1 ml of the reaction buffer without MgCl2 and ZnSO4. After elution with 2× SDS sample buffer, the labeled proteins were resolved by SDS-PAGE, blotted to nitrocellulose membrane, and exposed to X-ray film. For the actin ATPase assay, the UV cross-linked beads were incubated at 37°C in the reaction buffer for different times before elution and SDS-PAGE analysis.
+
+ATPase Assay
+The intact BAF complex was purified by immunoprecipitation with affinity-purified BRG1 antibodies after diluting Jurkat nuclear extracts 10× in RIPA buffer. For purification of the BRG1-actin-BAF53-containing subcomplex, the Jurkat nuclear extracts were adjusted to 5 M urea and incubated for 10 min 25°C. The partially denatured nuclear extracts were diluted 10× in RIPA buffer and immunoprecipitated with BRG1 antibodies. To dissociate β-actin, BAF53, and other BAF subunits from BRG1, the immunopurified intact BAF complex beads were washed with RIPA buffer containing 5 M urea 2 × 5 min at 25°C. All the immunoprecipitations were done at 4°C for 4 hr, and the immunoprecipitates were washed for 4 × 10 min each in RIPA buffer.
+
+The ATPase domain of BRG1 was expressed and purified with the Invitrogen EasySelect Pichia expression kit, as a His-tag fusion protein.
+
+The ATPase activity of the BAF complex was measured according to published procedures (Laurent et al. 1993). The released Pi from ATP hydrolysis by the BAF complex was determined as described (Cote et al. 1994).
+
+Transient Transfection
+SW-13 cells were maintained and transfected as described previously (Wang et al. 1996a).
+
+Nuclear Scaffold or Matrix Preparation and Immunostaining
+The nuclear scaffold or matrix was prepared and immunostained according to van Steensel et al. 1995.
+
+Acknowledgements
+We thank Dr. R. Tjian and Sharleen Zhou for support for this project. We are grateful to Drs. J. Henri Bayle and Emmanuel Kas for their critical reading of the manuscript. K. Z. was supported by a Fellowship from the Cancer Research Fund of Damon Runyon-Walter Winchell Fundation, DRG-1408. W. W. was previously supported by the same fundation and Howard Hughes Medical Institute and is currently supported by intramural grants to National Institute on Aging. This work was supported by a grant from the Howard Hughes Medical Institute and a grant from National Institutes of Health to G. R. C.
+
+References
+1
+A.M Billi, L Cocco, A.M Martelli, R.S Gilmour, G Weber
+Tiazofurin-induced changes in inositol lipid cycle in nuclei of Friend erythroleukemia cells
+Biochem. Biophys. Res. Commun., 195 (1993), pp. 8–12
+
+Article |  PDF (228 K) | View Record in Scopus | Citing articles (18)
+2
+L.D Chong, A Traynor-Kaplan, G.M Bokoch, M.A Schwartz
+The small GTP-binding protein Rho regulates a phosphatidylinositol 4-phosphate 5-kinase in mammalian cells
+Cell, 79 (1994), pp. 507–513
+
+Article |  PDF (1199 K) | View Record in Scopus | Citing articles (534)
+3
+J Cote, J Quinn, J.L Workman, C.L Peterson
+Stimulation of GAL4 derivative binding to nucleosomal DNA by the yeast SWI/SNF complex
+Science, 265 (1994), pp. 53–60
+
+View Record in Scopus | Citing articles (574)
+4
+M Coue, S.L Brenner, I Spector, E.D Korn
+Inhibition of actin polymerization by latrunculin A
+FEBS Lett., 213 (1987), pp. 316–318
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (426)
+5
+G.R Crabtree
+Contingent genetic regulatory events in T lymphocyte activation
+Science, 243 (1989), pp. 255–261
+
+6
+N Divecha, R.F Irvine
+Phospholipid signaling
+Cell, 80 (1995), pp. 269–278
+
+Article |  PDF (1850 K) | View Record in Scopus | Citing articles (500)
+7
+N Divecha, H Banfic, R.F Irvine
+Inositides and the nucleus and inositides in the nucleus
+Cell, 74 (1993), pp. 405–407
+
+Article |  PDF (279 K) | View Record in Scopus | Citing articles (163)
+8
+J.L Dunaief, B.E Strober, S Guha, P.A Khavari, K Alin, J Luban, M Begemann, G.R Crabtree, S.P Goff
+The retinoblastoma protein and BRG1 form a complex and cooperate to induce cell cycle arrest
+Cell, 79 (1994), pp. 119–130
+
+Article |  PDF (2617 K) | View Record in Scopus | Citing articles (448)
+9
+L.K Elfring, R Deuring, C.M McCallum, C.L Peterson, J.W Tamkun
+Identification and characterization of Drosophila relatives of the yeast transcriptional activator SNF2/SWI2
+Mol. Cell Biol., 14 (1994), pp. 2225–2234
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (129)
+10
+P.J Goldschmidt-Clermont, L.M Machesky, J.J Baldassare, T.D Pollard
+The actin-binding protein profilin binds to PIP2 and inhibits its hydrolysis by phospholipase C
+Science, 247 (1990), pp. 1575–1578
+
+View Record in Scopus | Citing articles (199)
+11
+J.H Hartwig, G.M Bokoch, C.L Carpenter, P.A Janmey, L.A Taylor, A Toker, T.P Stossel
+Thrombin receptor ligation and activated Rac uncap actin filament barbed ends through phosphoinositide synthesis in permeabilized human platelets
+Cell, 82 (1995), pp. 643–653
+
+Article |  PDF (2155 K) | View Record in Scopus | Citing articles (548)
+12
+H Hatanaka, K Ogura, K Moriyama, S Ichikawa, I Yahara, F Inagaki
+Tertiary structure of destrin and structural similarity between two actin-regulating protein families
+Cell, 85 (1996), pp. 1047–1055
+
+Article |  PDF (4107 K) | View Record in Scopus | Citing articles (107)
+13
+J.N Hirschhorn, S.A Brown, C.D Clark, F Winston
+Evidence that SNF2/SWI2 and SNF5 activate transcription in yeast by altering chromatin structure
+Genes Dev., 6 (1992), pp. 2288–2298
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (305)
+14
+T Ito, M Bulger, M Pazin, R Kobayashi, J.T Kadonaga
+ACF, an ISWI-containing and ATP-utilizing chromatin assembly and remodeling factor
+Cell, 90 (1997), pp. 145–155
+
+Article |  PDF (369 K) | View Record in Scopus | Citing articles (408)
+15
+P.A Janmey, T.P Stossel
+Modulation of gelsolin function by phosphatidylinositol 4,5-bisphosphate
+Nature, 325 (1987), pp. 362–364
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (287)
+16
+W Kabsch, H.G Mannherz, D Suck, E.F Pai, K.C Holmes
+Atomic structure of the actin:DNase I complex
+Nature, 347 (1990), pp. 37–44
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (932)
+17
+J.T Kadonaga
+Eukaryotic transcription: an interlaced network of transcription factors and chromatin-modifying machines
+Cell, 92 (1998), pp. 307–313
+
+Article |  PDF (78 K) | View Record in Scopus | Citing articles (425)
+18
+G.V Kalpana, S Marmon, W Wang, G.R Crabtree, S.P Goff
+Binding and stimulation of HIV-1 integrase by a human homologue of yeast transcription factor SNF5
+Science, 266 (1994), pp. 2002–2006
+
+View Record in Scopus | Citing articles (368)
+19
+P.A Khavari, C.L Peterson, J.W Tamkun, D.B Mendel, G.R Crabtree
+BRG1 contains a conserved domain of the SWI2/SNF2 family necessary for normal mitotic growth and transcription
+Nature, 366 (1993), pp. 170–174
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (387)
+20
+R.E Kingston, C.A Bunker, A.N Imbalzano
+Repression and activation by multiprotein complexes that alter chromatin structure
+Genes Dev., 10 (1996), pp. 905–920
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (382)
+21
+U.K Laemmli
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4
+Nature, 227 (1970), pp. 680–685
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (104228)
+22
+B.C Laurent, I Treich, M Carlson
+The yeast SNF2/SWI2 protein has DNA-stimulated ATPase activity required for transcriptional activation
+Genes Dev., 7 (1993), pp. 583–591
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (175)
+23
+B Lewin
+Chromatin and gene expression: constant questions, but changing answers
+Cell, 79 (1994), pp. 397–406
+
+Article |  PDF (2301 K) | View Record in Scopus | Citing articles (98)
+24
+G Mazzotti, N Zini, E Rizzi, R Rizzoli, A Galanzi, A Ognibene, S Santi, A Matteucci, A.M Martelli, N.M Maraldi
+Immunocytochemical detection of phosphatidylinositol 4,5-bisphosphate localization sites within the nucleus
+J. Histochem. Cytochem., 43 (1995), pp. 181–191
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (71)
+25
+C Muchardt, M Yaniv
+A human homologue of Saccharomyces cerevisiae SNF2/SWI2 and Drosophila brm genes potentiates transcriptional activation by the glucocorticoid receptor
+EMBO J., 12 (1993), pp. 4279–4290
+
+View Record in Scopus | Citing articles (414)
+26
+L Neigeborn, M Carlson
+Genes affecting the regulation of SUC2 gene expression by glucose repression in Saccharomyces cerevisiae
+Genetics, 108 (1984), pp. 845–858
+
+View Record in Scopus | Citing articles (190)
+27
+V Orlando, R Paro
+Mapping Polycomb-repressed domains in the bithorax complex using in vivo formaldehyde cross-linked chromatin
+Cell, 75 (1993), pp. 1187–1198
+
+Article |  PDF (3611 K) | View Record in Scopus | Citing articles (235)
+28
+J.C Reyes, C Muchardt, M Yaniv
+Components of the human SWI/SNF complex are enriched in active chromatin and are associated with the nuclear matrix
+J. Cell Biol., 137 (1997), pp. 263–274
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (173)
+29
+C.E Schutt, J.C Myslik, M.D Rozycki, N.C Goonesekere, U Lindberg
+The structure of crystalline profilin-beta-actin
+Nature, 365 (1993), pp. 810–816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (430)
+30
+U Siebenlist, D.B Durand, P Bressler, N.J Holbrook, C.A Norris, M Kamoun, J.A Kant, G.R Crabtree
+Promoter region of the IL-2 gene undergoes chromatin structure changes and confers inducibility on chloramphenicol acetyltransferase gene during activation of T cells
+Mol. Cell Biol., 6 (1986), pp. 3042–3049
+
+View Record in Scopus | Citing articles (70)
+31
+M Stern, R Jensen, I Herskowitz
+Five SWI genes are required for expression of the HO gene in yeast
+J. Mol. Biol, 178 (1984), pp. 853–868
+
+Article |  PDF (2513 K) | View Record in Scopus | Citing articles (161)
+32
+J.W Tamkun, R Deuring, M.P Scott, M Kissinger, A.M Pattatucci, T.C Kaufman, J.A Kennison
+brahma: a regulator of Drosophila homeotic genes structurally related to the yeast transcriptional activator SNF2/SWI2
+Cell, 68 (1992), pp. 561–572
+
+Article |  PDF (2808 K) | View Record in Scopus | Citing articles (474)
+33
+J.A Theriot, J Rosenblatt, D.A Portnoy, P.J Goldschmidt-Clermont, T.J Mitchison
+Involvement of profilin in the actin-based motility of L. monocytogenes in cells and in cell-free extracts
+Cell, 76 (1994), pp. 505–517
+
+Article |  PDF (9859 K) | View Record in Scopus | Citing articles (187)
+34
+T Tsukiyama, C Wu
+Purification and properties of an ATP-dependent nucleosome remodeling factor
+Cell, 83 (1995), pp. 1011–1020
+
+Article |  PDF (3343 K) | View Record in Scopus | Citing articles (423)
+35
+B van Steensel, G Jenster, K Damm, A.O Brinkmann, R van Driel
+Domains of the human androgen receptor and glucocorticoid receptor involved in binding to the nuclear matrix
+J. Cell Biochem., 57 (1995), pp. 465–478
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+36
+P.D Varga-Weisz, M Wilm, E Bonte, K Dumas, M Mann, P.B Becker
+Chromatin-remodeling factor CHRAC contains the ATPases ISWI and topoisomerase II
+Nature, 388 (1997), pp. 598–602
+
+View Record in Scopus | Citing articles (360)
+37
+W Wang, J Cote, Y Xue, S Zhou, P.A Khavari, S.R Biggar, C Muchardt, G.V Kalpana, S.P Goff, M Yaniv, J.L Workman, G.R Crabtree
+Purification and biochemical heterogeneity of the mammalan SWI-SNF complex
+EMBO J., 15 (1996), pp. 5370–5382 a
+
+View Record in Scopus | Citing articles (482)
+38
+W Wang, Y Xue, S Zhou, A Kuo, B Cairns, G.R Crabtree
+Diversity and specialization of mammalian SWI/SNF complexes
+Genes Dev., 10 (1996), pp. 2117–2130 b
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (402)
+39
+W Wang, T Chi, Y Xue, S Zhou, A Kuo, G.R Crabtree
+Architectural DNA binding by a high-mobility-group/kinesin-like subunit in mammalian SWI/SNF-related complexes
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 492–498
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (107)
+40
+F.X Yu, P.A Johnston, T.C Sudhof, H.L Yin
+gCap39, a calcium ion and polyphosphoinositide-regulated actin capping protein
+Science, 250 (1990), pp. 1413–1415
+
+View Record in Scopus | Citing articles (107)
+Further reading
+The GenBank numbers for the sequences reported in this paper are AF041474 (for human BAF53a) and AF041476 (for mouse BAF53a).
+
+Corresponding author contact information
+Correspondence: Gerald R. Crabtree, 650 723 8391 (phone), 650 723 5158 (fax)
+‡
+To whom correspondence should be addressed (e-mail: hf.grc@forsythe.stanford.edu).
+§
+These authors contributed equally to this work.
+∣∣
+Present address: Laboratory of Genetics, National Institute on Aging, National Institute of Health, Gerontology Research Center, 5600 Nathan Shock Drive, Baltimore, Maryland 21224.
+Copyright © 1998 Cell Press. All rights reserved.

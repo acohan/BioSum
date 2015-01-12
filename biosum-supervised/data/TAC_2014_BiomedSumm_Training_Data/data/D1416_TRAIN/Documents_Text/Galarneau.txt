@@ -1,0 +1,461 @@
+Multiple Links between the NuA4 Histone Acetyltransferase Complex and Epigenetic Control of Transcription
+Luc Galarneau1, 4, Amine Nourani1, 4, Alexandre A Boudreault1, Yan Zhang2, 3, Laurent Héliot1, 2, Stéphane Allard1, Julie Savard1, William S Lane3, David J Stillman2, Jacques Côté1, 1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S1097-2765(00)80258-0
+Under an Elsevier user license
+  Open Archive
+Abstract
+NuA4 is an essential histone H4/H2A acetyltransferase complex that interacts with activators and stimulates transcription in vitro. We have identified three novel NuA4 subunits: Act3/Arp4, an actin-related protein implicated in epigenetic control of transcription, Act1, and Epl1, a protein homologous to Drosophila Enhancer of Polycomb. Act3/Arp4 binds nucleosomes in vitro and is required for NuA4 integrity in vivo. Mutations in ACT3 and acetyltransferase-encoding ESA1 cause gene-specific transcription defects. Accordingly, NuA4 is localized in precise loci within the nucleus and does not overlap with the silent chromatin marker Sir3. These data along with the known epigenetic roles of Act3/Arp4 and homologs of Epl1 and Esa1 strongly support an essential role for chromatin structure modification by NuA4 in transcription regulation in vivo.
+
+Introduction
+Nucleosomes suppress basal transcription initiation, an effect that is reinforced or alleviated by chromatin modifying activities. Sequence-specific activator or repressor proteins determine which activities will be recruited to the regulatory regions of a gene (Struhl 1999). These chromatin modifying activities are often multimeric protein complexes that modify histones and/or alter nucleosomal structure. These complexes can be separated in two general classes. The first class uses the energy of ATP hydrolysis to remodel nucleosome structure, acting on the histone–DNA contacts within chromatin. This group of factors includes the SWI/SNF-related complexes (Workman and Kingston 1998).
+
+The second class of chromatin modifying complexes targets the core histone amino-termini and alters the number of acetyl groups linked to specific lysine residues. Hyperacetylation or hypoacetylation of histone tails is correlated with transcriptional activation or repression, respectively (Grunstein 1997). Many protein complexes harboring histone acetyltransferase (HAT) or histone deacetylase (HDAC) activities have been identified and linked to transcription control (44 and 52).
+
+Native nucleosomal HAT complexes have been identified in Saccharomyces cerevisiae ( Grant et al. 1997). The transcriptional coactivator-adaptor protein Gcn5 is part of the 1.8 MDa SAGA complex and the 0.8 MDa Ada complex ( 13 and 10). The 1.3 MDa NuA4 (nu cleosomal a cetyltransferase of H 4) complex is an 11-subunit complex that modifies primarily histone H4 in chromatin (and H2A to a lesser extent), producing a fully tetraacetylated isoform of H4 ( Allard et al. 1999). NuA4 can be recruited in vitro by transcriptional activators and stimulates transcription on chromatin templates in an acetyl-CoA- and chromatin-dependent manner ( 43, 48, 23 and 50). We recently showed that Esa1 is the catalytic subunit of NuA4 and is required for in vitro transcription activation by the complex ( Allard et al. 1999). The ESA1 gene product, unlike other yeast HATs, is essential for cell viability, and temperature-sensitive mutant cells accumulate at the G2/M border at the nonpermissive temperature ( 40 and 7). Esa1 is a member of the MYST family of proteins ( Borrow et al. 1996) and is more closely related to human Tip60, a protein shown to acetylate free histones with similar specificity, and implicated as a transcriptional coactivator ( 53 and 5). Esa1 is also closely related to Drosophila MOF, the acetyltransferase subunit of the dosage compensation (MSL) complex that is necessary for X chromosome hypertranscription and histone H4 acetylation in males ( 21 and 41). As for Gcn5 in SAGA and Ada, the presence of Esa1 in the native NuA4 complex potentiates its activity on nucleosomal histones, suggesting that other subunits might help to access chromatin substrate ( Allard et al. 1999). We have also previously identified the ATM/PI-3 kinase-related protein Tra1 as a subunit of NuA4. Tra1 is essential for cell viability, and its human homolog is required for c-Myc and E2F-mediated cell transformation ( McMahon et al. 1998).
+
+In this report, we identify three novel subunits of the purified NuA4 complex, each of which is also essential for cell viability. Act3/Arp4 is a nuclear actin-related protein that was previously shown to be involved in epigenetic control of transcription (Jiang and Stillman 1996). Using temperature-sensitive mutants, we show that this protein is required for NuA4 integrity in the cell and that both esa1 and act3 mutant cells present common gene-specific transcription defects. Act3/Arp4 is also able to interact with histones and form a ternary complex with nucleosomes in vitro, suggesting that it might help the complex to access chromatin. Cellular actin, Act1, a protein recently found in mammalian SWI/SNF ( Zhao et al. 1998), is also a component of the NuA4 complex. The p105 component of NuA4 was identified as Epl1, a protein homologous to Enhancer of Polycomb, E(Pc), a modifier of position effect variegation (PEV) in Drosophila ( 39 and 42). Finally, immunofluorescence and confocal microscopy analysis demonstrates that NuA4 is precisely localized throughout the nuclear volume but does not overlap with silent chromatin regions. Together, these facts strongly support an essential role for the NuA4 complex in the regulation of gene expression in vivo and the importance of its action on chromatin structure for epigenetic control of transcription.
+
+Results
+Actin and an Actin-Related Protein Are Stable Subunits of the NuA4 Complex
+NuA4 was previously purified to homogeneity from yeast extracts using a combination of conventional and immunoaffinity chromatographic steps (Allard et al. 1999). Of its 11 subunits, only 2 have been identified, the histone acetyltransferase Esa1 and the ATM-related cofactor Tra1. To determine the identity of additional NuA4 subunits, we scaled up the purification protocol, and the immunopurified complex is shown in Figure 1A. Three bands, previously named p105, p58, and p44 based on their size, were digested with trypsin and analyzed by microcapillary reverse-phase HPLC nanoelectrospray tandem mass spectrometry.
+
+Full-size image (389 K)
+Figure 1. 
+Identification of Act3/Arp4 and Act1 as Subunits of the NuA4 Complex
+(A) Silver-stained gel of purified NuA4. CY396 strain protein extract was purified using Ni2+-NTA agarose, Mono Q, and Superose 6 columns followed by immunoprecipitation with anti-Esa1. Specific bands are indicated by their respective name or molecular weight. Ion trap tandem mass spectrometry of peptides from p105, p58, and p44 bands identified them as Epl1, Act3/Arp4, and Act1, respectively. Asterisks mark nonspecific bands also present in protein-A control fraction (not shown). Molecular weight standards are indicated.
+(B and C) Amino acid sequence of Act3/Arp4 and Act1. Sequences obtained by the mass spectrometry analysis are shown in bold.
+Figure options
+All 17 peptides obtained from p58 correspond to sequences from the ACT3/ARP4 gene product and cover 34% of protein (see Figure 1B, amino acids in bold). The gene is essential for cell viability and encodes a 489 amino acid protein of predicted molecular mass of 54.8 kDa ( Harata et al. 1994). Act3/Arp4 is member of the actin-related protein family (Arps, ctin-elated rotein [ Poch and Winsor 1997]) and is localized in the nucleus ( 51 and 24; and see Figure 7). Like many proteins involved in transcription regulation and modulation of chromatin structure (SPT genes), act3 nonlethal mutations can suppress the transcriptional defect caused by the insertion of a δ element in the HIS4 promoter (his4-12δ) ( Jiang and Stillman 1996). Interestingly, those act3 mutations cause variegated suppression of the δ element–inactivated HIS4 gene, meaning that cells with the identical genotype display distinct phenotype. The reversibility and heritability of the phenotypic states are dependent on the transcriptional states of the promoter, showing that Act3 is involved in epigenetic control of transcription. Most models link variegated expression of genes with the state of chromatin structure present on them, for example, position effect variegation (PEV) and telomere position effect (TPE) ( 16 and 49). Interestingly, two other yeast actin-related proteins, Arp7 and Arp9, have been shown to be part of the SWI/SNF and RSC chromatin remodeling complexes ( 6 and 33).
+
+Full-size image (96 K)
+Figure 7. 
+Immunolocalization of the NuA4 Complex
+(A) NuA4 is localized in precise loci within the nucleus. Spheroblasts from a diploid strain (ACT3/ACT3-HA) were first incubated with anti-Esa1 (green) and anti-HA (Act3/Arp4, red). DNA staining of the same cells by DAPI is also shown (bar, 2.5 μm).
+(B) NuA4 and the silent chromatin marker Sir3 show mutually exclusive distributions in the nucleus. Superimposed images obtained with anti-Esa1 (red), with anti-Sir3 (green), and after DAPI staining (blue) are presented (bar, 2.5 μm).
+Figure options
+The 15 peptides obtained from p44 correspond to sequences from the ACT1 gene product, which is cellular actin ( Figure 1C). The peptides cover 54% of the 375 amino acid protein, which has a predicted molecular mass of 41.7 kDa. β-actin has been shown to be a subunit of mammalian SWI/SNF and could be required for its regulation and targeting to chromatin ( Zhao et al. 1998). Interestingly, the human SWI/SNF complex also contains the actin-related protein, BAF53, which is similarly required for remodeling activity and targeting to chromatin. The Wu and Nakatani labs have also recently found both actin and actin-related proteins in other chromatin modifying complexes, yeast and human, respectively (Shen et al., submitted; Ikura et al., submitted).
+
+To demonstrate the stable association of Act3/Arp4 and Act1 with NuA4, we confirmed coelution of these proteins by Western blotting with NuA4 HAT activity over Mono Q ion exchange and Superose 6 gel filtration columns (Figure 2A and Figure 2B). Both proteins strictly coelute with the nucleosomal histone H4/H2A-specific activity and with known NuA4 subunits, Esa1 and Tra1. The Mono Q column separates the four previously identified native nucleosomal HATs, and, as expected, Tra1 was also detected in the SAGA complex (Grant et al. 1998). NuA4 was efficiently depleted from the Superose fraction using antibodies against Esa1 and Act3/Arp4 but not with preimmune serum (Figure 2C, compare lanes 5–7 to lane 1). The HAT activity is also specifically recovered on the beads (lanes 2–4). Act3 antibodies also specifically recognize the p58 band in the anti-Esa1-purified NuA4 complex (Figure 2D). Using a HA-tagged version of Act3/Arp4, we compared the subunit composition of immunopurified complexes using Esa1 or HA antibodies (Figure 2E). Both complexes contain the same specific protein bands, including Act1. Thus, Act3/Arp4 and Act1 are true stable subunits of the NuA4 HAT complex.
+
+Full-size image (140 K)
+Figure 2. 
+Act3/Arp4 and Act1 Coelute and Are Stably Associated with NuA4 Components and Histone H4/H2A Acetyltransferase Activity
+(A) A nickel-agarose bound fraction from CY396 yeast strain protein extract was fractionated on Mono Q to separate indicated HAT complexes. Fractions were tested for nucleosomal HAT activity and probed in Western blots.
+(B) NuA4 peak fractions from the Mono Q were pooled and loaded on a Superose 6 gel filtration column. Western blots showed Tra1, Act3/Arp4, Esa1, and Act1 coelution with the 1.3 MDa NuA4 HAT activity (fractions 19–23).
+(C) Immunoprecipitation of NuA4 activity with anti-Act3. Superose 6 peak NuA4 fraction was incubated with preimmune serum, anti-Act3, or anti-Esa1 beads, and equivalent amounts of input, supernatant, and beads were used in nucleosomal HAT assays.
+(D) Esa1 and Act3/Arp4 are coimmunoprecipitated by anti-Esa1. Equivalent amounts of input material, preimmune, and anti-Esa1 beads as in (C) were probed with anti-Esa1 or anti-Act3 by Western blotting.
+(E) Identical NuA4 components are precipitated by antibodies against Esa1 or Act3/Arp4. The Superose 6 peak fraction of NuA4 complex from a HA-Act3-expressing strain was immunoprecipitated with anti-Esa1/protein A-Sepharose or with anti-HA/protein G-Sepharose. Silver staining of immunopurified complexes is shown. Specific NuA4 bands are indicated. Nonspecific bands present in the controls are indicated by asterisks.
+Figure options
+Act3/Arp4 Is Required for NuA4 Integrity In Vivo
+We next determined the role of Act3/Arp4 in NuA4 structure and HAT activity. Since the ACT3 gene is essential for growth in yeast ( Harata et al. 1994), we used strains with conditional act3 mutations to look for any effect on the NuA4 complex. The act3-3 mutant carries a single C-to-Y substitution at position 155 and shows a growth defect at 37°C ( Jiang and Stillman 1996). The act3-12 mutation, a single G-to-S substitution at position 455, abolishes growth at 37°C. Both mutations are predicted to be at the surface of the protein based on the transposed actin 3-D structure. Protein extracts from wild-type and mutant strains were prepared, purified over nickel-agarose and Mono Q columns, and the fractions were analyzed for nucleosome and free histone HAT activity and the presence of Esa1, Tra1, and Act3/Arp4 ( Figure 3). When cells were grown at the permissive temperature, NuA4 H4-specific HAT activity was detected on both nucleosomal and free substrates and coeluted with its three subunits (top panels of Figures 3A, 3B, 3C). Activities were comparable when corrected for the amount of Esa1, the catalytic HAT subunit (data not shown). The ratio of HAT activity on nucleosomes versus free histones was not apparently affected by the act3 mutations. On the other hand, using Ada and NuA3 HAT activities as standardization controls, the act3-3 mutant strain grown at room temperature contains less NuA4 complex than the two others ( Figure 3C, top panel). Interestingly, this specific mutant strain has a pronounced slow growth phenotype at room temperature compared to the act3-12 mutant strain (data not shown). When cultures were shifted to the nonpermissive temperature for 4 hr, the wild-type strain gave similar results to those obtained at room temperature, while both act3 mutant strains completely lost their H4-specific HAT activity ( Figures 3A, 3B, 3C, lower panels). Importantly, both Ada and NuA3 HAT activities were unaffected, being useful internal controls. The Western data show that the loss of NuA4 activity is in fact due to the disappearance of the complex from these fractions. Direct fractionation of the extracts by gel filtration confirmed that NuA4 activity was lost in the mutant cells at the restrictive temperature (data not shown). This clearly demonstrates the essential role of the subunit Act3/Arp4 for the NuA4 complex activity in vivo.
+
+Full-size image (164 K)
+Figure 3. 
+Mutations in ACT3/ARP4 Disrupt the NuA4 Complex
+Mono Q fractionation of wild-type (A), act3-12 (B), and act3-3 (C) protein extracts (nickel eluate) prepared from cells grown at room temperature or after a 4 hr heat shock at 37°C when indicated. Fractions were assayed for HAT activity on nucleosomes or free histones, and in Western blots. At room temperature, the NuA4 complex is fully active in the act3-12 strain, while its HAT activity is significantly lower in the act3-3 strain when compared to wild type. In both mutant strains, a complete loss of NuA4 activity and subunits is observed after growth at 37°C, while the wild type is not affected.
+Figure options
+Act3/Arp4 Can Bind Histones and Nucleosomal Core Particles
+Act3/Arp4 is the closest yeast homolog of the mammalian actin-related protein BAF53 (Harata et al. 1999a). BAF53 and β-actin subunits have been implicated in mammalian SWI/SNF-regulated binding to the chromatin/nuclear matrix (Zhao et al. 1998). Harata and colleagues have shown that Act3 possesses an insertion of 83 amino acids that is not present in other yeast Arps, and that this region is able to interact with histones by far-Western and two-hybrid analysis (Harata et al. 1999b). They also found partial cofractionation of histone H2A with Act3 from yeast extracts. Interestingly, increased dosage of ACT3 suppresses the cold-sensitive phenotype caused by a mutant histone H2A ( 22 and 34). Finally, in agreement with a role in reconfiguration or maintenance of chromatin structure, episomal DNA molecules in act3-3 mutant cells seem to have an altered chromatin structure ( Harata et al. 1999b).
+
+Esa1 alone is not able to efficiently acetylate histones in the context of chromatin, suggesting that certain subunit(s) in the native NuA4 complex are required to target its HAT activity to nucleosomal histone substrates (Allard et al. 1999). Its protein characteristics make Act3/Arp4 a likely candidate for this role in NuA4. Using GST–histone tail fusion proteins, we detected a direct stable interaction between Act3 and a mixture of all four core histones covalently linked to agarose beads (Figure 4A, lane 8). Act3 also stably bound histone H3, H4, and H2A N termini, but not histone H2B or the GST control (lanes 3–6 versus 1 and 2). Interestingly, substituting the four conserved lysine residues for glutamine in the H4 tail completely eliminates the interaction with Act3/Arp4 (compare lanes 6 and 7). These four lysine residues can all be acetylated by NuA4 within a nucleosome (1 and 31). We then investigated the ability of Act3 to interact with nucleosomal core particles using nucleosome-reconstituted 5S RNA gene probes in a mobility shift assay (Côté et al. 1998) (Figure 4B). When Act3 was incubated with free DNA (subjected to mock reconstitution, lanes 4–6) or nucleosomes (lanes 1–3), a slower migrating band was detected only in the presence of nucleosomes, indicating the formation of a stable ternary complex between the protein and nucleosome cores. Esa1 was unable to form a ternary complex with nucleosomes (lane 3). The use of hyperacetylated histones in the reconstitution had no apparent effect on Act3 binding (data not shown). This result was surprising, as models for regulation by HATs via targeting proteins would have the protein complex only bind to underacetylated nucleosomes. Perhaps the H4 molecules must by fully tetra-acetylated to prevent Act3 binding, or Act3 binding may also occur through other domains in the nucleosome core particle. Nevertheless, these results indicate that Act3/Arp4 is able to interact with nucleosomes, and that this could be an essential chromatin-interacting domain for the NuA4 complex, providing substrate access to Esa1 HAT activity. A mixture of Act3 and Esa1 alone is not sufficient to enable nucleosomal HAT activity, arguing that other subunits in NuA4 are required to bridge the two proteins or to provide full chromatin modifying capability (data not shown).
+
+Full-size image (82 K)
+Figure 4. 
+Binding of Act3/Arp4 to Nucleosomes
+(A) Pulldown assays showing stable interaction between rAct3 and histone tails. rAct3 was incubated with GST-histone tail beads. After washes, equivalent amounts of input, flowthrough, and bound fractions were probed by Western blot. Binding was observed with mixed core histones, H2A, H3, and H4 tails (lanes 3, 5, 6, and 8) but not with GST alone, the H2B tail, or the mutant H4 tail (lanes 2, 4, and 7).
+(B) Mobility shift assay of rAct3 binding to mononucleosomes. A 5S nucleosome-positioning sequence was reconstituted into mononucleosome core particles and incubated with equivalent amounts of recombinant Act3 or Esa1 (lanes 1–3). A ternary complex was detected between rAct3 and nucleosomes (lane 1), but not with the mock reconstituted DNA (lane 4) or the samples containing rEsa1 (lanes 2 and 5).
+Figure options
+Specific Genes Require Both Act3/Arp4 and Esa1 for Normal Expression
+It was shown previously that the act3 mutation affects expression of not only his4-912δ and his4δ-ADE2 alleles but also wild-type HIS4 and LYS2 genes ( Jiang and Stillman 1996). Since Act3/Arp4 is present with Esa1 in the NuA4 complex, we determined whether an esa1 ts mutation (esa1Δ414; Clarke et al. 1999) would create similar transcriptional defects. Total RNA was prepared from wild-type and mutant exponentially growing cells placed at the nonpermissive temperature for varied lengths of time. Northern analysis was then performed to evaluate the expression of several unrelated genes in rich media ( Figure 5). Indirect effects due to accumulation at a specific cell cycle position are unlikely since both ts mutant strains used in this study show normal distribution at room temperature and require at least 4 hr at 37°C before cell cycle arrest is detected (FACS analysis, data not shown). As expected, act3-26 mutant cells showed strong defects in HIS4 and LYS2 gene expression (lanes 6–9), while wild-type cells demonstrated no effect at 37°C (compare lanes 1 and 2). However, in esa1 mutant cells there was a significant decrease in HIS4 and LYS2 mRNA levels, which was apparent after only 1 hr at 37°C (lanes 3–5). Interestingly, both esa1 and act3 mutants also showed a strong defect in basal expression of PHO5, a gene highly regulated through specific chromatin structure over its promoter ( Svaren and Horz 1997). On the other hand, levels of CYC1, HIS3, and ACT1 mRNA were not significantly affected by the mutations. These findings firmly link the NuA4 complex to transcription regulation of specific genes in vivo. Importantly, it is noted that PHO84 gene expression is affected by mutations in act3 but not esa1 ( Figure 5; mRNA decrease in esa1 cells is only due to the heat shock; see wild-type control). A possible explanation is that less than 5% of nuclear Act3/Arp4 is associated with the NuA4 complex (data not shown). In agreement with our data, Carl Wu's lab has found Act3/Arp4, actin, and other Arps in the yeast Ari1 complex, a chromatin remodeling complex harboring ATPase activity and implicated in transcription (Shen et al., submitted). Additionally, act3 and esa1 mutant cells placed at the nonpermissive temperature have different cell cycle phenotypes in that act3 cells accumulate in the S phase while esa1 cells arrest in G2/M (data not shown; Clarke et al. 1999). Thus, while the HIS4, LYS2, and PHO5 genes clearly require NuA4, PHO84 expression may depend on Ari1 or another Act3-containing complex that lacks Esa1.
+
+Full-size image (89 K)
+Figure 5. 
+NuA4 Regulates Gene-Specific Transcription In Vivo
+Mutations in ACT3 and ESA1 affect transcription of specific genes. ESA1, esa1-Δ414 ts mutant, ACT3, act3-3, and act3-26 ts mutant strains were grown in YPD at room temperature to an OD600 of 1.0 and were then shifted or not to restrictive temperature (37°C) for the time indicated. Total RNA was extracted, and a Northern blot was performed using DNA probes specific for the genes indicated on the left.
+Figure options
+Results from chromatin immunoprecipitations (ChIPs) using affinity-purified anti-Esa1 antibodies suggest direct involvement of NuA4 at the HIS4 promoter in vivo. Bound and unbound DNA fractions were analyzed by Southern hybridization using HIS3 and HIS4 promoter probes successively. Strikingly, anti-Esa1 pelleted significant levels of HIS4 promoter sequences while most of HIS3 promoter remained in the supernatant (data not shown). Preliminary genetic data also suggest that mutation of ESA1 can provoke variegated expression of the his4δ-ADE2 allele, as in the case of ACT3/ARP4 (data not shown) ( Jiang and Stillman 1996). These data support a specific and direct regulatory role of the NuA4 complex at the HIS4 promoter, but not at HIS3, in agreement with the Northern analysis.
+
+The EPL1 Gene Product Is Also Part of NuA4 and Essential for Viability
+Thirty-three unique peptides were obtained by mass spectrometry analysis from the NuA4 p105 subunit. All of these peptides correspond to sequences from the EPL1 gene product, covering 46% of protein ( Figure 6A, amino acids in bold). The gene encodes an 832 amino acid protein that has a predicted molecular mass of 96.7 kDa ( Stankunas et al. 1998). The gene product has no known function, but the fact that it has an N-terminal 325 amino acid domain that is 26% identical and 46% similar to a domain in Drosophila Enhancer of Polycomb, E(Pc), led to the yeast gene being named EPL1 for nhancer of olycomb-ike protein ( Figure 6A, amino acids in italics). Epl1 contains alanine and glutamine repeats, which are also present in E(Pc) and its mammalian homologs ( Stankunas et al. 1998). To confirm stable association with the NuA4 complex, Epl1 was produced in yeast as a HA-tagged version on an episomal vector. Western analysis on Superose 6 fractions confirmed Epl1 coelution with the NuA4 subunits Esa1 and Act3/Arp4 ( Figure 6B). Furthermore, immunopurification of NuA4 using Esa1 or HA-Act3 as baits gave equivalent recovery of the Epl1 band, clearly showing that it is a stable subunit of the complex ( Figure 2E). The EPL1 gene was disrupted in order to determine whether the gene is essential for viability. The gene was disrupted in diploid strains as described in Experimental Procedures, and its requirement for cell growth was examined by tetrad analysis ( Figure 6C). Four representative tetrads are shown, each producing only two viable spores (lanes 1–4). Microscopy analysis indicated that the spores carrying the disrupted gene stopped dividing at the 4-cell stage (data not shown). The growth defect was suppressed by episomal expression of the wild-type gene (lane 5). As for the other identified NuA4 subunits, the EPL1 gene product is essential for growth in yeast, underscoring again the functional importance of the complex in the cell.
+
+Full-size image (273 K)
+Figure 6. 
+Epl1 Is a Component of the NuA4 Complex and Is Essential for Cell Viability
+(A) Amino acid sequence of Epl1. Peptide sequences obtained by MS/MS analysis are in bold. The region homologous to Drosophila E(Pc) domain A (EPcA; Stankunas et al. 1998) is shown in italics.
+(B) Coelution of Epl1 with NuA4. HA-Epl1 was expressed in S. cerevisiae after transformation with pBFG1-Epl1 plasmid. Yeast protein extract was prepared and sequentially fractionated over Ni2+-agarose, Mono Q, and Superose 6 columns. Aliquots from the Superose 6 fractions were probed with anti-HA, anti-Esa1, and anti-Act3 serums to show perfect coelution of the HA-Epl1 with NuA4 subunits.
+(C) Deletion of the EPL1 gene is lethal, and epl1 null mutants are rescued by expression of wild-type EPL1. The BMA41 diploid strain was disrupted in one EPL1 allele and submitted to sporulation and tetrad dissection. In each case, only two spores were viable after tetrad dissection (lanes 1–4). Episomal expression of EPL1 in an epl1Δ/EPL1 clone can complement the growth defect since all spores are viable (lane 5).
+Figure options
+The EPL1 homolog in Drosophila, E(Pc), has striking features that suggest a fundamental role in the regulation of chromatin structure and gene expression (see Discussion), which fits well with our finding of its yeast counterpart in the NuA4 HAT complex.
+
+NuA4 Is Precisely Localized in the Nucleus and Does Not Overlap with Silent Chromatin
+The Epl1 homolog E(Pc) binds to about 100 sites on polytene chromosomes (Stankunas et al. 1998). This limited number of binding sites suggested that a yeast Epl1-containing complex, NuA4, might also be highly localized within the nucleus. To answer that question, we determined NuA4 localization in yeast diploid cells by immunofluorescence using standard and confocal microscopy. The use of affinity-purified Esa1 antibodies reflects NuA4 localization since all detectable cellular Esa1 is found associated with the complex in exponentially growing cells (Allard et al. 1999). Figure 7 shows representative results. Different methods of cell fixation were tested, all giving similar Esa1 staining (data not shown). Interestingly, a very precise and structured nuclear staining was obtained with Esa1 antibodies (Figure 7A). Confocal analysis also showed that these very discrete nuclear dot signals were found dispersed throughout the nuclear volume. In a striking comparison, in the same cells, HA-Act3/Arp4 is also nuclear, but its signal is much more diffuse, filling the nucleus completely. This agrees with the observation that more than 95% of cellular Act3/Arp4 is not associated with NuA4 and present in at least one other protein complex (data not shown; Shen et al., submitted). We then wanted to determine the physical relationship between the Esa1/NuA4 intranuclear localization and yeast transcriptionally silent chromatin. We used an antibody against the N-terminal of Sir3, a protein involved in silencing and an excellent marker of telomeric heterochromatin. Figure 7B shows a representative superimposed image of Esa1 (red), Sir3 (green), and DNA (blue) staining. As reported in the literature (Gotta et al. 1996, and references therein), Sir3 antibodies clearly stained telomeres clustered together in multiple foci at the nuclear periphery (confirmed by confocal analysis). Colocalization analysis determined that less than 5% of Esa1/NuA4 signals were in the vicinity of Sir3. The nonoverlapping localizations of Esa1 and Sir3 support the proposal that histone H4 acetylation would have a destabilizing effect on the SIR complex binding, thus disabling “heterochromatinization” (20 and 16). In conclusion, the NuA4 acetyltransferase binds to a limited number of chromatin sites, and its action at these specific loci is required for cell cycle progression.
+
+Discussion
+We have identified three novel subunits of the essential NuA4 HAT complex, Act3/Arp4, Act1, and Epl1. Like the previously identified subunits Esa1 and Tra1, these proteins are all required for yeast cell viability, again highlighting the unique role of NuA4 as the only known essential HAT complex in yeast. Our data, in addition to the genetic characteristics of ACT3/ARP4, ACT1, and EPL1, clearly tie chromatin structure modulation by NuA4 to the control of transcription in vivo.
+
+Binding of NuA4 to Chromatin
+Our immunofluorescence data demonstrates very precise intranuclear localization of NuA4 (Figure 7), implying that the complex is bound to a limited number of sites on chromatin. The finding of actin and the actin-related protein Act3/Arp4 as subunits of NuA4 is novel, and our data argues for their involvement in chromatin binding. Actin-related proteins have been found in other chromatin remodeling complexes, suggesting a central related role. Arp7 and Arp9 are subunits shared by the yeast SWI/SNF and RSC complexes (6 and 33). Multiple Arps including Arp4 and actin are also subunits of the yeast Ari1 complex (Shen et al., submitted). In addition, Arp4-related BAF53 and β-actin are components of the human SWI/SNF complex and could play a role in its signal-regulated binding to the chromatin/nuclear matrix (Zhao et al. 1998). Consistent with an important role for Act3/Arp4 in chromatin function, it was shown that increased dosage of ACT3/ARP4 suppresses the cold-sensitive phenotype caused by a mutant histone H2A ( Pinto and Winston 2000). Interestingly, Harata and colleagues have recently demonstrated that a specific domain of Act3/Arp4 can interact with core histones and that episomal DNA molecules have a different topology in act3 mutant cells ( Harata et al. 1999b). Our data extend the physical link between histones and Act3/Arp4, demonstrating that Act3/Arp4 and nucleosomes can form a ternary complex in solution ( Figure 4). Furthermore, we demonstrate that Act3/Arp4 can interact through the N-terminal domains of histones H3, H4, and H2A. Since Esa1 can only acetylate nucleosomal histones as part of the NuA4 complex, we propose that the Act3/Arp4 subunit functions by promoting the binding of NuA4 to chromatin.
+
+NuA4 and Epigenetic Control of Transcription
+The results presented here establish multiple links between the NuA4 complex and the epigenetic control of transcription. Histone modification through acetylation can be a key player in the establishment of distinct heritable states from the same genetic sequence (Lewin 1998, and references therein). ACT3 has been implicated in a specific form of epigenetic control of gene expression ( Jiang and Stillman 1996). Genotypically identical act3 mutant cells show variegated expression of a δ element–inactivated HIS4 gene promoter. This heritable but also reversible variegated expression of a gene is different from classical position effect variegation (PEV) and telomere position effect (TPE) because the phenotype is decided by the choice of transcription start sites from the natural HIS4 site or from the δ element. The fact that Epl1 was found to be an integral member of NuA4 further supports a role for the complex in epigenetic control of transcription. The EPL1 Drosophila homolog, E(Pc), is a member of the Polycomb group (PcG) of proteins, which are required for epigenetic silencing of homeotic loci during development, possibly through regulatory mechanisms involving chromatin ( Stankunas et al. 1998). Furthermore, mutations in E(Pc) strongly suppress Drosophila PEV, which is thought to occur through spreading of repressive heterochromatin over adjacent genes ( Sinclair et al. 1998). Since E(Pc) mutations by themselves do not result in homeotic transformation (they are enhancers of mutations in certain PcG genes) and chromatin binding sites for E(Pc) have limited overlap with other PcG proteins, it has been suggested that this protein has an indirect effect on PEV and repression by PcG proteins, probably by regulating genes required for heterochromatin formation ( Stankunas et al. 1998). It has also been suggested that E(Pc) might physically interact or modify the chromodomains of certain PcG proteins ( Kennison 1995). Interestingly, NuA4 contains two subunits harboring chromodomains, Esa1 and p47 (A. Eisen, S. A., A. N., P. Schmidt, J. S., W. S. L., J. C. Lucchesi, and J. C., unpublished data; Hilfiker et al. 1997). Finally, the NuA4 subunit Esa1 is homologous to Drosophila MOF, the HAT subunit of the dosage compensation complex (MSL) that is required for histone H4 acetylation and hypertranscription of the X chromosome in males ( 21 and 41). Taken together, these data strongly support a role for the NuA4 complex in epigenetic control of transcription through chromatin modification.
+
+Role of NuA4 in Transcriptional Activation
+A number of reports have established that the purified NuA4 complex activates transcription from chromatin templates in vitro (43, 48, 23 and 50). We now present in vivo data supporting a role in gene-specific transcription regulation. Normal expression of HIS4, LYS2, and PHO5 genes requires a functional NuA4 complex ( Figure 5). NuA4 can interact with Gcn4 activation domain in vitro, an interaction that could account for its recruitment to the HIS4 promoter ( Utley et al. 1998). On the other hand, this interaction would not be functionally sufficient since Gcn4 is also involved in the NuA4-independent HIS3 transcription. Further studies are needed to determine the mechanism by which NuA4 affects expression of these genes and the possible interplay with other chromatin modifying activities such as the SAGA complex. It is possible that NuA4 creates a large acetylated H4-containing chromatin domain, while SAGA modifies histone H3 at the promoter region ( Kuo et al. 1998). A human complex homologous to NuA4 has been recently purified by the Nakatani lab (Ikura et al., submitted). It contains close homologs of all the NuA4 subunits identified so far. The human HAT subunit is Tip60, a protein implicated as a transcriptional coactivator of HIV and nuclear hormone receptors ( 53 and 5).
+
+In conclusion, chromatin structure modification by the NuA4 complex is important for the cell, as mutations in NuA4 components affect cell cycle progression, reduce transcription of specific genes, and cause epigenetic effects on gene expression. Identification and characterization of the remaining subunits, along with screens for conditional mutants, suppressor genes, and target promoters/transcription activators, will allow in-depth studies of the functional link between NuA4's role in transcription and its requirement for cell cycle progression.
+
+Experimental Procedures
+Strains and Reagents
+The S. cerevisiae strains CY396 and BMA41 have been described ( 2 and 32). BY4741 was obtained from Research Genetics. Strains LPY3317 (ESA1), LPY3123 (esa1-Δ414), DY3460 (ACT3:URA3), DY3558 (HA-ACT3), DY1880 (ACT3), and DY3335 (act3-3) were described ( 24 and 7). Temperature-sensitive alleles of ACT3 were obtained using the plasmid shuffle method ( Sikorski and Boeke 1991) in DY3677 (act3::TRP1 ade2 can1 his3 leu2 trp1 ura3). Two clones were obtained, the act3-ts12 allele and the act3-ts26 allele (G455S and G187R amino acid substitutions, respectively), and were used to replace the native ACT3 allele of DY3460, yielding strains DY4519 and DY4285. The EPL1 ORF was cloned in pBFG1 ( Nourani et al. 1997) for HA-Epl1 expression in BY4741. PCR-mediated EPL1 deletion using TRP1 marker followed by sporulation and tetrad dissection was according to standard protocols. For strain rescuing, HA-EPL1 was expressed from pFL36 ( Bonneaud et al. 1991). His-tagged recombinant Esa1 and Act3 were produced by cloning into pET15b (Novagen) and purified following standard procedure. Bacterial strains expressing GST N-terminal histone tail fusion proteins have been described ( Hecht et al. 1995). Anti-Tra1 and affinity-purified anti-Esa1 sera have been described ( 14 and 1). Anti-Act3 was produced against a region unique to Act3 (amino acids 269–387). Anti-Sir3(N), anti-actin(I), anti-AcH4, anti-HA, and anti-penta-His antibodies were purchased from Santa-Cruz, Upstate, Babco, and Qiagen. HeLa H1-depleted oligonucleosomes and free core histones were purified as described ( Côté et al. 1995). Due to space restrictions, full details on strains and plasmid constructions are available upon request.
+
+NuA4 Purification, Immunoprecipitations, and Peptide Sequencing
+Partial purification of the NuA4 complex by fractionation over Ni2+-NTA agarose (Qiagen), Mono Q HR 5/5, and Superose 6 HR 10/30 columns (Pharmacia) and histone acetyltransferase assay on oligonucleosomes have been described (Allard et al. 1999). For the Act3 mutant analysis, protein extract was prepared from 4 liter cultures grown at room temperature or at 37°C. Immunoprecipitation of the NuA4 complex was performed on the peak Superose 6 fraction as described (Allard et al. 1999). NuA4 105, 58, and 44 kDa SDS-PAGE excised bands were subjected to in-gel reduction, carboxyamidomethylation, and tryptic digestion (Promega). Ion trap mass spectrometry and peptide sequencing were performed as described (Sun et al. 1999).
+
+Pulldown and Mobility Shift Assays
+For pulldown assays, 100 ng of the recombinant proteins were precleared before incubation with GST–histone tail fusion peptides, or histone-agarose beads (Sigma). Binding was carried out essentially as described (Utley et al. 1998) in 100 mM NaCl, and equivalent amounts of initial, bound, or free fractions were resolved on a 10% SDS-PAGE. Mononucleosome reconstitution of the 5S RNA gene probe for the mobility shift assays was described (Côté et al. 1998). Recombinant Act3 or Esa1 (25 ng) was allowed to bind to 12.5 ng of total nucleosomes (containing reconstituted or naked DNA probe) in the binding buffer for 2 hr at 4°C, and the complexes were resolved on a 4% PAGE/0.5× TBE gel.
+
+Northern Blot Analysis and Chromatin Immunoprecipitations
+Total yeast RNA was isolated by hot phenol method (Schmitt et al. 1990). RNA (15–20 μg) was separated by electrophoresis on a formaldehyde-agarose gel, blotted, and UV-cross-linked to a nylon membrane (Amersham). Hybridization was performed in 0.5 M phosphate buffer (pH 6.8), 7% SDS, and 1% BSA. Probes used were ORFs from HIS4, PHO5, PHO84, CYC1, HIS3, and ACT1 obtained by PCR and the 1.15 Kb NcoI-BglII fragment from the LYS2 ORF. Chromatin immunoprecipitation and slot blot were performed as described ( Kuo and Allis 1999). Culture equivalent (2.5 ml) was used with αEsa1 or αAcH4. The same blotted DNA fractions were probed with labeled promoter-specific fragments from HIS3 (−269 to −2) and HIS4 (−351 to −34).
+
+Immunolocalization
+Preparation of spheroblasts from yeast diploid cells (cross between DY3558 and W303α, ACT3-HA/ACT3) and immunolocalization were performed as described ( 36 and 12). Incubation with affinity-purified αEsa1 (1/100 dilution), αHA (1/200), and αSir3 (1/100) were done for 1 hr at 37°C or 8 hr at 4°C. Secondary antibody incubation was carried out for 1 hr with αGoat-alexa488, αMouse-alexa568 or αRabbit-alexa568 (Molecular Probes) at 10 ng/μl. The DNA was stained with DAPI (60 nM). Preparations were observed under an epifluorescence microscope (Nikon eclipse 600). The 3-D studies were performed with 0.2 μm–thick sections produced by Confocal Laser Scanning Microscopy (Bio-Rad 1024).
+
+Acknowledgements
+We are grateful to A. Clarke and L. Pillus for ESA1 and esa1-Δ414 ts strains; to U. Wintersberger, Y. Nakatani, F. Winston, and C. Wu for sharing results before publication; to M. Grunstein for bacterial strains expressing GST-histone tails; and to J. Workman for anti-Tra1, constant support, and encouragement. We also wish to thank R. Hancock for supporting L. H. during the course of this work; N. Marcoux, D. Pallota, and Y. Bourbonnais for their help in yeast tetrad analysis; K. Pierce for expert microcapillary HPLC/mass spectrometry; H. Brock and K. Stankunas for insights on EPL1; and R. Utley for critical reading of the manuscript. This work was supported by grants from the Medical Research Council of Canada (MRC) to J.C., and National Institutes of Health to D. J. S. A. N. is an MRC postdoctoral fellow and A. A. B. is a Natural Sciences and Engineering Research Council (NSERC) graduate student. J. C. is an MRC scholar.
+
+References
+1
+S Allard, R.T Utley, J Savard, A Clarke, P Grant, C.J Brandl, L Pillus, J.L Workman, J Côté
+NuA4, an essential transcription adaptor/histone H4 acetyltransferase complex containing Esa1p and the ATM-related cofactor Tra1p
+EMBO J, 18 (1999), pp. 5108–5119
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+2
+A Baudin, O Ozier-Kalogeropoulos, A Denouel, F Lacroute, C Cullin
+A simple and efficient method for direct gene deletion in Saccharomyces cerevisiae
+Nucleic Acids Res., 21 (1993), pp. 3329–3330
+
+View Record in Scopus | Citing articles (903)
+3
+N Bonneaud, O Ozier-Kalogeropoulos, G.Y Li, M Labouesse, L Minvielle-Sebastia, F Lacroute
+A family of low and high copy replicative, integrative and single-stranded S. cerevisiae/E. coli shuttle vectors
+Yeast, 7 (1991), pp. 609–615
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (379)
+4
+J Borrow, V.P Stanton, J.M Andresen, R Becher, F.G Behm, R.S.K Chaganti, C.I Civin, C Disteche, I Dubé, A.M Frischauf et al.
+The translocation t(8;16)(p11;p13) of acute myeloid leukaemia fuses a putative acetyltransferase to the CREB-binding protein
+Nature Genet., 14 (1996), pp. 33–41
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (468)
+5
+M.E Brady, D.M Ozanne, L Gaughan, I Waite, S Cook, D.E Neal, C.N Robson
+Tip60 is a nuclear hormone receptor coactivator
+J. Biol. Chem., 274 (1999), pp. 17599–17604
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (163)
+6
+B.R Cairns, H Erdjument-Bromage, P Tempst, F Winston, R.D Kornberg
+Two actin-related proteins are shared functional components of the chromatin-remodeling complexes RSC and SWI/SNF
+Mol. Cell, 2 (1998), pp. 639–651
+
+Article |  PDF (522 K) | View Record in Scopus | Citing articles (141)
+7
+A.S Clarke, J.E Lowell, S.J Jacobson, L Pillus
+Esa1p is an essential histone acetyltransferase required for cell cycle progression
+Mol. Cell. Biol., 19 (1999), pp. 2515–2526
+
+View Record in Scopus | Citing articles (221)
+8
+J Côté, R.T Utley, J.L Workman
+Basic analysis of transcription factor binding to nucleosomes
+Methods Mol. Genet., 6 (1995), pp. 108–128
+
+Article |  PDF (2235 K) | View Record in Scopus | Citing articles (70)
+9
+J Côté, C.L Peterson, J.L Workman
+Perturbation of nucleosome core structure by the SWI/SNF complex persists following its detachment, enhancing subsequent transcription factor binding
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 4947–4952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+10
+A Eberharter, D.E Sterner, D Schieltz, A Hassan, J.R Yates III, S.L Berger, J.L Workman
+The ADA complex is a distinct histone acetyltransferase complex in Saccharomyces cerevisiae
+Mol. Cell. Biol., 19 (1999), pp. 6621–6631
+
+View Record in Scopus | Citing articles (105)
+11
+M Gotta, T Laroche, A Formenton, L Maillet, H Scherthan, S.M Gasser
+The clustering of telomeres and colocalization with Rap1, Sir3, and Sir4 proteins in wild-type Saccharomyces cerevisiae
+J. Cell Biol., 134 (1996), pp. 1349–1363
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (308)
+12
+M Gotta, T Laroche, S.M Gasser
+Analysis of nuclear organization in Saccharomyces cerevisiae
+Methods Enzymol., 304 (1999), pp. 663–672
+
+Article |  PDF (524 K) | View Record in Scopus | Citing articles (18)
+13
+P.A Grant, L Duggan, J Côté, S.M Roberts, J.E Brownell, R Candau, R Ohba, T Owen-Hughes, C.D Allis, F Winston, S.L Berger, J.L Workman
+Yeast Gcn5 functions in two multisubunit complexes to acetylate nucleosomal histones: characterization of an Ada complex and the SAGA (Spt/Ada) complex
+Genes Dev., 11 (1997), pp. 1640–1650
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (641)
+14
+P.A Grant, D Schieltz, M.G Pray-Grant, J.R Yates III, J.L Workman
+The ATM-related cofactor Tra1 is a component of the purified SAGA complex
+Mol. Cell, 2 (1998), pp. 863–867
+
+Article |  PDF (152 K) | View Record in Scopus | Citing articles (130)
+15
+M Grunstein
+Histone acetylation in chromatin structure and transcription
+Nature, 389 (1997), pp. 349–352
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1651)
+16
+M Grunstein
+Yeast heterochromatin: regulation of its assembly and inheritance by histones
+Cell, 93 (1998), pp. 325–328
+
+Article |  PDF (916 K) | View Record in Scopus | Citing articles (225)
+17
+M Harata, A Karwan, U Wintersberger
+An essential gene of Saccharomyces cerevisiae coding for an actin-related protein
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 8258–8262
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+18
+M Harata, R Mochizuki, S Mizuno
+Two isoforms of a human actin-related protein show nuclear localization and mutually selective expression between brain and other tissues
+Biosci. Biotechnol. Biochem., 63 (1999), pp. 917–923 a
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+19
+M Harata, Y Oma, S Mizuno, Y.W Jiang, D.J Stillman, U Wintersberger
+The nuclear actin-related protein of Saccharomyces cerevisiae, Act3p/Arp4, interacts with core histones
+Mol. Biol. Cell, 10 (1999), pp. 2595–2605 b
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (88)
+20
+A Hecht, T Laroche, S Strahl-Bolsinger, S.M Gasser, M Grunstein
+Histone H3 and H4 N-termini interact with SIR3 and SIR4 proteins: a molecular model for the formation of heterochromatin in yeast
+Cell, 80 (1995), pp. 583–592
+
+Article |  PDF (1091 K) | View Record in Scopus | Citing articles (587)
+21
+A Hilfiker, D Hilfiker-Kleiner, A Pannuti, J.C Lucchesi
+mof, a putative acetyl transferase gene related to the Tip60 and MOZ human genes and to the SAS genes of yeast, is required for dosage compensation in Drosophila
+EMBO J., 16 (1997), pp. 2054–2060
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (290)
+22
+J.N Hirschhorn, A.L Bortvin, S.L Ricupero-Hovasse, F Winston
+A new class of histone H2A mutations in Saccharomyces cerevisiae causes specific transcriptional defects in vivo
+Mol. Cell. Biol., 15 (1995), pp. 1999–2009
+
+View Record in Scopus | Citing articles (88)
+23
+K Ikeda, D.J Steger, A Eberharter, J.L Workman
+Activation domain-specific and general transcription stimulation by native histone acetyltransferase complexes
+Mol. Cell. Biol., 19 (1999), pp. 855–863
+
+View Record in Scopus | Citing articles (128)
+24
+Y.W Jiang, D.J Stillman
+Epigenetic effects on yeast transcription caused by mutations in an actin-related protein present in the nucleus
+Genes Dev., 10 (1996), pp. 604–619
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+25
+J.A Kennison
+The Polycomb and trithorax group proteins of Drosophila: trans-regulators of homeotic gene function
+Annu. Rev. Genet., 29 (1995), pp. 289–303
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (283)
+26
+M.H Kuo, C.D Allis
+In vivo cross-linking and immunoprecipitation for studying dynamic protein:DNA associations in a chromatin environment
+Methods, 19 (1999), pp. 425–433
+
+Article |  PDF (166 K) | View Record in Scopus | Citing articles (385)
+27
+M.H Kuo, J Zhou, P Jambeck, M.E Churchill, C.D Allis
+Histone acetyltransferase activity of yeast Gcn5p is required for the activation of target genes in vivo
+Genes Dev., 12 (1998), pp. 627–639
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (351)
+28
+B Lewin
+The mystique of epigenetics
+Cell, 93 (1998), pp. 301–303
+
+Article |  PDF (31 K) | View Record in Scopus | Citing articles (45)
+29
+S.B McMahon, H.A Van Buskirk, K.A Dugan, T.D Copeland, M.D Cole
+The novel ATM-related protein TRRAP is an essential cofactor for the c-myc and E2F oncoproteins
+Cell, 94 (1998), pp. 363–374
+
+Article |  PDF (496 K) | View Record in Scopus | Citing articles (371)
+30
+A Nourani, M Wesolowski-Louvel, T Delaveau, C Jacq, A Delahodde
+Multiple-drug-resistance phenomenon in the yeast Saccharomyces cerevisiae: involvement of two hexose transporters
+Mol. Cell. Biol., 17 (1997), pp. 5453–5460
+
+View Record in Scopus | Citing articles (74)
+31
+R Ohba, D.J Steger, J.E Brownell, C.A Mizzen, R.G Cook, J Côté, J.L Workman, C.D Allis
+A novel H2A/H4 nucleosomal histone acetyltransferase in Tetrahymena thermophila
+Mol. Cell. Biol., 19 (1999), pp. 2061–2068
+
+32
+C.L Peterson, A Dingwall, M.P Scott
+Five SWI/SNF gene products are components of a large multisubunit complex required for transcriptional enhancement
+Proc. Natl. Acad. Sci. USA., 91 (1994), pp. 2905–2908
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (244)
+33
+C.L Peterson, Y Zhao, B.T Chait
+Subunits of the yeast SWI/SNF complex are members of the actin-related protein (ARP) family
+J. Biol. Chem., 273 (1998), pp. 23641–23644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+34
+I Pinto, F Winston
+Histone H2A is required for normal centromere function in Saccharomyces cerevisiae
+EMBO J., 19 (2000), pp. 1598–1612
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+35
+O Poch, B Winsor
+Who's who among the Saccharomyces cerevisiae actin-related proteins? A classification and nomenclature proposal for a large family
+Yeast, 13 (1997), pp. 1053–1058
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+36
+J.R Pringle, A.E Adams, D.G Drubin, B.K Haarer
+Immunofluorescence methods for yeast
+Methods Enzymol., 194 (1991), pp. 565–602
+
+Article |  PDF (2373 K) | View Record in Scopus | Citing articles (478)
+37
+M.E Schmitt, T.A Brown, B.L Trumpower
+A rapid and simple method for preparation of RNA from Saccharomyces cerevisiae
+Nucleic Acids Res., 18 (1990), pp. 3091–3092
+
+View Record in Scopus | Citing articles (812)
+38
+R.S Sikorski, J.D Boeke
+In vitro mutagenesis and plasmid shuffling: from cloned gene to mutant yeast
+Methods Enzymol., 194 (1991), pp. 302–318
+
+Article |  PDF (998 K) | View Record in Scopus | Citing articles (365)
+39
+D.A Sinclair, N.J Clegg, J Antonchuk, T.A Milne, K Stankunas, C Ruse, T.A Grigliatti, J.A Kassis, H.W Brock
+Enhancer of Polycomb is a suppressor of position-effect variegation in Drosophila melanogaster
+Genetics, 148 (1998), pp. 211–220
+
+View Record in Scopus | Citing articles (44)
+40
+E.R Smith, A Eisen, W Gu, M Sattah, A Pannuti, J Zhou, R.G Cook, J.C Lucchesi, C.D Allis
+ESA1 is a histone acetyltransferase that is essential for growth in yeast
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 3561–3565
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (205)
+41
+E.R Smith, A Pannuti, W Gu, A Steurnagel, R.G Cook, C.D Allis, J.C Lucchesi
+The Drosophila MSL complex acetylates histone H4 at lysine 16, a chromatin modification linked to dosage compensation
+Mol. Cell. Biol., 20 (2000), pp. 312–318
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (186)
+42
+K Stankunas, J Berger, C Ruse, D.A Sinclair, F Randazzo, H.W Brock
+The enhancer of polycomb gene of Drosophila encodes a chromatin protein conserved in yeast and mammals
+Development, 125 (1998), pp. 4055–4066
+
+View Record in Scopus | Citing articles (52)
+43
+D.J Steger, A Eberharter, S John, P.A Grant, J.L Workman
+Purified histone acetyltransferase complexes stimulate HIV-1 transcription from preassembled nucleosomal arrays
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 12924–12929
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (101)
+44
+K Struhl
+Histone acetylation and transcriptional regulatory mechanisms
+Genes Dev., 12 (1998), pp. 599–606
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1177)
+45
+K Struhl
+Fundamentally different logic of gene regulation in eukaryotes and prokaryotes
+Cell, 98 (1999), pp. 1–4
+
+Article |  PDF (153 K) | View Record in Scopus | Citing articles (278)
+46
+Y Sun, X Liu, E.N Eaton, W.S Lane, H.F Lodish, R.A Weinberg
+Interaction of the Ski oncoprotein with Smad3 regulates TGFβ signaling
+Mol. Cell, 4 (1999), pp. 499–509
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (203)
+47
+J Svaren, W Horz
+Transcription factors vs nucleosomes: regulation of the PHO5 promoter in yeast
+Trends Biochem. Sci., 22 (1997), pp. 93–97
+
+Article |  PDF (938 K) | View Record in Scopus | Citing articles (139)
+48
+R.T Utley, K Ikeda, P.A Grant, J Côté, D.J Steger, A Eberharter, S John, J.L Workman
+Transcriptional activators direct histone acetyltransferase complexes to nucleosomes
+Nature, 394 (1998), pp. 498–502
+
+View Record in Scopus | Citing articles (393)
+49
+B.T Wakimoto
+Beyond the nucleosome: epigenetic aspects of position-effect variegation in Drosophila
+Cell, 93 (1998), pp. 321–324
+
+Article |  PDF (791 K) | View Record in Scopus | Citing articles (162)
+50
+A.E Wallberg, K.E Neely, J.-A Gustafsson, J.L Workman, A.P.H Wright, P.A Grant
+Histone acetyltransferase complexes can mediate transcriptional activation by the major glucocorticoid receptor activation domain
+Mol. Cell. Biol., 19 (1999), pp. 5952–5959
+
+View Record in Scopus | Citing articles (46)
+51
+V Weber, M Harata, H Hauser, U Wintersberger
+The actin-related protein Act3p of Saccharomyces cerevisiae is located in the nucleus
+Mol. Biol. Cell, 6 (1995), pp. 1263–1270
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+52
+J.L Workman, R.E Kingston
+Alteration of nucleosome structure as a mechanism of transcriptional regulation
+Annu. Rev. Biochem., 67 (1998), pp. 545–579
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (781)
+53
+T Yamamoto, M Horikoshi
+Novel substrate specificity of the histone acetyltransferase activity of HIV-1-Tat interactive protein Tip60
+J. Biol. Chem., 272 (1997), pp. 30595–30598
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (164)
+54
+K Zhao, W Wang, O.J Rando, Y Xue, K Swiderek, A Kuo, G.R Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Corresponding author: Jacques Côté, (418) 691-5545 (phone), (418) 691-5439 (fax)
+1
+To whom correspondence should be addressed (e-mail: jacques.cote@crhdq.ulaval.ca).
+2
+Present address: Department of Microbiology and Molecular Genetics, University of Medicine and Dentistry of New Jersey, New Jersey Medical School, Newark, New Jersey 07103.
+3
+Present address: Institut Pasteur de Lille, CNRS EP560, Lille cedex 59021, France.
+4
+These authors contributed equally to this work.
+Copyright © 2000 Cell Press. All rights reserved.

@@ -1,0 +1,371 @@
+Structural basis for the conserved binding mechanism of MDM2-inhibiting peptides and anti-apoptotic Bcl-2 family proteins
+Min-Sung Leea, b, 1, Ji-Hyang Haa, c, 1, Ho Sup Yoond, Chong-Kil Leec, Seung-Wook Chia, b, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2014.01.130
+Get rights and content
+Highlights
+•
+Conserved binding mechanism of p53TAD peptide among Bcl-2 family proteins.
+•
+Targeting of MDM2-inhibiting 12-1 peptide to anti-apoptotic Bcl-XL.
+•
+A structural model for the Bcl-XL/12-1 peptide complex.
+•
+The 12-1 and pro-apoptotic BH3 peptides share the binding site of Bcl-XL.
+•
+Dual-targeting mechanism of 12-1 peptide to MDM2 and Bcl-XL.
+Abstract
+The interaction between tumor suppressor p53 and the anti-apoptotic Bcl-2 family proteins serves a critical role in the transcription-independent apoptosis mechanism of p53. Our previous studies showed that an MDM2-inhibiting motif (residues 15–29) in the p53 transactivation domain (p53TAD) mediates the interaction with anti-apoptotic Bcl-2 family proteins. In this study, we provided structural models of the complexes between the MDM2-inhibiting p53TAD peptide and Mcl-1, Bcl-w, and Kaposi sarcoma-associated herpes virus (KSHV) Bcl-2 using NMR chemical shift perturbation data. The binding mode of the MDM2-inhibiting p53TAD peptide is highly conserved among the anti-apoptotic Bcl-2 family proteins despite their distinct specificities for pro-apoptotic Bcl-2 family proteins. We also identified the binding of a phage-display-derived MDM2-inhibiting peptide 12-1 to anti-apoptotic Bcl-XL protein by using NMR spectroscopy. The structural model of the Bcl-XL/12-1 peptide complex revealed that the conserved residues Phe4, Trp8, and Leu11 in the MDM2-inhibiting peptide fit into a hydrophobic cleft of Bcl-XL in a manner similar to that of pro-apoptotic Bcl-2 homology 3 (BH3) peptides. Our results shed light on the mechanism underlying dual-targeting of the FxxxWxxL-based α-helical motif to MDM2 and anti-apoptotic Bcl-2 family proteins for anticancer therapy.
+
+Keywords
+p53 transactivation domain; MDM2-inhibiting peptide; Bcl-2 family proteins; NMR spectroscopy; Dual-targeting; Cancer therapy
+1. Introduction
+Tumor suppressor p53 is a transcription factor that leads to cell cycle arrest, apoptosis, and senescence in response to stress signals such as DNA damage, ultraviolet light, hypoxia, and oncogene activation [1], [2], [3] and [4]. In more than half of human cancers, p53 function is impaired by mutation of the TP53 gene or partial abrogation of p53 regulation. Under normal conditions, p53 levels are precisely regulated by MDM2. MDM2 is an E3 ubiquitin ligase that inhibits p53 function through direct interaction with the p53 transactivation domain (p53TAD) or ubiquitination-dependent degradation [5] and [6]. In cancer cells, the p53TAD–MDM2 interaction neutralizes the interaction between p53TAD and the transcriptional machinery and is thus an attractive target for anticancer therapy [7] and [8]. Based on the crystal structure of the MDM2/p53TAD peptide complex [9], a variety of p53TAD-peptidomimetic MDM2 inhibitors have been developed. For example, Nutlin derivatives are currently under evaluation as cancer therapeutics in clinical trials [8] and [10]. A potent 12-mer MDM2-inhibiting peptide, termed 12-1 (MPRFMDYWEGLN), was derived from a phage-displayed peptide library [11]. The 12-1 peptide binds to MDM2 with a Kd of 239 nM [12]. This is comparable to the Kd of racemic Nutlin (Kd ≅ 201 nM) and is 6.5–28-fold lower than that of the wild-type p53TAD-derived peptides [12] and [13].
+
+The Bcl-2 family of proteins serves an important role in regulating intrinsic apoptosis by governing outer mitochondrial membrane permeability and cytochrome c release [14] and [15]. The pro-apoptotic Bcl-2 family effectors, Bax and Bak, mediate oligomerization to form membrane pores, triggering intrinsic apoptotic cell death via outer mitochondrial membrane permeabilization and cytochrome c release. On the other hand, the anti-apoptotic Bcl-2 family proteins bind and sequester Bax and Bak, thereby blocking their membrane pore formation. Anti-apoptotic Bcl-2 family proteins are important anticancer therapeutic targets because they are overexpressed in many tumors and confer resistance to anticancer chemo- and radiotherapies [16] and [17]. The Bcl-2 inhibitor ABT-737 induces regression of solid tumors [18] and its derivatives are in the early clinical phase as cancer therapeutics. However, it targets Bcl-2, Bcl-XL, and Bcl-w, but not Mcl-1, which induces resistance against apoptotic cell death triggered by ABT-737 [19] and [20]. Thus, indiscriminate inhibition of diverse anti-apoptotic Bcl-2 family members is required for effective anticancer therapy.
+
+Recent studies have shown the transcription-independent pro-apoptotic effects of cytoplasmic p53 [21], [22] and [23]. Interaction between p53 and anti-apoptotic Bcl-2 family proteins is essential in the transcription-independent apoptosis mechanism of p53. Our biochemical and structural studies showed that an MDM2-inhibiting motif in p53TAD (residues 15–29) can act as a binding motif for anti-apoptotic Bcl-2 family proteins such as Bcl-2 and Bcl-XL[24], [25] and [26]. To understand the structural basis for binding of the MDM2-inhibiting p53TAD motif to diverse anti-apoptotic Bcl-2 family proteins, we generated the structural models of p53TAD peptide in complex with Mcl-1, Bcl-w, and Kaposi sarcoma-associated herpes virus (KSHV) Bcl-2 based on NMR chemical shift perturbation data. Our results revealed a highly conserved binding mode of the MDM2-inhibiting p53TAD peptide among the anti-apoptotic Bcl-2 family proteins. We also monitored the binding of phage-display-derived MDM2-inhibiting peptide 12-1 to Bcl-XL by NMR spectroscopy. The structural model of the Bcl-XL/12-1 peptide complex showed that the 12-1 peptide binds to Bcl-XL in a manner similar to that of pro-apoptotic Bcl-2 homology 3 (BH3) peptides. These results might have application in dual-targeting anticancer therapy for MDM2 and anti-apoptotic Bcl-2 family proteins.
+
+2. Materials and methods
+2.1. Preparation of proteins and peptides
+The truncated Bcl-XL[27], hMcl-1BLR chimera [28], Bcl-w (residues 1–157) [29], and KSHV Bcl-2 [30] constructs were expressed and purified for NMR experiments as previously reported. The p53TAD (residues 15–29) and 12-1 peptides were chemically synthesized and purified by Peptron Inc as described previously [31] and [32].
+
+2.2. NMR spectroscopy
+All the NMR data were acquired using a Bruker Avance II 800 MHz spectrometer at the Korea Basic Science Institute. The NMR samples comprised 90% H2O/10% D2O and were prepared in 20 mM sodium phosphate (pH 6.5), 150 mM NaCl, and 1 mM DTT for Bcl-XL; 20 mM sodium phosphate (pH 7.3), 50 mM NaCl, 0.5 mM EDTA, and 3 mM DTT for Bcl-w; and 50 mM Tris·HCl (pH 8.0), 150 mM NaCl, 10 mM 2-mercaptoethanol, 0.5 mM EDTA, 0.5 mM benzamidine, and 0.1 mM PMSF for Mcl-1; 20 mM Tris·HCl (pH 7.8), and 5 mM DTT for KSHV Bcl-2. The 2D 15N–1H HSQC spectra of Mcl-1, Bcl-w, and KSHV Bcl-2 were obtained in the absence or presence of the p53TAD peptide. The 2D 15N–1H HSQC spectra of Bcl-XL were acquired in the absence or presence of the 12-1 peptide. For the chemical shift perturbation experiments with the anti-apoptotic Bcl-2 family proteins, aliquots of the concentrated peptide (p53TAD and 12-1) stock solution were titrated into the 15N-labeled Bcl-2 family proteins and the 2D 15N–1H HSQC spectra were collected at 25 °C (for Bcl-XL, Mcl-1, and KSHV Bcl-2) or 30 °C (for Bcl-w). The backbone 1H and 15N resonances of 15N-labeled Bcl-XL, Mcl-1, Bcl-w, and KSHV Bcl-2 bound to the p53TAD and 12-1 peptides were assigned using the previously reported chemical shift assignments for the unbound proteins [33], [34] and [35]. All the NMR data were processed and analyzed using NMRPipe/NMRDraw [36] and SPARKY software.
+
+2.3. Structure calculation
+The structures of the Mcl-1/p53TAD, Bcl-w/p53TAD, KSHV Bcl-2/p53TAD, and Bcl-XL/12-1 peptide complexes were calculated using the program HADDOCK 2.0 [37] in combination with crystallography and NMR system (CNS). Ambiguous interaction restraints (AIRs) were defined on the basis of the NMR chemical shift perturbation data. The “active” residues of Mcl-1, Bcl-w, KSHV Bcl-2, and Bcl-XL were defined as those showing a significant chemical shift perturbation value with relatively large per-residue solvent accessibility for either the side-chain or main-chain atoms. All of the surrounding surface residues near the active residues were defined as “passive” residues. The structure of 9-mer region (RFMDYWEGL) in the 12-1 peptide bound to MDM2 was used as initial structural template (PDB code: 1T4F) [38]. Starting from the structures of Bcl-w (PDB code: 1MK3), Mcl-1 (PDB code: 2NLA), KSHV Bcl-2 (PDB code: 1K3K), Bcl-XL (PDB code: 1BXL) [39], and p53TAD peptide (residues 15–29) (PDB code: 1YCR), rigid body energy minimization was performed, leading to 1000 rigid body docking solutions. In terms of intermolecular interaction energy, the 200 lowest structures were selected for rigid body simulated annealing followed by semi-flexible simulated annealing in torsion angle space. Finally, the resulting structures were refined in explicit water by using simulated annealing in Cartesian space. The docking solutions were clustered based on positional root mean square deviation (rmsd) values by using a 3 Å cut-off. The complex models were selected for visualization based on their rmsd from the best energy structure and HADDOCK energy score. Figures of the model were drawn using the PyMOL software package [40].
+
+3. Results and discussion
+3.1. Conserved binding mechanism of the MDM2-inhibiting p53TAD peptide with diverse anti-apoptotic Bcl-2 family proteins
+In previous studies, GST pull-down assays and NMR-binding data showed that an MDM2-inhibiting p53TAD motif (residues 15–29) is involved in binding of anti-apoptotic Bcl-2 family proteins such as Bcl-2 and Bcl-XL. To understand the structural basis for interactions between the p53TAD peptide and diverse anti-apoptotic Bcl-2 family proteins, we performed NMR experiments for binding of 15N-labeled Mcl-1, Bcl-w, and KSHV Bcl-2 with the p53TAD peptide (Supplementary Fig. S1). Based on the observed NMR chemical shift perturbation data, we calculated structural models of the p53TAD peptide in complex with Mcl-1, Bcl-w, and KSHV Bcl-2 by using the program HADDOCK 2.0 [26] (Fig. 1A). The complex structures showed that the residues Phe19, Trp23, and Leu26 in the α -helical p53TAD peptide bind to the elongated hydrophobic clefts of the anti-apoptotic Bcl-2 family proteins via the BH1, BH2, and BH3 regions, similar to the binding mechanism of pro-apoptotic BH3 peptides (Fig. 1B). The structural comparison of these complex models revealed that the binding mechanism of the p53TAD peptide is highly conserved among various members of the anti-apoptotic Bcl-2 family. It is interesting to note that these proteins display elaborately distinct specificity for the pro-apoptotic Bcl-2 family members: Bcl-2, Bcl-XL and Bcl-w recognize Bad whereas Mcl-1 and A1 specifically bind to Noxa [15] and [41]. Indiscriminate binding of p53TAD might contribute to more effective neutralization of multiple anti-apoptotic Bcl-2 family proteins in the transcription-independent apoptosis pathway of p53.
+
+Full-size image (71 K)
+Fig. 1. 
+Structural models of the complexes formed between p53TAD peptide and the anti-apoptotic Bcl-2 family proteins. (A) Ribbon representation of the structural models of the Mcl-1/p53TAD, Bcl-w/p53TAD, and KSHV Bcl-2/p53TAD complexes. The p53TAD peptide is represented as red ribbon model. The BH1, BH2, and BH3 motifs of Mcl-1 are labeled. (B) Molecular surface representation of the Mcl-1/p53TAD (left panel), Bcl-w/p53TAD (middle panel), and KSHV Bcl-2/p53TAD (right panel) complexes. The key binding residues (Phe19, Trp23, and Leu26) in the p53TAD peptide are labeled. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+3.2. Binding of MDM2-inhibiting peptide 12-1 to anti-apoptotic Bcl-XL
+Based on the high similarity in binding mode of p53TAD peptide to MDM2 and anti-apoptotic Bcl-2 family proteins, we hypothesized that p53TAD-peptidomimetic MDM2 inhibitors may also bind to anti-apoptotic Bcl-2 family proteins. Our recent studies showed that the potent MDM2 antagonist Nutlin-3 binds to the anti-apoptotic proteins Bcl-XL and Bcl-2 with a similar mode of binding as to MDM2 [42] and [43]. To further test our hypothesis, we monitored binding of the MDM2-inhibiting peptide 12-1 (Fig. 2A) to anti-apoptotic Bcl-XL protein by NMR spectroscopy. The overlaid 2D 15N–1H HSQC spectra of Bcl-XL in the absence or presence of the 12-1 peptide indicated significant chemical shift perturbations in many of the 15N–1H crosspeaks in Bcl-XL (Fig. 2B). Upon binding to 12-1 peptide, some crosspeaks of Bcl-XL disappeared and others moved because they underwent fast-to-intermediate exchange on the NMR chemical shift time scale. Although the chemical shift perturbations induced by the 12-1 peptide were much stronger than those induced by the p53TAD peptide (residues 15–29) [25] and [26], the affected residues in Bcl-XL remain similar (Fig. 2C). Thus, the 12-1 and p53TAD peptides share the same binding site in Bcl-XL. To determine the binding site at the three-dimensional level, we mapped the chemical shift perturbations induced by the 12-1 peptide onto the structures of Bcl-XL (Fig. 2D) and found that they took place in an elongated hydrophobic cleft composed of the BH1, BH2, and BH3 regions of Bcl-XL.
+
+Full-size image (62 K)
+Fig. 2. 
+Binding of the 12-1 peptide to anti-apoptotic Bcl-XL protein. (A) Sequence alignment of the 12-1 peptide with the wild-type p53TAD peptide. (B) The overlaid 2D 15N–1H HSQC spectra for 15N-labeled Bcl-XL in the absence (blue) or presence of the 12-1 peptide (red). (C) NMR chemical shift perturbations on Bcl-XL induced by binding to the 12-1 peptide. Resonances of Bcl-XL that disappeared upon binding of the 12-1 peptide are shown as gray bars. The weighted chemical shift perturbations were calculated by the equation, ΔCS = (Δ1H2 + (0.2Δ15N)2)0.5, in which Δ1H and Δ15N are the chemical shift changes on the 1H and 15N dimensions [42], and plotted against the residue number of the Bcl-XL. (D) Binding site mapping for the 12-1 peptide on the structure of Bcl-XL. The Bcl-XL residues that disappeared upon the 12-1 peptide binding are shown in red and the residues showing chemical shift changes of ΔCS > 0.02 ppm are shown in orange. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+3.3. Structural basis for the binding mechanism of the MDM2-inhibiting 12-1 peptide to Bcl-XL
+To further investigate the binding mechanism of 12-1 peptide and the anti-apoptotic Bcl-2 protein family, we calculated structural models for the complex between the 12-1 peptide and Bcl-XL by using the program HADDOCK 2.0 [26] (Fig. 3A). In the complex structure, an amphipathic α-helix of the 12-1 peptide binds to an elongated hydrophobic cleft in Bcl-XL (Fig. 3B). This region corresponds to a conserved site for binding the BH3 peptides of the pro-apoptotic Bcl-2 family proteins Bak, Bad, and Bim. Superimposition of the Bcl-XL/12-1 peptide and Bcl-XL/Bak BH3 peptide complex structures revealed that the 12-1 peptide binds to Bcl-XL in an analogous manner as the pro-apoptotic BH3 peptide of Bak (Fig. 3C). It is worth noting that the amphipathic α-helical backbones overlap between the 12-1 and Bak BH3 peptides. The pro-apoptotic BH3 peptide-binding cleft of Bcl-XL consists of four discrete sites occupied by the hydrophobic side-chains of Val74, Leu78, Ile81, and Ile85 in the Bak BH3 peptide (referred to as the i, i + 4, i + 7, and i + 11 sites, respectively). Three of these sites in Bcl-XL (i + 4, i + 7, and i + 11) were filled up by the bulky hydrophobic residues, Phe4, Trp8, and Leu11 in the 12-1 peptide (Fig. 3C). The overlap between 12-1 and BH3 peptides in the binding site of Bcl-XL suggests that the 12-1 peptide may directly compete with the pro-apoptotic BH3 peptides. Thus, targeting of the 12-1 peptide to Bcl-XL can sequester pro-apoptotic Bcl-2 family proteins such as Bak and Bax from the Bcl-XL-bound complex, triggering transcription-independent apoptosis.
+
+Full-size image (37 K)
+Fig. 3. 
+Structural model of the Bcl-XL/12-1 peptide complex. An ensemble of 6 structural models (A) and the best-energy structural model (B) of Bcl-XL/12-1 peptide complex are shown. Bcl-XL and 12-1 peptide are shown in gray and blue, respectively. (C) Superposition of the Bcl-XL/12-1 peptide and Bcl-XL/Bak BH3 peptide complexes (PDB code: 1BXL). The 12-1 and Bak BH3 peptides are colored in blue and green, respectively. Positive and negative electrostatic potentials on the molecular surface of Bcl-XL are in blue and red, respectively. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+3.4. Structural insights into the mechanism underlying dual-targeting with the 12-1 peptide for anticancer therapy
+The structural model of the Bcl-XL/12-1 peptide complex provided molecular insight into how the 12-1 peptide could target two different anticancer targets (Bcl-XL and MDM2), despite the clear difference between their structures. A structural comparison between the Bcl-XL/12-1 peptide and MDM2/12-1 peptide complexes revealed substantial similarity in the binding mode of 12-1 peptide for these proteins (Fig. 4). Similarly, the amphipathic α-helix of the 12-1 peptide comes into contact with the hydrophobic clefts of Bcl-XL and MDM2. In particular, the bulky hydrophobic side-chains of Phe4, Trp8, and Leu11 (absolutely conserved residues in the FxxxWxxL consensus motif) in the 12-1 and p53TAD peptides serve the most critical role in binding to Bcl-XL and MDM2. This hydrophobic triad in the 12-1 peptide binds to three sub-binding sites in MDM2 and Bcl-XL, which are occupied by Phe19, Trp23, and Leu26 of the p53TAD peptide (Fig. 4). This is consistent with the previous observation that mutagenesis of these three residues in p53TAD significantly impaired binding to both proteins [44]. Therefore, the FxxxWxxL-based helical motif serves a critical role in the mechanism underlying dual-targeting to MDM2 and anti-apoptotic Bcl-2 family proteins.
+
+Full-size image (72 K)
+Fig. 4. 
+Structural basis for the mechanism underlying for dual-targeting of the 12-1 peptide to Bcl-XL and MDM2. Structural comparison between the Bcl-XL/12-1 peptide (A) and MDM2/12-1 peptide (B) complexes. The 12-1 peptide is represented as blue ribbon model, and Bcl-XL and MDM2 are shown in gray and pink, respectively. The key binding residues Phe4, Trp8, and Leu11 in the 12-1 peptide are labeled. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+Since cancer is caused by multiple factors, the efficacy of single-target-based anticancer therapy is limited. In contrast, multi-targeting therapy or combination drugs can improve therapeutic efficacy, safety, and resistance profiles [45], [46] and [47]. Multi-kinase targeting of marketed drugs has proven beneficial in cancer treatment [45] and [48]. MDM2 and anti-apoptotic Bcl-2 family proteins may be promising targets for multi-targeting or combination drugs because co-treatment with Nutlin-3 and ABT-737 synergistically increased the sensitivity of high MDM2-expressing cells to apoptotic cell death [49]. Thus, the concomitant inhibition of MDM2 and anti-apoptotic Bcl-2 family proteins may be a multi-target-based strategy to trigger tumor cell death. The structures of FxxxWxxL motif-based peptides bound to anti-apoptotic Bcl-2 family proteins could be used as a template for structure-based design of dual-targeting anticancer drugs.
+
+Acknowledgments
+This work was supported by the National Research Foundation of Korea (NRF) Grant funded by the Korea government (MSIP) (No. NRF-2011-0016011). This study made use of the NMR facility at Korea Basic Science Institute, which is supported by Advanced MR Technology Program of the Korean Ministry of Education, Science and Technology.
+
+Appendix A. Supplementary data
+ 
+Supplementary Fig. S1.  
+Help with PDF filesOptions
+References
+[1]
+S.L. Harris, A.J. Levine
+The p53 pathway: positive and negative feedback loops
+Oncogene, 24 (2005), pp. 2899–2908
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (891)
+[2]
+C.J. Sherr
+Principles of tumor suppression
+Cell, 116 (2004), pp. 235–246
+
+Article |  PDF (309 K) | View Record in Scopus | Citing articles (523)
+[3]
+B. Vogelstein, D. Lane, A.J. Levine
+Surfing the p53 network
+Nature, 408 (2000), pp. 307–310
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3794)
+[4]
+K.H. Vousden, X. Lu
+Live or let die: the cell’s response to p53
+Nat. Rev. Cancer, 2 (2002), pp. 594–604
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1836)
+[5]
+J. Momand, G.P. Zambetti, D.C. Olson, D. George, A.J. Levine
+The mdm-2 oncogene product forms a complex with the p53 protein and inhibits p53-mediated transactivation
+Cell, 69 (1992), pp. 1237–1245
+
+Article |  PDF (2718 K) | View Record in Scopus | Citing articles (1887)
+[6]
+J.D. Oliner, J.A. Pietenpol, S. Thiagalingam, J. Gyuris, K.W. Kinzler, B. Vogelstein
+Oncoprotein MDM2 conceals the activation domain of tumour suppressor p53
+Nature, 362 (1993), pp. 857–860
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (915)
+[7]
+D. Alarcon-Vargas, Z. Ronai
+p53-Mdm2 – the affair that never ends
+Carcinogenesis, 23 (2002), pp. 541–547
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (134)
+[8]
+L.T. Vassilev, B.T. Vu, B. Graves, D. Carvajal, F. Podlaski, Z. Filipovic, N. Kong, U. Kammlott, C. Lukacs, C. Klein, N. Fotouhi, E.A. Liu
+In vivo activation of the p53 pathway by small-molecule antagonists of MDM2
+Science, 303 (2004), pp. 844–848
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1946)
+[9]
+P.H. Kussie, S. Gorina, V. Marechal, B. Elenbaas, J. Moreau, A.J. Levine, N.P. Pavletich
+Structure of the MDM2 oncoprotein bound to the p53 tumor suppressor transactivation domain
+Science, 274 (1996), pp. 948–953
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1093)
+[10]
+S.W. Fesik
+Promoting apoptosis as a strategy for cancer drug discovery
+Nat. Rev. Cancer, 5 (2005), pp. 876–885
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (518)
+[11]
+V. Bottger, A. Bottger, C. Garcia-Echeverria, Y.F. Ramos, A.J. van der Eb, A.G. Jochemsen, D.P. Lane
+Comparative study of the p53–mdm2 and p53–MDMX interfaces
+Oncogene, 18 (1999), pp. 189–199
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+[12]
+C.J. Brown, S.G. Dastidar, S.T. Quah, A. Lim, B. Chia, C.S. Verma
+C-terminal substitution of MDM2 interacting peptides modulates binding affinity by distinctive mechanisms
+PLoS ONE, 6 (2011), p. e24122
+
+Full Text via CrossRef
+[13]
+P.M. Fischer
+Peptide, peptidomimetic, and small-molecule antagonists of the p53–HDM2 protein–protein interaction
+Int. J. Pept. Res. Ther., 12 (2006), pp. 3–19
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+[14]
+A. Kelekar, C.B. Thompson
+Bcl-2-family proteins: the role of the BH3 domain in apoptosis
+Trends Cell Biol., 8 (1998), pp. 324–330
+
+Article |  PDF (523 K) | View Record in Scopus | Citing articles (416)
+[15]
+R.J. Youle, A. Strasser
+The BCL-2 protein family: opposing activities that mediate cell death
+Nat. Rev. Mol. Cell Biol., 9 (2008), pp. 47–59
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1561)
+[16]
+M.H. Kang, C.P. Reynolds
+Bcl-2 inhibitors: targeting mitochondrial apoptotic pathways in cancer therapy
+Clin. Cancer Res., 15 (2009), pp. 1126–1132
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (344)
+[17]
+G. Lessene, P.E. Czabotar, P.M. Colman
+BCL-2 family antagonists for cancer therapy
+Nat. Rev. Drug Discov., 7 (2008), pp. 989–1000
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (215)
+[18]
+T. Oltersdorf, S.W. Elmore, A.R. Shoemaker, R.C. Armstrong, D.J. Augeri, B.A. Belli, M. Bruncko, T.L. Deckwerth, J. Dinges, P.J. Hajduk, M.K. Joseph, S. Kitada, S.J. Korsmeyer, A.R. Kunzer, A. Letai, C. Li, M.J. Mitten, D.G. Nettesheim, S. Ng, P.M. Nimmer, J.M. O’Connor, A. Oleksijew, A.M. Petros, J.C. Reed, W. Shen, S.K. Tahir, C.B. Thompson, K.J. Tomaselli, B. Wang, M.D. Wendt, H. Zhang, S.W. Fesik, S.H. Rosenberg
+An inhibitor of Bcl-2 family proteins induces regression of solid tumours
+Nature, 435 (2005), pp. 677–681
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1528)
+[19]
+M. Konopleva, R. Contractor, T. Tsao, I. Samudio, P.P. Ruvolo, S. Kitada, X. Deng, D. Zhai, Y.X. Shi, T. Sneed, M. Verhaegen, M. Soengas, V.R. Ruvolo, T. McQueen, W.D. Schober, J.C. Watt, T. Jiffar, X. Ling, F.C. Marini, D. Harris, M. Dietrich, Z. Estrov, J. McCubrey, W.S. May, J.C. Reed, M. Andreeff
+Mechanisms of apoptosis sensitivity and resistance to the BH3 mimetic ABT-737 in acute myeloid leukemia
+Cancer Cell, 10 (2006), pp. 375–388
+
+Article |  PDF (1685 K) | View Record in Scopus | Citing articles (397)
+[20]
+M.F. van Delft, A.H. Wei, K.D. Mason, C.J. Vandenberg, L. Chen, P.E. Czabotar, S.N. Willis, C.L. Scott, C.L. Day, S. Cory, J.M. Adams, A.W. Roberts, D.C. Huang
+The BH3 mimetic ABT-737 targets selective Bcl-2 proteins and efficiently induces apoptosis via Bak/Bax if Mcl-1 is neutralized
+Cancer Cell, 10 (2006), pp. 389–399
+
+Article |  PDF (1124 K) | View Record in Scopus | Citing articles (569)
+[21]
+S.W. Chi, Structural insights into the transcription-independent apoptotic pathway of p53, BMB Rep. (2014) (EPub ahead of Print).
+[22]
+D.R. Green, G. Kroemer
+Cytoplasmic functions of the tumour suppressor p53
+Nature, 458 (2009), pp. 1127–1130
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (346)
+[23]
+M. Mihara, S. Erster, A. Zaika, O. Petrenko, T. Chittenden, P. Pancoska, U.M. Moll
+P53 has a direct apoptogenic role at the mitochondria
+Mol. Cell, 11 (2003), pp. 577–590
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (1012)
+[24]
+J.H. Ha, J.S. Shin, M.K. Yoon, M.S. Lee, F. He, K.H. Bae, H.S. Yoon, C.K. Lee, S.G. Park, Y. Muto, S.W. Chi
+Dual-site interactions of p53 protein transactivation domain with anti-apoptotic Bcl-2 family proteins reveal a highly convergent mechanism of divergent p53 pathways
+J. Biol. Chem., 288 (2013), pp. 7387–7398
+
+Full Text via CrossRef
+[25]
+J.H. Ha, E.Y. Won, J.S. Shin, M. Jang, K.S. Ryu, K.H. Bae, S.G. Park, B.C. Park, H.S. Yoon, S.W. Chi
+Molecular mimicry-based repositioning of nutlin-3 to anti-apoptotic Bcl-2 family proteins
+J. Am. Chem. Soc., 133 (2011), pp. 1244–1247
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+[26]
+H. Xu, H. Ye, N.E. Osman, K. Sadler, E.Y. Won, S.W. Chi, H.S. Yoon
+The MDM2-binding region in the transactivation domain of p53 also acts as a Bcl-X(L)-binding motif
+Biochemistry, 48 (2009), pp. 12159–12168
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+[27]
+D.H. Lee, J.H. Ha, Y. Kim, K.H. Bae, J.Y. Park, W.S. Choi, H.S. Yoon, S.G. Park, B.C. Park, G.S. Yi, S.W. Chi
+Interaction of a putative BH3 domain of clusterin with anti-apoptotic Bcl-2 family proteins as revealed by NMR spectroscopy
+Biochem. Biophys. Res. Commun., 408 (2011), pp. 541–547
+
+Article |  PDF (1260 K) | View Record in Scopus | Citing articles (16)
+[28]
+P.E. Czabotar, E.F. Lee, M.F. van Delft, C.L. Day, B.J. Smith, D.C. Huang, W.D. Fairlie, M.G. Hinds, P.M. Colman
+Structural insights into the degradation of Mcl-1 induced by BH3 domains
+Proc. Natl. Acad. Sci. USA, 104 (2007), pp. 6217–6222
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (173)
+[29]
+A.Y. Denisov, M.S. Madiraju, G. Chen, A. Khadir, P. Beauparlant, G. Attardo, G.C. Shore, K. Gehring
+Solution structure of human BCL-w: modulation of ligand binding by the C-terminal helix
+J. Biol. Chem., 278 (2003), pp. 21124–21128
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+[30]
+Q. Huang, A.M. Petros, H.W. Virgin, S.W. Fesik, E.T. Olejniczak
+Solution structure of a Bcl-2 homolog from Kaposi sarcoma virus
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 3428–3433
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+[31]
+B.R. Kang, H. Kim, S.H. Nam, E.Y. Yun, S.R. Kim, M.Y. Ahn, J.S. Chang, J.S. Hwang
+CopA3 peptide from Copris tripartitus induces apoptosis in human leukemia cells via a caspase-independent pathway
+BMB Rep., 45 (2012), pp. 85–90
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+[32]
+E. Lee, K.W. Jeong, J. Lee, A. Shin, J.K. Kim, J. Lee, D.G. Lee, Y. Kim
+Structure–activity relationships of cecropin-like peptides and their interactions with phospholipid membrane
+BMB Rep., 46 (2013), pp. 282–287
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5)
+[33]
+A.V. Follis, J.E. Chipuk, J.C. Fisher, M.K. Yun, C.R. Grace, A. Nourse, K. Baran, L. Ou, L. Min, S.W. White, D.R. Green, R.W. Kriwacki
+PUMA binding induces partial unfolding within BCL-xL to disrupt p53 binding and promote apoptosis
+Nat. Chem. Biol., 9 (2013), pp. 163–168
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+[34]
+A.M. Petros, S.W. Fesik, E.T. Olejniczak
+1H, 13C and 15N resonance assignments of a Bcl-xL/Bad peptide complex
+J. Biomol. NMR, 32 (2005), p. 260
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+[35]
+A.M. Petros, A. Medek, D.G. Nettesheim, D.H. Kim, H.S. Yoon, K. Swift, E.D. Matayoshi, T. Oltersdorf, S.W. Fesik
+Solution structure of the antiapoptotic protein bcl-2
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 3012–3017
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (244)
+[36]
+F. Delaglio, S. Grzesiek, G.W. Vuister, G. Zhu, J. Pfeifer, A. Bax
+NMRPipe: a multidimensional spectral processing system based on UNIX pipes
+J. Biomol. NMR, 6 (1995), pp. 277–293
+
+View Record in Scopus | Citing articles (6835)
+[37]
+C. Dominguez, R. Boelens, A.M. Bonvin
+HADDOCK: a protein–protein docking approach based on biochemical or biophysical information
+J. Am. Chem. Soc., 125 (2003), pp. 1731–1737
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (905)
+[38]
+B.L. Grasberger, T. Lu, C. Schubert, D.J. Parks, T.E. Carver, H.K. Koblish, M.D. Cummings, L.V. LaFrance, K.L. Milkiewicz, R.R. Calvo, D. Maguire, J. Lattanze, C.F. Franks, S. Zhao, K. Ramachandren, G.R. Bylebyl, M. Zhang, C.L. Manthey, E.C. Petrella, M.W. Pantoliano, I.C. Deckman, J.C. Spurlino, A.C. Maroney, B.E. Tomczuk, C.J. Molloy, R.F. Bone
+Discovery and cocrystal structure of benzodiazepinedione HDM2 antagonists that activate p53 in cells
+J. Med. Chem., 48 (2005), pp. 909–912
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (248)
+[39]
+M. Sattler, H. Liang, D. Nettesheim, R.P. Meadows, J.E. Harlan, M. Eberstadt, H.S. Yoon, S.B. Shuker, B.S. Chang, A.J. Minn, C.B. Thompson, S.W. Fesik
+Structure of Bcl-xL-Bak peptide complex: recognition between regulators of apoptosis
+Science, 275 (1997), pp. 983–986
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (962)
+[40]
+W.L. DeLano
+The PyMOL Molecular Graphics System, PyMOL
+DeLano Scientific (2002)
+
+[41]
+J.M. Adams, S. Cory
+The Bcl-2 protein family: arbiters of cell survival
+Science, 281 (1998), pp. 1322–1326
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3762)
+[42]
+J.S. Shin, J.H. Ha, S.W. Chi
+Targeting of p53 peptide analogues to anti-apoptotic Bcl-2 family proteins as revealed by NMR spectroscopy
+Biochem. Biophys. Res. Commun., 443 (2014), pp. 882–887
+
+Article |  PDF (1815 K) | View Record in Scopus | Citing articles (3)
+[43]
+J.S. Shin, J.H. Ha, F. He, Y. Muto, K.S. Ryu, H.S. Yoon, S. Kang, S.G. Park, B.C. Park, S.U. Choi, S.W. Chi
+Structural insights into the dual-targeting mechanism of Nutlin-3
+Biochem. Biophys. Res. Commun., 420 (2012), pp. 48–53
+
+Article |  PDF (846 K) | View Record in Scopus | Citing articles (11)
+[44]
+S.M. Picksley, B. Vojtesek, A. Sparks, D.P. Lane
+Immunochemical analysis of the interaction of p53 with MDM2 – fine mapping of the MDM2 binding site on p53 using synthetic peptides
+Oncogene, 9 (1994), pp. 2523–2529
+
+View Record in Scopus | Citing articles (187)
+[45]
+A.L. Hopkins
+Network pharmacology: the next paradigm in drug discovery
+Nat. Chem. Biol., 4 (2008), pp. 682–690
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (614)
+[46]
+A.L. Hopkins, J.S. Mason, J.P. Overington
+Can we rationally design promiscuous drugs?
+Curr. Opin. Struct. Biol., 16 (2006), pp. 127–136
+
+Article |  PDF (591 K) | View Record in Scopus | Citing articles (232)
+[47]
+X.H. Ma, Z. Shi, C. Tan, Y. Jiang, M.L. Go, B.C. Low, Y.Z. Chen
+In silico approaches to multi-target drug discovery: computer aided multi-target drug design, multi-target virtual screening
+Pharm. Res., 27 (2010), pp. 739–749
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+[48]
+Y. Dai, S. Grant
+Targeting multiple arms of the apoptotic regulatory machinery
+Cancer Res., 67 (2007), pp. 2908–2911
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+[49]
+M. Wade, L.W. Rodewald, J.M. Espinosa, G.M. Wahl
+BH3 activation blocks Hdmx suppression of apoptosis and cooperates with Nutlin to induce cell death
+Cell Cycle, 7 (2008), pp. 1973–1982
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Corresponding author contact information
+Corresponding author at: Medical Proteomics Research Center, KRIBB, Daejeon 305-806, Republic of Korea. Fax: +82 42 879 8596.
+1
+These authors contributed equally to this work.
+Copyright © 2014 Elsevier Inc. All rights reserved.

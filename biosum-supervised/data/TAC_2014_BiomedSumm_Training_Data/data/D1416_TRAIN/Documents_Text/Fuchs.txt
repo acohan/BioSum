@@ -1,0 +1,420 @@
+The p400 Complex Is an Essential E1A Transformation Target
+Miriam Fuchs1, 2, Jill Gerber1, 2, Ronny Drapkin1, 2, 3, Said Sif4, Tsuyoshi Ikura1, 2, Vasily Ogryzko6, William S. Lane5, Yoshihiro Nakatani1, 2, David M. Livingston1, 2, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S0092-8674(01)00450-0
+Under an Elsevier user license
+  Open Archive
+Abstract
+Here, we report the identification of a new E1A binding protein complex that is essential for E1A-mediated transformation. Its core component is a SWI2/SNF2-related, 400 kDa protein (p400). Other components include the myc- and p/CAF-associated cofactor, TRRAP/PAF400, the DNA helicases TAP54α/β, actin-like proteins, and the human homolog of the Drosophila Enhancer of Polycomb protein. An E1A mutant, defective in p400 binding, is also defective in transformation. Certain p400 fragments partially rescued this phenotype, underscoring the role of E1A-p400 complex formation in the E1A transforming process. Furthermore, E1A and c-myc each alter the subunit composition of p400 complexes, implying that physiological p400 complex formation contributes to transformation suppression.
+
+Introduction
+The adenovirus E1A oncoprotein elicits abnormal biological effects, including promotion of cell cycle progression, immortalization, blockade of differentiation, and, in concert with activated ras, transformation of primary rodent cells (for review, see Bayley and Mymryk, 1994). To achieve these effects, it targets certain cellular proteins, such as the tumor suppressor, pRB, and the transcriptional coactivator/signal integrating proteins, p300 and CBP. E1A binding leads to modification of the activities of these proteins (for review, see Nevins 1992 and Goodman and Smolik 2000). For example, pRb and p300/CBP function influences local chromatin structure, and E1A binding to these proteins likely perturbs the chromatin and, hence, the transcription modulating effects of these proteins.
+
+In addition to pocket proteins and p300/CBP, E1A interacts with a 400 kDa protein doublet Barbeau et al. 1994 and Howe and Bayley 1992. We show here that this doublet is composed of p400, a novel SWI2/SNF2 family member, and TRRAP/PAF400, a c-myc- and p/CAF-associated nuclear protein with a C-terminal PI-3 kinase-like domain McMahon et al. 1998 and Vassilev et al. 1998. Both proteins are components of a larger, multisubunit complex (p400 complex), which serves as an E1A and c-myc binding target. E1A binding to p400/TRRAP/PAF400 and the ensuing functional perturbation of the p400 complex are necessary for E1A transforming activity. Since p400 is likely a chromatin-modulating factor, these findings suggest that E1A-mediated perturbation of chromatin structural regulation constitutes part of the link between its interaction with p400 and the emergence of a transformed phenotype.
+
+Results
+Residues 25–36 of E1A Are Necessary for Its Transforming Activity
+E1A residues 26–35 were originally considered dispensable for its transforming activity Jelsma et al. 1989 and Whyte et al. 1988, and deletion of this region failed to affect its p300/CBP and pocket protein binding properties. However, the same domain constitutes an essential binding site for a heretofore uncharacterized 400 kDa protein(s) Barbeau et al. 1994 and Bayley and Mymryk 1994. Recent results support a major role for E1A residues 25–36 in E1A + ras focus forming activity (L. Deleu and H. Land, personal communication). In keeping with this finding, we confirm that, at limiting concentrations, E1A transforming activity is linked to the presence of an intact aa 26–35 region (Figure 1A). At higher E1A concentrations, dependence on this segment was limited or absent (Figure 1A), but the defect in E1A/400 kDa protein binding was also much less apparent (data not shown). These findings suggest that the aa 26–35 segment interacts with a specific target protein(s) or protein complex(es), that, in turn, contributes to E1A transforming activity.
+
+Full-size image (29 K)
+Figure 1. 
+Attenuated Transformation Activity of E1A Deletion Mutant Δ26-35 Correlates with a Defect in 400 kDa Protein Binding
+(A) The E1A mutant Δ26-35 is attenuated in focus forming activity. REF cells were transfected with increasing quantities of wt E1A, E1AΔ26-35 and activated ras expression plasmids, as indicated. Focus formation was quantified after 10 days. The results of a representative experiment are shown.
+(B) The p300-directed, RW144 monoclonal antibody precipitated a 400 kDa species that comigrates with the E1A-associated 400 kDa molecule. Cell extracts of metabolically labeled 293 cells were subjected to IP with the indicated antibodies.
+(C) P400 and p300/CBP interact with different segments of E1A. U2OS cells were transiently transfected with expression plasmids encoding either wt or mutant E1A species. The corresponding cell extracts were immunoprecipitated with the E1A-specific antibody, M73. Western blot analysis was performed using the p300-directed, p400-crossreactive antibody, RW144. E1A expression levels were controlled by Western blotting with M73.
+(D) The RW144 antibody directly binds to the upper species of the RW144-associated 400 kDa doublet. U2OS cells were metabolically labeled and lysates were IPed with RW144, RW128 (α-p300), or control (α-HA) antibody. RW144 precipitates were denatured and reprecipitated with RW144
+Figure options
+The E1A-Associated 400 kDa Band Is a Doublet Composed of Two Unique Proteins
+In a prior report, it was shown that a p300-directed monoclonal antibody, RW144, coprecipitated p300/CBP and a 400 kDa band(s) from metabolically labeled cells. Similarly, in Western blot analyses, RW144 recognized a 400 kDa protein in α-E1A immunoprecipitates (IPs). To confirm these observations, we incubated extracts of metabolically labeled 293 cells (which synthesize E1A) with either α-E1A or RW144 antibodies. Figure 1B reveals that RW144 precipitated both p300 and a 400 kDa polypeptide, and both proteins comigrated with the E1A-precipitated p300 and the 400 kDa species, respectively (Figure 1B, see lanes 2 and 1). These data suggest that p400 is either a p300/CBP homolog or is a novel E1A binding protein that shares an epitope(s) with p300/CBP.
+
+Binding to the previously described, E1A-associated 400 kDa has been shown to require certain N-terminal E1A sequences Barbeau et al. 1994 and Howe and Bayley 1992. When analyzed by α-E1A IP (M73)/Western blotting (RW144), E1A binding of the RW144-reactive 400 kDa band was dependent upon the integrity of residues 26–35 (Figure 1C, lane 3), while p300/CBP binding to E1A was unaffected by this deletion (Figure 1C, compare lanes 2 and 3). These results strongly suggest that the E1A-associated and the RW144-reactive 400 kDa proteins are the same polypeptide(s). Deletion of E1A residues 2–11 or an Arg-Gly mutation at position 2 abolished p300/CBP but not p400 binding (Figure 1C, lanes 7 and 8), thus, underscoring the view that p400 and p300/CBP interact with different (albeit partially overlapping) segments of the E1A N-terminal region.
+
+Under certain electrophoretic conditions, the E1A-associated 400 kDa species migrated as a closely spaced doublet (Barbeau et al., 1994). We similarly observed a closely spaced 400 kDa doublet in RW144 IPs of metabolically labeled cell lysates (Figure 1D, lane 3). To further define the nature of the two bands, we immunoprecipitated metabolically labeled cell extract with RW144 (Figure 1D, lane 3), eluted the precipitated polypeptides from the Protein-A Sepharose beads after denaturation, and reprecipitated the eluate with RW144 (Figure 1D, lane 4). This strategy (IP/ReIP) revealed that only the upper 400 kDa band bound directly to RW144, implying a difference in structure between these two species. This finding also suggested that one band of the 400 kDa doublet coprecipitated with the other in the presence of RW144. We have labeled the upper band “p400,” consistent with the term previously used for the E1A-associated 400 kDa protein.
+
+Purification of Both 400 kDa Proteins
+HeLa nuclear extracts were depleted of p300/CBP by immunoaffinity chromatography, and p400 and its putative 400 kDa interaction partner from these extracts were then immobilized on an RW144 affinity matrix. Bound proteins, eluted under denaturing conditions, were reapplied to a second RW144 column to achieve purification of p400 and elimination of the lower 400 kDa band (Figure 1D). The eluate from the second RW144 matrix was separated by SDS-PAGE, and the stained p400 protein excised from the gel. To purify the faster migrating 400 kDa band, proteins eluted from the first RW144 column were separated by SDS-PAGE and the lower band excised. Both protein bands (∼3–5 μg) were subjected to microsequencing.
+
+Sequence analysis of the p400 band by ion trap mass spectrometry resulted in the identification of five peptides that all mapped to a single, partial cDNA clone (GenBank accession number U80743), identified in a screen for cDNAs with long CAG trinucleotides repeats. This cDNA maps to human chromosome 12q24.33 (Margolis et al., 1997).
+
+Sequence analysis of the lower 400 kDa species by Edman degradation resulted in seven peptide sequences that all match the protein sequence for TRRAP/PAF400, a myc-associated, transcriptional coactivator (TRRAP; McMahon et al., 1998), as well as a component of the p/CAF histone acetyltransferase complex (PAF400, Vassilev et al., 1998).
+
+Cloning and Initial Characterization of p400
+A full-length human p400 cDNA was assembled by cDNA library screening, RACE (rapid amplification of cDNA ends), and homology alignment with fragments of the murine homolog. This cDNA encodes a 3124 residue protein that is ubiquitously expressed, as revealed by semiquantitative RT-PCR and in situ hybridization (data not shown). In vitro translated FLAG-tagged p400 comigrated with endogenous p400 in IPs generated with different p400-specific monoclonal antibodies (data not shown). Thus, clonal p400 likely corresponds to the endogenous p400 protein.
+
+The predicted motif structure of p400 is represented schematically in Figure 2A. It contains the distinct signature motifs that constitute the DNA-dependent ATPase/helicase-like domain of SWI2/SNF2 family members. An unusual feature of this domain is the presence of an ∼500 residue linker sequence separating it into two subsegments. A spacer also exists within the SWI2/SNF2 homology domain of the CBP-associated protein, SRCAP (Johnston et al., 1999).
+
+Full-size image (178 K)
+Figure 2. 
+Structure of Recombinant of p400
+(A) Schematic depiction of the p400 primary structure. The SWI2/SNF2 homology domain has been defined in green.
+(B) Comparison of the ATPase/helicase-like domain of various SWI2/SNF2 family members. The spacer region of p400 and SRCAP has been deleted to permit relevant sequence alignment. Identical residues are denoted in green; conserved residues are noted in gray. Further identity between p400 and SRCAP is highlighted in yellow
+Figure options
+Homology between p400 and other SWI2/SNF2 proteins is mainly restricted to the ATPase/helicase-like segment. An alignment of p400 with the ATPase/helicase-like domain of representative SWI2/SNF2 family members is shown in Figure 2B. A potentially important feature of p400 and SRCAP is the lack of a conserved DEXH/D motif (p400 residues 1183–1186) that is present in all other known SWI2/SNF2 proteins. Mutational analysis has linked this motif to the enzymatic function of some RNA helicases (Pause and Sonenberg, 1992). The importance of this motif in SWI2/SNF2 chromatin remodeling function has not been analyzed, although it is conceivable that its absence affects the expression of p400 enzymatic activity.
+
+TRRAP/PAF400 Associates with Both E1A and p400
+In addition to identifying p400 as a component of the E1A-associated 400 kDa doublet (Figure 1C), we asked whether TRRAP/PAF400, which associates with p400 in HeLa cell extracts, represents the other protein species in the E1A-associated 400 kDa doublet. E1A IPs from metabolically labeled 293 cell extract (Figure 3A, lane 5) were denatured, eluted from the immune beads, and subsequently re-IPed with TRRAP/PAF400-specific antibody (lane 8), control serum (lane 7), or RW144 (lane 6). TRRAP/PAF400 was recovered from the precipitate, indicating that it is a component of the E1A-bound 400 kDa doublet. The interaction between E1A, TRRAP/PAF400, and p400 was further confirmed by Western blotting of α-E1A IPs with TRRAP/PAF400- and p400-specific antibodies (Figure 3B). The data indicate that TRRAP/PAF400 represents the lower band of the E1A- and the RW144-bound 400 kDa doublet. Furthermore, TRRAP/PAF400 binding to E1A requires, like p400, residues 26–35 of E1A (Figure 3C). In addition, the interaction between p400 and TRRAP is independent of the presence of p300/CBP, given that anti-p400 IPs lacked these proteins (data not shown).
+
+Full-size image (26 K)
+Figure 3. 
+P400 and TRRAP/PAF400 Constitute the E1A-Associated p400 Protein Doublet
+(A) TRRAP/PAF400 represents the bottom band of the E1A-associated p400 doublet. Extracts of metabolically labeled 293 cells were subjected to IP with the indicated antibodies. Anti-E1A IPs from 293 cells were denatured and subjected to re-IP with RW144, α-TRRAP/PAF400, or control serum.
+(B) TRRAP/PAF400 and p400 interact with E1A. Extracts of 293 cells were subjected to IP with α-E1A, α-p300, RW144, or control antibody. Western blots were analyzed with α-p400 monoclonal antibody (PO212) (upper panel) or TRRAP/PAF400 polyclonal rabbit antiserum (lower panel).
+(C) E1A binding to TRRAP/PAF400 is dependent on E1A residues 26–35. Extracts of U2OS cells, transiently expressing wt E1A or E1A mutant protein, were subjected to E1A-specific IP. Western blots were analyzed with RW144 (upper panel) or α-TRRAP/PAF400 (lower panel)
+Figure options
+P400, Like TRRAP/PAF400, Is Associated with c-myc and Is a Component of a Multiprotein Complex
+We next asked whether p400, like its interaction partner, TRRAP/PAF400, associates with myc. GST-myc binding assays, performed with a U2OS cell extract, revealed that p400 binds specifically to myc in vitro (Figure 4A, lane 2). Moreover, an interaction between endogenous myc and p400 was apparent in IPs generated with two, different c-myc antibodies ( Figure 4B, lanes 3 and 4) as well as an antibody against the c-myc dimerization partner, max (lane 6). Thus, in keeping with the knowledge that p400 and TRRAP/PAF400 stably interact with one another, p400 also interacts, directly or indirectly, with c-myc.
+
+Full-size image (41 K)
+Figure 4. 
+p400 Is a Component of a Multiprotein Complex
+(A) P400 associates with myc in vitro. U2OS cell extracts were incubated with GST, GST/myc, or GST/E1A (4 μg) in the presence of Glutathione-Sepharose beads. Precipitated proteins were separated by SDS-PAGE, blotted, and the membrane probed with the p300/p400 antibody, RW144.
+(B) Complex formation between p400 and c-myc/max in vivo. HeLa cell extracts were incubated with either α-p400 (PO212), α-p300 (RW128), α-myc (N262 and C19), or α-max (C17) antibodies. To achieve specificity control, C17 and C19 were incubated with their respective cognate peptides prior to IP. Western blots were analyzed with α-p300/p400 (RW144, upper panel) or α-myc (9E10, lower panel) antibody.
+(C) p400 is a component of the TIP60 but not the p/CAF complex. HeLa cell extract was precipitated with α-p300 or α-p400 specific antibody. The precipitates were resolved by SDS-PAGE, in parallel with aliquots of purified TIP60 and p/CAF complexes (∼400 ng). Western blot analysis was performed with RW144 or α-TRRAP/PAF400 antibody, as indicated.
+(D) Identification of subunits present in the p400 complex. The p400 complex was purified by α-FLAG affinity purification from HeLa cell nuclear extract, containing FLAG-tagged recombinant p400, expressed under the control of a tetracycline-responsive promoter. 300 ng of the antibody column eluate was separated and silverstained. Characterized bands are named, other bands that were reproducibly detected in different preparations are marked with an asterisk.
+(E) Comparison of the p/CAF, TIP60, and p400 complexes. After Western blotting, approximately 300 ng of purified p/CAF complex, TIP60 complex and p400 complex were variously probed with α-p400 (PO28), α-TRRAP/PAF400, α-p/CAF, α-TIP60, and α-TAP54β antibodies
+Figure options
+TRRAP/PAF400 is a subunit of the human p/CAF complex (Vassilev et al. 1998), as well as the recently described TIP60 complex (Ikura et al., 2000). Western blot analysis of p/CAF (Ogryzko et al., 1998) and TIP60 complexes revealed the presence of p400 in the TIP60 but not the p/CAF complex (Figure 4C). As expected, TRRAP/PAF400 was present in both complexes (Figure 4C, lower segment). Thus, while both complexes contain TRRAP/PAF400, only one of them (TIP60) contains p400. It, therefore, appears that only a fraction of endogenous TRRAP/PAF400 is bound to p400. By contrast, analysis of IPs, generated with a panel of different p400-specific antibodies, suggested that the majority of endogenous p400 molecules exist in complex with TRRAP/PAF400 (data not shown).
+
+The above-noted results indicate that p400 is a component of at least one multiprotein complex. To further analyze this, we purified p400 from HeLa cells, expressing FLAG-tagged p400 under the control of a tetracycline-responsive promoter. Recombinant p400 and its associated proteins were purified from a nuclear extract by immunoaffinity chromatography and specific epitope-containing peptide elution. A specific and reproducible pattern of bands copurified with tagged p400 in the relevant eluate (Figure 4D).
+
+MS/MS spectrometric analysis identified a doublet migrating at ∼55 kDa as the DNA helicases, TAP54α and β (Figures 4D and 4E), also present in TIP60 complexes. TAP54α and β are identical to the myc-associated TIP48/49 helicases (Wood et al., 2000). Similar analysis further revealed two other ∼50 kDa proteins to be actin and the actin-like protein, BAF53 (Figure 4D), also components of the TIP60 complex and generic components of some SWI/SNF complexes Cairns et al. 1998, Peterson et al. 1998 and Zhao et al. 1998. Thus, p400 associates with a number of proteins also present in the TIP60 complex, consistent with the prior finding that purified TIP 60 complexes contain p400.
+
+To search for common subunits in the TIP60, p/CAF, and p400 complexes, we probed Western blots of purified complexes with specific antibodies against TIP60, TAP54β, p400, p/CAF, and PAF400/TRAP (Figure 4E). P/CAF was, as expected, absent in TIP60 and p400 complex preparations. Surprisingly, we failed to detect TIP60 protein in the p400 complex (Figure 4E), and, unlike purified TIP60 complexes, p400 complexes contained only minimal traces of HAT activity (M.F., T.I., and Y.N., unpublished observation).
+
+The data suggest that endogenous p400 exists in multiple complexes and that these complexes have certain unique subunits and functions. To address this possibility further, we have embarked upon the biochemical purification of endogenous p400 complexes from HeLa nuclear extracts. Our observations to date suggest that, in these extracts, there is biochemical heterogeneity among p400 complexes (R.D., M.F., and D.L., unpublished data), thus supporting the findings reported here. The functional significance of the existence of these different complexes remains to be deciphered.
+
+The p400 Complex Displays ATPase and Helicase Activities
+To assess the enzymatic properties of p400, we purified recombinant p400 from insect (Sf9) cells infected with a p400-encoding baculovirus. Interestingly, insect TAP54α/β copurified with human p400 (Figure 5A, lane 4), implying that p400 interacts effectively with both homologous and heterologous TAP54. A p400 deletion/point mutant (Δ1-1044/m) failed to bind TAP54α/β (Figure 5A, lane 5), underscoring the specificity of the p400/TAP54 interaction.
+
+Full-size image (40 K)
+Figure 5. 
+ATPase and Helicase Activity of the p400 Complex
+(A) p400 complexes purified from HeLa and Sf9 cells. Nuclear extracts of HeLa cells expressing and not expressing FLAG-epitope-tagged p400 as well as Sf9 cells expressing recombinant p400 or a mutant p400 species (Δ1-1044/m) were subjected to FLAG-affinity purification. Approximately 600 ng of each complex were separated by SDS-PAGE. Western blots were probed with α-FLAG and α-TAP54β antibodies.
+(B) The p400 complex displays ATPase activity. Increasing quantities of p400 complex (approximately 100, 200, and 300 ng of wt, mock generated, and dl1-1044/m complexes) prepared from HeLa or from Sf9 cells, as indicated, were assayed for ATPase activity. Each reaction mixture was (+) or was not (−) supplemented with dsDNA and stopped after 20 min of incubation. TAP54α, TAP54β, and TAP54α/β heterodimers (∼50 ng) served as positive controls.
+(C) The p400 complex displays helicase activity. The ability of purified p400 complexes to displace a [α-32P]GTP-labeled oligonucleotide from a circular template served as a measure of p400 complex helicase activity. The p400 complex purified from Hela and Sf9 cells, p400 Δ1-1044/m from Sf9 cells, and a mock preparation were each assayed for helicase activity. To assess the enzymatic nature of the observed reactions, the HeLa p400 preparation was incubated in the presence and absence of 25 mM EDTA. As a positive control for helicase activity, the standard template was incubated with purified TIP60 complex. Reaction mixtures lacking enzyme and containing denatured template are depicted as controls for nonspecific effects
+Figure options
+Thus far, we have been unable to dissociate biochemically the TAP54α/β doublet from wt p400, except under denaturing conditions. Therefore, it has not been possible to analyze the enzymatic function of intact, pure, in vivo synthesized p400. However, a bacterially expressed, p400 ATPase domain (residues 950–2048) lacked demonstrable ATPase activity. Although suggestive, this result might not be meaningful, because this incomplete p400 species might lack sufficient conformational elements to be enzymatically active.
+
+We measured the ATPase activities of immunoaffinity purified, epitope-tagged p400-containing complexes synthesized in both HeLa and Sf9 cells. Figure 5B depicts the results of a representative experiment, demonstrating concentration-dependent ATPase activity of the recombinant complexes from these two sources. As controls, a FLAG-affinity purified fraction, prepared from HeLa cells void of recombinant p400, and a FLAG-affinity purified fraction of Sf9 producing abundant quantities of a truncated version of p400 (Δ1–1044/m) were relatively inactive. P400 (Δ1-1044/m) contains a large N-terminal deletion, carries a point mutation in the putative ATP binding site, and is defective in TAP54α/β binding (Figure 5A, lane 5). These data suggest that the ATPase activity of the purified, p400-containing multiprotein complex is, at least in part, a product of bound TAP54α/β.
+
+The ATPase activity of purified human and SF9 p400 complexes was intrinsically high before addition of DNA and was minimally stimulated by exogenously added DNA. As has been previously reported for the yeast Ino80 complex (Shen et al., 2000), a complex with properties analogous to those of the p400 complex, it is likely that DNA copurifies with the p400 complex and serves as an “intrinsic” stimulator of complex-associated ATPase function. Similarly, the TIP60 complex showed high intrinsic ATPase activity without addition of DNA (Ikura et al., 2000). In this regard, preincubation of the HeLa-purified p400 complex with DNaseI resulted in reduced ATPase activity (data not shown).
+
+Recombinant p400-containing p400 complexes, purified from HeLa and Sf9 cells, were also assayed for DNA helicase activity. Both exhibited DNA unwinding activity (Figure 5C, lanes 4 and 7), and, similar to the case of the ATPase activity, this activity, too, correlated with the presence of TAP54α/β. Specifically, the p400 mutant (Δ1–1044/m), defective in TAP54α/β binding, was also defective in helicase activity (Figure 5C, lane 8). Thus far, p400 complexes have not displayed in vitro chromatin remodeling activity on either mononucleosomal or polynucleosomal templates (data not shown).
+
+Nature of the E1A-p400 and TAP54α/β-p400 Interactions
+To address the structure-function relationships underlying the TAP54α/β-p400 and E1A-p400 interactions, we generated a panel of p400 fragments fused to a Gal DNA binding domain (serving as an epitope) and transiently expressed them in HeLa and 293 cells. The HeLa cell extracts were IPed with α-TAP54β antibodies and the 293 extracts with α-E1A. Coprecipitation of p400 fragments was assayed by Western blotting. Figure 6A schematically depicts the p400 sequences necessary for these interactions. The data suggest that the p400 fragment containing the SWI2/SNF2-like N-terminal region (residues 951–1365) is sufficient for binding to TAP54α/β.
+
+Full-size image (24 K)
+Figure 6. 
+p400 Is an Essential E1A Transformation Target
+(A) Identification of the p400-E1A and p400-TAP54α/β binding sites within p400. Various p400 fragments were fused to a Gal4 DNA binding domain (GAL/DBD) and transiently expressed in 293 or HeLa cells. Cell extracts were subjected to IP with α-E1A (M73; 293 cell extract) or TAP54β-specific antibody (HeLa cell extract). Western blots were probed with α-Gal4-specific antibody (RK5C1). The results of these assays are presented schematically.
+(B) Specific p400 fragments enhance the ability of E1A + ras to transform rat embryo fibroblasts. 1.5 μg of E1A and 1.5 μg of ras expression vector were cotransfected with 7 μg of vector encoding the relevant GAL/DBD-p400 fusion protein, as indicated. After cultivation under reduced serum conditions for 14 days, foci were counted. The data were normalized to the number of foci observed in an E1A + ras transformation experiment in which the Gal/DNA binding fragment devoid of any p400 sequences was ectopically expressed. This control level of focus formation was artificially set at 100%. The results of three separate experiments are summarized.
+(C) Specific p400 fragments partially restore the ability of E1A Δ26-35 to transform rat embryonic fibroblasts in the presence of ras. 1.5 μg of the E1A Δ26-35 expression vector and 1.5 μg of the above-noted ras expression vector were cotransfected together with 7 μg of the relevant GAL/DBD-p400 fusion protein (or with unfused GAL/DBD as a control). Foci were counted after cultivation under reduced serum conditions for 14 days. The data were normalized with the number of foci observed after cotransfection of E1AΔ26-35 + ras, plus unfused Gal/DBD, set at 100%. The results of a representative experiment are shown
+Figure options
+Two segments of the SWI2/SNF2 homology domain co-IPed with E1A: Importantly, one fragment, residues 951–1365, is also the above-noted TAP54 binding fragment (see above). The other (residues 1333–2048) contains the spacer and the C-terminal region.
+
+A third p400 segment (aa 2033–2484) interacted with E1A when assayed in vivo but not in vitro (data not shown). The same fragment also constitutes the p400-TRRAP/PAF400 interaction surface (data not shown). Since the E1A-p400 interaction appears to be mediated by TRRAP/PAF400 (data not shown), it is likely to be indirect. These data also imply that TRRAP/PAF400 binds directly to E1A.
+
+P400/E1A Complex Formation Plays a Major Role in the E1A Transforming Process
+To investigate the role of p400-containing complexes in the E1A-mediated transforming process, we asked whether overproduction of specific p400 fragments modifies E1A transforming activity. Attention was focused on the SWI2/SNF2-related region that contains the E1A interaction sites (see above). Notably, three p400 fragments (residues 848–1099, 951–1365, and 1854–2008) significantly enhanced the transforming potential of E1A. A fragment corresponding to the SWI/SNF “spacer” unit (residues 1334–1860) was inactive (Figure 6B).
+
+Since multiple SWI/SNF domain fragments can interact with E1A (see above), we asked whether the transformation enhancing effects of the three segments that were active in this regard could be ascribed to direct/indirect sequestration of wt E1A. In particular, we performed an experiment to determine whether the relevant p400 fragments would complement, at least in part, the transformation-defective E1A deletion mutant, Δ26–35, in focus formation. This E1A species cannot bind efficiently to intact p400 or any of its fragments (see above). Indeed, the p400 fragments—856–1104, 951–1365, and 1854–2008—all restored transforming activity to E1A dl 26–35 while the spacer-containing fragment (1334–1860) was inactive. These results strongly suggest that these fragments, operating free of an E1A binding requirement, interfere with normal p400 function in an E1A-like manner. Thus, E1A-p400-TRRAP/PAF400 complex formation is likely a key element in the E1A transforming process.
+
+E1A and myc Target Different Components of the p400 Complex
+E1A interferes with pRB tumor suppressor function, at least in part, by “displacing” E2F from the pRB pocket domain, thereby interfering with pRB transcription repression function. In light of the aforementioned results, we asked whether E1A interferes in a similar way with the interaction of p400 with any of its associated proteins. In particular, since E1A and TAP54α/β interact with a common region of the p400 SWI2/SNF2 homology domain, we asked whether E1A-p400 complexes contain TAP54α/β.
+
+An extract of HeLa cells synthesizing HA-tagged TAP54β (V.O., T.I., and Y.N., unpublished data) was incubated, in parallel, with equivalent quantities of GST, GST/myc, and GST/E1A. Bound proteins were analyzed by Western blotting. Consistent with recent observations on the c-myc/TAP54α/β[Tip48/49] interaction, only GST/myc recruited recombinant TAP54β in this assay (Figure 7A). However, in keeping with the results shown in Figure 4A, GST/myc and GST/E1A both bound p400 in the same experiment (data not shown). These results imply that E1A and TAP54 cannot interact simultaneously with p400. Thus, E1A either excludes p400 complexes containing TAP54, or it promotes the displacement of TAP54 from (otherwise intact) p400 structures.
+
+Full-size image (28 K)
+Figure 7. 
+Different Forms of the p400 Complex Associate with E1A and myc
+(A) E1A excludes TAP54 from the p400 complex. GST, GST/myc, and GST/E1A were incubated with lysates of HeLa cells synthesizing recombinant HA-tagged TAP54β in the presence of Glutathione-Sepharose beads. Western blots of the bead-bound, electrophoresed proteins were probed with α-TAP54β.
+(B) Enhancer of Polycomb coelutes with p400. Nuclear extracts of HeLa cells, induced to express recombinant p400, were incubated with α-FLAG affinity-agarose and bound proteins eluted with FLAG peptide. Eluates were electrophoresed, and Western blots were probed with α-FLAG (M5) or α-EPc (Enhancer of Polycomb) antibody.
+(C) EPc associates with E1A. 293 cell lysates were subjected to IP with RW144 (α-p300/p400), α-E1A, or α-p400 antibody. Western blot analysis was performed with RW144 or α-EPc antiserum.
+(D) EPc is not a component of the myc-associated p400 complex. HeLa cells were transiently transfected with recombinant, HA-tagged EPc or empty vector. Cell extracts were incubated with either α-myc, α-max, or α-HA (F7) antibody. Western blots were probed with RW144 (α-p300/p400) or α-HA (12CA5) antibody
+Figure options
+The NuA4 complex contains components homologous to those identified in the TIP60 complex, e.g., Esa1, Tra1, and ARPs Allard et al. 1999 and Galarneau et al. 2000. Recently, a homolog of Drosophila Enhancer of Polycomb (EPc), a protein associated with epigenetic chromatin modulation, was identified in the NuA4 complex (Galarneau et al., 2000). Likewise, TIP60 complexes contain the human homolog of EPc (V.O., T.I., and Y.N., unpublished data). Western blot analysis with an EPc-specific antiserum revealed the presence of human EPc in p400 complexes that had been FLAG-affinity purified from Hela cells synthesizing FLAG-tagged p400 (Figure 7B). Furthermore, endogenous EPc coprecipitated with E1A and endogenous p400, but not with p300, in extracts of 293 cells, suggesting that EPc is a component of an E1A-bound p400 complex (Figure 7C). Finally, p400 was present in an EPc co-IP (Figure 7D), and EPc coprecipitated with both p400 and TAP54 in TAP54 IPs (data not shown). Taken together, these data strongly suggest that EPc is a member of the p400 complex.
+
+To determine whether c-myc/p400 complexes also contain EPc, recombinant epitope-tagged murine EPc was transiently expressed in HeLa cells. Lysates were exposed to specific myc/max IP. Importantly, myc/EPc co-IP was not detected, despite the presence of readily detected c-myc/p400 coprecipitation ( Figure 7D, lower panel). By contrast, p400 coprecipitated with transfected, recombinant EPc ( Figure 7D, lane 3). Thus, analogous to the E1A-TAP54 situation, either c-myc targets a form of the p400 complex that does not contain EPc or c-myc/ p400 complex formation is associated with displacement of EPc.
+
+Discussion
+Reported here are the properties of a multiprotein complex whose central component is a 400 kDa protein with strong SWI2/SNF2 homology. SWI2/SNF2 ATPases are vital participants in chromatin remodeling events linked to processes including transcription, recombination, and DNA repair. The complex also contains TRRAP/PAF400, a myc-associated cofactor that was previously shown to be essential for myc-induced transformation. Both proteins, TRRAP/PAF400 and p400, represent the previously described 400 kDa, E1A binding doublet. Other components of the p400 complex include the DNA helicases TAP54α/β, β-actin, actin-like BAF53, and the mammalian homolog of Drosophila Enhancer of Polycomb. In Drosophila, EPc participates in epigenetic silencing mechanisms, like position effect variegation (Sinclair et al., 1998).
+
+Our results link the binding of E1A to p400 complexes and the E1A transforming mechanism. Specifically, certain p400 fragments stimulated wt E1A transforming activity and rescued the transforming defect of E1AΔ26-35, a mutant deficient in p400 complex binding. Furthermore, p400 complexes contain TRRAP/PAF400, which has been shown previously to interact with myc and to participate in the myc and E1A transforming process. Analogous to the case of p400 fragments and E1A, TRRAP/PAF400 fragments served as modulators of myc transforming activity (McMahon et al., 1998).
+
+Upon binding to E1A, the p400 complex likely undergoes one or more specific perturbations that contribute to E1A transforming action. The observation that E1A and TAP54 interact with the same segment of p400 and that E1A binding apparently displaces TAP54 from p400 complexes or selects against its presence in these structures suggests that E1A binding modulates TAP54 activity. Previous results implied that TAP54 helicase activity was inapparent until it joined TIP60 complexes (Ikura et al., 2000). The E1A transforming process might, therefore, include the suppression of TAP54 enzymatic activity. The binding of a second oncoprotein, c-myc, also influenced the protein composition of the p400 complex. Myc-associated p400 complexes lacked the EPc protein, although they contain TAP54 (Wood et al., 2000) and other members of the complex. Thus, both c-myc and E1A either select partially, albeit specifically, assembled complexes or selectively displace at least one member of an intact p400 complex. In both cases, the effect on p400 subunit composition correlates with E1A/c-myc transforming activity. Interestingly, the protein(s) missing from the p400 complex in the two cases was different. In this regard, TAP54 appears to be a necessary participant in myc-mediated transformation (Wood et al., 2000). It is therefore not surprising that myc-bound p400 complexes contain this protein.
+
+Selective protein loss from a multisubunit complex by E1A and other viral oncoproteins is a well known phenomenon, i.e., the loss of various E2F species from nuclear pocket protein-containing complexes (Nevins, 1992). As with E1A and c-myc binding to p400 complexes, selective protein loss from pocket protein-containing complexes correlated with oncoprotein transforming activity.
+
+Myc also interacts with the histone acetyltransferase, Gcn5, and a myc-Gcn5 fusion protein can partially restore the ability of certain mutant myc species to transform rodent cells (McMahon et al., 2000). Yeast Gcn5 forms a complex with the TRRAP/PAF400 yeast homolog, Tra1 (Saleh et al., 1998), and p/CAF can associate with TRRAP/PAF400 (Vassilev et al., 1998). Therefore, one might hypothesize that myc interacts with at least two different TRRAP/PAF400-containing complexes, the p400 complex and the GCN5/TRRAP/PAF400 complex. It is conceivable that targeting of both complexes is essential for myc-dependent transformation.
+
+The p400 complex displayed ATPase and helicase activities. These functions are, at least in part, contributed by TAP54α/β. The binding site for TAP54 maps to the N-terminal segment of the p400 SWI2/SNF2-homology domain, and TAP54/p400 complex formation did not inhibit TAP54α/β helicase activity. Rather, recombinant TAP54α/β heterodimers are inactive as a helicase and appear to require ancillary components present in a TIP60 complex to be activated (Ikura et al., 2000). Thus, for the appearance of helicase activity, binding of TAP54α/β to p400 might be crucial.
+
+Members of the SWI2/SNF2 family induce widespread changes in the rearrangement of the DNA wrapped around histone octamers. The p400 complex has, thus far, proven to be inactive in this assay, though the molecular basis for this observation is unclear. One possibility is that the purified complex lacks a key component necessary for eliciting in vitro chromatin remodeling activity. A second is that the presence of EPc in the complex may have an inhibitory effect, since EPc is suspected of promoting a state of transcriptional silencing and the formation of heterochromatin Shimono et al. 2000 and Sinclair et al. 1998. Thus, one wonders whether one role of the Epc-containing p400 complex is to block chromatin remodeling, behaving in this regard like Polycomb group proteins (Shao et al., 1999). Third, we cannot exclude the possibility that the lack of chromatin remodeling activity by the purified complex is due to a lack of intrinsic p400 ATPase activity.
+
+The p400 complex shares components with the recently described TIP60-associated complex, including TRRAP/PAF400, TAP54α/β, actin/actin-related proteins (Ikura et al., 2000), and EPc (V.O., T.I., and Y.N., unpublished data). Though p400 is a component of the TIP60 complex, we failed to detect TIP60 in p400 complex preparations. These results suggest that related complexes containing certain common components and lacking others coexist in the cell. Conceivably, the polypeptide composition of various complexes changes with cell behavior, e.g., during the cell cycle, following cell stress, during development/differentiation, and/or after DNA damage.
+
+In considering the biochemical functions of the p400 complex, it seems likely that it plays a role in the control of DNA mechanics and chromatin remodeling events. Despite the absence of direct biochemical proof for this view, the presence of a SWI2/SNF2 family member, paired DNA helicases, and EPc, a known controller of chromatin structure, constitutes a sizeable body of suggestive, albeit circumstantial evidence.
+
+Recent findings have established a link between defective chromatin remodeling and human cancer development. Mutations in the hSNF5/INI1 subunit of a human SWI/SNF complex have been observed in the tumor cells of pediatric rhabdoid tumor (Versteege et al., 1998), and of chronic myelogenous leukemia (Grand et al., 1999). Since the p400 complex has now been identified as a key E1A and c-myc transformation target, it would not be surprising to find that, like the cases of other E1A binding proteins (pRB, p300/CBP), one or more of its components has human tumor suppressing activity. In that context, it will be interesting to determine whether the gene encoding p400 or any other component of the p400 complex is repeatedly mutated in human cancer.
+
+Experimental Procedures
+Cell Culture
+The tetracycline-responsive, recombinant p400 cell line was generated in HeLa Tet-Off cells (Clontech) by transfection with a pTre2 vector (Clontech) encoding full-length, FLAG-tagged p400 and a hygromycin resistance marker plasmid in a 20:1 ratio using FUGENE as a transfection reagent (Roche) and then grown in DMEM supplemented with 10% FBS, 2 μg/ml tetracycline, 150 μg/ml hygromycin, and 350 μg/ml Geneticin (G418, GibcoBRL). Recombinant p400 was induced within 48–72 hr after tetracycline withdrawal. Sf9 insect cells (Gibco BRL) were grown at a density of 1–2.5 × 106 cells/ml and infected with baculovirus encoding recombinant wt or mutant p400 protein according to the manufacturer's instructions (BAC-TO-BAC Baculovirus Expression System, GibcoBRL).
+
+Protein Purification and Peptide Sequencing
+Monoclonal antibodies RW128 and RW144 (Eckner et al., 1994) were covalently coupled to Protein A-Sepharose beads. HeLa cells (50 g) were lysed in NET-N/[170] buffer (20 mM Tris/HCl [pH 8.0], 170 mM NaCl2, and 0.5% NP-40), supplemented with a protease inhibitor cocktail (Roche), and incubated twice with RW128-affinity beads for 5 hr at 4°C. The supernatant was incubated with RW144-coupled matrix overnight at 4°C. Beads were washed with NET-N[500] and NET-N[100], and proteins eluted by boiling in 50 mM Tris/HCl, (pH 8.0), 1% SDS, 5 mM EDTA, and 5 mM DTT. Further purification of p400 was performed by reapplying the eluate, diluted 1:10 in NET-N[170], to a second aliquot of RW144 matrix. Eluted proteins were then resolved by SDS-PAGE, and the p400 band was excised from the gel for subsequent sequencing. TRRAP/PAF400 was prepared for microsequencing by elution of protein from the first RW144-coupled matrix followed by preparative SDS-PAGE. Excised p400 and TRRAP/PAF400 gel bands were analyzed for protein sequence at the Harvard Microchemistry Facility. Detailed information will be communicated upon request. MS/MS analysis of individual subunits of the p400 complex was performed at the DFCI Molecular Biology Core Facility.
+
+P400 Cloning
+Peptide information obtained from p400 sequence analysis mapped to a partial cDNA clone, GenBank accssion number: U80743(Margolis et al., 1997). This sequence information was used for screening a random-primed HeLa cDNA library (Clontech) applying standard hybridization methods. A resulting partial cDNA clone was further extended using a combinatorial approach of cDNA library screening and RACE (rapid amplification of cDNA ends), using the 5′ RACE System (GibcoBRL) in combination with Advantage HF-2 Polymerase Mix (Clontech). Detailed information on cloning steps and primers are available on request.
+
+Expression Plasmids
+A p400 full-length cDNA product bearing an N-terminal FLAG epitope was assembled in a pCMV-β expression plasmid (Eckner et al., 1994). P400 cDNA fragments were amplified using standard PCR techniques and subcloned in frame into a pMMP vector (gift from R. Mulligan, HHMI) bearing a segment encoding an N-terminal Gal4 DNA binding domain (GAL/DBD) (Kung et al., 2000).
+
+To generate recombinant baculoviruses encoding wt and mutant p400, the corresponding cDNAs were cloned in pTre (GibcoBRL). The p400 deletion mutation, 1-1044 ΔN/m, was generated with the assistance of the QuikChange Site-Directed Mutagenesis Kit (Stratagene), using a primer encoding a K-A mutation in the p400 ATP binding site (residue 1086).
+
+Using the SUPERSCRIPT One-Step RT-PCR kit (GibcoBRL), murine Enhancer of Polycomb cDNA (GenBank accesion number: NM_007935) was cloned in frame into the pCMVβ vector modified by an N-terminal HA epitope (N′-YPYDVPDYA-C′) followed by an NLS sequence.
+
+Antibodies
+The monoclonal antibodies RW144 and RW128 have been described previously (Eckner et al., 1994). Monoclonal p400 antibody, PO212, was raised against a polypeptide containing p400 residues 1349–1773. The rabbit α-TRRAP/PAF400 antibody, C45 (Figure 3A), was raised against residues 3495–3655 of TRRAP/PAF400. The TRRAP/PAF400 antibody used in Western blot analysis has been described previously (Vassilev et al., 1998). E1A antibody, M73; α-c-myc antibodies C19, 9E10, and N262; α-max antibody, C17; α-Gal-DBD antibody, RK5C1; α-HA epitope antibodies, Y-11 and F7 (agarose conjugated); as well as specific blocking peptides were purchased from Santa Cruz Biotechnology. The FLAG epitope antibodies, M2 and M5, were obtained from Sigma. The EPc-directed antibody was raised against a fragment of human EPc containing residues 2–200. TAP54β and p/CAF antibodies have been described Ikura et al. 2000 and Yang et al. 1996. TIP60 antibody was purchased from Upstate Biotechnology; the HA antibody, 12CA5, was obtained from Roche.
+
+Purification of the p400 Complex
+Nuclear extracts of HeLa or infected Sf9 cells expressing recombinant p400 were prepared as describedby Dignam et al. (1983) and dialyzed into BC[150] buffer (20 mM HEPES [pH 8.0], 150 mM KCl, 20% glycerol, 1 mM DTT, and 0.5 mM PMSF). FLAG-affinity purification of epitope-tagged recombinant p400 complexes was performed as described previously (Sif et al., 1998), applying serial washes with 0.15 M, 0.3 M, and 0.5 M KCl-containing BC buffer.
+
+Protein Expression, Immunoprecipitation, and Western Blot Analysis
+Transient expression of proteins was performed using the FUGENE transfection method (Roche). Cells were lysed in NET-N, and IPs were performed using standard procedures. SDS-PAGE was performed in Tris-Glycine (6%), Tris-Acetate (3%–8%), or Bis-Tris (4%–12%) SDS polyacrylamide gels purchased from Novex. Proteins were transferred to nitrocellulose membranes (Novex) by Wet-Transfer in a buffer containing 48 mM Tris/HCl, (pH 8.0), 390 mM glycine, 0.1% SDS, and 20.0% methanol for 12 hr (p400) or 4 hr (all other proteins).
+
+Focus Formation Assay
+Primary rat embryonic fibroblasts were prepared from embryos of pregnant rats (14 day gestation, Taconic, Germantown, NY) as described (Land, 1995). 106 cells were transfected with 1.5 μg of an E1A and an activated ras expression plasmid and 7 μg of a plasmid encoding a relevant Gal-p400 fusion protein using FUGENE. After 48 hr, transfected cells were split 1:8 and cultivated for 10–14 days in DMEM containing 5% FBS.
+
+DNA Helicase and ATPase Assays
+The helicase substrate was prepared, and helicase reactions were performed as described in Drapkin et al. (1996) using a 35-mer oligonucleotide (5′-ATTAAGTTGGGTAACGCCAGGGTTTTCCCAGTCAC-3′) annealed to single-stranded M13mp18. Reactions were resolved by electrophoresis in an 8% native polyacrylamide gel containing 25% glycerol at 90 V for 3 hr at 4°C. The substrate and single-stranded products were visualized by autoradiography.
+
+To measure the ATPase activity of p400 complexes and TAP54α/β, approximately 50, 100, and 150 ng of p400 protein (quantitated by silverstaining) and 50 ng of TAP54α, β, and α/β were incubated with or without 100 nM DNA and 100 μM ATP, as described (Phelan et al., 1999). The reaction mixture was analyzed by PEI chromatography, and the percentage of free [32α-P]phosphate was measured.
+
+Acknowledgements
+We thank Drs. Steve McMahon and Michael Cole for early communication of TRRAP/PAF400 sequence information; Jenny Zhoa and Dr. James DeCaprio for help in generating monoclonal antibodies against p400; Drs. Robert Kingston and Nicole Francis for their advice and help with chromatin remodeling assays; and Clara Chen for her assistance in generating p400-encoding recombinant plasmids. We thank Drs. Bruno Amati and Hartmut Land for E1A and ras expression vectors, and Drs. Hartmut Land and Laurent Deleu for communicating unpublished results on mutant E1A transforming effects. We are indebted to R. Robinson, J. Neveu, D. Kirby, and K. Pierce for their expert HPLC, mass spectrometry, and peptide sequencing analyses. We also thank the members of the DFCI Molecular Core Facility for their expert assistance. The advice and support of other members of the Livingston laboratory are deeply appreciated. This work was supported by the German Research Association DFG (M.F.), a Breast Cancer Research Grant from the Massachusetts Department of Public Health (M.F.), an NIH Physician training grant (T32-HL07627-16, R.D.), and the National Cancer Institute (D.M.L.).
+
+Accession Numbers
+The GenBank accession number of the p400 sequence reported here is AY044869.
+
+References
+Allard et al. 1999
+S. Allard, R.T. Utley, J. Savard, A. Clarke, P. Grant, C.J. Brandl, L. Pillus, J.L. Workman, J. Cote
+NuA4, an essential transcription adaptor/histone H4 acetyltransferase complex containing Esa1p and the ATM-related cofactor Tra1p
+EMBO J., 18 (1999), pp. 5108–5119
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+Barbeau et al. 1994
+D. Barbeau, R. Charbonneau, S.G. Whalen, S.T. Bayley, P.E. Branton
+Functional interactions within adenovirus E1A protein complexes
+Oncogene, 9 (1994), pp. 359–373
+
+View Record in Scopus | Citing articles (83)
+Bayley and Mymryk 1994
+S.T. Bayley, J.S. Mymryk
+Adenovirus E1A proteins and transformation
+Int. J. Oncol., 5 (1994), pp. 425–444
+
+View Record in Scopus | Citing articles (137)
+Cairns et al. 1998
+B.R. Cairns, H. Erdjument-Bromage, P. Tempst, F. Winston, R.D. Kornberg
+Two actin-related proteins are shared functional components of the chromatin-remodeling complexes RSC and SWI/SNF
+Mol. Cell, 2 (1998), pp. 639–651
+
+Article |  PDF (522 K) | View Record in Scopus | Citing articles (141)
+Dignam et al. 1983
+J.D. Dignam, P.L. Martin, B.S. Shastry, R.G. Roeder
+Eukaryotic gene transcription with purified components
+Methods Enzymol., 101 (1983), pp. 582–598
+
+Article |  PDF (986 K) | View Record in Scopus | Citing articles (524)
+Drapkin et al. 1996
+R. Drapkin, G. Le Roy, H. Cho, S. Akoulitechev, D. Reinberg
+Human cyclin-dependent kinase-activating kinase exists in three distinct complexes
+Proc. Natl. Acad. Sci. USA, 93 (1996), pp. 6488–6493
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+Eckner et al. 1994
+R. Eckner, M.E. Ewen, D. Newsome, M. Gerdes, J.A. DeCaprio, J.B. Lawrence, D.M. Livingston
+Molecular cloning and functional analysis of the adenovirus E1A-associated 300-kD protein (p300) reveals a protein with properties of a transcriptional adaptor
+Genes Dev., 8 (1994), pp. 869–884
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (773)
+Galarneau et al. 2000
+L. Galarneau, A. Nourani, A.A. Boudreault, Y. Zhang, L. Heliot, S. Allard, J. Savard, W.S. Lane, D.J. Stillman, J. Cote
+Multiple links between the NuA4 histone acetyltransferase complex and epigenetic control of transcription
+Mol. Cell, 5 (2000), pp. 927–937
+
+Article |  PDF (394 K) | View Record in Scopus | Citing articles (182)
+Goodman and Smolik 2000
+R.H. Goodman, S. Smolik
+CBP/p300 in cell growth, transformation, and development
+Genes Dev., 14 (2000), pp. 1553–1577
+
+View Record in Scopus | Citing articles (996)
+Grand et al. 1999
+F. Grand, S. Kulkarni, A. Chase, J.M. Goldman, M. Gordon, N.C. Cross
+Frequent deletion of hSNF5/INI1, a component of the SWI/SNF complex, in chronic myeloid leukemia
+Cancer Res., 59 (1999), pp. 3870–3874
+
+View Record in Scopus | Citing articles (83)
+Howe and Bayley 1992
+J.A. Howe, S.T. Bayley
+Effects of Ad5 E1A mutant viruses on the cell cycle in relation to the binding of cellular proteins including the retinoblastoma protein and cyclin A
+Virology, 186 (1992), pp. 15–24
+
+Article |  PDF (2225 K) | View Record in Scopus | Citing articles (45)
+Ikura et al. 2000
+T. Ikura, V.V. Ogryzko, M. Grigoriev, R. Groisman, J. Wang, M. Horikoshi, R. Scully, J. Qin, Y. Nakatani
+Involvement of the TIP60 histone acetylase complex in DNA repair and apoptosis
+Cell, 102 (2000), pp. 463–473
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (632)
+Jelsma et al. 1989
+T.N. Jelsma, J.A. Howe, J.S. Mymryk, C.M. Evelegh, N.F. Cunniff, S.T. Bayley
+Sequences in E1A proteins of human adenovirus 5 required for cell transformation, repression of a transcriptional enhancer, and induction of proliferating cell nuclear antigen
+Virology, 171 (1989), pp. 120–130
+
+Article |  PDF (1459 K) | View Record in Scopus | Citing articles (60)
+Johnston et al. 1999
+H. Johnston, J. Kneer, I. Chackalaparampil, P. Yaciuk, J. Chrivia
+Identification of a novel SNF2/SWI2 protein family member, SRCAP, which interacts with CREB-binding protein
+J. Biol. Chem., 274 (1999), pp. 16370–16376
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+Kung et al. 2000
+A.L. Kung, S. Wang, J.M. Klco, W.G. Kaelin, D.M. Livingston
+Suppression of tumor growth through disruption of hypoxia-inducible transcription
+Nat. Med., 6 (2000), pp. 1335–1340
+
+View Record in Scopus | Citing articles (377)
+Land 1995
+H. Land
+Transformation of primary rat embryo cells
+Methods Enzymol., 254 (1995), pp. 37–41
+
+Article |  PDF (276 K) | View Record in Scopus | Citing articles (11)
+Margolis et al. 1997
+R.L. Margolis, M.R. Abraham, S.B. Gatchell, S.H. Li, A.S. Kidwai, T.S. Breschel, O.C. Stine, C. Callahan, M.G. McInnis, C.A. Ross
+cDNAs with long CAG trinucleotide repeats from human brain
+Hum. Genet., 100 (1997), pp. 114–122
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+McMahon et al. 1998
+S.B. McMahon, B.H. Van, K.A. Dugan, T.D. Copeland, M.D. Cole
+The novel ATM-related protein TRRAP/PAF400 is an essential cofactor for the c-Myc and E2F oncoproteins
+Cell, 94 (1998), pp. 363–374
+
+Article |  PDF (496 K) | View Record in Scopus | Citing articles (371)
+McMahon et al. 2000
+S.B. McMahon, M.A. Wood, M.D. Cole
+The essential cofactor TRRAP/PAF400 recruits the histone acetyltransferase hGCN5 to c-Myc
+Mol. Cell. Biol., 20 (2000), pp. 556–562
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+Nevins 1992
+J.R. Nevins
+E2f: a link between the Rb tumor suppressor protein and viral oncoproteins
+Science, 258 (1992), pp. 424–429
+
+View Record in Scopus | Citing articles (1015)
+Ogryzko et al. 1998
+V.V. Ogryzko, T. Kotani, X. Zhang, R.L. Schlitz, T. Howard, X.J. Yang, B.H. Howard, J. Qin, Y. Nakatani
+Histone-like TAFs within the P/CAF histone acetylase complex
+Cell, 94 (1998), pp. 35–44
+
+Article |  PDF (561 K) | View Record in Scopus | Citing articles (421)
+Pause and Sonenberg 1992
+A. Pause, N. Sonenberg
+Mutational analysis of a DEAD box RNA helicase: the mammalian translation initiation factor eIF-4A
+EMBO J., 11 (1992), pp. 2643–2654
+
+View Record in Scopus | Citing articles (404)
+Peterson et al. 1998
+C.L. Peterson, Y. Zhao, B.T. Chait
+Subunits of the yeast SWI/SNF complex are members of the actin-related protein (ARP) family
+J. Biol. Chem., 273 (1998), pp. 23641–23644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+Phelan et al. 1999
+M.L. Phelan, S. Sif, G.J. Narlikar, R.E. Kingston
+Reconstitution of a core chromatin remodeling complex from SWI/SNF subunits
+Mol. Cell, 3 (1999), pp. 247–253
+
+Article |  PDF (161 K) | View Record in Scopus | Citing articles (315)
+Saleh et al. 1998
+A. Saleh, D. Schieltz, N. Ting, S.B. McMahon, D.W. Litchfield, J.R. Yates 3rd, S.P. Lees-Miller, M.D. Cole, C.J. Brandl
+Tra1p is a component of the yeast Ada.Spt transcriptional regulatory complexes
+J. Biol. Chem., 273 (1998), pp. 26559–26565
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (92)
+Shao et al. 1999
+Z. Shao, F. Raible, R. Mollaaghababa, J.R. Guyon, C.T. Wu, W. Bender, R.E. Kingston
+Stabilization of chromatin structure by PRC1, a Polycomb complex
+Cell, 98 (1999), pp. 37–46
+
+Article |  PDF (268 K) | View Record in Scopus | Citing articles (464)
+Shen et al. 2000
+X. Shen, G. Mizuguchi, A. Hamiche, C. Wu
+A chromatin remodelling complex involved in transcription and DNA processing
+Nature, 406 (2000), pp. 541–544
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (441)
+Shimono et al. 2000
+Y. Shimono, H. Murakami, Y. Hasegawa, M. Takahashi
+RFP is a transcriptional repressor and interacts with enhancer of polycomb that has dual transcriptional functions
+J. Biol. Chem., 275 (2000), pp. 39411–39419
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (60)
+Sif et al. 1998
+S. Sif, P.T. Stukenberg, M.W. Kirschner, R.E. Kingston
+Mitotic inactivation of a human SWI/SNF chromatin remodeling complex
+Genes Dev., 12 (1998), pp. 2842–2851
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (191)
+Sinclair et al. 1998
+D.A. Sinclair, N.J. Clegg, J. Antonchuk, T.A. Milne, K. Stankunas, C. Ruse, T.A. Grigliatti, J.A. Kassis, H.W. Brock
+Enhancer of Polycomb is a suppressor of position-effect variegation in Drosophila melanogaster
+Genetics, 148 (1998), pp. 211–220
+
+View Record in Scopus | Citing articles (44)
+Vassilev et al. 1998
+A. Vassilev, J. Yamauchi, T. Kotani, C. Prives, M.L. Avantaggiati, J. Qin, Y. Nakatani
+The 400 kD subunit of the P/CAF histone acetylase complex belongs to the ATM superfamily
+Mol. Cell, 2 (1998), pp. 869–875
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (133)
+Versteege et al. 1998
+I. Versteege, N. Sevenet, J. Lange, M.F. Rousseau-Merck, P. Ambros, R. Handgretinger, A. Aurias, O. Delattre
+Truncating mutations of hSNF5/INI1 in aggressive paediatric cancer
+Nature, 394 (1998), pp. 203–206
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (705)
+Whyte et al. 1988
+P. Whyte, H.E. Ruley, E. Harlow
+Two regions of the adenovirus early region 1A proteins are required for transformation
+J Virol, 62 (1988), pp. 257–265
+
+View Record in Scopus | Citing articles (100)
+Wood et al. 2000
+M.A. Wood, S.B. McMahon, M.D. Cole
+An ATPase/helicase complex is an essential cofactor for oncogenic transformation by c-Myc
+Mol. Cell, 5 (2000), pp. 321–330
+
+Article |  PDF (450 K) | View Record in Scopus | Citing articles (193)
+Yang et al. 1996
+X.J. Yang, V.V. Ogryzko, J. Nishikawa, B.H. Howard, Y. Nakatani
+A p300/CBP-associated factor that competes with the adenoviral oncoprotein E1A
+Nature, 382 (1996), pp. 319–324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1156)
+Zhao et al. 1998
+K. Zhao, W. Wang, O.J. Rando, Y. Xue, K. Swiderek, A. Kuo, G.R. Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Correspondence: David M. Livingston, (617) 632 3069 (phone), (617) 632 4381 (fax)
+Copyright © 2001 Cell Press. All rights reserved.

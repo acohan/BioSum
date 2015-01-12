@@ -1,0 +1,543 @@
+Cell
+Volume 129, Issue 6, 15 June 2007, Pages 1065–1079
+ Cover image
+Article
+Integrative Genomic Approaches Identify IKBKE as a Breast Cancer Oncogene
+Jesse S. Boehm1, 3, 4, 9, 10, Jean J. Zhao2, 7, 10, Corresponding author contact information, E-mail the corresponding author, Jun Yao1, 3, 10, So Young Kim1, 3, 4, 5, 9, Ron Firestein1, 3, 4, 8, 9, Ian F. Dunn1, 3, 4, 6, 9, Sarah K. Sjostrom1, 3, 4, 9, Levi A. Garraway1, 3, 5, 9, Stanislawa Weremowicz8, Andrea L. Richardson8, Heidi Greulich1, 5, 9, Carly J. Stewart1, 3, 4, 9, Laura A. Mulvey1, 3, Rhine R. Shen1, 3, 4, 9, Lauren Ambrogio1, 9, Tomoko Hirozane-Kishikawa2, 4, David E. Hill2, 4, Marc Vidal2, 4, Matthew Meyerson1, 8, 9, Jennifer K. Grenier9, Greg Hinkle1, 4, 9, David E. Root9, Thomas M. Roberts2, 11, Eric S. Lander9, 11, Kornelia Polyak1, 3, 5, 11, William C. Hahn1, 3, 4, 5, 9, 11, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2007.03.052
+  Open Archive
+Summary
+The karyotypic chaos exhibited by human epithelial cancers complicates efforts to identify mutations critical for malignant transformation. Here we integrate complementary genomic approaches to identify human oncogenes. We show that activation of the ERK and phosphatidylinositol 3-kinase (PI3K) signaling pathways cooperate to transform human cells. Using a library of activated kinases, we identify several kinases that replace PI3K signaling and render cells tumorigenic. Whole genome structural analyses reveal that one of these kinases, IKBKE (IKKɛ), is amplified and overexpressed in breast cancer cell lines and patient-derived tumors. Suppression of IKKɛ expression in breast cancer cell lines that harbor IKBKE amplifications induces cell death. IKKɛ activates the nuclear factor-kappaB (NF-κB) pathway in both cell lines and breast cancers. These observations suggest a mechanism for NF-κB activation in breast cancer, implicate the NF-κB pathway as a downstream mediator of PI3K, and provide a framework for integrated genomic approaches in oncogene discovery.
+
+Introduction
+Nearly all epithelial malignancies exhibit numerous karyotypic abnormalities and abundant evidence of widespread genetic alterations. This complexity of genome structure complicates efforts to delineate the roles of these mutations in cancer initiation and maintenance. However, the recent development of several complementary experimental approaches now provides the tools necessary to systematically deconvolute the complexity of somatic cancer genetics.
+
+One experimental approach is to identify genes and proteins that drive cellular transformation through the construction of experimental models of cancer. Together with increasingly sophisticated genetically engineered murine cancer models, human cell-based systems enable the examination of the roles of specific mutations implicated in cell transformation. Recent work indicates that a limited set of genetic changes suffice to transform human cells (Hahn et al., 1999). Specifically, the coexpression of the telomerase catalytic subunit (hTERT), the SV40 Large T (LT) and small t (ST) oncoproteins, and an activated allele of H-RAS (H-RASV12) render a wide range of human cells tumorigenic ( Zhao et al., 2004). These models have facilitated the identification of candidate oncogenes and tumor suppressor genes ( Rowland et al., 2005 and Westbrook et al., 2005). These approaches facilitate the identification of genes that have the potential to drive tumorigenesis but do not alone establish whether these genes truly play a role in human cancer.
+
+A second approach is to characterize the genomic alterations seen in cancer specimens using increasingly powerful tools to identify amplifications, deletions, karyotypic rearrangements, and point mutations. Some recurrent amplifications identified by genome scale approaches such as high-density single-nucleotide polymorphism (SNP) arrays and array comparative genomic hybridization (aCGH) contain well-characterized oncogenes such as EGFR ( Zhao et al., 2005) and c-MYC ( Morrison et al., 2005). These observations suggest other regions recurrently amplified in human tumors contain other yet-to-be-characterized oncogenes. Indeed, recent applications of these technologies led to the identification of MITF, c-IAP1, and YAP as human oncogenes ( Garraway et al., 2005 and Zender et al., 2006). However, amplified regions are often large, spanning several megabases to entire chromosome arms. Therefore, functional tools are needed to pinpoint specific genes that drive transformation targeted by copy-number alterations.
+
+A third approach is the systematic modulation of the expression of genes encoded in regions of chromosomal imbalance. Although such studies have previously required painstaking gene-by-gene analyses, RNA interference (RNAi) now provides the means to define the functional consequences of gene copy-number changes in a rapid and comprehensive manner. Indeed, several large RNAi libraries now exist and have been used to examine the function of genes in a high-throughput manner (Berns et al., 2004 and Paddison et al., 2004), including those necessary for cancer cell viability (Moffat et al., 2006 and Ngo et al., 2006).
+
+In principle, it should be possible to integrate such approaches to develop a framework to identify and validate genes critical to cancer development. Here we have applied such an integrative genomic approach to the Ras signaling pathway. The Ras signaling pathway plays a critical role in coupling inputs from cell-surface receptors to intracellular signaling pathways. Mutations of receptor tyrosine kinases such as EGFR ( Lynch et al., 2004 and Paez et al., 2004), of Ras proteins themselves ( Downward, 2003) or of proteins in Ras effector pathways including those regulated by Raf/ERK/MAPK ( Davies et al., 2002) or PI3K ( Samuels et al., 2004) occur in most, if not all, epithelial cancers. Using these integrated approaches, we identify a kinase oncogene, IKBKE, which acts downstream of AKT and is amplified in a substantial percentage of human breast tumors.
+
+Results
+Contributions of Ras Effector Pathways to Human Cell Transformation
+We previously showed that immortalized human embryonic kidney (HEK) epithelial cells expressing hTERT, LT, and ST (HA1E), are rendered tumorigenic by the introduction of H-RASV12 ( Hahn et al., 1999). Activation of Ras stimulates many pathways including, but not limited to, the MAPK, PI3K, and RALGDS pathways ( Downward, 2003). However, it is likely that only a subset of these pathways participate directly in H-RASV12-induced transformation. Since activating mutations are found in several members of the MAPK and PI3K pathways in many human cancers, we reasoned that the coactivation of these two pathways might replace H-RASV12 in transformation. To test this hypothesis, we manipulated the MAPK and PI3K pathways in HA1E cells.
+
+To activate the PI3K pathway, we expressed one of three mutant alleles: myristoylated (myr) and therefore constitutively active alleles of PIK3CA p110α ( Klippel et al., 1996) (myr-110α) or AKT1 (myr-AKT) ( Kohn et al., 1996) or a short hairpin RNA (shRNA) targeting PTEN ( Boehm et al., 2005). To activate the MAPK pathway, we expressed one of three mutant alleles: an activated allele of CRAF (C-Raf 22W) ( Stanton et al., 1989), the BRAFE600 allele ( Davies et al., 2002), or a constitutively active MEK1D218,D222 allele (MEKDD) ( Brunet et al., 1994). Using these reagents, we created 16 cell lines expressing all possible combinations of these mutant alleles. We confirmed that these cell lines stably expressed each of these activated alleles either singly or in pairwise combinations (data not shown) and analyzed the ability of these cells to grow in an anchorage-independent (AI) manner or to form tumors in immunodeficient animals ( Table 1).
+
+Table 1.
+Dissection of H-RASV12 Signaling in Transformation
+Anchorage-Independent Growth
+Vector	C-Raf 22W	B-RafE600	MEKDD
+Vector	−	−	−	±
+PTEN-shRNA	−	+	−	−
+myr-110α	−	−	−	+
+myr-AKT	±	+	+++	+++
+H-RASV12	+++	ND	ND	ND
+Tumor Formation
+Vector	C-Raf 22W	B-RafE600	MEKDD
+Vector	−	−	−	−
+PTEN-shRNA	−	−	−	−
+myr-110α	−	−	−	++
+myr-AKT	−	−	−	+++
+H-RASV12	+++	ND	ND	ND
+Transformation of HEK cells expressing hTERT, the SV40ER plus the indicated constructs. Transformation was assessed by both anchorage-independent growth (upper) and the capacity for tumor formation in immunodeficient mice (lower). Colony formation was scored as follows: (−): no colonies, (±): few microscopic (100–200 μm) colonies, (+): many microscopic colonies, (++): microscopic- and small macroscopic (200 μm–1 mm) colonies, (+++): small macroscopic and large macroscopic (>1 mm) colonies. Tumors (3 injections per cell line) were scored as follows: (–): no tumors, (+): single tumor >8 week latency, (++): single tumor <8 week latency or multiple tumors >8 week latency, (+++): multiple tumors <8 week latency. ND, not determined.
+
+Table options
+When introduced singly, none of these mutant alleles promoted AI colony formation (Table 1). However, we found that certain combinations of activated alleles substituted for H-RASV12 to render these immortalized HEK cells tumorigenic (Table 1). Specifically, we found that activation of the MAPK pathway by either BRAFE600 or MEKDD expression together with activation of the PI3K pathway by myr-AKT expression induced AI growth indistinguishable from that induced by H-RASV12 ( Table 1, upper panel, and Figure 1). Surprisingly, while either BRAFE600 or MEKDD cooperated with myr-AKT to induce AI growth, only cells expressing the MEKDD + myr-AKT combination induced tumor growth comparable to that observed in cells expressing H-RASV12 ( Table 1, lower panel, and Figure 1). These observations indicated that coactivation of specific members of the MAPK and PI3K pathways suffices to replace H-RASV12 in human cell transformation. In these HEK cells, coexpression of MEKDD and myr-AKT most closely recapitulated the tumorigenic phenotype induced by H-RASV12 ( Figure 1).
+
+Full-size image (20 K)
+Figure 1. 
+Activated MEK1 and AKT1 Cooperate to Replace H-RASV12
+AI microscopic (100–200 μm, gray), macroscopic (>200 μm, black) colonies, and tumor formation (number of tumors formed/tumor sites injected) are shown for HEK cells expressing hTERT, LT, ST, and the indicated genes. Error bars represent mean ±SD for three independent experiments.
+Figure options
+Identification of Transforming Kinases
+This approach not only identified specific combinations of activated members of the MAPK and PI3K pathways that replace H-RASV12 in HEK cell transformation but also established an experimental platform to discover other transforming genes. We extended this work by screening a large collection of genes to identify those that substitute for myr-AKT. Because phosphorylation plays a key role in Ras signalling, we hypothesized that other kinases may participate in PI3K-induced transformation.
+
+To identify such kinases, we created a library of 354 human kinases and kinase-related open reading frames (ORFs), including 256 kinases (Table S1), cloned into Gateway-compatible entry vectors (Rual et al., 2004). Because membrane recruitment via the addition of a myr sequence activates both the PI3K p110α subunit and AKT ( Klippel et al., 1996 and Kohn et al., 1996), we created a Gateway-compatible retroviral destination vector, pWN-MF-DEST, which adds a myr sequence and a FLAG-epitope tag (MF) to each introduced ORF. We confirmed that this destination vector and myr tag were functional ( Figure S1). We then transferred each ORF individually into pWN-MF-DEST ( Figure 2A).
+
+Full-size image (67 K)
+Figure 2. 
+Identification of Oncogenes Using a Myristoylated Kinase Library
+(A) Experimental schema.
+(B) AI growth of pools named by their plate number (1–5) and row (A–H). (−) and GFP indicate the number of colonies produced by mock- and GFP-vector- infected cells, respectively. Black line and red dotted line indicate the median and 2 SD above the median, respectively.
+(C) Identification of putative kinase oncogenes from top scoring pools. Error bars indicate mean ± SD for three independent experiments.
+(D) Tumor formation by IKBKE in HA1E-M cells. Tumorigenicity is indicated as the number of tumors formed/number of tumor sites injected and shown above the bars for each cell line.
+Figure options
+Using this library of 354 myr ORFs, we performed a screen for genes that could replace myr-AKT and induce transformation. We introduced pools consisting of 10–12 unique ORFs into immortal but nontumorigenic HEK cells expressing MEKDD (HA1E-M). Several pools reproducibly induced colony formation more than two standard deviations greater than the median number of colonies (Figure 2B). To determine the identity of the kinases in these pools responsible for AI growth, we then created cell lines expressing individual kinases from each of such pools (Figure 2C). Of the four pools analyzed in this manner, three contained one transforming kinase gene and one pool contained two transforming kinase genes. Each of these kinase genes (AKT1, IKBKE, DAK, TSSK6, and CSNK1E) also induced tumor formation ( Figure 2D and data not shown). Since we had previously shown that myr-AKT cooperates with MEKDD to transform these immortalized cells, the identification of AKT1 validated this screening approach. Thus, using a library of myr kinases in retroviral vectors, we identified four kinases that cooperate with activated MEK1 to replace H-RASV12 in human cell transformation.
+
+Amplification of IKBKE in Breast Cancer Cell Lines and Patient-Derived Tumor Samples
+We next explored whether any of these kinases are altered in human cancers. First, we used high-density SNP arrays to identify regions of copy-number gain or loss in 179 cell lines representing a wide spectrum of cancer types (Garraway et al., 2005). We failed to find clear evidence of amplifications of the loci encoding DAK, TSSK6, or CSNK1E in any of these cell lines (data not shown). In contrast, we found copy-number gain or amplification of 1q32 involving the IKBKE locus in 8 of 49 (16.3%) breast cancer cell lines ( Figure 3A). Indeed, copy-number gain of 1q is the most common alteration in breast cancers ( Rennstam et al., 2003).
+
+Full-size image (191 K)
+Figure 3. 
+IKBKE Is Amplified in Breast Cancer Cell Lines and Tumor Samples
+(A) Analysis of the IKBKE locus by SNP arrays in 49 breast cancer cell lines. Colorgrams representing SNP copy number at 1q32 are shown. Red indicates allelic gain, while blue denotes allelic loss.
+(B) Clustering of aCGH data based on chromosome 1 copy-number gain of 30 breast primary tumors. Colored rectangles indicate tumor grade (red, high; purple, intermediate; and blue, low grade) and lymph node (LN), estrogen receptor (ER), or HER2 status (red, positive; blue, negative; and gray, unknown).
+(C) FISH analysis of IKBKE amplification in UACC-812, ZR-75-1, and MCF-7 breast cancer cell lines and BWH-T18 primary breast tumor. Green signal indicates hybridization using an IKBKE-specific BAC probe, while red color indicates hybridization using a chromosome 1 specific α satellite DNA probe (left panels) or chromosome 1 painting probe (right panels).
+(D) Quantitative RT-PCR analysis of IKBKE expression in breast cancer cell lines and patient samples. Carcinomas and cell lines are color-coded to indicate presence of amplified 1q32 (blue, nonamplified and red, amplified). Asterisks (∗) indicate patient samples with corresponding aCGH data in (B). Raw values were normalized to RPL39 levels. Fold changes are referenced to values obtained with the normal sample with the highest IKBKE expression, N050702.
+(E) Immunoblotting for IKKɛ. Using the K-14 anti-IKKɛ antibody (Santa Cruz, CA), immunoblot in left panel compares breast cancer and immortalized breast cell lines lacking IKBKE copy-number gain (MCF10A, MCF10A.DCIS.COM) to breast cancer cell lines with low levels of IKBKE (MCF-7, MDA-MB-231) and the middle immunoblot compares breast cancer cell lines harboring different levels of IKBKE copy-number gain. The immunoblot on the right was performed with a different anti-IKKɛ antibody (Sigma C-terminal).
+(F) AI growth of HMEC-M cells harboring either a control vector (vector) or myr-IKBKE. Bar represents 2 mm. Colony number reflects large macroscopic colonies (>1 mm). Error bars represent mean ± standard deviation (SD) for three independent experiments.
+(G) Immunblotting for IKKɛ in the indicated breast cancer cell lines or HMEC-M cells expressing myr- or wild-type IKBKE.
+Figure options
+We next investigated whether IKBKE was similarly amplified in primary human breast cancer specimens by performing aCGH on 30 breast tumors representing different clinicopathological stages ( Yao et al., 2006). These studies also revealed a region of recurrent copy-number gain involving the IKBKE locus on chromosome 1q in 10 of 30 breast tumors ( Figure 3B). We note that four of the ten ductal carcinoma in situ (DCIS) cases analyzed showed copy-number gain of IKBKE, suggesting that amplification of this locus is an early event in the development of some breast cancers. We failed to find an association of IKBKE copy-number gain with estrogen receptor or Her2/neu status or with the presence of lymph node involvement at diagnosis. In addition, we sequenced the IKBKE gene in 28 breast tumors and 19 breast cancer cell lines and failed to find evidence of somatic mutations, corroborating other sequencing efforts ( Bamford et al., 2004).
+
+To confirm that the region of copy-number gain at 1q32 involves IKBKE, we performed fluorescence in situ hybridization (FISH) on several breast cancer cell lines and a primary breast tumor containing an amplification of 1q32 ( Figure 3C). We detected up to ten copies of IKBKE in the UACC-812 and ZR-75-1 breast cancer cell lines and five copies of IKBKE in MCF-7 cells. One of the DCIS breast tumors, BWH-T18, harbored five copies of the IKBKE locus in the majority of nuclei ( Figure 3C).
+
+We also investigated whether these DNA copy-number changes corresponded to increases in IKBKE transcript and protein levels. Indeed, serial analysis of gene expression (SAGE), quantitative RT-PCR, and immunoblotting analyses confirmed that IKBKE (IKKɛ) is overexpressed in cell lines and breast tumors that exhibited 1q32 gain, suggesting that IKBKE is one target of this amplicon ( Figures 3D and 3E and data not shown). In addition, we found that an additional 13 of 17 cell lines (76.5%) and 10 of 21 breast cancers (47.6%) showed increased expression (>2-fold) of IKBKE transcripts in the absence of 1q32 copy-number changes. Utilizing two different IKKɛ antibodies, the observed protein levels correlated with the transcript levels ( Figures 3D and 3E) and UACC-812 and ZR-75-1 cells, which harbor 1q32 amplifications ( Figures 3A and 3C), showed the highest levels of IKKɛ of any cell line analyzed ( Figure 3E).
+
+Although our initial experiments were performed in immortalized HEK cells, we also found that the introduction of IKBKE transforms human mammary epithelial cells (HMEC) expressing hTERT, the SV40ER, and MEKDD (HMEC-M) ( Figure 3F). In addition, since 1q32 amplifications result in increased levels of wild-type (WT) IKBKE, we examined whether forced expression of the WT, non-myr IKBKE allele also rendered cells tumorigenic. We found that cells expressing WT IKBKE at levels found in human cancer cells exhibited a similar capacity for tumorigenicity (Figures 2D and 3G), confirming that the allele amplified in breast cancer specimens is transforming. Together, these observations identified IKBKE as a transforming kinase that is amplified and overexpressed in a substantial fraction of breast cancer cell lines and primary breast tumors.
+
+Consequences of Suppressing IKBKE in Breast Cancer Cells
+The findings described above implicate IKBKE as breast cancer oncogene. We next sought to explore whether breast cancer cells are functionally dependent on IKBKE expression. The unregulated expression of many oncogenes renders cancer cells unusually dependent upon the continued function of the oncogene for cell proliferation or viability. This property of oncogenes, termed oncogene addiction, provides a rationale for targeting oncogenes therapeutically. To determine whether the presence of IKBKE amplifications and overexpression induces oncogene addiction, we examined the effects of RNAi targeting IKBKE and other genes.
+
+As part of a separate project to systematically discover genes essential for cancer cell viability we have used the shRNA library developed by the RNAi Consortium (TRC) (Moffat et al., 2006) to screen a large collection of genes required for the proliferation of cancer cell lines. As part of this effort, we have screened the MCF-7 breast cancer cell line with 6144 shRNA targeting 1200 genes, including 93% of the human kinome. The results from the screening of MCF-7 cells are of particular relevance to the present study, because this breast cancer cell line harbors a 1q32 copy-number gain (Figures 3A and 3C) that results in a modest 2.5-fold increase in IKBKE transcript levels compared to immortalized MCF10A cells ( Figure 3D). Examining the data from this screen, we found that three of five shRNA targeting IKBKE compromised cell proliferation and viability ( Figures 4A, 4C, and 4D). We found that the level of IKKɛ suppression by these five shRNA correlated with the observed decrease in cell proliferation and viability in MCF-7 cells ( Figures 4A, 4C, and 4D). These observations indicate that IKBKE is required for the proliferation and survival of MCF-7 breast cancer cells.
+
+Full-size image (90 K)
+Figure 4. 
+IKBKE Is an Essential Kinase in Breast Cancer Cells
+(A) IKBKE is essential for MCF-7 cell proliferation. Lower panels show IKKɛ expression in MCF-7 cells expressing IKBKE-specific shRNAs or a control shRNA targeting GFP (shGFP).
+(B) Effects of suppressing kinase genes located at 1q32. MCF-7 cells were infected with shRNA constructs (five per gene) targeting ten kinases (ETNK2, PIK3C2B, RIPK5, DYRK3, IKBKE, MAPKAPK2, PCTK3, PFKFB2, NUCKS1, and NUAK2) located at 1q32. Solid line represents the median and dotted lines indicate 1 and 1.5 SD below the median. shRNA targeting IKBKE (red), NUAK2 (blue), PFKFB2 (yellow), and ETNK2 (black) or the other genes (gray) are shown.
+(C) Effects of IKKɛ suppression on viability. Representative micrographs obtained five days after infection with the indicated shRNA are shown.
+(D) Effects of IKKɛ suppression on proliferation. Cells were plated on day 0 and infected with IKBKE shRNA 24 hr later and cumulative cell numbers were determined for 11 days. The doubling time for each cell line was determined and then normalized to cells expressing a control, scrambled shRNA (shScr). Expression of IKKɛ is shown in lower panels for the indicated cell lines. Error bars represent mean ± SD for three independent experiments.
+Figure options
+We note that this RNAi screen also included constructs targeting three of the other four genes that emerged from our gain-of-function screen (AKT1, CSNK1E, and TSSK6). Similar to the results from shRNA targeting IKBKE we observed that shRNA targeting AKT1 or CSNK1E also inhibited MCF-7 cell proliferation (data not shown).
+
+We next examined the data generated in the high-throughput RNAi screen to determine whether any other kinase encoded within the 1q32 amplicon was similarly required for MCF-7 viability. We identified a minimally amplified region (5.6 Mb) containing IKBKE in the UACC-812 breast cancer cell line ( Figure 3A). This minimally amplified region contains nine additional kinase genes. However, RNAi-mediated suppression of these other kinase genes failed to induce a statistically significant decrease in viability of MCF-7 cells ( Figure 4B). We note that three of four shRNA targeting NUAK2 partially inhibited the proliferation of MCF-7 cells but failed to satisfy the criteria employed to classify significantly decreased proliferation in our high-throughput RNAi screen (See Experimental Procedures). Although these observations do not eliminate the possibility that other genes within this 1q32 amplicon may cooperate with IKBKE to induce transformation, these findings suggest that IKBKE is a key target of the 1q32 amplification in breast cancer cell lines and tumors.
+
+To confirm that these observations in MCF-7 cells applied to other breast cancer cell lines that show IKBKE amplifications, we next examined the ZR-75-1 breast cancer cell line, which exhibits high-level amplification of IKBKE ( Figures 3A and 3C) and found that inhibition of IKBKE expression in this cell line also compromised viability ( Figure 4C). In contrast, shRNA-mediated suppression of IKBKE failed to affect viability in PC3 prostate cancer cells, hTERT-expressing HMECs, or the MCF10A.DCIS.com breast cancer cell line, all of which do not harbor amplifications of IKBKE ( Figure 4C). Corroborating these qualitative observations, we found that suppression of IKBKE in MCF10A.DCIS.com or PC3 cancer cells induced only a small increase in doubling time (9.1%–28.0%) over 11 days ( Figure 4D), while suppression of IKBKE in MCF-7 and ZR-75-1 cells increased doubling time by 80.6%–114.5% ( Figure 4D). These observations suggested that IKBKE is essential for proliferation in breast cancer cell lines that show increased IKBKE copy number.
+
+IKKɛ is a member of a family of five distinct but closely related proteins, the IκB kinase (IKK) family, consisting of IKKα, IKKβ, IKKγ, IKKɛ, and TBK1. Since IKKɛ function partly overlaps with other IKKs (Fitzgerald et al., 2003, Peters et al., 2000 and Sharma et al., 2003), we next determined whether the proliferation of ZR-75-1, MCF-7, or PC3 cells depended upon expression of any of the other IKK family members. We introduced five shRNA targeting each of these IKK family members into MCF-7, ZR-75-1, and PC3 cells. We required more than one shRNA construct targeting the gene to decrease proliferation (see Experimental Procedures) and found that IKKɛ was the only IKK family member required for proliferation of ZR-75-1 cells, while both IKKɛ and TBK1 were required for the proliferation of MCF-7 cells (Figure S2). We note that suppression of TBK1 but not IKKɛ inhibited the proliferation of PC3 cells.
+
+Together, these observations implicate IKBKE as an essential oncogene in breast cancer cell lines harboring amplifications of 1q32 and are reminiscent of similar findings made in cell lines harboring other oncogenes such as BCR-ABL and EGFR, which also appear to render oncogene-expressing cells particularly dependent upon their expression ( Weinstein and Joe, 2006).
+
+Consequences of IKBKE Amplification and Overexpression
+Recent work implicates IKBKE in the innate immune response to viral infections, as it activates the interferon pathway in part by stimulating the activity of the transcription factor IRF3 ( Fitzgerald et al., 2003 and Sharma et al., 2003). We tested whether cells expressing IKBKE displayed evidence of increased IRF3 transcriptional activity and found a 3- to 5-fold activation of the IRF3-responsive interferon-stimulated regulatory element (ISRE) of the IFIT2 gene in HA1E-M cells expressing either the myr or WT allele of IKBKE ( Figure S3A). HA1E-M and HMEC-M cells expressing these IKBKE alleles also showed increased transcription of two known interferon-responsive genes, IFNB1 and CCL5 (encoding RANTES) ( Figures S3B and S3C).
+
+To determine whether activation of interferon-responsive promoters was required for transformation induced by IKBKE, we introduced IRF3-specific shRNA constructs into transformed HA1E-M cells expressing myr-IKBKE ( Figure S3D). The suppression of IRF3 failed to suppress AI growth ( Figure S3E). These observations suggested that, although the physiologic function of IKBKE involves activation of interferon responses, this activity of IKBKE may not be essential for transformation.
+
+IKBKE also has been reported to activate the NF-κB pathway ( Peters et al., 2000). Thus, we next determined whether the transforming activity of IKBKE is mediated by NF-κB. We examined whether the expression of IKBKE destabilized the cytoplasmic pool of IκBα. HA1E-M cells expressing myr-IKBKE displayed a 43% reduction in cytoplasmic IκBα compared to levels observed in cells expressing a control vector ( Figures 5A and 5B). Moreover, even when we overexpressed IκBα in these IKBKE-expressing cells, we failed to observe increased IκBα protein expression ( Figure 5C), indicating that IKKɛ effectively drives IκBα degradation. One consequence of IκBα degradation is the translocation of NF-κB transcription factors from the cytoplasm to the nucleus. Consistent with this expectation, we found that HA1E-M cells expressing myr-IKBKE displayed a 32% reduction in cytoplasmic NF-κB p50 ( Figures 5A and 5B), and 71% of these cells displayed nuclear NF-κB p50 compared to 8% in cells harboring a control vector ( Figures 5D and 5E).
+
+Full-size image (86 K)
+Figure 5. 
+IKBKE Activates the NF-κB Pathway in Transformation Models
+(A and B) Effects of IKKɛ expression on IκBα stability. Cytoplasmic IκBα levels in HA1E-M cells and quantification.
+(C) RT-PCR and immunoblot (WB) analysis of IκBα overexpression. MUT: IκBα super-repressor, wt: wt IκBα allele.
+(D and E) Localization of NF-κB p50. The antibody used here detects both NF-κB p50 and the NF-κB p50 precursor (p105).
+(F) NF-κB reporter activity in the indicated cell lines.
+(G) Change in expression of selected NF-κB-regulated genes in HA1E-M cells harboring either a control vector (−) or myr-IKBKE (+).
+(H) Change in expression of selected NF-κB-regulated genes in HMEC-M cells harboring either a control vector (−) or WT IKBKE (+).
+(I) Analysis of cyclin D1 protein levels in HA1E cells expressing MEKDD and/or the indicated genes.
+(J and K) Effects of expressing MUT IκBα on the doubling time (J) and AI growth (K) of HA1E-M cells expressing either myr-IKBKE or myr-AKT.
+(L) Effects of suppressing IKBKE on AI growth of AKT-transformed cells. (−) indicates control cells. Error bars in (E)–(H) and (J)–(L) represent mean ± SD for three independent experiments.
+Figure options
+We also tested whether overexpression of IKBKE induced NF-κB transcriptional activity. HA1E-M cells expressing myr-IKBKE exhibited a 5-fold higher level of NF-κB activity compared to cells expressing a control vector, as assessed by measuring the activity of a synthetic NF-κB reporter gene ( Figure 5F). To confirm that IKBKE activated the expression of endogenous NF-κB target genes, we measured the expression levels of nine NF-κB target genes in HA1E-M or HMEC-M cells expressing myr- or WT IKBKE, respectively. IKBKE induced increased expression of all of these transcripts compared to cells expressing a control vector ( Figures 6G and 6H). Since cyclin D1 is overexpressed in over 50% of breast cancers ( Bartkova et al., 1994), we examined whether the observed increases in CCND1 mRNA levels corresponded to increased cyclin D1 protein levels. Indeed, both HA1E-M or HMEC-M cells expressing myr-IKBKE showed substantially elevated levels of cyclin D1 ( Figure 5I and data not shown). These data demonstrated that IKBKE activates the NF-κB pathway in two epithelial cell types.
+
+Full-size image (60 K)
+Figure 6. 
+IKBKE Activates the NF-κB Pathway in Breast Cancer
+(A) Downregulation of NF-κB target genes in ZR-75-1 breast cancer cells after IKBKE suppression as determined by quantitative RT-PCR.
+(B and C) Relative expression of MMP9 (B) and BCL2 (C) in breast cancer cell lines that harbor (UACC-812, ZR-75-1, MCF-7) or lack (SUM52) IKKɛ gain or amplification. UACC-812 cells do not express BCL2. Error bars in (A)–(C) represent mean ± SD for three independent experiments.
+(D and E) Examination of IKKɛ overexpression and NF-κB pathway activation in primary breast cancer specimens. In (D), representative IHC staining and scoring were used to assess IKKɛ and nuclear c-REL expression. 0, no staining; 1, low staining; 2, moderate staining; 3, high staining.
+(E) Coexpression of IKKɛ and nuclear c-REL. Each point represents one breast cancer specimen. The p value determined by Fisher's exact test.
+Figure options
+To determine whether activation of the NF-κB pathway is necessary for transformation induced by IKBKE, we inhibited NF-κB activity in IKBKE-transformed HEK cells by expressing a mutant (MUT) “super-repressor” allele of IκBα harboring two amino acid substitutions (S32A/S36A), which renders this MUT IκBα resistant to phosphorylation and degradation ( Brown et al., 1995). Expression of MUT IκBα in IKBKE-transformed HEK cells increased doubling times ( Figure 5J) and suppressed AI colony formation by 90.7% compared to cells infected with a control vector ( Figure 5K). In summary, these results implicate the activation of the NF-κB pathway in IKBKE-mediated cell transformation.
+
+We initially identified IKBKE as a kinase that replaced AKT in transformation ( Figure 2A). Since AKT has also been reported to activate the NF-κB pathway ( Ozes et al., 1999 and Romashkova and Makarov, 1999), we determined if the NF-κB pathway is similarly required for AKT-dependent transformation. Introduction of the MUT IκBα allele increased the doubling time of HEK cells transformed by AKT ( Figure 5J) and suppressed AI growth by 73.9% ( Figure 5K). We next examined whether IKBKE contributed to cell transformation induced by AKT. Indeed, we found that suppression of IKBKE by two different shRNA constructs increased doubling times by 20.0%–59.0% and inhibited the capacity of AKT-transformed HEK to proliferate and grow in an AI manner ( Figure 5L and data not shown). In aggregate, these observations implicate aberrant activation of the NF-κB pathway by IKBKE as a critical step in cell transformation induced by AKT.
+
+Finally, we determined whether IKBKE regulates the NF-κB pathway in breast cancer cell lines and patient-derived breast cancer tissue samples. We first examined changes in NF-κB gene expression after IKBKE suppression in ZR-75-1 and MCF-7 breast cancer cells and found that of the expression of two IKBKE-induced NF-κB regulated genes, MMP9 and BCL2 ( Figures 5G and 5H), decreased upon suppression of IKBKE ( Figure 6A and data not shown). Breast cancer cell lines harboring the 1q32 amplification showed increased expression of these genes compared to a breast cancer cell line that lacks IKKɛ expression (SUM52; Figures 3E, right panel, 6B, and 6C). We next confirmed that these observations in cell lines also extended to primary breast cancer specimens. Since IKKɛ has recently been shown to induce nuclear accumulation of the NF-κB family member c-REL ( Harris et al., 2006), we performed immunohistochemistry (IHC) to detect IKKɛ and c-REL in an independent set of 20 breast cancer tissue samples. We found that 7 of 20 (35%) of these breast cancer specimens showed increased expression of IKKɛ ( Figures 6D and 6E), confirming our observations in the initial breast cancer specimens ( Figures 3B and 3D). In addition, we found that seven of seven (100%) breast tumors that exhibited increased IKKɛ expression also displayed nuclear c-REL. In contrast, c-REL was expressed at very low levels or was predominantly located in the cytoplasm in 12 of 13 (92%) of breast tumors that do not exhibit increased IKKɛ expression ( Figures 6D and 6E). This correlation between IKKɛ expression and nuclear localization of c-REL was statistically significant (p < 0.0084). Together, these observations demonstrated that IKKɛ activates the NF-κB pathway in breast cancer.
+
+Discussion
+Identification of IKBKE as a Human Breast Cancer Oncogene
+Mutations of proto-oncogenes and tumor suppressor genes allow incipient cancer cells to escape the normal mechanisms that regulate cell and tissue homeostasis. In particular, kinase oncogenes play essential roles in many, if not all, human cancers and therefore are particularly attractive therapeutic targets. Indeed, several kinase inhibitors are already in clinical use. Based on these examples, several properties identify oncogenes with particular promise for clinical translation including clear evidence that mutation, amplification, or translocation of the putative oncogene occurs in primary tumors and functional confirmation that cancer cells exhibit an unusual dependence upon the oncogene for viability or proliferation.
+
+Here, we identify IKBKE as a human breast cancer oncogene. IKBKE is amplified and overexpressed in a significant percentage of human breast tumors. In addition, IKBKE expression leads to cell transformation when overexpressed in immortalized human cells at levels found in breast cancer specimens, and cancer cell lines that exhibit IKBKE copy-number gain or amplification require IKKɛ expression for viability. Together, these observations strongly support the conclusion that amplifications of IKBKE play an important role in the pathogenesis of a subset of breast tumors and identify IKKɛ as promising cancer target.
+
+IKBKE, NF-κB and Breast Cancer
+Prior studies have shown that activation of the NF-κB pathway occurs in a significant percentage of human cancers (Karin et al., 2002) and specifically in breast tumors (Biswas et al., 2004 and Sovak et al., 1997). Although members of the NF-κB signaling pathway including IKBKB, CARD11, MALT1, and BCL10 are required for the survival and proliferation of specific diffuse large B cell lymphoma cell lines ( Ngo et al., 2006), the mechanism responsible for increased NF-κB activity in human breast tumors remained undefined ( Karin et al., 2002). By examining breast cancer cell lines and breast cancer tissue specimens, we found that overexpression of IKKɛ activates the NF-κB signaling pathway and that this activity is necessary for the transforming potential of IKKɛ. Furthermore, the observation that IKKɛ expression strongly correlates with nuclear localization of c-REL in primary breast cancer specimens suggests that a significant fraction of NF-κB activation in breast cancer is driven by aberrant expression of IKKɛ. These observations corroborate prior reports that showed that IKKɛ directly activates c-REL ( Harris et al., 2006) or other NF-κB family members ( Adli and Baldwin, 2006 and Eddy et al., 2005) and that c-REL accumulates in nuclei of breast cancer cells ( Sovak et al., 1997).
+
+Although IKKɛ is a member of the IKK family, IKKɛ phosphorylates only one of two serine residues in IκBα necessary for ubiquitination and degradation of IκBα (Peters et al., 2000). Since IKKɛ participates in the activation of innate immune responses mediated by IRF3 and IRF7 (Fitzgerald et al., 2003, Sharma et al., 2003 and Tenoever et al., 2007), a key physiological function of IKKɛ and the closely related family member TBK1 is likely to be related to innate immunity. More recently, the Drosophila IKK family member most closely related to IKKɛ, called DMIKKɛ, appears to play several roles in development including activation of nonapoptotic caspase function by phosphorylation of DIAP1 ( Kuranaga et al., 2006), F actin assembly ( Oshima et al., 2006), and mRNA localization during oogenesis ( Shapiro and Anderson, 2006). Although the MUT IκBα (super-repressor) construct blocked IKKɛ-dependent AI growth, further work is necessary to determine whether other pathways regulated by IKKɛ also contribute to the tumorigenic phenotype in breast and other cancers.
+
+While several breast cancer cells required IKKɛ for survival, some cancer cells including PC3 cells appear to depend upon the expression of TBK1 for proliferation. Although we failed to observe amplifications involving the TBK1 locus (data not shown), it remains possible that these IKKs interact or functionally substitute for each other since these two noncanonical IKK family members share similar functions in other assays (Fitzgerald et al., 2003 and Sharma et al., 2003). A recent report identifies TBK1 as a component of the RalB/Sec5 exocyst complex and indicates that TBK1 is essential for H-RASV12-induced transformation (Chien et al., 2006). Since several members of the canonical NF-κB signaling pathway are altered in human leukemia and lymphomas (Karin et al., 2002), these findings indicate that NF-κB activation may occur by distinct mechanisms in different tumor types.
+
+We found that breast cancer cell lines harboring 1q32 amplification and expressing high levels of IKKɛ exhibit exquisite sensitivity to suppression of IKKɛ expression. In contrast, we observed that suppression of IKKɛ in other cancer cell lines lacking significant 1q32 amplifications failed to affect viability and proliferation. We note, however, that a dominantly interfering IKBKE allele suppresses AI proliferation of a breast cancer cell line without 1q32 amplification (Hs 578T) ( Eddy et al., 2005), and IKBKE suppression in HeLa cells leads to apoptosis ( Adli and Baldwin, 2006 and MacKeigan et al., 2005). Both Hs 587T and HeLa cells express elevated levels of IKKɛ ( Adli and Baldwin, 2006 and Eddy et al., 2005). Since we found that several breast tumors overexpress IKBKE yet lacked amplifications ( Figure 3D), these observations suggest that other alterations beyond copy-number alterations also lead to increased IKBKE expression and/or activity in some cancer cell lines and tumors.
+
+IKBKE Replaces AKT in Transformation
+We found that IKBKE replaces AKT in transformation and that AKT-driven cell transformation requires NF-κB activity and IKBKE. These observations implicate IKBKE and the NF-κB pathway as a key effector pathway triggered by AKT signaling in transformation. Although previous reports demonstrated that AKT activation of NF-κB involves direct activation of the canonical IKK complex ( Ozes et al., 1999 and Romashkova and Makarov, 1999), our observations suggest that in some cell types AKT and IKKɛ are functionally related.
+
+In addition to IKBKE, we identified three other kinases (DAK, TSSK6, and CSNK1E) that replaced activated AKT1 in an experimental model of human cell transformation. Further work may determine that DAK, TSSK6, or CSNK1E are altered in human tumors. Furthermore, identifying genetic alterations that cooperate with IKBKE amplification in breast cancer may pinpoint other pathways that synergize with this oncogene.
+
+Dissection of Ras Signaling
+To identify kinases that replace myr-AKT in human cell transformation, we determined whether activation of the PI3K and MAPK pathways would cooperate to replace H-RASV12 in an experimental model of human cell transformation. Previous studies using similar transformation systems used three mutant H-RASV12 alleles that preferentially activate the PI3K, MAPK, or RALGDS pathways and identified an important role for the pathway regulated by RALGDS in H-RASV12-induced AI growth in several types of human cells (Hamad et al., 2002 and Rangarajan et al., 2004). However, the further activation of the MAPK or PI3K pathway in these experiments was necessary to permit such engineered cells to form tumors.
+
+Although activated MEK and AKT alleles cooperated to replace H-RASV12 in human cell transformation, we also found that the expression of some activated alleles within the PI3K and MAPK pathways failed to cooperate to induce tumorigenic potential. For example, although either BRAFE600 or MEKDD cooperated with myr-AKT to confer AI growth, BRAFE600 failed to cooperate with myr-AKT to promote tumor formation ( Table 1). Since BRAF mutations have not yet been identified in renal cancer but are frequently observed in other malignancies such as melanoma, these observations are consistent with the view that particular combinations of Ras effector pathway mutations cooperate in specific cell types ( Rangarajan et al., 2004). Alternatively, since accumulating evidence suggests that activation of specific Ras effector pathways leads to feedback inhibition ( Courtois-Cox et al., 2006), these observations may reflect lineage-specific feedback loops.
+
+Functional Genomics and Integrating Complementary Genomic Approaches
+The development of methodologies to identify genetic alterations at genome scale promises to provide a comprehensive view of cancer-associated mutations. However, a full appreciation of these genetic alterations will require equally efficient high-throughput methods to assess the functional consequences of these genetic changes and to evaluate them as potential therapeutic targets. The development of genome-scale libraries of RNAi reagents has facilitated loss-of-function approaches in mammalian cells that have identified candidate tumor-suppressor genes (Kolfschoten et al., 2005 and Westbrook et al., 2005). In parallel to these loss-of-function approaches, candidate oncogenes have been identified using screening tools such as cDNA libraries derived from cancer cells or the use of viral integration to activate endogenous genes (Dupuy et al., 2006 and Peeper et al., 2002).
+
+Here we have combined both gain-of-function and loss-of-function approaches with whole-genome characterization of genetic alterations in cancer cell lines and tumors. This integrated approach permitted us both to identify IKBKE as a breast cancer oncogene amplified in a significant percentage of human breast tumors and to verify its functional role in mammary cell transformation. Similarly, other recent reports highlight the power of integrating complementary genomic approaches to identify genes associated with oncogenesis ( Garraway et al., 2005 and Zender et al., 2006) and metastasis ( Kim et al., 2006). Together, these reports suggest a framework for comprehensive approaches to annotate structural and functionally important genetic alterations essential for cancer development while efficiently validating targets of particular promise for clinical translation.
+
+Experimental Procedures
+Cell Culture, Vectors, and Retroviral Infection
+HEK cells (Hahn et al., 1999) and HMECs expressing hTERT ( Elenbaas et al., 2001) have been described. To introduce or suppress specific genes, retroviral (pBabe, pWzl, and pMKO) ( Boehm et al., 2005 and Morgenstern and Land, 1990) or lentiviral (pLKO) ( Moffat et al., 2006) vectors were used. Retroviruses and lentiviruses were generated as described ( Boehm et al., 2005 and Moffat et al., 2006). Details regarding cell-culture conditions and retroviral vector construction are described in the Supplemental Experimental Procedures. Tumor specimens and breast cancer cell lines were obtained as described ( Yao et al., 2006).
+
+Myristoylated Kinase Library
+ORFs were cloned into Gateway-compatible pEntry vectors by performing site-specific BP recombination reactions as described (Rual et al., 2004). pWzl-Neo-Myr-Flag DEST (pWN-MF-DEST) was created by inserting an N-terminal myr-FLAG tag and the Gateway-selectable cassette into the pWzl-Neo retroviral vector. To create specific pWN-MF-ORF vectors, site-specific LR recombination reactions were performed individually as described (Rual et al., 2004).
+
+AI Growth and Tumorigenicity Assays
+Growth of cells in soft agar was determined by plating 5 × 104 cells in triplicate in 0.4% (HEK) or 0.3% (HMEC) Noble agar. Colonies greater than 100 μm in diameter were counted microscopically 8 weeks after plating. Colonies greater than 200 nm in diameter were counted macroscopically 8 weeks after plating. Tumor xenograft experiments were performed as described (Boehm et al., 2005). Tumor injection sites were monitored for 80 days for tumor formation.
+
+Immunoblotting and PCR
+Immunoblotting was performed as described (Boehm et al., 2005). The following antibodies were used: anti-IKKɛ K-14 (Santa Cruz, CA) (Figure 3) or anti-IKKɛ c-terminal (Sigma) (Figure 3, Figure 4, Figure 5 and Figure 6), anti-IκBα C-15 (Santa Cruz, CA), anti-NF-κB H-119 (Santa Cruz, CA), anti-MEK1/2 (Cell Signaling), anti-Cyclin D1 (Neomarkers), or anti-IRF3 (Santa Cruz, CA). For RT-PCR, total RNA was isolated using TRIzol (Invitrogen). For quantitative RT-PCR, we used SYBR-Green (Applied Biosystems). A list of primers may be found in Supplemental Experimental Procedures.
+
+IHC
+Breast cancer tissue microarray slides (Biomax BR803) were immunostained with anti-IKKɛ- C-terminal (1:250; Sigma) and anti-c-Rel C terminus (1:200; Chemicon) antibodies using microwave-citrate antigen retrieval followed by standard IHC staining procedures. Arrays were scored in a blinded manner by a pathologist on a scale of 0–3.
+
+Genome Structure Analyses
+SNP array, aCGH, and SAGE data were collected and analyzed as described (Garraway et al., 2005).
+
+RNAi
+To stably suppress IKBKE and other members of the IKK family we used pLKO.1 lentiviral shRNA constructs generated by TRC ( Moffat et al., 2006). Lentiviral infections were performed as described ( Moffat et al., 2006). Cell Titer Glo (Promega) was used to measure viability 5 days after lentiviral infection. Z scores were calculated by normalizing the viability score of each well to the plate mean viability score and standard deviation (SD) of plate viability scores: Z = (X-μ)/σ, where X = assay value (relative luminescence), μ = mean plate viability score, and σ = SD of plate viability scores. Suppression of viability was defined as the capacity for at least one shRNA to decrease viability more than 1.5 SD below the mean Z score and at least one additional shRNA targeting the same kinase to decrease viability more that 1 SD below the mean Z score.
+
+Acknowledgments
+We thank D. Sabatini, N. Hacohen, and T. Golub for advice. We thank E. Shin for assistance with IHC, L. Prickett for assistance with fluorescence-activated cell sorting, and H. Widlund for reagents and helpful discussions. We thank E. Knipp and J.T. Boehm for assistance in manuscript preparation and members of the Hahn laboratory for helpful discussions and support. This work was supported in part by grants K01 CA94223 (W.C.H.), P50 CA112962 (W.C.H.), CA30002 (T.R.), CA89021 (T.R.), CA015607 (T.R.) from the NIH, the Tisch Family Fund (W.C.H. and K.P.), DFCI High Tech Fund (S. Korsmeyer), the DFCI Strategic Planning Initiative for support (W.H. and M.V.), an Ellison Foundation grant (M.V.), a Breast Cancer Center of Excellence Award (DAMD170210692, K.P.), a Claudia Barr Award (J.J.Z.), a Woman's Cancer Program Award (J.J.Z.), and a Department of Defense Breast Cancer Program Award BC051565 (J.J.Z.). In compliance with Harvard Medical School guidelines, we disclose that W.C.H., T.M.R., M.M., and K.P. are consultants for Novartis Pharmaceuticals, Inc.
+
+Supplemental Data
+ 
+Document S1. Three Figures, Supplemental Experimental Procedures, and Supplemental References.  
+Help with PDF filesOptions
+ 
+Table S1. Kinases Included in Myristoylated Kinase Library.  
+Help with XLS filesOptions
+References
+Adli and Baldwin, 2006
+M. Adli, A.S. Baldwin
+IKK-i/IKKepsilon controls constitutive, cancer cell-associated NF-kappaB activity via regulation of Ser-536 p65/RelA phosphorylation
+J. Biol. Chem., 281 (2006), pp. 26976–26984
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (61)
+Bamford et al., 2004
+S. Bamford, E. Dawson, S. Forbes, J. Clements, R. Pettett, A. Dogan, A. Flanagan, J. Teague, P.A. Futreal, M.R. Stratton et al.
+The COSMIC (Catalogue of Somatic Mutations in Cancer) database and website
+Br. J. Cancer, 91 (2004), pp. 355–358
+
+View Record in Scopus | Cited By in Scopus (269)
+Bartkova et al., 1994
+J. Bartkova, J. Lukas, H. Muller, D. Lutzhoft, M. Strauss, J. Bartek
+Cyclin D1 protein expression and function in human breast cancer
+Int. J. Cancer, 57 (1994), pp. 353–361
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (378)
+Berns et al., 2004
+K. Berns, E.M. Hijmans, J. Mullenders, T.R. Brummelkamp, A. Velds, M. Heimerikx, R.M. Kerkhoven, M. Madiredjo, W. Nijkamp, B. Weigelt et al.
+A large-scale RNAi screen in human cells identifies new components of the p53 pathway
+Nature, 428 (2004), pp. 431–437
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (700)
+Biswas et al., 2004
+D.K. Biswas, Q. Shi, S. Baily, I. Strickland, S. Ghosh, A.B. Pardee, J.D. Iglehart
+NF-kappa B activation in human breast cancer specimens and its role in cell proliferation and apoptosis
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 10137–10142
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (192)
+Boehm et al., 2005
+J.S. Boehm, M.T. Hession, S.E. Bulmer, W.C. Hahn
+Transformation of human and murine fibroblasts without viral oncoproteins
+Mol. Cell. Biol., 25 (2005), pp. 6464–6474
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (69)
+Brown et al., 1995
+K. Brown, S. Gerstberger, L. Carlson, G. Franzoso, U. Siebenlist
+Control of I kappa B-alpha proteolysis by site-specific, signal-induced phosphorylation
+Science, 267 (1995), pp. 1485–1488
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1139)
+Brunet et al., 1994
+A. Brunet, G. Pages, J. Pouyssegur
+Constitutively active mutants of MAP kinase kinase (MEK1) induce growth factor-relaxation and oncogenicity when expressed in fibroblasts
+Oncogene, 9 (1994), pp. 3379–3387
+
+View Record in Scopus | Cited By in Scopus (187)
+Chien et al., 2006
+Y. Chien, S. Kim, R. Bumeister, Y.M. Loo, S.W. Kwon, C.L. Johnson, M.G. Balakireva, Y. Romeo, L. Kopelovich, M. Gale Jr. et al.
+RalB GTPase-mediated activation of the IkappaB family kinase TBK1 couples innate immune signaling to tumor cell survival
+Cell, 127 (2006), pp. 157–170
+
+Article |  PDF (911 K) | View Record in Scopus | Cited By in Scopus (138)
+Courtois-Cox et al., 2006
+S. Courtois-Cox, S.M. Genther Williams, E.E. Reczek, B.W. Johnson, L.T. McGillicuddy, C.M. Johannessen, P.E. Hollstein, M. MacCollin, K. Cichowski
+A negative feedback signaling network underlies oncogene-induced senescence
+Cancer Cell, 10 (2006), pp. 459–472
+
+Article |  PDF (1850 K) | View Record in Scopus | Cited By in Scopus (230)
+Davies et al., 2002
+H. Davies, G.R. Bignell, C. Cox, P. Stephens, S. Edkins, S. Clegg, J. Teague, H. Woffendin, M.J. Garnett, W. Bottomley et al.
+Mutations of the BRAF gene in human cancer
+Nature, 417 (2002), pp. 949–954
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3699)
+Downward, 2003
+J. Downward
+Targeting RAS signalling pathways in cancer therapy
+Nat. Rev. Cancer, 3 (2003), pp. 11–22
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1172)
+Dupuy et al., 2006
+A.J. Dupuy, N.A. Jenkins, N.G. Copeland
+Sleeping beauty: a novel cancer gene discovery tool
+Hum. Mol. Genet., 15 Spec No 1 (2006), pp. R75–R79
+
+Full Text via CrossRef
+Eddy et al., 2005
+S.F. Eddy, S. Guo, E.G. Demicco, R. Romieu-Mourez, E. Landesman-Bollag, D.C. Seldin, G.E. Sonenshein
+Inducible IkappaB kinase/IkappaB kinase epsilon expression is induced by CK2 and promotes aberrant nuclear factor-kappaB activation in breast cancer cells
+Cancer Res., 65 (2005), pp. 11375–11383
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (63)
+Elenbaas et al., 2001
+B. Elenbaas, L. Spirio, F. Koerner, M.D. Fleming, D.B. Zimonjic, J.L. Donaher, N.C. Popescu, W.C. Hahn, R.A. Weinberg
+Human breast cancer cells generated by oncogenic transformation of primary mammary epithelial cells
+Genes Dev., 15 (2001), pp. 50–65
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (428)
+Fitzgerald et al., 2003
+K.A. Fitzgerald, S.M. McWhirter, K.L. Faia, D.C. Rowe, E. Latz, D.T. Golenbock, A.J. Coyle, S.M. Liao, T. Maniatis
+IKKepsilon and TBK1 are essential components of the IRF3 signaling pathway
+Nat. Immunol., 4 (2003), pp. 491–496
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1116)
+Garraway et al., 2005
+L.A. Garraway, H.R. Widlund, M.A. Rubin, G. Getz, A.J. Berger, S. Ramaswamy, R. Beroukhim, D.A. Milner, S.R. Granter, J. Du et al.
+Integrative genomic analyses identify MITF as a lineage survival oncogene amplified in malignant melanoma
+Nature, 436 (2005), pp. 117–122
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (624)
+Hahn et al., 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1481)
+Hamad et al., 2002
+N.M. Hamad, J.H. Elconin, A.E. Karnoub, W. Bai, J.N. Rich, R.T. Abraham, C.J. Der, C.M. Counter
+Distinct requirements for Ras oncogenesis in human versus mouse cells
+Genes Dev., 16 (2002), pp. 2045–2057
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (252)
+Harris et al., 2006
+J. Harris, S. Oliere, S. Sharma, Q. Sun, R. Lin, J. Hiscott, N. Grandvaux
+Nuclear accumulation of cRel following C-terminal phosphorylation by TBK1/IKK{epsilon}
+J. Immunol., 177 (2006), pp. 2527–2535
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (53)
+Karin et al., 2002
+M. Karin, Y. Cao, F.R. Greten, Z.W. Li
+NF-kappaB in cancer: from innocent bystander to major culprit
+Nat. Rev. Cancer, 2 (2002), pp. 301–310
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1414)
+Kim et al., 2006
+M. Kim, J.D. Gans, C. Nogueira, A. Wang, J.H. Paik, B. Feng, C. Brennan, W.C. Hahn, C. Cordon-Cardo, S.N. Wagner et al.
+Comparative oncogenomics identifies NEDD9 as a melanoma metastasis gene
+Cell, 125 (2006), pp. 1269–1281
+
+Article |  PDF (1078 K) | View Record in Scopus | Cited By in Scopus (208)
+Klippel et al., 1996
+A. Klippel, C. Reinhard, W.M. Kavanaugh, G. Apell, M.A. Escobedo, L.T. Williams
+Membrane localization of phosphatidylinositol 3-kinase is sufficient to activate multiple signal-transducing kinase pathways
+Mol. Cell. Biol., 16 (1996), pp. 4117–4127
+
+View Record in Scopus | Cited By in Scopus (366)
+Kohn et al., 1996
+A.D. Kohn, F. Takeuchi, R.A. Roth
+Akt, a pleckstrin homology domain containing kinase, is activated primarily by phosphorylation
+J. Biol. Chem., 271 (1996), pp. 21920–21926
+
+View Record in Scopus | Cited By in Scopus (311)
+Kolfschoten et al., 2005
+I.G. Kolfschoten, B. van Leeuwen, K. Berns, J. Mullenders, R.L. Beijersbergen, R. Bernards, P.M. Voorhoeve, R. Agami
+A genetic screen identifies PITX1 as a suppressor of RAS activity and tumorigenicity
+Cell, 121 (2005), pp. 849–858
+
+Article |  PDF (663 K) | View Record in Scopus | Cited By in Scopus (164)
+Kuranaga et al., 2006
+E. Kuranaga, H. Kanuka, A. Tonoki, K. Takemoto, T. Tomioka, M. Kobayashi, S. Hayashi, M. Miura
+Drosophila IKK-related kinase regulates nonapoptotic function of caspases via degradation of IAPs
+Cell, 126 (2006), pp. 583–596
+
+Article |  PDF (1289 K) | View Record in Scopus | Cited By in Scopus (70)
+Lynch et al., 2004
+T.J. Lynch, D.W. Bell, R. Sordella, S. Gurubhagavatula, R.A. Okimoto, B.W. Brannigan, P.L. Harris, S.M. Haserlat, J.G. Supko, F.G. Haluska et al.
+Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib
+N. Engl. J. Med., 350 (2004), pp. 2129–2139
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (5623)
+MacKeigan et al., 2005
+J.P. MacKeigan, L.O. Murphy, J. Blenis
+Sensitized RNAi screen of human kinases and phosphatases identifies new regulators of apoptosis and chemoresistance
+Nat. Cell Biol., 7 (2005), pp. 591–600
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (315)
+Moffat et al., 2006
+J. Moffat, D.A. Grueneberg, X. Yang, S.Y. Kim, A.M. Kloepfer, G. Hinkle, B. Piqani, T.M. Eisenhaure, B. Luo, J.K. Grenier et al.
+A lentiviral RNAi library for human and mouse genes applied to an arrayed viral high-content screen
+Cell, 124 (2006), pp. 1283–1298
+
+Article |  PDF (1308 K) | View Record in Scopus | Cited By in Scopus (695)
+Morgenstern and Land, 1990
+J.P. Morgenstern, H. Land
+Advanced mammalian gene transfer: high titre retroviral vectors with multiple drug selection markers and a complementary helper-free packaging cell line
+Nucleic Acids Res., 18 (1990), pp. 3587–3596
+
+View Record in Scopus | Cited By in Scopus (1529)
+Morrison et al., 2005
+C. Morrison, M. Radmacher, N. Mohammed, D. Suster, H. Auer, S. Jones, J. Riggenbach, N. Kelbick, G. Bos, J. Mayerson
+MYC amplification and polysomy 8 in chondrosarcoma: array comparative genomic hybridization, fluorescent in situ hybridization, and association with outcome
+J. Clin. Oncol., 23 (2005), pp. 9369–9376
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (34)
+Ngo et al., 2006
+V.N. Ngo, R.E. Davis, L. Lamy, X. Yu, H. Zhao, G. Lenz, L.T. Lam, S. Dave, L. Yang, J. Powell et al.
+A loss-of-function RNA interference screen for molecular targets in cancer
+Nature, 441 (2006), pp. 106–110
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (293)
+Oshima et al., 2006
+K. Oshima, M. Takeda, E. Kuranaga, R. Ueda, T. Aigaki, M. Miura, S. Hayashi
+IKKvarepsilon regulates F actin assembly and interacts with Drosophila IAP1 in cellular morphogenesis
+Curr. Biol., 16 (2006), pp. 1531–1537
+
+Article |  PDF (673 K) | View Record in Scopus | Cited By in Scopus (48)
+Ozes et al., 1999
+O.N. Ozes, L.D. Mayo, J.A. Gustin, S.R. Pfeffer, L.M. Pfeffer, D.B. Donner
+NF-kappaB activation by tumour necrosis factor requires the Akt serine-threonine kinase
+Nature, 401 (1999), pp. 82–85
+
+View Record in Scopus | Cited By in Scopus (1429)
+Paddison et al., 2004
+P.J. Paddison, J.M. Silva, D.S. Conklin, M. Schlabach, M. Li, S. Aruleba, V. Balija, A. O'Shaughnessy, L. Gnoj, K. Scobie et al.
+A resource for large-scale RNA-interference-based screens in mammals
+Nature, 428 (2004), pp. 427–431
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (486)
+Paez et al., 2004
+J.G. Paez, P.A. Janne, J.C. Lee, S. Tracy, H. Greulich, S. Gabriel, P. Herman, F.J. Kaye, N. Lindeman, T.J. Boggon et al.
+EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy
+Science, 304 (2004), pp. 1497–1500
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (4774)
+Peeper et al., 2002
+D.S. Peeper, A. Shvarts, T. Brummelkamp, S. Douma, E.Y. Koh, G.Q. Daley, R. Bernards
+A functional screen identifies hDRIL1 as an oncogene that rescues RAS-induced senescence
+Nat. Cell Biol., 4 (2002), pp. 148–153
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (64)
+Peters et al., 2000
+R.T. Peters, S.M. Liao, T. Maniatis
+IKKepsilon is part of a novel PMA-inducible IkappaB kinase complex
+Mol. Cell, 5 (2000), pp. 513–522
+
+Article |  PDF (384 K) | View Record in Scopus | Cited By in Scopus (209)
+Rangarajan et al., 2004
+A. Rangarajan, S.J. Hong, A. Gifford, R.A. Weinberg
+Species- and cell type-specific requirements for cellular transformation
+Cancer Cell, 6 (2004), pp. 171–183
+
+Article |  PDF (703 K) | View Record in Scopus | Cited By in Scopus (274)
+Rennstam et al., 2003
+K. Rennstam, M. Ahlstedt-Soini, B. Baldetorp, P.O. Bendahl, A. Borg, R. Karhu, M. Tanner, M. Tirkkonen, J. Isola
+Patterns of chromosomal imbalances defines subgroups of breast cancer with distinct clinical features and prognosis. A study of 305 tumors by comparative genomic hybridization
+Cancer Res., 63 (2003), pp. 8861–8868
+
+View Record in Scopus | Cited By in Scopus (104)
+Romashkova and Makarov, 1999
+J.A. Romashkova, S.S. Makarov
+NF-kappaB is a target of AKT in anti-apoptotic PDGF signalling
+Nature, 401 (1999), pp. 86–90
+
+View Record in Scopus | Cited By in Scopus (1354)
+Rowland et al., 2005
+B.D. Rowland, R. Bernards, D.S. Peeper
+The KLF4 tumour suppressor is a transcriptional repressor of p53 that acts as a context-dependent oncogene
+Nat. Cell Biol., 7 (2005), pp. 1074–1082
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (263)
+Rual et al., 2004
+J.F. Rual, T. Hirozane-Kishikawa, T. Hao, N. Bertin, S. Li, A. Dricot, N. Li, J. Rosenberg, P. Lamesch, P.O. Vidalain et al.
+Human ORFeome version 1.1: a platform for reverse proteomics
+Genome Res., 14 (2004), pp. 2128–2135
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (92)
+Samuels et al., 2004
+Y. Samuels, Z. Wang, A. Bardelli, N. Silliman, J. Ptak, S. Szabo, H. Yan, A. Gazdar, S.M. Powell, G.J. Riggins et al.
+High frequency of mutations of the PIK3CA gene in human cancers
+Science, 304 (2004), p. 554
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1538)
+Shapiro and Anderson, 2006
+R.S. Shapiro, K.V. Anderson
+Drosophila Ik2, a member of the I kappa B kinase family, is required for mRNA localization during oogenesis
+Development, 133 (2006), pp. 1467–1475
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (19)
+Sharma et al., 2003
+S. Sharma, B.R. tenOever, N. Grandvaux, G.P. Zhou, R. Lin, J. Hiscott
+Triggering the interferon antiviral response through an IKK-related pathway
+Science, 300 (2003), pp. 1148–1151
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (835)
+Sovak et al., 1997
+M.A. Sovak, R.E. Bellas, D.W. Kim, G.J. Zanieski, A.E. Rogers, A.M. Traish, G.E. Sonenshein
+Aberrant nuclear factor-kappaB/Rel expression and the pathogenesis of breast cancer
+J. Clin. Invest., 100 (1997), pp. 2952–2960
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (508)
+Stanton et al., 1989
+V.P. Stanton Jr., D.W. Nichols, A.P. Laudano, G.M. Cooper
+Definition of the human raf amino-terminal regulatory region by deletion mutagenesis
+Mol. Cell. Biol., 9 (1989), pp. 639–647
+
+View Record in Scopus | Cited By in Scopus (117)
+Tenoever et al., 2007
+B.R. Tenoever, S.L. Ng, M.A. Chua, S.M. McWhirter, A. Garcia-Sastre, T. Maniatis
+Multiple functions of the IKK-related kinase IKKepsilon in interferon-mediated antiviral immunity
+Science, 315 (2007), pp. 1274–1278
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (130)
+Weinstein and Joe, 2006
+I.B. Weinstein, A.K. Joe
+Mechanisms of disease: Oncogene addiction–a rationale for molecular targeting in cancer therapy
+Nat. Clin. Pract. Oncol., 3 (2006), pp. 448–457
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (286)
+Westbrook et al., 2005
+T.F. Westbrook, E.S. Martin, M.R. Schlabach, Y. Leng, A.C. Liang, B. Feng, J.J. Zhao, T.M. Roberts, G. Mandel, G.J. Hannon et al.
+A genetic screen for candidate tumor suppressors identifies REST
+Cell, 121 (2005), pp. 837–848
+
+Article |  PDF (713 K) | View Record in Scopus | Cited By in Scopus (302)
+Yao et al., 2006
+J. Yao, S. Weremowicz, B. Feng, R.C. Gentleman, J.R. Marks, R. Gelman, C. Brennan, K. Polyak
+Combined cDNA array comparative genomic hybridization and serial analysis of gene expression analysis of breast tumor progression
+Cancer Res., 66 (2006), pp. 4065–4078
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (97)
+Zender et al., 2006
+L. Zender, M.S. Spector, W. Xue, P. Flemming, C. Cordon-Cardo, J. Silke, S.T. Fan, J.M. Luk, M. Wigler, G.J. Hannon et al.
+Identification and validation of oncogenes in liver cancer using an integrative oncogenomic approach
+Cell, 125 (2006), pp. 1253–1267
+
+Article |  PDF (1215 K) | View Record in Scopus | Cited By in Scopus (440)
+Zhao et al., 2004
+J.J. Zhao, T.M. Roberts, W.C. Hahn
+Functional genetics and experimental models of human cancer
+Trends Mol. Med., 10 (2004), pp. 344–350
+
+Article |  PDF (284 K) | View Record in Scopus | Cited By in Scopus (36)
+Zhao et al., 2005
+X. Zhao, B.A. Weir, T. LaFramboise, M. Lin, R. Beroukhim, L. Garraway, J. Beheshti, J.C. Lee, K. Naoki, W.G. Richards et al.
+Homozygous deletions and chromosome amplifications in human lung carcinomas revealed by single nucleotide polymorphism array analysis
+Cancer Res., 65 (2005), pp. 5561–5570
+

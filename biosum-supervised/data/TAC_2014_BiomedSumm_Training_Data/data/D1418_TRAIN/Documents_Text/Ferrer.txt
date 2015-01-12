@@ -1,0 +1,387 @@
+O-GlcNAcylation Regulates Cancer Metabolism and Survival Stress Signaling via Regulation of the HIF-1 Pathway
+Christina M. Ferrer1, Thomas P. Lynch1, Valerie L. Sodi1, John N. Falcone1, Luciana P. Schwab2, Danielle L. Peacock2, David J. Vocadlo3, Tiffany N. Seagroves2, Mauricio J. Reginato1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molcel.2014.04.026
+Get rights and content
+Highlights
+•
+Reducing OGT and O-GlcNAcylation in cancer cells decreases cancer glycolysis
+•
+OGT regulates stability of HIF-1α via regulation of α-ketoglutarate levels
+•
+Reducing OGT levels or activity induces ER stress and apoptosis in cancer cells
+•
+Stable HIF-1α mutant or GLUT1 overexpression rescues OGT-mediated phenotypes
+Summary
+The hexosamine biosynthetic pathway elevates posttranslational addition of O-linked β-N-acetylglucosamine (O-GlcNAc) on intracellular proteins. Cancer cells elevate total O-GlcNAcylation by increasing O-GlcNAc transferase (OGT) and/or decreasing O-GlcNAcase (OGA) levels. Reducing O-GlcNAcylation inhibits oncogenesis. Here, we demonstrate that O-GlcNAcylation regulates glycolysis in cancer cells via hypoxia-inducible factor 1 (HIF-1α) and its transcriptional target GLUT1. Reducing O-GlcNAcylation increases α-ketoglutarate, HIF-1 hydroxylation, and interaction with von Hippel-Lindau protein (pVHL), resulting in HIF-1α degradation. Reducing O-GlcNAcylation in cancer cells results in activation of endoplasmic reticulum (ER) stress and cancer cell apoptosis mediated through C/EBP homologous protein (CHOP). HIF-1α and GLUT1 are critical for OGT-mediated regulation of metabolic stress, as overexpression of stable HIF-1 or GLUT1 rescues metabolic defects. Human breast cancers with high levels of HIF-1α contain elevated OGT, and lower OGA levels correlate independently with poor patient outcome. Thus, O-GlcNAcylation regulates cancer cell metabolic reprograming and survival stress signaling via regulation of HIF-1α.
+
+Graphical Abstract
+Full-size image (32 K)
+Figure options
+Introduction
+Deregulating cellular energetics is emerging as a characteristic hallmark of cancer cells (Hanahan and Weinberg, 2011). Within such cells, glucose and glutamine are used at an increased rate (DeBerardinis et al., 2008), resulting in the production of ATP in a manner independent of oxygen concentration (Dang and Semenza, 1999). Elevated glucose and glutamine flux are needed not only to serve the energetic demands of cancer cells, but also to provide the essential carbon and nitrogen used in macromolecule synthesis, fueling the rapid growth and proliferation seen in tumors (DeBerardinis et al., 2008). This increase in glucose and glutamine uptake can alter multiple metabolic and signaling pathways in cancer cells, including for example the hexosamine biosynthetic pathway (HBP) (Marshall, 2006), the liver kinase B1 (LKB1)/AMP-activated kinase (AMPK) signaling pathway (Shaw and Cantley, 2012), and the mammalian target of rapamycin (mTOR) (Zoncu et al., 2011).
+
+The HBP relies on glucose and glutamine uptake, and approximately 3%–5% of the total glucose entering a cell is shunted into this pathway (Marshall et al., 1991). Fructose 6-phosphate, obtained from glucose during glycolysis, is converted through the enzymes of the HBP into the end product UDP-N-acetylglucosamine (UDP-GlcNAc) (Marshall, 2006). This critical metabolite is required for the biosynthesis of a variety of extracellular glycopolymers, including both N- and O-glycans (Marshall, 2006); however, it also serves as the substrate for O-linked β-N-acetlyglucosamine (O-GlcNAc) transferase (OGT). This enzyme catalyzes the transfer of the GlcNAc moiety onto the free hydroxyl of select serine and threonine residues of target proteins and is the sole known glycosyltransferase responsible for the posttranslational modification of a diverse population of nuclear and cytosolic proteins. This modification can be removed by the glycoside hydrolase O-GlcNAcase (OGA) (also referred to as MGEA5) that catalyzes cleavage of O-GlcNAc from proteins ( Gao et al., 2001). This modification can alter protein function directly or, in some cases, by competing with phosphorylation sites ( Hart et al., 2011). O-GlcNAcylation has been proposed to serve primarily to regulate cellular signaling and transcription regulatory pathways in response to altered nutrients and stress ( Hart et al., 2011). Many of these O-GlcNAcylated proteins are known to be associated with oncogenesis and tumor progression, and recently, elevated O-GlcNAcylation has been described in various cancers ( Lynch and Reginato, 2011). The mechanism by which O-GlcNAcylation becomes elevated within cancer cells is not clear but may be caused by elevated levels of OGT seen in some cancers, such as breast ( Caldwell et al., 2010), prostate ( Lynch et al., 2012), and lung ( Mi et al., 2011), and/or decreased levels of OGA as seen in breast ( Krześlak et al., 2012) and colon cancers ( Yehezkel et al., 2012). Importantly, OGT is required for tumor growth in vitro ( Caldwell et al., 2010) and metastasis in vivo ( Gu et al., 2010 and Lynch et al., 2012). Moreover, it has been proposed that aberrant O-GlcNAcylation can contribute to metabolic disorders, such as insulin resistance ( Yang et al., 2008), suggesting that it could also play a role in the altered metabolism occurring in cancer cells.
+
+Cancer cells can alter metabolism and energy homeostasis in a number of ways. Oncogenes can directly regulate key pathways and enzymes involved in glycolysis. Specifically, the phosphatidylinositol 3-kinase (PI3K)/Akt pathway mediating activation of the mTOR pathway has been shown to play a major role in coordinating cell growth and metabolism (Zoncu et al., 2011). Multiple environmental cues including growth factors and nutrients can regulate mTOR signaling, including the tumor suppressor LKB1, which activates AMPK. This activation of AMPK leads to inhibition of mTOR activity, and loss of mTOR signaling in turn results in a decrease in the translation of critical cell growth and metabolic regulators, including HIF-1α ( Zoncu et al., 2011). The transcription factor HIF-1α promotes the transcription of a set of genes that contribute to aerobic glycolysis and the shuttling of carbons from glucose and nitrogen from glutamine into macromolecule synthesis that is typically seen in cancer cells ( Shaw and Cantley, 2012).
+
+The levels of HIF-1α protein are controlled by the availability of oxygen and metabolites such that during normoxic conditions, HIF-1α is hydroxylated by oxygen and α-ketoglutarate-dependent prolyl hydroxylases (PHDs) (Semenza, 2010). This modification results in HIF-1α proteasome-dependent degradation through hydroxylation-dependent interactions with the E3 ligase von Hippel-Lindau (pVHL). Cancer cells are capable of stabilizing HIF-1α levels independent of oxygen concentrations in response to growth factor stimulation, oncogenic activation, and loss of tumor suppressor function, allowing for the transcriptional upregulation of proglycolytic factors (Semenza, 2010). In cancer cells, HIF-1α activates a transcriptional program that facilitates the metabolic shift to aerobic glycolysis through the upregulation of several glycolytic proteins, such as glucose transporter GLUT1, hexokinase 2 (HK2), and lactate dehydrogenase A (LDHA) (Iyer et al., 1998 and Semenza, 2010). Moreover, increased HIF-1α expression predicts poor clinical response and clinical outcome in human breast cancer (Generali et al., 2006), and consistent with this observation, GLUT1 has also been shown to be overexpressed in breast cancer (Brown and Wahl, 1993).
+
+Cell metabolism is tightly linked to cell death pathways through the mitochondria, which plays a key role in both metabolism and apoptosis. Cancer cells are hypersensitive to metabolic stress, such as glucose or glutamine deprivation, and will undergo apoptosis if nutrients are limiting (El Mjiyad et al., 2011). Inhibition of metabolism in cancer cells can lead to induction of apoptosis by a number of pathways, including activation of the ER stress apoptotic response (El Mjiyad et al., 2011). A shortage of glucose in cancer cells can induce the ER stress pathway, resulting in the PKR-like ER-localized eIF2α kinase (PERK) phosphorylation of eIF2α and the induction of C/EBP homologous protein (CHOP), which results in the induction of Bcl2-family BH3-only proteins, including Bim, Puma, and Noxa (El Mjiyad et al., 2011).
+
+Here, we present evidence that O-GlcNAcylation within breast cancer cells regulates cancer cell metabolism via regulation of HIF-1α and its downstream target GLUT1. Mechanistically, we show that OGT regulates HIF-1α proteasomal degradation in a manner that is dependent on regulation of α-ketoglutarate, HIF-1α hydroxylation, and the tumor suppressor pVHL. Furthermore, decreasing O-GlcNAcylation leads to ER-mediated apoptosis in breast cancer cells. In addition, we show that human breast cancers containing high HIF-1α levels also contain elevated OGT and O-GlcNAcylation. Importantly, in overall breast cancer patients, lower OGA expression correlates with poor clinical outcome. Thus, O-GlcNAcylation serves as a critical link between the nutrient sensing and metabolic pathways that are critical for cancer cell survival via regulation of HIF-1α hydroxylation.
+
+Results
+O-GlcNAcylation Regulates Metabolic Reprogramming and Signaling in Cancer Cells
+Since OGT and O-GlcNAc has been associated with regulation of metabolic diseases such as insulin resistance (Yang et al., 2008), we hypothesized that OGT could serve as an important regulator of glycolytic metabolism to regulate cancer cell growth. To test this idea, we initially examined the effect of OGT reduction on metabolites from triple-negative human breast cancer cells (MDA-MB-231) using liquid chromatography-mass spectrometry (LC-MS). The metabolic profile of MDA-MB-231 cells containing OGT knockdown with RNAi demonstrated a general decrease in glycolytic and pentose phosphate pathway (PPP) metabolites (Figures 1A) and an increase in tricarboxylic acid (TCA) cycle metabolites (Figure 1B), consistent with a reversal of the Warburg effect and inhibition of cancer cell growth under these conditions that we (Caldwell et al., 2010) and others (Itkonen et al., 2013) have previously shown.
+
+Full-size image (75 K)
+Figure 1. 
+OGT Regulates Glycolytic Metabolism in Breast Cancer Cells
+(A) MDA-MB-231 cells expressing control or OGT-1 shRNA were collected, and levels of glycolytic, pentose phosphate pathway, and carbohydrate metabolites were measured using LC-MS analysis.
+(B) MDA-MB-231 cells expressing control or OGT-1 shRNA were collected, and levels of TCA cycle intermediates were measured using LC-MS analysis.
+(C) Cell lysates from MDA-MB-231 and MCF-10A-ErbB2 expressing control, OGT-1, or OGT-2 shRNA were collected for immunoblot analysis with the indicated antibodies (top). Lactate levels were measured and normalized to control shRNA-treated cells (bottom).
+(D) Cell lysates from MCF-7 cells stably overexpressing control or HA-OGT (left) or MCF-7 cells and then treated with DMSO control or 100 μM NButGT for 48 hr (right) were collected for immunoblot analysis with the indicated antibodies.
+(E) Changes in lactate levels were measured from cells in (D) and normalized to control-treated cells. Mean ± SE; ∗p < 0.05. See also Figures S1 and S2.
+Figure options
+To confirm that the metabolite patterns reflected a decrease in glycolysis, we measured specific glycolytic parameters in MDA-MB-231 cells and in the human immortalized mammary epithelial cells transformed with oncogene ErbB2/HER2 (MCF-10A-ErbB2) stably expressing OGT RNAi. Both transformed and breast cancer cells stably expressing OGT RNAi contained decreased levels of lactate (Figure 1C), glucose flux (Figure S1A available online), and ATP levels (Figure S1B). Conversely, elevation of total O-GlcNAcylation levels in the MCF-7 breast cancer cells by either overexpression of hemagglutinin (HA)-tagged OGT or treatment with the OGA inhibitor NButGT, which elevates total O-GlcNAcylation (Figure 1D), caused an increase in glucose flux (Figure S1F) and lactate levels (Figure 1E). In agreement with previous reports, which indicated that targeting OGT has minimal effects on nontransformed epithelial cell types (Caldwell et al., 2010), reducing OGT levels in the human immortalized mammary epithelial cell line MCF-10A resulted in negligible effects on glucose or lactate levels (data not shown). These data suggest that in transformed and cancer cells, OGT and O-GlcNAc levels redirect cell metabolism in favor of glycolysis, and reducing OGT can reverse the Warburg effect.
+
+Since cellular metabolism can alter specific signaling pathways such as mTOR, we next examined the effects of altered O-GlcNAcylation on the mTOR pathway. Decreased OGT expression in MDA-MB-231 or MCF-10A-ErbB2 cells via stable expression of shRNA decreased the phosphorylation of the mTOR downstream effectors S6 kinase and 4EBP1 at Thr389 and Thr70, respectively (Figure S1C). A number of pathways are known to regulate mTOR activity, including the PI3K/AKT pathway. However, since we previously showed that reducing OGT levels in breast cancer cells does not decrease AKT activity or the MEK/Erk pathway (Caldwell et al., 2010), we examined additional regulators of mTOR. Consistent with O-GlcNAcylation regulating energy metabolism, decreasing OGT expression in MCF-10A-ErbB2 or MDA-MB-231 cells via stable expression of shRNA resulted in the activation of the metabolic sensor kinase LKB1, as indicated by its increased phosphorylation at Ser428 (Figure S1C). We also detected an increase in phosphorylation of the downstream effector, AMPK (Figure S1C). Activated AMP kinase is known to decrease phosphorylation of S6 kinase and 4EBP1 at Thr389 and Thr70, respectively (Zoncu et al., 2011). In addition to genetic approaches to repress OGT mRNA expression, we also pharmacologically inhibited the catalytic activity of OGT in MDA-MB-231 cells through the use of a known OGT inhibitor, Ac5SGlcNAc (Gloster et al., 2011). Treatment of MDA-MB-231 cells with Ac-5SGlcNAc diminished O-GlcNAc levels and increased LKB1 and AMP kinase activation and also decreased phosphorylation of mTOR effectors (Figure S2A). OGT inhibitor also decreased MDA-MB-231 cell growth in basement membrane 3D cultures as compared to vehicle-treated cells (Figure S2B) and reduced metabolic outputs, including glucose uptake (Figure S2C). Conversely, elevation of O-GlcNAcylation by either overexpressing OGT (Figure S1D) or treating cells with the OGA inhibitor NButGT (Figure S1E) decreased LKB1 and AMP kinase activation and elevated levels of phosphorylated S6 kinase. Thus, consistent with role of O-GlcNAcylation in regulating glycolysis, changes in O-GlcNAcylation can also regulate metabolic signaling associated with energy status in cancer cells.
+
+O-GlcNAcylation Regulates HIF-1α Proteasomal Degradation in a VHL-Dependent Manner
+HIF-1α is a critical regulator of aerobic glycolysis in cancer cells (Semenza, 2010). Therefore, we examined HIF-1α expression in the context of altered O-GlcNAcylation. MDA-MB-231 cells stably expressing OGT shRNA contained lower levels of HIF-1α protein at either normoxic or hypoxic (1% O2) conditions (Figure S3A), whereas there was no significant change in HIF-1α RNA levels as measured by quantitative RT-PCR (qRT-PCR) (Figure S3B). Consistent with a mechanism in which OGT mediates regulation of HIF-1α protein stability or activity, decreased expression levels of several known HIF-1 target genes were observed upon OGT knockdown, including adrenomedullin (ADM), BNIP3L, GLUT1, and LDHA ( Figure S3B). Likewise, similar reductions in HIF-1α protein levels were observed in MCF-10A-ErbB2 (data not shown) and in MCF-7 cells ( Figure S3C) in which OGT expression was reduced. Finally, by using mouse embryonic fibroblasts (MEFs) containing an Ogt exon flanked by the loxP recombination sites (MEFs-OGTF/Y) ( O’Donnell et al., 2004), we found that post-Cre recombinase transduction, OGT protein, and O-GlcNAc levels were reduced, which inhibited HIF-1α protein expression under hypoxic conditions ( Figure S3D). Conversely, we observe stabilization of HIF-1α protein when MCF-7 cells stably express OGT ( Figure S1D) or are treated with the OGA inhibitor NButGT ( Figure S1E). However, HIF-1α protein does not appear to be directly modified by O-GlcNAc, as immunoprecipitated HIF-1α protein contained no detectable O-GlcNAcylation when compared to the positive control, the transcription factor Sp1 ( Han and Kudlow, 1997) (data not shown). Thus, O-GlcNAcylation likely regulates HIF-1α protein stability via an indirect mechanism.
+
+To test whether O-GlcNAcylation regulates HIF-1α degradation, MDA-MB-231 cells stably expressing control shRNA or OGT shRNA were treated with the proteasome inhibitor lactacystin. OGT shRNA-mediated inhibition of HIF-1α protein levels could be reversed by treatment with lactacystin (Figure 2A), suggesting that OGT regulation of HIF-1α was proteasome dependent. Consistent with the idea that OGT regulates HIF-1α via the proteasomal pathway, we detected a 6-fold increase in HIF-1α ubiquitination under conditions of decreased OGT levels in MDA-MB-231 cells compared to controls (Figure 2B). Since pVHL is well known to regulate the HIF-1α degradation pathway, we examined whether OGT regulation of HIF-1α was dependent on pVHL-mediated degradation. We compared the effects of OGT knockdown on HIF-1α levels in MDA-MB-231 cells stably expressing pVHL RNAi, and as expected, reducing pVHL levels in MDA-MB-231 cells increased the basal expression of HIF-1α protein (Figure 2C). However, HIF-1α levels were not altered in pVHL shRNA-treated cells in which OGT expression was also reduced compared to a 4-fold decrease of HIF-1α levels in OGT knockdown cells (Figure 2C). Consistent with the idea that OGT-mediated regulation of glycolysis is HIF-1α/pVHL dependent, we were able to rescue glucose uptake defects in OGT knockdown cells by reducing pVHL levels in MDA-MB-231 cells (Figure 2D). In addition, reducing VHL in MDA-MB-231 cells elevated lactate levels compared to controls and abrogated OGT knockdown-mediated glycolytic effects (Figure S3E). To ensure that this effect was VHL dependent and occurred in other cell types, we examined kidney epithelial (T132) cells that are wild-type for VHL and renal cell carcinoma (RCC4) cells that are known to be VHL deficient. While wild-type VHL cells exhibited a 2-fold decrease in HIF-1α levels in response to OGT depletion, no significant change in HIF-1α expression was observed in RCC4 cells ( Figure S3F). In addition, reexpression of VHL in the RCC4 cells restored OGT knockdown-mediated regulation of HIF-1α ( Figure S4A), suggesting that O-GlcNAc regulation of HIF-1α is pVHL dependent in multiple cell types. We tested whether VHL protein itself may be O-GlcNAcylated by mass spectrometry analysis, and we did not identify any pVHL Ser/Thr residues as being O-GlcNAcylated (data not shown). Together, these data suggest that O-GlcNAcylation regulates HIF-1α proteasomal degradation in a pVHL-dependent manner.
+
+Full-size image (57 K)
+Figure 2. 
+O-GlcNAc Regulation of HIF-1α via Protein Degradation Requires VHL
+(A) MDA-MB-231 cells expressing control or OGT shRNA were treated with DMSO control or 10 mM lactacystin for 6 hr, and lysates were collected for immunoblot analysis.
+(B) Protein lysates from MDA-MB-231 cells expressing control or OGT shRNA were collected and subjected to immunoprecipitation with the indicated antibodies. Data are quantified and presented as an average from three or more independent experiments.
+(C) MDA-MB-231 cells expressing control or VHL shRNA were infected after 48 hr with control or OGT-2 shRNA. Protein lysates were collected for immunoblot analysis. Data are quantified and presented as an average from three or more independent experiments.
+(D) Glucose flux from cells described in (C) were measured and normalized to control shRNA-treated cells. Mean ± SE; ∗p < 0.05. See also Figures S3 and S4.
+Figure options
+O-GlcNAcylation Regulates HIF-1α Hydroxylation
+Under aerobic conditions, HIF-1α is hydroxylated by specific PHDs at two conserved proline residues (Pro402 and Pro564) in a reaction requiring oxygen, α-ketoglutarate, and ascorbate, and hydroxylation of HIF-1α facilitates pVHL binding and degradation (Jaakkola et al., 2001). To examine whether OGT regulation of HIF-1α was dependent on PHD activity, we treated MDA-MB-231 cells with dimethyloxaloylglycine (DMOG), a prolyl-4-hydroxylase inhibitor. MDA-MB-231 cells containing OGT RNAi that were treated with DMOG completely rescued the decrease in HIF-1α expression observed in response to OGT RNAi as compared to vehicle-treated cells (Figure S4B). Consistent with the observations that pVHL is required for HIF-1α degradation and requires PHD activity under conditions of decreased O-GlcNAcylation, reducing OGT expression in breast cancer cells led to increased interaction between HIF-1α and pVHL, as indicated by coimmunoprecipitation experiments (Figures 3A). Conversely, increasing O-GlcNAcylation in cancer cells by treating cells with NButGT reduced the interaction between HIF-1α and pVHL (Figure S4C), consistent with increased HIF-1α protein levels observed under these conditions (Figure S4C). We next examined whether O-GlcNAcylation regulates HIF-1α stability by modulating PHD activity by measuring the extent of HIF-1α hydroxylation. We assessed PHD activity in control and OGT knockdown MDA-MB-231 cells by pretreating with proteasomal inhibitor lactacystin (to prevent hydroxylated HIF-1α from being degraded). Lactacystin treatment of OGT knockdown cells contained levels of HIF-1α similar to those of control cells (Figure 2A). However, these cells contained a 6-fold increase in hydroxylated HIF-1α, indicating that PHD activity is increased in OGT knockdown cells (Figure 3B). Since HIF-1α and pVHL were not directly O-GlcNAcylated, we examined other mechanisms by which O-GlcNAcylation may regulate HIF-1α hydroxylation. Results from LC-MS analysis showed that α-ketoglutarate, a metabolite required for HIF-1 hydroxylation, was significantly elevated in OGT knockdown MDA-MB-231 cells (Figure 1B), consistent with increased HIF-1α hydroxylation (Figure 3B) and degradation under these conditions (Figure 2B). These data suggest that O-GlcNAcylation may regulate HIF-1α levels via regulation of α-ketoglutarate levels. To test this idea further, we measured α-ketoglutarate levels in MDA-MB-231 cells stably overexpressing HA-OGT, which increased total O-GlcNAcylation levels and increased HIF-1α levels compared to control cells (Figure 3C). Overexpression of OGT significantly reduced α-ketoglutarate levels in MDA-MB-231 cells compared to controls (Figure 3D). Importantly, treatment of HA-OGT MDA-MB-231 cells with exogenous α-ketoglutarate to levels similar to those seen in control cells (Figure 3D) was able to reverse OGT-mediated induction of HIF-1α and HIF1 target GLUT1 (Figure 3C). These results show that O-GlcNAcylation regulation of HIF-1α is PHD and hydroxylation dependent and suggests that O-GlcNAcylation regulates HIF-1α protein, in part, via regulation of α-ketoglutarate levels.
+
+Full-size image (66 K)
+Figure 3. 
+O-GlcNAc Regulation of HIF-1α Hydroxylation Is Required for OGT-Mediated Regulation of Metabolism and Metabolic Signaling
+(A) Immunoprecipitation was performed with the indicated antibodies from MDA-MB-231 cell lysates expressing control or OGT-1 shRNA.
+(B) Immunoprecipitation was performed with the indicated antibodies from MDA-MB-231 cell lysates expressing control or OGT-1 shRNA. Data are quantified and presented as an average from three or more independent experiments.
+(C) MDA-MB-231 cells expressing control or HA-OGT plasmids were treated with control or α-ketoglutarate (4 mM) for 16 hr, and lysates were collected for immunoblot analysis.
+(D) Cells in (C) were measured for changes in α-ketoglutarate levels.
+(E) Cell lysates were collected from MDA-MB-231 cells stably expressing control or HIF-1αP402A, P546A and infected with either control or OGT-1 shRNA, and expression of proteins was analyzed by immunoblotting.
+(F) Cells expressing control vector or HIF-1α (P402A-P546A) as in (E) were measured for changes in lactate. Levels were normalized to control shRNA-treated cells. Mean ± SE; ∗p < 0.05. See also Figure S5.
+Figure options
+HIF-1α Hydroxylation Is Required for O-GlcNAcylation-Mediated Regulation of Metabolic Flux
+Given the glycolytic defects observed with decreased O-GlcNAcylation, including decreased glycolytic/PPP metabolites, the activation of LKB1/AMPK and corresponding loss of mTOR signaling, and the reduction of HIF-1α protein, we next sought to characterize the role of HIF-1α in OGT-mediated regulation of cancer metabolism. A constitutively expressed mutant version of HIF-1α was utilized in which the hydroxylation sites at P402 and P564 are mutated, making it resistant to PHD-mediated hydroxylation and subsequent pVHL-dependent ubiquitination (Semenza, 2010). Consistent with our data that O-GlcNAcylation, in part, regulates HIF-1α via hydroxylation and pVHL-mediated degradation, stable expression of HIF-1α mutant (P402/P564) restored HIF-1α levels from 72% reduction in OGT knockdown cells to 23% reduction compared to control (Figures 3E and S4D). Importantly, overexpression of HIF-1α-stabilized mutant did not alter OGT levels, although mutant HIF-1α slightly increased O-GlcNAcylation in cells expressing OGT RNAi (Figure 3E), most likely by increasing glycolysis and flux through the HBP. However, upon OGT knockdown in MDA-MB-231 cells expressing HIF-1α-P402A, P564A, we did not detect activation of LKB1/AMP kinase phosphorylation, and the phosphorylation state of the mTOR effectors S6 kinase and 4EBP1 was not reduced (Figure S5A). These results suggested that expression of HIF-1α hydroxylation mutant reversed OGT knockdown-mediated metabolic stress and signaling. We observed that the glycolytic defect mediated by the expression of OGT shRNA in breast cancer cells was abrogated in cells stably expressing HIF-1α mutant, since lactate levels are restored to a level near that of control in both MDA-MB-231 (Figure 3F) and MCF7 (data not shown) cells. Overexpression of HIF-1α stable mutant in MDA-MB-231 cells lowered glucose flux compared to control cells; nevertheless, reducing OGT in these cells had no effect on glucose flux (Figure S4E). These results, along with reducing VHL levels in OGT knockdown cells, further suggested that O-GlcNAcylation-mediated changes in metabolic flux require regulation of HIF-1α. Consistent with this idea, GLUT1 levels are decreased in MDA-MB-231 cells expressing OGT shRNA as compared to control shRNA cells, yet GLUT1 levels are restored in cells with expression of the stable HIF-1α-P402A, P564A mutant (Figure 3E), consistent with the reversal of glycolytic parameters (Figure 3F). In addition, cells expressing stable HIF-1α also reversed OGT shRNA-mediated induction of α-ketoglutarate levels (Figure S4F), suggesting that HIF-1α can reverse GLUT1 levels and glycolytic parameters and regulate key metabolites associated with HIF-1α’s own regulation.
+
+HIF-1α regulates many glycolytic enzymes, including phosphofructokinase-1 (PFK1) (Iyer et al., 1998) and PFK2 isoform 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 (PFKFB3) (Semenza, 2010), both key enzymes regulating glycolytic flux. Reducing OGT expression in three different breast cancer cell lines representative of the major breast cancer subtypes, including MDA-MB-231 (triple negative) (Figure S5B), MCF-7 (luminal), and MCF10A-ErbB2 (HER2+) (data not shown), decreased PFK1 and PFKFB3 protein levels. Importantly, both PFK1 and PFKFB3 levels were rescued in OGT knockdown MDA-MB-231 cells overexpressing stable HIF-1α mutant (Figure S5A). OGT regulation of PFK1 occurs at the level of RNA transcription, as OGT knockdown cells contained a significant decrease in muscle- and liver-type PFK-1 (PFK-M and PFK-L) isoforms (Figure S5C). Conversely, elevating O-GlcNAcylation in cancer cells causes increased expression of PFK1 in MCF7 cells overexpressing OGT (Figure S1D) or NButGT-treated cells (Figure S1E), consistent with increased glycolytic flux (Figures 1E and S1F). These data suggest that OGT regulation of key glycolytic proteins, including GLUT1, PFK1, and PFKFB3, in breast cancer cells is dependent on O-GlcNAc regulation of the HIF-1α pathway.
+
+O-GlcNAcylation Selectively Regulates Tumor Cell Survival via an ER Stress CHOP-Dependent Mechanism
+Glucose deprivation and antiglycolytic drugs can selectively induce tumor cell death (El Mjiyad et al., 2011); thus, we examined the effect of reducing O-GlcNAcylation on apoptosis in nontransformed immortalized mammary epithelial cells compared to breast cancer cells. In MCF-10A and MDA-MB-231 cells stably expressing control shRNA or OGT shRNA at day 8 postinfection, we observed cell rounding and detachment of MDA-MB-231 cells containing OGT knockdown, while MCF-10A cells appeared healthy and attached to the plate (Figure S5D). The breast cancer cells, but not immortalized human mammary epithelial cells, that expressed decreased OGT levels had elevated cleaved caspase-3 and caspase-8 (Figure 4A), and up to 50%–70% of cells were positive for annexin V (Figure 4B), indicating a high level of apoptosis that was selective to cancer cells. A similar level of induction in apoptosis was observed in MDA-MB-231 cells in which OGT was knocked down when cells were cultured in 3D conditions (Figure S5E) as well as in MCF7 and MCF10A-ErbB2 cells (Figure S6A). Treatment of MDA-MD-231 cells cultured in 3D with the OGT inhibitor also activated apoptosis to an extent similar to that observed with genetic deletion (Figures S2D and S2E).
+
+Full-size image (69 K)
+Figure 4. 
+Targeting OGT Selectively Induces ER Stress-Mediated Apoptosis in Cancer Cells
+(A) Cell lysates were collected from MCF-10A and MDA-MB-231 cells after 7 days of lentiviral infection with control, OGT-1, or OGT-2 shRNA. Cells were lysed, and expression of proteins was analyzed by immunoblotting.
+(B) Cells expressing control, OGT-1, or OGT-2 shRNA were stained with annexin V and propidium iodide (PI) and analyzed by flow cytometry.
+(C) Cell lysates were collected from cells expressing either control or CHOP shRNA after lentiviral infection with control or OGT-2 shRNA. Cells were lysed, and proteins were analyzed by immunoblotting.
+(D) Cells as in (C) were collected, stained with annexin V and PI, and analyzed by flow cytometry. Mean ± SE; ∗p < 0.05. See also Figures S2, S5, and S6.
+Figure options
+A decrease in bioenergetics may impair protein translational modifications in the ER that can trigger the unfolded protein response (UPR) (El Mjiyad et al., 2011). Therefore, we next examined whether reducing O-GlcNAcylation in breast cancer cells led to activation of the ER stress response. Consistent with apoptotic effects in cancer cells, we detected activation of ER stress sensor PERK and the phosphorylation of its downstream target eIF2α in MDA-MB-231 breast cancer cells, but not in nontransformed epithelial cells MCF-10A depleted of OGT (Figure 4A). Activation of UPR interfaces with apoptotic pathways by inducing the expression of BCL2-family BH3-only proteins, including Bim in a CHOP-dependent manner (Shore et al., 2011), Puma, and Noxa (El Mjiyad et al., 2011). Reducing OGT expression in MDA-MB-231 cells led to the induction of transcription factor CHOP, Bim, Puma, and Noxa (Figures 4A and 4C). Similar activation of ER stress, BH3-only proteins, and apoptosis was observed in multiple breast cancer cells, including MDA-MB-231, MCF7, and MCF10A-ErbB2 (Figure S6A), and lung cancer (H2199) cells (Figure S6B) depleted of OGT or in MDA-MB-231 cells treated with OGT inhibitor (Figure S2E).
+
+To test whether CHOP expression was required for OGT depletion-mediated apoptosis in cancer cells, we reduced CHOP levels via shRNA, which blocked OGT depletion-mediated induction of Bim, Puma, Noxa; reduced caspase-3 and PARP cleavage (Figure 4C); and significantly reduced apoptosis (Figure 4D). Thus, reducing O-GlcNAcylation in cancer cells leads to metabolic stress and the induction of ER stress, resulting in apoptosis in a CHOP-dependent manner.
+
+To test whether OGT depletion-induced ER stress and apoptosis were related to defects in metabolic flux mediated by HIF-1α regulation, we examined apoptosis in MDA-MB-231 cells overexpressing HIF-1α hydroxylation mutant (Figure 5A). Expression of HIF-1α-P402A, P564A in MDA-MB-231 cells rescues the OGT knockdown-mediated growth defect, as indicated by crystal violet staining (Figure 5B). Cells overexpressing HIF-1α mutant were resistant to OGT depletion-mediated ER stress signaling, including activation of eIF2α; induction of CHOP, Bim, and PARP cleavage (Figure 5A); and apoptosis (Figure 5C). Thus, O-GlcNAcylation regulation of ER stress-mediated survival pathways acts through the effects of O-GlcNAc on HIF-1α hydroxylation.
+
+Full-size image (54 K)
+Figure 5. 
+Overexpression of Nondegradable HIF-1α Mutant Rescues ER Stress-Mediated Apoptosis in Cancer Cells with Reduced OGT In Vitro
+(A) Cell lysates were collected from MDA-MB-231 cells overexpressing control or HIF-1αP402A, P546A and infected with either control or OGT-1 shRNA. Cells were lysed, and proteins were analyzed by immunoblotting.
+(B) MDA-MB-231 cells were treated with control or OGT shRNA after stable infection with control or HIF-1αP402A, P546A. Cell colonies were stained with crystal violet.
+(C) MDA-MB-231 cells as in (B) were analyzed for apoptosis after lentiviral infection with control or OGT shRNA. Cells were stained with annexin V and PI and analyzed by flow cytometry. Mean ± SE; ∗p < 0.05.
+Figure options
+O-GlcNAcylation Regulates Tumor Cell Metabolism and Stress Survival via GLUT1 In Vitro and In Vivo
+Consistent with an OGT knockdown-mediated decrease in HIF-1α levels, we also detected a decrease in both GLUT1 RNA (Figure S3B) and protein levels (Figure 3E). To test whether the bioenergetics and survival stress effects we observed following the OGT-mediated decrease in HIF-1α were due to glucose flux, we tested whether overexpression of GLUT1 would rescue the metabolic and apoptotic defects observed in OGT knockdown cells. Ectopic expression of GLUT1 in MDA-MB-231 cells elevated O-GlcNAcylation in control cells, but only slightly in OGT knockdown cells (Figure 6A). Nevertheless, cells overexpressing GLUT1 were able to rescue all of the metabolic and ER stress signaling effects that result from decreasing OGT expression that we have described herein, including effects on the LKB1/AMPK/mTOR pathway and the induction of eIF2α/CHOP/Bim pathway (Figure 6A), glucose uptake (Figure 6B), growth (Figure 6C), and apoptosis (Figure S6C). Importantly, overexpression of GLUT1 alone in MDA-MB-231 cells was able to reverse HIF-1α and PFK1 levels in an O-GlcNAcylation-independent manner, as overexpression of GLUT1 in control RNAi cells elevated basal levels of HIF-1α and PFK-1, and reducing OGT levels in GLUT1-overexpressing cells had no effect on HIF-1α and PFK-1 levels (Figure 6A). Consistent with the idea that O-GlcNAcylation regulates HIF-1α protein via regulation of α-ketoglutarate levels, overexpression of GLUT1 in MDA-MB-231 cells was able to reverse OGT shRNA-mediated induction of α-ketoglutarate levels (Figure 6D).
+
+Full-size image (70 K)
+Figure 6. 
+Overexpression of HIF-1α Transcriptional Target GLUT1 Is Sufficient to Rescue Stress Signaling, Glucose Uptake, α-Ketoglutarate Levels, and ER Stress-Induced Apoptosis in Breast Cancer Cells Caused by Targeting OGT
+(A) Cell lysates were collected from cells expressing either control or GLUT1 and infected with either control or OGT shRNA. Cells were lysed, and proteins were analyzed by immunoblotting.
+(B) Glucose uptake levels in cells as in (A) were measured and normalized to control shRNA-treated cells.
+(C) MDA-MB-231 cells were infected with control or OGT shRNA after stable expression of control or GLUT1. Cell colonies were stained with crystal violet.
+(D) α-ketoglutarate levels were measured from MDA-MB-231 cells stably overexpressing either control or GLUT1 and infected with either control or OGT shRNA. Levels were normalized to control shRNA-treated cells. Mean ± SE; ∗p < 0.05. See also Figure S6.
+Figure options
+To test whether OGT regulation of GLUT1 was required for tumor growth in vivo, MDA-MB-231 cells stably expressing luciferase and either control shRNA or OGT shRNA in the presence or absence of GLUT1 overexpression (Figure 7A) were injected orthotopically into the mammary fat pads of nude (Nu/Nu) mice. Tumor growth was visualized over time utilizing an IVIS Spectrum bio-imaging system. As previously reported (Caldwell et al., 2010), reducing OGT in MDA-MB-231 cells causes decreased tumor growth in vivo. However, cells overexpressing GLUT1 were able to partially rescue the effect of OGT depletion in cancer cells in vivo (Figure 7B), since GLUT1 overexpression in the context of OGT depletion increased tumor volume (Figures 7C and 7D) and tumor weight (Figure S6D) compared to control OGT-depleted cells. Thus, OGT regulation of tumor growth in vivo is partly dependent on GLUT1 expression.
+
+Full-size image (74 K)
+Figure 7. 
+Overexpressing GLUT1 Partially Rescues Tumor Regression Induced by Targeting OGT In Vivo
+(A) Cell lysates from the indicated groups were collected before injection into mice and immunoblotted with the indicated antibodies.
+(B) Representative bioluminescent images from week 3 postinjection.
+(C) Mean tumor volume (mm3) of MDA-MB-231 cells with the indicated treatment (n = 13/group) is shown at the indicated week.
+(D) Representative tumors in mice 8 weeks after injection.
+(E) OGT/O-GlcNAc levels in TNBC lysates. Cell lysates were prepared from PDX tumor tissues representing various breast cancer subtypes and profiled for OGT and O-GlcNAc expression by immunoblotting; β-tubulin is included as a loading control. Mean ± SE; ∗p < 0.05.
+(F) A schematic illustration of the proposed model, depicting OGT regulation of HIF-1α stabilization via regulation of α-ketoglutarate that promotes a feedforward mechanism increasing glycolytic flux and blocking ER stress-mediated apoptosis in cancer cells. See also Figure S7.
+Figure options
+All protocols involving the use of animals were approved by the Institutional Animal Care and Use Committee.
+
+O-GlcNAc Cycling Enzyme Expression in Human Breast Cancer Patients
+The overexpression of HIF-1α in human solid cancer biopsies, including breast cancers, correlates with metastatic potential and decreased survival (Generali et al., 2006). Since we have previously shown that breast cancer cells express elevated OGT levels, we examined whether conditions that would be expected to elevate O-GlcNAcylation, such as an increase in OGT or a decrease in OGA/MGEA5 expression, would be associated with a breast cancer subtype or with poor survival in breast cancer patients. Data mining from the Cancer Genome Atlas Research Network (TCGA) repository of a total of 804 breast cancer patients ( Cancer Genome Atlas Network, 2012) did not reveal a significant difference in OGT expression among subtypes, except for a small, but significant, increase in basal-like tumors relative to HER2-enriched tumors ( Figure S7A). In contrast, OGA/MGEA5 expression was highest in luminal A and B tumors, followed by HER2-enriched tumors, and lowest in basal-like and normal-like breast tumors, and most comparisons among subtypes were statistically significant ( Figure S7B). We also mined the NKI van’t Veer data set ( van ’t Veer et al., 2002) to determine if expression of either OGT or OGA/MGEA5 correlates with survival from breast cancer. Although no significant correlation between OGT expression and survival was observed ( Figure S7C), relatively low-level expression of OGA/MGEA5 was independently correlated with both decreased metastasis-free survival ( Figure S7D) and overall survival ( Figure S7E) in breast cancer patients.
+
+Data from the TCGA data set previously identified the HIF-1α network hub to be hyperactivated in basal/triple-negative breast cancer (TNBC) tumors as compared to luminal cancers (Cancer Genome Atlas Network, 2012). Thus, we next examined levels of OGT and O-GlcNAc in patient-derived breast cancer mouse xenograft (PDX) samples. These xenograft tumors were shown to replicate the original tumor pathology and clinical metastasis patterns when xenografted and serially passaged in recipient mice (DeRose et al., 2011). Consistent with the idea that TNBCs have an enriched HIF-1-dependent gene network, we recently reported that these TNBC xenograft tumors contain high levels of HIF-1α protein (Regan Anderson et al., 2013) compared to other subtypes represented in the Huntsman Cancer Institute (HCI) tumor bank. Consistent with idea that increased O-GlcNAcylation and OGT are associated with HIF-1α levels, we found that TNBC lysates contain elevated total O-GlcNAcylation and a significant increase of OGT levels compared to luminal breast cancers (Figure 7E). Thus, clinical samples are consistent with the idea that cancer cells alter expression of O-GlcNAc cycling enzymes that lead to elevation of O-GlcNAcylation and are significantly associated with human mortality in breast cancers. These data also support the idea that OGT may serve as a therapeutic target in HIF-1-overexpressing breast cancers, including TNBCs.
+
+Discussion
+Taken together, the data presented here demonstrate that the hexosamine biosynthetic pathway, via O-GlcNAcylation, regulates metabolic reprogramming in cancer cells via regulation of HIF-1α hydroxylation and directly links key nutrient sensing pathways, including the LKB1/AMP kinase and mTOR. The upregulation of OGT and elevated O-GlcNAcylation has been documented in several cancer types (Caldwell et al., 2010, Mi et al., 2011 and Lynch et al., 2012), and our data strongly suggest a model (Figure 7F) in which OGT and O-GlcNAcylation play an important role in contributing to the Warburg effect by reducing α-ketoglutarate levels, thereby increasing HIF-1α stabilization and enhancing aerobic glycolysis in a feedforward mechanism and contributing to the glycolytic phenotype consistently observed in rapidly dividing tumors (DeBerardinis et al., 2008). Elevated O-GlcNAcylation helps to maintain aerobic glycolysis and cancer HIF-1α levels that protect from ER stress-mediated apoptosis. Using a combination of genetic and chemical inhibitor approaches, we show that O-GlcNAcylation regulates HIF-1α protein degradation in an α-ketoglutarate-, PHD-, and pVHL-dependent manner, since decreasing O-GlcNAcylation in cancer cells increases α-ketoglutarate, HIF-1α hydroxylation, and HIF-1α’s association with pVHL, leading to enhanced proteasomal degradation. The loss of HIF-1α expression achieved by reducing O-GlcNAcylation leads to a decrease in expression of multiple HIF-1 transcriptional targets that directly regulate glucose metabolism, including GLUT1, LDHA, PFKFB3, and PFK-1, resulting in decreased glycolysis and the induction of ER stress. Additionally, we find that induction of the ER stress-regulated protein CHOP is required for this O-GlcNAcylation-dependent survival pathway via regulation of the BH3-only proteins. Finally, and more importantly in terms of clinical utility, we show that O-GlcNAcylation depletion in immortalized mammary epithelial cells does not activate this stress pathway, suggesting that targeting OGT in cancer cells may selectively induce metabolic stress and apoptosis.
+
+The hexosamine biosynthetic pathway is emerging as a critical metabolic pathway in cancer. Recently, other groups have shown that pancreatic tumors derived from inducible expression of KrasG12DA in mice contain elevated flux through the hexosamine pathway and have increased O-GlcNAcylation. Moreover, reduction of KrasG12DA expression in these tumors leads to reduction of glucosamine 6-phosphate (GlcN-6P) levels, the product of the rate-limiting step in the HBP, and downregulation of RNA and protein levels of rate-limiting enzyme glutamine fructose 6-phosphate amidotransferase 1 (Gfpt1). Importantly, RNAi knockdown of Gfpt1 reduced overall O-GlcNAcylation and blocked KrasG12DA-mediated tumor growth in vitro and in vivo (Ying et al., 2012). Another recent study showed that hypoxic pancreatic cancer cells, compared to normoxic cells, contain elevated glycolytic markers and increased gene expression of key HBP genes, including Gfpt2 as well as elevated O-GlcNAcylated protein levels ( Guillaumond et al., 2013). Consistent with our results showing that O-GlcNAcylation regulates HIF-1α levels and function, this study also showed that inhibition of O-GlcNAcylation blocked cell survival of hypoxic pancreatic cancer cells. In addition to being required for O-GlcNAcylation of nuclear and cytoplasmic proteins, the HBP is also required for initiation of N-glycosylation in the ER and N-glycan branching in the Golgi apparatus ( Dennis et al., 2009). Although these studies implicate HBP in cancer regulation, none distinguish between requirements of different branches of the HBP pathway. Our results provide direct evidence that the HBP, via O-GlcNAcylation, can directly link to glucose uptake and glycolysis in cancer cells via regulation of the HIF-1α pathway, which is required for cancer growth in vitro and in vivo.
+
+Recent data have shown that phosphofructokinase 1 (PFK1), a key enzyme of glycolytic flux that can be activated by fructose-2,6-bisphosphate (F2,6BP), is O-GlcNAcylated and that this modification is responsible for its inactivation that redirects glucose flux through pathways critically involved in tumor growth, such as the oxidative PPP (Yi et al., 2012). Consistent with this data, metabolite analysis of cancer cells with reduced O-GlcNAcylation had a significant decrease in flux through PPP, as a number of PPP metabolites, including ribulose-5-phosphate, xylulose-5-phosphate, and sedoheptulose-7-phosphate, were decreased under these conditions. It is possible that decreasing PFK1 O-GlcNAcylation reduced flux through PPP. However, key enzymes of the PPP, such as glucose-6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase, are known to be regulated by HIF-1α (Guo et al., 2009). Moreover, our results show that PFK-1 protein and RNA levels (including both PFK-L and PFK-M isoforms) are very sensitive to alterations in O-GlcNAcylation in breast cancer cells. Consistent with the role of O-GlcNAcylation enhancing glycolysis under conditions of elevated O-GlcNAcylation, we detected increased levels of PFK-1. Interestingly, decreasing O-GlcNAc in cancer cells reduced protein levels of PFK-1, which could be restored in cells that expressed a hydroxylation HIF-1α mutant, which is consistent with a previous report that PFK-1 is transcriptionally regulated by HIF-1α (Iyer et al., 1998). Thus, we propose that O-GlcNAcylation-mediated regulation of HIF-1α may be a dominant pathway regulating cancer bioenergetics, since HIF-1α directly transcriptionally regulates nearly all glycolytic enzymes (Semenza, 2010). Thus, cancer cells may co-opt the nutrient sensor O-GlcNAcylation pathway that can contribute to cancer metabolism pathways by regulating key metabolic factors such as HIF-1α and c-Myc (Itkonen et al., 2013), which are necessary to maintain glycolytic flux, rapid cell growth, and survival.
+
+In summary, we have described a role for O-GlcNAcylation in driving breast cancer glycolysis and identified that these changes are mediated through a HIF-1/GLUT1-dependent mechanism. As global elevations in O-GlcNAcylation are recognized as a common feature of cancer cells, OGT is positioned as a therapeutic target with potent antiglycolytic activity. In addition, since both HIF-1α and OGT are elevated in chemoresistant basal-like/triple-negative breast cancers, our data suggest that targeting OGT in these tumors may have potential therapeutic benefit.
+
+Experimental Procedures
+Detailed experimental procedures are available online in the Supplemental Experimental Procedures, including materials, mouse xenografts, metabolic assays, viral transductions, immunoprecipitations, 3D culture, qRT-PCR, immunoblotting, and metabolic and bioinformatics analysis.
+
+Cell Culture
+MCF-10A-ErbB2 cells were cultured in Dulbecco’s modified Eagle’s medium (DMEM)/F12 supplemented with 5% horse serum, 100 μg/ml epidermal growth factor (EGF), 1 mg/ml hydrocortisone, 1 mg/ml cholera toxin, and 10 mg/ml insulin. MDA-MB-231 and human embryonic kidney 293T (HEK293T) cells were cultured in DMEM supplemented with 10% fetal bovine serum, 1% L-glutamine, and 1% penicillin/streptomycin. MCF-7 cells were cultured in DMEM supplemented with 10% fetal bovine serum, 1% L-glutamine, 1% penicillin/streptomycin, and 10 mg/ml insulin. T132 (VHL+/+) and RCC4 (VHL−/−) cells (kindly provided by C. Simon, University of Pennsylvania) were cultured in DMEM supplemented with 10% fetal bovine serum, 1% L-glutamine, and 1% penicillin/streptomycin. MEFs-OGTF/Y cells (kindly provided by N. Zachara, John Hopkins University) were cultured as previously described ( O’Donnell et al., 2004).
+
+Statistics
+All results shown as averages are presented as mean ± SE from three or more independent experiments. Unless otherwise noted, p values were calculated using Student’s two-tailed test: (∗p < 0.05).
+
+Acknowledgments
+We thank G. Jones, S.R. Jackson, and K. Shahriari for technical support. We thank Mignon Keaton for help in analyzing LC-MS metabolite data. This work is supported by NCI grants CA183574 (to C.M.F.), CA138488 (to T.N.S.), and CA155413 (to M.J.R.). D.J.V. thanks the Natural Sciences and Engineering Research Council of Canada for support through an E.W.R Steacie Memorial Fellowship and Dr. Lehua Deng for the synthesis of compounds.
+
+Supplemental Information
+ 
+Document S1. Supplemental Experimental Procedures and Figures S1–S7.  
+Help with PDF filesOptions
+ 
+Document S2. Article plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Brown and Wahl, 1993
+R.S. Brown, R.L. Wahl
+Overexpression of Glut-1 glucose transporter in human breast cancer. An immunohistochemical study
+Cancer, 72 (1993), pp. 2979–2985
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (335)
+Caldwell et al., 2010
+S.A. Caldwell, S.R. Jackson, K.S. Shahriari, T.P. Lynch, G. Sethi, S. Walker, K. Vosseller, M.J. Reginato
+Nutrient sensor O-GlcNAc transferase regulates breast cancer tumorigenesis through targeting of the oncogenic transcription factor FoxM1
+Oncogene, 29 (2010), pp. 2831–2842
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+Dang and Semenza, 1999
+C.V. Dang, G.L. Semenza
+Oncogenic alterations of metabolism
+Trends Biochem. Sci., 24 (1999), pp. 68–72
+
+Article |  PDF (119 K) | View Record in Scopus | Citing articles (678)
+DeBerardinis et al., 2008
+R.J. DeBerardinis, J.J. Lum, G. Hatzivassiliou, C.B. Thompson
+The biology of cancer: metabolic reprogramming fuels cell growth and proliferation
+Cell Metab., 7 (2008), pp. 11–20
+
+Article |  PDF (949 K) | View Record in Scopus | Citing articles (796)
+Dennis et al., 2009
+J.W. Dennis, I.R. Nabi, M. Demetriou
+Metabolism, cell surface organization, and disease
+Cell, 139 (2009), pp. 1229–1241
+
+Article |  PDF (1587 K) | View Record in Scopus | Citing articles (113)
+DeRose et al., 2011
+Y.S. DeRose, G. Wang, Y.C. Lin, P.S. Bernard, S.S. Buys, M.T. Ebbert, R. Factor, C. Matsen, B.A. Milash, E. Nelson et al.
+Tumor grafts derived from women with breast cancer authentically reflect tumor pathology, growth, metastasis and disease outcomes
+Nat. Med., 17 (2011), pp. 1514–1520
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (87)
+El Mjiyad et al., 2011
+N. El Mjiyad, A. Caro-Maldonado, S. Ramírez-Peinado, C. Muñoz-Pinedo
+Sugar-free approaches to cancer cell killing
+Oncogene, 30 (2011), pp. 253–264
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+Gao et al., 2001
+Y. Gao, L. Wells, F.I. Comer, G.J. Parker, G.W. Hart
+Dynamic O-glycosylation of nuclear and cytosolic proteins: cloning and characterization of a neutral, cytosolic beta-N-acetylglucosaminidase from human brain
+J. Biol. Chem., 276 (2001), pp. 9838–9845
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (260)
+Generali et al., 2006
+D. Generali, A. Berruti, M.P. Brizzi, L. Campo, S. Bonardi, S. Wigfield, A. Bersiga, G. Allevi, M. Milani, S. Aguggini et al.
+Hypoxia-inducible factor-1alpha expression predicts a poor response to primary chemoendocrine therapy and disease-free survival in primary human breast cancer
+Clin. Cancer Res., 12 (2006), pp. 4562–4568
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+Gloster et al., 2011
+T.M. Gloster, W.F. Zandberg, J.E. Heinonen, D.L. Shen, L. Deng, D.J. Vocadlo
+Hijacking a biosynthetic pathway yields a glycosyltransferase inhibitor within cells
+Nat. Chem. Biol., 7 (2011), pp. 174–181
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Gu et al., 2010
+Y. Gu, W. Mi, Y. Ge, H. Liu, Q. Fan, C. Han, J. Yang, F. Han, X. Lu, W. Yu
+GlcNAcylation plays an essential role in breast cancer metastasis
+Cancer Res., 70 (2010), pp. 6344–6351
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Guillaumond et al., 2013
+F. Guillaumond, J. Leca, O. Olivares, M.N. Lavaut, N. Vidal, P. Berthezène, N.J. Dusetti, C. Loncle, E. Calvo, O. Turrini et al.
+Strengthened glycolysis under hypoxia supports tumor symbiosis and hexosamine biosynthesis in pancreatic adenocarcinoma
+Proc. Natl. Acad. Sci. USA, 110 (2013), pp. 3919–3924
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+Guo et al., 2009
+S. Guo, M. Miyake, K.J. Liu, H. Shi
+Specific inhibition of hypoxia inducible factor 1 exaggerates cell injury induced by in vitro ischemia through deteriorating cellular redox environment
+J. Neurochem., 108 (2009), pp. 1309–1321
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+Han and Kudlow, 1997
+I. Han, J.E. Kudlow
+Reduced O glycosylation of Sp1 is associated with increased proteasome susceptibility
+Mol. Cell. Biol., 17 (1997), pp. 2550–2558
+
+View Record in Scopus | Citing articles (299)
+Hanahan and Weinberg, 2011
+D. Hanahan, R.A. Weinberg
+Hallmarks of cancer: the next generation
+Cell, 144 (2011), pp. 646–674
+
+Article |  PDF (2122 K) | View Record in Scopus | Citing articles (5402)
+Hart et al., 2011
+G.W. Hart, C. Slawson, G. Ramirez-Correa, O. Lagerlof
+Cross talk between O-GlcNAcylation and phosphorylation: roles in signaling, transcription, and chronic disease
+Annu. Rev. Biochem., 80 (2011), pp. 825–858
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (178)
+Itkonen et al., 2013
+H.M. Itkonen, S. Minner, I.J. Guldvik, M.J. Sandmann, M.C. Tsourlakis, V. Berge, A. Svindland, T. Schlomm, I.G. Mills
+O-GlcNAc transferase integrates metabolic pathways to regulate the stability of c-MYC in human prostate cancer cells
+Cancer Res., 73 (2013), pp. 5277–5287
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (7)
+Iyer et al., 1998
+N.V. Iyer, L.E. Kotch, F. Agani, S.W. Leung, E. Laughner, R.H. Wenger, M. Gassmann, J.D. Gearhart, A.M. Lawler, A.Y. Yu, G.L. Semenza
+Cellular and developmental control of O2 homeostasis by hypoxia-inducible factor 1 alpha
+Genes Dev., 12 (1998), pp. 149–162
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1324)
+Jaakkola et al., 2001
+P. Jaakkola, D.R. Mole, Y.M. Tian, M.I. Wilson, J. Gielbert, S.J. Gaskell, A. von Kriegsheim, H.F. Hebestreit, M. Mukherji, C.J. Schofield et al.
+Targeting of HIF-alpha to the von Hippel-Lindau ubiquitylation complex by O2-regulated prolyl hydroxylation
+Science, 292 (2001), pp. 468–472
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2699)
+Krześlak et al., 2012
+A. Krześlak, E. Forma, M. Bernaciak, H. Romanowicz, M. Bryś
+Gene expression of O-GlcNAc cycling enzymes in human breast cancers
+Clin. Exp. Med., 12 (2012), pp. 61–65
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Lynch and Reginato, 2011
+T.P. Lynch, M.J. Reginato
+O-GlcNAc transferase: a sweet new cancer target
+Cell Cycle, 10 (2011), pp. 1712–1713
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3)
+Lynch et al., 2012
+T.P. Lynch, C.M. Ferrer, S.R. Jackson, K.S. Shahriari, K. Vosseller, M.J. Reginato
+Critical role of O-Linked β-N-acetylglucosamine transferase in prostate cancer invasion, angiogenesis, and metastasis
+J. Biol. Chem., 287 (2012), pp. 11070–11081
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Marshall, 2006
+S. Marshall
+Role of insulin, adipocyte hormones, and nutrient-sensing pathways in regulating fuel metabolism and energy homeostasis: a nutritional perspective of diabetes, obesity, and cancer
+Sci. STKE, 2006 (2006), p. re7
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+Marshall et al., 1991
+S. Marshall, V. Bacote, R.R. Traxinger
+Discovery of a metabolic pathway mediating glucose-induced desensitization of the glucose transport system. Role of hexosamine biosynthesis in the induction of insulin resistance
+J. Biol. Chem., 266 (1991), pp. 4706–4712
+
+View Record in Scopus | Citing articles (527)
+Mi et al., 2011
+W. Mi, Y. Gu, C. Han, H. Liu, Q. Fan, X. Zhang, Q. Cong, W. Yu
+O-GlcNAcylation is a novel regulator of lung and colon cancer malignancy
+Biochim. Biophys. Acta, 1812 (2011), pp. 514–519
+
+Article |  PDF (1246 K) | View Record in Scopus | Citing articles (35)
+Cancer Genome Atlas Network, 2012
+Cancer Genome Atlas Network
+Comprehensive molecular portraits of human breast tumours
+Nature, 490 (2012), pp. 61–70
+
+O’Donnell et al., 2004
+N. O’Donnell, N.E. Zachara, G.W. Hart, J.D. Marth
+Ogt-dependent X-chromosome-linked protein glycosylation is a requisite modification in somatic cell function and embryo viability
+Mol. Cell. Biol., 24 (2004), pp. 1680–1690
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+Regan Anderson et al., 2013
+T.M. Regan Anderson, D.L. Peacock, A.R. Daniel, G.K. Hubbard, K.A. Lofgren, B.J. Girard, A. Schörg, D. Hoogewijs, R.H. Wenger, T.N. Seagroves, C.A. Lange
+Breast tumor kinase (Brk/PTK6) is a mediator of hypoxia-associated breast cancer progression
+Cancer Res., 73 (2013), pp. 5810–5820
+
+Full Text via CrossRef
+Semenza, 2010
+G.L. Semenza
+HIF-1: upstream and downstream of cancer metabolism
+Curr. Opin. Genet. Dev., 20 (2010), pp. 51–56
+
+Article |  PDF (279 K) | View Record in Scopus | Citing articles (247)
+Shaw and Cantley, 2012
+R.J. Shaw, L.C. Cantley
+Decoding key nodes in the metabolism of cancer cells: sugar & spice and all things nice
+F1000 Biol Rep, 4 (2012), p. 2
+
+Shore et al., 2011
+G.C. Shore, F.R. Papa, S.A. Oakes
+Signaling cell death from the endoplasmic reticulum stress response
+Curr. Opin. Cell Biol., 23 (2011), pp. 143–149
+
+Article |  PDF (329 K) | View Record in Scopus | Citing articles (62)
+van ’t Veer et al., 2002
+L.J. van ’t Veer, H. Dai, M.J. van de Vijver, Y.D. He, A.A. Hart, M. Mao, H.L. Peterse, K. van der Kooy, M.J. Marton, A.T. Witteveen et al.
+Gene expression profiling predicts clinical outcome of breast cancer
+Nature, 415 (2002), pp. 530–536
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5074)
+Yang et al., 2008
+X. Yang, P.P. Ongusaha, P.D. Miles, J.C. Havstad, F. Zhang, W.V. So, J.E. Kudlow, R.H. Michell, J.M. Olefsky, S.J. Field, R.M. Evans
+Phosphoinositide signalling links O-GlcNAc transferase to insulin resistance
+Nature, 451 (2008), pp. 964–969
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (185)
+Yehezkel et al., 2012
+G. Yehezkel, L. Cohen, A. Kliger, E. Manor, I. Khalaila
+O-linked β-N-acetylglucosaminylation (O-GlcNAcylation) in primary and metastatic colorectal cancer clones and effect of N-acetyl-β-D-glucosaminidase silencing on cell phenotype and transcriptome
+J. Biol. Chem., 287 (2012), pp. 28755–28769
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Yi et al., 2012
+W. Yi, P.M. Clark, D.E. Mason, M.C. Keenan, C. Hill, W.A. Goddard 3rd, E.C. Peters, E.M. Driggers, L.C. Hsieh-Wilson
+Phosphofructokinase 1 glycosylation regulates cell growth and metabolism
+Science, 337 (2012), pp. 975–980
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+Ying et al., 2012
+H. Ying, A.C. Kimmelman, C.A. Lyssiotis, S. Hua, G.C. Chu, E. Fletcher-Sananikone, J.W. Locasale, J. Son, H. Zhang, J.L. Coloff et al.
+Oncogenic Kras maintains pancreatic tumors through regulation of anabolic glucose metabolism
+Cell, 149 (2012), pp. 656–670
+
+Article |  PDF (3136 K) | View Record in Scopus | Citing articles (114)
+Zoncu et al., 2011
+R. Zoncu, A. Efeyan, D.M. Sabatini
+mTOR: from growth signal integration to cancer, diabetes and ageing
+Nat. Rev. Mol. Cell Biol., 12 (2011), pp. 21–35
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (953)
+Corresponding author contact information
+Corresponding author
+Copyright © 2014 Elsevier Inc. All rights reserved.

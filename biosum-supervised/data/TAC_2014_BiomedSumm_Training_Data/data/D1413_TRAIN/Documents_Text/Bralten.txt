@@ -1,0 +1,109 @@
+Absence of Common Somatic Alterations in Genes on 1p and 19q in Oligodendrogliomas
+Linda B. Bralten,1 Stephan Nouwens,2 Christel Kockx,3 Lale Erdem,1 Casper C. Hoogenraad,4 Johan M. Kros,5 Michael J. Moorhouse,2 Peter A. Sillevis Smitt,1 Peter van der Spek,2 Wilfred van Ijcken,3 Andrew Stubbs,2 and Pim J. French1,*
+Ilya Ulasov, Editor
+Author information ► Article notes ► Copyright and License information ►
+This article has been cited by other articles in PMC.
+Go to:
+Abstract
+A common and histologically well defined subtype of glioma are the oligodendroglial brain tumors. Approximately 70% of all oligodendrogliomas have a combined loss of the entire 1p and 19q chromosomal arms. This remarkably high frequency suggests that the remaining arms harbor yet to be identified tumor suppressor genes. Identification of these causal genetic changes in oligodendrogliomas is important because they form direct targets for treatment. In this study we therefore performed targeted resequencing of all exons, microRNAs, splice sites and promoter regions residing on 1p and 19q on 7 oligodendrogliomas and 4 matched controls. Only one missense mutation was identified in a single sample in the ARHGEF16 gene. This mutation lies within- and disrupts the conserved PDZ binding domain. No similar ARHGEF16 mutations or deletions were found in a larger set of oligodendrogliomas. The absence of common somatic changes within genes located on 1p and 19q in three out of four samples indicates that no additional “second hit” is required to drive oncogenic transformation on either chromosomal arm.
+
+Go to:
+Introduction
+A common and histologically well defined subtype of glioma are the oligodendroglial brain tumors. Oligodendrogliomas differ from the other glioma subtypes in clinical behavior with respect to overall prognosis (median survival 3 years versus less than one year) and a relatively better and longer lived response to chemotherapy and radiotherapy [1]–[3]. Oligodendrogliomas have clearly distinct gene expression profiles [4]–[6] and are also cytogenetically distinct: approximately 70% of all oligodendrogliomas have a combined loss of the entire short arm of chromosome 1 (1p) and loss of the entire long arm of chromosome 19 (19q) [1], [3]–[5], [7]. Loss of these chromosomal arms in oligodendrogliomas is highly correlated with chemosensitivity; approximately 80–90% of oligodendroglial tumors with LOH (loss of heterozygosity) on 1p and 19q respond to chemotherapy [1], [2], [8]. Conversely only 25–30% of tumors that have retained the short arm of chromosome 1p are sensitive to chemotherapy. In summary, oligdendrogliomas are a clinically, histologically, cytogenetically and molecularly distinct and well defined subgroup of glioma.
+
+In spite of these clearly distinct clinical, histological and molecular features, little is known on the genetic changes that drive these tumors. Thusfar, IDH1/IDH2 (70%) and, to a much lesser extent, TP53 (15–25%) and PIK3CA (10–15%) are the only genes that are mutated at significant frequency in this tumor type [9]–[15]. The remarkably high frequency of LOH of 1p and 19q suggests the remaining arms harbor yet to be identified tumor suppressor genes (Knudson two-hit hypothesis [16]). Identification of the causal genetic changes is important because they form direct targets for treatment: Tumor growth depends on these acquired-somatic- changes both in oncogenes (“oncogene addiction” [17]) and in tumor suppressor genes [18], [19]. In this study we therefore aimed to identify genetic changes in all exons, microRNAs, splice sites and promoter regions on 1p or 19q using array capture and Next Generation Sequencing. Experiments were performed on 7 oligodendrogliomas and 4 had matched control DNA samples.
+
+Go to:
+Materials and Methods
+Glioma samples were collected from the Erasmus MC tumor archive. Samples were collected immediately after surgical resection, snap frozen, and stored at −80°C. The use of patient material was approved of by the Institutional Review Board of the Erasmus MC, Rotterdam, the Netherlands (nr MEC 221.520/2002/262; date of approval July 22, 2003, and MEC-2005-057, date of approval February 14, 2005). For this use, patients gave written informed consent according to institutional and national guidelines.
+
+All oligodendrogliomas used (n = 7) had proven loss of 1p and 19q as assessed by SNP 6.0 or 250 k NspI arrays (both Affymetrix, Santa Clara, USA) [7] and highly similar RNA expression profiles (i.e. belong to the same molecular subgroup) [6]. Control DNA was available in 4/7 cases. The candidate variations of 4 samples were used for validation experiments. By using 4 samples we have a 76.0% chance of identifying each mutation with a frequency of 30%. DNA was amplified using a Repli-G midi kit (Qiagen, Venlo, the Netherlands) to ensure sufficient DNA amounts. Patient characteristics are listed in table 1.
+
+Table 1
+Table 1
+Patient characteristics of all tumor samples.
+Capture arrays (Nimblegen, Roche NimbleGen, Inc., Waldkraiburg, Germany) were designed to enrich for all exons, miRNAs, splice sites (defined as 10 bp up- or downstream of a coding exon) and promoter regions (defined as 100 bp upstream of a transcript) of transcripts present in Refseq, Ensembl or Vega based on the NCBI36/hg18 build. Two capture arrays were designed covering around 5 million bp of sequence each. We were able to design capture probes for 96.0% and 94.4% of all regions on chr 1 and chr 19 respectively, remaining sequences contained non unique sequences (>5 fold presence in the human genome). Amplified DNA samples were fragmented by sonication, end repaired and ligated to paired end adaptors. Samples were size selected (300 bp), enriched for 1p and 19q by array capture, PCR-amplified and 76 bp paired end sequenced using the Illumina GA2x sequencer. The Illumine Casava pipeline was used for base calling and quality control.
+
+The CLC Bio Genomics Workbench (Aarhus, Denmark) was used to align sequence reads against the reference genome. All the experiments were successful except for one of the two capture arrays of sample 229, which was omitted from the analysis. We defined reads subject for mutational analysis as being covered at least 7 times in the tumor sample and at least 8 times in the matching control sample. This coverage was set deliberately low (often ≥30 fold coverage is used) and was aimed to include as many evaluable targeted regions as possible.
+
+Single Nucleotide Variants (SNVs) and Deletion or Insertion Variants (DIVs) were detected by the CLC Bio Genomic Workbench and filtered using the following criteria (coverage of at least 7 (tumor) or 8 (ctr), variant frequency at least 70% (tumor) or 30% (controls). The difference in variant frequency between tumors and normals is because only homozygous changes are expected in the tumor (because of the 1p19q LOH). To allow for tumor heterogeneity (presence of non-neoplastic tissue) and stochastic effects (allele specific sequencing) these percentages were set lower than 100% and 50%.
+
+Go to:
+Results
+The mean total number of matched bp sequenced per sample was 2.89 billion (1.17 billion in sample 229). Of these, 73.5% was on our targeted regions (range 70.4–84.8%, one outlier at 41.3%) confirming capture efficiency. The coverage of our targeted regions was at least 7 in 96.5% of our target regions (range 87.6–98.9) (see also figure 1). Coverage of genes suggested to be involved in (oligodendro-) glioma genesis CAMTA1 [20], EMP3 [21], CHD5 [22], DIRAS3 [23] and PLA2G4C [24] is listed in table 2.
+
+Figure 1
+Figure 1
+Coverage plot of all samples.
+Table 2
+Table 2
+Per base coverage of known candidate genes in oligodendrogliomas located on 1p or 19q.
+We first calculated the tumor percentage of all samples. The tumor content can be estimated by the observed B allele frequency of SNPs using tumor samples only. For example, in case of 50% tumor, the observed B allele frequency would amount to 66.7% (in case of LOH in the tumor). In our sample cohort, the observed B allele frequency was 91.2–97.3% (except for sample 11 with an observed frequency of 85.0%), corresponding to 90.3–97.2% tumor (82.4% for sample 11). A tumor content ≥82.4% indicates that a mutant allele frequency of 70% (corresponding to a tumor percentage of 82.4%) is a suitable value as detection cutoff for the mutant allele frequency.
+
+We then prioritized all changes identified based on their associated function into: tier 1 (coding exons, splice sites and miRNAs), tier 2 (promoters and UTRs), tier 3 (intronic regions) and tier 4 (SNPs and personal SNPs). In tiers 1, 2, 3 and 4 we identified 431, 1380, 16293 and 72466 SNVs and DIVs respectively. A high number of all variants present in tier 4 were not present in dbSNP130, and are likely to reflect personal SNPs and sequencing artefacts (see also table 3). We then performed direct sequencing on all tier 1 candidates and all candidates within promoter regions (part of tier 2). 505 of the 514 sequence reactions were successful; only 2/9 unsuccessful candidates were predicted to result in a change in the primary protein sequence (both missense mutations).
+
+Table 3
+Table 3
+Candidate genetic variations after filtering in all samples with controls.
+Of the 514 candidate variants 77% (n = 394) were not confirmed on tumor DNA using direct sequencing (false positive). Such variants likely represent amplification artefacts (due to e.g. whole genome amplification or the post capture PCR amplification) and/or sequencing artefacts (e.g. sequencing errors). A further 21% (n = 110) could be confirmed in the tumor samples, but the variant was also present in the matched control DNA. These variants may represent selective allele amplification and sequencing. In summary, of the 514 candidates subject to direct sequencing, one variant was validated. This variant is a missense mutation (c.2125 G>A) (figure 2a) and affects the last amino acid (p.V709M) of ARHGEF16 (RefSeq: NM_014448.3) in sample 8. It should be noted that the absence of trace wt sequence in the chromatogram confirms the high tumor percentage in this sample. The base is highly conserved (GERP conservation score 3.35 [25]. This amino acid is located within a PDZ-binding domain (ETDV, a protein-protein interaction domain). However, it remains to be determined whether the identified mutation affects its RhoA guanine exchange function and oncogenic transformation potential [26].
+
+Figure 2
+Figure 2
+ARHGEF16 (RefSeq: NM_014448.3) mutation and promoter methylation.
+None of the other 6 samples contained changes in the coding sequence of ARHGEF16. In addition, we failed to identify mutations in the last exon of ARHGEF16 in an additional 32 samples from the same molecular cluster [6] using direct sequencing. No small homozygous deletions were identified on SNP 6.0 and 250 k Nsp arrays from 23 oligodendrogliomas [7]. The ARHGEF16 promoter does show hypermethylation on Infinium Methylation arrays (Illumina, San Diego, USA), on 68 anaplastic oligodendrogliomas and oligoastrocytomas; PF, manuscript in prep) and is correlated with loss of 1p and 19q (p = 0.035, Fisher exact test). Data are listed in table 4. In addition, tumors with hypermethylated ARHGEF16 promoter have a better survival (5.62 years versus 1.31 years; p<0.0001) (figure 2b). Promoter methylation of ARHGEF16 may therefore be involved in the formation of gliomas with loss of 1p and 19q.
+
+Table 4
+Table 4
+Percentage methylation of two different CpG sites (cg24919884 and cg02737335) within the ARHGEF16 locus.
+Go to:
+Discussion
+We have systematically sequenced all exons, miRNAs, splice sites and promoter regions on 1p and 19q. Of the 514 candidate variants in coding exons, miRNAs, splice sites and promoter regions, only one was validated: a missense mutation in ARHGEF16 affecting the PDZ-binding domain. ARHGEF16 lies on 1p36 a region that is commonly deleted in gliomas [20], [22], [27]. However, no other genetic changes were detected in the ARHGEF16 gene in a panel of 32 additional oligodendrogliomas, though the promoter is frequently hypermethylated. Future experiments should determine whether this specific mutation contributes to the pathogenesis of the disease.
+
+In our sample cohort, only one somatic mutation in a single sample was identified among the ~107 bases of sequence evaluated. The overall mutation rate in oligodendrogliomas therefore is at least an order of magnitude lower than reported for many other cancer types including glioblastomas [12], [28], [29]. Recent reports however, have highlighted tumor types that also have a very low somatic mutation rate [30], [31].
+
+One important observation by our study is the fact that in 3 out of the four samples examined no genomic second hit was found in any of the screened regions. Our data therefore indicate that no additional “second hit” is required on these chromosomal arms to drive oncogenic transformation. It is possible that a second hit is present on the remaining alleles but has escaped detection (e.g. due to a skewed distribution in sequencing of the non-neoplastic alleles derived from “contaminating” normal tissue) or is located in regions not captured or covered by our capture array. Alternatively, promoter methylation and/or haploinsufficiency of one or more genes could drive oncogenesis in oligodendrogliomas with loss of 1p and 19q. In line with this hypothesis is the high frequency of IDH1 mutations in oligodendrogliomas with 1p and 19q LOH (see e.g. [32]) and the observation that IDH1 mutations induce chromatin remodeling and promoter hypermethylation [33], [34]. IDH1 mutations are associated with the CpG island hypermethylation phenotype (MvdB and PF, submitted), and promoter hypermethylation in cancer often occurs in the promoter regions of tumor suppressor genes [35], [36]. Promoter hypermethylation of tumor suppressor genes in combination with somatic mutations in a limited number of genes therefore may drive oncogenesis in oligodendrogliomas with 1p and 19q LOH.
+
+Go to:
+Footnotes
+Competing Interests: The authors have declared that no competing interests exist.
+
+Funding: This work was supported by Erasmus MC grants 2006 and 2008. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Go to:
+References
+1. Cairncross JG, Ueki K, Zlatescu MC, Lisle DK, Finkelstein DM, et al. Specific genetic predictors of chemotherapeutic response and survival in patients with anaplastic oligodendrogliomas. J Natl Cancer Inst. 1998;90:1473–1479. [PubMed]
+2. Thiessen B, Maguire JA, McNeil K, Huntsman D, Martin MA, et al. Loss of heterozygosity for loci on chromosome arms 1p and 10q in oligodendroglial tumors: relationship to outcome and chemosensitivity. J Neurooncol. 2003;64:271–278. [PubMed]
+3. van den Bent MJ, Taphoorn MJ, Brandes AA, Menten J, Stupp R, et al. Phase II study of first-line chemotherapy with temozolomide in recurrent oligodendroglial tumors: the European Organization for Research and Treatment of Cancer Brain Tumor Group Study 26971. J Clin Oncol. 2003;21:2525–2528. [PubMed]
+4. French PJ, Swagemakers SMA, Nagel JHA, Kouwenhoven MCM, Brouwer E, et al. Gene expression profiles associated with treatment response in oligodendrogliomas. Cancer Res. 2005;65:11335–11344. [PubMed]
+5. French PJ, Peeters J, Horsman S, Duijm E, Siccama I, et al. Identification of differentially regulated splice variants and novel exons in glial brain tumors using exon expression arrays. Cancer Res. 2007;67:5635–5642. [PubMed]
+6. Gravendeel LA, Kouwenhoven MC, Gevaert O, de Rooi JJ, Stubbs AP, et al. Intrinsic gene expression profiles of gliomas are a better predictor of survival than histology. Cancer Res. 2009;69:9065–9072. [PubMed]
+7. Bralten LB, Kloosterhof NK, Gravendeel LA, Sacchetti A, Duijm EJ, et al. Integrated genomic profiling identifies candidate genes implicated in glioma-genesis and a novel LEO1-SLC12A1 fusion gene. Genes Chromosomes Cancer. 2010;49:507–517. [PubMed]
+8. van den Bent MJ, Looijenga LH, Langenberg K, Dinjens W, Graveland W, et al. Chromosomal anomalies in oligodendroglial tumors are correlated with clinical features. Cancer. 2003;97:1276–1284. [PubMed]
+9. Ueki K, Nishikawa R, Nakazato Y, Hirose T, Hirato J, et al. Correlation of histology and molecular genetic analysis of 1p, 19q, 10q, TP53, EGFR, CDK4, and CDKN2A in 91 astrocytic and oligodendroglial tumors. Clin Cancer Res. 2002;8:196–201. [PubMed]
+10. Broderick DK, Di C, Parrett TJ, Samuels YR, Cummins JM, et al. Mutations of PIK3CA in anaplastic oligodendrogliomas, high-grade astrocytomas, and medulloblastomas. Cancer Res. 2004;64:5048–5050. [PubMed]
+11. Ohgaki H, Kleihues P. Population-based studies on incidence, survival rates, and genetic alterations in astrocytic and oligodendroglial gliomas. J Neuropathol Exp Neurol. 2005;64:479–489. [PubMed]
+12. Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, et al. An integrated genomic analysis of human glioblastoma multiforme. Science. 2008;321:1807–1812. [PMC free article] [PubMed]
+13. Hartmann C, Meyer J, Balss J, Capper D, Mueller W, et al. Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas. Acta Neuropathol. 2009;118:469–474. [PubMed]
+14. Kloosterhof NK, Bralten LB, Dubbink HJ, French PJ, van den Bent MJ. Isocitrate dehydrogenase-1 mutations: a fundamentally new understanding of diffuse glioma? Lancet Oncol. 2011;12:83–89. [PubMed]
+15. Gravendeel LA, Kloosterhof NK, Bralten LB, van Marion R, Dubbink HJ, et al. Segregation of non-p.R132H mutations in IDH1 in distinct molecular subtypes of glioma. Hum Mutat. 2010;31:E1186–1199. [PubMed]
+16. Knudson AG., Jr Mutation and cancer: statistical study of retinoblastoma. Proc Natl Acad Sci U S A. 1971;68:820–823. [PMC free article] [PubMed]
+17. Weinstein IB, Joe A. Oncogene addiction. Cancer Res. 2008;68:3077–3080; discussion. [PubMed]
+18. Bykov VJ, Issaeva N, Shilov A, Hultcrantz M, Pugacheva E, et al. Restoration of the tumor suppressor function to mutant p53 by a low-molecular-weight compound. Nat Med. 2002;8:282–288. [PubMed]
+19. Ventura A, Kirsch DG, McLaughlin ME, Tuveson DA, Grimm J, et al. Restoration of p53 function leads to tumour regression in vivo. Nature. 2007;445:661–665. [PubMed]
+20. Barbashina V, Salazar P, Holland EC, Rosenblum MK, Ladanyi M. Allelic losses at 1p36 and 19q13 in gliomas: correlation with histologic classification, definition of a 150-kb minimal deleted region on 1p36, and evaluation of CAMTA1 as a candidate tumor suppressor gene. Clin Cancer Res. 2005;11:1119–1128. [PubMed]
+21. Alaminos M, Davalos V, Ropero S, Setien F, Paz MF, et al. EMP3, a myelin-related gene located in the critical 19q13.3 region, is epigenetically silenced and exhibits features of a candidate tumor suppressor in glioma and neuroblastoma. Cancer Res. 2005;65:2565–2571. [PubMed]
+22. Bagchi A, Papazoglu C, Wu Y, Capurso D, Brodt M, et al. CHD5 is a tumor suppressor at human 1p36. Cell. 2007;128:459–475. [PubMed]
+23. Riemenschneider MJ, Reifenberger J, Reifenberger G. Frequent biallelic inactivation and transcriptional silencing of the DIRAS3 gene at 1p31 in oligodendroglial tumors with 1p loss. Int J Cancer. 2008;122:2503–2510. [PubMed]
+24. Tews B, Felsberg J, Hartmann C, Kunitz A, Hahn M, et al. Identification of novel oligodendroglioma-associated candidate tumor suppressor genes in 1p36 and 19q13 using microarray-based expression profiling. Int J Cancer. 2006;119:792–800. [PubMed]
+25. Cooper GM, Stone EA, Asimenos G, Green ED, Batzoglou S, et al. Distribution and intensity of constraint in mammalian genomic sequence. Genome Res. 2005;15:901–913. [PMC free article] [PubMed]
+26. Hampson L, He XT, Oliver AW, Hadfield JA, Kemp T, et al. Analogues of Y27632 increase gap junction communication and suppress the formation of transformed NIH3T3 colonies. Br J Cancer. 2009;101:829–839. [PMC free article] [PubMed]
+27. Bagchi A, Mills AA. The quest for the 1p36 tumor suppressor. Cancer Res. 2008;68:2551–2556. [PMC free article] [PubMed]
+28. Cancer Genome Atlas Research N. Comprehensive genomic characterization defines human glioblastoma genes and core pathways. Nature. 2008;455:1061–1068. [PMC free article] [PubMed]
+29. Greenman C, Stephens P, Smith R, Dalgliesh GL, Hunter C, et al. Patterns of somatic mutation in human cancer genomes. Nature. 2007;446:153–158. [PMC free article] [PubMed]
+30. Choi M, Scholl UI, Yue P, Bjorklund P, Zhao B, et al. K+ channel mutations in adrenal aldosterone-producing adenomas and hereditary hypertension. Science. 331:768–772. [PMC free article] [PubMed]
+31. Parsons DW, Li M, Zhang X, Jones S, Leary RJ, et al. The genetic landscape of the childhood cancer medulloblastoma. Science. 2011;331:435–439. [PMC free article] [PubMed]
+32. Bralten L, Kloosterhof N, Balvers R, Sacchetti A, Lapre L, et al. IDH1 R132H decreases proliferation of glioma cell lines in vitro and in vivo. Ann Neurol. 2011;69:455–463. [PubMed]
+33. Figueroa ME, Abdel-Wahab O, Lu C, Ward PS, Patel J, et al. Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation. Cancer Cell. 18:553–567. [PubMed]
+34. Xu W, Yang H, Liu Y, Yang Y, Wang P, et al. Oncometabolite 2-Hydroxyglutarate Is a Competitive Inhibitor of alpha-Ketoglutarate-Dependent Dioxygenases. Cancer Cell. 2011;19:17–30. [PMC free article] [PubMed]
+35. Esteller M. Epigenetics in cancer. N Engl J Med. 2008;358:1148–1159. [PubMed]
+36. Taby R, Issa JP. Cancer epigenetics. CA Cancer J Clin. 2010;60:376–392. [PubMed]

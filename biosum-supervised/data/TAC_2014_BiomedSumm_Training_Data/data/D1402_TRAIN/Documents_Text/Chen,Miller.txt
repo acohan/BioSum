@@ -1,0 +1,327 @@
+
+RESEARCH ARTICLE
+Extensive Alternative Splicing of the Repressor Element Silencing Transcription Factor Linked to Cancer
+Guo-Lin Chen mail, Gregory M. Miller
+Published: April 16, 2013DOI: 10.1371/journal.pone.0062217
+Abstract
+
+The repressor element silencing transcription factor (REST) is a coordinate transcriptional and epigenetic regulator which functions as a tumor suppressor or an oncogene depending on cellular context, and a truncated splice variant REST4 has been linked to various types of cancer. We performed a comprehensive analysis of alternative splicing (AS) of REST by rapid amplification of cDNA ends and PCR amplification of cDNAs from various tissues and cell lines with specific primers. We identified 8 novel alternative exons including an alternate last exon which doubles the REST gene boundary, along with numerous 5′/3′ splice sites and ends in the constitutive exons. With the combination of various splicing patterns (e.g. exon skipping and alternative usage of the first and last exons) that are predictive of altered REST activity, at least 45 alternatively spliced variants of coding and non-coding mRNA were expressed in a species- and cell-type/tissue-specific manner with individual differences. By examining the repertoire of REST pre-mRNA splicing in 27 patients with kidney, liver and lung cancer, we found that all patients without exception showed differential expression of various REST splice variants between paired tumor and adjacent normal tissues, with striking cell-type/tissue and individual differences. Moreover, we revealed that exon 3 skipping, which causes no frame shift but loss of a domain essential for nuclear translocation, was affected by pioglitazone, a highly selective activator of the peroxisome proliferator-activated receptor gamma (PPARγ) which contributes to cell differentiation and tumorigenesis besides its metabolic actions. Accordingly, this study demonstrates an extensive AS of REST pre-mRNA which redefines REST gene boundary and structure, along with a general but differential link between REST pre-mRNA splicing and various types of cancer. These findings advance our understanding of the complex, context-dependent regulation of REST gene expression and function, and provide potential biomarkers and therapeutic targets for cancer.
+
+Figures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+123
+Citation: Chen G-L, Miller GM (2013) Extensive Alternative Splicing of the Repressor Element Silencing Transcription Factor Linked to Cancer. PLoS ONE 8(4): e62217. doi:10.1371/journal.pone.0062217
+Editor: Emanuele Buratti, International Centre for Genetic Engineering and Biotechnology, Italy
+Received: February 14, 2013; Accepted: March 18, 2013; Published: April 16, 2013
+Copyright: © 2013 Chen, Miller. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by National Institutes of Health grants DA025697 (GMM), DA030177 (GMM), and OD11103 (NEPRC). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests: The authors have declared that no competing interests exist.
+Introduction
+
+Alternative splicing (AS), a process to differentially link exons in a single precursor mRNA (pre-mRNA) to produce two or more different mature mRNAs, is a major contributor to transcriptome and proteome diversity, with >90% of human genes undergoing AS in a tissue- and developmental stage-specific manner [1], [2]. It is now recognized that the coupling between transcription and splicing is crucial for AS regulation [3], [4], and that exon-intron junctions or splice sites (SS) are specified by epigenetic modifications dependent on cellular context [4], [5]. Accordingly, epigenetic modifications affect not only transcription, but also the co-transcriptional splicing [6], [7]. Epigenetic regulation of pre-mRNA splicing, in line with the spatiotemporal selection of SS, suggest that AS cross-talks with environmental cues to contribute to adaptive responses and disease pathophysiology. Indeed, AS is modulated by the circadian clock, psychological stress, and numerous hormones and chemicals [8]–[10], while an estimated 15–60% of human genetic diseases, ranging from neurological to tumorigenic and metabolic disorders, involve splicing mutations [2], [11]–[14].
+
+The repressor element silencing transcription factor (REST, also known as NRSF for neuron-restrictive silencing factor), originally identified as a repressor of neuronal genes in non-neuronal cells [15], [16], is now recognized as a coordinate transcriptional and epigenetic regulator that orchestrates the cellular epigenome in both neuronal and non-neuronal cells [17]. REST binds to widely distributed genomic regulatory sequences including the repressor element-1 (RE1) by a DNA-binding domain (DBD) which comprises 8 zinc finger motifs (ZFMs), while its effect on gene expression is mediated by two independent repression domains (RD1 and RD2) which directly or indirectly recruit numerous transcriptional and epigenetic cofactors. Briefly, the N-terminal RD1 recruits mSin3, a scaffold for histone deacetylases (HDACs), while the C-terminal RD2 partners with the REST corepressor (CoREST) which additionally recruits HDACs, methyl-CpG binding protein 2 (MeCP2), histone H3K4 lysine demethylase (LSD1) and H3K9 methyltransferases (G9a), as well as a component of the SWI/SNF chromatin remodeling complex-Brg1. By recruiting numerous cofactors to target gene loci, REST promotes dynamic, context-dependent chromatin organization and repression/activation of thousands of genes involved in many cellular processes including tumorigenesis, for which it functions as a tumor suppressor or an oncogene depending on cellular context [18], [19]. The diverse, context-dependent function of REST is specified by multiple mechanisms including proteasomal degradation, nuclear translocation and pre-mRNA splicing [20]–[23], as well as the modulation by non-coding RNAs (ncRNAs) and binding affinity of REST to diverse RE1 and non-RE1 sites [24], [25].
+
+REST undergoes AS with a limited number of splice variants having been reported, of which a C-terminal truncated variant REST4, which contains RD1 and ZFMs 1–5, has been well documented [20], [21]. As a dominant negative, REST4 is linked to small cell lung cancer (SCLC), neuroblastoma and breast cancer [26]–[28], and it contributes to early-life programming of the stress response, neuroprotection and hormonal regulation of glutamine synthethase [29]–[31]. Another two splice variants, REST1 which contains RD1 and ZFMs 1–4 [16], and REST-5FΔ with a deletion of the ZFM-5 [27], have also been documented. Notably, REST4 with ZFM-5 is transported to the nucleus while REST1 without ZFM-5 is not [32], and it was later demonstrated that ZFM-5 is essential for the nuclear targeting of REST [33].
+
+In this study, we performed a comprehensive analysis of the AS of REST pre-mRNA and examined its relevance to cancer. We demonstrate that: 1) REST undergoes extensive AS across a gene boundary now doubled by a novel last exon (E5), with numerous coding and non-coding mRNAs being formed with a species- and cell-type/tissue-specific expression; 2) numerous REST splice variants, which are caused by various splicing patterns (e.g. exon skipping and alternative usage of the first and last exons) predictive of altered REST activity, are generally but differentially linked to various types of cancer; and 3) exon 3 (E3) skipping, which causes no frame shift but loss of ZFM-5 essential for nuclear translocation, is remarkably affected by pioglitazone, a highly selective agonist for PPARγ which modulates cell differentiation and tumorigenesis besides its metabolic actions. These findings advance our understanding of the complexity of REST gene regulation and function, and provide potential biomarkers and therapeutic targets for cancer.
+
+Materials and Methods
+
+Ethics Statement
+
+The use of human tissues was approved by the Harvard Institutional Review Board, and the related projects for which macaques and mice were euthanized were approved by the Institutional Animal Care and Use Committee for Harvard Medical School. The Harvard Medical School animal management program is accredited by the American Association for the Accreditation of Laboratory Animal Care (AAALAC) and meets National Institutes of Health standards as set forth in the Guide for the Care and Use of Laboratory Animals (DHHS Publication No. (NIH) 85–23 Revised 1985). The institution also accepts as mandatory the PHS Policy on Humane Care and Use of Laboratory Animals by Awardee Institutions and NIH Principles for the Utilization and Care of Vertebrate Animals Used in Testing, Research, and Training.
+
+Animals (macaques and mice) involved in this study were cared for in compliance with National Institutes of Health, US Department of Agriculture, and Harvard Medical School guidelines for animal research. Macaques were single-housed and all efforts were made to reduce discomfort and provide enrichment opportunities (e.g. varied food supplements, foraging and task-oriented feeding methods, and interaction with caregivers and research staff). Specifically, macaques were fed twice daily (AM and PM) with a balanced commercially available Old World Primate Diet (e.g. Harlan Teklad 8714 Monkey Diet). Fruit and/or vegetable supplements were provided to all animals daily, and drinking water was provided ad libitum by automatic water lixits or plastic water bottles. Tissue samples were collected from five macaques which had been utilized in other experiments at the time of their necropsy. The macaques were euthanized following being anesthetized with ketamine HCl by an intravenous pentobarbital overdose, and exsanguinated. Mice were euthanized with carbon dioxide gas inhalation followed by cervical dislocation, and all efforts were made to minimize suffering.
+
+Human and animal tissues
+
+The cDNA samples derived from adult normal human tissues (kidney, liver, lung, pituitary, hippocampus, amygdala and pons, 1 for each) were purchased from the BioChain® Institute, Inc (Newark, CA). 27 pairs of tumor and adjacent normal tissues from patients diagnosed clinically with kidney, liver and lung cancers (9 pairs for each) were obtained from the UMass Cancer Center Tissue Bank (5 pairs for each cancer as tissue in RNAlater) and the BioChain® Institute Inc (4 pairs for each cancer as total RNA). The demographic information of the patients briefly shown in Table 1. The human peripheral blood mononuclear cells (PBMCs), which were purified as described previously [34], were kindly gifted by Dr. Fred Wang at the Brigham & Women's Hospital. We also collected tissues from rhesus monkeys and mice euthanized for other projects.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (93KB)
+TIFF original image (253KB)
+Table 1. Demographic data for the patients with cancer.
+doi:10.1371/journal.pone.0062217.t001
+Cell lines and drug treatment
+
+A total of 18 cell lines derived from human (HEK293, HEK293T, HepG2, NCCIT, SH-SY5Y, A549, MCF7, K562, SK-N-MC, HeLa, Raji, TE671, Jurkat, Sup-T1 and induced pluripotent stem (iPS)), nonhuman primate (COS-7) and rodents (RN46A and PC12) were employed in this study. Except for RN46A and iPS, all the other 16 cell lines were obtained from American Type Culture Collection (Manassas, VA). RN46A cells were kindly provided by Dr. Scott Whittemore [35], while the iPS cells were originated from Dr. Stephen J. Haggarty [36]. To examine the effect of pioglitazone on REST pre-mRNA splicing, the NCCIT, HEK293T and HepG2 cells were treated with either 10 µM of pioglitazone (Sigma-Aldrich) or a matched concentration of the solvent (0.04% DMSO), and cells were harvested at 48 hours following treatment. Treatments were performed in duplicate on 3 independent occasions.
+
+RNA isolation and cDNA synthesis
+
+Total RNA was extracted using Trizol® reagent (Invitrogen). An aliquot of total RNA was reverse transcribed into cDNA using the QuantiTect® Reverse Transcription Kit (Qiagen), while another aliquot was reverse transcribed into cDNA by using an anchored oligo-dT (anchor sequence given in Table 2). Synthesized cDNA was diluted to 50 ng/µl for use.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (110KB)
+TIFF original image (315KB)
+Table 2. Oligos used for the detection of specific REST splice variants.
+doi:10.1371/journal.pone.0062217.t002
+PCR amplification and DNA sequencing
+
+A touchdown PCR protocol was employed for both standard and nested PCRs, and amplifications were performed in a MJ Research PTC-200 Peltier Thermal Cycler (GMI) in a total volume of 20 µl comprising 1 µl of template (50 ng/µl cDNA for standard or 1st step PCR, and 1:20 diluted product of 1st step PCR for 2nd step of nested PCR), 10 pmoles of each primer (Table 2), and 10 µl of GoTaq® Green Master Mix (Promega). The first step of nested PCR was performed by using cDNA made by anchored oligo-dT as template and oligo-dT anchor paired with E1aF2, E1bF2 and E1cF2 as the primer sets. For adult normal human tissues without cDNA made by anchored oligo-dT available, the oligo-dT anchor was replaced by E4R3 and E5R2 (outside E4R1 and E5R1, respectively). Primers for rhesus macaque and rodents were modified if necessary. Amplification conditions involved an initial 2.5 min denaturation at 95°C, followed by 28 (for 1st step of nested PCR) or 40 (for standard or 2nd step of nested PCR) cycles of 30 s denaturation at 95°C, 30 s annealing (temperature starting at 61°C and decreased by 0.5°C/cycle for the initial 12 cycles, then fixed at 55°C), and 60~180 s extension at 72°C, with a final extension of 5 min at 72°C. PCR products were loaded on a 2% agarose gel and amplicons of distinct size were excised, purified and sequenced. DNA sequencing was performed as commercial service by the Functional Biosciences Inc (Madison, WI). PCR products with poor quality sequencing data were cloned into pGEM®-T vector (Promega) for further sequencing.
+
+5′/3′ Rapid amplification of cDNA ends (RACE)
+
+Total RNA generated from HEK293, HEK293T, HepG2 and SH-SY5Y were used to perform the 5′ and 3′ RACE, which were carried out by two commercial kits, the 5′/3′ RACE Kit (2nd Generation) from Roche (Indianapolis, IN) and GeneRacer® from Invitrogen, which differ in strategies for 5′ RACE. For 5′ RACE with GeneRacer® kit, a RNA Oligo was firstly ligated to RNA, followed by cDNA synthesis using Oligo-dT and nested PCR using REST-specific reverse primers (e.g. E4R1 and E4R2) paired with a GeneRacer® 5′ primer (homologous to the RNA Oligo). For 5′ RACE with Roche's kit, cDNA was first synthesized from total RNA using a REST-specific reverse primer (e.g. E4R2, outside), followed by tailing with dATP and terminale transferase and subsequent nested PCR using anchored Oligo-dT or anchor primer paired with a REST-specific reverse primer (e.g. E4R1, inside). To perform 3′ RACE, cDNA was synthesized from total RNA using anchored Oligo-dT, followed by nested PCR using REST-specific forward primers (e.g. E1aF1 and E1aF2) paired with the anchor primer.
+
+Quantitative real-time PCR (qRT-PCR) assay
+
+Using primers listed in Table 2, we developed SYBR Green I and/or Hybridization Probe qRT-PCR for specific exon-exon junctions and exon 2 (E2, presumably represents overall expression of coding mRNAs regardless of the first and last exons), as well as the housekeeping gene GAPDH. The qRT-PCR assays were performed as previously described on a Roche LightCycler 2.0 system [37], with the threshold cycle (Ct) values being employed to evaluate the expression change between paired tissues or cells by the 2−ΔΔCt approach [38]. PCR reactions were run in duplicate. For E1a/E4 junction which is expressed at low levels in most cases, only SYBR Green I assay is available and the Ct values are likely confounded by primer dimer formed by excessive remaining primers, so we performed qRT-PCR by using the product of the 1st step PCR as template. Owing to the high sequence identity between the 3′ ends of E2 and E3, qRT-PCR assay specific for E2/E4 junction was not attainable.
+
+Bioinformatics and data analysis
+
+Prediction of the open reading frame (ORF) of specific REST variants was performed by using the StarORF program (http://star.mit.edu/orf/runapp.html), and epigenetic information at the REST locus was retrieved from the UCSC Genome Browser (http://genome.ucsc.edu/cgi-bin/hgGateway). Comparisons of qRT-PCR-assayed expression levels of specific exon-exon junctions between paired tissues or cells were carried out by the 2−ΔΔCt approach using appropriate reference, and two-fold change was considered as significant.
+
+Results
+
+Identification of E2/E3 skipping expressed in a species-dependent manner
+
+We performed standard and nested PCRs with cDNA samples derived from numerous human tissues (liver, kidney, lung, pituitary, hippocampus, amygdala and pons) and cell lines (HEK293, HEK293T, HepG2, NCCIT, SH-SY5Y, A549, MCF7 and iPS). Using a reverse primer E4R1 targeting the proximal exon 4 (E4) paired with the forward primers E1aF1 and E2F1 targeting exons 1a (E1a) and 2 (E2) (Figure 1A and Table 2), respectively, we identified several REST splice variants with E2 and/or E3 skipped (Figure 1B and 1C). The variant with E2 skipped is abundantly expressed in all tested cell lines and tissues except amygdala, while the variants with E3 alone or plus E2 skipped were expressed at low levels in a subset of tissues and cell lines. Notably, E2/E3 skipping is predominantly associated with E1a but rarely with E1b and E1c (Figure 1B). In addition, E2/E3 skipping was observed in another 7 human cell lines and the peripheral blood mononuclear cells (PBMCs) (Figure S1).
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (3.02MB)
+TIFF original image (4.49MB)
+Figure 1. Schematic structure of REST gene and identification of E2/E3 skipping.
+(A) Illustration of annotated REST exons and locations of primers employed for the identification of REST splice variants. The constitutive exons (1a, 2, 3 and 4) and alternative exons (1b, 1c and N) are shown in open and gray boxes, respectively, while the forward and reverse primers are indicated by right and left arrows, respectively. (B) Detection of E2/E3 skipping in human tissues and cell lines by nested PCRs with specific primer sets. E2/E3 skipping is commonly associated with E1a but rarely associated with E1b and E1c. (C) Trace chromatograms for exon-exon junctions involved in E2/E3 skipping. (D) Detection of E2/E3 skipping in tissues and cell lines from nonhuman primates and rodents by nested PCR. Of the numerous rhesus tissues, E2 skipping alone was only observed in amygdale (a) and pineal (b).
+doi:10.1371/journal.pone.0062217.g001
+We tested whether E2/E3 skipping is expressed in nonhuman primate and rodent tissues and cell lines. As shown in Figure 1D, skipping of E2 alone was only observed in amygdala and pineal out of 17 tissues obtained from 1 rhesus macaque, while skipping of both E2 and E3 was only observed in macaque PBMCs and COS-7 cells (derived from African green monkey kidney); however, skipping of E3 alone was observed in most macaque tissues and COS-7 cell line. In rodents, skipping of E2 (alone and plus E3) was observed in RN46A but not PC12 cells, while skipping of E2 alone was observed in the hippocampus from 2 of 4 mice tested, suggesting an inter-individual difference. Similarly, individual difference in REST pre-mRNA splicing was also observed in the pons and raphe from 4 macaques (Figure S2).
+
+Discovery of a novel last exon which doubles human REST gene boundary
+
+We performed RACE to determine the 5′ and 3′ ends of human REST mRNA. Unexpectedly, we identified a novel polyadenylated exon (E5) that locates ~30 kb downstream of E4 and partially overlaps in opposite direction with exon 5 of the nitric oxide associated-1 (NOA1) gene (Figure 2A), which encodes a GTPase essential for mitochondrial protein synthesis [39]. By nested PCRs using an E5-specific reverse primer (E5R1) paired with E1aF1 and E2F1, respectively, we found that E5 inclusion, occasionally in combination with E2/E3 skipping, is expressed in most human tissues and cell lines (Figure 2B, 2C and Figure S1). Like E2/E3 skipping, E5 inclusion is primarily associated with E1a but rarely with E1b and E1c. Notably, we found no variants containing both E4 and E5, suggesting that E4 and E5 are mutually exclusive and that E4, like the case for E2 and E3, can be completely skipped. Accordingly, the novel last exon E5 doubles the human REST gene boundary from ~28 kb to ~59 kb (Figure 3A). E5 inclusion was not observed in nonhuman primates and rodents.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (2.19MB)
+TIFF original image (3.52MB)
+Figure 2. Identification of a novel last exon (E5) of REST.
+(A) Sequence of E5 and its partial (81-bp) overlapping with NOA1 gene in opposite direction. (B) Detection of E5 inclusion in human tissues and cell lines by nested PCR. (C) Trace chromatograms for junctions of E5 with E1a, E2 and E3. Note that the 3′ ends of E2 and E3 share high sequence identity.
+doi:10.1371/journal.pone.0062217.g002
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (5.06MB)
+TIFF original image (7.29MB)
+Figure 3. Details of the identified REST exons, splicing patterns and resultant splice variants.
+(A) Identified REST exons and their 5′/3′ SS or ends. The UCSC genes track was used to briefly indicate the chromosomal location of REST gene locus, while the genomic sequence NG_029447 was employed as a reference to clarify the exact positions of the exons. Major domains of the REST protein (NP_005603) were illustrated parallel to the corresponding coding region so as to predict consequences of the AS of REST pre-mRNA at the protein level. The constitutive and alternative exons, as well as their 5′/3′ SS or ends, are color-coded as indicated. Note that: 1) exon N in Figure 1 is renamed as N3c here; 2) E2k is an extension of E2a without splicing; and 3) E5 and N4b are not actually presented in NG_029447. (B) Patterns of REST pre-mRNA splicing and resultant mRNA variants. Putative coding variants are color-coded (blue–no amino acid change predicted; red-truncated protein) or shadowed (loss of ZFM-5). (C) Prediction of C-terminal truncated REST proteins for specific mRNA variants. The exon-exon junctions and premature stop codons are underlined.
+doi:10.1371/journal.pone.0062217.g003
+Extensive AS of REST pre-mRNA
+
+By examining above-mentioned primate tissues and cell lines, as well as paired tumor and adjacent normal tissues from cancer patients mentioned hereinafter, we revealed an extensive AS of REST pre-mRNA. As shown in Figure 3A, besides E5 and the previously reported exon N (now renamed as N3c), we identified another 7 novel alternative exons (N1, N2a, N2b, N3a, N3b, N4a and N4b), along with numerous 5′/3′ SS and ends in the constitutive exons E2 and E4. Regardless of the 5′/3′ ends in E2 and E4, at least 45 variants (S1–S45) are formed by various splicing patterns including exon skipping, alternative 5′/3′ SS, mutual exclusion and alternative usage of the first and last exons (Figure 3B). Sequences of the novel variants have been deposited in GenBank with assigned accession numbers JX896957-JX896993 and KC117262-KC117266.
+
+29 of the 45 splice variants involve full or partial skipping of E2 where translation initiates, such that they may function as ncRNAs due to lack of the translation start site (TSS), except that several variants (S16, S19 and S28) whose TSS was preserved are predictive of N-terminal truncated REST protein isoforms. Similarly, partial or complete skipping of E4, which is frequently accompanied by E2 skipping and/or E5 inclusion, produces numerous ncRNAs or coding mRNAs predictive of truncated REST protein isoforms. In contrast, skipping of the 84-bp E3 (S4 and S34) causes no frame shift but loss of ZFM-5. Notably, variants with intact E2 (or plus E3) followed by alternative exons (but not E4) are predicted to encode C-terminal truncated REST proteins, of which 8 variants with E3 encode REST4 (S3 and S12) or REST4-like (S2, S21, S31, S33, S39 and S41) proteins with RD1 and ZFMs 1–5, while another 4 variants (S34, S39–S41) with E3 skipped encode REST1 with RD1 and ZFMs 1–4 (Figure 3C).
+
+Most of the 45 splice variants are expressed at low levels in a cell-type/tissue-specific manner; however, at least one variant was observed in all the tested tissues and cell lines (Figure 1, 2 and Figure S3).
+
+Link between REST pre-mRNA splicing and cancer
+
+We compared the expression of specific splicing patterns and variants between paired tumor (T) and adjacent normal (N) tissues from 27 patients with kidney (Ki), liver (Li) and lung (Lu) cancers (9 pairs for each cancer, Table 1) by nested PCR and qRT-PCR assays, with a focus on E2/E3 skipping and alternative usage of the first and last exons. The qRT-PCR assays were designed targeting specific exon-exon junctions (Figure 4A), and expression changes of specific splicing between T and N are shown in folds (T over N) for each subject (Figure 4B). With the exception of E1a/E3 and E1a/E4 which represent S5 and S6 variants, respectively, the exon-exon junctions do not necessarily represent a single specific splice variant, which however can be detected by nested PCRs (Figure 4C). Accordingly, both qRT-PCR and nested PCR assays were taken into consideration for the comparison of REST pre-mRNA splicing profile between paired T and N tissues. While the wide expression of E2/E3 skipping and E5 inclusion in human was further validated, we found that all the 27 patients without exception showed differential expression of numerous REST splice variants caused by specific splicing patterns between paired T and N tissues, with a striking tissue-type and individual difference.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (3.19MB)
+TIFF original image (5.05MB)
+Figure 4. Comparison of REST pre-mRNA splicing profile between paired tumor (T) and adjacent normal (N) tissues.
+(A) Strategy for the design of qRT-PCR assay for specific exon-exon junctions. (B) Expression changes (T over N, in fold) of specific exon-exon junctions assayed by qRT-PCR assay; (C) Expression of specific REST splice variants detected by nested PCR. The forward and reverse primers are indicated by right and left arrows, respectively. Paired T and N tissues were collected from 27 patients with kidney (Ki), liver (Li) and lung (Lu), and the basic diagnosis shown in Table 1 was briefly given as its initial 3 letters for each patient. Expression changes (T over N, in fold) of specific variants or splicing (e.g. exon-exon junctions) were assayed by qRT-PCR and calculated by the 2−ΔΔCt approach using E2 as the reference. Data are shown as Mean±SEM. qRT-PCR assay is not attainable for E3 skipping only (i.e. E2/E4 junction), but apparent changes can be observed between T and N tissues for most subjects by nested PCR using the E2F1/E4R1 primer set.
+doi:10.1371/journal.pone.0062217.g004
+As shown in Figure 4B and 4C, variants with E2/E3 skipped were differentially expressed between paired T and N tissues for most patients. Of variants using E4 as the last exon, S6 (both E2 and E3 skipped) showed strikingly differential expression for all the patients except Lu#4 and 7. Specifically, 7, 5 and 1 patients with kidney, liver and lung cancer, respectively, showed increased S6 expression, whereas 2, 4 and 6 patients with kidney, liver and lung cancer, respectively, exhibited decreased S6 expression. Although qRT-PCR assay for E3 skipping only (i.e. E2/E4 junction) is not attainable, nested PCR with E2F1/E4R1 showed apparently differential expression of S4 between paired T and N for a portion of patients. Meanwhile, differential expression of E2-skipped variants S5 and S15 between paired T and N from some patients was shown by qRT-PCR and nested PCR, respectively. Moreover, some other variants (e.g. S14, S16 and S17) with E1b as the first exon and E2 partially skipped were differentially expressed between paired T and N for a few patients. For example, S14 and S16 were only observed in the T tissues of 4 patients (Ki#5, 6 for S14 and Ki#4, Lu#9 for S16, respectively). Likewise, of variants using E5 as the last exon, S34 (E3 skipped), S35 (E2 skipped) and S38 (both E2 and E3 skipped) showed apparently differential expression between paired T and N as indicated by nested PCRs with E1aF1/E5R1 and E2F1/E5R1. Accordingly, E2/E3 (especially E3) skipping is generally but differentially linked to different types of cancer with striking cell-type/tissue and individual differences.
+
+As shown in Figure 4C, with the exception of 3 patients (Li#5, 6 and Lu#6) without detectable expression of E5 inclusion, all other patients showed differential expression of E5-included variants between paired T and N tissues. Particularly, the expression of S33/S39 without E2/E3 skipping was gained and lost in the T tissues of 6 (Ki#2, 9, Li#1, 3, 7 and Lu#3) and 4 (Ki#1, 4, 7, 8 and Lu#1) patients, respectively. Notably, nested PCR with E2F1/E5R1 showed that all 9 kidney cancer patients expressed E5 in their N tissues, of them 3 (Ki#1, 7, 8) lost E5 expression in their T tissues. By contrast, all 9 patients with liver cancer showed no E5 expression in their N tissues, and of them, 4 (Li#1, 2, 3, 7) gained E5 expression in their T tissues. The differential expression of E5-included variants between paired T and N tissues shown by nested PCR was supported by qRT-PCR assay of E3/E5 junction (Figure 4B).
+
+In addition, the variant S18 which uses E1c as the first exon was differentially expressed between paired T and N tissues for most (22/27) patients, with 12 and 10 patients showing increased and decreased expression, respectively (Figure 4B and 4C). Meanwhile, qRT-PCR assay indicated that the variants S1 and S11 which use E1a and E1b as the first exon, respectively, showed greater than 2-fold expression changes between paired T and N tissues for some patients (Figure 4B). Accordingly, alternative usage of the first exon (especially E1c) was differentially linked to different types of cancer.
+
+Regulation of E3 skipping by the selective PPARγ activator pioglitazone
+
+A view of the UCSC Genome Browser (http://genome.ucsc.edu/cgi-bin/hgGateway) indicates that E3 of REST contains a conserved binding motif for the peroxisome proliferator-activated receptor gamma (PPARγ) (Figure 5A), a ligand-activated nuclear receptor that contributes to cell differentiation and tumorigenesis besides its metabolic actions [40], [41]. Intriguingly, in searching for environmental factors that affect REST pre-mRNA splicing, we found that pioglitazone, a highly selective PPARγ agonist, exerts a cell-dependent effect on E3 skipping (Figure 5B-D). In NCCIT, a pluripotent stem cell line derived from human embryonic carcinoma, pioglitazone (10 µM) strikingly induced E3 skipping as indicated by increased expression of E3-skipped variants (S4 and S6) and decreased expression of E3-included variants (S1 and S5). In contrast, pioglitazone (10 µM) slightly reduced E3 skipping in HepG2 cells while it exerted no effect on E3 skipping in HEK293T cells.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (2.87MB)
+TIFF original image (4.39MB)
+Figure 5. The effect of the selective PPARγ activator pioglitazone on REST E3 skipping.
+(A) Presence of an evolutionarily conserved PPARγ motif in REST E3. Bioinformatic data of the HMR Conserved Transcription Factor Binding Sites was retrieved from the UCSC Genome Browser (http://genome.ucsc.edu/cgi-bin/hgGateway). Cell-specific effect of pioglitazone (10 µM) on the expression of REST variants with/without E3 skipping was detected by standard PCR (B and C) and qRT-PCR (D). Standard PCR with E2F1/E4R1 showed that pioglitazone strikingly induced and slightly reduced E3 skipping in NCCIT and HepG2 cells, respectively, but exerted no effect in HEK293T cells. Regulation of E3 skipping by pioglitazone in NCCIT can also be observed by standard PCR with E1aF1/E4R1. Pioglitazone regulation of E3 skipping in NCCIT and HepG2 was further confirmed by qRT-PCR assay. Expression changes (pioglitazone over DMSO) were calculated by the 2−ΔΔCt approach using GAPDH as the reference.
+doi:10.1371/journal.pone.0062217.g005
+Discussion
+
+We reveal that REST undergoes extensive AS across an unexpectedly large gene boundary defined by a novel alternate last exon (E5), with numerous ncRNAs and coding mRNAs being expressed in a species- and cell-type/tissue-specific manner with individual differences. Notably, we found that exon (E2, E3 and E4) skipping is preferentially associated with the usage of the conventional E1a as the first exon, i.e., AS of REST pre-mRNA is promoter-dependent, suggesting that alternative promoters differ not only in the strength, but also in transcription elongation which is a major determent of pre-mRNA splicing. Since most splice variants involve a complete or partial skipping of exons (e.g. E2, E3 and E4) encoding specific functional domains of REST, their functional significance is generally predictable. Accordingly, these alternatively spliced REST variants, which are mostly expressed in a cell-type/tissue-specific manner with individual differences, presumably contribute to the diverse, context-dependent regulation of REST gene expression. Notably, we found that all tissues and cell lines without exception express at least one REST splice variant, and no apparent difference in the expression pattern of specific splice variants was observed between neuronal and non-neuronal tissues. In agreement, similar levels of the initial REST transcripts were reported between neuronal and non-neuronal cells [42], while the promoter of REST exhibits cell-type-independent active transcription as indicated by publically available epigenetic data (Figure 6), suggesting that transcriptional regulation is unlikely a major contributor to cell-type/tissue-specific expression of REST. Hence, in line with epigenetic regulation of AS and the emerging role of AS in adaptive responses [2], [6], our findings strongly suggest that pre-mRNA splicing, rather than transcription regulation, substantially contributes to the diverse, context-dependent REST gene expression and function.
+
+thumbnail
+Download:
+PPT PowerPoint slide
+PNG larger image (2.06MB)
+TIFF original image (3.98MB)
+Figure 6. Bioinformatics at the REST gene locus.
+Data are retrieved from the UCSC Genome Browser (http://genome.ucsc.edu/cgi-bin/hgGateway). The REST promoter harbors a large-size CpG island and displays active transcription for all the 9 available cell lines without exception, as indicated by the chromatin state segmentation and histone H3 lysine 27 acetylation (H3K27Ac) tracks.
+doi:10.1371/journal.pone.0062217.g006
+REST functions as a tumor suppressor or an oncogene depending on cellular context, with both increased and decreased REST activity having been reported in different types of cancer [18], [19]. In accordance, we found that numerous REST splice variants produced by E2/E3 skipping and alternative usage of the first and last exons, which are predictive of altered REST activity, are generally but differentially linked to different types of cancer. Particularly, in accordance with the involvement of REST4 and another C-terminal truncated REST-FS (caused by a frameshift mutation) in tumorigenesis [26]–[28], [43], we found that the usage of E5 as the last exon, which is predictive of a C-terminal truncated REST4-like protein, is differentially linked to various types of cancer. Unlike REST4 which exists in both primates and rodents, E5 inclusion is only expressed in human but it shows a wide tissue distribution, suggesting that it may contribute to the pathophysiology of a wide spectrum of human diseases. Besides encoding a REST4-like protein, E5-included variants overlap in opposite direction with NOA1 transcript(s), i.e., transcripts of REST and NOA1 act as natural antisense transcripts for each other, making it possible that transcripts of one gene regulate expression of the other gene through various mechanisms [44]. As a GTPase essential for mitochondrial protein synthesis, NOA1 is involved in oxidative stress and apoptosis [39], [45], [46]. Accordingly, E5 inclusion may mediate a coordinated effect of REST and NOA1 on cellular functions. In addition, E5 inclusion results in altered 3′-UTR, which contributes to posttranscriptional regulation (e.g. mRNA stability) of gene expression.
+
+Since E2 skipping eliminates the TSS, E2-skipped variants may function as ncRNAs which potentially modulate REST gene expression. Similar to E5 inclusion which is exclusively expressed in human, E2 skipping is ubiquitously expressed in human but rarely expressed in nonhuman primates and rodents, suggesting that human evolution involves a gain of much more complex REST pre-mRNA splicing, which may contribute to context-dependent human genome function that is by far more complex than other species. As for the E3 skipping, it causes no frame shift but loss of ZFM-5 essential for nuclear translocation [32], [33], such that it provides an alternate mechanism for the regulation of REST activity. Notably, while REST-5FΔ caused by E3 skipping was only previously observed in SH-SY5Y cells [27], we revealed a ubiquitous though usually non-abundant expression of E3 skipping in primates, suggesting that E3 skipping might be a common regulator which specifies the diverse, context-dependent function of REST. In accordance, we found that numerous E3-skipped variants were differentially expressed between paired tumor and adjacent normal tissues for most patients with cancer, and that E3 skipping is modulated by the PPARγ activator pioglitazone which contributes to cell differentiation and tumorigenesis [40], [41], [47]. In addition, our preliminary data showed that E3 skipping is linked to virus-induced transformation of B-lymphocytes in both human and nonhuman primates (unpublished data). Hence, E3 skipping represents a potential biomarker for cancer. With respect to the alternative usage of the first exon, it alters the 5′-untranslated region which plays an important role in posttranscriptional regulation (e.g. mRNA stability, targeting and translation) of gene expression [37], such that it may affect the expression level of REST protein.
+
+It has been documented that REST is a prognostic factor and therapeutic target for cancer [48], [49]. Accordingly, correction of aberrant REST pre-mRNA splicing provides a new strategy for the treatment of cancer. Indeed, pioglitazone regulation of E3 skipping strongly supports the feasibility of manipulating REST activity through modulation of pre-mRNA splicing. Since E3 contains a conserved binding motif for PPARγ, it is likely that the binding of activated PPARγ to E3 interrupts the action of other splicing factor(s) on E3 skipping/inclusion. To our knowledge, this is the first study reporting the regulation of pre-mRNA splicing by a ligand of PPARγ, which usually affects gene transcription [50]. PPARγ is implicated in a wide variety of biological processes including adipogenesis, glucose metabolism, inflammation and tumorigenesis, and it is the molecular target of the thiazolidinedione (TZD) class of antidiabetic drugs including pioglitazone and rosiglitazone [51]. It has been shown that TZDs suppress the growth of several cancer lines in vitro and in vivo, and lines of preclinical evidence supports the antineoplstic effects of PPARγ agonists; however, results from clinical trials show modest success [52]. Recently, the use of pioglitazone for type 2 diabetes mellitus is reportedly associated with an increased risk of bladder cancer [53], suggesting a context-dependent, bidirectional effect of PPARγ on tumorigenesis, which is in accordance with its cell-specific effect on E3 skipping (Fig.5), as well as the notion that both decreased and increased REST activity may contribute to tumorigenesis [18], [19]. Mechanism(s) by which PPARγ modulates tumorigenesis are not yet fully understood; however, based on the role of REST in tumorigenesis and the regulation of REST activity by E3 skipping, we speculate that PPARγ regulation of REST pre-mRNA splicing is attributable. Accordingly, the context-dependent REST activity modulated by E3 skipping may underlie the context-dependent effect of PPARγ on tumorigenesis, such that E3 skipping represents a potential therapeutic target that might be utilized for personalized medicine for cancer. Moreover, REST targets numerous genes involved in metabolism [54], suggesting that PPARγ regulation of REST pre-mRNA splicing may contribute, at least in part, to the metabolic actions of PPARγ. In this regard, this study provides a novel mechanism underlying the biological actions of PPARγ and the close link between metabolism and tumorigenesis [55]. Furthermore, PPARγ exerts a neuroprotective effect on neurodegenerative disorders including Huntington disease, which is caused by disassociation of mutant Huntingtin protein with REST in the cytoplasm and therefore enhanced nuclear translocation and aberrant accumulation of REST in nucleus [21], [56], [57]. It is tempting to speculate that the neuroprotective effect of PPARγ might be explained by its regulation of E3 skipping (presumably increased in neurons), which may result in reduced translocation of REST into the nucleus and alleviation of the repressive effect of REST on neuronal genes essential for the maintenance of neurons. Thus, E3 skipping may have implications for a wide variety of human diseases.
+
+In summary, this study revealed an extensive AS of REST pre-mRNA and a close link between aberrant REST pre-mRNA splicing and various types of cancer. The findings not only advance our understanding of the complexity of REST gene expression and function, but also provide potential biomarkers and therapeutic targets for the diagnosis and individualized treatment of cancer. However, our findings require further validation in a large population of patients with different types and prognosis of cancer, and warrant further investigation of mechanisms underlying REST pre-mRNA splicing regulation and biological functions of specific REST splice variants.
+
+Supporting Information
+
+Figure_S1.tif
+1 / 3 figsharedownload
+Detection of E2/E3 skipping and E5 inclusion in additional human cell lines and PBMCs. Nested PCRs were performed by using the forward primers E1aF1 and E2F1 paired with the reverse primers E4R1 and E5R1, respectively.
+Figure S1.
+Detection of E2/E3 skipping and E5 inclusion in additional human cell lines and PBMCs. Nested PCRs were performed by using the forward primers E1aF1 and E2F1 paired with the reverse primers E4R1 and E5R1, respectively.
+doi:10.1371/journal.pone.0062217.s001
+(TIF)
+
+Figure S2.
+Individual difference in REST E2 skipping in rhesus monkeys. The primer set E1aF2/E4R1 was employed to perform the standard PCR using cDNA samples from pons and raphe tissues from 4 rhesus monkeys. E2 skipping was observed in 1 of the 4 macaque pons and raphe tissues, respectively.
+doi:10.1371/journal.pone.0062217.s002
+(TIF)
+
+Figure S3.
+Expression profile of REST splice variants in human cell lines. The abundance of the expression was briefly estimated by the band of standard/nested PCRs and was color-encoded as indicated. The tissue distribution was given for variants (S9, S10, S14-S16, S24, S30, S36 and S41) that were not detected in cell lines. The glioblastoma tissue was obtained from UMass Cancer Center Tissue Bank. The GenBank accession numbers are given for 42 of the 45 variants.
+doi:10.1371/journal.pone.0062217.s003
+(TIF)
+
+Acknowledgments
+
+We thank the NEPRC Primate Genetics Core for bioinformatics support. We are grateful to Hong Yang, Lisa Ogawa, Danica Yang and Sherry Wu for their technical support. We thank Dr. Stephen R. Lyle at the University of Massachusetts Medical School, Drs. Susan V. Westmoreland, Bertha K. Mardras and Andrew D. Miller at the NEPRC, Dr. Fred Wang at the Brigham & Women's Hospital, and Dr. Wen-Yuan Wang at the Massachusetts Institute of Technology for their kind helps with tissue and cell line collection.
+
+Author Contributions
+
+Conceived and designed the experiments: GLC GMM. Performed the experiments: GLC. Analyzed the data: GLC. Contributed reagents/materials/analysis tools: GLC. Wrote the paper: GLC GMM.
+
+References
+
+1. pone.0062217.1. Chen M, Manley JL (2009) Mechanisms of alternative splicing regulation: insights from molecular and genomics approaches. Nat Rev Mol Cell Biol 10: 741–754. doi: 10.1038/nrm2777
+View Article PubMed/NCBI Google Scholar
+2. Dutertre M, Sanchez G, Barbier J, Corcos L, Auboeuf D (2011) The emerging role of pre-messenger RNA splicing in stress responses Sending alternative messages and silent messengers. Rna Biology 8: 740–747. doi: 10.4161/rna.8.5.16016
+View Article PubMed/NCBI Google Scholar
+3. Oesterreich FC, Bieberstein N, Neugebauer KM (2011) Pause locally, splice globally. Trends in Cell Biology 21: 328–335. doi: 10.1016/j.tcb.2011.03.002
+View Article PubMed/NCBI Google Scholar
+4. Alló M, Schor IE, Muñoz MJ, de la Mata M, Agirre E, et al. (2010) Chromatin and Alternative Splicing. Cold Spring Harbor Symposia on Quantitative Biology 75: 103–111. doi: 10.1101/sqb.2010.75.023
+View Article PubMed/NCBI Google Scholar
+5. Schwartz S, Meshorer E, Ast G (2009) Chromatin organization marks exon-intron structure. Nat Struct Mol Biol 16: 990–995. doi: 10.1038/nsmb.1659
+View Article PubMed/NCBI Google Scholar
+6. Luco RF, Allo M, Schor IE, Kornblihtt AR, Misteli T (2011) Epigenetics in Alternative Pre-mRNA Splicing. Cell 144: 16–26. doi: 10.1016/j.cell.2010.11.056
+View Article PubMed/NCBI Google Scholar
+7. Anastasiadou C, Malousi A, Maglaveras N, Kouidou S (2011) Human Epigenome Data Reveal Increased CpG Methylation in Alternatively Spliced Sites and Putative Exonic Splicing Enhancers. DNA and Cell Biology 30: 267–275. doi: 10.1089/dna.2010.1094
+View Article PubMed/NCBI Google Scholar
+8. Sanchez SE, Petrillo E, Beckwith EJ, Zhang X, Rugnone ML, et al. (2010) A methyl transferase links the circadian clock to the regulation of alternative splicing. Nature 468: 112–116. doi: 10.1038/nature09470
+View Article PubMed/NCBI Google Scholar
+9. Nijholt I, Farchi N, Kye M, Sklan EH, Shoham S, et al. (2003) Stress-induced alternative splicing of acetylcholinesterase results in enhanced fear memory and long-term potentiation. Mol Psychiatry 9: 174–183. doi: 10.1038/sj.mp.4001446
+View Article PubMed/NCBI Google Scholar
+10. Sumanasekera C, Watt DS, Stamm S (2008) Substances that can change alternative splice-site selection. Biochemical Society Transactions 36: 483–490. doi: 10.1042/bst0360483
+View Article PubMed/NCBI Google Scholar
+11. Wang G-S, Cooper TA (2007) Splicing in disease: disruption of the splicing code and the decoding machinery. Nat Rev Genet 8: 749–761. doi: 10.1038/nrg2164
+View Article PubMed/NCBI Google Scholar
+12. Kim S, Kim H, Fong N, Erickson B, Bentley DL (2011) Pre-mRNA splicing is a determinant of histone H3K36 methylation. Proceedings of the National Academy of Sciences 108: 13564–13569. doi: 10.1073/pnas.1109475108
+View Article PubMed/NCBI Google Scholar
+13. Tazi J, Bakkour N, Stamm S (2009) Alternative splicing and disease. Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease 1792: 14–26. doi: 10.1016/j.bbadis.2008.09.017
+View Article PubMed/NCBI Google Scholar
+14. Padgett RA (2012) New connections between splicing and human disease. Trends in Genetics 28: 147–154. doi: 10.1016/j.tig.2012.01.001
+View Article PubMed/NCBI Google Scholar
+15. Chong JA, Tapia-Ramirez J, Kim S, Toledo-Aral JJ, Zheng Y, et al. (1995) REST: A mammalian silencer protein that restricts sodium channel gene expression to neurons. Cell 80: 949–957. doi: 10.1016/0092-8674(95)90298-8
+View Article PubMed/NCBI Google Scholar
+16. Schoenherr CJ, Anderson DJ (1995) The Neuron-Restrictive Silencer Factor (Nrsf)-A Coordinate Repressor Of Multiple Neuron-Specific Genes. Science 267: 1360–1363. doi: 10.1126/science.7871435
+View Article PubMed/NCBI Google Scholar
+17. Ooi L, Wood IC (2007) Chromatin crosstalk in development and disease: lessons from REST. Nature Reviews Genetics 8: 544–554. doi: 10.1038/nrg2100
+View Article PubMed/NCBI Google Scholar
+18. Weissman AM (2008) How much REST is enough? Cancer Cell 13: 381–383. doi: 10.1016/j.ccr.2008.04.011
+View Article PubMed/NCBI Google Scholar
+19. Majumder S (2006) REST in good times and bad-Roles in tumor suppressor and oncogenic activities. Cell Cycle 5: 1929–1935. doi: 10.4161/cc.5.17.2982
+View Article PubMed/NCBI Google Scholar
+20. Westbrook TF, Hu G, Ang XLL, Mulligan P, Pavlova NN, et al. (2008) SCF beta-TRCP controls oncogenic transformation and neural differentiation through REST degradation. Nature 452: 370–U311. doi: 10.1038/nature06780
+View Article PubMed/NCBI Google Scholar
+21. Buckley NJ, Johnson R, Zuccato C, Bithell A, Cattaneo E (2010) The role of REST in transcriptional and epigenetic dysregulation in Huntington's disease. Neurobiology of Disease 39: 28–39. doi: 10.1016/j.nbd.2010.02.003
+View Article PubMed/NCBI Google Scholar
+22. Shimojo M, Paquette AJ, Anderson DJ, Hersh LB (1999) Protein kinase A regulates cholinergic gene expression in PC12 cells: REST4 silences the silencing activity of neuron-restrictive silencer factor/REST. Molecular and Cellular Biology 19: 6788–6795.
+View Article PubMed/NCBI Google Scholar
+23. Lee JH, Chai YG, Hersh LB (2000) Expression patterns of mouse repressor element-1 silencing transcription factor 4 (REST4) and its possible function in neuroblastoma. Journal of Molecular Neuroscience 15: 205–214. doi: 10.1385/jmn:15:3:205
+View Article PubMed/NCBI Google Scholar
+24. Kuwabara T, Hsieh J, Nakashima K, Taira K, Gage FH (2004) A small modulatory dsRNA specifies the fate of adult neural stem cells. Cell 116: 779–793. doi: 10.1016/s0092-8674(04)00248-x
+View Article PubMed/NCBI Google Scholar
+25. Bruce AW, López-Contreras AJ, Flicek P, Down TA, Dhami P, et al. (2009) Functional diversity for REST (NRSF) is defined by in vivo binding affinity hierarchies at the DNA sequence level. Genome Research 19: 994–1005. doi: 10.1101/gr.089086.108
+View Article PubMed/NCBI Google Scholar
+26. Wagoner MP, Gunsalus KTW, Schoenike B, Richardson AL, Friedl A, et al. (2010) The Transcription Factor REST Is Lost in Aggressive Breast Cancer. PLoS Genet 6: e1000979. doi: 10.1371/journal.pgen.1000979
+View Article PubMed/NCBI Google Scholar
+27. Palm K, Metsis M, Timmusk T (1999) Neuron-specific splicing of zinc finger transcription factor REST/NRSF/XBR is frequent in neuroblastomas and conserved in human, mouse and rat. Molecular Brain Research 72: 30–39. doi: 10.1016/s0169-328x(99)00196-5
+View Article PubMed/NCBI Google Scholar
+28. Coulson JM, Edgson JL, Woll PJ, Quinn JP (2000) A Splice Variant of the Neuron-restrictive Silencer Factor Repressor Is Expressed in Small Cell Lung Cancer: A Potential Role in Derepression of Neuroendocrine Genes and a Useful Clinical Marker. Cancer Research 60: 1840–1844. doi: 10.1016/s0169-5002(00)80640-6
+View Article PubMed/NCBI Google Scholar
+29. Uchida S, Hara K, Kobayashi A, Funato H, Hobara T, et al. (2010) Early Life Stress Enhances Behavioral Vulnerability to Stress through the Activation of REST4-Mediated Gene Transcription in the Medial Prefrontal Cortex of Rodents. The Journal of Neuroscience 30: 15007–15018. doi: 10.1523/jneurosci.1436-10.2010
+View Article PubMed/NCBI Google Scholar
+30. Cai L, Bian M, Liu M, Sheng Z, Suo H, et al. (2011) Ethanol-Induced Neurodegeneration In Nrsf/Rest Neuronal Conditional Knockout Mice. Neuroscience 181: 196–205. doi: 10.1016/j.neuroscience.2011.02.059
+View Article PubMed/NCBI Google Scholar
+31. Abramovitz L, Shapira T, Ben-Dror I, Dror V, Granot L, et al. (2008) Dual role of NRSF/REST in activation and repression of the glucocorticoid response. Journal of Biological Chemistry 283: 110–119. doi: 10.1074/jbc.m707366200
+View Article PubMed/NCBI Google Scholar
+32. Shimojo M, Lee JH, Hersh LB (2001) Role of zinc finger domains of the transcription factor neuron-restrictive silencer factor/repressor element-1 silencing transcription factor in DNA binding and nuclear localization. Journal of Biological Chemistry 276: 13121–13126. doi: 10.1074/jbc.m011193200
+View Article PubMed/NCBI Google Scholar
+33. Shimojo M (2006) Characterization of the nuclear targeting signal of REST/NRSF. Neuroscience Letters 398: 161–166. doi: 10.1016/j.neulet.2005.12.080
+View Article PubMed/NCBI Google Scholar
+34. Fogg MH, Wirth LJ, Posner M, Wang F (2009) Decreased EBNA-1-specific CD8+ T cells in patients with Epstein–Barr virus-associated nasopharyngeal carcinoma. Proceedings of the National Academy of Sciences 106: 3318–3323. doi: 10.1073/pnas.0813320106
+View Article PubMed/NCBI Google Scholar
+35. White L, Eaton M, Castro M, Klose K, Globus M, et al. (1994) Distinct regulatory pathways control neurofilament expression and neurotransmitter synthesis in immortalized serotonergic neurons. The Journal of Neuroscience 14: 6744–6753.
+View Article PubMed/NCBI Google Scholar
+36. Sheridan SD, Theriault KM, Reis SA, Zhou F, Madison JM, et al. (2011) Epigenetic Characterization of the FMR1 Gene and Aberrant Neurodevelopment in Human Induced Pluripotent Stem Cell Models of Fragile X Syndrome. PLoS ONE 6: e26203. doi: 10.1371/journal.pone.0026203
+View Article PubMed/NCBI Google Scholar
+37. Chen GL, Vallender EJ, Miller GM (2008) Functional characterization of the human TPH2 5′ regulatory region: untranslated region and polymorphisms modulate gene expression in vitro. Human Genetics 122: 645–657. doi: 10.1007/s00439-007-0443-y
+View Article PubMed/NCBI Google Scholar
+38. Livak KJ, Schmittgen TD (2001) Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method. Methods 25: 402–408. doi: 10.1006/meth.2001.1262
+View Article PubMed/NCBI Google Scholar
+39. Kolanczyk M, Pech M, Zemojtel T, Yamamoto H, Mikula I, et al. (2011) NOA1 is an essential GTPase required for mitochondrial protein synthesis. Molecular Biology of the Cell 22: 1–11. doi: 10.1091/mbc.e10-07-0643
+View Article PubMed/NCBI Google Scholar
+40. Grommes C, Landreth GE, Heneka MT (2004) Antineoplastic effects of peroxisome proliferatoractivated receptor γ agonists. The Lancet Oncology 5: 419–429. doi: 10.1016/s1470-2045(04)01509-8
+View Article PubMed/NCBI Google Scholar
+41. Murphy GJ, Holder JC (2000) PPAR-γ agonists: therapeutic role in diabetes, inflammation and cancer. Trends in Pharmacological Sciences 21: 469–474. doi: 10.1016/s0165-6147(00)01559-5
+View Article PubMed/NCBI Google Scholar
+42. Kojima T, Murai K, Naruse Y, Takahashi N, Mori N (2001) Cell-type non-selective transcription of mouse and human genes encoding neural-restrictive silencer factor. Molecular Brain Research 90: 174–186. doi: 10.1016/s0169-328x(01)00107-3
+View Article PubMed/NCBI Google Scholar
+43. Westbrook TF, Martin ES, Schlabach MR, Leng YM, Liang AC, et al. (2005) A genetic screen for candidate tumor suppressors identifies REST. Cell 121: 837–848. doi: 10.1016/j.cell.2005.03.033
+View Article PubMed/NCBI Google Scholar
+44. Faghihi MA, Wahlestedt C (2009) Regulatory roles of natural antisense transcripts. Nat Rev Mol Cell Biol 10: 637–643. doi: 10.1038/nrm2738
+View Article PubMed/NCBI Google Scholar
+45. Heidler J, Al-Furoukh N, Kukat C, Salwig I, Ingelmann M-E, et al. (2011) Nitric Oxide-associated Protein 1 (NOA1) Is Necessary for Oxygen-dependent Regulation of Mitochondrial Respiratory Complexes. Journal of Biological Chemistry 286: 32086–32093. doi: 10.1074/jbc.m111.221986
+View Article PubMed/NCBI Google Scholar
+46. Parihar MS, Parihar A, Chen Z, Nazarewicz R, Ghafourifar P (2008) mAtNOS1 regulates mitochondrial functions and apoptosis of human neuroblastoma cells. Biochimica et Biophysica Acta (BBA)-General Subjects 1780: 921–926. doi: 10.1016/j.bbagen.2008.02.006
+View Article PubMed/NCBI Google Scholar
+47. Jiang M, Strand DW, Franco OE, Clark PE, Hayward SW (2011) PPARγ: A molecular link between systemic metabolic disease and benign prostate hyperplasia. Differentiation 82: 220–236. doi: 10.1016/j.diff.2011.05.008
+View Article PubMed/NCBI Google Scholar
+48. Fuller GN, Su XH, Price RE, Cohen ZR, Lang FF, et al. (2005) Many human medulloblastoma tumors overexpress repressor element-1 silencing transcription (REST) neuron-restrictive silencer factor, which can be functionally countered by REST-VP16. Molecular Cancer Therapeutics 4: 343–349.
+View Article PubMed/NCBI Google Scholar
+49. Taylor P, Fangusaro J, Rajaram V, Goldman S, Helenowski IB, et al. (2012) REST Is a Novel Prognostic Factor and Therapeutic Target for Medulloblastoma. Molecular Cancer Therapeutics 11: 1713–1723. doi: 10.1158/1535-7163.mct-11-0990
+View Article PubMed/NCBI Google Scholar
+50. Tsukahara T (2012) The Role of PPARγ in the Transcriptional Control by Agonists and Antagonists. PPAR Research 2012: 9. doi: 10.1155/2012/362361
+View Article PubMed/NCBI Google Scholar
+51. Rosen ED, Spiegelman BM (2001) PPARγ: a Nuclear Regulator of Metabolism, Differentiation, and Cell Growth. Journal of Biological Chemistry 276: 37731–37734.
+View Article PubMed/NCBI Google Scholar
+52. Skelhorne-Gross G, Nicol CJB (2012) The Key to Unlocking the Chemotherapeutic Potential of PPARγ Ligands: Having the Right Combination. PPAR Research 2012: 13. doi: 10.1155/2012/946943
+View Article PubMed/NCBI Google Scholar
+53. Azoulay L, Yin H, Filion KB, Assayag J, Majdan A, et al.. (2012) The use of pioglitazone and the risk of bladder cancer in people with type 2 diabetes: nested case-control study. British Medical Journal 344.
+54. Bruce AW, Donaldson IJ, Wood IC, Yerbury SA, Sadowski MI, et al. (2004) Genome-wide analysis of repressor element 1 silencing transcription factor/neuron-restrictive silencing factor (REST/NRSF) target genes. Proceedings of the National Academy of Sciences of the United States of America 101: 10458–10463. doi: 10.1073/pnas.0401827101
+View Article PubMed/NCBI Google Scholar
+55. Seyfried T, Shelton L (2010) Cancer as a metabolic disease. Nutrition & Metabolism 7: 7. doi: 10.1186/1743-7075-7-7
+View Article PubMed/NCBI Google Scholar
+56. Kalonia H, Kumar P, Kumar A (2010) Pioglitazone ameliorates behavioral, biochemical and cellular alterations in quinolinic acid induced neurotoxicity: Possible role of peroxisome proliferator activated receptor-Gamma (PPAR Gamma) in Huntington's disease. Pharmacology Biochemistry and Behavior 96: 115–124. doi: 10.1016/j.pbb.2010.04.018
+View Article PubMed/NCBI Google Scholar
+57. Chiang M-C, Chern Y, Huang R-N (2012) PPARgamma rescue of the mitochondrial dysfunction in Huntington's disease. Neurobiology of Disease 45: 322–328. doi: 10.1016/j.nbd.2011.08.016

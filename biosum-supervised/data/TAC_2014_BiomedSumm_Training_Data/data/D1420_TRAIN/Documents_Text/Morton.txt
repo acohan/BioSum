@@ -1,0 +1,759 @@
+MYC-y mice: From tumour initiation to therapeutic targeting of endogenous MYC
+Jennifer P. Morton, Owen J. SansomCorresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molonc.2013.02.015
+  Open Access
+Abstract
+MYC is one of the best-studied oncogenes in terms of mouse models of malignancy. MYC overexpression has been targeted to several tissues using transgenic constructs, and more recently as mouse models have evolved, conditional systems have been developed to allow the regulation of MYC expression or activity in vivo. The ability to target MYC expression to specific tissues and cell lineages, as well as the ability to regulate that expression, has made genetically engineered mouse models (GEMM) a valuable resource for studying the importance of MYC in the process of tumourigenesis. Here we review how these models have been used to address the role of MYC in tumour initiation and maintenance, how subtle changes in levels of MYC can influence tumourigenesis, and finally the ongoing efforts to target endogenous MYC genetically and with novel therapies.
+
+Highlights
+► How genetically engineered mouse models have been used to address the role of MYC in tumour initiation and maintenance. ► How subtle changes in levels of MYC can influence downstream signalling and thus tumourigenesis. ► Summary of ongoing efforts to target endogenous MYC, both genetically and with novel therapies.
+
+Keywords
+MYC; Mouse models; Cancer
+1. Introduction
+c-MYC is an oncogene frequently overexpressed in human tumours ( Marcu et al., 1992) and as such has been the subject of a great deal of research. As one of the first oncogenes to be identified, MYC has been the subject of investigation for over 30 years. MYC was initially identified as a retroviral oncogene in avian tumours ( Duesberg et al., 1977), and subsequent research showed that, in common with many oncogenes identified in retrovirally transformed cells, there was a cellular homologue of this gene, referred to as c-MYC ( Sheiness et al., 1980; Vennstrom et al., 1982). Later studies revealed that this oncogene belongs to a family of genes that includes c-MYC, L-MYC, MYCN, B-MYC and s-MYC ( Ingvarsson et al., 1988; Nau et al., 1985; Slamon et al., 1986; Sugiyama et al., 1989; Vennstrom et al., 1982), however, of these only c-MYC, L-MYC and MYCN have been associated with malignancy ( DePinho et al., 1991; Nesbit et al., 1999).
+
+A role for MYC in driving human cancer was first identified in Burkitt's lymphoma, where MYC was deregulated as a result of chromosomal translocation into the immunoglobulin heavy chain locus ( Dalla-Favera et al., 1982; Neel et al., 1982; Taub et al., 1982). Since then, the c-MYC proto-oncogene has been shown to be deregulated in a wide range of human and animal malignancies ( Dang, 1999; Spencer and Groudine, 1991), and is estimated to be overexpressed in over 50% of all human tumours.
+
+Although identified as an oncogene, it became clear that c-MYC was vital for normal development, and for regulation of cell proliferation. As a nuclear transcription factor, MYC regulates several hundred target genes involved in regulating cell growth and proliferation, differentiation, apoptosis, metabolism, angiogenesis and DNA repair ( Dang, 1999, 2012). MYC is unable to bind DNA alone however, and requires oligomerisation with a binding partner to bind DNA effectively ( Kato et al., 1992). An HLH/LZ protein called MAX was identified as a binding partner for c-MYC in humans ( Blackwood and Eisenman, 1991), and the murine homologue of MAX, known as MYN, was shown to have the same function ( Prendergast et al., 1991). Initially it was expected that MYC-MAX heterodimers bound to E box motifs in target DNA to activate transcription, and that MAX–MAX homodimers repressed the activity of MYC by competing with MYC-MAX heterodimers for DNA binding sites on target genes ( Kato et al., 1992). This theory was complicated somewhat by the discovery of a third family of proteins, the MAD proteins, which are also able to bind MAX ( Ayer et al., 1993). MAD-MAX heterodimers are also able to repress the transcriptional activity of MYC.
+
+The potency of c-MYC as an oncogene relies upon the fact that MYC is a crucial regulator of proliferation, through its ability to regulate the cell cycle. Regulation of the cell cycle by c-MYC has been attributed to its ability to transcribe a number of genes involved in cell cycle progression, for example the cyclins and the cyclin dependent kinases ( Barrett et al., 1995; Daksis et al., 1994; Jansen-Durr et al., 1993; Perez-Roger et al., 1997; Rudolph et al., 1996). There is now a significant body of evidence that c-MYC regulation of the cell cycle can occur at multiple levels. In common with other potentially oncogenic proteins, however, c-MYC can also activate apoptosis, and as the transactivation and DNA binding domains are required for apoptosis it is thought that c-MYC affects the transcription of certain genes involved in apoptosis ( Evan et al., 1992; Stone et al., 1987). More recent research has suggested that the mechanism by which c-MYC induces apoptosis is more complex than originally supposed, and that rather than having the ability to directly mediate cell death as a result of all these triggers, c-MYC can sensitise cells to a wide range of apoptotic stimuli by causing release of cytochrome c into the cytoplasm, the consequence of which will be dependent on other cellular signals ( Juin et al., 1999).
+
+2. Modelling Myc deregulation in the mouse
+The importance of MYC for development was first uncovered by attempts to generate Myc knockout mice. Mice nullizygous for c-Myc failed to survive past embryonic day 9.5 ( Davis et al., 1993), while Mycn deletion was lethal at embryonic day 10.5. Thus, the ability to target gene expression to specific tissues and cell lineages in transgenic mice, as well as the ability to regulate that expression, has made genetically engineered mouse models (GEMM) a valuable resource for studying oncogenic function, and the importance of MYC in the process of tumourigenesis. Expression of the putative oncogene can be activated in tissues of interest, at the appropriate time, and the resulting changes in phenotype used to understand the actions of that gene. Oncomice have been important not only for advancing the understanding of oncogenic activity in vivo, but have also resulted in the generation of well characterized cell lines expressing particular oncogenes, for use in mechanistic studies in vitro. In addition, collaborating tumourigenic events have been identified in transgenic mice already harbouring a constitutively activated oncogene, and synergy between different oncogenes can be examined in this way.
+
+The c-MYC oncogene is among the best-studied transgenic models of malignancy, and c-MYC overexpression has been targeted to particular tissues using transgenic constructs with different regulatory elements. More recently, as mouse models have evolved, conditional systems have been developed to allow the regulation of myc expression or activity in vivo. One such strategy has used transgenic constructs of Myc, fused to the tamoxifen inducible oestradiol receptor, such that MYC can be activated post-transcriptionally by induction with tamoxifen. Other models have used tetracycline-based systems to conditionally activate or inactivate transcription of Myc in a spatio-temporal manner. In these models, Myc is coupled to a Tet-O promoter and Myc expression is then regulated by the activity of a second, tissue-specific transgene that encodes either the tet-transactivating protein (tTA) or the reverse tet-transactivating protein (rtTA). When mice are fed doxycycline, binding of the tTA to Tet-O is blocked and Myc expression suppressed (Tet-off), while in the converse Tet-on system, Myc expression is switched on by doxycycline-induced binding of the rtTA to Tet-O.
+
+These models have been used very successfully to study the effects of Myc deregulation in adult mice, thus removing any concerns over the effects of aberrant activation or inhibition of Myc during development. The role played by Myc in driving tumorigenesis in a variety of different tissues has been studied in this way, and a role for Myc as a 'driver' mutation in many different malignancies has been proposed as a result of these studies. Some of these studies are summarized in Table 1, and we will discuss them further below. In addition, the dependence on MYC for tumour maintenance has been studied in these models, and we will discuss insights from these models and the implications for anti-myc therapies in human cancer.
+
+Table 1.
+Evidence for a role for Myc as a ‘driver’ mutation in various tissues from several mouse models.
+Model	Tissue	Outcome	Reference
+Eμ-c-Myc	Haematopoietic	Pre-B cell lymphoma
+Mature B cell lymphoma	Adams et al., 1985
+CD2-c-Myc	T cell lineage	T cell lymphoma	Stewart et al., 1993
+MMTV-c-Myc	Mammary	Mammary adenocarcinoma	Stewart et al., 1984
+Probasin-c-Myc	Prostate	PIN, invasive adenocarcinoma	Ellwood-Yen et al., 2003
+Tyrosine Hydroxylase-MYCN	Neuroectodermal	Neuroblastoma	Weiss et al., 1997
+SP-C-c-Myc	Lung alveolar epithelium	Multifocal bronchio-alveolar hyperplasia, adenomas, carcinoma	Ehrhardt et al., 2001
+UG-c-MYC	Lung clara cells	T cell lymphoma, polycystic kidneys, renal cell carcinoma, Clara cell hyperplasia of the lung	Geick et al., 2001
+Ela-tv-a, Cdkn2a-/- + RCAS-c-Myc	Pancreas	Pancreatic endocrine tumours	Lewis et al., 2003
+Table options
+3. The role of MYC in tumour initiation
+Although MYC is mutated in many human tumours, the contribution of MYC mutations is difficult to ascertain given the late stage at which tumours are diagnosed and the number of genetic lesions present. Because of this, mouse models of Myc deregulation have been invaluable in establishing to role of Myc in tumour initiation.
+
+One of the earliest models of MYC-induced tumourigenesis was described in 1985 by Adams et al. (Adams et al., 1985). In this model, c-Myc was fused to an immunoglobulin enhancer (Eμ) in an effort to recapitulate the translocations frequently observed in human lymphomas. This approach proved fruitful, as mice developed both pre-B cell and mature B cell lymphomas within a few months from birth, demonstrating that Myc overexpression alone could drive lymphomagenesis. In fact, further studies indicated that deregulation of c-Myc may be a fundamental event in the development of lymphoid neoplasia. Proviral integration at c-Myc was observed in almost 50% of murine leukaemia virus induced T cell lymphomas ( Selten et al., 1984), while in a model of T cell lymphoma in which a transgenic construct of c-Myc is placed under the control of a CD2 locus control region promoter, Myc overexpression was sufficient to induce thymic lymphoma in a subset of mice ( Stewart et al., 1993). Thus, the potency of Myc as a major driving force behind haemopoietic malignancies was been demonstrated in these mice.
+
+The potential for Myc deregulation to initiate tumours has also been studied in many epithelial cancers. For example, when Myc was fused to the LTR of the mouse mammary tumour virus (MMTV) to generate a model of Myc overexpression in mammary tissue, mice developed mammary tumours, but typically in only one or two mammary glands and only in multiparous females ( Stewart et al., 1984). These results suggested that MYC was not sufficient to drive mammary tumourigenesis, and that further mutations were required for transformation. In contrast, in a model of prostate cancer, mice harbouring c-Myc under the control of a probasin promoter all developed prostatic intraepithelial neoplasia that progressed to invasive adenocarcinoma. Tumours in these animals were highly reminiscent of a subset of human, ‘Myc-like’ human cancers, in phenotype and genetics, reinforcing the value of these mice in modelling the human disease. ( Ellwood-Yen et al., 2003). In addition these results highlight the utility of animal models in distinguishing driver mutations from ‘passenger’ mutations.
+
+We should not forget that MYCN is frequently deregulated in human cancer, and in particular, is often amplified in human neuroblastomas. The ability of MYCN amplification to drive neuroblastoma was therefore tested in mice engineered to overexpress Mycn in neuroectodermal cells. These mice did indeed develop neuroblastoma with many of the molecular features of the human disease, providing the first proof that MYCN may be a driver of human neuroblastoma ( Weiss et al., 1997).
+
+Targeting expression of one oncogene to different cell types of the same tissue can also provide clues to the likely cells of origin of cancer in certain tissues. For example, in a lung tumour model in which c-Myc is expressed under the control of a surfactant protein C (SP-C) promoter, mice developed multifocal bronchio-alveolar adenomas that progressed to adenocarcinoma but with long latency and incomplete penetrance ( Ehrhardt et al., 2001). When a Clara Cell promoter was used to drive aberrant c-Myc expression, however, only bronchioloalveolar hyperplasia was observed ( Geick et al., 2001), suggesting that deregulated myc expression is not sufficient to drive tumourigenesis in these cells.
+
+In contrast, studying the role of Myc in tumour models has also provided insights into how genetic events can influence the genesis of different tumour types from the same target cells. Lewis and colleagues created a model using an avian retroviral receptor under the control of the elastase promoter to deliver oncogenes in viral vectors to the pancreas. When c-Myc expression was targeted to elastase expressing cells, the resulting tumours were exclusively pancreatic endocrine tumours, while delivery of mouse polyoma virus middle T antigen (PyMT) resulted in the formation of either acinar or ductal pancreatic tumours. Thus, targeting expression of oncogenes to a specific subset of cells can provide understanding of the outcome of oncogene activity in potentially multipotent progenitor cells ( Lewis et al., 2003).
+
+4. Lessons from co-operating genetic events
+Because cancer is a multi-stage process requiring a series of genetic events, mouse models of Myc-driven tumours have also been used to identify co-operating mutations that can accelerate tumourigenesis, thus providing insight into the molecular pathways that normally prevent cells with deregulated myc from transformation.
+
+Models in which Myc deregulation can drive tumour initiation have been studied for many years in an effort to identify co-operating genetic events that enhance the tumourigenicity of MYC and thus to better understand the mechanisms of MYC-induced tumourigenesis. In some early experiments, the laboratories of Anton Berns and Jerry Adams performed insertional mutagenesis screens in the Eμ-Myc model to identify cooperating oncogenes and tumour suppressor genes. This system identified of a number of important regulatory genes, including Pim-1 and Bmi-1 ( Haupt et al., 1991; van Lohuizen et al., 1991), two genes involved in tumourigenesis but also in stem cell homeostasis. Further, in Eμ-Myc mice, acceleration has been observed following introduction of Pim-1 ( Verbeek et al., 1991), as well as Ras ( Langdon et al., 1989) and the Bcl2 oncogene ( Vaux et al., 1988). Myc transgenic models have also been crossed with mice lacking tumour suppressor genes, and in particular, there has been great interest in Myc-induced tumourigenesis on a Trp53 deficient background. The co-operation between c-Myc and Bcl-2 in tumourigenesis ( Strasser et al., 1990), adds weight to the theory that loss of apoptotic function may be important for the full oncogenic potency of c-MYC.
+
+Some investigators have suggested a requirement for wild-type p53 in c-MYC induced apoptosis (Hermeking and Eick, 1994; Wagner et al., 1994), while studies from other groups however, have reported p53 independent c-MYC induced apoptosis (Blyth et al., 2000; Hsu et al., 1995; Sakamuro et al., 1995). Many studies have shown that overexpression of Myc and loss of p53 co-operate in tumourigenesis ( Blyth et al., 1995; Elson et al., 1995; Hsu et al., 1995). CD2-Myc mice null for Trp53 for example, develop thymic lymphoma at an increased incidence and decreased latency, compared to Trp53 heterozygous littermates ( Blyth et al., 1995), while in Eμ-Myc animals, overexpression of c-Myc could cooperate with heterozygous deletion of Trp53 or its regulator p19ARF in B cell lymphomagenesis ( Schmitt et al., 1999). Investigation of the levels of apoptosis in tumours arising in these models however, indicated that loss of p53, or loss of heterozygosity in Trp53+/− tumours, did not inhibit the ability of MYC to induced apoptosis ( Blyth et al., 2000; Hsu et al., 1995). These results suggested that in these tumours MYC did not require p53 to induce apoptosis, and rather, loss of Trp53 could collaborate with overexpression of MYC, because of enhanced cell cycle progression and proliferation in the absence of p53.
+
+Similarly, the Fas:FasL death receptor pathway had been implicated in MYC-induced apoptosis in some cell types (Hueber, 1997), and when Eμ-Mycl were crossed onto a Fas deficient background they showed an accelerated rate of tumour formation of both B and T-cell origin ( Zornig et al., 1995). However, a separate study indicated that the apoptosis mediated by c-MYC was independent of the Fas signalling pathway ( Yeh et al., 1998), and in the CD2-Myc model of T cell lymphoma, tumour development and levels of apoptosis were unchanged by the absence of Fas ( Cameron et al., 2000).
+
+Other model systems have been used effectively to identify genetic events that can cooperate with Myc to drive tumourigenesis, thereby shedding light on the mechanisms employed by MYC to drive tumourigenesis. For example, transgenic expression of Myc in pancreatic islet cells is not sufficient to induce tumours, but rather causes rapid apoptosis, a loss of beta cells, and the subsequent onset of diabetes. When this apoptosis is suppressed by co-expression of a Bcl-xL transgene, c-MYC is able to drive proliferation resulting in the formation of aggressive islet cell tumours ( Pelengaris et al., 2002). Over the years, studies of cooperation between Myc and other genes in a number of tumour types have been invaluable in identifying the mechanisms by which MYC can drive tumourigenesis, and also those that prevent transformation of MYC-overexpressing cells.
+
+5. The role of Myc in tumour maintenance
+Perhaps most importantly, the regulatable mouse model systems that have been developed over the past 15 years have enabled researchers to study the outcomes of inactivation of MYC activity in established tumours in a variety of different tissues. A number of models have now provided evidence that Myc is not only a driver of cancer in many tissues, but that a number of Myc-driven tumours are 'addicted' to myc expression since inactivation of Myc, at least initially, leads to tumour regression in many cases. We have summarised these findings in Table 2.
+
+Table 2.
+Evidence that a number of tumours in Myc-driven mouse tumour models are 'addicted' to MYC.
+Model	Organ	Myc on	Myc off	Reference
+EμSR-tTA x
+tet-O-MYC	Haematopoietic	T cell lymphoma, acute myeloid leukaemia	Complete regression, proliferative arrest, apoptosis, irreversible differentiation	Felsher and Bishop, 1999.
+Eμ-tTA x
+tet-O-MYC	Haematopoietic	Invasive T- or B-cell lymphoma	Complete regression, apoptosis, differentiation	Marinkovic et al., 2004
+Involucrin-
+c-MycERTM	Skin epidermis	Papilloma	Complete regression, recovery of normal skin	Pelengaris et al., 1999
+EμSR-tTA x
+tet-O-MYC transplanted osteogenic sarcoma cells/primary transgenic tumours	Immature osteoblasts	Invasive and metastatic osteogenic sarcoma	Complete and sustained regression, differentiation to mature bone, Insensitive to MYC reactivation	Jain et al., 2002
+MMTV-rtTA x tet-O-MYC	Mammary	Mammary adenocarcinoma	Continued tumour growth in ∼50% of cases, full regression in ∼50%	D'Cruz et al., 2001
+MMTV-rtTA x tet-O-MYC	Mammary	Mammary adenocarcinoma	Continued tumour growth. Spontaneous recurrence in few tumours that regress.	Boxer et al., 2004
+pIns-
+c-MycERTM	Pancreas	Invasive pancreatic β cell tumours	β cell apoptosis, rapid regression. Rapid recurrence following MYC reactivation	Pelengaris et al., 2002
+Pelengaris et al., 2004
+Glt1-tTA x
+tet-O-MYCN/luc	Brain	Medulloblastoma	Rapid senescence, clearance of apoptotic cells. Residual senescent tumour cells evident after 80 days	Swartling et al., 2010
+LAP-tTA x
+tet-O-MYC	Liver	Hepatocellular carcinoma, rapidly in neonates, long latency in adults	Sustained regression, differentiation. Tumour regrowth from dormant cells on MYC reactivation	Beer et al., 2004, Shachaf et al., 2004
+Table options
+The first study to address the dependence of Myc-driven tumours on continued Myc expression was performed in a haematopoietic model using the tet-off system to regulate Myc expression ( Felsher and Bishop, 1999). Prolonged Myc expression resulted in the development of both T cell lymphomas and acute myeloid leukaemias. When Myc was then ‘switched off’, these tumours spontaneously regressed, and this regression was associated with proliferative arrest, differentiation and apoptosis of the tumour cells ( Felsher and Bishop, 1999). These data were supported by a later study using the tet-off system to regulate Myc in lymphoid cells ( Marinkovic et al., 2004).
+
+In time, a number of groups reported similar findings in a number of different types of cancer. Using the MycERTM transgene targeted to the epidermis, Pelengaris and colleagues showed that continued activation of MYC resulted in the formation of papilloma-like lesions. When MYC activity was then suppressed, even transiently, through administration of tamoxifen, the papillomas regressed completely and the tumour cells underwent growth arrest and an irreversible differentiation ( Pelengaris et al., 1999). A similar outcome was observed in bone, using the tetracycline regulatory system to inactivate Myc in model osteosarcomas. Transient inactivation in this model resulted in tumour regression and differentiation of sarcoma cells into mature bone. Again this differentiation appeared irreversible, as reactivation of Myc was insufficient for tumour regrowth but rather induced apoptosis in the targeted cells ( Jain et al., 2002).
+
+Research into the consequences of Myc inactivation in Myc-driven mammary tumours yielded somewhat contrasting results and highlighted the importance of cancer stem cells, at least in this tumour type. The Chodosh laboratory demonstrated that tetracycline regulated Myc overexpression was able to drive the formation of invasive mammary adenocarcinomas. Following Myc withdrawal, however, most of these tumours continued to grow, and even in those tumours that did regress, some cells did remain which could rapidly reform a tumour following Myc reactivation, or even spontaneously ( Boxer et al., 2004). When the group investigated this apparent progression towards Myc-independent tumour growth, they found that Ras was very frequently mutated in the tumours that could continue to grow in the absence of Myc, but not in the tumours that fully regressed ( D'Cruz et al., 2001). Their results offered evidence of a hard-to-kill subset of tumour cells that can remain dormant but are able to drive recovery of the tumour following Myc reactivation. Experiments in model systems like these will be very useful in modelling disease progression, but also mechanisms of resistance to therapy, and may offer clues as to why some treatments are only effective in subsets of patients in the clinic.
+
+Researchers using models of Myc-induced tumourigenesis in other organs to investigate the phenomenon of ‘oncogene addiction’ have reported similar findings. In pancreatic islet cells, activation of MycER™ in combination with expression of Bcl-xL triggered rapid tumourigenesis ( Pelengaris et al., 2002). Inactivation of MYC did lead to regression, however reactivation of MYC in this context led to rapid tumour regrowth ( Pelengaris et al., 2004). Thus, the genetic profile of tumours, as well as the cells in which they arise, may affect the consequences of oncogene de-activation. This might be addressed by studies in a GEMM of medulloblastoma in which mice bearing tetracycline responsive MYCN were crossed to mice expressing tTA under the control of the glutamate transporter 1 (Glt1) promoter ( Swartling et al., 2010). These mice developed medulloblastoma displaying classic or large cell anaplastic (LCA) pathology with rare metastases. When MYCN was deactivated in mice with established tumours, tumour cells rapidly entered senescence and previously apoptotic cells were cleared. Senescent cells remaining in the regressed tumours were still evident 80 days after MYCN deactivation. The finding of genomic instability in tumours in this model suggests the acquisition of additional mutations is required for progression of MYC-driven tumours, and thus that MYC is necessary, but not sufficient to drive tumourigenesis. One might predict that upon MYC reactivation, tumour recurrence might be observed in these mice. As such, this represents an interesting model in which to test whether in vivo senescence is truly irreversible.
+
+Finally, Myc regression models have provided insights into the consequences of oncogene expression and withdrawal at different developmental stages. For example, when Myc was overexpressed in the hepatocytes of embryonic or neonatal mice, proliferation leading to neoplasia resulted occurred very rapidly. However when Myc was activated in the hepatocytes of adult mice, there was a lack of proliferation, and instead cell growth was induced, with tumours only developing with long latency. Although cancer is generally thought to be associated with ageing, these data suggested that adult cells may acquire mechanisms, lacking in the cells of immature animals, to prevent tumourigenic responses to activation of any on oncogene ( Beer et al., 2004). In tumours in a similar model, Myc inactivation led to a robust tumour regression, with tumours cells differentiating into hepatocytes and biliary cells, however in contrast to the findings in haematopoietic, skin and bone tumours, dormant cells remained that could quickly re-establish tumours upon reactivation of Myc ( Shachaf et al., 2004).
+
+Clearly, the specific effects of Myc inactivation depend on the tumour type, the role played by Myc in the initiation of the tumour, and likely the genomic instability of the tumour. One can envisage a situation in which the more unstable the genetics of the tumour, the more likely that tumour may be able to become Myc-independent in the event of Myc inactivation. Myc inactivation in tumour models has also provided insights into the types of cells from which tumours originate. Given the transcriptional targets of MYC, it is not surprising that cell cycle arrest and apoptosis are among the consequences of Myc inactivation in some tumours. However, differentiation and the conversion of tumour cells to apparently normal tissue in some cases of Myc withdrawal and the subsequent outgrowth of tumours when Myc is restored support the existence of cancer stem cells. In contrast, in other tumour types, tumour regression is sustained, following withdrawal of Myc. The level of genomic instability, and spontaneous mutations arising during the process of Myc-induced tumourigenesis very likely shapes the consequences of disengagement of Myc.
+
+6. Low-level MYC overexpression in murine cancer models
+Most of the work discussed so far has examined mouse models where MYC is exogenously expressed at very high levels to initiate tumourigenesis (either alone or when combined with other oncogenic or tumour suppressor mutations). In human cancer, apart from perhaps Burkitt's lymphoma and neuroblastoma, this scenario is quite unlikely. Indeed a number of studies have shown MYC levels to progressively increase during human carcinogenesis by multiple mechanisms, so exogenous high expression of MYC alone might not be the best way to model the role of MYC in human malignancy (reviewed by (Myant and Sansom, 2011b)). Moreover, the regression studies discussed above may produce very different results if the tumours had not been driven by MYC overexpression and instead by other mutations that are common in human cancer. One of the first studies to examine the consequences of the levels of MYC overexpression used Myc-ERTM cDNA targeted into the Rosa26 locus (which is expressed at equivalent levels to endogenous c-MYC but lacks either 5′ and 3′ regulatory control)( Murphy et al., 2008). This low level MYC overexpression led to a very distinct phenotype from the high levels of overexpression previously performed as the apoptotic pathways often engaged by MYC overexpression were not activated in most tissues and thus increased proliferation was seen in most organs. The only place apoptosis was observed was in the colon where the Rosa26 locus is most highly expressed and this could be suppressed by the co-deletion of p19ARF. Interestingly, these mice were relatively resistant to tumourigenesis compared with previous MYC overexpressing mice with only lung tumours formed at long latencies. Future studies crossing these mice to mice that model additional tumour promoting events will show whether this small increase in MYC can promote tumour progression. Another recent study showing that threshold levels of MYC are important for initiating tumourigenesis again targeted Myc into the Rosa26 locus. In contrast to the ER approach, this study also placed Myc under the control of cre recombinase, as a LSL (lox stop lox) cassette was placed before the Myc cDNA ( Wang et al., 2011). This study also investigated the impact on post-translation control of MYC stability. Previously MYC has been shown to be regulated by phosphorylation of T58 and S62. Here the T62 phosphorylation is an activating phosphorylation which stabilises MYC but is followed by phosphorylation at T58 which triggers dephosphorylation of T62 thus targeting MYC for degradation. Therefore this study targeted a T58A Myc mutation, which should prevent degradation, to the Rosa26 locus and compared this to wild type Myc. It should be noted that mutations at T58 have been observed in human cancer. Interestingly, in contrast to overexpressing wild type Myc in this context, the T58A allele led to mammary cancer when crossed to the Wap-Cre. The requirement for the precise amount of MYC was highlighted again, by the finding that 2 copies of MycT58A were needed at the Rosa26 locus to drive cancer.
+
+7. Endogenous MYC overexpression in murine cancer models
+The Myc oncogene encodes one of the most highly regulated proteins in the cell. It is a target of many key transcriptional pathways and is also controlled post-transcriptionally with a rapid turnover. In human cancer many different mechanisms have been shown to deregulate MYC activity. Of all cancers, colorectal cancer (CRC) has been identified as one where MYC is deregulated by multiple control mechanisms all of which should lead to the progressive accumulation of MYC and this has been verified as functionally important in murine models of cancer. In CRC, the APC (Adenomatous Polyposis Coli) gene is mutated in approximately 80% of tumours ( Kinzler et al., 1991; Kinzler and Vogelstein, 1996). APC is a negative regulator of the WNT signalling pathway, and loss leads to the accumulation of β-catenin in the nucleus and the activation of TCF/LEF (or WNT) target genes ( Bienz and Clevers, 2000). c-MYC is a target of WNT pathway with TCF4 binding sites its promoter ( He et al., 1998). Definitive proof of the significance of endogenous MYC was provided by studies deleting c-Myc following Apc gene deletion in the murine intestine. Deletion of Apc within the mouse intestine yields a crypt progenitor cell like phenotype with intestinal enterocytes failing to differentiate, continuing to proliferate and failing to migrate ( Sansom et al., 2004). Associated with this hyperproliferation is a relocalisation of β-catenin to the nucleus and the activation of WNT target gene expression, with an increase of Myc RNA of about 4-fold. To assess the significance of MYC overexpression, Myc was then co-deleted with Apc and found to rescue all of the phenotypes of Apc gene deletion ( Sansom et al., 2007). Interestingly, the majority of WNT target genes were also downregulated by the deletion of Myc suggesting that within the intestinal epithelium MYC is required for the full expression of the WNT programme. This would fit well with recent studies suggesting MYC as an amplifier of transcriptional programmes ( Lin et al., 2012; Nie et al., 2012). One caveat with this study is that all of MYC was deleted and not just WNT-inducible MYC, however other murine studies have tried to address this important point. First, in mice that carry a single Apc mutation and go on to develop polyps, Myc heterozygosity has been shown to slow tumourigenesis and tumour progression ( Athineos and Sansom, 2010; Buchert et al., 2010). When both copies of Apc are deleted the crypt progenitor phenotype is also reduced by Myc heterozygosity despite a 2-fold increase in Myc compared with wild type intestines. Moreover, in addition to this crypt progenitor phenotype being induced by WNT/MYC signalling it has been shown that during intestinal regeneration there is an increase in both β-catenin and Myc when the intestines regrow. Once again in this scenario MYC was required for the ability of the intestine to regenerate. Importantly, when Myc was expressed at the Rosa26 locus using the LSL approach whilst endogenous Myc was deleted, yielding wild type levels of MYC but not WNT-inducible, the gut was unable to regenerate suggesting that it is the induction of MYC in this case that is require for intestinal regeneration ( Ashton et al., 2010). In support of this finding, a recent study examined the importance of a 3′ WNT responsive element in the Myc promoter. Germline deletion of this element led to a two-fold increase in MYC expression in the colon of knockout mice, and resulted in increased proliferation and more efficient regeneration of the colon following injury caused by DSS-induced ulcerative colitis ( Konsavage et al., 2012).
+
+Underlining the importance of MYC to colorectal cancer was the finding that there one of the most important susceptibility loci in colorectal cancer mapped to 8q24 (the Myc enhancer). Initially there was some controversy whether this modified expression of Myc ( Pomerantz et al., 2009; Tuupanen et al., 2009). However a recent elegant study which highlights the power of GEMM to definitively answer these functional questions deleted this cancer associated single nucleotide polymorphism (SNP) from mice (Myc-355 mice). Interesting whilst mice were overtly normal and only had a small reduction in MYC levels, when they were crossed to the ApcMin mouse tumourigenesis was markedly suppressed ( Sur et al., 2012).
+
+In addition to these transcriptional control mechanisms, many post-transcriptional mechanisms that reduce MYC activity are also altered in colorectal cancer. Mutations in KRAS and FBW7 (the latter which degrades MYC) are frequent during colorectal cancer and accelerate tumourigenesis in the mouse ( Sancho et al., 2010; Sansom et al., 2006). Other proteins that control MYC stability, such as HectH9, USP28 and CIP2A, are also deregulated which could all lead to further MYC activity ( Adhikary et al., 2005; Junttila et al., 2007; Popov et al., 2007). Moreover mir34b/c, which binds to the 3 UTR in MYC and targets the message for degradation, is downregulated in a large percentage of colorectal cancer either epigenetically or by inhibition of mechanisms that control its expression ( Cannell et al., 2010; Kress et al., 2011; Myant and Sansom, 2011a). Further studies altering these proteins in GEMM models of intestinal cancer should define their functional significance in vivo and gauge whether they might act as therapeutic targets in colorectal cancer.
+
+One other question that remains is the tissue specific nature of MYC activity downstream of WNT signalling and the mouse also allows modelling of this in different systems. Deletion of Apc within the liver leads to hyperproliferation and the accumulation of c-MYC ( Reed et al., 2008). However in contrast to β-catenin deletion, MYC deletion in these mice has no impact and livers still hyperproliferate. This might be relevant to human HCC as those liver cancers that have a poor prognosis often have an activation of β-catenin but also amplification of MYC, suggesting that within the liver the Myc levels driven by β-catenin alone are not sufficient for transformation. Consistent with this, MYC was not required for the expression of Wnt targets genes within the liver (in contrast to the intestine).
+
+8. Targeting endogenous MYC
+The data from CRC as well other cancers therefore suggests that targeting endogenous MYC function might be an excellent therapeutic approach for cancer. Two major concerns remain, first, will be there be a therapeutic window since normal cells do require c-MYC in development and there are longer term phenotypes in the intestine and skin when Myc is deleted ( Muncan et al., 2006). Second, what percentage of MYC will need to be inhibited within a tumour to cause regression? Thus far, most studies modulating endogenous c-MYC had done so from tumour onset and not in an established tumour. Recent studies using mouse models to target endogenous MYC function in tumours have begun to address this.
+
+The most promising data that MYC ablation in established tumours can drive regression has come from using a transgene where a dominant negative MYC protein is expressed under the control of tetracycline. This “OmoMyc” transgene was crossed to a CMV-rtTA mouse, which then meant that in mice given doxycycline in the drinking water this transgene would be expressed throughout tumour-bearing mice ( Soucek et al., 2008). This should then inhibit Myc function in both normal and tumour tissue addressing both questions of therapeutic window and regression of established tumours. A number of questions remain over the precise mechanism of action of this OmoMyc transgene which binds to the DNA binding domain of MYC and should stop MYC:MAX dimers (but not MYC:MIZ dimers) but could have a number of off target effects that have at the moment not been addressed. The results with the OmoMyc transgenic mice have been remarkable. Inhibition of MYC function in established Kras-driven adenomas of the lung caused a complete regression ( Soucek et al., 2008). Within normal tissues such as skin and gut there was reduced proliferation but when the transgene was switched off (by removal of doxycycline from the drinking water) these tissues now returned to normal homeostasis. This effect of OmoMyc is not simply restricted to the lung as OmoMyc expression also causes regression of RIP-TAG induced pancreatic islet tumours ( Sodir et al., 2011). In this case, when the kinetics of regression was examined, a dramatic collapse of tumour vasculature was observed first which was then proceeded by death of the tumour. Thus, this was the first evidence that Myc inhibition might not only affect tumour cells but also the surrounding stromal cells.
+
+9. Drugging MYC or downstream pathways
+The conclusions from mouse models are therefore pretty clear: MYC is an excellent therapeutic target for cancer. There is a therapeutic window, disease indication and tumour regression occurs when inhibiting both exogenous and endogenous MYC. However MYC as a transcription factor is very difficult to target and up until recently there have been no compounds that worked in mouse models in vivo that could target MYC. This has somewhat changed recently, given the discovery that in some circumstances inhibitors to the Bromodomain protein BRD4 can inhibit MYC activity. Use of BRD4 inhibitors showed inhibition of a signature of genes which are upregulated in Eμ-Myc mice, and in xenografts of malignant myeloma, acute myeloid leukaemia and Burkitt's Lymphoma showed both a reduction in MYC based transcription and tumourigenesis ( Delmore et al., 2011; Mertz et al., 2011). Although it is unlikely that MYC is the only target of BRD4, and there may again be cell type specificity, this raises the exciting prospect of compounds that target MYC activity within the clinic in the near future. Moreover, the suite of mouse models discussed in this review should rapidly elucidate whether BRD4 inhibition works in multiple settings where cells are dependent on MYC, and should drive the clinical development of this set of compounds.
+
+Given the difficulty in designing inhibitors to MYC, other approaches have been made to try and target downstream pathway members where inhibitors are currently available. Following Apc loss, for example, there is a MYC dependent activation of both Cyclin D2 and FAK and deletion of both of these slows Apc loss-induced tumourigenesis ( Ashton et al., 2010; Cole et al., 2010). Here it would be interesting to combine CDK4 and FAK inhibitors to see if this could, in part, mimic MYC inhibition. A recent study by the Downward laboratory acts as an excellent paradigm of this ( Kumar et al., 2012). Here, looking for agents that could specifically kill KRAS mutant cells, they found that knockdown of GATA2 was synthetically lethal with KRAS mutation. Although as a transcription factor this was difficult to target, they identified 3 major pathways downstream of GATA2 that were important for the viability of KRAS mutant cells and where inhibitors were available. They then treated murine KRAS-driven lung tumours and showed that treatment with the combination of inhibitors caused tumour regression in this GEMM model. Similar studies are underway working on MYC, and exciting results have shown that inhibition of CHK1, ARK5 and SUMOylation ( Kessler et al., 2012; Liu et al., 2012; Murga et al., 2011) all preferentially kill cells expressing high levels of c-MYC. Future studies with inhibitors and genetic inhibition of these proteins in the MYC dependent mouse models will validate these targets in an in vivo setting. This is vital given the number of synthetic lethal studies in tissue culture which have not transferred into more robust and clean genetic systems in vivo.
+
+It over 25 years since the first transgenic model that showed that MYC can drive tumourigenesis. These models have shaped our understanding of MYC as an oncogene and shown that even in established tumours MYC is required to maintain transformation. AS GEMM models have become more complex and more closely recapitulate human cancer, the precise role of MYC in the tumourigenic process has been established and its important function and its key transcriptional targets have been revealed. Given the recent excitement that MYC may be targetable in cancer this means that we already have an amazing set of tools to test whether 1) these inhibitors elicit a therapeutic response, 2) whether they work through MYC, and 3) whether they are tumour type specific. It would be a mistake if drug companies ignored these elegant models in the rush to be the first-in-class to be licenced, as these models should provide stratification and efficacy. Moreover, this set of mouse models may also provide important information about resistance mechanisms. This was elegantly shown in a mouse model of PI3 Kinase driven breast cancer where treatment with inhibitors to this pathway regressed tumours but recurrence was driven by an overexpression (via amplification) of MYC or MET ( Liu et al., 2011).
+
+References
+Adams et al., 1985
+J.M. Adams, A.W. Harris, C.A. Pinkert, L.M. Corcoran, W.S. Alexander, S. Cory, R.D. Palmiter, R.L. Brinster
+The c-myc oncogene driven by immunoglobulin enhancers induces lymphoid malignancy in transgenic mice
+Nature, 318 (1985), pp. 533–538
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (673)
+Adhikary et al., 2005
+S. Adhikary, F. Marinoni, A. Hock, E. Hulleman, N. Popov, R. Beier, S. Bernard, M. Quarto, M. Capra, S. Goettig, U. Kogel, M. Scheffner, K. Helin, M. Eilers
+The ubiquitin ligase HectH9 regulates transcriptional activation by Myc and is essential for tumor cell proliferation
+Cell, 123 (2005), pp. 409–421
+
+Article |  PDF (769 K) | View Record in Scopus | Citing articles (150)
+Ashton et al., 2010
+G.H. Ashton, J.P. Morton, K. Myant, T.J. Phesse, R.A. Ridgway, V. Marsh, J.A. Wilkins, D. Athineos, V. Muncan, R. Kemp, K. Neufeld, H. Clevers, V. Brunton, D.J. Winton, X. Wang, R.C. Sears, A.R. Clarke, M.C. Frame, O.J. Sansom
+Focal adhesion kinase is required for intestinal regeneration and tumorigenesis downstream of Wnt/c-Myc signaling
+Dev. Cell., 19 (2010), pp. 259–269
+
+Article |  PDF (2350 K) | View Record in Scopus | Citing articles (47)
+Athineos and Sansom, 2010
+D. Athineos, O.J. Sansom
+Myc heterozygosity attenuates the phenotypes of APC deficiency in the small intestine
+Oncogene, 29 (2010), pp. 2585–2590
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+Ayer et al., 1993
+D.E. Ayer, L. Kretzner, R.N. Eisenman
+Mad: a heterodimeric partner for Max that antagonizes Myc transcriptional activity
+Cell, 72 (1993), pp. 211–222
+
+Article |  PDF (2506 K) | View Record in Scopus | Citing articles (465)
+Barrett et al., 1995
+J.F. Barrett, B.C. Lewis, A.T. Hoang, R.J. Alvarez Jr., C.V. Dang
+Cyclin A links c-Myc to adhesion-independent cell proliferation
+J. Biol. Chem., 270 (1995), pp. 15923–15925
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Beer et al., 2004
+S. Beer, A. Zetterberg, R.A. Ihrie, R.A. McTaggart, Q. Yang, N. Bradon, C. Arvanitis, L.D. Attardi, S. Feng, B. Ruebner, R.D. Cardiff, D.W. Felsher
+Developmental context determines latency of MYC-induced tumorigenesis
+PLoS Biol., 2 (2004), p. e332
+
+Full Text via CrossRef
+Bienz and Clevers, 2000
+M. Bienz, H. Clevers
+Linking colorectal cancer to Wnt signaling
+Cell, 103 (2000), pp. 311–320
+
+Article |  PDF (430 K) | View Record in Scopus | Citing articles (908)
+Blackwood and Eisenman, 1991
+E.M. Blackwood, R.N. Eisenman
+Max: a helix-loop-helix zipper protein that forms a sequence-specific DNA-binding complex with Myc
+Science, 251 (1991), pp. 1211–1217
+
+View Record in Scopus | Citing articles (818)
+Blyth et al., 2000
+K. Blyth, M. Stewart, M. Bell, C. James, G. Evan, J.C. Neil, E.R. Cameron
+Sensitivity to myc-induced apoptosis is retained in spontaneous and transplanted lymphomas of CD2-mycER mice
+Oncogene, 19 (2000), pp. 773–782
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Blyth et al., 1995
+K. Blyth, A. Terry, M. O'Hara, E.W. Baxter, M. Campbell, M. Stewart, L.A. Donehower, D.E. Onions, J.C. Neil, E.R. Cameron
+Synergy between a human c-myc transgene and p53 null genotype in murine thymic lymphomas: contrasting effects of homozygous and heterozygous p53 loss
+Oncogene, 10 (1995), pp. 1717–1723
+
+View Record in Scopus | Citing articles (89)
+Boxer et al., 2004
+R.B. Boxer, J.W. Jang, L. Sintasath, L.A. Chodosh
+Lack of sustained regression of c-MYC-induced mammary adenocarcinomas following brief or prolonged MYC inactivation
+Cancer Cell, 6 (2004), pp. 577–586
+
+Article |  PDF (399 K) | View Record in Scopus | Citing articles (99)
+Buchert et al., 2010
+M. Buchert, D. Athineos, H.E. Abud, Z.D. Burke, M.C. Faux, M.S. Samuel, A.G. Jarnicki, C.E. Winbanks, I.P. Newton, V.S. Meniel, H. Suzuki, S.A. Stacker, I.S. Nathke, D. Tosh, J. Huelsken, A.R. Clarke, J.K. Heath, O.J. Sansom, M. Ernst
+Genetic dissection of differential signaling threshold requirements for the Wnt/beta-catenin pathway in vivo
+PLoS Genet., 6 (2010), p. e1000816
+
+Full Text via CrossRef
+Cameron et al., 2000
+E.R. Cameron, J. Morton, C.J. Johnston, J. Irvine, M. Bell, D.E. Onions, J.C. Neil, M. Campbell, K. Blyth
+Fas-independent apoptosis in T-cell tumours induced by the CD2-myc transgene
+Cell. Death Differ., 7 (2000), pp. 80–88
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Cannell et al., 2010
+I.G. Cannell, Y.W. Kong, S.J. Johnston, M.L. Chen, H.M. Collins, H.C. Dobbyn, A. Elia, T.R. Kress, M. Dickens, M.J. Clemens, D.M. Heery, M. Gaestel, M. Eilers, A.E. Willis, M. Bushell
+p38 MAPK/MK2-mediated induction of miR-34c following DNA damage prevents Myc-dependent DNA replication
+Proc. Natl. Acad. Sci. U S A, 107 (2010), pp. 5375–5380
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (65)
+Cole et al., 2010
+A.M. Cole, K. Myant, K.R. Reed, R.A. Ridgway, D. Athineos, G.R. Van den Brink, V. Muncan, H. Clevers, A.R. Clarke, P. Sicinski, O.J. Sansom
+Cyclin D2-cyclin-dependent kinase 4/6 is required for efficient proliferation and tumorigenesis following Apc loss
+Cancer Res., 70 (2010), pp. 8149–8158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+D'Cruz et al., 2001
+C.M. D'Cruz, E.J. Gunther, R.B. Boxer, J.L. Hartman, L. Sintasath, S.E. Moody, J.D. Cox, S.I. Ha, G.K. Belka, A. Golant, R.D. Cardiff, L.A. Chodosh
+c-MYC induces mammary tumorigenesis by means of a preferred pathway involving spontaneous Kras2 mutations
+Nat. Med., 7 (2001), pp. 235–239
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (240)
+Daksis et al., 1994
+J.I. Daksis, R.Y. Lu, L.M. Facchini, W.W. Marhin, L.J. Penn
+Myc induces cyclin D1 expression in the absence of de novo protein synthesis and links mitogen-stimulated signal transduction to the cell cycle
+Oncogene, 9 (1994), pp. 3635–3645
+
+View Record in Scopus | Citing articles (161)
+Dalla-Favera et al., 1982
+R. Dalla-Favera, M. Bregni, J. Erikson, D. Patterson, R.C. Gallo, C.M. Croce
+Human c-myc onc gene is located on the region of chromosome 8 that is translocated in Burkitt lymphoma cells
+Proc. Natl. Acad. Sci. U S A, 79 (1982), pp. 7824–7827
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (458)
+Dang, 1999
+C.V. Dang
+c-Myc target genes involved in cell growth, apoptosis, and metabolism
+Mol. Cell. Biol., 19 (1999), pp. 1–11
+
+View Record in Scopus | Citing articles (872)
+Dang, 2012
+C.V. Dang
+MYC on the path to cancer
+Cell, 149 (2012), pp. 22–35
+
+Article |  PDF (657 K) | View Record in Scopus | Citing articles (192)
+Davis et al., 1993
+A.C. Davis, M. Wims, G.D. Spotts, S.R. Hann, A. Bradley
+A null c-myc mutation causes lethality before 10.5 days of gestation in homozygotes and reduced fertility in heterozygous female mice
+Genes Dev., 7 (1993), pp. 671–682
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (294)
+Delmore et al., 2011
+J.E. Delmore, G.C. Issa, M.E. Lemieux, P.B. Rahl, J. Shi, H.M. Jacobs, E. Kastritis, T. Gilpatrick, R.M. Paranal, J. Qi, M. Chesi, A.C. Schinzel, M.R. McKeown, T.P. Heffernan, C.R. Vakoc, P.L. Bergsagel, I.M. Ghobrial, P.G. Richardson, R.A. Young, W.C. Hahn, K.C. Anderson, A.L. Kung, J.E. Bradner, C.S. Mitsiades
+BET bromodomain inhibition as a therapeutic strategy to target c-Myc
+Cell, 146 (2011), pp. 904–917
+
+Article |  PDF (1602 K) | View Record in Scopus | Citing articles (314)
+DePinho et al., 1991
+R.A. DePinho, N. Schreiber-Agus, F.W. Alt
+myc family oncogenes in the development of normal and neoplastic cells
+Adv. Cancer Res., 57 (1991), pp. 1–46
+
+Article |  PDF (2806 K) | View Record in Scopus | Citing articles (144)
+Duesberg et al., 1977
+P.H. Duesberg, K. Bister, P.K. Vogt
+The RNA of avian acute leukemia virus MC29
+Proc. Natl. Acad. Sci. U S A, 74 (1977), pp. 4320–4324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Ehrhardt et al., 2001
+A. Ehrhardt, T. Bartels, A. Geick, R. Klocke, D. Paul, R. Halter
+Development of pulmonary bronchiolo-alveolar adenocarcinomas in transgenic mice overexpressing murine c-myc and epidermal growth factor in alveolar type II pneumocytes
+Br. J. Cancer, 84 (2001), pp. 813–818
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+Ellwood-Yen et al., 2003
+K. Ellwood-Yen, T.G. Graeber, J. Wongvipat, M.L. Iruela-Arispe, J. Zhang, R. Matusik, G.V. Thomas, C.L. Sawyers
+Myc-driven murine prostate cancer shares molecular features with human prostate tumors
+Cancer Cell, 4 (2003), pp. 223–238
+
+Article |  PDF (1060 K) | View Record in Scopus | Citing articles (332)
+Elson et al., 1995
+A. Elson, C. Deng, J. Campos-Torres, L.A. Donehower, P. Leder
+The MMTV/c-myc transgene and p53 null alleles collaborate to induce T-cell lymphomas, but not mammary carcinomas in transgenic mice
+Oncogene, 11 (1995), pp. 181–190
+
+View Record in Scopus | Citing articles (78)
+Evan et al., 1992
+G.I. Evan, A.H. Wyllie, C.S. Gilbert, T.D. Littlewood, H. Land, M. Brooks, C.M. Waters, L.Z. Penn, D.C. Hancock
+Induction of apoptosis in fibroblasts by c-myc protein
+Cell, 69 (1992), pp. 119–128
+
+Article |  PDF (2612 K) | View Record in Scopus | Citing articles (2067)
+Felsher and Bishop, 1999
+D.W. Felsher, J.M. Bishop
+Reversible tumorigenesis by MYC in hematopoietic lineages
+Mol. Cell., 4 (1999), pp. 199–207
+
+Article |  PDF (621 K) | View Record in Scopus | Citing articles (483)
+Geick et al., 2001
+A. Geick, P. Redecker, A. Ehrhardt, R. Klocke, D. Paul, R. Halter
+Uteroglobin promoter-targeted c-MYC expression in transgenic mice cause hyperplasia of Clara cells and malignant transformation of T-lymphoblasts and tubular epithelial cells
+Transgenic Res., 10 (2001), pp. 501–511
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Haupt et al., 1991
+Y. Haupt, W.S. Alexander, G. Barri, S.P. Klinken, J.M. Adams
+Novel zinc finger gene implicated as myc collaborator by retrovirally accelerated lymphomagenesis in E mu-myc transgenic mice
+Cell, 65 (1991), pp. 753–763
+
+Article |  PDF (2280 K) | View Record in Scopus | Citing articles (315)
+He et al., 1998
+T.C. He, A.B. Sparks, C. Rago, H. Hermeking, L. Zawel, L.T. da Costa, P.J. Morin, B. Vogelstein, K.W. Kinzler
+Identification of c-MYC as a target of the APC pathway
+Science, 281 (1998), pp. 1509–1512
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2869)
+Hermeking and Eick, 1994
+H. Hermeking, D. Eick
+Mediation of c-Myc-induced apoptosis by p53
+Science, 265 (1994), pp. 2091–2093
+
+View Record in Scopus | Citing articles (571)
+Hsu et al., 1995
+B. Hsu, M.C. Marin, A.K. el-Naggar, L.C. Stephens, S. Brisbay, T.J. McDonnell
+Evidence that c-myc mediated apoptosis does not require wild-type p53 during lymphomagenesis
+Oncogene, 11 (1995), pp. 175–179
+
+View Record in Scopus | Citing articles (83)
+Hueber, 1997
+A. Hueber
+Requirement for the CD95 receptor-Ligand pathway in c-myc-induced apoptosis
+Science, 278 (1997), pp. 1305–1309
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (298)
+Ingvarsson et al., 1988
+S. Ingvarsson, C. Asker, H. Axelson, G. Klein, J. Sumegi
+Structure and expression of B-myc, a new member of the myc gene family
+Mol. Cell. Biol., 8 (1988), pp. 3168–3174
+
+View Record in Scopus | Citing articles (20)
+Jain et al., 2002
+M. Jain, C. Arvanitis, K. Chu, W. Dewey, E. Leonhardt, M. Trinh, C.D. Sundberg, J.M. Bishop, D.W. Felsher
+Sustained loss of a neoplastic phenotype by brief inactivation of MYC
+Science, 297 (2002), pp. 102–104
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (351)
+Jansen-Durr et al., 1993
+P. Jansen-Durr, A. Meichle, P. Steiner, M. Pagano, K. Finke, J. Botz, J. Wessbecher, G. Draetta, M. Eilers
+Differential modulation of cyclin gene expression by MYC
+Proc. Natl. Acad. Sci. U S A, 90 (1993), pp. 3685–3689
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (215)
+Juin et al., 1999
+P. Juin, A.O. Hueber, T. Littlewood, G. Evan
+c-Myc-induced sensitization to apoptosis is mediated through cytochrome c release
+Genes Dev., 13 (1999), pp. 1367–1381
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (273)
+Junttila et al., 2007
+M.R. Junttila, P. Puustinen, M. Niemela, R. Ahola, H. Arnold, T. Bottzauw, R. Ala-aho, C. Nielsen, J. Ivaska, Y. Taya, S.L. Lu, S. Lin, E.K. Chan, X.J. Wang, R. Grenman, J. Kast, T. Kallunki, R. Sears, V.M. Kahari, J. Westermarck
+CIP2A inhibits PP2A in human malignancies
+Cell, 130 (2007), pp. 51–62
+
+Article |  PDF (1021 K) | View Record in Scopus | Citing articles (184)
+Kato et al., 1992
+G.J. Kato, W.M. Lee, L.L. Chen, C.V. Dang
+Max: functional domains and interaction with c-Myc
+Genes Dev., 6 (1992), pp. 81–92
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (97)
+Kessler et al., 2012
+J.D. Kessler, K.T. Kahle, T. Sun, K.L. Meerbrey, M.R. Schlabach, E.M. Schmitt, S.O. Skinner, Q. Xu, M.Z. Li, Z.C. Hartman, M. Rao, P. Yu, R. Dominguez-Vidana, A.C. Liang, N.L. Solimini, R.J. Bernardi, B. Yu, T. Hsu, I. Golding, J. Luo, C.K. Osborne, C.J. Creighton, S.G. Hilsenbeck, R. Schiff, C.A. Shaw, S.J. Elledge, T.F. Westbrook
+A SUMOylation-dependent transcriptional subprogram is required for Myc-driven tumorigenesis
+Science, 335 (2012), pp. 348–353
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Kinzler et al., 1991
+K.W. Kinzler, M.C. Nilbert, L.K. Su, B. Vogelstein, T.M. Bryan, D.B. Levy, K.J. Smith, A.C. Preisinger, P. Hedge, D. McKechnie et al.
+Identification of FAP locus genes from chromosome 5q21
+Science, 253 (1991), pp. 661–665
+
+View Record in Scopus | Citing articles (1203)
+Kinzler and Vogelstein, 1996
+K.W. Kinzler, B. Vogelstein
+Lessons from hereditary colorectal cancer
+Cell, 87 (1996), pp. 159–170
+
+Article |  PDF (1687 K) | View Record in Scopus | Citing articles (3334)
+Konsavage et al., 2012
+W.M. Konsavage Jr., G. Jin, G.S. Yochum
+The Myc 3' Wnt-responsive element regulates homeostasis and regeneration in the mouse intestinal tract
+Mol. Cell. Biol., 32 (2012), pp. 3891–3902
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3)
+Kress et al., 2011
+T.R. Kress, I.G. Cannell, A.B. Brenkman, B. Samans, M. Gaestel, P. Roepman, B.M. Burgering, M. Bushell, A. Rosenwald, M. Eilers
+The MK5/PRAK kinase and Myc form a negative feedback loop that is disrupted during colorectal tumorigenesis
+Mol. Cell, 41 (2011), pp. 445–457
+
+Article |  PDF (1161 K) | View Record in Scopus | Citing articles (35)
+Kumar et al., 2012
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas, M. Steckel, P. East, M. Diefenbacher, E. Armenteros-Monterroso, F. Lassailly, N. Matthews, E. Nye, G. Stamp, A. Behrens, J. Downward
+The GATA2 transcriptional network is requisite for RAS oncogene-driven non-small cell lung cancer
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+Langdon et al., 1989
+W.Y. Langdon, A.W. Harris, S. Cory
+Acceleration of B-lymphoid tumorigenesis in E mu-myc transgenic mice by v-H-ras and v-raf but not v-abl
+Oncogene Res., 4 (1989), pp. 253–258
+
+View Record in Scopus | Citing articles (20)
+Lewis et al., 2003
+B.C. Lewis, D.S. Klimstra, H.E. Varmus
+The c-myc and PyMT oncogenes induce different tumor types in a somatic mouse model for pancreatic cancer
+Genes Dev., 17 (2003), pp. 3127–3138
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+Lin et al., 2012
+C.Y. Lin, J. Loven, P.B. Rahl, R.M. Paranal, C.B. Burge, J.E. Bradner, T.I. Lee, R.A. Young
+Transcriptional amplification in tumor cells with elevated c-Myc
+Cell, 151 (2012), pp. 56–67
+
+Article |  PDF (2823 K) | View Record in Scopus | Citing articles (138)
+Liu et al., 2012
+L. Liu, J. Ulbrich, J. Muller, T. Wustefeld, L. Aeberhard, T.R. Kress, N. Muthalagu, L. Rycak, R. Rudalska, R. Moll, S. Kempa, L. Zender, M. Eilers, D.J. Murphy
+Deregulated MYC expression induces dependence upon AMPK-related kinase 5
+Nature, 483 (2012), pp. 608–612
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Liu et al., 2011
+P. Liu, H. Cheng, S. Santiago, M. Raeder, F. Zhang, A. Isabella, J. Yang, D.J. Semaan, C. Chen, E.A. Fox, N.S. Gray, J. Monahan, R. Schlegel, R. Beroukhim, G.B. Mills, J.J. Zhao
+Oncogenic PIK3CA-driven mammary tumors frequently recur via PI3K pathway-dependent and PI3K pathway-independent mechanisms
+Nat. Med., 17 (2011), pp. 1116–1120
+
+Full Text via CrossRef
+Marcu et al., 1992
+K.B. Marcu, S.A. Bossone, A.J. Patel
+myc function and regulation
+Annu. Rev. Biochem., 61 (1992), pp. 809–860
+
+View Record in Scopus | Citing articles (595)
+Marinkovic et al., 2004
+D. Marinkovic, T. Marinkovic, B. Mahr, J. Hess, T. Wirth
+Reversible lymphomagenesis in conditionally c-MYC expressing mice
+Int. J. Cancer, 110 (2004), pp. 336–342
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+Mertz et al., 2011
+J.A. Mertz, A.R. Conery, B.M. Bryant, P. Sandy, S. Balasubramanian, D.A. Mele, L. Bergeron, R.J. Sims
+Targeting MYC dependence in cancer by inhibiting BET bromodomains
+Proc. Natl. Acad. Sci. U S A, 108 (2011), pp. 16669–16674
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (139)
+Muncan et al., 2006
+V. Muncan, O.J. Sansom, L. Tertoolen, T.J. Phesse, H. Begthel, E. Sancho, A.M. Cole, A. Gregorieff, I.M. de Alboran, H. Clevers, A.R. Clarke
+Rapid loss of intestinal crypts upon conditional deletion of the Wnt/Tcf-4 target gene c-Myc
+Mol. Cell. Biol., 26 (2006), pp. 8418–8426
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (119)
+Murga et al., 2011
+M. Murga, S. Campaner, A.J. Lopez-Contreras, L.I. Toledo, R. Soria, M.F. Montana, L. D'Artista, T. Schleker, C. Guerra, E. Garcia, M. Barbacid, M. Hidalgo, B. Amati, O. Fernandez-Capetillo
+Exploiting oncogene-induced replicative stress for the selective killing of Myc-driven tumors
+Nat. Struct. Mol. Biol., 18 (2011), pp. 1331–1335
+
+View Record in Scopus | Citing articles (41)
+Murphy et al., 2008
+D.J. Murphy, M.R. Junttila, L. Pouyet, A. Karnezis, K. Shchors, D.A. Bui, L. Brown-Swigart, L. Johnson, G.I. Evan
+Distinct thresholds govern Myc's biological output in vivo
+Cancer Cell, 14 (2008), pp. 447–457
+
+Article |  PDF (1909 K) | View Record in Scopus | Citing articles (152)
+Myant and Sansom, 2011a
+K. Myant, O.J. Sansom
+More, more, more: downregulation of a MK5-FoxO3a-mir34b/c pathway further increases c-Myc levels in colorectal cancer
+Mol. Cell, 41 (2011), pp. 369–370
+
+Article |  PDF (142 K) | View Record in Scopus | Citing articles (1)
+Myant and Sansom, 2011b
+K. Myant, O.J. Sansom
+Wnt/Myc interactions in intestinal cancer: partners in crime
+Exp. Cell. Res., 317 (2011), pp. 2725–2731
+
+Article |  PDF (626 K) | View Record in Scopus | Citing articles (12)
+Nau et al., 1985
+M.M. Nau, B.J. Brooks, J. Battey, E. Sausville, A.F. Gazdar, I.R. Kirsch, O.W. McBride, V. Bertness, G.F. Hollis, J.D. Minna
+L-myc, a new myc-related gene amplified and expressed in human small cell lung cancer
+Nature, 318 (1985), pp. 69–73
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (144)
+Neel et al., 1982
+B.G. Neel, S.C. Jhanwar, R.S. Chaganti, W.S. Hayward
+Two human c-onc genes are located on the long arm of chromosome 8
+Proc. Natl. Acad. Sci. U S A, 79 (1982), pp. 7842–7846
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+Nesbit et al., 1999
+C.E. Nesbit, J.M. Tersak, E.V. Prochownik
+MYC oncogenes and human neoplastic disease
+Oncogene, 18 (1999), pp. 3004–3016
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (626)
+Nie et al., 2012
+Z. Nie, G. Hu, G. Wei, K. Cui, A. Yamane, W. Resch, R. Wang, D.R. Green, L. Tessarollo, R. Casellas, K. Zhao, D. Levens
+c-Myc is a universal amplifier of expressed genes in lymphocytes and embryonic stem cells
+Cell, 151 (2012), pp. 68–79
+
+Article |  PDF (2190 K) | View Record in Scopus | Citing articles (113)
+Pelengaris et al., 2004
+S. Pelengaris, S. Abouna, L. Cheung, V. Ifandi, S. Zervou, M. Khan
+Brief inactivation of c-Myc is not sufficient for sustained regression of c-Myc-induced tumours of pancreatic islets and skin epidermis
+BMC Biol., 2 (2004), p. 26
+
+Full Text via CrossRef
+Pelengaris et al., 2002
+S. Pelengaris, M. Khan, G.I. Evan
+Suppression of Myc-induced apoptosis in beta cells exposes multiple oncogenic properties of Myc and triggers carcinogenic progression
+Cell, 109 (2002), pp. 321–334
+
+Article |  PDF (953 K) | View Record in Scopus | Citing articles (421)
+Pelengaris et al., 1999
+S. Pelengaris, T. Littlewood, M. Khan, G. Elia, G. Evan
+Reversible activation of c-Myc in skin: induction of a complex neoplastic phenotype by a single oncogenic lesion
+Mol. Cell., 3 (1999), pp. 565–577
+
+Article |  PDF (559 K) | View Record in Scopus | Citing articles (336)
+Perez-Roger et al., 1997
+I. Perez-Roger, D.L. Solomon, A. Sewing, H. Land
+Myc activation of cyclin E/Cdk2 kinase involves induction of cyclin E gene transcription and inhibition of p27(Kip1) binding to newly formed complexes
+Oncogene, 14 (1997), pp. 2373–2381
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Pomerantz et al., 2009
+M.M. Pomerantz, N. Ahmadiyeh, L. Jia, P. Herman, M.P. Verzi, H. Doddapaneni, C.A. Beckwith, J.A. Chan, A. Hills, M. Davis, K. Yao, S.M. Kehoe, H.J. Lenz, C.A. Haiman, C. Yan, B.E. Henderson, B. Frenkel, J. Barretina, A. Bass, J. Tabernero, J. Baselga, M.M. Regan, J.R. Manak, R. Shivdasani, G.A. Coetzee, M.L. Freedman
+The 8q24 cancer risk variant rs6983267 shows long-range interaction with MYC in colorectal cancer
+Nat. Genet., 41 (2009), pp. 882–884
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (265)
+Popov et al., 2007
+N. Popov, M. Wanzel, M. Madiredjo, D. Zhang, R. Beijersbergen, R. Bernards, R. Moll, S.J. Elledge, M. Eilers
+The ubiquitin-specific protease USP28 is required for MYC stability
+Nat. Cell. Biol., 9 (2007), pp. 765–774
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+Prendergast et al., 1991
+G.C. Prendergast, D. Lawe, E.B. Ziff
+Association of Myn, the murine homolog of max, with c-Myc stimulates methylation-sensitive DNA binding and ras cotransformation
+Cell, 65 (1991), pp. 395–407
+
+Article |  PDF (2137 K) | View Record in Scopus | Citing articles (254)
+Reed et al., 2008
+K.R. Reed, D. Athineos, V.S. Meniel, J.A. Wilkins, R.A. Ridgway, Z.D. Burke, V. Muncan, A.R. Clarke, O.J. Sansom
+B-catenin deficiency, but not Myc deletion, suppresses the immediate phenotypes of APC loss in the liver
+Proc. Natl. Acad. Sci. U S A, 105 (2008), pp. 18919–18923
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+Rudolph et al., 1996
+B. Rudolph, R. Saffrich, J. Zwicker, B. Henglein, R. Muller, W. Ansorge, M. Eilers
+Activation of cyclin-dependent kinases by Myc mediates induction of cyclin A, but not apoptosis
+Embo. J., 15 (1996), pp. 3065–3076
+
+View Record in Scopus | Citing articles (110)
+Sakamuro et al., 1995
+D. Sakamuro, V. Eviner, K.J. Elliott, L. Showe, E. White, G.C. Prendergast
+c-Myc induces apoptosis in epithelial cells by both p53-dependent and p53-independent mechanisms
+Oncogene, 11 (1995), pp. 2411–2418
+
+Sancho et al., 2010
+R. Sancho, A. Jandke, H. Davis, M.E. Diefenbacher, I. Tomlinson, A. Behrens
+F-box and WD repeat domain-containing 7 regulates intestinal cell lineage commitment and is a haploinsufficient tumor suppressor
+Gastroenterology, 139 (2010), pp. 929–941
+
+Article |  PDF (2534 K) | View Record in Scopus | Citing articles (32)
+Sansom et al., 2006
+O.J. Sansom, V. Meniel, J.A. Wilkins, A.M. Cole, K.A. Oien, V. Marsh, T.J. Jamieson, C. Guerra, G.H. Ashton, M. Barbacid, A.R. Clarke
+Loss of Apc allows phenotypic manifestation of the transforming properties of an endogenous K-ras oncogene in vivo
+Proc. Natl. Acad. Sci. U S A, 103 (2006), pp. 14122–14127
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (93)
+Sansom et al., 2007
+O.J. Sansom, V.S. Meniel, V. Muncan, T.J. Phesse, J.A. Wilkins, K.R. Reed, J.K. Vass, D. Athineos, H. Clevers, A.R. Clarke
+Myc deletion rescues Apc deficiency in the small intestine
+Nature, 446 (2007), pp. 676–679
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (250)
+Sansom et al., 2004
+O.J. Sansom, K.R. Reed, A.J. Hayes, H. Ireland, H. Brinkmann, I.P. Newton, E. Batlle, P. Simon-Assmann, H. Clevers, I.S. Nathke, A.R. Clarke, D.J. Winton
+Loss of Apc in vivo immediately perturbs Wnt signaling, differentiation, and migration
+Genes Dev., 18 (2004), pp. 1385–1390
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (356)
+Schmitt et al., 1999
+C.A. Schmitt, M.E. McCurrach, E. de Stanchina, R.R. Wallace-Brodeur, S.W. Lowe
+INK4a/ARF mutations accelerate lymphomagenesis and promote chemoresistance by disabling p53
+Genes Dev., 13 (1999), pp. 2670–2677
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (323)
+Selten et al., 1984
+G. Selten, H.T. Cuypers, M. Zijlstra, C. Melief, A. Berns
+Involvement of c-myc in MuLV-induced T cell lymphomas in mice: frequency and mechanisms of activation
+Embo. J., 3 (1984), pp. 3215–3222
+
+View Record in Scopus | Citing articles (55)
+Shachaf et al., 2004
+C.M. Shachaf, A.M. Kopelman, C. Arvanitis, A. Karlsson, S. Beer, S. Mandl, M.H. Bachmann, A.D. Borowsky, B. Ruebner, R.D. Cardiff, Q. Yang, J.M. Bishop, C.H. Contag, D.W. Felsher
+MYC inactivation uncovers pluripotent differentiation and tumour dormancy in hepatocellular cancer
+Nature, 431 (2004), pp. 1112–1117
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (372)
+Sheiness et al., 1980
+D.K. Sheiness, S.H. Hughes, H.E. Varmus, E. Stubblefield, J.M. Bishop
+The vertebrate homolog of the putative transforming gene of avian myelocytomatosis virus: characteristics of the DNA locus and its RNA transcript
+Virology, 105 (1980), pp. 415–424
+
+Article |  PDF (807 K) | View Record in Scopus | Citing articles (9)
+Slamon et al., 1986
+D.J. Slamon, T.C. Boone, R.C. Seeger, D.E. Keith, V. Chazin, H.C. Lee, L.M. Souza
+Identification and characterization of the protein encoded by the human N-myc oncogene
+Science, 232 (1986), pp. 768–772
+
+View Record in Scopus | Citing articles (25)
+Sodir et al., 2011
+N.M. Sodir, L.B. Swigart, A.N. Karnezis, D. Hanahan, G.I. Evan, L. Soucek
+Endogenous Myc maintains the tumor microenvironment
+Genes Dev., 25 (2011), pp. 907–916
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+Soucek et al., 2008
+L. Soucek, J. Whitfield, C.P. Martins, A.J. Finch, D.J. Murphy, N.M. Sodir, A.N. Karnezis, L.B. Swigart, S. Nasi, G.I. Evan
+Modelling Myc inhibition as a cancer therapy
+Nature, 455 (2008), pp. 679–683
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (245)
+Spencer and Groudine, 1991
+C.A. Spencer, M. Groudine
+Control of c-myc regulation in normal and neoplastic cells
+Adv. Cancer Res., 56 (1991), pp. 1–48
+
+Article |  PDF (2815 K) | View Record in Scopus | Citing articles (380)
+Stewart et al., 1993
+M. Stewart, E. Cameron, M. Campbell, R. McFarlane, S. Toth, K. Lang, D. Onions, J.C. Neil
+Conditional expression and oncogenicity of c-myc linked to a CD2 gene dominant control region
+Int. J. Cancer, 53 (1993), pp. 1023–1030
+
+View Record in Scopus | Citing articles (37)
+Stewart et al., 1984
+T.A. Stewart, P.K. Pattengale, P. Leder
+Spontaneous mammary adenocarcinomas in transgenic mice that carry and express MTV/myc fusion genes
+Cell, 38 (1984), pp. 627–637
+
+Article |  PDF (5784 K) | View Record in Scopus | Citing articles (262)
+Stone et al., 1987
+J. Stone, T. de Lange, G. Ramsay, E. Jakobovits, J.M. Bishop, H. Varmus, W. Lee
+Definition of regions in human c-myc that are involved in transformation and nuclear localization
+Mol. Cell. Biol., 7 (1987), pp. 1697–1709
+
+View Record in Scopus | Citing articles (194)
+Strasser et al., 1990
+A. Strasser, A.W. Harris, M.L. Bath, S. Cory
+Novel primitive lymphoid tumours induced in transgenic mice by cooperation between myc and bcl-2
+Nature, 348 (1990), pp. 331–333
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (510)
+Sugiyama et al., 1989
+A. Sugiyama, A. Kume, K. Nemoto, S.Y. Lee, Y. Asami, F. Nemoto, S. Nishimura, Y. Kuchino
+Isolation and characterization of s-myc, a member of the rat myc gene family
+Proc. Natl. Acad. Sci. U S A, 86 (1989), pp. 9144–9148
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Sur et al., 2012
+I.K. Sur, O. Hallikas, A. Vaharautio, J. Yan, M. Turunen, M. Enge, M. Taipale, A. Karhu, L.A. Aaltonen, J. Taipale
+Mice lacking a Myc enhancer that includes human SNP rs6983267 are resistant to intestinal tumors
+Science, 338 (2012), pp. 1360–1363
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Swartling et al., 2010
+F.J. Swartling, M.R. Grimmer, C.S. Hackett, P.A. Northcott, Q.W. Fan, D.D. Goldenberg, J. Lau, S. Masic, K. Nguyen, S. Yakovenko, X.N. Zhe, H.C. Gilmer, R. Collins, M. Nagaoka, J.J. Phillips, R.B. Jenkins, T. Tihan, S.R. Vandenberg, C.D. James, K. Tanaka, M.D. Taylor, W.A. Weiss, L. Chesler
+Pleiotropic role for MYCN in medulloblastoma
+Genes Dev., 24 (2010), pp. 1059–1072
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Taub et al., 1982
+R. Taub, I. Kirsch, C. Morton, G. Lenoir, D. Swan, S. Tronick, S. Aaronson, P. Leder
+Translocation of the c-myc gene into the immunoglobulin heavy chain locus in human Burkitt lymphoma and murine plasmacytoma cells
+Proc. Natl. Acad. Sci. U S A, 79 (1982), pp. 7837–7841
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (304)
+Tuupanen et al., 2009
+S. Tuupanen, M. Turunen, R. Lehtonen, O. Hallikas, S. Vanharanta, T. Kivioja, M. Bjorklund, G. Wei, J. Yan, I. Niittymaki, J.P. Mecklin, H. Jarvinen, A. Ristimaki, M. Di-Bernardo, P. East, L. Carvajal-Carmona, R.S. Houlston, I. Tomlinson, K. Palin, E. Ukkonen, A. Karhu, J. Taipale, L.A. Aaltonen
+The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling
+Nat. Genet., 41 (2009), pp. 885–890
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (226)
+van Lohuizen et al., 1991
+M. van Lohuizen, S. Verbeek, B. Scheijen, E. Wientjens, H. van der Gulden, A. Berns
+Identification of cooperating oncogenes in E mu-myc transgenic mice by provirus tagging
+Cell, 65 (1991), pp. 737–752
+
+Article |  PDF (3436 K) | View Record in Scopus | Citing articles (457)
+Vaux et al., 1988
+D.L. Vaux, S. Cory, J.M. Adams
+Bcl-2 gene promotes haemopoietic cell survival and cooperates with c-myc to immortalize pre-B cells
+Nature, 335 (1988), pp. 440–442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1752)
+Vennstrom et al., 1982
+B. Vennstrom, D. Sheiness, J. Zabielski, J.M. Bishop
+Isolation and characterization of c-myc, a cellular homolog of the oncogene (v-myc) of avian myelocytomatosis virus strain 29
+J. Virol., 42 (1982), pp. 773–779
+
+View Record in Scopus | Citing articles (75)
+Verbeek et al., 1991
+S. Verbeek, M. van Lohuizen, M. van der Valk, J. Domen, G. Kraal, A. Berns
+Mice bearing the E mu-myc and E mu-pim-1 transgenes develop pre-B-cell leukemia prenatally
+Mol. Cell. Biol., 11 (1991), pp. 1176–1179
+
+View Record in Scopus | Citing articles (107)
+Wagner et al., 1994
+A.J. Wagner, J.M. Kokontis, N. Hay
+Myc-mediated apoptosis requires wild-type p53 in a manner independent of cell cycle arrest and the ability of p53 to induce p21waf1/cip1
+Genes Dev., 8 (1994), pp. 2817–2830
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (458)
+Wang et al., 2011
+X. Wang, M. Cunningham, X. Zhang, S. Tokarz, B. Laraway, M. Troxell, R.C. Sears
+Phosphorylation regulates c-Myc's oncogenic activity in the mammary gland
+Cancer Res., 71 (2011), pp. 925–936
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+Weiss et al., 1997
+W.A. Weiss, K. Aldape, G. Mohapatra, B.G. Feuerstein, J.M. Bishop
+Targeted expression of MYCN causes neuroblastoma in transgenic mice
+Embo. J., 16 (1997), pp. 2985–2995
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (298)
+Yeh et al., 1998
+J.H. Yeh, S.C. Hsu, S.H. Han, M.Z. Lai
+Mitogen-activated protein kinase kinase antagonized fas-associated death domain protein-mediated apoptosis by induced FLICE-inhibitory protein expression
+J. Exp. Med., 188 (1998), pp. 1795–1802
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (108)
+Zornig et al., 1995
+M. Zornig, A. Grzeschiczek, M.B. Kowalski, K.U. Hartmann, T. Moroy
+Loss of Fas/Apo-1 receptor accelerates lymphomagenesis in E mu L-MYC transgenic mice but not in animals infected with MoMuLV
+Oncogene, 10 (1995), pp. 2397–2401
+
+View Record in Scopus | Citing articles (77)
+Corresponding author contact information
+Corresponding author. Tel.: +44 (0) 141 330 3656; fax: +44 (0) 141 942 6521.
+Copyright © 2013 Federation of European Biochemical Societies. Published by Elsevier B.V.

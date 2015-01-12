@@ -1,0 +1,255 @@
+miR-210 promotes osteoblastic differentiation through inhibition of AcvR1b
+Edited by Zhijie Chang
+Yosuke Mizunoa, Yoshimi Tokuzawaa, Yuichi Ninomiyaa, Ken Yagia, Yukiko Yatsuka-Kanesakia, Tatsuo Sudaa, Toru Fukudab, Takenobu Katagirib, Yasumitsu Kondohd, 1, Tomoyuki Amemiyad, Hideo Tashirod, 2, Yasushi Okazakia, c, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.febslet.2009.06.006
+Under an Elsevier user license
+  Open Archive
+Abstract
+Although microRNAs (miRNAs) are involved in many biological processes, the mechanisms whereby miRNAs regulate osteoblastic differentiation are poorly understood. Here, we found that BMP-4-induced osteoblastic differentiation of bone marrow-derived ST2 stromal cells was promoted and repressed after transfection of sense and antisense miR-210, respectively. A reporter assay demonstrated that the activin A receptor type 1B (AcvR1b) gene was a target for miR-210. Furthermore, inhibition of transforming growth factor-β (TGF-β)/activin signaling in ST2 cells with SB431542 promoted osteoblastic differentiation. We conclude that miR-210 acts as a positive regulator of osteoblastic differentiation by inhibiting the TGF-β/activin signaling pathway through inhibition of AcvR1b.
+
+Abbreviations
+miRNA, microRNA; TGF-β, transforming growth factor-β; AcvR1b, activin A receptor type 1B; Alk, activin-like kinase; ALP, alkaline phosphatase; OC, osteocalcin
+Keywords
+miR-210; Differentiation; Osteoblast; Activin A receptor type 1B
+1. Introduction
+MicroRNAs (miRNAs) are classified as regulatory RNAs, and have been reported to play important roles in the development, proliferation and differentiation of various types of cells. Among the various miRNAs, miR-143 regulates adipocyte differentiation, miR-206 regulates muscle differentiation and miR-133 regulates skeletal differentiation [1], [2] and [3]. miR-223 regulates granulopoiesis by a feedback mechanism and is modulated competitively by the transcription factors nuclear factor I/A (NFI-A) and CCAAT/enhancer binding protein-α (C/EBPα) [4]. miR-223 was also recently reported to regulate osteoclastogenesis in RAW 264.7 cells [5]. Some miRNAs are known to be present in cancer cells and act as oncogenes or tumor suppressor genes [6], [7] and [8]. miR-21 has been reported to be an oncogene that promotes tumor growth by downregulating the tropomyosin 1 tumor suppressor (TPM1) gene [9] and [10]. Expression of miR-17 is regulated by the myelocytomatosis (c-Myc) oncogene and acts as an oncogene by regulating cell proliferation through E2F transcription factor 1 (E2F1) [11] and [12]. On the other hand, the let-7 miRNA suppresses the high mobility group AT-hook 2 (HMGA2) oncogene and acts as a tumor suppressor gene [13]. The let-7 miRNA is also known to suppress cell proliferation [14] and induce regression of colon cancer [15].
+
+Although miRNAs are known to play a number of regulatory roles, little is known about their roles in osteoblastic differentiation. As a functional miRNA, we recently reported that miR-125b negatively regulates osteoblastic differentiation by mediating cell proliferation [16]. However, there are no reports of miRNAs that positively regulate osteoblastic differentiation.
+
+In the present study, we demonstrate positive regulation of osteoblastic differentiation by miR-210. The expression profiles of miRNAs during osteoblastic differentiation of mouse ST2 mesenchymal stem cells were obtained by miRNA microarray analyses, and miR-210 was found to be highly expressed in these cells. Quantitative reverse transcription-polymerase chain reaction (qRT-PCR) confirmed that miR-210 expression was upregulated during osteoblastic differentiation. We also analyzed the function of miR-210 in osteoblastic differentiation by transfection of exogenous miR-210 or its antisense strand into ST2 cells. The miRNA target gene databases MiRanda and TargetScan predicted that the activin A receptor type 1B (AcvR1b; also known as Alk4) gene could be a target for miR-210. The regulatory relationship between miR-210 and AcvR1b was confirmed by reporter assays. The role of transforming growth factor-β (TGF-β)/activin signaling for osteoblastic differentiation in ST2 cells was also validated.
+
+2. Materials and methods
+2.1. Cell culture
+ST2 cells and NRG cells were obtained from the RIKEN BioResource Center (BRC, Tsukuba, Japan) and cultured according to the supplier’s protocols using RPMI-1640 medium and DMEM, respectively, supplemented with 10% fetal bovine serum (FBS).
+
+2.2. Osteoblastic differentiation
+Osteoblastic differentiation was induced by replacing the medium with fresh medium containing 10% FBS and 100 ng/ml of bone morphogenetic protein-4 (BMP-4) (R&D Systems, Minneapolis, MN) every third day. SB431542 (1 μM; Sigma, St. Louis, MO) was added to fresh medium containing the above components for inhibition of TGF-β/activin signaling.
+
+2.3. miRNA microarray analysis
+Small RNA fractions of total RNA were purified using a flashPAGE Fractionator System (Ambion, Austin, TX) and labeled with a mirVana miRNA Labeling Kit (Ambion), followed by loading on a custom-made miRNA array on which a mirVana miRNA Probe Set (Ambion) was printed according to the manufacturer’s instructions. After 16 h of hybridization, the signals were detected by a microarray scanner (G2565BA; Agilent Technologies, Santa Clara, CA) and quantified by the software Feature Extraction ver. 8.1 (Agilent Technologies).
+
+2.4. Alkaline phosphatase (ALP) staining and its measurement
+Cells were fixed with 10% formalin for 20 min, followed by fixation for 1 min in an ice-cold solution of equal volumes of ethanol and acetone, and then washed with phosphate-buffered saline. The ALP staining solution was prepared by dissolving 1 mg of Naphthol AS-MX (Sigma) in one droplet of N,N-dimethylformamide (Wako, Osaka, Japan) and suspending the droplet in 10 ml of 0.1 M Tris–HCl buffer (pH 8.5) containing 2 mM MgCl2. Six micrograms of Fast Blue BB salt (Sigma) was added and the ALP staining solution was filtered. The fixed cells were incubated in the ALP staining solution at 37 °C for 20 min. A p-Nitrophenyl Phosphate Liquid Substrate System (Sigma) was added to determine the ALP activity and the absorbances at 405 nm were measured using an ARVO MX plate reader (Perkin–Elmer, Norwalk, CT). ALP staining and ALP activity measurements were performed in triplicate wells in two independent experiments.
+
+2.5. Cell proliferation assay
+After plating cells and changing to fresh media containing 100 ng/ml BMP-4 and 10% FBS, the total cell count was measured every day for 6 days using a CellTiter 96 AQueous One Solution Cell Proliferation Assay (Promega, Madison, WI) according to the manufacturer’s instructions. The absorbances at 490 nm were measured with an ARVO MX plate reader (Perkin–Elmer). Background absorbances from empty wells were subtracted from those of the sample wells.
+
+2.6. qRT-PCR
+Total RNA was isolated from cultured cells using a Nucleospin column (Machery Nagel, Düren, Germany), according to the manufacturer’s instructions. A mirVana miRNA Isolation Kit (Applied Biosystems, Forster City, CA) was used for purification of miRNAs. The yield and quality of the RNA samples were determined using a NanoDrop spectrometer (NanoDrop Technology, San Diego, CA). The expression levels were measured by qRT-PCR. Total RNA was reverse-transcribed by Transcriptor (Roche, Mannheim, Germany) with oligo-dT primers or specific primers for miR-210 (Applied Biosystems) according to the manufacturer’s instructions. Using the resulting cDNAs as templates, the gene expression levels were measured using an Mx3000P system (Stratagene, La Jolla, CA) and Power SYBR Green PCR Master Mix (Applied Biosystems) according to the manufacturer’s instructions. The primer sequences for measurement of mRNA expression were: 5′-TGGAGAAACCTGCCAAGTATG-3′ (glyceraldehyde phosphate dehydrogenase (GAPDH)-forward); 5′-GGAGACAACCTGGTCCTCAG-3′ (GAPDH-reverse); 5′-CTCTGTCTCTCTGACCTCACAG-3′ (osteocalcin (OC)-forward); 5′-GGAGCTGCTGTGACATCCATAC-3′ (OC-reverse); 5′-CGTCCTCTCTGCTTGAGGAA-3′ (Osterix-forward); 5′-TTCCCCAGGGTTGTTGAGT-3′ (Osterix-reverse); 5′-AACGAGATCGAGCTCAGAGG-3′ (Col1a1-forward); 5′-GGGAGGTCTTGGTGGTTTTG-3′ (Col1a1-reverse); 5′-CTGGCTACAAGGTGGTGGAC-3′ (ALP-forward); 5′-GTCTTCTCCACCGTGGGTCT-3′ (ALP-reverse); 5′-GCTTGGCTTATGGACTGAGG-3′ (Osteopontin-forward); 5′-CGCTCTTCATGTGAGAGGTG-3′ (Osteopontin-reverse); 5′-GAGGGCACAAGTTCTATCTG-3′ (Runx2-forward); 5′-GCTCGGATCCCAAAAGAAG-3′ (Runx2-reverse). Specific primers for miR-210 and U6 (Applied Biosystems) were used for measurement of miRNA expression.
+
+2.7. Transfection
+The sense strand of miR-210 (miR-210) and the antisense strand of miR-210 (anti-miR-210) (Applied Biosystems) were used to promote and inhibit miR-210 activity, respectively. Negative controls were used for both reactions. For transfection, Lipofectamine 2000 (Invitrogen Corp., Carlsbad, CA) was mixed with 20 nM of the above-mentioned RNAs according to the manufacturer′s instructions, and these solutions were directly mixed with ST2 cells in 24-well culture plates at a density of 3.2 × 104 cells/well. For osteoblastic differentiation, the medium was replaced with fresh medium containing 10% FBS and 100 ng/ml of BMP-4 at 4 h after transfection.
+
+2.8. Luciferase reporter assay
+The miR-210 target region of the AcvR1b sequence (5′-ATTCTCCAGACTCAAACGCACAT-3′, part of the NCBI RefSeq ID of NM_007395) or its mutated sequence (5′-ATTCTCCAGAACCAACTATGTCT-3′) was inserted downstream of the pGL4.13 luciferase plasmid (Promega) and the resulting constructs were named pGL4.13-AcvR1b and pGL4.13-AcvR1-mut, respectively. Cotransfection of 200 ng of pGL4.13-AcvR1b or pGL4.13-AcvR1-mut with 20 nM miR-210 or anti-miR-210 was carried out in 24-well plates. A native pGL4.13 luciferase plasmid was cotransfected with the same concentration of miR-210 or anti-miR-210 in separate wells as a control. Twenty nanograms of a Renilla luciferase vector, pGL4.74 (Promega), was also transfected into all samples for normalization. Transfections with all plasmid and RNA combinations were repeated three times. After 48 h, the cells were harvested with PLB reagent (Promega) and the firefly luciferase activity was measured in each well using the LARII substrate and a Dual Luciferase Assay Kit (Promega) with the ARVO MX plate reader. The relative firefly luciferase activity was calculated by normalization to the Renilla luciferase activity.
+
+3. Results
+3.1. Expression of miR-210 is upregulated during osteoblastic differentiation
+To elucidate the differential expression of miRNAs during osteoblastic differentiation, a microarray analysis for miRNAs was performed. We found that the expressions of several miRNAs changed during osteoblastic differentiation (Table 1). Several let-7 family miRNAs, miR-210 and miR-16-1 were listed as upregulated. The let-7 family miRNAs are known to be broadly expressed in many different cells and tissues, and have several known functions. In contrast, the function of miR-210 has been poorly understood to date. Therefore, we focused on the possibility of a regulatory role for miR-210 in osteoblastic differentiation. qRT-PCR with the miRNA measurement protocol was performed to further analyze the expression pattern of miR-210 during osteoblastic differentiation of ST2 cells. As shown in Fig. 1A, miR-210 expression was greatly upregulated at day 12 when ST2 cells were cultured with BMP-4, suggesting its involvement in osteoblastic differentiation of ST2 cells. To test whether the increase in miR-210 was a dose-responsive effect to BMP-4, increasing amounts of BMP-4 were introduced for osteoblastic differentiation. The expression level of miR-210 increased until the BMP-4 concentration reached 50 ng/ml (Fig. 1B), indicating that the induction of miR-210 is BMP-4 dose-dependent. To clarify the time-dependent profiles of cell proliferation and the expression levels of the osteoblastic marker OC, cell proliferation assays and qRT-PCR were performed, respectively. We found that proliferation stopped at 2–3 days after osteoblastic differentiation (Fig. 1C), and that the expression of OC began to increase at 4 days after osteoblastic differentiation (Fig. 1D).
+
+Table 1.
+miRNAs whose expression are changed during osteoblastic differentiation (day 14) comparing to Control (without BMP-4) (1 day).
+miRNA	log 2 ratio (B14/C1)
+Upregulated
+let-7d	2.97
+let-7a-1	2.72
+miR-210	2.20
+let-7f-2	2.16
+let-7f-1	1.79
+miR-16-1	1.65
+let-7b	1.55
+
+Downregulated
+miR-329	−4.31
+miR-122a	−2.01
+miR-23a	−1.12
+miR-147	−1.04
+miR-198	−1.01
+Table options
+Full-size image (43 K)
+Fig. 1. 
+Relative expression of endogenous miR-210 during osteoblastic differentiation of ST2 cells. (A) After plating ST2 cells, BMP-4 was added at a final concentration of 100 ng/ml. Control cells were cultured without BMP-4. Cells were harvested at 2, 6 and 12 days after the addition of BMP-4, and the relative levels of endogenous miR-210 expression at each time point with and without the addition of BMP-4 compared with day 0 were measured by qRT-PCR. Solid bars and white bars indicate cells incubated with and without BMP-4, respectively. Asterisks indicate significant t-test results (P < 0.01). (B) BMP-4 was added in increasing amounts (25, 50, 100 and 250 ng/ml) for 6 days, and the expression levels of miR-210 was measured by qRT-PCR. (C and D) Characterization of cell proliferation and osteocalcin (OC) expression during osteoblastic differentiation of ST2 cells. BMP-4 was added at a concentration of 100 ng/ml, then cell proliferation assays (C) and measurement of osteocalcin expression by qRT-PCR (D) were performed. Solid squares and white triangles indicate cultures with and without BMP-4, respectively.
+Figure options
+3.2. Transfection of miR-210 promotes osteoblastic differentiation of ST2 cells
+To determine whether miR-210 could influence osteoblastic differentiation, miR-210 and anti-miR-210 were individually transfected into ST2 cells and their effects were assessed by observing the ALP activity and expression level of OC transcripts. ALP staining and activity were increased following transfection of miR-210 compared with transfection of control RNA (Fig. 2A and B). OC expression was also increased following miR-210 transfection (Fig. 2C), suggesting that stimulation of miR-210 activity promoted osteoblastic differentiation of ST2 cells. By contrast, transfection of anti-miR-210 reduced the expression of OC (Fig. 2C). The expression levels of other osteoblastic markers, namely osterix and ALP, were also upregulated following transfection with miR-210 (Fig. 2D). These results indicate that miR-210 positively regulates the osteoblastic differentiation of ST2 cells. To examine whether the regulation of osteoblastic differentiation by miR-210 occurs in other osteoblast-like cells, similar experiments were performed using the mouse NRG cell line. We used this cell line because osteoblastic differentiation can be induced at a lower concentration of BMP-4 and within a shorter period compared with the ST2 cell line. As shown in Fig. 2E, the level of ALP activity was elevated when miR-210 was transfected into NRG cells, as observed in ST2 cells, indicating that the promotion of osteoblastic differentiation by miR-210 is not restricted to the ST2 cell line.
+
+Full-size image (70 K)
+Fig. 2. 
+Influences of transfections with miR-210 and anti-miR-210 on osteoblastic differentiation of ST2 cells. miR-210 (sense), anti-miR-210 (antisense) or a negative control (NC) RNA were transfected into ST2 cells and BMP-4 was added 4 h later. ALP staining was performed (A) and the ALP activity was measured (B), and compared with the NC values. (C) The relative expression of OC transcripts was measured after 5 days. (D) qRT-PCR analysis of other bone markers than OC in miR-210-transfected ST2 cells in which osteoblastic differentiation was induced by BMP-4. Osx: osterix; Col1a1: collagen, type 1, alpha 1; OP: osteopontin. (E) Measurement of ALP activity in miR-210-transfected NRG cells in which osteoblastic differentiation was induced by BMP-4 at 25 ng/ml for 4 days. Each experiment was performed in triplicate wells and on two independent days. Asterisks indicate significant t-test results (P < 0.05).
+Figure options
+3.3. AcvR1b is a target of miR-210
+More than 200 genes were predicted by PicTar or TargetScan to be potential target genes for miR-210 [17] and [18]. We focused on AcvR1b ( Fig. 3A), which is a member of the BMP receptor family. In this family, activin-like kinase 2 (Alk2) is known to regulate BMP signal transduction, whereas AcvR1b regulates the TGF-β/activin signaling pathway [19]. We used a luciferase reporter assay system and transfection of sense and antisense strands of miR-210 to determine whether AcvR1b was a target for miR-210, and to investigate its effects on osteoblastic differentiation. To test whether the predicted target sequence in the AcvR1b gene was regulated by miR-210, we cloned the predicted target sequence downstream of the luciferase reporter gene and cotransfected it with miR-210 or anti-miR-210. The relative luciferase activity was reduced by 50% following cotransfection with miR-210 compared with transfection with control RNA ( Fig. 3B). By contrast, transfection with anti-miR-210 slightly increased the luciferase activity, although the difference was not statistically significant. When the targeted sequence of AcvR1b was mutated, the reduction of the luciferase activity by miR-210 was impaired ( Fig. 3C). These results suggest that miR-210 targets the predicted site in the AcvR1b gene.
+
+Full-size image (34 K)
+Fig. 3. 
+Evaluation of targeting of AcvR1b by miR-210. (A) The region of the mouse AcvR1b mRNA 3′ UTR predicted to be targeted by miR-210 (TargetScan 4.1). (B and C) The relative activity of the luciferase reporter of the target sequence of miR-210 in the AcvR1b 3′ UTR after cotransfection of sense or antisense miR-210, compared with the transfection of a negative control (NC) RNA. Part of the AcvR1b 3′ UTR (the predicted target sequence for miR-210) (B) or its mutated sequence (C) was cloned into a luciferase vector and cotransfected with miR-210, anti-miR-210 or an NC RNA. The luciferase activity was measured at 2 days after transfection. Solid bars indicate transfection of miR-210 or anti-miR-210, and white bars indicate transfection of the NC miRNA. Asterisks indicate significant t-test results (P < 0.05).
+Figure options
+3.4. Inhibition of AcvR1b by SB431542 promotes osteoblastic differentiation of ST2 cells
+To further elucidate whether miR-210 promotes osteoblastic differentiation by inhibiting the signaling pathway of AcvR1b, we tried to use the chemical SB431542, which is a specific inhibitor for receptors of TGF-β/activin signaling [19] and [20]. Following addition of SB431542, ALP activity and OC expression were both elevated (Fig. 4A and B). These results suggest that osteoblastic differentiation of ST2 cells is promoted by downregulation of the TGF-β/activin signaling pathway. Taken together, the inhibition of TGF-β/activin signaling by either miR-210 or SB431542 promotes osteoblastic differentiation of ST2 cells.
+
+Full-size image (17 K)
+Fig. 4. 
+Inhibition of TGF-β/activin signaling by SB431542 promotes osteoblastic differentiation. The culture medium was changed to fresh medium containing SB431542, an inhibitor of TGF-β/activin signaling, at 4 h and 3 days after plating of ST2 cells. The relative ALP activity (A) and relative expression of OC transcripts (B) compared with mock vector treatment were measured on day 6. Solid and white bars indicate cultures with and without SB431542, respectively. Asterisks indicate significant t-test results (P < 0.05).
+Figure options
+4. Discussion
+Osteoblastic differentiation of mesenchymal stem cells can be strongly induced by BMPs [21]. The involvement of miRNAs in various cellular events suggests that they could also have a regulatory function in osteoblast differentiation. However, the regulatory mechanisms of miRNAs in osteoblast proliferation and differentiation are currently poorly understood. We recently reported that miR-125b downregulated osteoblastic differentiation through inhibition of cell proliferation [16]. In that study, in vitro cell proliferation was inhibited when miR-125b was transfected, and osteoblastic differentiation was inhibited owing to the low density of the differentiating cells. That study was the first to demonstrate a function of miRNAs in regulating osteoblastic differentiation. miR-133 and miR-135 have subsequently been reported to inhibit BMP-2-induced osteoblastic differentiation by directly targeting the genes for Runx2 and Smad5 [22]. However, the miRNAs studied to date all act as inhibitors of osteoblastic differentiation, and no positive regulation by miRNAs has been reported.
+
+The miRNA array data showed that miR-210 was upregulated during osteoblastic differentiation. Furthermore, the present results showed that miR-210 positively regulated osteoblastic differentiation of mouse mesenchymal ST2 cells. A recent study found that miR-210 was induced by hypoxia and involved in cell cycle regulation through targeting of E2F transcription factor 3 [23] and [24]. These results suggest that miR-210 could be involved in cell proliferation in cancer and under hypoxic conditions. However, the effects of miR-210 on cell differentiation have not been reported.
+
+The results of the present study indicate that miR-210 was able to positively regulate osteoblastic differentiation via targeting of the TGF-β/activin signaling pathway. AcvR1b is a type I receptor which, together with the type II receptor ActRII, transmits signals from activin. When activated, this receptor is known to transmit signals to the receptor-regulated Smads (R-smad) Smad2 and 3, but not Smad1, 5 or 8, through their phosphorylation, resulting in the transcription of genes that function as inhibitory regulators of proliferation. BMP signals, however, are transmitted via other receptors, such as AcvR1 (Alk2), Bmpr1a (Alk3) and Bmpr1b (Alk6) and their signals are transmitted to Smad1, 5 and 8, thereby initiating osteoblastic differentiation. It has been reported that Smad2/3 and Smad1/5/8 signaling can interfere with each other by competitive binding to a co-Smad, Smad4 [19]. Inhibition of Smad2/3 signaling is known to activate Smad1/5/8 signaling, resulting in acceleration of osteoblastic differentiation [19] and [20]. MiRanda and TargetScan both predicted that Acvr1b is a target gene for miR-210 in mice and humans. Therefore, we considered the possibility that the promotion of osteoblastic differentiation associated with the stimulation of miR-210 activity arose through its inhibition of AcvR1b. Regulation of the predicted 3′ UTR region of AcvR1b by miR-210 was demonstrated by luciferase reporter assays, and inhibition of AcvR1b was associated with increased osteoblastic differentiation in our culture system using the ST2 bone marrow-derived cell line. Thus the promotion of osteoblast differentiation by miR-210 could be explained by inhibition of the TGF-β/activin signaling pathway, through targeting of AcvR1b. Our results could provide an important step toward resolving bone disorders, such as osteoporosis. Elucidation of the roles of miRNAs in osteoblast regulation in vivo could help to clarify the mechanisms of bone metabolism and turnover.
+
+Acknowledgments
+We thank Mai Kitazato, Shino Okumura and Megumi Otsu for their technical assistance. We also thank Yutaka Nakachi, Shigeki Arai and Riki Kurokawa for their helpful discussions. This work was supported by grants for the Genome Network Project from the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan to Y.O., and also in part by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan, and in particular by a Ministry Grant to Saitama Medical University, Research Center for Genomic Medicine.
+
+References
+[1]
+C. Esau, X. Kang, E. Peralta, E. Hanson, E.G. Marcusson, L.V. Ravichandran et al.
+MicroRNA-143 regulates adipocyte differentiation
+J. Biol. Chem., 279 (2004), pp. 52361–52365
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (468)
+[2]
+H.K. Kim, Y.S. Lee, U. Sivaprasad, A. Malhotra, A. Dutta
+Muscle-specific microRNA miR-206 promotes muscle differentiation
+J. Cell Biol., 174 (2005), pp. 677–687
+
+[3]
+J.F. Chen, E.M. Mandel, J.M. Thomson, Q. Wu, T.E. Callis, S.M. Hammond et al.
+The role of microRNA-1 and microRNA-133 in skeletal muscle proliferation and differentiation
+Nat. Genet., 38 (2006), pp. 228–233
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (959)
+[4]
+F. Fazi, A. Rosa, A. Fatica, V. Gelmetti, M.L. De Marchis, C. Nervi et al.
+A minicircuitry comprised of microRNA-223 and transcription factors NFI-A and C/EBPα regulates human granulopoiesis
+Cell, 123 (2005), pp. 819–831
+
+Article |  PDF (793 K) | View Record in Scopus | Citing articles (528)
+[5]
+T. Sugatani, K.A. Hruska
+MicroRNA-223 is a key factor in osteoclast differentiation
+J. Cell Biochem., 101 (2007), pp. 996–999
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+[6]
+Y. Hayashita, H. Osada, Y. Tatematsu, H. Yamada, K. Yanagisawa, S. Tomida et al.
+A polycistronic microRNA cluster, miR-17–92, is overexpressed in human lung cancers and enhances cell proliferation
+Cancer Res., 65 (2005), pp. 9628–9632
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (763)
+[7]
+B. Zhang, X. Pan, G.P. Cobb, T.A. Anderson
+MicroRNAs as oncogenes and tumor suppressors
+Dev. Biol., 302 (2007), pp. 1–12
+
+Article |  PDF (507 K) | View Record in Scopus | Full Text via CrossRef
+[8]
+Y.S. Lee, A. Dutta
+MicroRNAs: small but potent oncogenes or tumor suppressors
+Curr. Opin. Investig. Drugs, 7 (2006), pp. 560–564
+
+View Record in Scopus | Citing articles (47)
+[9]
+S. Zhu, M.L. Si, H. Wu, Y.Y. Mo
+MicroRNA-21 targets the tumor suppressor gene tropomyosin 1 (TPM1)
+J. Biol. Chem., 282 (2007), pp. 14328–14336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (531)
+[10]
+M.L. Si, S. Zhu, H. Wu, Z. Lu, F. Wu, Y.Y. Mo
+MiR-21-mediated tumor growth
+Oncogene, 26 (2007), pp. 2799–2803
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (662)
+[11]
+K.A. O’Donnell, E.A. Wentzel, K.I. Zeller, C.V. Dang, J.T. Mendell
+C-Myc-regulated microRNAs modulate E2F1 expression
+Nature, 435 (2005), pp. 839–843
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1491)
+[12]
+J.T. Mendell
+MicroRNAs: critical regulators of development, cellular physiology and malignancy
+Cell Cycle, 4 (2005), pp. 1179–1184
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+[13]
+Y.S. Lee, A. Dutta
+The tumor suppressor microRNA let-7 represses the HMGA2 oncogene
+Genes Dev., 21 (2007), pp. 1025–1030
+
+Full Text via CrossRef
+[14]
+C.D. Johnson, A. Esquela-Kerscher, G. Stefani, M. Byrom, K. Kelnar, D. Ovcharenko et al.
+The let-7 microRNA represses cell proliferation pathways in human cells
+Cancer Res., 67 (2007), pp. 7713–7722
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (520)
+[15]
+Y. Akao, Y. Nakagawa, T. Naoe
+Let-7 microRNA functions as a potential growth suppressor in human colon cancer cells
+Biol. Pharm. Bull., 29 (2006), pp. 903–906
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (300)
+[16]
+Y. Mizuno, K. Yagi, Y. Tokuzawa, Y. Kanesaki-Yatsuka, T. Suda, T. Katagiri et al.
+MiR-125b inhibits osteoblastic differentiation by down-regulation of cell proliferation
+Biochem. Biophys. Res. Commun., 368 (2008), pp. 267–272
+
+Article |  PDF (191 K) | View Record in Scopus | Citing articles (106)
+[17]
+A. Krek, D. Grün, M.N. Poy, R. Wolf, L. Rosenberg, E.J. Epstein et al.
+Combinatorial microRNA target predictions
+Nat. Genet., 37 (2005), pp. 495–500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2008)
+[18]
+B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge
+Prediction of mammalian microRNA targets
+Cell, 115 (2003), pp. 787–798
+
+Article |  PDF (342 K) | View Record in Scopus | Citing articles (2189)
+[19]
+K. Miyazono, S. Maeda, T. Imamura
+BMP receptor signaling: transcriptional targets, regulation of signals, and signaling cross-talk
+Cytokine Growth Factor Rev., 16 (2005), pp. 251–263
+
+Article |  PDF (436 K) | View Record in Scopus | Citing articles (391)
+[20]
+S. Maeda, M. Hayashi, S. Komiya, T. Imamura, K. Miyazono
+Endogenous TGF-β signaling suppresses maturation of osteoblastic mesenchymal cells
+EMBO J., 23 (2004), pp. 552–563
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (152)
+[21]
+A. Yamaguchi, T. Komori, T. Suda
+Regulation of osteoblast differentiation mediated by bone morphogenetic proteins, hedgehogs, and Cbfa1
+Endocr. Rev., 221 (2000), pp. 393–411
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (397)
+[22]
+Z. Li, M.Q. Hassan, S. Volinia, A.J. van Wijnen, J.L. Stein, C.M. Croce et al.
+A microRNA signature for a BMP2-induced osteoblast lineage commitment program
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 13906–13911
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (152)
+[23]
+C. Camps, F.M. Buffa, S. Colella, J. Moore, C. Sotiriou, H. Sheldon et al.
+Hsa-miR-210 is induced by hypoxia and is an independent prognostic factor in breast cancer
+Clin. Cancer Res., 14 (2008), pp. 1340–1348
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (272)
+[24]
+A. Giannakakis, R. Sandaltzopoulos, J. Greshock, S. Liang, J. Huang, K. Hasegawa et al.
+MiR-210 links hypoxia with cell cycle regulation and is deleted in human epithelial ovarian cancer
+Cancer Biol. Ther., 7 (2008), pp. 255–264
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+Corresponding author contact information
+Corresponding author. Address: Division of Translational Research, Research Center for Genomic Medicine, Saitama Medical University, 1397-1 Yamane, Hidaka 350-1241, Japan. Fax: +81 42 984 0349.
+1
+Present address: Antibiotics Laboratory, RIKEN.
+2
+Present address: Nano Medical Engineering Laboratory.
+Copyright © 2009 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.

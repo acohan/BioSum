@@ -1,0 +1,442 @@
+Hexokinase 2 Is Required for Tumor Initiation and Maintenance and Its Systemic Deletion Is Therapeutic in Mouse Models of Cancer
+Krushna C. Patra1, Qi Wang1, 9, Prashanth T. Bhaskar1, 9, Luke Miller1, Zebin Wang1, Will Wheaton2, Navdeep Chandel2, Markku Laakso3, William J. Muller4, Eric L. Allen5, Abhishek K. Jha5, Gromoslaw A. Smolen5, Michelle F. Clasquin5, R. Brooks Robey6, 7, Nissim Hay1, 8, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.ccr.2013.06.014
+Get rights and content
+Referred to by
+Krushna C. Patra, Qi Wang, Prashanth T. Bhaskar, Luke Miller, Zebin Wang, Will Wheaton, Navdeep Chandel, Markku Laakso, William J. Muller, Eric L. Allen, Abhishek K. Jha, Gromoslaw A. Smolen, Michelle F. Clasquin, R. Brooks Robey, Nissim Hay
+Hexokinase 2 Is Required for Tumor Initiation and Maintenance and Its Systemic Deletion Is Therapeutic in Mouse Models of Cancer
+Cancer Cell, Volume 24, Issue 3, 9 September 2013, Page 399
+ PDF (34 K)
+Highlights
+•
+HK2 deletion exerts resistance to oncogenic transformation
+•
+HK2 deletion selectively targets cancer cells
+•
+Systemic deletion of HK2 is well tolerated and therapeutic for cancer l
+•
+HK2 is required for glucose-derived and glutamine in utilization in anaplerosis
+Summary
+Accelerated glucose metabolism is a common feature of cancer cells. Hexokinases catalyze the first committed step of glucose metabolism. Hexokinase 2 (HK2) is expressed at high level in cancer cells, but only in a limited number of normal adult tissues. Using Hk2 conditional knockout mice, we showed that HK2 is required for tumor initiation and maintenance in mouse models of KRas-driven lung cancer, and ErbB2-driven breast cancer, despite continued HK1 expression. Similarly, HK2 ablation inhibits the neoplastic phenotype of human lung and breast cancer cells in vitro and in vivo. Systemic Hk2 deletion is therapeutic in mice bearing lung tumors without adverse physiological consequences. Hk2 deletion in lung cancer cells suppressed glucose-derived ribonucleotides and impaired glutamine-derived carbon utilization in anaplerosis.
+
+Graphical Abstract
+Full-size image (28 K)
+Figure options
+Significance
+The feasibility of systemic targeting glycolytic enzymes for cancer therapy is unproven, but hexokinases, which catalyze the first committed step of glucose metabolism, are attractive candidate targets for such intervention. Targeting HK2, which is highly expressed in glycolytic cancer cells and not in normal cells, could selectively target cancer cells. Using genetic approaches, we showed that HK2 is required for tumor initiation and maintenance, and its deletion is therapeutic for cancer. To emulate drug therapy, we showed that systemic whole-body deletion of Hk2 in the mouse is feasible and that it selectively targets cancer cells. Thus, we provided a proof of concept, using genetic approaches, that HK2 is an attractive target for cancer therapy.
+
+Introduction
+Accelerated glucose metabolism under aerobic conditions is one of the hallmarks of cancer cells. The elevated glucose metabolism is required to provide sufficient amounts of metabolic intermediates to support anabolic processes, such as nucleic acid, lipid, and protein synthesis in the rapidly dividing cancer cells (for review, see Lunt and Vander Heiden, 2011 and Schulze and Harris, 2012). The dependency of cancer cell proliferation on accelerated glucose metabolism distinguishes them from their normal counterparts and could render them more vulnerable to the disruption of glucose metabolism. Therefore, cancer cells could be selectively targeted by the disruption of intracellular glucose metabolism. However, it unclear whether it is feasible to inhibit enzymatic activities required for glucose metabolism, at the organism level, and to selectively target cancer cells without adverse physiological consequences. The identification of isoform-specific contributors to cancer cell glucose metabolism that could be selectively targeted to disadvantage cancer cells without compromising systemic homeostasis or corresponding metabolic functions in normal cells could make such an approach feasible.
+
+Hexokinases (HKs) catalyze the first committed step in glucose metabolism, i.e., the ATP-dependent phosphorylation of glucose (Glc) to yield glucose-6-phosphate (G6P). Four major hexokinase isoforms, encoded by separate genes, are expressed in mammalian tissues: HK1, HK2, HK3, and HK4 (also known as glucokinase) (Robey and Hay, 2006). By catalyzing the phosphorylation of Glc to G6P, hexokinases promote and sustain a concentration gradient that facilitates glucose entry into cells and the initiation of all major pathways of glucose utilization. Therefore, hexokinases influence both the magnitude and the direction of glucose flux within cells. Although the four HKs share many common biochemical properties, their intrinsic enzymatic activity and their tissue distribution distinguish them from each other. HK1, HK2, and HK3 are high-affinity isoforms, but HK3 is inhibited by physiological concentrations of glucose (Wilson, 2003). The high-affinity hexokinases are inhibited by excess of G6P. Glucokinase is a low-affinity hexokinase, which is not inhibited by G6P and is mainly expressed in liver and pancreas. The two high-affinity hexokinases, HK1 and HK2, are associated with mitochondria and were also implicated in cell survival (Gottlob et al., 2001 and Majewski et al., 2004). HK1 is constitutively expressed in most mammalian adult tissues. HK2, however, although abundantly expressed in embryonic tissues, is expressed at high levels only in a limited number of adult tissues, such as adipose, skeletal, and cardiac muscles (Wilson, 2003). However, cancer cells express high levels of HK2 (Mathupala et al., 2001 and Shinohara et al., 1994), which distinguishes them from the normal cells and is, at least in part, responsible for the accelerated glucose flux. The high level of HK2 expression and activity in glycolytic cancers are manifested by the use of positron emission tomography (PET) to visualize tumors. PET is used following injection of the labeled glucose analog, [18F]fluoro-2-deoxyglucose (FDG), which is then taken up by glycolytic cancer cells and phosphorylated by hexokinase to form FDG-phosphate, which can be detected by PET. The phosphorylation by hexokinase is required for the retention of FDG in the cancer cells. Given its selective overexpression in cancer cells and its restricted distribution of expression in normal adult tissues, HK2 constitutes an attractive potential selective target for cancer therapy.
+
+The studies described here are aimed at elucidating the role of HK2 in tumor initiation and maintenance of KRas-driven non-small cell lung cancer (NSCLC) and ErbB2-driven breast cancer and to provide a proof of concept that HK2 can be systemically deleted for cancer therapy with no adverse physiological consequences.
+
+Results
+HK2 Is Required for Oncogenic Transformation
+Germline deletion of Hk2 in the mouse causes early embryonic lethality ( Heikkinen et al., 1999). Therefore, we used Hk2flox/flox(Hk2f/f) mice for our studies ( Figure S1A available online). Mouse embryonic fibroblasts (MEFs) generated from these mice were immortalized with dominant-negative p53 (DNp53) and were subjected to adenovirus expressing Cre recombinase (Ad-Cre) infection to delete Hk2 and to generate Hk2−/− MEFs ( Figure 1A). To determine the requirement of HK2 for oncogenic transformation, the cells were subjected to oncogenic Ras. Interestingly, oncogenic Ras expression markedly elevated HK2 expression ( Figure 1A), and both PI3K and MAPK signaling contributes to this elevated expression ( Figure S1B). Hk2 deletion impaired oncogenic transformation as measured by anchorage-independent growth on soft agar ( Figure S1C). Notably, Hk2 deletion by Cre was not complete, and a residual expression of HK2 is still observed especially in the presence of activated Ras ( Figure 1A). Furthermore, the cells also express HK1 and therefore total hexokinase activity in the Ras-transformed cells was reduced by approximately 70% and glucose consumption was reduced by approximately 50% ( Figures 1B and 1C), and without a compensatory expression of the glucose transporter, GLUT1 ( Figure S1D). However, the deletion of Hk2 after the expression of oncogenic Ras was sufficient to profoundly reverse oncogenic transformation ( Figure 1D). Finally, Hk2 deletion in oncogenic Ras-transformed cells markedly impaired tumor growth in vivo in xenograft assays ( Figure 1E). Re-expression of WT HK2 in Hk2−/− MEFs restored their susceptibility to tumorigenesis in vivo, whereas a kinase-dead mutant of HK2 could not ( Figures 1F, S1E, and S1F). Thus, both HK2 expression and activity are required for oncogenic transformation of MEFs and cannot be compensated by the presence of physiological level of HK1.
+
+Full-size image (62 K)
+Figure 1. 
+HK2 Is Required for Oncogenic Transformation
+(A) Immortalized Hk2f/f MEFs following infection with either Ad-Cre or Ad-LacZ, as a control, were established and stably infected with a retrovirus expressing oncogenic HRasV12. Cell extracts were subjected to immunoblotting with anti-HK2 or anti-HK1 antibodies. Control undeleted cells are denoted Hk2f/f and Hk2-deleted cells are denoted Hk2−/−.
+(B) Relative total hexokinase activity in Ras-transformed Hk2f/f and Hk2−/− MEFs.
+(C) Relative glucose consumption in Ras-transformed Hk2f/f and Hk2−/− MEFs. Data represent the percentage of glucose consumed by Ras-transformed Hk2−/− MEFs compared with Ras-transformed Hk2f/f MEFs after culturing for 18h and after adjusting for cell number.
+(D) Average number of colonies generated by Ras-transformed Hk2f/f and Hk2−/− MEFs after 6 weeks of growth on soft agar.
+(E) The effect of Hk2 deletion on tumorigenesis in vivo. Ras-transformed Hk2f/f and Hk2−/− MEFs were injected subcutaneously into athymic nude mice, and tumor size was calculated. Left: representative tumor images of Ras-transformed Hk2f/f and Hk2−/− MEFs (scale bars 1 cm). Right: average tumor size formed by Ras-transformed Hk2f/f and Hk2−/− MEFs (n = 4 tumors per each cell type).
+(F) The requirement of HK2 activity for tumorigenesis in vivo. Ras-transformed Hk2−/− MEFs stably expressing WT or kinase-dead HK2, and Ras-transformed Hk2f/f or Hk2−/− control MEFs were subjected to tumorigenesis in vivo as described in E. Tumor size was calculated when tumor size of control Ras-transformed Hk2f/f MEFs reached approximately 2 cm3 (n = 4 tumors per each cell type).
+(B–F) Data are mean ± SEM. ∗∗∗p ≤ 0.001. ∗∗p ≤ 0.01. ∗p ≤ 0.05. See also Figure S1.
+Figure options
+HK2 Is Required for Lung and Breast Cancer Development in Mouse Models
+The results described above used MEFs, which normally express HK2. However, although HK2 is expressed at relatively high levels in embryonic tissues, the major expression in adult tissues is largely restricted to muscle and adipose (Wilson, 2003). To address the role of HK2 in tumorigenesis in adult tissues in vivo, we used mouse models of NSCLC induced by activated KRas, and a mouse model for breast cancer induced by activated ErbB2/Neu. KRas is an oncogenic driver of human NSCLC and ErbB2/neu is an oncogenic driver of human breast cancer. We first isolated lung tissues from control WT or tumor-bearing KRas mutant mice. Normal lungs express HK1 but do not express detectable HK2 protein. In contrast, HK2 protein expression was markedly elevated in the individual tumors isolated from KRas-induced mice lung tumors, without any significant change in HK1 protein level (Figure 2A). We therefore used KRasLSL-G12D mice, a well-characterized mouse model for NSCLC ( Jackson et al., 2001). We crossed KRasLSL-G12D mice with Hk2f/f mice to generate KRasLSL-G12D;Hk2f/f mice. In these mice, exposure to Ad-Cre, through intubation, induces activated KRas expression with concomitant deletion of Hk2. Control KRasLSL-G12D and KRasLSL-G12D;Hk2f/f mice were subjected to Ad-Cre and were killed 4 months after exposure to Ad-Cre. Lung tissues were isolated to determine tumor burden, individual tumor size, tumor number, proliferation, and apoptosis. Total tumor burden was markedly reduced in KRasLSL-G12D;Hk2f/f mice compared with KRasLSL-G12D mice ( Figures 2B and 2C). Moreover, the average tumor size was significantly smaller in KRasLSL-G12D;Hk2f/f mice ( Figure 2D). The average number of lesions was reduced in KRasLSL-G12D;Hk2f/f mice but is not statistically significant ( Figure 2E). This effect of Hk2 deletion is largely due to impaired proliferation as measured by BrdU incorporation ( Figure 2F). No significant increase in cell death, as measured by caspase 3 cleavage, was observed (data not shown). We concluded that HK2 is required for full oncogenic KRas-driven lung tumorigenesis. Tumors isolated from the KRasLSL-G12D;Hk2f/f mice had residual expression of HK2, possibly due to incomplete deletion, but no significant change in HK1 expression was observed ( Figure 2G). Taken together, these results suggest that small lesions could be developed, even at very low level of HK2 expression, but cannot be further developed into large tumors. This was manifested by the striking effects of Hk2 deletion not only on KRasLSL-G12D mouse tumor burden, but also on overall mortality. Kaplan-Meier survival curves reveal profoundly delayed mortality of KRasLSL-G12D;Hk2f/f mice relative to KRasLSL-G12D mice. In addition, more than 50% of HK2-deficient KRasLSL-G12D;Hk2f/f mice were still alive 250 days following Ad-Cre exposure, a time point corresponding to 100% mortality in HK2-expressing KRasLSL-G12D mice ( Figure 2H).
+
+Full-size image (102 K)
+Figure 2. 
+HK2 Is Required for the Development of Oncogenic Kras-Driven NSCLC in Mice, and Its Deletion Extends the Life Span of These Mice
+(A) Tissue lysates from lungs of control KRasLSL-G12D mice or from tumors in lungs of KRasLSL-G12D mice after exposure to Ad-Cre were subjected to immunoblotting with anti-HK2 or anti-HK1 antibodies. Ad-Cre-treated KRasLSL-G12D and KRasLSL-G12D;Hk2f/f mice are denoted as Hk2+/+ and Hk2−/−, respectively.
+(B) Sixteen weeks after Cre instillation to induce lung tumors, lung sections were subjected to H&E staining (scale bar 4 mm).
+(C) Percentage tumor burden calculated from the H&E-stained sections of tumor-bearing lungs from KRasLSL-G12D mice (n = 8) or KRasLSL-G12D;Hk2f/f mice (n = 8).
+(D) Average tumor size per lungs of KRasLSL-G12D (n = 7) or KRasLSL-G12D;Hk2f/f (n = 8) mice.
+(E) Tumor number calculated from the H&E-stained sections of tumor-bearing lungs from KRasLSL-G12D (n = 8) or KRasLSL-G12D;Hk2f/f (n = 8) mice.
+(F) Average number of BrdU-positive cells per field as calculated from 40× magnification of tumor sections. At least 10 fields of KRasLSL-G12D or KRasLSL-G12D;Hk2f/f lungs from three different mice were used for this analysis.
+(G) Immunoblot showing HK2 and HK1 expression in tumors obtained from KRasLSL-G12D or KRasLSL-G12D;Hk2f/f lungs.
+(H) Kaplan-Meier survival curves of lung tumor-bearing KRasLSL-G12D or KRasLSL-G12D;Hk2f/f mice after exposure to Ad-Cre at 8 weeks of age; p values and median survival (t = 50), for the indicated genotypes were calculated by log-rank test.
+(C–F) Data are mean ± SEM.
+Figure options
+We found that HK2 expression is also markedly elevated in tumor tissues of mouse models of breast cancer, whereas it is hardly detected in the normal mammary gland (Figure 3A). We therefore crossed MMTV-Neu-IRES-Cre (MMTVNIC) mice, which coexpress activated Neu and Cre in the mammary gland with Hk2f/f mice. MMTVNIC transgenic mice develop mammary gland tumors with a complete penetrance ( Ursini-Siegel et al., 2008). As shown in Figure 3B, all the MMTVNIC (NIC;Hk2+/+) mice developed tumors with an onset of less than 20 weeks. Hk2 deletion delayed the onset of tumor appearance and had a striking effect on the incidence of tumors. At the time when 100% of NIC;Hk2+/+ mice developed tumors more than 60% of MMTVNIC; Hk2f/f (NIC;Hk2f/f) mice remained tumor free ( Figure 3B). Furthermore, when tumors isolated from NIC;Hk2f/f mice were analyzed for HK2 expression, they display comparable levels of HK2 with that observed in tumors derived from NIC;Hk2+/+ ( Figure 3C). Thus, these tumors were originated from cells in which Hk2 was not efficiently deleted, suggesting that if, Hk2 would be completely deleted in all the mammary cells, which express activated Neu, the outcomes would have been even more substantial.
+
+Full-size image (39 K)
+Figure 3. 
+HK2 Is Required for the Development of ErbB2/Neu-Driven Mammary Tumors in Mice
+(A) Immunoblot showing HK2 expression in tissue lysates from normal mammary gland or mammary gland tumors isolated from MMTVNeuT and MMTVPyMT mice.
+(B) Kaplan-Meier curves of percentage tumor-free survival of MMTVNIC (NIC;Hk2+/+) and MMTVNIC;Hk2f/f (NIC;Hk2f/f) mice. The p value was calculated by log-rank test.
+(C) Immunoblot showing HK2 expression in tumor lysates obtained from mice with the indicated genotypes.
+Figure options
+Taken together, these results provided compelling evidence that HK2 is required for both oncogenic KRas-driven lung tumorigenesis and ErbB2-driven mammary gland tumorigenesis in vivo.
+
+HK2 Ablation Reverses Tumorigenesis In Vitro and In Vivo of NSCLC and Breast Cancer Cells
+To determine whether HK2 expression is also elevated in human patient samples, we analyzed tumor tissue microarray (TMA) of human NSCLC. Immunohistochemical staining showed that HK2 expression is markedly and significantly elevated in tumor samples of NSCLC compared with adjacent normal lung tissue and that the higher HK2 expression level is correlated with the pathological grade of the tumors (Figure 4A). To further assess the prognostic significance of high HK2 expression in human patients, we analyzed a previously generated microarray dataset comprising a large number of human NSCLC patients (Shedden et al., 2008). We found that high HK2 expression is significantly (p = 0.0025) associated with poor prognosis of these individuals (Figure S2A). We therefore examined the ability of HK2 ablation to reverse tumorigenicity of human lung cancer cell lines. For this purpose, we have generated lentiviral vector expressing HK2-specific shRNA, which efficiently silenced HK2 in the human cancer cells ( Figure 4B). This shRNA was selected from several other shRNAs as the most efficient one ( Figure S2B). Expression of rat HK2, which is resistant to silencing by the human HK2 shRNA, restores the proliferation of the knockdown cells, indicating that the effect of the shRNA is specific to HK2 ( Figure S2C). Interestingly, overexpression of HK1 could also restore proliferation to some extent ( Figure S2D). All the NSCLC cell lines tested express HK1 ( Figure 4B), but the knockdown of HK2 significantly and markedly decreased the proliferation of three human NSCLC cell lines tested despite HK1 expression ( Figure S2E). Importantly, the knockdown of HK2 markedly attenuated the ability of all NSCLC cell lines tested to grow in an anchorage-independent manner ( Figure 4C). We then expressed doxycycline (DOX)-inducible HK2 shRNA in H460 cells ( Figure 4D). The inducible knockdown reduced the proliferation rate of these cells to a similar extent as the noninducible knockdown ( Figure S2F) with a modest increase in cell death ( Figure S2G). The cells were then inoculated into nude mice. When tumors reached approximately 65mm3 in volume, experimental mice groups were subjected to DOX in the diet. As shown in Figure 4E, the induction of HK2 silencing by DOX substantially attenuated the growth of the tumors. We ruled out the possibility that the attenuated tumor growth is due to a potential DOX toxicity because a similar attenuated tumor growth occurred when we compared the tumor growth of cells expressing DOX-inducible HK2 shRNA with that of cells expressing DOX-inducible scrambled shRNA after DOX treatment ( Figure S2H). Tumors isolated from treated and untreated mice, at the endpoint of the study, showed no significant change in HK2 level ( Figure 4F), suggesting that the cells, which gave rise to these tumors, escaped the knockdown. We therefore analyzed the tumors one week after DOX treatment and found a substantial silencing of HK2 expression ( Figure 4G), and reduced BrdU incorporation ( Figure 4H), further supporting that the tumors observed at a later stage were derived from cells that escaped the knockdown of HK2. Because of the remarkable effect of HK2 silencing on tumor growth and because the tumors that appeared after induction of HK2 silencing escaped silencing, we predict that a more effective HK2 silencing would completely block tumor growth.
+
+Full-size image (146 K)
+Figure 4. 
+HK2 silencing reverses tumorigenesis of NSCLC cells in vitro and in vivo
+(A) Left: immunohistochemical staining of HK2 expression in representative human NSCLC patient samples TMA correlates with the pathological grade of the disease (scale bar 1 mm). Right: quantification of HK2 staining intensity in accordance with the pathological grade. TMA samples analyzed are as follows: 20 nontumor, 22 grade 1, 44 grade 2, and 14 grade 3. Box plots represent the 25th to 75th percentiles (boxes) with median and the whiskers represent the maximum and the minimum value.
+(B) Immunoblot showing the level of HK2 and HK1 protein expression in a panel of human NSCLC cells stably expressing either shRNA targeting HK2 or LacZ shRNA as control.
+(C) Equal numbers of either control or HK2 knockdown cells were subjected to soft-agar assay, and colonies were counted after 3 weeks. Data are expressed as the mean of three independent experiments ± SEM (p ≤ 0.002).
+(D) Immunoblot showing HK2 protein level in NCI-H460 cells expressing an inducible control or HK2 shRNA. The cells were exposed to vehicle or 500 ng/ml DOX for 96 hr before analysis.
+(E) NCI-H460 cells (0.75 × 106) were injected subcutaneously into athymic nude mice. When tumor size reached ∼65 mm3, mice were fed DOX-containing diet (n = 8) or normal chow diet (n = 7), and tumor growth was followed until tumor size reached 1.5–2 cm3.
+(F) At the end of the experiment described in E, tumor lysates were subjected to immunoblotting with anti-HK2 antibodies.
+(G) Immunoblot showing HK2 protein levels in tumor lysates harvested 1 week after exposure to the DOX diet.
+(H) BrdU incorporation in tumors 1 week after exposure to DOX diet.
+(I) Deletion of Hk2 in NSCLC cell line derived from KRasLA2-G12D;Hk2f/f mice.
+(J) Cell proliferation after Hk2 deletion in the NSCLC cell line derived from KRasLA2-G12D;Hk2f/f mice.
+(C, E, H, and J) Data are mean ± SEM. See also Figure S2.
+Figure options
+To determine whether HK2 ablation could reverse the tumorigenic phenotype of the murine lung cancer cells, we crossed KRasLA2-G12D mice ( Johnson et al., 2001) with Hk2f/f mice and generated cell lines derived from the lung tumors developed in these mice. These primary tumor cell lines expressed HK2 like their tumor counterparts (data not shown). The lung cancer cell lines were infected with either adenovirus expressing LacZ or Cre. Efficient deletion of Hk2 was observed in the cells ( Figure 4I). Hk2 deletion in KRasLA2-G12D cells markedly reduced the proliferation of the cells ( Figure 4J).
+
+As in NSCLC, HK2 expression is markedly elevated in human breast cancer tissues, and its expression level is correlated with the pathological stage of the tumors (Figure 5A). Again, the analysis of an available human breast cancer dataset (van de Vijver et al., 2002) showed that high HK2 expression is significantly associated with high mortality of the patients (Figure S3A). We therefore silenced HK2 expression in multiple breast cancer cell lines (Figure 5B) and found that it markedly affected their ability to grow in an anchorage-independent manner (Figure 5C). Moreover, the knockdown of HK2 in MDA-MB-453 breast cancer cells, which display ERBB2 amplification, impaired their ability to form orthotopic tumors in nude mice ( Figure 5D). We concluded that HK2 ablation could reverse the tumorigenicity of human breast cancer cells in vitro and in vivo.
+
+Full-size image (122 K)
+Figure 5. 
+HK2 Silencing Reverses Tumorigenesis of Breast Cancer Cells In Vitro and In Vivo
+(A) Left: representative images of immunohistochemical staining of HK2 in human breast cancer sample TMA, showing low expression in the stroma and benign tumors and high expression in cancer samples (scale bar 0.5 mm). Right: quantification of HK2 staining intensity in the stroma, benign tumors, and cancer samples: stroma (n = 4), benign (n = 8), tumor (n = 15). Box plots represent the 25th to 75th percentiles (boxes) with median, and the whiskers represent the maximum and the minimum value.
+(B) Immunoblot showing HK2 protein level in a panel of human breast cancer or transformed mammary cells stably expressing either shRNA targeting HK2 or LacZ shRNA as control.
+(C) Equal numbers of control or HK2 knockdown cells were subjected to soft-agar assay, and colonies were counted after 3 weeks. Data are expressed as the mean of three independent experiments ± SEM (p ≤ 0.003).
+(D) Equal numbers of MDA-MB-453 cells stably expressing either HK2 shRNA or control shRNA were injected into the fat pad of the mammary glands of female athymic nude mice. Tumor growth was followed.
+(E) Cells of cell line derived from a mammary tumor of MMTVNeuT;Hk2f/f mice were infected with either Ad-GFP or Ad-Cre-GFP to delete Hk2 and to generate NeuT;Hk2f/f or NeuT;Hk2−/− cells. The cells were then injected orthotopically in female athymic nude mice (six mice per group), and tumor growth was followed until tumor size reached approximately 2 cm3. Bottom: representative images of tumors (scale bar, 1 cm).
+(F) Immunoblot showing HK2 and HK1 protein levels in tumor protein lysates from individual tumors shown in (E).
+(G) Quantification of BrdU incorporation in tumor sections derived from the tumors described in E. The average number of BrdU-positive cells per field was calculated from (40× magnification) of the tumor tissue sections. At least ten fields from three different tumors per each mouse genotype were used for the quantification.
+(D, E, and G) Data are mean ± SEM. See also Figure S3.
+Figure options
+To determine whether HK2 ablation could reverse tumorigenesis of ErbB2-driven mammary tumors, we crossed MMTVNeuT mice ( Muller et al., 1988) with Hk2f/f mice and isolated mammary tumor cell lines from these mice. Hk2 was deleted by Ad-Cre ( Figure S3B), and early passage HK2-proficient or HK2-deficient cells were subjected to orthotopic transplantation. As shown in Figure 5E, the deletion of Hk2 dramatically attenuated tumor growth in vivo. The impaired ability of HK2-deficient cells to form tumors is due to impaired proliferation as verified by a decrease in BrdU incorporation ( Figures 5F and 5G). Thus, these results clearly show that HK2 ablation could reverse the tumorigenicity of tumor cells derived from mouse mammary tumors.
+
+In summary, these results provided strong evidence that the induction of HK2 expression is essential for the neoplastic phenotype of lung and breast cancer cells and that HK2 ablation reverses the tumorigenicity of these cancer cells in vitro and in vivo. This was observed in mouse models of NSCLC and breast cancer and was recapitulated in human NSCLC and breast cancer.
+
+Systemic Hk2 Deletion in Adult Mice Does Not Cause an Overt Phenotype but Reduces Tumor Burden of Lung Cancer
+As was shown above, HK2 is expressed at high levels in cancer cells but is hardly detectable in the corresponding normal tissues from which they were derived. HK2 is expressed as the predominant isoform in only a limited number of adult tissues, such as fat, muscles, and heart (Figure S4A), and mice with 50% deletion of Hk2 do not show an overt phenotype except of mildly impaired glucose homeostasis in response to exercise and high fat diet ( Fueger et al., 2003).
+
+The next question that needed to be addressed is whether systemic whole-body ablation of HK2 can reverse tumorigenesis without eliciting adverse physiological consequences. We therefore crossed Hk2f/f mice with mice, harboring the ubiquitously expressed tamoxifen-inducible Cre (UBCCreERT2) ( Ruzankina et al., 2007) to systemically delete Hk2 in all adult tissues following exposure to tamoxifen. The generated Hk2f/f;UBCCreERT2 mice were treated with tamoxifen when they were 2 months old as previously described ( Ruzankina et al., 2007). As shown in Figure 6A, Hk2 was effectively deleted in adult tissues expressing high levels of HK2, although the deletion was incomplete in some of the tissues. Surprisingly, global HK2 ablation in adult mice was well tolerated, and HK2-deficient mice were indistinguishable from control mice both morphologically and in terms of growth and body weight ( Figure S4B). We then examined whether these mice display impaired glucose homeostasis. Mice globally deficient for HK2 had normal glucose and insulin levels under both fed and fasting conditions and responded normally to glucose tolerance testing ( Figures S4C–S4E). These mice were continuously monitored for over 2 years without development of any overt distinguishing morphological or metabolic phenotypes.
+
+Full-size image (116 K)
+Figure 6. 
+Systemic Deletion of Hk2 in the Mouse Is Therapeutic for Oncogenic KRas-Driven NSCLC
+(A) Immunoblot showing HK2 and HK1 protein expression in tissues isolated from either Hk2f/f or Hk2f/f;UBCCreERT2 mice 2 weeks after final tamoxifen injection.
+(B) Schematic illustration of the experiment described in (C)–(H).
+(C) Representative images of H&E staining of whole-mount lung sections prepared from either KRasLA2-G12D;Hk2f/f or KRasLA2-G12D;Hk2f/f;UBCCreERT2 lungs, 12 weeks after injection of tamoxifen at 8 weeks of age. Individual tumors are indicated by arrows (scale bar, 4 mm).
+(D) Percentage tumor burden as calculated from the H&E sections of tumor-bearing lungs from either KRasLA2-G12D;Hk2f/f or KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice at 20 weeks of age and after injection of tamoxifen at 8 weeks of age (n = 8 per group).
+(E) Tumor numbers calculated from the H&E-stained sections of tumor-bearing lungs from either KRasLA2-G12D;Hk2f/f or KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice (n = 8 per group).
+(F) Size distribution of tumors developed in the lungs of either KRasLA2-G12D;Hk2f/f or KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice (n = 6 per group).
+(G) Immunoblot showing HK2 and HK1 protein levels in tumor lysates extracted at 20 weeks of age, and after tamoxifen injection at 8 weeks of age. Lanes 1–4: tumors were randomly selected for analysis; lanes 5 and 6: tumor size < 0.025 mm2; lanes 7–9: tumor size 0.3–0.05 mm2; lanes 10–14: tumor size 0.05–0.025 mm2.
+(H) Quantification of Ki67 staining of the same size groups of tumors derived from either KRasLA2-G12D;Hk2f/f or KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice.
+(D, E, and H) Data are mean ± SEM. See also Figure S4.
+Figure options
+To test whether systemic ablation of HK2 can reverse tumorigenesis in vivo, we used the KRasLA2-G12D NSCLC mouse model, in which lung tumors are developed with an early onset and complete penetrance ( Johnson et al., 2001). We intercrossed Hk2f/f;UBCCreERT2 and KRasLA2-G12D mice to generate KRasLA2-G12D ;UBCCreERT2, KRasLA2-G12D;Hk2f/f, and KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice. These mice were injected with tamoxifen after tumor lesion onset, at 2 months of age, to systemically delete Hk2. Mice were killed 4 months later, and lungs were analyzed for tumor burden (see schematic diagram in Figure 6B). There was no significant difference in tumor burden among tamoxifen-treated control groups KRasLA2-G12D;Hk2f/f and KRasLA2-G12D ;UBCCreERT2 treated with tamoxifen ( Figure S4F). However, tumor burden was substantially decreased after Hk2 deletion in KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice compared with KRasLA2-G12D;Hk2f/f mice ( Figures 6C and 6D). Likewise, tumor numbers per mouse were significantly decreased after Hk2 deletion ( Figure 6E). Tumor size distribution showed that the majority of tumors in the tamoxifen-treated KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice are relatively smaller ( Figure 6F). Because of the stochastic nature of the inducible Cre system, HK2 expression was still detectable in some tumors arising in tamoxifen-treated KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice, especially in larger size tumors ( Figure 6G). Therefore, it is likely that a subgroup of the tumors that appeared in tamoxifen–injected KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice arose from cell lineages that escaped complete Hk2 deletion. However, in tamoxifen-injected KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice, both the small and the larger tumors display markedly impaired proliferation ( Figures 6H and S4G), indicating that even reduced HK2 expression attenuates tumor growth.
+
+To characterize the tumors immediately after HK2 loss, we injected tamoxifen to 16- to 18-week-old mice, at a stage in which most of the tumors express very high levels of HK2 (data not shown). One week after the last dose of tamoxifen injection, we analyzed the tumors for BrdU incorporation. We found that the tumors derived from the tamoxifen-injected KRasLA2-G12D;Hk2f/f;UBCCreERT2 mice incorporated substantially less BrdU compared with control mice ( Figure S4H). These results further support that HK2 is required for the proliferation of established lung tumor cells in vivo. Importantly, taken together, these observations provided compelling genetic evidence that HK2 could be an attractive target for lung cancer therapy, without adverse physiological consequences.
+
+HK2 Is Required for Ribonucleotide Synthesis, the Serine Biosynthesis Pathway, and the Flow of Carbons from Glycolysis into the TCA Cycle and Fatty Acid Synthesis in KRasG12D- NSCLC Cells
+As demonstrated above, HK2 is specifically elevated during tumorigenesis and is required for tumorigenesis despite persistent HK1 expression. Both HK1 and HK2 are capable of phosphorylating glucose into G6P, which is then utilized and required in multiple fundamental metabolic processes, which are essential for glycolytic and rapidly dividing cells. These include glycolysis, either coupled to, or independent of, mitochondrial oxidative metabolism, nucleotide biosynthesis via the pentose phosphate pathway (PPP), amino acid biosynthesis, lipogenesis, and hexosamine biosynthesis required for glycosylation. It is therefore possible that the induction of HK2 expression in cancer cells, which already express HK1, is required for the high metabolic demand of the cancer cells. To test this possibility, we have established cell lines derived from lung tumors of KRasLA2-G12D;Hk2f/f mice. For long-term studies, the cell lines were first infected with retrovirus expressing DNp53. Two isogenic pairs of cell lines were chosen for further analyses and were subjected to adenovirus infection with either Ad-LacZ or Ad-Cre to delete Hk2. Hk2 deletion ( Figure S5A) impaired the proliferation of the cells ( Figure S5B).
+
+To investigate the possibility of differential utilization of glucose upon Hk2 deletion, we then conducted metabolomics analyses of the cells using liquid chromatography tandem mass spectrometry (LC/MS/MS). Although the abundance of many metabolites was decreased by Hk2 deletion in both cell lines ( Figure 7A), the most statistically significant decrease was found in the levels of fructose 1, 6 bisphosphate (F1,6BP) and phosphoserine (p-Ser). Differential rates of biosynthesis were then investigated by the exchange of glucose in culture medium with stable isotopes of glucose and analysis of resultant labeling patterns. Upon feeding with U-13C6 glucose, incorporation of glucose-derived pentose units into ribonucleotides was impaired by Hk2 deletion ( Figure 7B). However, the labeling patterns of nonoxidative PPP intermediates, including ribose 5-phosphate, were not affected ( Figure S5C).
+
+Full-size image (191 K)
+Figure 7. 
+The Effect of Hk2 Deletion in KRasG12D NSCLC Cells on the Intracellular Levels of Metabolites Derived from Glucose or Glutamine
+(A) Steady state levels of glycolytic metabolites in LA2-1B and LA2-2 cells in the presence or absence of HK2. Data are presented as fold changes of Hk2f/f versus Hk2−/− (n = 5).
+(B) Deletion of Hk2 results in a decreased fraction of 13C5 UTP and 13C5 AMP, ADP, and ATP from the PPP upon U-13C6 glucose feeding.
+(C) No significant change between the fraction of labeled lactate containing 13C1, or relative contribution of the oxidative PPP, upon deletion of Hk2.
+(D) Contribution of glucose to the citrate/isocitrate, cis-aconitate, and acetyl CoA pools is decreased by Hk2 deletion, as observed by decreased 13C2 species.
+(E) Total pools of TCA cycle metabolites were averaged across all four labeling conditions (U-12C6 Glc; U-13C6 Glc; 1,2-13C2 Glc; U-13C5 Gln). Average of n = 16 with SE.
+(F) The 13C5 or 13C4 LC/MS/MS peak areas upon U-13C5 Gln feeding.
+(G) Labeled 13C4 (upper panel) and 13C2 (bottom panel) succinate, malate, aspartate, and citrate derived from glutamine.
+(H) Citrate/isocitrate pools from reductive carboxylation upon Hk2 deletion.
+(I) AcCoA pools from reductive carboxylation upon Hk2 deletion.
+(A–I) Unless otherwise noted, values are an average of n = 4 with SE, 2 hr post media switch. The p values for (A)–(I) are as follows: ∗p < 0.05, ∗∗p < 0.005, ∗∗∗p < 0.0005. See also Figure S5.
+Figure options
+In a previous study in a mouse model of KRas-dependent pancreatic ductal adenocarcinoma, it was shown that oncogenic KRas induces nucleotide biosynthesis largely through the enhancement of the nonoxidative branch of the PPP (Ying et al., 2012). We therefore speculate that, in Hk2 deleted cells, the PPP is in a mode that does not support high generation of ribonucleotides through the nonoxidative branch of the PPP but rather maintains G6P/F6P equilibrium and NADPH derived from the oxidative PPP. Indeed, NADP and NADPH levels were not significantly changed ( Figure 7A). Additionally, the proportion of G6P shunted to the oxidative PPP is not affected by Hk2 deletion, as demonstrated by equivalent fractions of labeled lactate containing 13C1 upon feeding with 1,2-13C2 glucose ( Lee et al., 1998) ( Figure 7C). In this experiment, singly labeled lactate is assumed to have been derived exclusively from the oxidative PPP, where one of the labels is lost as 13CO2. Taken together, these strongly indicate that the oxidative branch of the PPP is not impaired in the absence of HK2. Despite Hk2 deletion, the pool sizes of G6P/F6P are not significantly decreased. Therefore, it is possible that, in the absence of HK2, more nonoxidative PPP intermediates are shunted to regenerate F6P instead of being used to generate ribonucleotides. However, this possibility requires further experimental validation. Consistent with the reduced diversion of glucose into ribonucleotides synthesis in the absence of HK2, we found a significant reduction in the incorporation of both U-14C6-labeled glucose and 1-14C1-labeled glucose, the latter of which labels nucleotides derived from the nonoxidative branch of the PPP (among other routes), into DNA and RNA in the absence of HK2 ( Figure S5D).
+
+Flow of carbon from glycolysis into the TCA cycle is also reduced upon Hk2 knockout, as demonstrated by the reduced fraction of doubly labeled citrate/isocitrate and cis-aconitate ( Figures 7D and S5E). The pool sizes of citrate/isocitrate and cis-aconitate were also significantly reduced. Notably, a reduced fraction of doubly labeled acetyl-CoA (AcCoA) is also observed. Because cytosolic and mitochondrial pools may not be differentiated by this study, AcCoA observed is a summation of the functions of both pyruvate dehydrogenase and ATP citrate lyase, the latter of which is en route to fatty acid biosynthesis. Reduced doubly labeled AcCoA reflects a reduction in one or both of these fluxes.
+
+Glutamine-Derived Carbon Incorporation into TCA Cycle Intermediates Is Reduced in KRasG12D-NSCLC Cells following Hk2 Deletion
+Oncogenic Ras-transformed cells are highly dependent on the availability of glutamine, which is heavily incorporated into TCA cycle intermediates in these cells (Gaglio et al., 2011). We therefore examined Hk2 deletion for the ability to alter glutamine requirements in oncogenic Ras-expressing cells. Interestingly, we found that exogenous glutamine restriction markedly reduced proliferation of both KRasG12D-NSCLC cells and MEFs transformed by oncogenic Ras. In contrast, proliferation of these cells following Hk2 deletion was not further affected by glutamine restriction ( Figure S5F).
+
+Across all conditions tested, it is apparent that the pool sizes of TCA cycle intermediates and those metabolites directly adjacent are reduced by Hk2 deletion ( Figure 7E). To further investigate fluxes throughout the TCA cycle, cells were fed U-13C5-labeled glutamine. Upon conversion to glutamate (Glu), then α-ketoglutarate (aKG), all five 13C-labeled carbons from glutamine (Gln) are maintained. Observed raw signal from the LC/MS/MS indicates that the 5-labeled forms of Gln and Glu are relatively similar between control and Hk2 deletion, whereas a drastic drop is observed in the 5-labeled signal for aKG, suggesting that the transamination reaction of Glu to aKG is impaired by Hk2 deletion ( Figure 7F). Although this reaction can be catalyzed by many enzymes, including glutamate dehydrogenase, glutamate-aspartate aminotransferase, and alanine transaminase, it was previously reported that, in cells expressing high 3-phosphoglycerate dehydrogenase, approximately half of aKG is generated by the transamination catalyzed by phosphoserine aminotransferase (PSAT1) in the serine biosynthesis pathway ( Possemato et al., 2011). Because Hk2 deletion reduced the abundance of p-Ser ( Figure 7A), it is possible that the effect of HK2 on the serine biosynthesis pathway also affects the utilization of Gln into aKG. Although the pool size of total unlabeled aspartate was not significantly changed upon deletion of Hk2 ( Figure 7E), the pool size of 13C4 aspartate derived from Gln was reduced ( Figure 7F).
+
+Decarboxylation of aKG, derived from U-13C5 Gln, to succinate, fumarate, malate, and aspartate, yields 13C4 carbons upon the first turn of the TCA cycle and 13C2 upon the second turn (Figure S5G). In the first turn of the TCA cycle, reduced flux into succinate, malate and aspartate is reflected in the decreased pool sizes, whereas a similar fraction of the pool is labeled by carbon derived from glutamate (Figure 7G). Upon the second turn, a greater difference in the fractional 13C2-labeled form is observed, again demonstrating a reduced rate of TCA cycling upon Hk2 deletion. Each of these patterns is mirrored in citrate/isocitrate ( Figure 7G).
+
+Interestingly, we observed an increase in 13C5- labeled citrate derived from U-13C5 Gln in the absence of HK2 (Figure 7H), indicating reductive carboxylation is a larger contributor to the citrate pool in Hk2-deleted cells. Consistent with increased 13C5 citrate derived from reductive carboxylation, we observed a higher fraction of AcCoA in cells fed with U-13C5 Gln ( Figures 7I and S5G). Taken together with the finding that glycolytic contribution to the AcCoA pool is decreased, these results indicate that, in the absence of HK2, reductive carboxylation partially compensates for the impaired glycolytic flux into citrate, AcCoA, and presumably fatty acid biosynthesis.
+
+Taken together, these results suggest that the TCA cycle is attenuated in the absence of HK2. Corresponding reductions in citrate abundance, derived from Glc, and TCA cycle intermediates, derived from Gln, could be both a cause and a consequence of reduced Gln incorporation, as anaplerosis and cataplerosis are always tightly matched to maintain TCA cycle carbon balance (Owen et al., 2002). Regardless of the explanation, these results suggest that the high HK2 expression induced by oncogenic Ras is an indirect determinant of Gln utilization. Therefore, it is possible that proliferation of oncogenic Ras-transformed cells in which Hk2 is deleted is not further inhibited by Gln restriction due to a reduced anaplerotic role for Gln-derived carbon in these cells.
+
+Discussion
+Signature alterations in the metabolism of cancer cells have been recognized for more than three-quarters of a century (Robey and Hay, 2009 and Vander Heiden et al., 2009). Because the high flux of glucose utilization distinguishes many cancer cells from their normal counterparts, many of these studies provide rationales for targeting certain glycolytic enzymes for cancer therapy. However, because of the fundamental biological importance of glycolysis in normal metabolic homeostasis, concerns arise regarding potential adverse homeostatic consequences of targeting specific glycolytic enzymes in a systemic manner (Cheong et al., 2012). Selective cancer-associated expression of specific isoforms of certain glycolytic enzymes could render these enzymes potential selective targets for cancer therapy if their expression is critical for the neoplastic phenotype. Among all these potential targets, the hexokinase isoform, HK2, could be an ideal target. HK2 is highly expressed in many cancers (Shinohara et al., 1994), and although it is abundantly expressed in embryonic tissues, it constitutes the predominant hexokinase isoform in only a limited number of adult tissues. In contrast, the HK1 isoform is ubiquitously expressed and constitutes the major hexokinase in most normal adult tissues (Wilson, 1995 and Wilson, 2003).
+
+Previous studies have demonstrated the ability of RNAi-mediated HK2 silencing to inhibit tumor growth in a xenograft model of glioblastoma ( Wolf et al., 2011). However, it is unknown whether these results can be extrapolated to other forms of cancer, and the specific contributions of (and requirements for) HK2 and the other major hexokinase isoform, HK1, in both tumor initiation and maintenance are incompletely understood. In addition, it is unknown whether systemic targeting of HK2 is a viable approach to treating cancer. The, studies described herein provided a successful demonstration of systemic glycolytic enzyme targeting for cancer therapy without adverse effects on either metabolic homeostasis or life span.
+
+Except for skeletal muscles, all other adult mouse tissues that abundantly express HK2 also express relatively high levels of HK1, which might play a compensatory or redundant role in the absence of HK2. In addition, the ability of tissues, such as myocardium and skeletal muscle, to utilize fatty acids as an alternate energy substrate could buffer the metabolic impact of Hk2 deletion in these tissues ( Felig and Wahren, 1975). Because the deletion of Hk2 by the inducible Cre is not complete, it is possible that the residual HK2 activity in skeletal muscles is sufficient to maintain normal glucose homeostasis under resting conditions and normal chow diet.
+
+Notably, mice with 50% germline deletion of Hk2 do not have a marked change in fed glucose levels under normal chow diet ( Heikkinen et al., 1999). However, they display hyperinsulinemia under a high-fat diet and reduced endurance during exercise ( Fueger et al., 2003). Nonetheless, the possibility that the phenotype observed in mice with 50% germline deletion is exerted through a developmental defect cannot be completely excluded. Thus, adult mice with a conditional deletion of Hk2 may not exert these phenotypes.
+
+Our studies showed that HK2 expression is exclusively elevated in lung and breast cancers, whereas HK1 expression did not change significantly. Although when overexpressed HK1 can compensate for the loss of HK2 to some extent, we found that the loss of HK2 was not followed by a compensatory elevated expression of HK1. The underlying molecular basis for selective HK2 overexpression in cancer cells is incompletely understood, but this observation may relate to the fact that HK1 is constitutively expressed in most normal tissues, whereas HK2 is the principal inducible isoform (Robey and Hay, 2006). Another plausible explanation for the selective induction of HK2 expression in tumor cells is that it might be more compatible for the intrinsic properties of cancer cells. Although HK1 and HK2 display very similar kinetics of metabolic activities some features of HK2, which distinguish it from HK1, may render it more suited to the versatile metabolic nature of cancer cells. For instance, unlike HK1, which has a single active catalytic domain in its carboxy-terminus, HK2 possesses two active catalytic domains in its amino- and carboxy- termini. The two catalytic domains of HK2 have different kinetics properties and thus may retain its activity under conditions that are inhibitory for the single catalytic domain of HK1 (Wilson, 2003).
+
+The Contribution of HK2 on the Metabolism of KRasG12D-NSCLC Cells
+Accumulating data suggest that the metabolites generated by the branched pathways are much more critical for cancer cells than glycolysis per se (Vander Heiden et al., 2009). These metabolites are critical to support anabolic processes, such as nucleic acids and lipid synthesis. Previous results showed that oncogenic Ras elevates ribonucleotide synthesis largely through the nonoxidative branch of the PPP (Ying et al., 2012). Our results show that, in the absence of HK2, the diversion of glucose to ribonucleotide synthesis through the nonoxidative branch of the PPP in KRasG12D-NSCLC cells is reduced (Figure 8). Thus, the induction of HK2 expression by oncogenic Ras is critical for the accelerated ribonucleotides synthesis. The results also suggest that the diversion of glucose into the serine biosynthesis pathway is reduced in the absence of HK2 (Figure 8). Metabolic serine flux can be quite high in cancer cells where increased serine biosynthesis has been appreciated for almost three decades (Kalhan and Hanson, 2012). The levels and activities of enzymes in this pathway are elevated in cancer cells and found to be critical for cancer cells’ maintenance (Locasale and Cantley, 2011 and Possemato et al., 2011).
+
+Full-size image (37 K)
+Figure 8. 
+Schematic Illustration Depicting Metabolic Changes Induced by Hk2 Deletion in KRasG12D-NSCLC Cells
+Decreased flux is green; increased flux is red; maintained flux is gray. Dashed arrows are predicted to be altered.
+Figure options
+Finally, HK2 expression appears to be required for the efficient flow of carbons from glycolysis onto the TCA cycle as manifested by the reduced glucose derived acetyl-CoA and citrate, which could also affect the diversion of glucose into fatty acid synthesis (Figure 8). In cancer cells and oncogenic Ras-transformed cells, TCA cycle intermediates, except citrate, are predominately derived from auxotrophic glutamine (DeBerardinis et al., 2007 and Gaglio et al., 2011). Hk2 deletion inhibits glutamine-derived carbon utilization in anaplerosis ( Figure 8), for a reason that is not immediately clear to us. However, it is possible that reduced glucose-derived citrate somehow contributes to the attenuation of the flux from glutamine to other TCA cycle intermediates. This is also manifested by the increase in the reductive carboxylation in the absence of HK2, possibly to compensate for the lack of citrate derived from glycolysis ( Figure 8).
+
+In summary, HK2 plays a critical role in the diversion of glucose into pathways, which are required for the anabolic activities in cancer cells. Interestingly, it was shown and proposed previously that, in cancer cells, downstream glycolytic activities are attenuated to divert glucose into the branched pathways. Our results suggest that an increase in the most upstream step in glucose metabolism catalyzed by HK2 is also critical for diverting glucose into these pathways in cancer cells. Therefore, this could explain why cancer cells, in contrast to their normal counterparts, express high levels of HK2. The expression of HK1 is possibly sufficient for normal cell metabolism. The accelerated anabolic metabolism in cancer cells demands a robust hexokinase activity; therefore, the induction of HK2 expression is required.
+
+Future Implications for Cancer Therapy
+Our studies placed HK2 as a selective therapeutic target for NSCLC and breast cancer. Moreover, because it was shown that breast cancer metastasis to the brain is significantly associated with high HK2 expression with poor patient survival (Palmieri et al., 2009), it is possible that HK2 ablation would inhibit metastasis.
+
+We had previously shown that mitochondrial hexokinases, HK1 and HK2, binding to mitochondria promotes cell survival (Gottlob et al., 2001 and Majewski et al., 2004). Thus, it is expected that the ablation of HK2 would increase cell death. The results presented here, however, show that the deficiency of HK2 exerts cytostatic effect in vitro and in vivo. There are several possible reasons why we did not observe an increase in cell death after HK2 ablation. First, the cells also express HK1, which could be sufficient to protect from cell death. Second, the experiments were done with established cell lines in which Hk2 was either deleted or was stably knocked down; thus, it is possible that, during the establishment of the cell lines, cells in which HK2 was ablated beyond a certain threshold level were eliminated. Supporting this possibility is the observation that, upon a conditional knockdown of HK2, there was a significant increase in cell death, although at low magnitude. Finally, we cannot completely rule out an increase in cell death because it might be technically difficult to observe low levels of cell death in vivo, especially if the dead cells are phagocytosized. Nevertheless, it is possible that the deficiency of HK2 will render cancer cells more susceptible to cell death by pro-apoptotic drugs. Notably, investigations on drug resistance phenotypes of breast cancer cells showed that upregulated glucose metabolism, and especially HK2 expression, are associated with the chemoresistance phenotypes in breast cancer cells ( Kaplan et al., 1990, Komurov et al., 2012 and Lyon et al., 1988). Therefore, HK2 may be a genetic modifier of drug resistance that can be therapeutically exploited.
+
+Taken together, our results provided strong rationales for developing small-molecule inhibitors of HK2 for cancer therapy. Perhaps the biggest challenge is to develop inhibitors that could preferentially target HK2 and not HK1. Although HK1 and HK2 are very similar to each other, they exhibit some specific properties that could be exploited for isoform-specific inhibition. For instance, both HK1 and HK2 are inhibited to the same extent by their own product, G6P. However, inorganic phosphate antagonizes the inhibition of HK1 by G6P, whereas it increases the inhibition of HK2 by G6P (Wilson, 2003). Because an increase in intracellular inorganic phosphate is usually observed in high glycolytic cells, such as cancer cells, this property of HK2 could be exploited for the preferential inhibition of HK2 in cancer therapy.
+
+Experimental Procedures
+Mice Strains
+Hexokinase 2 conditional knockout (Hk2flox/floxor Hk2f/f) mice were generated as described in Figure S1A. KRasLSL-G12D and MMTV-Neu-IRES-Cre (MMTVNIC) mice were described previously ( Jackson et al., 2001 and Ranger et al., 2009). KRasLA2-G12D mice ( Johnson et al., 2001) were obtained from the NCI-Mouse Models of Human Cancer Consortium. UBCCreERT2 and MMTVNeuT mice were purchased from The Jackson Laboratory. Generations of other mice are detailed in Supplemental Information. All animal experiments were approved by the University of Illinois at Chicago institutional animal care and use committee.
+
+Cell Lines
+NCI-H460, NCI-H1299, NCI-H727, NCI-H358, T47D, MDA-MB-453, BT474, LA2-1B, and LA2-2 cells were grown in RPMI-1640/10% FBS/1% pen-strep media. MCF-10A cells were maintained in DMEM/F12 with the supplements. MDA-MB-231, 293FT, phoenix-ecotropic cells, and MEFs were maintained in DMEM/10% FBS/1% pen-strep media. All the cell lines were grown at 37°C, 5% CO2 incubator unless otherwise mentioned.
+
+Statistical Analysis
+Statistical analysis was done with unpaired Student’s t tests, survival curves were analyzed by log-rank test (Mantel-Cox), and data are expressed as SD or SEM as indicated in the figure legend. Unless otherwise indicated, all the experiments were performed for at least three times.
+
+Other detailed experimental procedures are described in the Supplemental Information.
+
+Acknowledgments
+This work was supported by VA Merit Award BX000733, NIH grants AG016927 and CA090764, in part by the University of Illinois at Chicago Center for Clinical and Translational Sciences Award ULRR029879, and a grant from the Chicago Biomedical Consortium with support from the Searle Funds at the Chicago Community to N.H. K.C.P. was supported by DOD predoctoral fellowship W81XWH-11-1-0006. We thank Shengfang Jin (Agios Pharmaceuticals) for support and heroic efforts to coordinate the metabolomics studies; Veronique Nogueira, Wan-Ni Yu, Xiao-ding Peng, Nilotpal Roy, and other present and past N.H. laboratory members for various reagents, help, and suggestions; and Pradip Raychaudhuri (University of Illinois at Chicago), Jonna Frasor (University of Illinois at Chicago), and Alejandro Sweet-Cordero (Stanford University) for their generous gift of some of the cell lines used in this study.
+
+E.L.A., A.K..J., G.A.S., and M.F.C. are employees of Agios Pharmaceuticals.
+
+Supplemental Information
+ 
+Document S1. Supplemental Experimental Procedures and Figures S1–S5.  
+Help with PDF filesOptions
+References
+Cheong et al., 2012
+H. Cheong, C. Lu, T. Lindsten, C.B. Thompson
+Therapeutic targets in cancer cell metabolism and autophagy
+Nat. Biotechnol., 30 (2012), pp. 671–678
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+DeBerardinis et al., 2007
+R.J. DeBerardinis, A. Mancuso, E. Daikhin, I. Nissim, M. Yudkoff, S. Wehrli, C.B. Thompson
+Beyond aerobic glycolysis: transformed cells can engage in glutamine metabolism that exceeds the requirement for protein and nucleotide synthesis
+Proc. Natl. Acad. Sci. USA, 104 (2007), pp. 19345–19350
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (490)
+Felig and Wahren, 1975
+P. Felig, J. Wahren
+Fuel homeostasis in exercise
+N. Engl. J. Med., 293 (1975), pp. 1078–1084
+
+View Record in Scopus | Citing articles (86)
+Fueger et al., 2003
+P.T. Fueger, S. Heikkinen, D.P. Bracy, C.M. Malabanan, R.R. Pencek, M. Laakso, D.H. Wasserman
+Hexokinase II partial knockout impairs exercise-stimulated glucose uptake in oxidative muscles of mice
+Am. J. Physiol. Endocrinol. Metab., 285 (2003), pp. E958–E963
+
+View Record in Scopus | Citing articles (40)
+Gaglio et al., 2011
+D. Gaglio, C.M. Metallo, P.A. Gameiro, K. Hiller, L.S. Danna, C. Balestrieri, L. Alberghina, G. Stephanopoulos, F. Chiaradonna
+Oncogenic K-Ras decouples glucose and glutamine metabolism to support cancer cell growth
+Mol. Syst. Biol., 7 (2011), p. 523
+
+Gottlob et al., 2001
+K. Gottlob, N. Majewski, S. Kennedy, E. Kandel, R.B. Robey, N. Hay
+Inhibition of early apoptotic events by Akt/PKB is dependent on the first committed step of glycolysis and mitochondrial hexokinase
+Genes Dev., 15 (2001), pp. 1406–1418
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (469)
+Heikkinen et al., 1999
+S. Heikkinen, M. Pietilä, M. Halmekytö, S. Suppola, E. Pirinen, S.S. Deeb, J. Jänne, M. Laakso
+Hexokinase II-deficient mice: prenatal death of homozygotes without disturbances in glucose tolerance in heterozygotes
+J. Biol. Chem., 274 (1999), pp. 22517–22523
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Jackson et al., 2001
+E.L. Jackson, N. Willis, K. Mercer, R.T. Bronson, D. Crowley, R. Montoya, T. Jacks, D.A. Tuveson
+Analysis of lung tumor initiation and progression using conditional expression of oncogenic K-ras
+Genes Dev., 15 (2001), pp. 3243–3248
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (601)
+Johnson et al., 2001
+L. Johnson, K. Mercer, D. Greenbaum, R.T. Bronson, D. Crowley, D.A. Tuveson, T. Jacks
+Somatic activation of the K-ras oncogene causes early onset lung cancer in mice
+Nature, 410 (2001), pp. 1111–1116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Kalhan and Hanson, 2012
+S.C. Kalhan, R.W. Hanson
+Resurgence of serine: an often neglected but indispensable amino Acid
+J. Biol. Chem., 287 (2012), pp. 19786–19791
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Kaplan et al., 1990
+O. Kaplan, G. Navon, R.C. Lyon, P.J. Faustino, E.J. Straka, J.S. Cohen
+Effects of 2-deoxyglucose on drug-sensitive and drug-resistant human breast cancer cells: toxicity and magnetic resonance spectroscopy studies of metabolism
+Cancer Res., 50 (1990), pp. 544–551
+
+View Record in Scopus | Citing articles (64)
+Komurov et al., 2012
+K. Komurov, J.T. Tseng, M. Muller, E.G. Seviour, T.J. Moss, L. Yang, D. Nagrath, P.T. Ram
+The glucose-deprivation network counteracts lapatinib-induced toxicity in resistant ErbB2-positive breast cancer cells
+Mol. Syst. Biol., 8 (2012), p. 596
+
+Lee et al., 1998
+W.N. Lee, L.G. Boros, J. Puigjaner, S. Bassilian, S. Lim, M. Cascante
+Mass isotopomer study of the nonoxidative pathways of the pentose cycle with [1,2-13C2]glucose
+Am. J. Physiol., 274 (1998), pp. E843–E851
+
+View Record in Scopus | Citing articles (102)
+Locasale and Cantley, 2011
+J.W. Locasale, L.C. Cantley
+Genetic selection for enhanced serine metabolism in cancer development
+Cell Cycle, 10 (2011), pp. 3812–3813
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+Lunt and Vander Heiden, 2011
+S.Y. Lunt, M.G. Vander Heiden
+Aerobic glycolysis: meeting the metabolic requirements of cell proliferation
+Annu. Rev. Cell Dev. Biol., 27 (2011), pp. 441–464
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (163)
+Lyon et al., 1988
+R.C. Lyon, J.S. Cohen, P.J. Faustino, F. Megnin, C.E. Myers
+Glucose metabolism in drug-sensitive and drug-resistant human breast cancer cells monitored by magnetic resonance spectroscopy
+Cancer Res., 48 (1988), pp. 870–877
+
+View Record in Scopus | Citing articles (55)
+Majewski et al., 2004
+N. Majewski, V. Nogueira, P. Bhaskar, P.E. Coy, J.E. Skeen, K. Gottlob, N.S. Chandel, C.B. Thompson, R.B. Robey, N. Hay
+Hexokinase-mitochondria interaction mediated by Akt is required to inhibit apoptosis in the presence or absence of Bax and Bak
+Mol. Cell, 16 (2004), pp. 819–830
+
+Article |  PDF (693 K) | View Record in Scopus | Citing articles (295)
+Mathupala et al., 2001
+S.P. Mathupala, A. Rempel, P.L. Pedersen
+Glucose catabolism in cancer cells: identification and characterization of a marked activation response of the type II hexokinase gene to hypoxic conditions
+J. Biol. Chem., 276 (2001), pp. 43407–43412
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (136)
+Muller et al., 1988
+W.J. Muller, E. Sinn, P.K. Pattengale, R. Wallace, P. Leder
+Single-step induction of mammary adenocarcinoma in transgenic mice bearing the activated c-neu oncogene
+Cell, 54 (1988), pp. 105–115
+
+Article |  PDF (7085 K) | View Record in Scopus | Citing articles (572)
+Owen et al., 2002
+O.E. Owen, S.C. Kalhan, R.W. Hanson
+The key role of anaplerosis and cataplerosis for citric acid cycle function
+J. Biol. Chem., 277 (2002), pp. 30409–30412
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (199)
+Palmieri et al., 2009
+D. Palmieri, D. Fitzgerald, S.M. Shreeve, E. Hua, J.L. Bronder, R.J. Weil, S. Davis, A.M. Stark, M.J. Merino, R. Kurek et al.
+Analyses of resected human brain metastases of breast cancer reveal the association between up-regulation of hexokinase 2 and poor prognosis
+Mol. Cancer Res., 7 (2009), pp. 1438–1445
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Possemato et al., 2011
+R. Possemato, K.M. Marks, Y.D. Shaul, M.E. Pacold, D. Kim, K. Birsoy, S. Sethumadhavan, H.K. Woo, H.G. Jang, A.K. Jha et al.
+Functional genomics reveal that the serine synthesis pathway is essential in breast cancer
+Nature, 476 (2011), pp. 346–350
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (175)
+Ranger et al., 2009
+J.J. Ranger, D.E. Levy, S. Shahalizadeh, M. Hallett, W.J. Muller
+Identification of a Stat3-dependent transcription regulatory network involved in metastatic progression
+Cancer Res., 69 (2009), pp. 6823–6830
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+Robey and Hay, 2006
+R.B. Robey, N. Hay
+Mitochondrial hexokinases, novel mediators of the antiapoptotic effects of growth factors and Akt
+Oncogene, 25 (2006), pp. 4683–4696
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (163)
+Robey and Hay, 2009
+R.B. Robey, N. Hay
+Is Akt the “Warburg kinase”? Akt-energy metabolism interactions and oncogenesis
+Semin. Cancer Biol., 19 (2009), pp. 25–31
+
+Article |  PDF (340 K) | View Record in Scopus | Citing articles (126)
+Ruzankina et al., 2007
+Y. Ruzankina, C. Pinzon-Guzman, A. Asare, T. Ong, L. Pontano, G. Cotsarelis, V.P. Zediak, M. Velez, A. Bhandoola, E.J. Brown
+Deletion of the developmentally essential gene ATR in adult mice leads to age-related phenotypes and stem cell loss
+Cell Stem Cell, 1 (2007), pp. 113–126
+
+Article |  PDF (3501 K) | View Record in Scopus | Citing articles (186)
+Schulze and Harris, 2012
+A. Schulze, A.L. Harris
+How cancer metabolism is tuned for proliferation and vulnerable to disruption
+Nature, 491 (2012), pp. 364–373
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+Shedden et al., 2008
+K. Shedden, J.M. Taylor, S.A. Enkemann, M.S. Tsao, T.J. Yeatman, W.L. Gerald, S. Eschrich, I. Jurisica, T.J. Giordano, D.E. Misek, Director’s Challenge Consortium for the Molecular Classification of Lung Adenocarcinoma et al.
+Gene expression-based survival prediction in lung adenocarcinoma: a multi-site, blinded validation study
+Nat. Med., 14 (2008), pp. 822–827
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (369)
+Shinohara et al., 1994
+Y. Shinohara, K. Yamamoto, K. Kogure, J. Ichihara, H. Terada
+Steady state transcript levels of the type II hexokinase and type 1 glucose transporter in human tumor cell lines
+Cancer Lett., 82 (1994), pp. 27–32
+
+Article |  PDF (584 K) | View Record in Scopus | Citing articles (17)
+Ursini-Siegel et al., 2008
+J. Ursini-Siegel, W.R. Hardy, D. Zuo, S.H. Lam, V. Sanguin-Gendreau, R.D. Cardiff, T. Pawson, W.J. Muller
+ShcA signalling is essential for tumour progression in mouse models of human breast cancer
+EMBO J., 27 (2008), pp. 910–920
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+van de Vijver et al., 2002
+M.J. van de Vijver, Y.D. He, L.J. van’t Veer, H. Dai, A.A. Hart, D.W. Voskuil, G.J. Schreiber, J.L. Peterse, C. Roberts, M.J. Marton et al.
+A gene-expression signature as a predictor of survival in breast cancer
+N. Engl. J. Med., 347 (2002), pp. 1999–2009
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3523)
+Vander Heiden et al., 2009
+M.G. Vander Heiden, L.C. Cantley, C.B. Thompson
+Understanding the Warburg effect: the metabolic requirements of cell proliferation
+Science, 324 (2009), pp. 1029–1033
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+Wilson, 1995
+J.E. Wilson
+Hexokinases
+Rev. Physiol. Biochem. Pharmacol., 126 (1995), pp. 65–198
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (261)
+Wilson, 2003
+J.E. Wilson
+Isozymes of mammalian hexokinase: structure, subcellular localization and metabolic function
+J. Exp. Biol., 206 (2003), pp. 2049–2057
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (283)
+Wolf et al., 2011
+A. Wolf, S. Agnihotri, J. Micallef, J. Mukherjee, N. Sabha, R. Cairns, C. Hawkins, A. Guha
+Hexokinase 2 is a key mediator of aerobic glycolysis and promotes tumor growth in human glioblastoma multiforme
+J. Exp. Med., 208 (2011), pp. 313–326
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (88)
+Ying et al., 2012
+H. Ying, A.C. Kimmelman, C.A. Lyssiotis, S. Hua, G.C. Chu, E. Fletcher-Sananikone, J.W. Locasale, J. Son, H. Zhang, J.L. Coloff et al.
+Oncogenic Kras maintains pancreatic tumors through regulation of anabolic glucose metabolism
+Cell, 149 (2012), pp. 656–670
+
+Article |  PDF (3136 K) | View Record in Scopus | Citing articles (114)
+Corresponding author contact information
+Corresponding author
+9
+These authors contributed equally to this work
+Copyright © 2013 Elsevier Inc. All rights reserved.

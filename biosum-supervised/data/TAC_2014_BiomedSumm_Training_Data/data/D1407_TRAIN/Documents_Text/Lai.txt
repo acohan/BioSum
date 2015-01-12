@@ -1,0 +1,452 @@
+Control of Cell Proliferation and Apoptosis by Mob as Tumor Suppressor, Mats
+Zhi-Chun Lai1, 2, 3, 4, Corresponding author contact information, E-mail the corresponding author, Xiaomu Wei2, 5, Takeshi Shimizu3, 5, Edward Ramos2, 6, Margaret Rohrbaugh3, 7, Nikolas Nikolaidis1, Li-Lun Ho4, Ying Li1
+  Show more
+DOI: 10.1016/j.cell.2004.12.036
+Under an Elsevier user license
+  Open Archive
+Summary
+Appropriate cell number and organ size in a multicellular organism are determined by coordinated cell growth, proliferation, and apoptosis. Disruption of these processes can cause cancer. Recent studies have identified the Large tumor suppressor (Lats)/Warts (Wts) protein kinase as a key component of a pathway that controls the coordination between cell proliferation and apoptosis. Here we describe growth inhibitory functions for a Mob superfamily protein, termed Mats (Mob as tumor suppressor), in Drosophila. Loss of Mats function results in increased cell proliferation, defective apoptosis, and induction of tissue overgrowth. We show that mats and wts function in a common pathway. Mats physically associates with Wts to stimulate the catalytic activity of the Wts kinase. A human Mats ortholog (Mats1) can rescue the lethality associated with loss of Mats function in Drosophila. As Mats1 is mutated in human tumors, Mats-mediated growth inhibition and tumor suppression is likely conserved in humans.
+
+Introduction
+During normal development of multicellular organisms, appropriate cell number and organ size are determined by coordinated cell growth, cell proliferation, and apoptosis (reviewed by Danial and Korsmeyer, 2004, Murray, 2004 and Sherr, 2004). Disruption or malfunction of these processes can cause diseases such as cancer. Using model organisms such as Drosophila melanogaster, genetic studies have helped identify novel molecules and pathways that are critical for regulating these processes (reviewed by Lee and Orr-Weaver, 2003, Oldham and Hafen, 2003 and Richardson and Kumar, 2002). In particular, a pathway that involves Hippo (Hpo), Salvador (Sav)/Shar-pei, and Large tumor suppressor (Lats)/Warts (Wts) proteins has been shown to play a crucial role in tissue growth and cell number control (reviewed by Hay and Guo, 2003, Rothenberg and Jan, 2003 and Ryoo and Steller, 2003).
+
+A critical role of hpo in the linkage of cell proliferation and apoptosis was first elucidated through genetic studies, as hpo mutations result in increased tissue growth and impaired apoptosis ( Harvey et al., 2003, Jia et al., 2003, Pantalacci et al., 2003, Udan et al., 2003 and Wu et al., 2003). Like hpo, clones of sav or wts mutant cells acquire growth advantage compared to their wild-type neighboring cells and display reduced apoptosis ( Kango-Singh et al., 2002 and Tapon et al., 2002). The hpo gene encodes a protein kinase highly related to mammalian Mst1 and Mst2 proteins. Hpo associates with and phosphorylates Sav scaffold protein, and association with Sav promotes Wts phosphorylation by Hpo ( Wu et al., 2003). The Hpo-Sav-Wts pathway has been shown to regulate cell proliferation by targeting key cell cycle regulators such as Cyclin E, as Cyclin E expression was elevated in the absence of hpo, sav, or wts function. Moreover, Hpo directly phosphorylates an apoptosis inhibitor DIAP1 and may regulate DIAP1 levels through degradation ( Harvey et al., 2003 and Pantalacci et al., 2003). Hpo may also negatively regulate diap1 at the transcriptional level ( Udan et al., 2003 and Wu et al., 2003). Thus, the Hpo-Sav-Lats pathway functions to coordinate cell proliferation and cell death by regulating the levels of key molecules required for cell cycle and apoptosis control. As an important component of this newly discovered pathway, wts encodes a serine/threonine protein kinase related to the NDR and Dbf2 kinases ( Justice et al., 1995 and Xu et al., 1995; reviewed by Tamaskovic et al., 2003). In particular, the putative kinase activity of Wts has been shown to be required to inhibit cell proliferation and induce apoptosis ( Kamikubo et al., 2003, Li et al., 2003 and Xia et al., 2002). However, it is not clear how the catalytic activity of Wts protein kinase can be directly regulated for growth inhibition and apoptosis promotion.
+
+We have used the Drosophila compound eye to address how cell proliferation and apoptosis are coordinately regulated for the determination of cell number and organ size during development. Drosophila eye development has been extensively studied ( Baker, 2001, Treisman and Heberlein, 1998 and Wolff and Ready, 1993), which greatly facilitates functional analysis of genes and pathways involved in fundamental biological processes such as cell proliferation and apoptosis. Here we describe tumor suppressor functions for a Mob superfamily protein Mats. Since the first Mob gene mob1 (Mps one binder 1) was identified in yeast ( Luca and Winey, 1998), over 130 members in the Mob supergene family have been found in all major kingdoms ranging from protists to animals. However, functions of most mob genes remain poorly understood. We found that loss of mats function leads to increased cell proliferation and dramatic tumor growth in Drosophila. Our results also suggest that mats is required to facilitate apoptosis during early eye development. Importantly, mats synergistically interacts with wts and appears to function with wts in a common pathway. We show that Mats associates with Wts and functions as an activating subunit of the Wts protein kinase. We found that a human Mats ortholog, Mats1, can functionally replace Drosophila Mats to suppress tumor and lethal phenotypes induced by mats mutations, and Mats1 loss-of-function mutations appear to occur in both human and mouse tumor cells. These results suggest that Mats-mediated growth inhibition and tumor suppression may be conserved in mammals such as humans.
+
+Results
+The mats Mutations Cause Increased Cell Proliferation and Tumor Development
+We identified a spontaneous lethal mutation in a Drosophila gene that we herein name mob as tumor suppressor (mats). From mutant clones generated in mats mosaic flies, large tumors can be induced in many organs including the head, notum, eye, wing, leg, antenna, and halteres ( Figures 1A–1D and data not shown). Thus, mats appears to function as a general inhibitor of tissue growth. The tumor cells formed unpatterned tissue with many folds on the surface. Using green fluorescent protein (GFP) to positively label mutant cells, it was apparent that mutant cells overproliferated in comparison to wild-type cells (compare Figure 1H with Figure 1G). Mosaic larval eye discs with mats mutant clones were apparently larger and folded in many areas. Overproliferation of mats mutant cells could not be explained by change in cell size, as the size of the mutant cells is not significantly different from that of wild-type cells (data not shown). To directly examine the cell proliferation phenotype, Bromdeoxyuridine (BrdU) was incubated with eye discs to identify cells in the S phase. In wild-type larval eye discs, BrdU incorporation is evident in cells anterior to the morphogenetic furrow (MF) and in the second mitotic wave (SMW), which is a narrow stripe of dividing cells a few rows posterior to the MF ( Wolff and Ready, 1993). Consistent with an inhibitory role of mats in regulating cell proliferation, BrdU incorporation was elevated in mats mutant clones in eye discs ( Figures 2A–2A″). This phenotype was more evident in mats clones located in the MF and SMW regions. Moreover, immunostaining with anti-phospho histone H3 (PH3) antibody was carried out to identify mitotic cells in eye discs. In wild-type, PH3-positive cells can be found in the anterior and SMW regions, but not in the MF. They were rarely detected in the posterior region ( Figure 2B). In mats mosaic eye discs, more mitoses were observed in mats clones compared to neighboring wild-type cells, and mitoses can even sometimes occur in the MF. Excess mitoses were also found in mats clones located in the posterior margin ( Figures 2B′–2B″). On the basis of these observations, we conclude that mats is required to restrict cell proliferation and loss of mats function allows cells to divide at a time when they should exit the cell cycle.
+
+Full-size image (131 K)
+Figure 1. 
+Mutations in mats Cause Cell Overproliferation and Tumor Growth, and Human Mats1 Can Functionally Replace mats in Drosophila
+Scanning electron microscopy (SEM) images of tumors (pointed by white arrows) induced in mats mosaic flies are shown in (A)–(D). In freshly eclosed adult flies, tumors are lightly pigmented similar to wild-type tissues. However, most tumors become heavily pigmented and undergo necrosis over a period of a few days. The genotype is w hs-FLP/+; FRT82B Ubi-GFP/FRT82B matsroo (matse235 displayed similar phenotypes).
+(A) A large tumor on the head is about one third of the head size.
+(B) Another large tumor induced in the notum.
+(C) A tumor on the shoulder area.
+(D) Outgrowth was sometime observed in peripheral areas of the eye. In these cases, mutant cells did not differentiate as retinal cells but instead became head cuticle. Although not becoming head cuticle, more centrally located mutant clones failed to generate ommatidia.
+(E) A tangential section of mats mosaic adult eye shows that mutant cells fail to differentiate to become specialized cells such as photoreceptor (R) neurons. R cells near the clone boundary were always genotypically wild-type, as indicated by the presence of pigment granules associated with rhabdomeres (an example is pointed by a black arrow). These data indicate that mats is autonomously required for R cell development. The genotype is w ey-FLP/+; FRT82B P[w+]90E/FRT82B matsroo.
+(F) Forty-eight hour (25°C) pupal eye discs were stained with anti-Arm antibody (red) to show defective ommatidial development in mats clones identified by the lack of β-Galactosidase (green). The genotype is w ey-FLP/+; FRT82B arm-lacZ/FRT82B matse235 (matsroo displayed the same phenotypes).
+(G–J) Clones in mosaic third instar larval eye imaginal discs were positively marked by GFP (top panels), and corresponding bright field microscopy images are shown in the bottom panels and dorsal views of adult heads are shown in (K)–(N).
+(G and K) Eyes with wild-type clones are shown as controls. The genotype is w ey-FLP UAS-GFP/+; Tub-Gal4 FRT82B Tub-Gal80/FRT82B P[w+]90E.
+(H and L) Eyes with mats mutant clones are much larger than wild-type eyes. The genotype is w ey-FLP UAS-GFP/+; Tub-Gal4 FRT82B Tub-Gal80/FRT82B matse235 (matsroo gave similar results). The insets in (H) show an eye disc containing matse235 wtsX1 double mutant clones in flies with a genotype of w ey-FLP UAS-GFP/+; Tub-Gal4 FRT82B Tub-Gal80/FRT82B matse235 wtsX1. The eye disc with double mutant clones was morphologically similar to eye discs with mats single mutant clones, and both exhibited similar amount of GFP signal.
+(I and M) A mats transgene was expressed in all mats mutant cells to suppress the defective eye phenotypes. The genotype is w ey-FLP UAS-GFP/+; +/UAS-mats; Tub-Gal4 FRT82B Tub-Gal80/FRT82B matsroo.
+(J and N) A human Mats1 transgene was expressed in all mats mutant cells to show that hMats1 can suppress the defective eye phenotypes. The genotype is w ey-FLP UAS-GFP/+; +/UAS-hMats1; Tub-Gal4 FRT82B Tub-Gal80/FRT82B matsroo.
+Anterior is to the left in (A)–(J) and to the top in (K)–(N).
+Figure options
+Full-size image (117 K)
+Figure 2. 
+mats Is Required to Restrict Cell Proliferation
+Third instar larval eye discs (w ey-FLP/+; FRT82B arm-lacZ/FRT82B matse235) were used for immunostaining and mats mutant clones were marked by the absence of β-Galactosidase (green) in (A) and (D) and (A″)–(D″).
+(A′–A″) Anti-BrdU antibody staining (red) was done to identify S phase cells in mats mosaic eye discs. The yellow arrow points to a large mats clone in which higher levels of BrdU incorporation are evident.
+(B) Anti-Phospho Histone H3 (PH3) antibody staining (red) of wild-type eye discs identifies mitotic cells in the anterior part and the SMW region (pointed by a yellow arrow). Mitotic cells are not detectable in the MF and rarely in the region further posterior to the SMW.
+(B′–B″) Anti-PH3 antibody staining (red) of mats mosaic eye discs shows that generally more mitoses can be found in mats clones compared to wild-type tissues. The yellow arrow identifies a mats clone located near the posterior margin, which contains excess mitotic cells.
+(C) Anti-Cyclin E antibody staining (red) of wild-type eye discs shows Cyclin E expression in the SMW (pointed by a yellow arrow).
+(C′–C″) Cyclin E expression is elevated in mats clones located in the MF and SMW regions. An example is pointed with a yellow arrow.
+(D′–D″) Anti-Elav antibody staining (red) shows that R cell differentiation appears normal in mats clones. A large mats clone is pointed with a yellow arrow.
+White arrows identify location of the MF. Anterior is to the left in all panels except (C′)–(C″) and (D)–(D″), where anterior is to the upper left.
+Figure options
+Cyclin E, a key regulator for the G1-S transition, is normally expressed in the SMW of larval eye discs (Figure 2C). In mats mosaic eye discs, Cyclin E levels were elevated in mutant clones located in the MF and SMW regions ( Figures 2C′–2C″). Moderate upregulation of Cyclin A and Cyclin B expression was also observed (data not shown). Thus, an important mechanism for mats to control cell proliferation is to negatively regulate expression of key cell cycle regulators such as Cyclins. Interestingly, Cyclin E expression in mutant cells immediately anterior to the MF was much less elevated than that immediately posterior to the MF, suggesting that mats may use a different mechanism to restrict cell proliferation in cells anterior to the MF. The cell proliferation defects observed in mats mutants are similar to those caused by sav, wts, and hpo mutations.
+
+We have also investigated if mats plays a role in regulating cellular differentiation in the developing eye. In larval eye discs, photoreceptors (R) and cone cells in mats clones appeared to be specified normally ( Figures 2D–2D″ and data not shown). However, they failed to fully differentiate to generate ommatidia in adult ( Figures 1D and 1E). Defective retinal differentiation occurred at least at mid-pupal stages ( Figure 1F). Thus, mats is required for cellular differentiation during eye development. In contrast, hpo, sav, and wts do not significantly affect differentiation of retinal cells during eye development.
+
+mats Is Required for Cell Death Control
+Apoptosis provides an important mechanism for the control of cell number and organ size. To test if mats plays a role in cell death control, expression of DIAP1 in eye discs was examined. DIAP1 is a caspase inhibitor essential for cell survival ( Wang et al., 1999). Through immunostaining of mats mosaic eye discs, we found that the level of DIAP1 protein was increased in mats clones ( Figures 3A–3A″). To examine if mats regulates diap1 at the transcriptional level, we used an enhancer trap line thj5C8, in which a lacZ reporter gene was inserted in diap1 and expression pattern of diap1-lacZ reflected that of the endogenous diap1 gene. We found that expression of diap1-lacZ was also elevated ( Figures 3B–3B″). Thus, mats is required to negatively regulate DIAP1 expression. To directly test the idea that mats promotes apoptosis, mats mutant clones were induced in larval eye discs that overexpress an apoptosis-promoting gene head involution defective (hid) in all cells behind the MF. As expected, expression of hid in a wild-type background increased apoptosis to cause a reduced eye phenotype (compare Figure 3E with 3D; Grether et al., 1995). Notably, removal of mats function blocked hid-induced cell death and significantly suppressed the small eye phenotype ( Figures 3C–3C″ and 3F). In these same tissues, developmental cell death was observed in regions anterior to the MF, where expression of the hid transgene was not induced. In these cases, apoptosis occurred only in wild-type tissues but not in mats mutant clones ( Figures 3C–3C″). Thus, mats is also required for developmentally programmed apoptosis. All together, our findings support a model that mats is required to facilitate cell death, and loss of mats’ apoptosis-promoting activity may contribute to tumor development.
+
+Full-size image (121 K)
+Figure 3. 
+mats Is Required to Promote Programmed Cell Death
+Third instar larval eye discs were immunostained and mats mutant clones were marked by the absence of β-Galactosidase (green) in (A) and (A″) and (C) and (C″). mats mutant clones in the eye disc shown in (B) and (B″) were identified by the presence of GFP (green).
+(A′–A″) Anti-DIAP1 antibody staining (red) shows that DIAP1 expression is elevated in mats clones located in the MF region. A mats clone is pointed by a yellow arrow. The genotype of the eye disc shown in (A′)–(A″) is w ey-FLP/+; FRT82B arm-lacZ/FRT82B matse235.
+(B′–B″) Anti-β-Galactosidase staining (red) shows that expression of diap1-lacZ is increased in mats clones. A mats clone is pointed with a yellow arrow. The genotype of the eye disc shown in (B)–(B″) is w ey-FLP UAS-GFP/+; Tub-Gal4 FRT82B Tub-Gal80/diap1-lacZ FRT82B matse235.
+(C′–C″) TUNEL staining of apoptotic cells (red) in GMR-hid eye discs containing mats clones shows that mats is required for hid-induced apoptosis. Moreover, mats is also required for developmental apoptosis (an example is pointed by a yellow arrow). The genotype of the eye disc shown in (C)–(C″) is w ey-FLP/+; +/GMR-hid; FRT82B arm-lacZ/FRT82B matse235. An inset in (C′) shows hid-induced apoptosis behind the MF in GMR-hid/+ eye discs (red, TUNEL staining).
+(D) A bright field image of a wild-type adult eye.
+(E) An image of a GMR-hid/+ adult shows a reduced eye phenotype due to hid-induced apoptosis.
+(F) An image of w ey-FLP/+;+/GMR-hid; FRT82B arm-lacZ/FRT82B matse235 adult eye shows the suppression effect of mats mutation on the hid-induced small eye phenotype.
+White arrows identify the MF. Anterior is to the left in all panels except (D)–(F), in which anterior is to the top.
+Figure options
+Apoptosis normally occurs in mid-pupal eye discs to eliminate cells no longer needed for eye development. Surprisingly, apoptosis continued to occur in mats mutant clones in mid-pupal eye discs at even higher levels than neighboring wild-type tissues (data not shown). This is probably because mats is no longer required for apoptosis in the eye at the pupal stage. Whether or not mats is required for apoptosis at this stage, cell death in mats mutant clones is likely due to defective cellular differentiation ( Figure 1F), which is known to generally cause increased apoptosis.
+
+mats Encodes a Mob Superfamily Protein
+To characterize the molecular nature of mats gene, we carried out deficiency and meiotic mapping experiments and located it in the 94A region on the third chromosome. By using a P transposon-mediated site-specific recombination method ( Chen et al., 1998), mats was further mapped to a 13 kb region at 94A12 ( Figure 4A). Our molecular analysis of a candidate gene in this region, designated CG13852 ( Adams et al., 2000), revealed that a 428 bp Roo transposon sequence was inserted behind codon 84 to cause a premature termination ( Figure 4A). This first mutant allele of CG13852 is named here roo. We also generated a second mutant allele of this gene, referred to as e235, by mobilizing a P transposon EP(3)3303 inserted approximately 2 kb downstream of CG13852 ( Figure 4A). Like roo, e235 causes homozygous lethality at early second larval stage and induces tumors in somatic clones of mosaic flies. Based on the larval lethal phenotype, e235 failed to complement roo as well as deficiency chromosomes with the 94A12 region deleted. Sequence analysis of e235 indicated that the second and third exons of CG13852 were deleted ( Figure 4A). Although the first exon is still intact, it encodes only the first four amino acids of CG13852. Thus, e235 is a null allele of CG13852.
+
+Full-size image (111 K)
+Figure 4. 
+Structure, Expression, and Evolution of the mats Gene
+(A) Through a P element-mediated site-specific recombination approach, eleven P element lines with P insertions in the 94A-B region on the third chromosome were used to map mats to a 13 kb DNA at 94A12. In matsroo, a 428 bp Roo transposon was inserted into the second exon of CG13852. In matse235, almost the entire CG13852 coding region as well as CG13848 were deleted.
+(B) Western blot analysis of a 25 kDa Drosophila Mats protein, expressed in pMt-mats-transfected Drosophila S2 cells (lane 1) or immunoprecipitated from wild-type pupae (lane 2).
+(C) Phylogenetic relationships of Mats proteins from representative vertebrates, invertebrates, plant, Mycetozoa (Dictyostelium discoideum), and fungi species. The tree was rooted with a Mob from Diplomonadida (Giardia lambia) and constructed with the neighbor joining method using poisson-corrected distances. The numbers for interior branches represent bootstrap values (only values higher than 65% are shown). Our analysis revealed that two Mats orthologs exist in vertebrate animals such as human, mouse, and zebrafish.
+(D) Alignment of Mats protein sequences. The percentage of identify of each Mats protein with Drosophila Mats is indicated at the end of each sequence. Residues that are identical to Drosophila Mats are highlighted in black, while similar residues are in gray.
+Figure options
+CG13852 encodes a 219-amino acid polypeptide, which is approximately 25 kDa in size ( Figure 4B). Due to CG13852’s apparent homology to the Mob superfamily ( Figure S1 available with this article online), it is renamed here Mats (Mob as tumor suppressor). Whole-mount immunostaining with anti-Mats antibodies indicated that mats is activated throughout development and ubiquitously expressed at a low level in tissues such as larval eye discs (data not shown). As a member of the Mob superfamily, Mats has no significant homology with any other previously characterized protein domains. To test if CG13852 can rescue defects induced by mats mutations, an in vivo assay was established to allow CG13852 transgene expression only in mutant cells by using the MARCM system ( Lee and Luo, 1999). We found that expression of a full-length CG13852 cDNA in mutant cells suppressed tumor growth and pupal lethality associated with the mosaic flies (compare Figure 1I with 1H and 1M with 1L). Moreover, ubiquitous expression of UAS-CG13852 driven by arm-Gal4 rescued larval lethality of mats homozygous mutants. These results further demonstrated that CG13852 corresponds to mats.
+
+A Human mats Ortholog, hMats1, Can Functionally Replace mats in Drosophila
+Through phylogenetic analysis, we have found four major groups of Mob proteins within the Mob superfamily (Figure S1). CG13852/Mats and its orthologs from animals and plants form the Mats gene family (Figure 4C). Mats proteins are highly conserved. For instance, fly Mats and human Mats1 (also named Mob1A) are 87% identical. Even plant Mats orthologs are over 64% identical to fly Mats (Figure 4D). In comparison, fly Mats shares no more than 40%–50% sequence identity with all other non-Mats Mob proteins from species such as yeast, fly, and humans. Such high levels of sequence conservation suggest that function of Mats proteins is evolutionarily conserved. To test functional homology, we introduced human Mats1 into Drosophila and found that it can effectively suppress tumor growth and rescue pupal lethality of mats mosaic flies (compare Figure 1J with 1H and 1N with 1L). Thus, the growth inhibitory function of Mats has been conserved from insects to humans.
+
+Mats1 Is Mutated in Both Human and Mouse Cancer Cells
+To further test our hypothesis that mammalian Mats functions as a tumor suppressor, 89 human and 8 mouse tumor-derived Mats cDNA sequences reported as expressed sequence tags (EST) in GenBank were examined and 2 Mats1 ESTs with disruptions in the coding region were identified, which were subsequently verified by our sequencing analysis. In the first case, three nucleotides were deleted in a Mats1 cDNA (hMats1ΔS6/7) derived from a human skin melanoma, which caused deletion of the sixth (or seventh) codon for Ser. This mutation greatly destabilized hMats1 because no hMats1 protein was detectable from hMats1ΔS6/7-transfected human 293T cells (data not shown). Another Mats1 cDNA (mMats1Δ6-216) derived from a mouse mammary gland carcinoma contains a 38 bp insertion immediately downstream of the fifth codon that causes a premature termination. As expected, no mMats1 protein product was detected (data not shown). These findings are exciting as they support a model that Mats1 may function as a tumor suppressor in mammals.
+
+Mats and Wts Synergistically Interact to Control Cell Proliferation and Apoptosis
+Cell overproliferation and apoptosis phenotypes caused by mats mutations are strikingly similar to those induced by loss-of-function mutations in hpo, sav, and wts genes, suggesting that mats may function in the Hpo-Sav-Wts pathway. In this study, we have investigated the relationship between mats and wts, and we conclude that these two genes genetically interact in growth inhibition and tumor suppression based on the following three lines of evidence. First, we found that a small eye phenotype caused by wts overexpression was suppressed by the reduction of mats function ( Figures 5A–5C). Second, using null alleles wtsX1 and matse235, double mutant analysis revealed that flies containing clones mutant for both mats and wts exhibited tumor phenotypes similar to that of either mats or wts mutant clones ( Figure 1H, inset; data not shown). These results are consistent with the idea that mats and wts function in a common pathway. The third evidence came from coexpression analysis of mats and wts. For this, we generated wts transgenic flies and found that overexpression of wts in the eye caused eye reduction and pupal lethality in a dosage-dependent manner ( Figure 5E). Both limited cell proliferation and enhanced apoptosis appeared to contribute to the reduced eye phenotype (data not shown). Coexpression of mats with wts in the eye strongly enhanced wts-induced small eye and pupal-lethal phenotypes (compare Figure 5F with 5E). With a relatively weak UAS-Myc-wts transgenic line (16B), approximately 20% (n = 222) of the ey-Gal4/UAS-Myc-wts flies died at the late pupal stage. However, over 70% (n = 189) of the ey-Gal4/UAS-Myc-wts UAS-mats flies exhibited late pupal-lethal phenotype when mats was coexpressed. The ey-Gal4/UAS-mats flies were completely viable and exhibited wild-type eye phenotype ( Figure 5D). Taken together, these findings support a model in which mats and wts synergistically interact to control cell proliferation and apoptosis.
+
+Full-size image (61 K)
+Figure 5. 
+mats Genetically Interacts with wts
+SEM images of adult fly eyes are shown in (A)–(F).
+(A) A wild-type adult eye is presented as a control.
+(B) GMR-wts/GMR-wts. Overexpression of wts in all cells posterior to the MF in the developing eye cause a rough eye phenotype.
+(C) GMR-wts +/GMR-wts matse235. The reduction of mats function dominantly suppressed the rough eye phenotype induced by GMR-wts.
+Genetic interaction between mats and wts is further demonstrated by coexpression analysis as shown in (D)–(I).
+(D) An adult eye of ey-Gal4/UAS-mats flies, which is phenotypically normal.
+(E and H) ey-Gal4/UAS-Myc-wts. Both the adult eye (E) and third instar larval eye disc (H) are smaller than those of wild-type.
+(F and I) ey-Gal4/UAS-Myc-wts UAS-mats. The adult eye is much smaller and exhibits a cone-eye phenotype (F). Similarly, the third instar larval eye disc is also much smaller compared to wild-type (I).
+(G) A wild-type third instar larval eye disc is shown as a control.
+Figure options
+The Wts family kinases exist across species. As mice deficient for Wts1/Lats1 develop soft-tissue sarcoma and ovarian tumors ( St John et al., 1999), and Wts2/Lats2 mutant embryos exhibit overgrowth in certain mesodermally derived tissues ( McPherson et al., 2004), mammalian Mats proteins may function together with Wts protein kinases for growth inhibition and tumor suppression.
+
+Mats Associates with Wts Protein Kinase
+To elucidate the molecular basis of Mats-Wts interaction, we tested whether Mats and Wts are associated to form a complex. For this, hemagglutinin A (HA)-tagged Mats and Myc-tagged Wts proteins were expressed in human 293T cells, and we found that these two proteins can be coimmunoprecipitated using either Myc or HA antibodies (Figure 6A). In an in vitro glutathione S-transferase (GST) pulldown assay, Wts can be pulled down only when Mats was present (Figure 6B). Thus, these data indicated that Mats physically associates with Wts protein kinase in a protein complex.
+
+Full-size image (68 K)
+Figure 6. 
+Mats Associates with Wts and Functions as an Activating Subunit of Wts Protein Kinase
+(A) Mats is coimmunoprecipitated with Wts. pCMV-Myc-wts, pCMV-HA-mats, and a pCMV vector were transfected to 293T cells as indicated (pCMV empty vector was used to maintain equal amount of DNA for each transfection). Lysates of transfected cells were used for Western blot (WB) to show the inputs. Immunoprecipitation (IP) and WB analysis were done with anti-Myc, anti-HA, and anti-GFP antibodies. GFP cannot be coimmunoprecipitated with Wts and was used as a negative control.
+(B) An in vitro pulldown assay shows that Wts associates with Mats. Bacterially produced GST (lanes 1 and 2) or GST-Mats (lanes 3 and 4) proteins were used to test their ability to interact with Myc-Wts (lanes 1 and 3), which was produced in transfected 293T cells. Lysates from pCMV empty vector-transfected 293T cells were used as negative controls (lanes 2 and 4).
+(C) Mats stimulates Wts kinase activity. pCMV, pCMV-Myc-wts, pCMV-Myc-wtsK743A, pCMV-HA-mats, and pCMV-hMats1 were used to transfect 293T cells. Anti-Myc antibody was used to immunoprecipitate Myc-Wts complexes for kinase assays. Wts mediates autophosphorylation (top panels) and phosphorylates Mats and hMats1 (bottom panels). The weak kinase activity observed in lane 7 may be due to a kinase (which is unlikely Mst1/Hpo) associated with WtsK743A/hMats1. Note that no kinase activity was observed in lanes 4 and 5 (repeated three times).
+(D) Mst1/Hpo kinase is not present in the Wts/Mats protein complex. Human 293T cells were transfected with the following DNA constructs: lane 1, untransfected; lane 2, a pCMV empty vector; lane 3, pCMV-Myc-wts/pCMV-HA-mats; lane 4, pCMV-Myc-wtsK743A/pCMV-HA-mats; lane 5, pCMV-Myc-wts/pCMV-hMats1; lane 6, pCMV-Myc-wtsK743A/pCMV-hMats1. Immunoprecipitation was done with anti-hMst1 (lane 1) and anti-Myc (lanes 2–6) antibodies.
+Cell transfection with a corresponding construct is indicated by a “+” sign in (A) and (C). The anti-Mats antibody crossreacts to the human Mats1 protein.
+Figure options
+Recent structural studies suggested that Mob proteins interact with Ndr (nuclear Dbf2-related) family kinases (Stavridi et al., 2003), which include yeast Dbf2 and Cbk1, fly Wts and Ndr/Tricornered (Trc), and human Wts1, Wts2, Ndr1, and Ndr2 proteins (Tamaskovic et al., 2003). In yeast, Mob1 binds to Dbf2 and is essential for Dbf2 function (Komarnitsky et al., 1998), while Mob2 physically associates with Cbk1 and is required for Cbk1 kinase activity (Weiss et al., 2002). Recently, two human Mob proteins were shown to form stable complexes with Ndr to stimulate the catalytic activity of Ndr protein kinases (Bichsel et al., 2004 and Devroe et al., 2004). Thus, a common feature of Mob proteins appears to be their ability to associate with corresponding protein kinase to regulate kinase catalytic activity. Thus, Mats association likely plays a role in Wts regulation.
+
+Mats Functions as an Activating Subunit of Wts Kinase
+Although the Wts kinase domain was shown to be essential for its growth inhibitory function (Kamikubo et al., 2003, Li et al., 2003 and Xia et al., 2002), catalytic activity of Wts kinase has not been directly demonstrated and no substrate of Wts has been identified up to now. To test our hypothesis that Mats is an activating subunit of Wts, fly Wts was immunoprecipitated from transfected 293T cells and used in an in vitro kinase assay. In the presence of Mats, the kinase activity of Wts was dramatically stimulated (Figure 6C, lanes 1–3). Clearly, Wts was responsible for the kinase activity as this activity was abolished when a kinase-dead form of Wts (WtsK743A) was used (Figure 6C, lanes 4 and 5). Moreover, human Mats1 functioned as effectively as fly Mats to upregulate Wts kinase activity (Figure 6C, lanes 6 and 7). Interestingly, Wts appears to undergo autophosphorylation (Figure 6C, top two panels) and Wts also phosphorylates Mats and hMats1 (Figure 6C, bottom two panels). Consistent with this, GST-Mats was phosphorylated by the Mats/Wts kinase complex in vitro (data not shown). Furthermore, we found that treatment of transfected 293T cells with a phosphatase inhibitor okadaic acid dramatically increased Wts kinase activity, suggesting that Wts and/or Mats phosphorylation is critical for Wts kinase activity. Although Wts was capable of associating with Hpo, the endogenous human Mst1/Hpo kinase was not detected in the Wts/Mats complex (Figure 6D). Thus, it is unlikely that Mats affects Hpo, which in turn activates the kinase activity of Wts. Using in vitro synthesized Wts and Mats proteins, we found that Mats can weakly activate the kinase activity of Wts (data not shown). Taken together, these results support a model in which Mats associates with and activates Wts protein kinase. This role of Mats as a coactivator of Wts appears to be conserved in flies and humans.
+
+Discussion
+Discovery of a New Tumor Suppressor Mats
+We have discovered a tumor suppressor, Mats, which is required to control cell proliferation and apoptosis in Drosophila. As a unique group of the Mob superfamily, Mats orthologs exist in both plants and animals. Since Mats proteins are highly conserved, their function may be conserved across species. In support of this, we found that human Mats1 can functionally substitute for mats in Drosophila. Importantly, loss-of-function mutations in Mats1 have been identified in a human skin cancer and a mouse breast tumor, suggesting that mammalian Mats genes may indeed act as tumor suppressors. Further molecular analysis of mammalian Mats genes from tumor tissues will be needed to test this hypothesis. On the basis of these data, we speculate that all mats genes from animals and plants may negatively regulate cell number and tissue growth by restricting cell proliferation and promoting apoptosis.
+
+Control of Cell Proliferation and Apoptosis by Mats
+Tumor suppressors normally act as inhibitors of cell proliferation or activators of apoptosis and use a variety of mechanisms in tissue growth suppression (Macleod, 2000 and Sherr, 2004). In this work, we have provided evidence that mats functions to restrict cell proliferation and promote apoptosis in Drosophila. In this regard, functions of mats are similar to those of hpo, sav, and wts. Like hpo, sav, and wts, mats negatively regulates expression of CycE and DIAP1, two key regulators involved in cell cycle or apoptosis control. However, the overgrowth phenotypes of mats mutants appear to be stronger than those of hpo, sav, and wts and therefore cannot be explained simply by increased expression of Cyclin E and loss of apoptosis. We suspect that mats might use other mechanisms to regulate cell number and organ size. For instance, Mats may negatively regulate cell cycle regulators such as Cdc25 protein phosphatase that is required for the G2-M transition. As yeast Mob1 is able to form a complex with Mps1 (Mono polar spindle 1) kinase ( Luca and Winey, 1998), Mats may also play a role in the spindle assembly checkpoint by acting together with Mps1. Mps1 has been previously shown to be involved in the spindle assembly checkpoint in yeast, and Mps1 is also implicated in this process in vertebrate cells ( Winey and Huneycutt, 2002). Involvement of Mats in the spindle assembly checkpoint would help explain the dramatic overgrowth phenotypes of mats mutants. Clearly, further investigations are needed to test these hypotheses.
+
+Consistent with a model that Mats functions as a critical component of the Hpo-Sav-Wts pathway, our data show that Mats associates with Wts to form a protein complex. Supporting this, crystal structure analysis of human Mats1/Mob1A revealed that several evolutionarily conserved acidic residues are exposed on the surface to provide a strong electrostatic potential for mediating protein-protein interactions (Stavridi et al., 2003). Based on this finding, Mats binding regions are expected to be basic and indeed such regions do exist in Wts family proteins (Tamaskovic et al., 2003). It remains to be addressed as to how exactly Mats interacts with Wts and whether the Mats-Wts complex can be associated with Hpo and Sav. Excitingly, we found that Mats functions as an activating subunit to stimulate Wts kinase activity. In this way, Wts activation can be effectively controlled by the availability of Mats protein through differential distribution of Mats in different tissues, cells, or subcellular locations. With Mats acting as an activator of Wts kinase, the relationship between Mats and Wts mimics that of Cyclin and Cyclin-dependent kinases, which are essential for cell cycle control.
+
+How does Mats association lead to Wts activation? In a model, association with Mats may allow Wts to undergo an allosteric conformational change critical for Wts activation or to simply relieve an autoinhibition of Wts. Interestingly, the N-terminal region of Wts was shown to be able to associate with its C-terminal kinase domain through intramolecular binding, and this interaction may be inhibitory for the Wts kinase activity (Tao et al., 1999). Thus, association with Mats may activate Wts by disrupting this intramolecular binding within Wts. In the case of human Ndr kinase, an autoinhibitory sequence has been identified and binding of the hMats1/hMob1A protein induces a release of this autoinhibition (Bichsel et al., 2004). In another model, Mats association may allow the Mats-Wts complex to recruit additional coactivators or to prevent coinhibitors from being recruited in order for Wts to be activated. Clearly, any model of Wts activation would have to consider the effect of Wts phosphorylation. First, Wts has been shown to be phosphorylated in a cell cycle-dependent manner (Tao et al., 1999). Because Wts kinase activity can be increased through treatment of phosphatase inhibitors (this study), phosphorylation appears to be critical for Wts kinase activity. Second, the Drosophila homolog of C-terminal Src kinase (dCsk) gene has been shown to genetically interact with wts to inhibit cell proliferation, and dCsk phosphorylates Wts in vitro ( Stewart et al., 2003). Third, human Wts2 is a phosphorylation target of Aurora-A kinase, and this phosphorylation plays a role in regulating centrosomal localization of hWts2 ( Toji et al., 2004). Finally, Hpo can directly target Wts for phosphorylation, and this event is facilitated by Sav ( Harvey et al., 2003 and Wu et al., 2003). At present, it is unclear how Mats may affect Wts phosphorylation by Hpo or how Mats-Wts complex may be regulated by Hpo through phosphorylation. In yeast, Mob1 is essential for the phosphorylation of Dbf2 kinase by an upstream kinase Cdc15 ( Mah et al., 2001). Further studies on Wts phosphorylation are expected to provide a better understanding of how Wts is regulated.
+
+While functions of most Mob superfamily proteins are still poorly understood, our work on Mats supports that a common feature of Mats proteins is to function as coactivators of protein kinases such as Wts. Identification and functional studies of Mats revealed a mechanism for the control of Wts tumor suppressor activity. Because Mats-mediated growth inhibition and tumor suppression appear to be evolutionarily conserved, it extends our understanding of tissue growth and cell number control during development and tumorigenesis and raises the possibility that Mats-dependent growth inhibition may have important implications for the understanding and treatment of human cancers.
+
+Experimental Procedures
+Molecular Analysis and Germline Transformation
+Standard methods for DNA analysis were used. Full-length cDNAs of Drosophila CG13852/mats (GenBank Accession AY061520), human Mats1 (BC003398), and Myc-wts (a gift of I. Hariharan; Tapon et al., 2002) were cloned into pUAST ( Brand and Perrimon, 1993) for making transgenic flies. Drosophila germline transformation was done as described ( Rubin and Spradling, 1982). An HA epitope was fused in frame with mats to generate HA-mats, and a wtsK743A mutant was generated using the QuickChange site-directed mutagenesis kit (Stratagene). HA-mats, hMats1, hMats1ΔS6/7 (BU172616), mMats1 (BC009149), mMats1Δ6-216 (AW910166), Myc-wts, and Myc-wtsK743A were cloned into a pCMV vector for expression in human embryonic kidney (HEK) 293T cells. mats was also cloned into a pMt vector, which contains a metallothionein promoter for copper-inducible expression in Drosophila S2 cells.
+
+Genetics, Immunocytochemistry, and Microscopy
+Fruit flies were cultured under standard conditions. Two loss-of-function alleles of mats, matsroo and matse235, were used in this study. Besides traditional meiotic and deficiency mapping methods, a fine mapping technique ( Chen et al., 1998) was used to determine the location of mats. Mosaic flies were generated using the FLP/FRT system ( Xu and Rubin, 1993 and Lee and Luo, 1999). EP(3)3303 was used to generate matse235 through imprecise excision of the P transposon. The following strains were used for clonal analysis, rescue, and overexpression experiments: (1) w ey-FLP; FRT82B P[w+] 90E, (2) w ey-FLP; FRT82B arm-lacZ/TM6B, (3) w ey-FLP UAS-GFP; Tub-Gal4 FRT82B Tub-Gal80/TM6B (a gift of J. Treisman), (4) w hs-FLP; FRT82B Ubi-GFP, (5) w hs-FLP; Tub-Gal4 FRT82B Tub-Gal80/TM6B, (6) w; FRT82B matsroo/TM6B, (7) w; FRT82B matse235/TM6B, (8) w; UAS-mats; FRT82B matsroo/SM6 TM6B, (9) w; UAS-hMats1; FRT82B matsroo/SM6 TM6B, (10) arm-Gal4, (11) ey-Gal4, (12) GMR-Gal4, (13) GMR-hid (a gift of B. Hay), (14) GMR-wts and (15) w; wtsX1/TM6B (gifts of I. Hariharan), and (16) thj5C8/TM6B (diap1-lacZ, obtained from the Bloomington Drosophila Stock Center).
+
+A mouse anti-Mats polyclonal antibody was generated using GST-Mats as an antigen. For immunostaining of eye discs, mouse anti-BrdU (Becton Dickinson), mouse anti-Diap1 (a gift of B. Hay), mouse anti-Armadillo (Arm) and rat anti-Elav (Developmental Studies Hybridoma Bank at the University of Iowa), rat anti-Cyclin E (a gift of H. Richardson), rabbit anti-GFP (Santa Cruz Biotech), rabbit anti-phospho-Histone H3 (PH3) (a gift of E. Siegfried), and rabbit anti-β-Galactosidase antibodies were used. Alexa Fluor (AF) 488, AF594. and AF680 (Molecular Probes) were used as secondary antibodies. TUNEL (Terminal deoxynucleotidyl transferase-mediated dUTP Nick End Labeling) assay was carried out to detect apoptosis using an in situ cell death detection kit (Roche). Images were collected with an Olympus Fluoview 300 Confocal Laser Scanning Microscope. GFP signals were directly recorded using a fluorescence microscope. Scanning electron microscopy (SEM) and adult eye section were done to examine adult eye phenotypes. Bright field images and plastic sections were analyzed using a Zeiss Axioplan compound light microscope.
+
+Immunoprecipitation, Western Blotting, and Kinase Assay
+HEK293T cells were maintained in Dulbecco’s modified Eagle’s medium. The cells were transiently transfected using PolyFect Transfection Reagent (Qiagen) and harvested 36 hr later in lysis buffer (150 mM NaCl, 50 mM Tris-HCl [pH = 7.4], 2 mM EDTA [pH = 8.0], 1% Triton-X 100, 10% glycerol, 2 mM DTT, 1 mM PMSF, 10 mM NaF, 2 mM Na3VO4, 60 mM Glycerol 2-phosphate, containing complete Protease inhibitors [Sigma]). Whole-cell extracts were clarified by microcentrifugation (13,000 × g for 10 min at 4°C) and supplemented with 10 μl anti-Myc (Santa Cruz Biotech) (or anti-HA [Roche], or anti-hMst1 [Upstate]) antibodies, incubated on ice for 2 hr, then added to 25 μl of Protein G beads (Sigma). The samples were rotated gently at 4°C for 2 hr. Beads were then washed three times with lysis buffer, treated with protein sample buffer, and subjected to SDS-PAGE. Anti-Myc, anti-HA, anti-Mats, anti-hMst1, and anti-GFP (Santa Cruz) antibodies were used for immunoblotting analyses. Our anti-Mats antibody crossreacted to human and mouse Mats1 proteins.
+
+For kinase assay, transfected 293T cells were incubated with the phosphatase inhibitor okadaic acid (0.1 μM) for 3 hr at 37°C before harvesting. Myc-Wts was immunoprecipitated and tested for its kinase activity in 19 μl kinase buffer (50 mM Tris [pH = 7.4], 60 mM potassium acetate, 10 mM MgCl2, 1 mM DTT, 10 μM ATP) and 10 μCi of [γ-32P] ATP at room temperature for 30 min. Reactions were stopped with 6× SDS/PAGE sample buffer and analyzed by electrophoresis and autoradiography.
+
+Acknowledgments
+We thank D. Nguyen for deficiency mapping of the roo mutation; N. Bajpayee, K. Harvey, Z. Malik, and S. Shah for technical assistance; and D. Cavener for his strong support to this project and stimulating discussions. We thank D. Cavener and R. Ordway for helpful comments on the manuscript. We also thank I. Hariharan, B. Hay, T. Orr-Weaver, H. Richardson, E. Siegfried, J. Treisman, K. White, and the Bloomington Drosophila Stock Center for reagents and fly strains. N.N. was supported by a grant from the National Institutes of Health (GM20293) to Masatoshi Nei. This work was supported by a seed grant to Z.-C.L. from the Pennsylvania State University and a grant to Z.-C.L. from the National Science Foundation.
+
+Supplemental Data
+ 
+Document S1..  
+
+Figure S1
+
+Help with PDF filesOptions
+References
+Adams et al., 2000
+M.D. Adams, S.E. Celniker, R.A. Holt, C.A. Evans, J.D. Gocayne, P.G. Amanatides, S.E. Scherer, P.W. Li, R.A. Hoskins, R.F. Galle et al.
+The genome sequence of Drosophila melanogaster
+Science, 287 (2000), pp. 2185–2195
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3483)
+Baker, 2001
+N.E. Baker
+Cell proliferation, survival, and death in the Drosophila eye
+Semin. Cell Dev. Biol., 12 (2001), pp. 499–507
+
+Article |  PDF (430 K) | View Record in Scopus | Citing articles (61)
+Bichsel et al., 2004
+S.J. Bichsel, R. Tamaskovic, M.R. Stegert, B.A. Hemmings
+Mechanism of activation of NDR (Nuclear Dbf2-related) protein kinase by the hMOB1 protein
+J. Biol. Chem., 279 (2004), pp. 35228–35235
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (61)
+Brand and Perrimon, 1993
+A. Brand, N. Perrimon
+Targeted gene expression as a means of altering cell fates and generating dominant phenotypes
+Development, 118 (1993), pp. 401–415
+
+View Record in Scopus | Citing articles (5077)
+Chen et al., 1998
+B. Chen, T. Chu, E. Harms, J.P. Gergen, S. Strickland
+Mapping of Drosophila mutations using site-specific male recombination
+Genetics, 149 (1998), pp. 157–163
+
+View Record in Scopus | Citing articles (67)
+Danial and Korsmeyer, 2004
+N.N. Danial, S.J. Korsmeyer
+Cell death: critical control points
+Cell, 116 (2004), pp. 205–219
+
+Article |  PDF (355 K) | View Record in Scopus | Citing articles (2509)
+Devroe et al., 2004
+E. Devroe, H. Erdjument-Bromage, P. Tempst, P.A. Silver
+Human Mob proteins regulate the NDR1 and NDR2 serine-threonine kinases
+J. Biol. Chem., 279 (2004), pp. 24444–24451
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+Grether et al., 1995
+M.E. Grether, J.M. Abrams, J. Agapite, K. White, H. Steller
+The head involution defective gene of Drosophila melanogaster functions in programmed cell death
+Genes Dev., 9 (1995), pp. 1694–1708
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (462)
+Harvey et al., 2003
+K.F. Harvey, C.M. Pfleger, I.K. Hariharan
+The Drosophila Mst ortholog, hippo, restricts growth and cell proliferation and promotes apoptosis
+Cell, 114 (2003), pp. 457–467
+
+Article |  PDF (775 K) | View Record in Scopus | Citing articles (302)
+Hay and Guo, 2003
+B.A. Hay, M. Guo
+Coupling cell growth, proliferation, and death. Hippo weighs in
+Dev. Cell, 5 (2003), pp. 361–363
+
+Article |  PDF (47 K) | View Record in Scopus | Citing articles (27)
+Jia et al., 2003
+J. Jia, W. Zhang, B. Wang, R. Trinko, J. Jiang
+The Drosophila Ste20 family kinase dMST functions as a tumor suppressor by restricting cell proliferation and promoting apoptosis
+Genes Dev., 17 (2003), pp. 2514–2519
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+Justice et al., 1995
+R.W. Justice, O. Zilian, D.F. Woods, M. Noll, P.J. Bryant
+The Drosophila tumor suppressor gene warts encodes a homolog of human myotonic dystrophy kinase and is required for the control of cell shape and proliferation
+Genes Dev., 9 (1995), pp. 534–546
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (326)
+Kamikubo et al., 2003
+Y. Kamikubo, A. Takaori-Kondo, T. Uchiyama, T. Hori
+Inhibition of cell growth by conditional expression of kpm, a human homologue of Drosophila warts/lats tumor suppressor
+J. Biol. Chem., 278 (2003), pp. 17609–17614
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Kango-Singh et al., 2002
+M. Kango-Singh, R. Nolo, C. Tao, P. Verstreken, P.R. Hiesinger, H.J. Bellen, G. Halder
+Shar-pei mediates cell proliferation arrest during imaginal disc growth in Drosophila
+Development, 129 (2002), pp. 5719–5730
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (135)
+Komarnitsky et al., 1998
+S.I. Komarnitsky, Y.C. Chiang, F.C. Luca, J. Chen, J.H. Toyn, M. Winey, L.H. Johnston, C.L. Denis
+DBF2 protein kinase binds to and acts through the cell cycle-regulated MOB1 protein
+Mol. Cell. Biol., 18 (1998), pp. 2100–2107
+
+View Record in Scopus | Citing articles (74)
+Lee and Orr-Weaver, 2003
+L.A. Lee, T.L. Orr-Weaver
+Regulation of cell cycles in Drosophila development: intrinsic and extrinsic cues
+Annu. Rev. Genet., 37 (2003), pp. 545–578
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Lee and Luo, 1999
+T. Lee, L. Luo
+Mosaic analysis with a repressible cell marker for studies of gene function in neuronal morphogenesis
+Neuron, 22 (1999), pp. 451–461
+
+Article |  PDF (432 K) | View Record in Scopus | Citing articles (40)
+Li et al., 2003
+Y. Li, J. Pei, H. Xia, H. Ke, H. Wang, W. Tao
+Lats2, a putative tumor suppressor, inhibits G1/S transition
+Oncogene, 22 (2003), pp. 4398–4405
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+Luca and Winey, 1998
+F.C. Luca, M. Winey
+MOB1, an essential yeast gene required for completion of mitosis and maintenance of ploidy
+Mol. Biol. Cell, 9 (1998), pp. 29–46
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+Macleod, 2000
+K. Macleod
+Tumor suppressor genes
+Curr. Opin. Genet. Dev., 10 (2000), pp. 81–93
+
+Article |  PDF (203 K) | View Record in Scopus | Citing articles (107)
+Mah et al., 2001
+A.S. Mah, J. Jang, R.J. Deshaies
+Protein kinase Cdc15 activates the Dbf2-Mob1 kinase complex
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 7325–7330
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+McPherson et al., 2004
+J.P. McPherson, L. Tamblyn, A. Elia, E. Migon, A. Shehabeldin, E. Matysiak-Zablocki, B. Lemmers, L. Salmena, A. Hakem, J. Fish et al.
+Lats2/Kpm is required for embryonic development, proliferation control and genomic integrity
+EMBO J., 23 (2004), pp. 3677–3688
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+Murray, 2004
+A.W. Murray
+Recycling the cell cycle: cyclins revised
+Cell, 116 (2004), pp. 221–234
+
+Article |  PDF (365 K) | View Record in Scopus | Citing articles (596)
+Oldham and Hafen, 2003
+S. Oldham, E. Hafen
+Insulin/IGF and target of rapamycin signaling: a TOR de force in growth control
+Trends Cell Biol., 13 (2003), pp. 79–85
+
+Article |  PDF (692 K) | View Record in Scopus | Citing articles (277)
+Pantalacci et al., 2003
+S. Pantalacci, N. Tapon, P. Leopold
+The Salvador partner Hippo promotes apoptosis and cell-cycle exit in Drosophila
+Nat. Cell Biol., 5 (2003), pp. 921–927
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (204)
+Richardson and Kumar, 2002
+H. Richardson, S. Kumar
+Death to flies: Drosophila as a model system to study programmed cell death
+J. Immunol. Methods, 265 (2002), pp. 21–38
+
+Article |  PDF (396 K)
+Rothenberg and Jan, 2003
+M.E. Rothenberg, Y.N. Jan
+Cell biology: the hippo hypothesis
+Nature, 425 (2003), pp. 469–470
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+Rubin and Spradling, 1982
+G.M. Rubin, A.C. Spradling
+Genetic transformation of Drosophila with transposable element vectors
+Science, 218 (1982), pp. 348–353
+
+View Record in Scopus | Citing articles (1461)
+Ryoo and Steller, 2003
+H.D. Ryoo, H. Steller
+Hippo and its mission for growth control
+Nat. Cell Biol., 5 (2003), pp. 853–855
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+Sherr, 2004
+C.J. Sherr
+Principles of tumor suppression
+Cell, 116 (2004), pp. 235–246
+
+Article |  PDF (309 K) | View Record in Scopus | Citing articles (516)
+Stavridi et al., 2003
+E.S. Stavridi, K.G. Harris, Y. Huyen, J. Bothos, P.M. Verwoerd, S.E. Stayrook, N.P. Pavletich, P.D. Jeffrey, F.C. Luca
+Crystal structure of a human Mob1 protein: toward understanding Mob-regulated cell cycle pathways
+Structure, 11 (2003), pp. 1163–1170
+
+Article |  PDF (569 K) | View Record in Scopus | Citing articles (32)
+Stewart et al., 2003
+R.A. Stewart, D.M. Li, H. Huang, T. Xu
+A genetic screen for modifiers of the lats tumor suppressor gene identifies C-terminal Src kinase as a regulator of cell proliferation in Drosophila
+Oncogene, 22 (2003), pp. 6436–6444
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+St John et al., 1999
+M.A. St John, W. Tao, X. Fei, R. Fukumoto, M.L. Carcangiu, D.G. Brownstein, A.F. Parlow, J. McGrath, T. Xu
+Mice deficient of Lats1 develop soft-tissue sarcomas, ovarian tumours and pituitary dysfunction
+Nat. Genet., 21 (1999), pp. 182–186
+
+View Record in Scopus | Citing articles (206)
+Tamaskovic et al., 2003
+R. Tamaskovic, S.J. Bichsel, B.A. Hemmings
+NDR family of AGC kinases—essential regulators of the cell cycle and morphogenesis
+FEBS Lett., 546 (2003), pp. 73–80
+
+Article |  PDF (458 K) | View Record in Scopus | Citing articles (75)
+Tao et al., 1999
+W. Tao, S. Zhang, G.S. Turenchalk, R.A. Stewart, M.A. St John, W. Chen, T. Xu
+Human homologue of the Drosophila melanogaster lats tumor suppressor modulates CDC2 activity
+Nat. Genet., 21 (1999), pp. 177–181
+
+View Record in Scopus | Citing articles (157)
+Tapon et al., 2002
+N. Tapon, K.F. Harvey, D.W. Bell, D.C.R. Wahrer, T.A. Schiripo, D.A. Haber, I.K. Hariharan
+salvador promotes both cell cycle exit and apoptosis in Drosophila and is mutated in human cancer cell lines
+Cell, 110 (2002), pp. 467–478
+
+Article |  PDF (814 K) | View Record in Scopus | Citing articles (298)
+Toji et al., 2004
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+Treisman and Heberlein, 1998
+J.E. Treisman, U. Heberlein
+Eye development in Drosophila: formation of the eye field and control of differentiation
+Curr. Top. Dev. Biol., 39 (1998), pp. 119–158
+
+Article |  PDF (3306 K) | View Record in Scopus | Citing articles (77)
+Udan et al., 2003
+R.S. Udan, M. Kango-Singh, R. Nolo, C. Tao, G. Halder
+Hippo promotes proliferation arrest and apoptosis in the Salvador/Warts pathway
+Nat. Cell Biol., 5 (2003), pp. 914–920
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (235)
+Wang et al., 1999
+S.L. Wang, C.J. Hawkins, S.J. Yoo, H.A. Muller, B.A. Hay
+The Drosophila caspase inhibitor DIAP1 is essential for cell survival and is negatively regulated by HID
+Cell, 98 (1999), pp. 453–463
+
+Article |  PDF (428 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Weiss et al., 2002
+E.L. Weiss, C. Kurischko, C. Zhang, K. Shokat, D.G. Drubin, F.C. Luca
+The Saccharomyces cerevisiae Mob2p-Cbk1p kinase complex promotes polarized growth and acts with the mitotic exit network to facilitate daughter cell-specific localization of Ace2p transcription factor
+J. Cell Biol., 158 (2002), pp. 885–900
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (121)
+Winey and Huneycutt, 2002
+M. Winey, B.J. Huneycutt
+Centrosomes and checkpoints: the MPS1 family of kinases
+Oncogene, 21 (2002), pp. 6161–6169
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+Wolff and Ready, 1993
+T. Wolff, D.F. Ready
+Pattern formation in the Drosophila retina
+M. Bate, A. Martinez-Arias (Eds.), The Development of Drosophila melanogaster, Cold Spring Harbor Laboratory Press, Plainview, New York (1993), pp. 1277–1325
+
+Wu et al., 2003
+S. Wu, J. Huang, J. Dong, D. Pan
+hippo encodes a Ste-20 family protein kinase that restricts cell proliferation and promotes apoptosis in conjunction with salvador and warts
+Cell, 114 (2003), pp. 445–456
+
+Article |  PDF (896 K) | View Record in Scopus | Citing articles (326)
+Xia et al., 2002
+H. Xia, H. Qi, Y. Li, J. Pei, J. Barton, M. Blackstad, T. Xu, W. Tao
+LATS1 tumor suppressor regulates G2/M transition and apoptosis
+Oncogene, 21 (2002), pp. 1233–1241
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+Xu and Rubin, 1993
+T. Xu, G.M. Rubin
+Analysis of genetic mosaics in developing and adult Drosophila tissues
+Development, 117 (1993), pp. 1223–1237
+
+View Record in Scopus | Citing articles (1323)
+Xu et al., 1995
+T. Xu, W. Wang, S. Zhang, R.A. Stewart, W. Yu
+Identifying tumor suppressors in genetic mosaics: the Drosophila lats gene encodes putative protein kinase
+Development, 121 (1995), pp. 1053–1063
+
+View Record in Scopus | Citing articles (318)
+Corresponding author contact information
+PH: 814-863-0479, Fax: 814-865-9131
+5
+These authors contributed equally to this work.
+6
+Present Address: Department of Biology, The Johns Hopkins University, 3400 North Charles Street, Baltimore, Maryland 21218.
+7
+Present Address: Department of Biology, The Community College of Baltimore County at Essex, 7201 Rossville Boulevard, Baltimore County, Maryland 21237.
+Copyright © 2005 Elsevier Inc. All rights reserved.

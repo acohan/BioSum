@@ -1,0 +1,568 @@
+﻿Selective Requirement of PI3K/PDK1 Signaling for Kras Oncogene-Driven Pancreatic Cell Plasticity and Cancer
+Stefan Eser1, 9, Nina Reiff1, 9, Marlena Messer1, 9, Barbara Seidler1, Kathleen Gottschalk1, Melanie Dobler1, Maren Hieber1, Andreas Arbeiter1, Sabine Klein1, Bo Kong2, Christoph W. Michalski2, Anna Melissa Schlitter3, Irene Esposito3, 8, Alexander J. Kind4, Lena Rad5, Angelika E. Schnieke4, Manuela Baccarini6, Dario R. Alessi7, Roland Rad1, 5, 8, Roland M. Schmid1, 8, Günter Schneider1, Dieter Saur1, 8, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.ccr.2013.01.023
+Under an Elsevier user license
+Refers To
+Françoise Bono, Frederik De Smet, Corentin Herbert, Katrien De Bock, Maria Georgiadou, Pierre Fons, Marc Tjwa, Chantal Alcouffe, Annelii Ny, Marc Bianciotto, Bart Jonckx, Masahiro Murakami, Anthony A. Lanahan, Christof Michielsen, David Sibrac, Frédérique Dol-Gleizes, Massimiliano Mazzone, Serena Zacchigna, Jean-Pascal Herault, Christian Fischer, Patrice Rigon, et al.
+Inhibition of Tumor Angiogenesis and Growth by a Small-Molecule Multi-FGF Receptor Blocker with Allosteric Properties
+Cancer Cell, Volume 23, Issue 4, 15 April 2013, Pages 477-488
+ PDF (794 K)  Supplementary content
+Referred to by
+Françoise Bono, Frederik De Smet, Corentin Herbert, Katrien De Bock, Maria Georgiadou, Pierre Fons, Marc Tjwa, Chantal Alcouffe, Annelii Ny, Marc Bianciotto, Bart Jonckx, Masahiro Murakami, Anthony A. Lanahan, Christof Michielsen, David Sibrac, Frédérique Dol-Gleizes, Massimiliano Mazzone, Serena Zacchigna, Jean-Pascal Herault, Christian Fischer, Patrice Rigon, et al.
+Inhibition of Tumor Angiogenesis and Growth by a Small-Molecule Multi-FGF Receptor Blocker with Allosteric Properties
+Cancer Cell, Volume 23, Issue 4, 15 April 2013, Pages 477-488
+ PDF (794 K)  Supplementary content
+  Open Archive
+Summary
+Oncogenic Kras activates a plethora of signaling pathways, but our understanding of critical Ras effectors is still very limited. We show that cell-autonomous phosphoinositide 3-kinase (PI3K) and 3-phosphoinositide-dependent protein kinase 1 (PDK1), but not Craf, are key effectors of oncogenic Kras in the pancreas, mediating cell plasticity, acinar-to-ductal metaplasia (ADM), and pancreatic ductal adenocarcinoma (PDAC) formation. This contrasts with Kras-driven non-small cell lung cancer, where signaling via Craf, but not PDK1, is an essential tumor-initiating event. These in vivo genetic studies together with pharmacologic treatment studies in models of human ADM and PDAC demonstrate tissue-specific differences of oncogenic Kras signaling and define PI3K/PDK1 as a suitable target for therapeutic intervention specifically in PDAC.
+
+Highlights
+► PI3K (p110αH1047R)-induced neoplasia phenocopies KrasG12D-driven ADM, PanINs, and PDAC ► Deletion of Pdk1 blocks KrasG12D-induced PDAC but not NSCLC ► Craf is dispensable for Kras-induced PanIN and PDAC development ► The PI3K/PDK1 pathway is a target for therapeutic intervention in Kras-driven PDAC
+
+Significance
+Kras-driven tumors such as PDAC, NSCLC, or colon cancer differ in prognosis and response to targeted therapies. However, the underlying molecular mechanisms are largely unknown. Oncogenic Kras activates diverse signaling pathways but the functional relevance of specific Kras effectors is unclear for most cancer types. Because Kras is considered undruggable, this has hampered progress toward targeted therapeutic interventions. We provide in vivo genetic evidence for context-specific effector pathways of oncogenic Kras in PDAC and NSCLC and define cell autonomous Kras → PI3K → PDK1 signaling as a critical and therapeutically tractable axis in pancreatic cancer initiation and maintenance.
+
+Introduction
+Pancreatic ductal adenocarcinoma (PDAC) is nearly uniformly fatal despite maximal treatment, with fewer than 1% of patients surviving 5 years (Carpelan-Holmström et al., 2005). A wealth of molecular studies have identified mutant Kras as the initiating event (Hidalgo, 2010; Hingorani et al., 2003; Morris et al., 2010; Pylayeva-Gupta et al., 2011). Expression of KrasG12D or KrasG12V in the murine pancreas induces acinar cell dedifferentiation, acinar-to-ductal metaplasia (ADM), and premalignant precursor lesions, called pancreatic intraepithelial neoplasia (PanIN) that progress to metastatic PDAC (Guerra et al., 2007; Hingorani et al., 2003; Morris et al., 2010; Pinho et al., 2011; Seidler et al., 2008). Oncogenic Kras activates a plethora of signaling pathways, including canonical Raf/MEK/ERK, PI3K/AKT, RalGDS/p38 MAPK, Rac and Rho, Rassf1, NF1, p120GAP, and PLC-ε (Castellano and Downward, 2011; Pylayeva-Gupta et al., 2011). However, which of these effector pathways of oncogenic Kras control cell fate decisions and PDAC formation remains an outstanding question (Morris et al., 2010; Pylayeva-Gupta et al., 2011).
+
+The PI3K/AKT pathway is uniformly activated in human PDAC and mouse models of Kras-driven pancreatic cancer (Jimeno et al., 2008; Kennedy et al., 2011; Ying et al., 2011). PI3Ks are a family of heterodimeric lipid kinases composed of catalytic and regulatory subunits that, on stimulation, catalyze production of the second messenger phosphatidylinositol-3,4,5-triphosphate (PIP3), which activates downstream kinases, such as PDK1 and AKT (Castellano and Downward, 2011; Bader et al., 2005). p110α, which is encoded by PIK3CA, is the catalytic subunit of the ubiquitously expressed class IA PI3Kα. Hotspot mutations of p110α that activate PI3K signaling have been identified in the helical domain (E542K and E545K) and the catalytic domain (H1047R) in a variety of human cancers, including breast and lung ( Bader et al., 2005; Liu et al., 2009). Transgenic expression of p110αH1047R in mice induces breast and lung cancer ( Adams et al., 2011; Engelman et al., 2008; Liu et al., 2011).
+
+Taking advantage of genetically engineered murine and patient-derived humanized cancer models, we set out to analyze the contribution of Kras effector pathways to PDAC and NSCLC development.
+
+Results
+Pancreas-Specific PI3K Pathway Activation by Expression of Oncogenic p110αH1047R Induces ADM and Premalignant PanIN
+To explore the role of the PI3K/AKT signaling pathway in Kras-induced cell plasticity, ADM, and PDAC formation, we generated a latent oncogenic PIK3CAH1047R (encoding p110αH1047R) allele silenced by a lox-stop-lox (LSL) cassette as a knock-in at the mouse Rosa26 locus (LSL-PIK3CAH1047R mouse line; Figures S1A–S1C available online). To activate the expression of p110αH1047R and thus PI3K signaling, specifically in the pancreas, we used the well-established Ptf1aCre driver line to direct recombination in pancreatic acini, ducts, and islets ( Figures S1D and S1E) ( Nakhai et al., 2007; Seidler et al., 2008; von Werder et al., 2012).
+
+Transgenic expression of p110αH1047R from the Rosa26 locus resulted in moderately increased PIP3 levels in the pancreas, similar to expression of KrasG12D from the endogenous Kras locus in the established KrasG12D knock-in mouse model ( Figures 1A and 1B). Importantly, we observed no obvious difference in the p110α protein levels in pancreatic tissue lysates between Ptf1aCre/+;LSL-PIK3CAH1047R/+ animals and Ptf1aCre/+;LSL-KrasG12D knock-in mice ( Figure 1B), even though Ptf1aCre/+;LSL-PIK3CAH1047R/+ animals carried PIK3CAH1047R in the Rosa26 locus in addition to their endogenous Pik3ca. Ptf1aCre/+;LSL-PIK3CAH1047R/+ mice were viable and revealed no overt phenotype after birth. However, pancreatic size and weight were increased, as previously shown in the KrasG12D model ( Figure 1C).
+
+Full-size image (195 K)
+Figure 1. 
+Constitutive Activation of PI3K Signaling Causes ADM and Neoplastic Changes in the Pancreas
+(A) Genetic strategy used to activate p110αH1047R or KrasG12D expression in the pancreas.
+(B) Immunoblot analysis of p110α expression levels (upper panel) and PIP3 activity (lower panel) in pancreata of 6-week-old control (Ctrl), Ptf1aCre/+;LSL-KrasG12D/+ (KrasG12D/+) and Ptf1aCre/+;LSL-PIK3CAH1047R/+ (PIK3CAH1047R/+) compound mutant mice (n = 3 per genotype).
+(C) Representative images and weight of KrasG12D/+ and PIK3CAH1047R/+ mutant pancreata.
+(D) Representative alcian blue and hematoxylin and eosin (H&E) stained sections of ADM and different grades of pancreatic intraepithelial neoplasia (PanIN) in Ptf1aCre/+;PIK3CAH1047R/+ (upper panel) and Ptf1aCre/+;LSL-KrasG12D/+ (lower panel) mutant animals (age from left to right, respectively: 1 month, 3 months, 6 months, 9 months, 9 months). The arrow indicates a PanIN-1 and the arrowhead a PanIN-2 lesion. Insets show representative lesions in high magnification. Scale bars, 50 μm.
+(E) Quantification of ADM and PanIN progression in the KrasG12D/+ and PIK3CAH1047R/+ models (n = 3 per time point; 3 representative slides per mouse).
+(F) Immunohistochemical analysis of PI3K/AKT pathway activation in ADMs and PanINs of 6-month-old Ptf1aCre/+;PIK3CAH1047R/+ and Ptf1aCre/+;LSL-KrasG12D/+ mutant mice. Insets show representative lesions in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets.
+(G) Immunoblot analysis of PI3K/AKT pathway activation in control (Ctrl), PIK3CAH1047R/+ and KrasG12D/+ mutant pancreata of 6-month-old mice. β-actin was used as loading control. Error bars, ± SEM.
+See also Figure S1.
+Figure options
+Histopathologic analyses revealed that all Ptf1aCre/+;LSL-PIK3CAH1047R/+ mice developed massive induction of ADM, a condition where terminally differentiated acinar cells dedifferentiate into a progenitor-like state and acquire features of ductal cells ( Figure 1D) ( Pinho et al., 2011). Furthermore, all animals developed PanIN, a precursor lesion of PDAC ( Figure 1D) ( Hruban et al., 2006). The amount and grade of these lesions increased over time from PanIN-1A, already present in 1-month-old mice, to PanIN-3, found in some 9-month-old animals, which represents carcinoma in situ ( Figures 1D and 1E). The PIK3CAH1047R/+ and KrasG12D/+ models showed very similar patterns of ADM induction and PanIN progression ( Figures 1D and 1E) and markers of PI3K pathway activation were almost identical, as shown by immunohistochemistry and western blot analysis of tissue lysates ( Figures 1F and 1G). Indicators of PI3K signaling, such as proliferation of PanIN lesions, were consistently similar in both models ( Figures S1F and S1G). These observations support the view that pancreas-specific activation of PI3K signaling phenocopies KrasG12D-induced cellular plasticity and PanIN formation.
+
+To confirm that acinar cell plasticity via ADM is indeed involved in PanIN and PDAC development, we used an elastase-1 Cre driver line ( Stanger et al., 2005) to specifically activate p110αH1047R in acinar cells. This induced ADM and PanIN lesions with the same frequency as expression of oncogenic KrasG12D ( Figures S1H–S1J). In contrast, pancreas-specific constitutive activation of Rac1 signaling by expressing a dominant active Rac1G12V allele from the Rosa26 locus (Ptf1aCre/+;LSL-Rac1G12V/+ mice) ( Srinivasan et al., 2009) failed to induce ADM and PanINs ( Figure S1K). Since Rac1 is a downstream effector of PI3K and is activated in the KrasG12D model of pancreatic cancer ( Heid et al., 2011), failure of Rac1G12V to induce ADM and PanINs argues for the specific involvement of canonical PI3K/AKT signaling in pancreatic tumor formation.
+
+Expression of Oncogenic p110αH1047R in the Pancreas Phenocopies KrasG12D-Induced Metastatic PDAC
+To test whether p110αH1047R is also capable of inducing pancreatic cancer, we aged Ptf1aCre/+;LSL-PIK3CAH1047R/+ mice. All animals in the tumor watch cohort developed PDAC within 800 days ( Figures 2A, 2B, and S2A). Comparison of tumor formation and survival of PIK3CAH1047R and KrasG12D mutant animals revealed striking similarities, with nearly identical survival times and similar rates of metastasis ( Figures 2A and S2B). p110αH1047R-induced tumors were histopathologically indistinguishable from human and murine KrasG12D-induced PDAC and showed the full spectrum of the human disease, ranging from well-differentiated ductal PDAC to undifferentiated tumors and typical metastasis to lymph nodes, liver, and lung ( Figures 2B, S2A, and S2B) ( Hruban et al., 2006).
+
+Full-size image (108 K)
+Figure 2. 
+Expression of Oncogenic p110αH1047R Induces Metastatic PDAC
+(A) Kaplan-Meier survival curves of the indicated genotypes (n.s., not significant; ∗∗∗p < 0.001, log-rank test).
+(B) Macroscopic and microscopic images of PDAC and associated metastasis indicated by arrows in PIK3CAH1047R/+ mutant mice.
+(C) Immunohistochemical analysis of PI3K/AKT pathway activation in p110αH1047R (upper panel) and KrasG12D (lower panel) induced PDAC.
+(D) Immunoblot analysis of PI3K/AKT pathway activation in the pancreas of 9-month-old Ctrl and age-matched PanIN-bearing pancreata and PDAC from PIK3CAH1047R/+ and KrasG12D/+ mutant mice. β-actin was used as loading control. Insets show representative lesions in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets.
+See also Figure S2.
+Figure options
+To explore activation of PI3K signaling in p110αH1047R- and KrasG12D-driven pancreatic cancer, we analyzed tissues from these animals using phospho-specific antibodies. Similar activation of the key downstream effectors of PI3K signaling, pAKT-T308, pAKT-S473, and pGSK3β-S9 was observed in both models (Figures 2C and 2D). Importantly, we found that mutant p110αH1047R did not activate Ras in primary tissue specimens and PDAC cell lines from Ptf1aCre/+;PIK3CAH1047R/+ animals, indicating that the effects observed in the PIK3CAH1047R model were not due to Ras cross activation ( Figures S2C and S2D). Consistent with data from pancreatic tissues of the Ptf1aCre/+;LSL-PIK3CAH1047R/+ model ( Figure 1B), we found no obvious increase of p110α expression levels in PIK3CAH1047R mutant PDAC cell lines ( Figure S2D). This accords with previous findings that p110α not bound to the p85 regulatory subunit is unstable and rapidly degraded ( Engelman et al., 2008).
+
+Oncogenic PI3K Signaling Activates a Senescence Program in the Pancreas that Is Bypassed by Loss of Cdkn2a
+We next analyzed tumor-suppressive mechanisms in the PIK3CAH1047R model. Expression of p110αH1047R-induced a senescence program in the pancreas. All low-grade PanIN lesions examined stained positive for senescence-associated β-galactosidase (SA-β-Gal), which has been recently shown to be the only reliable oncogene-induced senescence biomarker in the pancreas ( Figure S2E) ( Caldwell et al., 2012). Importantly, these lesions showed concomitant upregulation of both Cdkn2a gene products, p16/Ink4a and p19/Arf, and activation of the p53/p21Cip1 pathway ( Figures S2E and S2F).
+
+In PDAC however, p16/Ink4a and p19/Arf expression is lost as demonstrated previously in the KrasG12D model (Figure S2F and data not shown) (Bardeesy et al., 2006). Consistent with this, genomic analyses revealed frequent deletion of the Cdkn2a locus in p110αH1047R-induced cancers (data not shown). Again, these observations demonstrate that the PIK3CAH1047R model phenocopies KrasG12D-induced PDAC with respect to tumor suppressor usage ( Bardeesy et al., 2006). Accordingly, mimicking loss of heterozygosity of Cdkn2a by inactivation of one allele using floxed Cdkn2a mice ( Bardeesy et al., 2006) accelerated PDAC formation in the PIK3CAH1047R and KrasG12D model ( Figures S2G and S2H). To investigate the effect of Cdkn2a inactivation on oncogene-induced senescence of PanIN lesions, we inactivated both Cdkn2a alleles. As expected, this completely blocked senescence of early PanIN lesions ( Figures S2I and S2J). These findings demonstrate the importance of the Cdkn2a tumor suppressor locus for PDAC progression. Interestingly, median survival times were indistinguishable between both heterozygous deletion models, arguing that identical pathways and tumor suppressors operate in p110αH1047R- and KrasG12D-driven PDAC formation.
+
+Taken together, these murine in vivo modeling studies clearly demonstrate that PI3K signaling induces acinar cell plasticity, ADM, PanIN formation, senescence via upregulation of p16/Ink4a and p19/Arf, bypass of senescence by inactivation of Cdkn2a, and ultimately PDAC formation.
+
+PI3K Pathway Activation in Human ADM, PanIN, and PDAC
+PI3K/AKT activation is a classical and uniform feature of human PDAC (Jimeno et al., 2008; Kennedy et al., 2011; Reichert et al., 2007; Ying et al., 2011). However, the role of PI3K/AKT signaling during the early stages of human pancreatic carcinogenesis, namely ADM and PanIN formation, remains unclear. To test our hypothesis that the PI3K/AKT pathway is activated in human ADM, PanIN and PDAC, we analyzed key surrogates of PI3K signaling: AKT-T308/S473 and GSK3β-S9 phosphorylation (Figures 3A and 3B). In accordance with the murine in vivo studies, we observed strong activation of PI3K signaling in tissue microarrays of nearly all human ADM (n = 21), PanIN (n = 32), and PDAC (n = 205) specimens (Figure 3C).
+
+Full-size image (187 K)
+Figure 3. 
+PI3K/AKT Pathway Activation in Human Pancreatic ADM and Neoplasia
+(A) H&E stains and immunohistochemical analysis of CK19 and PI3K/AKT pathway activation in human ADM.
+(B) H&E staining and immunohistochemical PI3K/AKT pathway analysis of human low- and high-grade PanINs and PDAC.
+(C) Frequency of PI3K pathway activation in ADM, PanINs and PDAC. Bar graphs show the percentage of lesions that stained positive or negative on human tissue microarrays for pAKT-T308. ADM (n = 21 patients), PanINs (n = 32 patients), and PDAC (n = 205 patients).
+(D) Immunoblot analysis of PI3K/AKT pathway activation in protein lysates of normal human pancreatic cells (panc.), patient-derived low passaged primary PDAC cells (n = 3 patients), and primary patient-derived PDAC xenografts (n = 7 patients). β-actin was used as loading control. Insets show representative lesions in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets.
+Figure options
+In addition, we validated PI3K pathway activation in human PDAC using patient-derived primary xenografted tumors, early-passage cell lines, and normal pancreatic tissue (Figure 3D). These data suggest that PI3K/AKT signaling is activated at the earliest stages of tumor evolution in humans and controls pancreatic cell plasticity and carcinogenesis.
+
+Elimination of PDK1 Invariably Blocks Kras-Driven ADM, PanIN, and PDAC In Vivo
+PI3K activates various downstream effectors by converting phosphatidylinositol (4,5)-bisphosphate (PIP2) into the second messenger PIP3. PIP3 transmits PI3K signals by directly binding to proteins with pleckstrin homology (PH) domains, such as PDK1 and AKT (Cantley, 2002), targeting them to the cell membrane. In turn, PDK1 activates AKT by threonine 308 phosphorylation (Alessi et al., 1997; Currie et al., 1999).
+
+To test whether cell autonomous signaling of the direct PI3K downstream target PDK1 is essential for Kras-driven pancreatic plasticity and PDAC formation, we inactivated Pdk1 specifically in the epithelial compartment of the pancreas using floxed Pdk1 mice ( Lawlor et al., 2002). Ptf1aCre/+-induced deletion of Pdk1 in the pancreas was verified by PCR, quantitative RT-PCR, Western blot analysis and immunohistochemistry ( Figures S3A–S3C and S3E–S3G). Consistent with our hypothesis, PDK1 inactivation completely blocked PanIN and PDAC formation in the KrasG12D model ( Figures 4A–4D). Pancreata showed normal weight and morphology with some areas of fatty degeneration in older animals, a common sign of cellular stress due to Kras oncogene expression ( Figures 4B and 4C). Inactivation of PDK1 resulted in normal life expectancy in the KrasG12D model (Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f), whereas deletion of one Pdk1 allele (Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/+) did not alter PanIN and PDAC formation ( Figures 4B, 4D, 4F, and S3G). Loss of epithelial PDK1 expression in the KrasG12D model correlated well with PI3K/AKT pathway inactivation ( Figures 4E, 4F, and S3I) without affecting Ras activity ( Figure 4G) or PIP3 levels ( Figure S3F). Importantly, we did not observe hypoplasia or developmental defects of the pancreas, pancreatic islets, and beta cells, or overt hyperglycemia and lethality due to PDK1 inactivation in pancreas epithelia as reported by other groups using different Cre-driver lines and genetic backgrounds ( Figures 4B, 4D, S3D, S3G, and S3H) ( Hashimoto et al., 2006; Westmoreland et al., 2009). We did however observe impaired glucose tolerance, but this did not progress to diabetes mellitus ( Figures S3D and S3H).
+
+Full-size image (177 K)
+Figure 4. 
+Epithelial PDK1 Is Essential for KrasG12D-Driven Pancreatic Carcinogenesis
+(A) Genetic strategy used to study the cell-autonomous role of the PI3K substrate PDK1 in KrasG12D-driven pancreatic cancer formation.
+(B) Representative H&E stains of control (Ptf1aCre/+;LSL-KrasG12D/+) and conditional Pdk1 knockout (Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f) mice.
+(C) Pancreatic weight of 6-month-old mice with the indicated genotypes (n.s., not significant; ∗∗p < 0.01, Student’s t test).
+(D) Kaplan-Meier survival analysis of the indicated conditional genotypes. + denotes the wild-type allele, f the conditional allele (n.s., not significant; ∗∗∗p < 0.001, log-rank test).
+(E) Immunoblot analysis of PI3K/AKT pathway activation in pancreata of 12-month-old Ptf1aCre/+;LSL-KrasG12D/+ and Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f compound mutant mice.
+(F) Immunohistochemical analysis of PI3K/AKT pathway activation in the pancreas of 12-month-old mice with the indicated genotypes. Arrowheads indicate ADM and arrows PanIN-1 lesions.
+(G) Analysis of activated Ras (Ras-GTP) in the pancreas of 1- and 12-month-old Ptf1aCre/+;LSL-KrasG12D/+ and Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f mice.
+(H) qRT-PCR analysis of p16/Ink4a and p19/Arf mRNA expression in the pancreas of mice with the indicated genotypes. Data are shown as fold change versus Ctrl. Insets show representative histology in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets. Error bars, ± SEM.
+See also Figure S3.
+Figure options
+Besides AKT, PDK1 also transmits PI3K-dependent signals to SGK and S6K. The PDK1 effectors RSK and isoforms of PKC are probably not directly controlled by PI3K (Pearce et al., 2010). To determine whether PDK1 substrates other than AKT play a role in KrasG12D-induced pancreatic carcinogenesis, we investigated whether their phosphorylation states were affected by the Pdk1 knockout in vivo. Deletion of Pdk1 in the KrasG12D model blocked PKC, RSK (p90RSK-T359/S363), AKT-T308, and GSK3β-S9 phosphorylation ( Figure S3I). Notably, we observed considerable variation in the phosphorylation levels of PKC and RSK in Ptf1aCre/+;LSL-KrasG12D/+ pancreata, whereas AKT and GSK3β phosphorylation was always uniformly present ( Figure S3I). These results provide biochemical evidence that canonical AKT-dependent signaling downstream of PI3K/PDK1 contributes significantly to the observed effects, although the importance of additional PDK1 substrates and alternate effectors cannot be completely excluded ( Pearce et al., 2010).
+
+PDK1 Is Essential for Kras-Induced Upregulation of p16/Ink4 and p19/Arf
+To test our hypothesis that PI3K/PDK1 signaling transmits oncogenic KrasG12D-induced failsafe mechanisms, we investigated regulation of p16/Ink4 and p19/Arf in pancreata in which the PI3K signaling pathway had been disrupted (Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f model, Figure 4F). PDK1 deficiency significantly reduced p16/Ink4a and p19/Arf induction compared to Ptf1aCre/+;LSL-KrasG12D/+ animals ( Figure 4H). These in vivo genetic studies therefore support the view that KrasG12D-dependent oncogenic stress fluxes through PDK1 to induce upregulation of the p16/Ink4a and p19/Arf tumor suppressors.
+
+Elimination of PDK1 Blocks PDAC, but not NSCLC Formation
+We next evaluated the role of cell autonomous PDK1 signaling in pancreatic carcinogenesis in PIK3CAH1047R/+ single and PIK3CAH1047R/+;KrasG12D/+ double mutant mice ( Figures S4A and S4B). Deletion of Pdk1 in both models led to complete inhibition of ADM, PanIN formation, and PDAC development, indicating that PDK1 is indeed a central node and essential for pancreatic carcinogenesis in diverse in vivo models ( Figures S4A and S4B).
+
+In contrast, deletion of Pdk1 in KrasG12D-driven NSCLC models had no effect on lung tumor formation ( Figures S4C–S4F). Although both the KrasG12D-driven lung and pancreatic cancer models are on a similar genetic background, it remains possible that subtle differences in the genetic background may affect KrasG12D signaling and engagement of PDK1. We therefore used the elastase-1 Cre driver line that recombines loxP sites in the pancreas and the lung of the same animal ( Figures 5A–5C). Simultaneous KrasG12D expression in both organs of the same animal induced invasive grade 4 NSCLC and pancreatic tumorigenesis ( Figure 5D). Pdk1 deletion blocked pancreatic neoplasia completely, whereas NSCLC formation in the same animal was unaffected ( Figures 5E and 5F). Importantly, Pdk1 deletion did not affect overall survival in this model. All animals in the tumor watch cohort developed grade 3-4 NSCLC within 600 days ( Figure 5F) and the number of lung lesions was comparable ( Figure 5G). These in vivo findings support the view that each tissue has its own unique signaling requirement during Kras oncogene-induced transformation.
+
+Full-size image (183 K)
+Figure 5. 
+PDK1 Is Essential for KrasG12D-Driven PDAC but not NSCLC Formation
+(A) Genetic strategy used to analyze Ela1-CreERTM mediated recombination in the lung and the pancreas of the same animal in the absence of tamoxifen with a double fluorescent floxed tdTomato-EGFP reporter line (R26mT/mG).
+(B and C) Confocal microscopic images of tdTomato (red) and Cre-induced EGFP (green) expression in the lung (B) and pancreas (C) of Ela1-CreERTM;R26mT/mG (left panel) and Ctrl R26mT/mG (right panel) animals. Nuclei were counterstained with TO-PRO-3 (blue). Note the constitutive Cre activity in the pancreas and lung in the absence of tamoxifen in Ela1-CreERTM animals.
+(D) Genetic strategy used to activate KrasG12D in the lung and the pancreas of the same animal (left panel). H&E stained representative microscopic lung sections graded according to the established 4-stage NSCLC grading system from Ela1-CreERTM;LSL-KrasG12D/+ mouse (upper right panel). Lower right panel: Representative H&E or alcian blue (AB) stained microscopic pancreas sections from the same animal. Activation of oncogenic KrasG12D in lung and pancreas using the Ela1-CreERTM driver line induces grade 4 NSCLC and pancreatic neoplasia.
+(E) Genetic strategy used to study the role of PDK1 in KrasG12D-driven lung and pancreatic cancer formation in the same animal (left panel). Representative H&E stained microscopic lung sections graded according to the established 4-stage NSCLC grading system from Ela1-CreERTM;LSL-KrasG12D/+;Pdk1f/f mouse (upper right panel). Lower right panel: Representative H&E stained microscopic pancreas sections from the same animal. Deletion of Pdk1 blocks ADM and PanIN formation in the pancreas completely but has no effect on NSCLC development and progression.
+(F) Kaplan-Meier survival curves of the indicated genotypes (n.s., not significant; ∗∗∗p < 0.001, log-rank test). Note: All Ela1-CreERTM;LSL-KrasG12D/+ and Ela1-CreERTM;LSL-KrasG12D;Pdk1f/f animals developed NSCLC.
+(G) Quantification of microscopic lung lesions of Ela1-CreERTM;LSL-KrasG12D/+ and Ela1-CreERTM;LSL-KrasG12D;Pdk1f/f mice (n.s., not significant, Student’s t test). Insets show representative lesions in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets. Note: All Ela1-CreERTM animals were analyzed without Cre activation due to constitutive Cre activity (no tamoxifen treatment). Error bars, ± SEM.
+See also Figure S4.
+Figure options
+Craf Is Dispensable for Kras-Driven PDAC Formation
+It has recently been shown that Craf is essential for KrasG12D-induced NSCLC (Blasco et al., 2011; Karreth et al., 2011). To investigate the contribution of Craf in pancreatic carcinogenesis, we inactivated Craf in pancreas epithelium using floxed Craf mice ( Jesenberger et al., 2001). Ptf1aCre/+-induced deletion of Craf in the KrasG12D-driven PDAC model had no inhibitory effect on tumor development or progression and did not improve mouse survival ( Figures 6A–6C). Efficient deletion of both Craf alleles and loss of Craf protein expression was verified by genotyping PCR, immunohistochemistry and western blot analysis of PDAC cells isolated from tumor specimens from Ptf1aCre/+;LSL-KrasG12D/+;Craf1f/f mice ( Figures 6D–6F). The possibility that tumors developed due to incomplete Craf deletion can thus be excluded. Signaling via Craf is therefore dispensable for initiation of Kras-driven PDAC, supporting the view that Kras exerts its oncogenic effects in a tissue-specific manner.
+
+Full-size image (123 K)
+Figure 6. 
+Craf Is Dispensable for KrasG12D-Driven Pancreatic Carcinogenesis
+(A) Genetic strategy used to study the cell-autonomous role of Craf in KrasG12D-driven pancreatic cancer formation.
+(B) Representative H&E stains of control (Ptf1aCre/+;LSL-KrasG12D/+;Craff/+) and conditional Craf knockout (Ptf1aCre/+; LSL-KrasG12D/+;Craff/f) mice.
+(C) Kaplan-Meier survival analysis of the indicated conditional genotypes. + denotes the wild-type allele, f the conditional allele (n.s., not significant; ∗∗∗p < 0.001, log-rank test).
+(D) Genotyping strategy of the floxed Craf allele (upper panel). PCR analysis of DNA from wild-type (WT), heterozygous (f/WT) and homozygous (f/f) conditional floxed Craf mice and Ptf1aCre mediated deletion of exon 3 of Craf (CrafΔ/Δ) in pancreatic cancer cells (PDAC) (lower panel). Sizes of WT and mutant PCR products are indicated. Note: Efficient recombination of both floxed Craf alleles in PDAC cells from Ptf1aCre/+;KrasG12D/+;Craff/f mice.
+(E) Immunohistochemical analysis of Craf expression in PDAC of Ptf1aCre/+;KrasG12D/+;Craff/f and Ptf1aCre/+;KrasG12D/+;Craff/+ mice. + denotes the WT allele, f the conditional allele.
+(F) Immunoblot analysis of Craf expression in primary PDAC cells from mice with the indicated genotypes. β-actin was used as loading control. Insets show representative lesions in high magnification. Scale bars, 50 μm for micrographs, 20 μm for insets.
+Figure options
+Disruption of PDK1 or Inhibition of PI3K Signaling Blocks Murine and Human ADM In Vitro
+To gain insight into the cellular mechanisms of KrasG12D-PI3K-PDK1-induced transformation, we analyzed early events of pancreatic carcinogenesis. As shown in Figure 4, deletion of Pdk1 blocks not only PanIN development, but also ADM in the KrasG12D model. ADM has recently been suggested to be an initiating event in human and murine PDAC formation ( Aichler et al., 2012; Caldwell et al., 2012; Morris et al., 2010; Reichert and Rustgi, 2011). Previous studies demonstrated that transforming growth factor α (TGF-α)/epidermal growth factor receptor and Ras activation induces ADM in vitro ( Means et al., 2005; Morris et al., 2010; Reichert and Rustgi, 2011).
+
+To test whether TGF-α/Kras-induced ADM formation depends on intact PDK1 signaling, we isolated acini from Ptf1aCre/+;KrasG12D/+ and Ptf1aCre/+;KrasG12D/+;Pdk1f/f pancreata and performed an in vitro ADM assay ( Means et al., 2005). Consistent with the in vivo data ( Figures 7A and 7B), we observed that deletion of Pdk1 completely blocked ADM in the presence and absence of TGF-α ( Figures 7C and 7D). Acini isolated from Ptf1aCre/+;KrasG12D/+ and Ptf1aCre/+;KrasG12D/+;Pdk1f/f pancreata were equally viable (data not shown), thus excluding differences in cellular vulnerability as a possible cause. ADM was also blocked by the pan class I PI3K inhibitor GDC 0941, the PDK1 inhibitor BX912, the dual pan class I PI3K-mTOR inhibitor NPV-Bez235, and the AKT inhibitor MK-2206 ( Figure 7E). Interestingly, the RSK inhibitor BI-D1870 had no effect on ADM formation even at concentrations as high as 10 μM ( Figure 7E). These data confirm our in vivo genetic studies in mice and indicate that disruption of the canonical PI3K-PDK1-AKT, but not the PDK1-RSK axis, blocks ADM and therefore, tumor initiation in the pancreas.
+
+Full-size image (115 K)
+Figure 7. 
+PI3K Signaling Regulates Human and Murine ADM
+(A) Genetic strategy used to study the role of PDK1 in KrasG12D-driven ADM.
+(B) Quantification of ADM in 6-month-old Ptf1aCre/+;LSL-KrasG12D/+ and Ptf1aCre/+;LSL-KrasG12D/+;Pdk1f/f mice (n = 3; 3 representative slides per mouse).
+(C) Phase contrast images of pancreatic acinar cells with the indicated genotypes 5 days after isolation and treatment with or without TGF-α (50 ng/ml).
+(D) Quantification of ductal and acinar structures after 5 days in culture. Bar graph shows percentage of structures of the indicated genotypes with and without TGF-α treatment.
+(E) Quantification of ductal and acinar structures after 5 days in culture with and without treatment with the indicated chemicals. Bar graph shows percentage of structures of indicated genotype treated with TGF-α and the indicated chemicals.
+(F) Confocal microscopic images of TGF-α-induced human ADM. Upper panel: CK19 expression (red) in ADM after 5 days of TGF-α (50 ng/ml) treatment. Lower panel: CK19 expression (red) and AKT-T308 phosphorylation (green) after 5 days TGF-α treatment. Arrow indicates a cell with acinar morphology but positive staining for CK19 and pAKT-T308. Nuclei were counterstained with TO-PRO-3 (blue).
+(G) Upper panel: Phase contrast images of human pancreatic acinar cells 5 days after isolation and treatment with TGF-α (50 ng/ml) with or without GDC 0941 (1 μM). Lower panel: Quantification of human ductal and acinar structures from two independent patients after 5 days in culture with and without GDC 0941 treatment. Scale bars, 50 μm. Error bars, ± SEM.
+See also Figure S5.
+Figure options
+To test if our murine model system is relevant to humans, we established primary acinar cell culture from human pancreas and performed functional ADM assays with various PI3K-PDK1-AKT pathway inhibitors (Figures 7F, 7G, S5A, and S5B). As shown in Figure 7F, TGF-α treatment of human acinar cells induced ADM, as indicated by CK19 staining, with concomitant PI3K pathway activation, as evidenced by AKT-T308 phosphorylation. Treatment with GDC 0941 blocked ADM significantly in a dose-dependent manner (Figures 7G and S5A–S5C) and inhibited AKT-T308 phosphorylation and CK19 expression (Figure S5C).
+
+Overall, these data support the notion that PI3K/PDK1 signaling is essential for pancreatic cell plasticity and tumor initiation and important to transmit the oncogenic Kras-induced program in the pancreas. However, we cannot completely exclude a role for indirect mechanisms of PI3K activation via alternate effectors such as receptor tyrosine kinases, rather than a direct Kras/PI3K interaction (Ardito et al., 2012; Ebi et al., 2011; Navas et al., 2012).
+
+The PI3K/PDK1 Pathway Is a Target for Treatment of Murine and Human Pancreatic Cancer
+To test whether PI3K-PDK1-AKT signaling could be a target for pancreatic cancer therapy, we used the well-established Ptf1aCre/+;LSL-KrasG12D/+;LSL-Trp53R172H/f (KPC) model ( Figure 8A) ( Olive et al., 2009). KPC mice develop primary PDAC that faithfully recapitulates the molecular, histopathologic, and clinical features of the human disease ( Olive et al., 2009).
+
+Full-size image (113 K)
+Figure 8. 
+PI3K Signaling Is needed for Human and Murine KrasG12D-Driven Pancreatic Tumor Maintenance
+(A) Genetic strategy used to induce Trp53R172H mutant PDAC (KPC mouse model).
+(B) KPC mice with mean tumor diameters > 5 mm were enrolled and randomized into the GDC 0941 treatment or control (vehicle) group (n = 3 per group). Tumor growth was monitored by high-resolution ultrasound (Vevo 770 System, Visual Sonics). Data represent the mean tumor volumes ± SD (∗∗∗p < 0.001, Student’s t test).
+(C) Representative high-resolution ultrasound images from KPC mice pre-treatment (left, day 0) and after 14 days on study (right). Visible lesions are outlined in white and mean tumor burden for each cohort is shown in mm3 in the lower right corner.
+(D) Immunoblot analysis of AKT-T308 phosphorylation in primary PDAC specimens from control and GDC 0941 treated KPC mice. α-Tubulin was used as loading control.
+(E) Immunohistochemical BrdU staining of representative PDACs from control and GDC 0941-treated KPC mice indicates blockade of proliferation in the treatment group. Scale bars, 50 μm.
+(F) Quantification of BrdU-positive proliferating cells (three representative slides per mouse; ∗p < 0.05, Student’s t test). Error bars, ± SEM.
+(G) Patient-derived primary PDAC cells (TUM-PaCa1; see Figure S6C) were orthotopically transplanted into the pancreas of NOD-SCID-IL2Rγ mice. After establishment of sizeable tumors, mice were randomized and treated with GDC 0941 or vehicle for 12 days (n = 3 per group). Data represent the mean tumor volumes ± SD (∗∗p < 0.01, Student’s t test).
+See also Figure S6.
+Figure options
+To inhibit PI3K signaling in vivo, we used GDC 0941, a potent and selective oral pan class I PI3K inhibitor currently under clinical development (LoRusso et al., 2011; Yuan et al., 2013). GDC 0941 efficiently inhibited the growth of primary murine KrasG12D and primary human patient-derived PDAC cells in vitro ( Figures S6A–S6C). To evaluate the in vivo efficacy of GDC 0941 against KrasG12D-induced PDAC, KPC mice with established tumors of comparable size were treated for 14 days with vehicle or GDC 0941 at 150 mg/kg/day. GDC 0941 efficiently blocked tumor growth as measured by high-resolution ultrasound and reduced phosphorylation of AKT-T308, a surrogate marker of PI3K signaling via PDK1 ( Figures 8B–8D). All GDC 0941-treated animals displayed stable disease, whereas vehicle-treated animals showed rapid disease progression ( Figures 8B and 8C). Consistent with this, histopathologic analysis showed significantly decreased proliferation of GDC 0941-treated tumors ( Figures 8E and 8F).
+
+To demonstrate the relevance of the pathway for human pancreatic cancer therapy, we used primary patient-derived PDAC cells transplanted orthotopically into the pancreas of NOD-SCID-IL2Rγ (NSG) mice. We observed very similar antitumor effects of GDC 0941 in this humanized PDAC model (Figures 8G and S6D). These data strongly suggest that PI3K signaling is also necessary for proliferation and maintenance of established murine and human PDAC and that the PI3K-PDK1-AKT pathway is a promising target for therapeutic interventions.
+
+Discussion
+There has been no major breakthrough in the treatment of PDAC in the past 30 years and no effective targeted therapies are available (Hidalgo, 2010). Nearly all PDAC harbor KRAS mutations, but efforts to develop effective Kras inhibitors have generally failed. It is therefore essential to understand and define the importance of effectors of mutant Kras and to identify nonredundant essential nodes of nononcogene addiction ( Pylayeva-Gupta et al., 2011). Here, we show that PI3K-PDK1 signaling is such a node in Kras-driven pancreatic cancer initiation and maintenance.
+
+It has recently become evident that Craf is essential for the onset of Kras-driven non-small cell lung cancer (Blasco et al., 2011; Karreth et al., 2011). However, ablation of Craf in our KrasG12D-driven PDAC model had no significant inhibitory effect on tumor development, progression, or survival. This demonstrates that there are substantial tissue- and context-specific differences in Kras effector usage. Such differences may have important clinical implications because they could explain the diverse response to targeted therapies of different tumor types harboring oncogenic KRAS mutations. Indeed, a recent study showed no substantial response of KrasG12D-driven NSCLC toward PI3K-mTOR inhibition in vivo ( Engelman et al., 2008). In contrast, we demonstrate that targeting the PI3K pathway in KrasG12D-driven PDAC efficiently blocks carcinogenesis and tumor progression. Our data thus provide in vivo evidence for the rationale to investigate Kras-driven oncogenic pathways in a tissue- and context-specific manner to characterize the relevant nodes engaged in different tumor entities.
+
+Collisson and colleagues found that oncogenic BrafV600E is capable of inducing PanIN lesions in mice (Collisson et al., 2012). Using a tamoxifen-inducible transgenic Pdx1-CreERT2-driver line, they activated a latent BrafV600E allele in the pancreas of adult mice and observed a greater number of PanIN lesions than in the classical KrasG12D model. These data and our findings clearly show that activation or deletion of different Kras-dependent signaling pathways can induce or block PanIN formation in vivo. This argues either for the existence of several distinct routes toward PanIN formation, or an essential crosstalk between the Raf-MEK-ERK and PI3K-PDK1-AKT pathway, which might depend on alternate effectors like receptor tyrosine kinases ( Ardito et al., 2012; Ebi et al., 2011; Navas et al., 2012). Collisson and colleagues showed that PanIN formation can be caused by activation of the canonical Raf-MEK-ERK pathway at the level of Braf. Whether Braf is essential for PanIN formation in the KrasG12D model, as we show for the direct PI3K downstream target PDK1, needs to be investigated at the genetic level in the future.
+
+In contrast to our study, Collisson and colleagues found no PanIN development after tamoxifen induced p110αH1047R expression in the pancreas using the Pdx1-CreERT2 mouse line. This might be due to distinct target cells, or differences in Pik3ca copy number, Cre-induced recombination efficacy, or different expression and signaling levels of p110α in the Ptf1aCre and Ela1-CreERTM versus Pdx1-CreERT2 models ( Collisson et al., 2012). Based on the similar phenotypes of our KrasG12D and PIK3CAH1047R models, the lack of Ras activation in PIK3CAH1047R mice, comparable levels of PI3K activation and expression as well as PIP3 levels in the KrasG12D and PIK3CAH1047R models, and by showing that deletion of the PI3K effector Pdk1 blocks tumor formation, ADM, and PI3K activation in the KrasG12D model, we provide evidence at multiple levels that Kras acts through PI3K-PDK1 to induce pancreatic cancer. This conclusion is further supported using primary human material showing that PI3K signaling is active in human acinar-to-ductal metaplasia, premalignant pancreatic lesions and cancers, and is mechanistically involved in early processes of pancreatic cell plasticity and cancer formation as well as in tumor maintenance.
+
+Downward and colleagues showed previously that the Ras-PI3K interaction plays an important role in Ras-induced skin and lung carcinogenesis (Gupta et al., 2007). They found that disruption of the direct Ras/p110α interaction—by constitutive expression of Pik3caT208D/K227A in the mouse germline—dramatically reduced the number of Ras-induced papillomas and lung adenomas ( Gupta et al., 2007). It is however unclear to what extent this was mediated by cell autonomous or non-cell autonomous effects in the host. Since p110α is required for angiogenesis ( Graupera et al., 2008), disruption of the Ras-PI3K interaction in the vasculature, immune system, or stroma is likely to contribute significantly to the observed effects in this model.
+
+Because PDK1 is a central node of PI3K signaling (Castellano and Downward, 2011), we evaluated its cell-autonomous role in Kras-induced NSCLC in vivo. Intriguingly, ablation of Pdk1 specifically in the epithelial compartment of the lung using two different recombination strategies had no significant inhibitory effect on KrasG12D-induced NSCLC development and progression. This suggests that PI3K signaling plays an important role in the tumor microenvironment rather than a cell autonomous function during NSCLC formation ( Graupera et al., 2008). This is supported by the observation that Ras-induced NSCLC development is impaired but not completely blocked by constitutive expression of the Pik3caT208D/K227A in the mouse germline ( Gupta et al., 2007). In contrast to the lung, genetic inactivation of PDK1 in pancreas epithelium using two different Cre-driver lines completely blocked KrasG12D-induced neoplastic transformation. These data clearly demonstrate that each tissue has its own and unique cell autonomous signaling requirements during oncogenic transformation. This advance in our understanding of tissue-specific effects of oncogenic Kras may change clinical practice in the future because it clearly shows that results cannot simply be extrapolated from one Kras-driven tumor entity to another.
+
+We have defined the tumor cell autonomous Kras-PI3K-PDK1 axis as an essential pathway of pancreatic cancer with the capacity to induce cell plasticity, ADM, PanIN, and cancer formation as well as tumor maintenance. A large variety of pharmacologic inhibitors directed against the PI3K pathway and the promising targetable node PDK1 are now available for clinical investigation (Engelman, 2009; Liu et al., 2009; Pearce et al., 2010). Recognition of the importance of the PI3K-PDK1 pathway in PDAC, as demonstrated in this study, will provide a more effective approach for targeted therapeutic interventions for this grave disease.
+
+Experimental Procedures
+Mouse Strains and Tumor Models
+LSL-KrasG12D/+ ( Hingorani et al., 2003), Ptf1aCre/+ ( Eser et al., 2011; Nakhai et al., 2007; Seidler et al., 2008), LSL-Rac1G12V/+ ( Srinivasan et al., 2009), LSL-Trp53R172H/+ ( Hingorani et al., 2005), Trp53f/+ ( Jonkers et al., 2001), LSL-R26lacZ/+ ( Seidler et al., 2008), R26mT/mG ( Muzumdar et al., 2007), Ela1-CreERTM ( Stanger et al., 2005), Cdkn2af/+ ( Aguirre et al., 2003), Craff/+ ( Jesenberger et al., 2001), and Pdk1f/+ ( Lawlor et al., 2002) mice have been described previously. The strains were interbred to obtain mice with activation of distinct pathways in the pancreas as previously described ( Eser et al., 2011). All animal studies were conducted in compliance with European guidelines for the care and use of laboratory animals and were approved by the Institutional Animal Care and Use Committees (IACUC) of Technische Universität München, Regierung von Oberbayern and UK Home Office.
+
+Human Pancreatic Tissue Samples
+This study conformed to the Declaration of Helsinki and was approved by the ethics committee of the Technische Universität München. Informed consent was obtained from all patients included in the study.
+
+Generation of Primary Human and Murine Ductal Pancreatic Cancer Cell Lines
+Primary dispersed murine pancreatic cancer cells were established from Ptf1aCre/+;LSL-KrasG12D/+ and Ptf1aCre/+;LSL-PIK3CAH1047R/+ mice and cultivated as previously described ( von Burstin et al., 2009). Primary dispersed human PDAC cells were isolated from surgically resected human PDAC as recently described ( Conradt et al., 2011). Only early-passage (passage 3 to 4) dispersed cells were used for assays.
+
+Establishment of Patient-Derived Xenograft Tumors from Primary Human PDAC
+Tissues were placed into chilled sterile RPMI 1640 (Thermo Scientific/Hyclone, Waltham, MA) supplemented with 1% (v/v) penicillin/streptomycin/amphotericin B. The tumor was washed twice, dissected into 3 mm cubes and pieces were implanted subcutaneously into NOD SCIG IL2Rγ (NSG) mice (#005557; Jackson Laboratory, Bar Harbor, Maine) within 1 hour of resection.
+
+Patient-Derived Orthotopic Human Pancreatic Cancer Xenotransplantation Model
+One million patient-derived primary human pancreatic cancer cells in 20 μl Dulbecco’s modified Eagle medium were implanted orthotopically into the pancreas of NSG mice as described (von Burstin et al., 2009; von Burstin et al., 2008).
+
+Statistical Analyses
+Comparisons between data sets were made with analysis of variance, followed by Students t test. A Bonferroni correction of the p values was performed for multiple testing. Kaplan-Meier survival curves were compared by log-rank test. Values of p < 0.05 or less were considered to be statistically significant.
+
+Acknowledgments
+We would like to thank Dr. D. Melton, Dr. K. Rajewsky, Dr. N. Bardeesy, Dr. A. Berns, Dr. L. Luo, Dr. D. Tuveson, and Dr. T. Jacks for providing transgenic animals; Dr. P. Vogt for p110αH1047R expression plasmid; and J. Götzfried, V. Klein, T. Schmid, and M. Zukowska for excellent technical assistance. This work was supported by funding from Deutsche Krebshilfe (# 108985 to D.S.), Helmholtz Preclinical Comprehensive Cancer Center (to D.S.), Novartis-Stiftung für therapeutische Forschung (to G.S. and D.S.), and DFG SFB824, TP C9 (to G.S. and D.S.). B.S., G.S., and D.S. designed research; S.E., N.R., M.M., B.S., K.G., M.D., M.H., A.A., S.K., B.K., L.R., R.R., and D.S. performed research; B.K., C.W.M., A.M.S., L.R., I.E., A.J.K., A.E.S., M.B., D.A., R.R., and R.M.S. contributed new reagents/analytic tools; S.E., N.R., M.M., B.S., K.G., M.D., M.H., A.A., A.M.S., I.E., L.R., R.R., and D.S. analyzed data; and B.S., G.S., and D.S. wrote the paper. All authors discussed the results and commented on the manuscript.
+
+Supplemental Information
+ 
+Document S1. Figures S1–S6 and Supplemental Experimental Procedures.  
+Help with PDF filesOptions
+References
+Adams et al., 2011
+J.R. Adams, K. Xu, J.C. Liu, N.M. Agamez, A.J. Loch, R.G. Wong, W. Wang, K.L. Wright, T.F. Lane, E. Zacksenhaus, S.E. Egan
+Cooperation between Pik3ca and p53 mutations in mouse mammary tumor formation
+Cancer Res., 71 (2011), pp. 2706–2717
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+Aguirre et al., 2003
+A.J. Aguirre, N. Bardeesy, M. Sinha, L. Lopez, D.A. Tuveson, J. Horner, M.S. Redston, R.A. DePinho
+Activated Kras and Ink4a/Arf deficiency cooperate to produce metastatic pancreatic ductal adenocarcinoma
+Genes Dev., 17 (2003), pp. 3112–3126
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (397)
+Aichler et al., 2012
+M. Aichler, C. Seiler, M. Tost, J. Siveke, P.K. Mazur, P. Da Silva-Buttkus, D.K. Bartsch, P. Langer, S. Chiblak, A. Dürr et al.
+Origin of pancreatic ductal adenocarcinoma from atypical flat lesions: a comparative study in transgenic mice and human tissues
+J. Pathol., 226 (2012), pp. 723–734
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Alessi et al., 1997
+D.R. Alessi, S.R. James, C.P. Downes, A.B. Holmes, P.R. Gaffney, C.B. Reese, P. Cohen
+Characterization of a 3-phosphoinositide-dependent protein kinase which phosphorylates and activates protein kinase Balpha
+Curr. Biol., 7 (1997), pp. 261–269
+
+Article |  PDF (171 K) | View Record in Scopus | Citing articles (1635)
+Ardito et al., 2012
+C.M. Ardito, B.M. Grüner, K.K. Takeuchi, C. Lubeseder-Martellato, N. Teichmann, P.K. Mazur, K.E. Delgiorno, E.S. Carpenter, C.J. Halbrook, J.C. Hall et al.
+EGF receptor is required for KRAS-induced pancreatic tumorigenesis
+Cancer Cell, 22 (2012), pp. 304–317
+
+Article |  PDF (11656 K) | View Record in Scopus | Citing articles (43)
+Bader et al., 2005
+A.G. Bader, S. Kang, L. Zhao, P.K. Vogt
+Oncogenic PI3K deregulates transcription and translation
+Nat. Rev. Cancer, 5 (2005), pp. 921–929
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (374)
+Bardeesy et al., 2006
+N. Bardeesy, A.J. Aguirre, G.C. Chu, K.H. Cheng, L.V. Lopez, A.F. Hezel, B. Feng, C. Brennan, R. Weissleder, U. Mahmood et al.
+Both p16(Ink4a) and the p19(Arf)-p53 pathway constrain progression of pancreatic adenocarcinoma in the mouse
+Proc. Natl. Acad. Sci. USA, 103 (2006), pp. 5947–5952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (187)
+Blasco et al., 2011
+R.B. Blasco, S. Francoz, D. Santamaría, M. Cañamero, P. Dubus, J. Charron, M. Baccarini, M. Barbacid
+c-Raf, but not B-Raf, is essential for development of K-Ras oncogene-driven non-small cell lung carcinoma
+Cancer Cell, 19 (2011), pp. 652–663
+
+Article |  PDF (1248 K) | View Record in Scopus | Citing articles (56)
+Caldwell et al., 2012
+M.E. Caldwell, G.M. DeNicola, C.P. Martins, M.A. Jacobetz, A. Maitra, R.H. Hruban, D.A. Tuveson
+Cellular features of senescence during the evolution of human and murine ductal pancreatic cancer
+Oncogene, 31 (2012), pp. 1599–1608
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Cantley, 2002
+L.C. Cantley
+The phosphoinositide 3-kinase pathway
+Science, 296 (2002), pp. 1655–1657
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2702)
+Carpelan-Holmström et al., 2005
+M. Carpelan-Holmström, S. Nordling, E. Pukkala, R. Sankila, J. Lüttges, G. Klöppel, C. Haglund
+Does anyone survive pancreatic ductal adenocarcinoma? A nationwide study re-evaluating the data of the Finnish Cancer Registry
+Gut, 54 (2005), pp. 385–387
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (170)
+Castellano and Downward, 2011
+E. Castellano, J. Downward
+RAS Interaction with PI3K: More Than Just Another Effector Pathway
+Genes Cancer, 2 (2011), pp. 261–274
+
+View Record in Scopus | Citing articles (85)
+Collisson et al., 2012
+E.A. Collisson, C.L. Trejo, J.M. Silva, S. Gu, J.E. Korkola, L.M. Heiser, R.P. Charles, B.A. Rabinovich, B. Hann, D. Dankort et al.
+A central role for RAF→MEK→ERK signaling in the genesis of pancreatic ductal adenocarcinoma
+Cancer Discov., 2 (2012), pp. 685–693
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Conradt et al., 2011
+L. Conradt, K. Godl, C. Schaab, A. Tebbe, S. Eser, S. Diersch, C.W. Michalski, J. Kleeff, A. Schnieke, R.M. Schmid et al.
+Disclosure of erlotinib as a multikinase inhibitor in pancreatic ductal adenocarcinoma
+Neoplasia, 13 (2011), pp. 1026–1034
+
+View Record in Scopus | Citing articles (11)
+Currie et al., 1999
+R.A. Currie, K.S. Walker, A. Gray, M. Deak, A. Casamayor, C.P. Downes, P. Cohen, D.R. Alessi, J. Lucocq
+Role of phosphatidylinositol 3,4,5-trisphosphate in regulating the activity and localization of 3-phosphoinositide-dependent protein kinase-1
+Biochem. J., 337 (1999), pp. 575–583
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (231)
+Ebi et al., 2011
+H. Ebi, R.B. Corcoran, A. Singh, Z. Chen, Y. Song, E. Lifshits, D.P. Ryan, J.A. Meyerhardt, C. Benes, J. Settleman et al.
+Receptor tyrosine kinases exert dominant control over PI3K signaling in human KRAS mutant colorectal cancers
+J. Clin. Invest., 121 (2011), pp. 4311–4321
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Engelman, 2009
+J.A. Engelman
+Targeting PI3K signalling in cancer: opportunities, challenges and limitations
+Nat. Rev. Cancer, 9 (2009), pp. 550–562
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (704)
+Engelman et al., 2008
+J.A. Engelman, L. Chen, X. Tan, K. Crosby, A.R. Guimaraes, R. Upadhyay, M. Maira, K. McNamara, S.A. Perera, Y. Song et al.
+Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers
+Nat. Med., 14 (2008), pp. 1351–1356
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (556)
+Eser et al., 2011
+S. Eser, M. Messer, P. Eser, A. von Werder, B. Seidler, M. Bajbouj, R. Vogelmann, A. Meining, J. von Burstin, H. Algül et al.
+In vivo diagnosis of murine pancreatic intraepithelial neoplasia and early-stage pancreatic cancer by molecular imaging
+Proc. Natl. Acad. Sci. USA, 108 (2011), pp. 9945–9950
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+Graupera et al., 2008
+M. Graupera, J. Guillermet-Guibert, L.C. Foukas, L.K. Phng, R.J. Cain, A. Salpekar, W. Pearce, S. Meek, J. Millan, P.R. Cutillas et al.
+Angiogenesis selectively requires the p110alpha isoform of PI3K to control endothelial cell migration
+Nature, 453 (2008), pp. 662–666
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (169)
+Guerra et al., 2007
+C. Guerra, A.J. Schuhmacher, M. Cañamero, P.J. Grippo, L. Verdaguer, L. Pérez-Gallego, P. Dubus, E.P. Sandgren, M. Barbacid
+Chronic pancreatitis is essential for induction of pancreatic ductal adenocarcinoma by K-Ras oncogenes in adult mice
+Cancer Cell, 11 (2007), pp. 291–302
+
+Article |  PDF (2146 K) | View Record in Scopus | Citing articles (288)
+Gupta et al., 2007
+S. Gupta, A.R. Ramjaun, P. Haiko, Y. Wang, P.H. Warne, B. Nicke, E. Nye, G. Stamp, K. Alitalo, J. Downward
+Binding of ras to phosphoinositide 3-kinase p110alpha is required for ras-driven tumorigenesis in mice
+Cell, 129 (2007), pp. 957–968
+
+Article |  PDF (1318 K) | View Record in Scopus | Citing articles (254)
+Hashimoto et al., 2006
+N. Hashimoto, Y. Kido, T. Uchida, S. Asahara, Y. Shigeyama, T. Matsuda, A. Takeda, D. Tsuchihashi, A. Nishizawa, W. Ogawa et al.
+Ablation of PDK1 in pancreatic beta cells induces diabetes as a result of loss of beta cell mass
+Nat. Genet., 38 (2006), pp. 589–593
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+Heid et al., 2011
+I. Heid, C. Lubeseder-Martellato, B. Sipos, P.K. Mazur, M. Lesina, R.M. Schmid, J.T. Siveke
+Early requirement of Rac1 in a mouse model of pancreatic cancer
+Gastroenterology, 141 (2011), pp. 719–730
+
+Hidalgo, 2010
+M. Hidalgo
+Pancreatic cancer
+N. Engl. J. Med., 362 (2010), pp. 1605–1617
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Hingorani et al., 2003
+S.R. Hingorani, E.F. Petricoin, A. Maitra, V. Rajapakse, C. King, M.A. Jacobetz, S. Ross, T.P. Conrads, T.D. Veenstra, B.A. Hitt et al.
+Preinvasive and invasive ductal pancreatic cancer and its early detection in the mouse
+Cancer Cell, 4 (2003), pp. 437–450
+
+Article |  PDF (1075 K) | View Record in Scopus | Citing articles (676)
+Hingorani et al., 2005
+S.R. Hingorani, L. Wang, A.S. Multani, C. Combs, T.B. Deramaudt, R.H. Hruban, A.K. Rustgi, S. Chang, D.A. Tuveson
+Trp53R172H and KrasG12D cooperate to promote chromosomal instability and widely metastatic pancreatic ductal adenocarcinoma in mice
+Cancer Cell, 7 (2005), pp. 469–483
+
+Article |  PDF (1316 K) | View Record in Scopus | Citing articles (449)
+Hruban et al., 2006
+R.H. Hruban, A.K. Rustgi, T.A. Brentnall, M.A. Tempero, C.V. Wright, D.A. Tuveson
+Pancreatic cancer in mice and man: the Penn Workshop 2004
+Cancer Res., 66 (2006), pp. 14–17
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Jesenberger et al., 2001
+V. Jesenberger, K.J. Procyk, J. Rüth, M. Schreiber, H.C. Theussl, E.F. Wagner, M. Baccarini
+Protective role of Raf-1 in Salmonella-induced macrophage apoptosis
+J. Exp. Med., 193 (2001), pp. 353–364
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Jimeno et al., 2008
+A. Jimeno, A.C. Tan, J. Coffa, N.V. Rajeshkumar, P. Kulesza, B. Rubio-Viqueira, J. Wheelhouse, B. Diosdado, W.A. Messersmith, C. Iacobuzio-Donahue et al.
+Coordinated epidermal growth factor receptor pathway gene overexpression predicts epidermal growth factor receptor inhibitor sensitivity in pancreatic cancer
+Cancer Res., 68 (2008), pp. 2841–2849
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+Jonkers et al., 2001
+J. Jonkers, R. Meuwissen, H. van der Gulden, H. Peterse, M. van der Valk, A. Berns
+Synergistic tumor suppressor activity of BRCA2 and p53 in a conditional mouse model for breast cancer
+Nat. Genet., 29 (2001), pp. 418–425
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (388)
+Karreth et al., 2011
+F.A. Karreth, K.K. Frese, G.M. DeNicola, M. Baccarini, D.A. Tuveson
+C-Raf is required for the initiation of lung cancer by K-Ras(G12D)
+Cancer Discov, 1 (2011), pp. 128–136
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+Kennedy et al., 2011
+A.L. Kennedy, J.P. Morton, I. Manoharan, D.M. Nelson, N.B. Jamieson, J.S. Pawlikowski, T. McBryan, B. Doyle, C. McKay, K.A. Oien et al.
+Activation of the PIK3CA/AKT pathway suppresses senescence induced by an activated RAS oncogene to promote tumorigenesis
+Mol. Cell, 42 (2011), pp. 36–49
+
+Article |  PDF (2418 K) | View Record in Scopus | Citing articles (51)
+Lawlor et al., 2002
+M.A. Lawlor, A. Mora, P.R. Ashby, M.R. Williams, V. Murray-Tait, L. Malone, A.R. Prescott, J.M. Lucocq, D.R. Alessi
+Essential role of PDK1 in regulating cell size and development in mice
+EMBO J., 21 (2002), pp. 3728–3738
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (189)
+Liu et al., 2009
+P. Liu, H. Cheng, T.M. Roberts, J.J. Zhao
+Targeting the phosphoinositide 3-kinase pathway in cancer
+Nat. Rev. Drug Discov., 8 (2009), pp. 627–644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (624)
+Liu et al., 2011
+P. Liu, H. Cheng, S. Santiago, M. Raeder, F. Zhang, A. Isabella, J. Yang, D.J. Semaan, C. Chen, E.A. Fox et al.
+Oncogenic PIK3CA-driven mammary tumors frequently recur via PI3K pathway-dependent and PI3K pathway-independent mechanisms
+Nat. Med., 17 (2011), pp. 1116–1120
+
+Full Text via CrossRef
+LoRusso et al., 2011
+P.M. LoRusso, D. Weiss, E. Guardino, S. Girish, M.X. Sliwkowski
+Trastuzumab emtansine: a unique antibody-drug conjugate in development for human epidermal growth factor receptor 2-positive cancer
+Clin. Cancer Res., 17 (2011), pp. 6437–6447
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (79)
+Means et al., 2005
+A.L. Means, I.M. Meszoely, K. Suzuki, Y. Miyamoto, A.K. Rustgi, R.J. Coffey Jr., C.V. Wright, D.A. Stoffers, S.D. Leach
+Pancreatic epithelial plasticity mediated by acinar cell transdifferentiation and generation of nestin-positive intermediates
+Development, 132 (2005), pp. 3767–3776
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (148)
+Morris et al., 2010
+J.P. Morris 4th, S.C. Wang, M. Hebrok
+KRAS, Hedgehog, Wnt and the twisted developmental biology of pancreatic ductal adenocarcinoma
+Nat. Rev. Cancer, 10 (2010), pp. 683–695
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+Muzumdar et al., 2007
+M.D. Muzumdar, B. Tasic, K. Miyamichi, L. Li, L. Luo
+A global double-fluorescent Cre reporter mouse
+Genesis, 45 (2007), pp. 593–605
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (391)
+Nakhai et al., 2007
+H. Nakhai, S. Sel, J. Favor, L. Mendoza-Torres, F. Paulsen, G.I. Duncker, R.M. Schmid
+Ptf1a is essential for the differentiation of GABAergic and glycinergic amacrine cells and horizontal cells in the mouse retina
+Development, 134 (2007), pp. 1151–1160
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (74)
+Navas et al., 2012
+C. Navas, I. Hernández-Porras, A.J. Schuhmacher, M. Sibilia, C. Guerra, M. Barbacid
+EGF receptor signaling is essential for k-ras oncogene-driven pancreatic ductal adenocarcinoma
+Cancer Cell, 22 (2012), pp. 318–330
+
+Article |  PDF (5164 K) | View Record in Scopus | Citing articles (36)
+Olive et al., 2009
+K.P. Olive, M.A. Jacobetz, C.J. Davidson, A. Gopinathan, D. McIntyre, D. Honess, B. Madhu, M.A. Goldgraben, M.E. Caldwell, D. Allard et al.
+Inhibition of Hedgehog signaling enhances delivery of chemotherapy in a mouse model of pancreatic cancer
+Science, 324 (2009), pp. 1457–1461
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (744)
+Pearce et al., 2010
+L.R. Pearce, D. Komander, D.R. Alessi
+The nuts and bolts of AGC protein kinases
+Nat. Rev. Mol. Cell Biol., 11 (2010), pp. 9–22
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (328)
+Pinho et al., 2011
+A.V. Pinho, I. Rooman, M. Reichert, N. De Medts, L. Bouwens, A.K. Rustgi, F.X. Real
+Adult pancreatic acinar cells dedifferentiate to an embryonic progenitor phenotype with concomitant activation of a senescence programme that is present in chronic pancreatitis
+Gut, 60 (2011), pp. 958–966
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Pylayeva-Gupta et al., 2011
+Y. Pylayeva-Gupta, E. Grabocka, D. Bar-Sagi
+RAS oncogenes: weaving a tumorigenic web
+Nat. Rev. Cancer, 11 (2011), pp. 761–774
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (167)
+Reichert and Rustgi, 2011
+M. Reichert, A.K. Rustgi
+Pancreatic ductal cells in development, regeneration, and neoplasia
+J. Clin. Invest., 121 (2011), pp. 4572–4578
+
+View Record in Scopus | Citing articles (30)
+Reichert et al., 2007
+M. Reichert, D. Saur, R. Hamacher, R.M. Schmid, G. Schneider
+Phosphoinositide-3-kinase signaling controls S-phase kinase-associated protein 2 transcription via E2F1 in pancreatic ductal adenocarcinoma cells
+Cancer Res., 67 (2007), pp. 4149–4156
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Seidler et al., 2008
+B. Seidler, A. Schmidt, U. Mayr, H. Nakhai, R.M. Schmid, G. Schneider, D. Saur
+A Cre-loxP-based mouse model for conditional somatic gene expression and knockdown in vivo by using avian retroviral vectors
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 10137–10142
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (37)
+Srinivasan et al., 2009
+L. Srinivasan, Y. Sasaki, D.P. Calado, B. Zhang, J.H. Paik, R.A. DePinho, J.L. Kutok, J.F. Kearney, K.L. Otipoby, K. Rajewsky
+PI3 kinase signals BCR-dependent mature B cell survival
+Cell, 139 (2009), pp. 573–586
+
+Article |  PDF (2498 K) | View Record in Scopus | Citing articles (148)
+Stanger et al., 2005
+B.Z. Stanger, B. Stiles, G.Y. Lauwers, N. Bardeesy, M. Mendoza, Y. Wang, A. Greenwood, K.H. Cheng, M. McLaughlin, D. Brown et al.
+Pten constrains centroacinar cell expansion and malignant transformation in the pancreas
+Cancer Cell, 8 (2005), pp. 185–195
+
+Article |  PDF (813 K) | View Record in Scopus | Citing articles (152)
+von Burstin et al., 2008
+J. von Burstin, S. Eser, B. Seidler, A. Meining, M. Bajbouj, J. Mages, R. Lang, A.J. Kind, A.E. Schnieke, R.M. Schmid et al.
+Highly sensitive detection of early-stage pancreatic cancer by multimodal near-infrared molecular imaging in living mice
+Int. J. Cancer, 123 (2008), pp. 2138–2147
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+von Burstin et al., 2009
+J. von Burstin, S. Eser, M.C. Paul, B. Seidler, M. Brandl, M. Messer, A. von Werder, A. Schmidt, J. Mages, P. Pagel et al.
+E-cadherin regulates metastasis of pancreatic cancer in vivo and is suppressed by a SNAIL/HDAC1/HDAC2 repressor complex
+Gastroenterology, 137 (2009), pp. 361–371
+
+View Record in Scopus | Citing articles (1)
+von Werder et al., 2012
+A. von Werder, B. Seidler, R.M. Schmid, G. Schneider, D. Saur
+Production of avian retroviruses and tissue-specific somatic retroviral gene transfer in vivo using the RCAS/TVA system
+Nat. Protoc., 7 (2012), pp. 1167–1183
+
+View Record in Scopus | Citing articles (7)
+Westmoreland et al., 2009
+J.J. Westmoreland, Q. Wang, M. Bouzaffour, S.J. Baker, B. Sosa-Pineda
+Pdk1 activity controls proliferation, survival, and growth of developing pancreatic cells
+Dev. Biol., 334 (2009), pp. 285–298
+
+Article |  PDF (1443 K) | View Record in Scopus | Citing articles (13)
+Ying et al., 2011
+H. Ying, K.G. Elpek, A. Vinjamoori, S.M. Zimmerman, G.C. Chu, H. Yan, E. Fletcher-Sananikone, H. Zhang, Y. Liu, W. Wang et al.
+PTEN is a major tumor suppressor in pancreatic ductal adenocarcinoma and regulates an NF-κB-cytokine network
+Cancer Discov, 1 (2011), pp. 158–169
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+Yuan et al., 2013
+W. Yuan, E. Stawiski, V. Janakiraman, E. Chan, S. Durinck, K.A. Edgar, N.M. Kljavin, C.S. Rivers, F. Gnad, M. Roose-Girma et al.
+Conditional activation of Pik3ca(H1047R) in a knock-in mouse model promotes mammary tumorigenesis and emergence of mutations
+Oncogene, 32 (2013), pp. 318–326
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+Corresponding author contact information
+Corresponding author
+9
+These authors contributed equally to this work
+Copyright © 2013 Elsevier Inc. All rights reserved.

@@ -1,0 +1,321 @@
+Elevated expression and potential roles of human Sp5, a member of Sp transcription factor family, in human cancers ☆
+Yongxin Chena, 1, 2, Yingqiu Guoa, 2, Xijin Gea, Hirotaka Itoha, Akira Watanabea, Takeshi Fujiwaraa, Tatsuhiko Kodamab, Hiroyuki Aburatania, c, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2005.12.068
+Get rights and content
+Abstract
+In this report, we describe the expression and function of human Sp5, a member of the Sp family of zinc finger transcription factors. Like other family members, the Sp5 protein contains a Cys2His2 zinc finger DNA binding domain at the C-terminus. Our experiments employing Gal4-Sp5 fusion proteins reveal multiple transcriptional domains, including a N-terminal activity domain, an intrinsic repressive element, and a C-terminal synergistic domain. Elevated expression of Sp5 was noted in several human tumors including hepatocellular carcinoma, gastric cancer, and colon cancer. To study the effects of the Sp5 protein on growth properties of human cancer cells and facilitate the identification of its downstream genes, we combined an inducible gene expression system with microarray analysis to screen for its transcriptional targets. Transfer of Sp5 into MCF-7 cells that expressed no detectable endogenous Sp5 protein elicited significant growth promotion activity. Several of the constitutively deregulated genes have been associated with tumorigenesis (CDC25C, CEACAM6, TMPRSS2, XBP1, MYBL1, ABHD2, and CXCL12) and Wnt/β-Catenin signaling pathways (BAMBI, SIX1, IGFBP5, AES, and p21WAF1). This information could be utilized for further mechanistic research and for devising optimized therapeutic strategies against human cancers.
+
+Keywords
+Sp5; Transcription factor; Human cancer; Microarray; Proliferation
+Regulation of gene expression by sequence-specific DNA binding proteins has emerged as one of the most important mechanisms governing cell differentiation, development, and homeostasis in metazoans. The population of transcription factors that are active in the cell nucleus largely dictates the transcriptional output and hence the proliferative or differentiated phenotype of the cell. Thus, it is not surprising that alteration of transcription factor function as a result of either gain or loss of function mutations has now been established as a frequent cause of neoplastic transformation and tumor progression in humans.
+
+Sp1 was one of the first eukaryotic transcription factors to be identified and cloned. It binds to GC-rich sequences such as the GC box and the related GT/CACCC box. These elements are required for the appropriate expression of many ubiquitous, tissue-specific, and viral genes. In addition, they occur frequently in the regulatory region of genes that are under a specific mode of control such as cell cycle regulation, hormonal activation, and developmental patterning. Sp1 is a member of an extensive family of factors named Sp/KLF (specificity protein/Krüppel-like factor) [1], which is characterized by the presence of a zinc finger DNA binding domain consisting of three Krüppel-like zinc fingers. This type of finger is composed of 25 to 30 amino acid residues including two conserved cysteine (C) and two conserved histidine (H) residues in a C-X(2-4)-C-X(12)-H-X(3)-H type motif. Although Sp/KLF family members, by virtue of their related DNA binding domains, bind to similar elements in vitro, they have distinct activities in vivo. These differences reflect at least two features that are not shared by family members: expression profile and the sequence of the activation/repression domain. Sp/KLF factors are involved in many growth-related signal transduction pathways and their overexpression can have positive or negative effect on proliferation [2] and [3]. In addition to growth control, Sp factors have been implicated in apoptosis and angiogenesis [3], [4] and [5]. Thus, the family is involved in several aspects of tumorigenesis. Consistent with a role in cancer, Sp factors interact with oncogenes and tumor suppressors [6] and [7], they can be oncogenic themselves, and altered expression of family members has been detected in tumors.
+
+Transcriptome analysis using microarrays has been employed recently to profile global changes in gene expression in human cancers [8], [9] and [10]. To identify genes involved in carcinogenesis, to suggest markers for use in diagnostic and prognostic assays, and to develop novel therapeutic agents for cancer therapy, we applied high-density oligonucleotide arrays containing up to 40,000 genes to monitor gene expression in various tumors and non-tumor tissues. Based on these data, a series of cancer-specific gene sets have been successfully identified [11], [12] and [13]. Here, we report the discovery of a novel human gene Sp5 which product is highly conserved in amino acid sequence to a recently described mouse gene sp5 [14] and [15]. We identified its significant upregulation in several human tumors. Molecular analysis showed that Sp5 contains multiple transcription-related domains. It may provide new tools for diagnosis and therapy of cancerous patients.
+
+Materials and methods
+Tissue samples and cell lines. Tissue samples were prepared as described [16]. List of normal human organs and tissue sources is also available from Reference Database for Gene Expression Analysis (RefExa) website at http://www.lsbm.org/db/index_e.html. Hek293, Cos-7 cells, and human hepatoma cell lines HepG2, Alexander were obtained from the American Type Culture Collection (Manassas, VA). Hep3B and Li-7 were kindly provided by Cell Resource Center for Biomedical Research at Tohoku University (Sendai, Japan). HLE, Huh7, and Huh6 were purchased from Health Science Research Resource Band (Osaka, Japan). Tetracycline-regulated MCF-7 cells were obtained from Clontech (Palo Alto, CA). All cell lines were grown in monolayer in appropriate media supplemented with 10% fetal bovine serum and maintained at 37 °C in air containing 5% CO2.
+
+Northern blotting. Total RNA was isolated from HCC cell lines using TRIZOL reagent (Invitrogen, Carlsbad, CA). The Northern blot analysis, using 20 μg total RNA, was performed as described [11]. 32P-radiolabeled cDNA probes were prepared with a BcaBEST labeling kit (Takara, Tokyo, Japan) using 3′-RACE PCR product as templates.
+
+Real-time RT-PCR. Reverse transcription products from nine pairs of cancer and non-cancer liver samples were used to confirm Sp5 gene expression in HCC patients by real-time PCR. All of the patients were infected by HBV or HCV and had basal disease of liver cirrhosis or chronic hepatitis at the time of surgery. The PCR were performed as described [13]. The expression level of Sp5 was normalized as a relative ratio of its signal to that of β-actin.
+
+Plasmid construction. Full-length Sp5 was cloned in pGEM-T easy vector using La Taq polymerase (Takara) with primers 5′-GAATTCATGGCCGCGGTGGCCGTC-3′ and 5′-AAGCTTCAGGTCCCGCGCGTCCTC-3′. All expression constructs were based on this plasmid and sequenced to preclude spurious mutations. For PET-Sp5N (1–282), the corresponding coding region was amplified and cloned in EcoRI/HindIII sites of PET41a vector (Novagen, Madison, WI). pcDNA3.2-Sp5F was generated by cloning full-length Sp5 into pcDNA3.2/nV5-DEST vector using GATEWAY technology (Invitrogen). To tag the green fluorescence protein (GFP) gene, pEGFP-Sp5F (1–398), pEGFP-Sp5N (1–297), and pEGFP-Sp5C (285–398) were generated by ligating EcoRI/BamHI PCR fragments into the same sites of pEGFP-C2 or -N1 vectors (Clontech). In Gal4-Sp5 expression vectors, different Gal4-Sp5 deletions, pCMV-Sp5NA (1–133), pCMV-Sp5NB (134–282), pCMV-Sp5N (1–282), and pCMV-Sp5C (283–398), were constructed by cloning the BamHI/EcoRI PCR fragments with stop codon in the same sites of pCMV-BD (Stratagene, La Jolla, CA), such that Sp5 fragments would be expressed as a fusion protein in-frame and downstream of the Gal4 DNA binding domain. A point mutation K391R was introduced into the pCMV-Sp5C (283–398) plasmid by PCR amplification using appropriate oligonucleotides. The pGL3-Gal4-myc-Luc reporter plasmid was generated by two steps. The Gal4 binding site was obtained from pFR-Luc vector (Stratagene) by PstI/EcoRI digestion and ligated in the same sites of pGEM-T-easy, which was then excised by SacI/SmaI digestion and cloned into the multiple cloning sites of pGL3-Basic vector (Promega). The human c-myc promoter, spanning from −93 to +80 of the P2 transcription start site, was amplified by PCR and inserted into the XhoI/HindIII sites of pGL3-Basic vector downstream to the Gal4 binding sites. For stable transfection, the full-length Sp5 coding region with the 5′-Kozak initiation consensus sequences was cloned in the BamHI/EcoRV sites of tetracycline response vector pTRE2pur (Clontech).
+
+Antibodies and Western blots. A mouse polyclonal antibody was raised against a recombinant N-terminal fragment of Sp5 (PET-Sp5N) that was purified from bacteria and injected into mouse with Freund’s complete adjuvant. Anti-Gal4 DNA binding domain antibody (RK5C1) was purchased from Santa Cruz Biotechnology (Santa Cruz, CA). For immunoblotting, cell lysates (20 μg) were resolved on 15% SDS–polyacrylamide gels and transferred onto polyvinylidene difluoride membranes (Hybond-P; Amersham Biosciences). Membranes were blocked with 2% non-fat milk for 1 h and then incubated with the primary antibody followed by a horseradish peroxidase-conjugated secondary antibody, and ECL-PLUS Detection System (Amersham Biosciences) was used as substrate for chemiluminescent detection. For inhibition of proteasome degradation, 10 μM MG-132 (Peptide Institute, Osaka, Japan) dissolved in DMSO was used to treat cells for 10 h before protein extraction.
+
+Transfection and reporter assays. The MCF(Toff)-Sp5 and MCF(Toff)-mock cell lines were generated by stable transfection of the line MCF-7 Tet-off (Clontech) with pTRE2pur-Sp5 and empty vector pTRE2pur, respectively. Transfection was performed with 4 μg pTRE2pur-Sp5 plasmids and Lipofectamine Plus reagents (Invitrogen) by following the low serum protocol provided by the manufacturer. Clones were selected in the presence of 0.5 puromycin, 100 G418, and 1 μg/ml doxycycline (dox). Surviving clones were tested for their ability to express Sp5 in a tet-repressible manner. Cells were grown in the absence or presence (1 μg/ml) of dox, and Sp5 expression was tested by real-time PCR and immunoblotting using a mouse polyclonal antibody directed against Sp5. MCF(Toff)-Sp5 cells were cultured in RPMI-1640 medium (Sigma, St. Louis, MO) supplemented with 10% Tet System-approved fetal bovine serum (FBS) (Clontech).
+
+Transient transfection was performed with the FuGENE 6 reagent (Roche Molecular Biochemicals, Indianapolis, IN) according to the manufacturer’s protocol. Reporter and effector plasmids were co-transfected into Hek293 cells grown in six-well plates at 50–70% confluence (seeded at 5 × 105 cells/well a day earlier). Forty-eight hours post-transfection, cell extracts were prepared and analyzed using the luciferase assay system purchased from Promega. Luciferase activities were measured using a Berthold Lumat model LB 9507 luminometer. All experiments were performed in duplicate to ensure reproducibility and β-galactosidase assays were performed for normalization reasons with the β-galactosidase assay system from Promega.
+
+Cell growth assay. A colorimetric assay based on the cleavage of the tetrazolium salt WST-1 by mitochondrial dehydrogenase of viable cells to a formazandye was used following the manufacturer’s instructions (Roche Applied Science). Briefly, MCF(Toff)-Sp5 and MCF(Toff)-mock cells (5 × 103 cells/well) in 100 μl RPMI-1640 containing 10% Tet System-approved FBS with or without 1 μg/ml dox was plated in a 96-well plate. After the incubation period, 10 μl of cell proliferation reagent (WST-1) were added to each well, and incubation was continued for 2 h in a humidified atmosphere (37 °C, 5% CO2). Cell proliferation was assessed by measuring the absorbance at 450 nm using a microtiter plate (enzyme-linked immunosorbent assay) reader with a reference wavelength at 650 nm.
+
+Microarray hybridization and data analysis. Total RNA was isolated following growth of cells in the presence of dox or at 24, 36, 48, and 72 h following drug withdrawal using TRIZOL reagent (Invitrogen). Experimental procedures for GeneChip were performed according to GeneChip Expression Analysis Technical Manual (Affymetrix, Santa Clara, CA), using 10 μg total RNA. Samples were analyzed on U133 array chips (Affymetrix). Hybridization signals were normalized by Affymetrix Suit software. The data sets were filtered by absent and present calls using the Affymetrix Datamining tool, i.e., genes that displayed inconsistent signals within the same oligonucleotide probe set are excluded. Based on the general background of the data, genes displaying signal <80 arbitrary units in both mock- and Sp5-transfected cells (after normalization) were excluded from further analyses. To reduce the prevalence of non-specific genes, we established an order of genes that might express differentially between mock- and Sp5-transfected cells during the time course based on the scores of Z-statistics. Genes with Z-score > 2 were selected. Further, lists of upregulated and downregulated genes for each time point from Sp5-transfected cells were compared and the final ratio is the geometric mean of the time points. Only genes with a ratio of mean (48 + 72 h)/mean (0 + 24 h) > 2 (upregulated) or <0.5 (downregulated) were considered as differentially expressed genes.
+
+Results
+Elevated expression of Sp5 gene in human cancers
+To search for potential tumor markers and target antigens for tumor therapy, high-density oligonucleotide arrays containing ∼40,000 individual genes were used to monitor gene expression in various normal and tumor tissues [16]. Elevated expression of Sp5 was noted in several human cancers including HCC, gastric cancer, and colon cancer (Fig. 1A). In normal human tissues, high expression of Sp5 is detected in fetal lung, fetal colon, fetal stomach, uterus, and skin. Expression level of Sp5 in HCCs was confirmed in nine pairs of clinical tumor/non-tumor samples by real-time quantitative PCR (Fig. 1B). Elevated expression is noted in six tumor tissues of nine pairs of samples. And the non-tumor samples show very low expression levels. High expression of Sp5 is also detected in human HCC cell lines HepG2 and Huh6 by Northern blot (Fig. 1C).
+
+Subcellular localization of human Sp5 gene
+To determine the subcellular localization of Sp5 gene, GFP-Sp5 fusion proteins were transiently expressed in Cos-7 cells (Fig. 2). Control cells (panel A), expressing EGFP protein alone, showed a diffuse distribution of green fluorescence in all of the cells including nuclei. The cells transfected with EGFP-Sp5F (full-length, panel D) or EGFP-Sp5C (C-terminus, panel C) displayed green fluorescence that was condensed in nuclei. In contrast, EGFP-Sp5N (N-terminus, panel B) lost its nuclear localization and was evenly distributed in the cytoplasm, strongly suggesting that nuclear localization of Sp5 is determined by the C-terminal DNA binding region. The same results were obtained when using either pEGFP-C2 or pEGFP-N1 vectors (data not shown).
+
+Multiple transcriptional domains of Sp5
+To elucidate potential novel transcriptional regulatory domains in Sp5, several coding regions of Sp5 were cloned in the expression vector pCMV-BD, encoding the yeast DNA binding domain of the transcription factor Gal4 (Fig. 3A). Resulting chimeras were tested for the ability to transactivate a reporter (pFR-Luc) containing five Gal4 binding sites in front of the E1b TATA box. Transient co-transfection of these Gal4-Sp5 expression plasmids with the pFR-Luc reporter construct into Hek293 cells demonstrated that the Gal4-Sp5NA (1–133), but not Gal4-Sp5NB (134–282) and Gal4-Sp5C (283–398) fusion proteins, activated expression of the luciferase reporter gene 10-fold when compared with the level of reporter expression (Fig. 3B). However, the entire N-terminal region Gal4-Sp5N (1–282) containing the active site of Sp5NA (1–133) exhibited no transcriptional activity. Western blot analysis demonstrated that all of the fusion proteins were expressed at comparable levels by using an anti-Gal4 DBD antibody (data not shown). These data indicate that N-terminal amino acids 1–133 of the Sp5 protein are sufficient to confer the Sp5 transcriptional activation function, which is independent of the zinc finger domains, and suggest that a repressive effect is mediated by amino acids 134–282.
+
+Transcriptional repression might be caused by mechanisms such as steric hindrance or by inducing conformational changes. Alternatively, repression domain itself might possess repressive activities that counteract the activation properties elicited by the N-terminal activation domain. To help distinguish between these two possibilities, a Gal4 reporter (pGL3-Gal4-myc-Luc) with a high basal activity suitable for examining transcriptional repression was constructed (Fig. 3C). This reporter contains five Gal4 binding sites at position −93 relative to the P2 start site of human c-myc promoter [17]. As shown in Fig. 3C, the Gal4-Sp5NA (1–133) activated transcription of the pGL3-Gal4-myc-Luc reporter. Neither the Gal4-Sp5NB (134–282) nor the Gal4-Sp5N (1–282) by itself demonstrated transcriptional repression. These results imply that the ability of the amino acids 134–282 to mask the activation potential of the N-terminus 1–133 is not itself a result of intrinsic repression activity. Interestingly, the Gal4-Sp5C (283–398) fusion protein strongly induced pGL3-Gal4-myc-Luc transcription, indicating a C-terminal region of Sp5 might have synergistic stimulatory effects on c-myc promoter induced transcription. To further determine the primary sequence requirements that are essential for the synergistic activity of Sp5, special attention was paid to a specific lysine residue (lysine-391) in a KRE sequence downstream the zinc finger DNA binding domain. Previous studies have shown that lysine residues can be subjected to different protein modifications such as acetylation, methylation, ubiquitination, and sumoylation and modify transcriptional activity [18] and [19]. To elucidate whether the lysine residue is essential for synergistic activation, we transfected gene constructs encoding Gal4-Sp5C WT or a mutant thereof Gal4-Sp5C Mut (K391R) in which the lysine residue was replaced by an arginine. Only Gal4-Sp5C WT but not the Gal4-Sp5C Mut (K391R) activated reporter transcription in a dose-dependent manner (Fig. 3D).
+
+Collectively, our results reveal multiple transcriptional domains in Sp5, including a N-terminal activity domain, an intrinsic repressive element, and a C-terminal synergistic domain.
+
+Establishing inducible expression cell lines and screening for Sp5 targets using microarray analysis
+Our study reveals that Sp5 is overexpressed in multiple human cancer tissues. To study the effects of the Sp5 protein on growth properties of human cancer cells and identify its downstream genes, we chose to use tetracycline-regulation expression (tet-off) of Sp5 in MCF-7 cells, a breast adenocarcinoma cell line with no expression of the endogenous gene (Figs. 4A and B). MCF-7 Tet-Off cells were transfected with pTRE2pur-Sp5 or pTRE2pur alone and subjected to selection with puromycin. Several stable transfectant lines were expanded and screened for efficient gene induction by the removal of dox. Real-time PCR and Western blot analysis showed that the representative line of MCF(Toff)-Sp5 was induced to express markedly increased Sp5 when cultured without dox (Figs. 4A and B). Expression of Sp5 was detected after 36 h and reached maximal level after 72 h. In vitro cell growth of inducible transfectants was analyzed by WST-1 assay (Promega) to analyze viable cell numbers. Results show that cell growth was significantly promoted after Sp5 induction, compared with mock transfectants (Fig. 4C).
+
+To specifically identify the Sp5 candidate target genes, we profiled gene expression of the Sp5 overexpressed cells by microarray analysis. Total RNA from mock- and Sp5-transfected MCF-7 cells was prepared in parallel in the presence of dox or at 24, 36, 48, and 72 h following drug withdrawal. Consistent with the results of real-time PCR, alterations of gene expression occurred at 36 h after dox withdrawal and were more evident with longer treatment. Importantly, no significant gene expression changes were found in the mock transfected cell lines at all time points and the MCF(Toff)-Sp5 cells at 0 and 24 h, indicating that the altered genes in the Sp5-transfected clone sample are regulated by Sp5. Genes showing significant >2-fold induction at 48 or 72 h were selected and considered as potential Sp5 target genes. The gene tree in Figs. 5A and B summarizes the gene expression changes for the genes that were most significantly up- or downregulated following Sp5 expression. These genes can be divided into several functional categories including transcription regulation, signal transduction, cell cycle/apoptosis, metabolism, and cell adhesion (Fig. 5C). Several of the upregulated genes also have increased expression in human cancers including CDC25C, CEACAM6, TMPRSS2, XBP1, MYBL1, ABHD2, CXCL12, BAMBI, SIX1, and IGFBP5. The constitutive upregulation of the cell cycle regulator CDC25 and oncogene MYBL1 is of particular interest, given that their expression is controlled by Sp1 binding sites [20], [21] and [22]. In contrast, of the 31 constitutively downregulated genes, four genes have been involved in apoptosis and tumor suppression: p21WAF1, AES, ANXA1, and ENC1.
+
+Identification of signaling pathways potentially involved in Sp5 transcriptional regulation
+Sp5 has recently been reported to act downstream of Wnt/β-Catenin signaling in zebrafish development [23]. Our microarray data showed that three members (BAMB1, SIX1, and IGFBP5) in the upregulated genes by Sp5 expression are reported to be the targets of Wnt signaling pathway [24] and [25]. In contrast, negative regulator of Wnt signaling pathway AES and p21WAF1 was downregulated by Sp5 expression [26] and [27]. Inspection of a 1500 bp fragment of the human Sp5 promoter (−1000 to +500) revealed that it contains seven consensus Tcf/Lef binding sites with five sites within 500 bp upstream of exon 1 (Supplemental figure).
+
+Discussion
+The structural similarity of the Sp/KLF factors suggests that they are evolutionally closely related. In vitro binding studies have demonstrated that murine sp5 binds to the GC box and is able to compete for binding this motif with sp1 [14]. It is not surprising that human Sp5 have a very similar affinity for the GC box (data not shown) with murine sp5 since they are 100% identical in the zinc finger domain. However, apart from the zinc finger domain, the N-termini are not conserved throughout the Sp/KLF family and can contain a variety of transcriptional activity domain types. It is therefore likely that they may differ in their transcriptional activity with some being activating and some repressive [28]. Sp5 lacks the glutamine-rich transcriptional regulatory domains characteristic of Sp1, Sp3, and Sp4, instead it contains a proline-rich region. Studies with chimeric Gal4-Sp5 showed that there is a strong activation domain within the N-terminus (amino acids 1–133), but that the amino acids 134–282 located at the 5′ of the zinc finger DNA binding domain mask this activation function. Because all of these results were obtained by Gal4-Sp5 fusion proteins, natural Sp5 activity in vivo remains to be identified. Sp5 expression is restricted to certain cell types. Thus, it could have a crucial role for the expression of certain genes in these cells. Since Sp factor-mediated activation of transcription occurs in a promoter context-dependent manner [29] and [30], one might speculate that stimulation of transcription by Sp5 may be dependent on the promoter context and cell types.
+
+For Sp1, except the glutamine-rich transactivation domains, two additional domains located adjacent to the zinc finger region also influence the transcriptional activation function. One of these domains plays a key role in mediating the ability of Sp1 to activate transcription synergistically [31]. Interestingly, a C-terminal region in Sp5 was able to synergistically activate c-myc promoter induced transcription. Further mutagenesis study demonstrated that a lysine residue (lysine-391) downstream the zinc finger DNA binding domain is crucial for the synergistic activation. Because the C-terminal region in Sp5 itself shows no transcriptional activity, the synergistic effect probably occurs at steps following DNA binding by generating more effective activation surfaces [32]. Previous studies have demonstrated that lysine residues can be subjected to different protein modifications and modify transcriptional activity. Currently, we are investigating the factors involved in the synergistic process and the role of lysine residues at the C-terminus as potential targets for modification.
+
+Considering the multitude of genes whose promoters contain one or more GC box, it is conceivable that differential regulation of many genes may be achieved simultaneously by altering the balance of Sp/KLF proteins in the cell. From this perspective, the expression balance of Sp/KLF proteins in tissues may be of particular significance if they have different transcriptional properties. The mouse homolog of sp5 gene exhibits restricted expression throughout mouse development [14]. It is expressed in the primitive streak during gastrulation, and later confined to the developing CNS, somites, and pharyngeal region. In the present study, human Sp5 showing restricted expression in fetal tissues indicates it may have an important role in early development just similar with mouse sp5. Interestingly, Sp5 was noted with overexpression in human cancers. Especially, Sp5 is significantly upregulated in HCC, gastric cancer, and colon cancer. Transfer of Sp5 into MCF-7 cells that expressed no detectable endogenous Sp5 protein elicited significant growth promotion activity. Utilizing this Tet-Off system, we screened for potential downstream genes of Sp5 using microarray technology. We found alterations in the expression of many genes related to the control of cell proliferation, cell cycle, apoptosis, transcription, signal transduction, and cell adhesion. Interestingly, several of the constitutively deregulated genes identified (CDC25C, CEACAM6, TMPRSS2, XBP1, MYBL1, ABHD2, CXCL12, BAMBI, SIX1, and IGFBP5) have been associated with tumorigenesis. This finding not only validates the model cell system used here, but also supports the usefulness of these genes as markers of tumor progression. It has been well known that CDCs regulate the molecules related to the cell cycle initiation and progression and the CDK inhibitors including p21WAF1, p16INK4A, and p18INK4C arrest the cell cycle and inhibit the growth of cancer cells [33] and [34]. Our results showed that CDC25 and other cell growth promotion genes were upregulated in Sp5 transfected cancer cells, while CDK inhibitor p21WAF1 and other growth inhibitor genes were downregulated, suggesting that Sp5 might stimulate the growth of tumor cells through controlling these molecules. In fact, several studies have established the ability of Sp1 binding sites to mediate growth induction of a variety of promoters, including those of the genes encoding insulin-like growth factor (IGF) binding protein2 [35], vascular/endothelial growth factor (VEGF) [36], thymidine kinase [37], and serum response factor [38]. In addition, the promoters of many pro-apoptotic and angiogenesis-related genes have been found to contain Sp1 binding sites. Given these evidences, it is not surprising that members of this family are involved in the development of tumors.
+
+Recent studies have revealed that zebrafish sp5 homolog and paralog sp5-like are regulated by Wnt/β-Catenin signaling [23]. The Wnt family of signaling proteins participates in multiple developmental events during both embryogenesis and cancer. In addition to Sp5, mouse Sp8 (mBtd) was suggested to act downstream of Wnt signaling in limb outgrowth [39]. It is thus tempting to speculate that Sp1 transcription factors are regulated by, and function downstream of, Wnt signaling in many systems and developmental processes. We found seven consensus Tcf/Lef binding sites in human Sp5 promoter region. Our microarray data revealed several potential downstream genes of Sp5 can be targeted by Wnt signaling pathways including BAMB1, SIX1, and IGFBP5. Interestingly AES and p21WAF1, which act as negative regulators of transcription of Wnt signaling pathway, were downregulated by Sp5 expression. These data collectively suggest that Sp5 expression might be induced by Wnt/β-Catenin signaling to enhance activation of Wnt target genes. Additionally, because several components of Wnt signaling pathway are implicated in the genesis of cancer and the related genes we found (BAMB1, SIX1, IGFBP5, AES, and p21WAF1) are indeed involved in oncogenesis, activation of the Wnt signaling pathway may be involved in Sp5 overexpressed tumors.
+
+Although extensive enhancer/promoter analysis would be necessary to reach a firm conclusion, the diverse and rich composition of the genes that we have uncovered in this study provides an advantageous tool to explore the mechanism of tumorigenesis. Moreover, since normal expression of Sp5 is limited in fetal tissues and several non-essential tissues, according to our screening criteria, Sp5 might serve as a diagnostic marker as well as a potential molecular target for development of novel therapeutic drugs.
+
+Acknowledgments
+We thank Dr. Y. Midorikawa for assistance with RNA and protein extraction from clinical samples, Dr. Y. Hippo for helpful discussions and Miss H. Meguro for valuable technical assistance. We also thank Mr. S. Kwang of Bio-Rad laboratories for review of the manuscript.
+
+Appendix A. Supplementary data
+
+Full-size image (145 K)
+Figure S1. 
+Human Sp5 promoter contains at least seven consensus Tcf/Lef-binding sites. Sequence from −1000 to +500 of the Sp5 transcript, as provided by the Ensembl genome assembly. Tcf/Lef consensus sites are highlighted in gray, and the exon1 of Sp5 transcript is underlined.
+Figure options
+References
+[1]
+P. Bouwman, S. Philipsen
+Regulation of the activity of Sp1-related transcription factors
+Mol. Cell. Endocrinol., 195 (2002), pp. 27–38
+
+Article |  PDF (352 K) | View Record in Scopus | Citing articles (318)
+[2]
+Y. Liu, X. Zhong, W. Li, M.G. Brattain, S.S. Banerji
+The role of Sp1 in the differential expression of transforming growth factor-beta receptor type II in human breast adenocarcinoma MCF-7 cells
+J. Biol. Chem., 275 (2000), pp. 12231–12236
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[3]
+M. Abdelrahim, R. Smith 3rd, R. Burghardt, S. Safe
+Role of Sp proteins in regulation of vascular endothelial growth factor expression and proliferation of pancreatic cancer cells
+Cancer Res., 64 (2004), pp. 6740–6749
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (125)
+[4]
+T.A. Luster, L.R. Johnson, T.K. Nowling, K.A. Lamb, S. Philipsen, A. Rizzino
+Effects of three Sp1 motifs on the transcription of the FGF-4 gene
+Mol. Reprod. Dev., 57 (2000), pp. 4–15
+
+Full Text via CrossRef
+[5]
+L. Dong, W. Wang, F. Wang, M. Stoner, J.C. Reed, M. Harigai, I. Samudio, M.P. Kladde, C. Vyhlidal, S. Safe
+Mechanisms of transcriptional activation of bcl-2 gene expression by 17beta-estradiol in breast cancer cells
+J. Biol. Chem., 274 (1999), pp. 32099–32107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (202)
+[6]
+Y.I. Lee, S. Lee, G.C. Das, U.S. Park, S.M. Park
+Activation of the insulin-like growth factor II transcription by aflatoxin B1 induced p53 mutant 249 is caused by activation of transcription complexes; implications for a gain-of-function during the formation of hepatocellular carcinoma
+Oncogene, 19 (2000), pp. 3717–3726
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (67)
+[7]
+W. Zhang, D.E. Geiman, J.M. Shields, D.T. Dang, C.S. Mahatan, K.H. Kaestner, J.R. Biggs, A.S. Kraft, V.W. Yang
+The gut-enriched Kruppel-like factor (Kruppel-like factor 4) mediates the transactivating effect of p53 on the p21WAF1/Cip1 promoter
+J. Biol. Chem., 275 (2000), pp. 18391–18398
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (206)
+[8]
+D. Goldenberg, S. Ayesh, T. Schneider, O. Pappo, O. Jurim, A. Eid, Y. Fellig, T. Dadon, I. Ariel, N. de Groot, A. Hochberg, E. Galun
+Analysis of differentially expressed genes in hepatocellular carcinoma using cDNA arrays
+Mol. Carcinogen., 33 (2002), pp. 113–124
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+[9]
+L.J. van ’t Veer, H. Dai, M.J. van de Vijver, Y.D. He, A.A. Hart, M. Mao, H.L. Peterse, K. van der Kooy, M.J. Marton, A.T. Witteveen, G.J. Schreiber, R.M. Kerkhoven, C. Roberts, P.S. Linsley, R. Bernards, S.H. Friend
+Gene expression profiling predicts clinical outcome of breast cancer
+Nature, 415 (2002), pp. 530–536
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5069)
+[10]
+E.J. Yeoh, M.E. Ross, S.A. Shurtleff, W.K. Williams, D. Patel, R. Mahfouz, F.G. Behm, S.C. Raimondi, M.V. Relling, A. Patel, C. Cheng, D. Campana, D. Wilkins, X. Zhou, J. Li, H. Liu, C.H. Pui, W.E. Evans, C. Naeve, L. Wong, J.R. Downing
+Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling
+Cancer Cell, 1 (2002), pp. 133–143
+
+Article |  PDF (774 K) | View Record in Scopus | Citing articles (1178)
+[11]
+Y. Midorikawa, S. Tsutsumi, H. Taniguchi, M. Ishii, Y. Kobune, T. Kodama, M. Makuuchi, H. Aburatani
+Identification of genes associated with dedifferentiation of hepatocellular carcinoma with expression profiling analysis
+Jpn. J. Cancer Res., 93 (2002), pp. 636–643
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+[12]
+S. Fukumoto, N. Yamauchi, H. Moriguchi, Y. Hippo, A. Watanabe, J. Shibahara, H. Taniguchi, S. Ishikawa, H. Ito, S. Yamamoto, H. Iwanari, M. Hironaka, Y. Ishikawa, T. Niki, Y. Sohara, T. Kodama, M. Nishimura, M. Fukayama, H. Dosaka-Akita, H. Aburatani
+Overexpression of the aldo-keto reductase family protein AKR1B10 is highly correlated with smokers’ non-small cell lung carcinomas
+Clin. Cancer Res., 11 (2005), pp. 1776–1785
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (130)
+[13]
+T. Shimamura, H. Ito, J. Shibahara, A. Watanabe, Y. Hippo, H. Taniguchi, Y. Chen, T. Kashima, T. Ohtomo, F. Tanioka, H. Iwanari, T. Kodama, T. Kazui, H. Sugimura, M. Fukayama, H. Aburatani
+Overexpression of MUC13 is associated with intestinal-type gastric cancer
+Cancer Sci., 96 (2005), pp. 265–273
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+[14]
+S.M. Harrison, D. Houzelstein, S.L. Dunwoodie, R.S. Beddington
+Sp5, a new member of the Sp1 family, is dynamically expressed during development and genetically interacts with Brachyury
+Dev. Biol., 227 (2000), pp. 358–372
+
+Article |  PDF (1241 K) | View Record in Scopus | Citing articles (74)
+[15]
+D. Treichel, M.B. Becker, P. Gruss
+The novel transcription factor gene Sp5 exhibits a dynamic and highly restricted expression pattern during mouse embryogenesis
+Mech. Dev., 101 (2001), pp. 175–179
+
+Article |  PDF (1196 K) | View Record in Scopus | Citing articles (30)
+[16]
+X. Ge, S. Yamamoto, S. Tsutsumi, Y. Midorikawa, S. Ihara, S.M. Wang, H. Aburatani
+Interpreting expression profiles of cancers by genome-wide survey of breadth of expression in normal tissues
+Genomics, 86 (2005), pp. 127–141
+
+Article |  PDF (1222 K) | View Record in Scopus | Citing articles (135)
+[17]
+B. Majello, P. De Luca, G. Suske, L. Lania
+Differential transcriptional regulation of c-myc promoter through the same DNA binding sites targeted by Sp1-like proteins
+Oncogene, 10 (1995), pp. 1841–1848
+
+View Record in Scopus | Citing articles (101)
+[18]
+D.Y. Lee, C. Teyssier, B.D. Strahl, M.R. Stallcup
+Role of protein methylation in regulation of transcription
+Endocr. Rev., 26 (2005), pp. 147–170
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (218)
+[19]
+G. Gill
+SUMO and ubiquitin in the nucleus: different functions, similar mechanisms?
+Genes Dev., 18 (2004), pp. 2046–2059
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (394)
+[20]
+K. Korner, L.A. Wolfraim, F.C. Lucibello, R. Muller
+Characterization of the TATA-less core promoter of the cell cycle-regulated cdc25C gene
+Nucleic Acids Res., 25 (1997), pp. 4933–4939
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+[21]
+V. Facchinetti, R. Lopa, F. Spreafico, F. Bolognese, R. Mantovani, F. Tavner, R. Watson, M. Introna, J. Golay
+Isolation and characterization of the human A-myb promoter: regulation by NF-Y and Sp1
+Oncogene, 19 (2000), pp. 3931–3940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+[22]
+A.L. Gartel, X. Ye, E. Goufman, P. Shianov, N. Hay, F. Najmabadi, A.L. Tyner
+Myc represses the p21(WAF1/CIP1) promoter and interacts with Sp1/Sp3
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 4510–4515
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (210)
+[23]
+G. Weidinger, C.J. Thorpe, K. Wuennenberg-Stapleton, J. Ngai, R.T. Moon
+The Sp1-related transcription factors sp5 and sp5-like act downstream of Wnt/beta-catenin signaling in mesoderm and neuroectoderm patterning
+Curr. Biol., 15 (2005), pp. 489–500
+
+Article |  PDF (641 K) | View Record in Scopus | Citing articles (83)
+[24]
+H. Petropoulos, I.S. Skerjanc
+Beta-catenin is essential and sufficient for skeletal myogenesis in P19 cells
+J. Biol. Chem., 277 (2002), pp. 15393–15399
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+[25]
+T. Reichling, K.H. Goss, D.J. Carson, R.W. Holdcraft, C. Ley-Ebert, D. Witte, B.J. Aronow, J. Groden
+Transcriptional profiles of intestinal tumors in Apc(Min) mice are unique from those of embryonic intestine and identify novel gene targets dysregulated in human colorectal tumors
+Cancer Res., 65 (2005), pp. 166–176
+
+View Record in Scopus | Citing articles (56)
+[26]
+H. Brantjes, J. Roose, M. van De Wetering, H. Clevers
+All Tcf HMG box transcription factors interact with Groucho-related co-repressors
+Nucleic Acids Res., 29 (2001), pp. 1410–1419
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (215)
+[27]
+V. Devgan, C. Mammucari, S.E. Millar, C. Brisken, G.P. Dotto
+p21WAF1/Cip1 is a negative transcriptional regulator of Wnt4 expression downstream of Notch1 activation
+Genes Dev., 19 (2005), pp. 1485–1495
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (125)
+[28]
+S. Philipsen, G. Suske
+A tale of three fingers: the family of mammalian Sp/XKLF transcription factors
+Nucleic Acids Res., 27 (1999), pp. 2991–3000
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (450)
+[29]
+A. Toyoda, Y. Fukumaki, M. Hattori, Y. Sakaki
+Mode of activation of the GC box/Sp1-dependent promoter of the human NADH-cytochrome b5 reductase-encoding gene
+Gene, 164 (1995), pp. 351–355
+
+Article |  PDF (544 K) | View Record in Scopus | Citing articles (13)
+[30]
+B. Majello, P. De Luca, L. Lania
+Sp3 is a bifunctional transcription regulator with modular independent activation and repression domains
+J. Biol. Chem., 272 (1997), pp. 4021–4026
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (238)
+[31]
+A.J. Courey, R. Tjian
+Analysis of Sp1 in vivo reveals multiple transcriptional domains, including a novel glutamine-rich activation motif
+Cell, 55 (1988), pp. 887–898
+
+Article |  PDF (2149 K) | View Record in Scopus | Citing articles (730)
+[32]
+E. Pascal, R. Tjian
+Different activation domains of Sp1 govern formation of multimers and mediate transcriptional synergism
+Genes Dev., 5 (1991), pp. 1646–1656
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (261)
+[33]
+J.A. Coffman
+Cell cycle development
+Dev. Cell, 6 (2004), pp. 321–327
+
+Article |  PDF (104 K) | View Record in Scopus | Citing articles (24)
+[34]
+C. Swanton
+Cell-cycle targeted therapies
+Lancet Oncol., 5 (2004), pp. 27–36
+
+Article |  PDF (181 K) | View Record in Scopus | Citing articles (168)
+[35]
+E. Kutoh, J. Margot, J. Schwander
+Cell-density (cycle) dependent silencer of the rat insulin-like growth factor binding protein-2 (IGFBP-2) gene
+Growth Factors, 16 (1999), pp. 217–223
+
+Full Text via CrossRef
+[36]
+J. Milanini, F. Vinals, J. Pouyssegur, G. Pages
+p42/p44 MAP kinase module plays a key role in the transcriptional regulation of the vascular endothelial growth factor gene in fibroblasts
+J. Biol. Chem., 273 (1998), pp. 18165–18172
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (261)
+[37]
+P. Sorensen, E. Wintersberger
+Sp1 and NF-Y are necessary and sufficient for growth-dependent regulation of the hamster thymidine kinase promoter
+J. Biol. Chem., 274 (1999), pp. 30943–30949
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+[38]
+J.A. Spencer, R.P. Misra
+Expression of the SRF gene occurs through a Ras/Sp/SRF-mediated-mechanism in response to serum growth signals
+Oncogene, 18 (1999), pp. 7319–7327
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (30)
+[39]
+Y. Kawakami, C.R. Esteban, T. Matsui, J. Rodriguez-Leon, S. Kato, J.C. Belmonte
+Sp8 and Sp9, two closely related buttonhead-like transcription factors, regulate Fgf8 expression and limb outgrowth in vertebrate embryos
+Development, 131 (2004), pp. 4763–4774
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+☆
+Grants-in-Aid for Scientific Research (S) 16101006 and Scientific Research on Priority Areas 17015008 from the Ministry of Education, Culture, Sports, Science and Technology of Japan, and Health and Labour Sciences Research Grants on Hepatitis and BSE (HA); the Program of Fundamental Studies in Health Sciences of the National Institute of Biomedical Innovation (NIBIO), Focus 21 project of New Energy and Industrial Technology Development Organization (NEDO) and Special Coordination Fund for Science and Technology from Ministry of Education, Culture, Sports, Science and Technology (TK).
+Corresponding author contact information
+Corresponding author. Fax: + 81 3 5452 5355.
+1
+Present address: Children’s Cancer Research Institute, Department of Pediatrics, University of Texas Health Science Center, San Antonio, TX 78229, USA.
+2
+Authors equally contributed to this work.
+Copyright © 2005 Elsevier Inc. All rights reserved.

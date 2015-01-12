@@ -1,0 +1,487 @@
+﻿The Structure of an Arf-ArfGAP Complex Reveals a Ca2+ Regulatory Mechanism
+Shehab A. Ismail1, Ingrid R. Vetter1, Begona Sot1, Alfred Wittinghofer1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2010.03.051
+Under an Elsevier user license
+Referred to by
+Shehab A. Ismail, Ingrid R. Vetter, Begona Sot, Alfred Wittinghofer
+The Structure of an Arf-ArfGAP Complex Reveals a Ca2+ Regulatory Mechanism
+Cell, Volume 143, Issue 7, 23 December 2010, Page 1190
+ PDF (31 K)
+  Open Archive
+Summary
+Arfs are small G proteins that have a key role in vesicle trafficking and cytoskeletal remodeling. ArfGAP proteins stimulate Arf intrinsic GTP hydrolysis by a mechanism that is still unresolved. Using a fusion construct we solved the structure of the ArfGAP ASAP3 in complex with Arf6 in the transition state. This structure clarifies the ArfGAP catalytic mechanism and shows a glutamine(Arf6) and an arginine finger(ASAP3) as the important catalytic residues. Unexpectedly the structure shows a calcium ion, liganded by both proteins in the complex interface, stabilizing the interaction and orienting the catalytic machinery. Calcium stimulates the GAP activity of ASAPs, but not other members of the ArfGAP family. This type of regulation is unique for GAPs and any other calcium-regulated processes and hints at a crosstalk between Ca2+ and Arf signaling.
+
+Graphical Abstract
+Full-size image (35 K)
+Figure options
+Highlights
+► The ASAP3 arginine finger stimulates GTP hydrolysis on the Arf6 small G protein ► A calcium-binding pocket forms by the interaction of this ArfGAP and Arf6 ► Calcium stimulates the GTPase reaction by stabilizing the catalytic machinery ► Calcium regulation is a general feature of the ASAP protein subfamily of ArfGAPs
+
+Author Keywords
+CELLBIO; SIGNALING; PROTEINS
+Introduction
+ADP-ribosylation-factors (Arfs) belong to the Ras superfamily of GTP-binding proteins switching between the GTP- and GDP-bound forms. Based on sequence homology, Arfs are subdivided into three classes. Class I includes Arf1, 2, and 3; class II Arf4 and 5; and class III only Arf6 (Kahn et al., 2006). Arfs are involved in vesicle trafficking, actin remodeling, and phospholipid metabolism (D'Souza-Schorey and Chavrier, 2006). In addition, Arf6 plays a role in cell migration, cancer invasion, and plasma membrane remodeling (Sabe, 2003).
+
+Arf-specific GTPase-activating proteins (ArfGAPs) regulate Arfs by stimulating their slow intrinsic GTP hydrolysis. In humans, ArfGAPs are classified according to their domain structure into 10 subfamilies including 31 members and are characterized by the presence of a zinc finger motif (Kahn et al., 2008). ASAP subfamily proteins (ASAP1, 2, and 3) contain consecutive BAR, PH, ArfGAP, and Ankyrin domains. They are present in cell structures required for cell migration and invasion, such as focal adhesions, invadopodias, and podosomes, and are involved in endocytosis and cytoskeletal remodeling (Bharti et al., 2007, Ha et al., 2008 and Kahn et al., 2008). In vitro, ASAP proteins were shown to be active against Arf1 and 5 and to a lesser extent toward Arf6 (Andreev et al., 1999, Brown et al., 1998 and Ha et al., 2008). Nevertheless ASAP3 was also reported to be an Arf6 GAP (Fang et al., 2006). ASAP1 and 3 are implicated in carcinogenesis, as ASAP1 is highly expressed in invasive breast cancer and ASAP3 in hepatocellular carcinoma, hence its original name “upregulated in liver cancer” (UPLC1) (Okabe et al., 2004 and Onodera et al., 2005). The involvement of ArfGAPs in several cellular processes as well as their many different domain organizations suggest a variety of spatiotemporal regulations, most of which remain to be discovered.
+
+The catalytic mechanism of ArfGAPs is elusive. In most GAPs, such as Ras-, Rho, and RabGAPs, a so-called arginine finger is introduced into the active site of their cognate G protein, stabilizing the transition state (Bos et al., 2007). In the crystal structure of ArfGAP1 with ArfGDP, the conserved arginine of ArfGAP1 was remote from the catalytic center, which led the authors to propose the coatomer to provide the catalytic arginine (Goldberg, 1999). In contrast, biochemical studies have proposed a central catalytic role for the conserved arginine (Luo et al., 2007 and Mandiyan et al., 1999). Here we set out to characterize the catalytic mechanism of ArfGAPs by solving the structure of the ArfGAP ASAP3 in complex with Arf6 in the transition state. In doing so we identified the first true Arf-ArfGAP interface. Our data clearly show that, contrary to the previously reported structure, ASAP3 binds to switches I and II of Arf6 and provides an arginine finger in the active site. In addition the structure led us to discover a Ca2+-binding site at the complex interface. We show structurally and biochemically that Ca2+ specifically stimulates ASAP-assisted GTP hydrolysis. We propose the ASAP subfamily, and most likely ARAP3, to constitute a crosstalk between Arf and Ca2+ signaling.
+
+Results
+Fusion Protein Design and Crystallization
+First, to determine the in vitro ASAP3 specificity, a construct containing the PH, GAP, and Ankyrin domains was tested toward Arf1, 4, and 6 bound to GTP as representatives of each Arf class. With the PH domain, hydrolysis with Arf6 was 3- and 1.5-fold faster than with Arf1 and Arf4, respectively (data not shown). Without the PH domain, hydrolysis on Arf6 was 4.5- and 3-fold faster than with Arf1 and 4, respectively (data not shown). Due to the slight preference for Arf6, we decided to work with Arf6 as a substrate for ASAP3. Nevertheless GTP hydrolysis rate was very slow compared to other small G protein GAPs (Figure S1A available online). The PH domain likely affects the interaction between ASAP3 and Arf6, as the PH domain construct was 9-fold more active than a construct lacking the PH domain (Figure S1A) (Ha et al., 2008).
+
+Full-size image (24 K)
+Figure S1. 
+Catalytic Activity of ArfGAP Constructs, Related to Figure 4
+(A) Comparison of GAP-mediated GTP hydrolysis on Δ13Arf6 of a construct GAP-Ankyrin [416–697] lacking the PH domain, (20 μM) with a construct including the PH domain, PH-GAP-Ankyrin [294–697], (20 μM) in the presence of 50 μM Arf6•GTP.
+(B) Schematic representation of the ASAP3-Arf6 fusion construct used for crystallization.
+(C) GTP hydrolysis under multi-turnover conditions by the fusion protein in the presence and absence of ARNO as indicated.
+Figure options
+Crystallization trials by mixing different Arf6 and ASAP3 constructs were unsuccessful, probably due to low affinity of the complex. To overcome this problem, constructs of ASAP3 and Arf6 were expressed as fusion proteins connected by different types of flexible linkers. The most promising construct contained the GAP-Ankyrin tandem (residues 416–697), Δ13Arf6, and a 37 residue linker modified from the 23 amino acid linker of the human Oct-1 transcription factor (Figure S1B) (van Leeuwen et al., 1997). In contrast to recombinant Arf6, which is usually purified as 80% to 90% loaded with GTP, as assessed by high-pressure liquid chromatography (HPLC), the fusion construct contained only GDP, which was considered an indication for GAP activity. In order to directly measure the activity, we used excess GTP and the Arf guanine nucleotide exchange factor (GEF) ARNO to test the fusion protein for GTPase activity. Although almost no hydrolysis is observed in the absence of ARNO, because GDP release is very slow and rate-limiting, we could measure multiple rounds of fast GTP hydrolysis in its presence (Figure S1C). From this we conclude that the Arf6 part was able to exchange GDP for GTP assisted by ARNO and the GAP part was able to catalyze GTP hydrolysis on Arf6.
+
+If catalysis follows the general mechanism of GAPs and G proteins, GDP.AlFx should capture the complex in the transition state (Bos et al., 2007). We thus crystallized the fusion protein in the presence of AlFx.
+
+Overall Structure and Comparison with the Arf1•GDP•ArfGAP1 Structure
+Crystals belonged to space group P62 with one molecule in the asymmetric unit. The structure was solved by molecular replacement at 3.4 Å and the overall structure is shown in Figure 1A. The shortest distance between the Ankyrin C terminus and Arf6 N terminus over the surface of Arf6 is 56 Å. This distance could in principle be bridged by the 37 amino acid linker. However, based on the location of a discontinuous electron density of the linker, ASAP3 and Arf6 seemed to be coming from two different symmetry related polypeptides interacting in trans (Figure S2). Arf6 superimposes well with Arf6 from the GTPγS structure (Protein Data Bank [PDB] ID 2j5x) (0.54 Å root-mean-square deviation [rmsd]). Except for the interface side chains the GAP domain showed no significant difference from the uncomplexed UPLC1/ASAP3 (PDB 2B0o) (0.569 Å rmsd).
+
+Full-size image (89 K)
+Figure 1. 
+Overall Structure and Superimpositions
+(A) Ribbon representation of the Arf6•GDP•AlF3•ASAP3 structure, with the ASAP3 GAP domain in cyan, the ankyrin domain in blue, and Arf6 in green, and with its switch I in yellow and switch II in gray.
+(B) Comparison of Arf6•GDP•AlFx•ASAP3 with Arf1•GDP•ArfGAP1 reported previously (Goldberg, 1999), obtained by superimposition of Arf1 with Arf6, with ArfGAP1 in dark pink, and Arf6•GDP•AlF3•ASAP3 as in Figure 1A, leaving out the ankyrin repeats for clarity.
+(C) superimposition of switch I (salmon) and switch II (red) conformations of Arf1 from the Arf1•GDP•ArfGAP1 structure and those of Arf6 with colors as in Figure 1A.
+(D) Comparison of the switch I (salmon) and switch II (red) from Arf6GTPγS (PDB code2j5x) and those of Arf6 from the Arf6•GDP•AlF3•ASAP3, obtained by superimposition of the G domains.
+See also Figure S2 and Figure S3.
+Figure options
+Full-size image (92 K)
+Figure S2. 
+Arf and GAP Interacting In trans, Related to Figure 1
+Symmetry arrangement of the GAP-Ankyrin-Arf molecule with the possible (A) cis connection, red line, and the corresponding molecule is then encircled with dotted line and the active site, within the same molecule, is pointed at with an arrow or (B) trans connection, black line, and the corresponding molecule is encircled as in (A), with the active site formed between two neighboring molecules and pointed at with an arrow. (C) Fo-Fc and 2Fo-Fc electron density map contoured at 2σ (green) and 1σ (gray), respectively. The arrows are pointing at the electron density in the vicinity of the possible trans connection between ankyrin and Arf of two different molecules.
+Figure options
+Superimposition of the structure with that of Arf1•GDP•ArfGAP1 shows two major differences. First, ArfGAP1 is only contacting switch II and is located away from the active site (Goldberg, 1999), whereas here the GAP domain is close to the active site and interacting with switches I and II of Arf6 with a total buried surface area of 1911 Å2 (Figure 1B). Residues contributing to the buried surface from the GAP domain of ASAP3 are located on β1 (Trp451), α2, L3, β3, L4, and α4 (Figure 1A). The ankyrin domain on the other hand is not involved in the interaction, except for the Arg645(ASAP3) side chain, which makes a potential salt bridge and a hydrogen bond with Asp94(Arf6). Second, the switch regions of Arf6 show large structural differences from that of Arf1•GDP but closely resemble that of Arf6•GTPγS, supporting the notion that the GDP•AlFx complex is closer to the GTP-bound state (Figures 1C and 1D). A surface representation shows the phosphate to be completely buried in the interface, indicating that additional stimulation of ArfGAPs activity by whatever stimulus (e.g., coatomer; Goldberg, 1999) for steric reasons is unlikely by direct participation in the chemistry of the active site (Figure S3).
+
+Full-size image (81 K)
+Figure S3. 
+Accessibility of the Active Site, Related to Figure 1
+(A) Overall structure of the complex in ribbon representation, with Arf6 in green and ASAP3 in cyan, where the active site is encircled.
+(B) A surface presentation, transparency set at 20%, showing that the active site is not accessible to the solvent.
+Figure options
+The Catalytic Mechanism
+An Fo − Fc map shows positive density for the GDP nucleotide and extra density that can be fitted with AlFx, which we modeled as AlF3, and magnesium (Figure 2B). Arg469(ASAP3) protrudes into the active site, with the positively charged guanidinium group contacting a fluoride of AlFx and the oxygen mimicking the bridging oxygen between the gamma and beta phosphates (Figure 2A). This leads us to the conclusion that Arg469 is indeed an arginine finger. We further confirm this biochemically as the R469A mutation abolishes the catalytic activity (Figure S4). Superimposition with the Ras-RasGAP structure shows that the arginine fingers are approaching from a different angle but have their guanidinium groups aligned (Figure 2C). As a result and surprisingly, Arg469(ASAP3) does not contact nor stabilize the catalytic Gln67(Arf6) as in other small G protein-GAP structures. Its effect on catalysis is thus solely a result of neutralizing the developing negative charges and hence stabilizing the transition state (Figure 2C).
+
+Full-size image (97 K)
+Figure 2. 
+Arf-ASAP3 Interactions and the Active Site
+(A) Close-up view of the catalytic site showing the potential interactions (black dotted lines).
+(B) Initial Fo-Fc electron density map around the nucleotide contoured at 2σ, modeled as GDP•Mg•AlF3.
+(C) Comparison with the Ras-RasGAP complex (PDB 1WQ1; Scheffzek et al., 1997) after superimposition of the two G proteins, with residues Arg903 (salmon), Arg789 (salmon) from RasGAP, Gln61 (salmon) from Ras, and residues from the Arf6-ASAP3 complex as above.
+(D) Schematic representation of Arf6 (green) and ASAP3 (cyan) contacting residues. Hydrogen bonds and salt bridges are indicated by black dotted lines and hydrophobic interactions by dotted magenta line. Residues different between Arf6 and other Arfs are in red.
+See also Figure S4.
+Figure options
+Full-size image (18 K)
+Figure S4. 
+Interface Mutants, Related to Figure 2
+HPLC based GTP hydrolysis assay with wild-type ASAP3 (aa 294–697) (14 μM) and the R469A, D484A, and W451A (50 μM each in presence of 1 mM CaCl2) mutants on Δ13Arf6, as described in Experimental Procedures.
+Figure options
+Another consequence of the different orientation of Arg469(ASAP3) is the possibility to accommodate a conserved Asp22(Arf6). In the case of Ras, mutations at the corresponding P loop position, Gly12, are oncogenic due to steric clashes with both Arg789(RasGAP) and the catalytic Gln61(Ras), which reduces the intrinsic GTP hydrolysis and abolishes the GAP-catalyzed GTP hydrolysis (Scheffzek et al., 1997). Asp22(Arf6) is also stabilized by interaction with Arg95(Arf6) in a conformation that avoids steric clashes with Gln67 (Figure 2C).
+
+The side chain of the conserved residue Asp484(ASAP3) contacts the main chain nitrogen of Gln67 and Asp68 and the side chain of Gln67 (Figure 2A). These interactions stabilize switch II and hence the catalytic Gln in the correct orientation for GTP hydrolysis. Intriguingly, the side chain of Asp484 overlaps with that of Arg903(RasGAP) of the conserved RasGAPs FLR motif (Figure 2C). The D484A mutation in ASAP3 severely decreased the GAP-catalyzed GTP hydrolysis (Figure S4), as reported for ASAP1 and ASAP2 (Luo et al., 2007 and Mandiyan et al., 1999). Residues analogous to those reported to be important for ArfGAP-mediated GTPase reaction could be mapped to the ASAP3-Arf6 complex interface (Luo et al., 2007 and Mandiyan et al., 1999) (Figure 2D). An example is Tryptophan 451, which contributes to the buried surface area (Figure 1A). Correspondingly the W451A mutation severely affects GAP activity (Figure S4).
+
+Residues in the active site crucial for catalysis are conserved between Arfs and ArfGAPs, arguing that ArfGAP-mediated catalysis by Arf is the same for the different members of the family and that the differences in domain architecture affect only the regulation of the reaction. As to the specificity, 8 of the 11 Arf6 residues contacting ASAP3 in the structure are conserved among all Arf family members (Figure 2D). Residues different (red in Figure 2D) include Ala91(Arf6), which can make a hydrophobic interaction with Val473(ASAP3) and is replaced by Asn in all other Arfs. In addition, Asp94(Arf6), which is involved in hydrogen bond and salt bridge interaction, is replaced by the slightly longer Glu side chain in all other Arfs. The third different residue is Val45, which is Ile in all other Arf members. These differences might contribute to the slight preference for Arf6 that we observed in vitro. In the cell, additional specificity might be achieved by localization or other means. Moreover we cannot exclude additional contacts with Arfs in the case of full-length proteins.
+
+A Ca2+-Binding Site
+One striking observation was the presence of a positive electron density in the Fo − Fc map, at the interface close to the active site. Due to the presence of magnesium acetate in the crystallization buffer, one could assume that this corresponds to a magnesium ion rather than a water molecule. However, the coordination made us wonder about a calcium-binding site. To verify Ca2+ binding, we soaked the crystals with CaCl2 (1 min), collected anomalous data, and compared with unsoaked crystals. Anomalous signals corresponding to phosphates (GDP), zinc, and sulfur were observed in both soaked and unsoaked crystals (Figures 3A and 3B). However only the CaCl2 soaked crystals showed an extra anomalous signal in the putative calcium-binding site (Figure 3B).
+
+Full-size image (77 K)
+Figure 3. 
+The Calcium-Binding Site
+(A and B) Anomalous electron density map contoured at 3σ for unsoaked and CaCl2-soaked crystals, respectively. The small gray sphere indicates the structural zinc, arrows are pointing to the calcium-binding site, and Met506 and Cys442 are showing anomalous signals for their sulfurs.
+(C) Details of the connections between the calcium-binding and catalytic sites, with Arf6 in green, switch I in salmon, and switch II in gray, with interacting residues connected by dotted lines.
+Figure options
+According to the nature of residues coordinating calcium as well as the geometry of the binding motif, calcium-binding sites can be classified into EF-hand and non-EF-hand sites (Yang et al., 2002). Here the calcium-binding site would fall into the non-EF-hand category: Ligands are provided by residues that are remote in the sequence and, a unique feature of the structure presented here, donated from two different polypeptides. Statistically non-EF-hand binding sites coordinate 6 ± 2 ligands (Kirberger et al., 2008). Here we could detect five ligands coordinating calcium. It is likely that additional water ligands are present but not visible at the present resolution. A weak density is indeed present that might account for a 6th ligand. Three oxygen ligands are provided by Arf, two of which derive from Asp68(Arf6) and one from the Glu98(Arf6) side chain. Two ligands are donated by ASAP3, with the side chain of Gln479(ASAP3) and a water molecule bound to the main chain oxygen of Leu485(ASAP3) (Figure 3C).
+
+The Effect of Ca2+ on GTP Hydrolysis
+A network of interactions in the vicinity of or directly with switch II are mediated or stabilized by Ca2+. They are likely relevant both for the affinity of the complex and for the catalytic machinery. The most important seems to be the bi-dentate Ca2+ interaction by Asp68, as this residue is next to the catalytic Gln67. There are hydrogen bonds between the NH of Leu485(ASAP3) and Asp68 and between Gln479(ASAP3) and Asp22(Arf6) and between Asp484 and Gln67 (Figure 3C). All of these interactions would help to optimally position switch II and in particular Gln67 for catalysis. Stabilizing the intrinsically mobile catalytic Gln has been recognized as a very important element of GAP-mediated catalysis (Vetter and Wittinghofer, 2001). The Ca2+-mediated stabilization seen here would thus be an alternative to the interaction between the arginine finger and the catalytic Gln found in conventional GAPs (Bos et al., 2007).
+
+To verify the structural findings, we tested biochemically the effect of calcium and, for control, magnesium on GTP hydrolysis. Under the conditions used, a 50-fold stimulation of GTP hydrolysis was noticed upon addition of 10 mM CaCl2 compared to only a 4-fold stimulation with 10 m MgCl2 (Figure 4A). Even under multi-turnover conditions with high concentrations of Arf6GTP (1.3 mM) and catalytic amounts of ASAP3 (7 μM), the rate was still stimulated by Ca2+ (40-fold) with a catalytic rate constant (kcat) of 1 s−1 (Figure S5A). This is an indication that Ca2+ is important for stabilizing both the catalytic machinery and the protein-protein interface. The PH domain did not affect the stimulation by Ca2+, as seen by comparing different constructs (Figures S5B and S5C).
+
+Full-size image (43 K)
+Figure 4. 
+Biochemistry of Ca2+ Regulation of GTP Hydrolysis
+(A) GTP hydrolysis assay for 2.5 μM ASAP3 [294–697] on 100 μM Δ13Arf6GTP in the absence and presence of 10 mM calcium and magnesium as described in the Experimental Procedures.
+(B) Effect of calcium concentrations in the 200–500 μM range on GTP hydrolysis of 47 μM Δ13Arf6GTP with 18 μM ASAP3 [294–697].
+(C) Effect of Ni-NTA liposomes (2.5 mM) in the absence and presence of different CaCl2 concentrations on 0.3 μM ASAP3 [294–697] hydrolyzing 15 μM Δ13Arf6GTP.
+(D) Real-time effect of adding 2 mM CaCl2 after 2 min 30 s to GTP hydrolysis on liposomes and comparison with control.
+Shape of curves in (C) and (D): In the experiments where we used liposomes, the reaction kinetics did not follow a normal mono-exponential equation, which is expected for reactions when both enzyme and substrate are attached to membrane vesicles where the association rate constant decreases with time (Berry, 2002, Kholodenko et al., 2000 and Takakuwa et al., 1994). The increase in effective concentrations promoted by the colocalization is only true in shorter times. The bidimensionality of the membrane surface and the low diffusion coefficient in lipid layers produce substrate and product segregation at longer times, and therefore the enzymatic rate will depend on the lateral diffusion of the enzyme and the substrate (Berry, 2002). Thus, the rate decreases with time. In our case, this effect is especially strong in the experiment without calcium, where the kinetic looks to reach saturation at 20% of GTP hydrolyzed. But it is not real saturation, as at longer times (60 min) the percentage of GTP hydrolysis reaches 64% (data not shown). The activation produced by calcium, mostly due to an increase in affinity and catalysis efficiency, has the property of decreasing the inhibitory effect of the membrane bidimensionality, and therefore it can reach higher percentage of of hydrolysis. It means that more extent of product and substrate segregation is needed to produce rate inhibition. To further demonstrate this, both proteins were attached to the vesicles and let react for 2 min (figure 4D). Then, 2 mM CaCl2 was added. The calcium reactivates the hydrolysis reaction and starts to decelerate again at 45% GTP hydrolyzed, a similar percentage as that obtained when CaCl2 is added at the beginning.
+See also Figure S5.
+Figure options
+Full-size image (24 K)
+Figure S5. 
+Biochemical Analysis of Ca2+ Effect, Related to Figure 4
+(A) Determination of kcat and the EC50 value of CaCl2 under saturating multi-turnover conditions with 7 μM ASAP3 [294–697] and 1320 μM Δ13Arf6•GTP, as described in Experimental Procedures.
+(B) GTP hydrolysis by a construct including the PH domain, PH-GAP-Ankyrin (aa 294–697), in the absence and presence of 2 mM CalCl2 with conditions as in Figure S1A.
+(C) GTP hydrolysis by a construct lacking the PH domain, PH-GAP-Ankyrin (aa 294–697), in the absence and presence of 2 mM CaCl2, with conditions as in Figure S1A.
+Figure options
+Physiological concentrations of calcium in the cell range from nanomolars (cytosol) up to hundreds of micromolars close to the exit site of a single calcium channel (Laude and Simpson, 2009, Oheim et al., 2006, Parekh, 2008 and Rizzuto and Pozzan, 2006). Thus we wanted to test if such physiological concentrations of Ca2+ can stimulate GTP hydrolysis. Indeed we could see effective stimulation of GTP hydrolysis at 200 and 500 μM CaCl2 concentrations (Figure 4B).
+
+Additive Effect of Colocalization and Calcium on GTP Hydrolysis Stimulation
+In the cell, Arf proteins bind to membranes through an N-terminal amphipathic helix and a myristoyl group, and ArfGAPs can bind to membranes by different motifs such as BAR domains, PH domains, and ALPS (“ArfGAP Lipid Packing Sensor”). The PH domain of ASAP3 binds phosphatidylinositol 4,5-bisphosphate (PI(4,5)P2), which in turn stimulates its GAP activity (Ha et al., 2008). ASAP1 stimulation by phospholipids was attributed to a possible conformational change of ASAP1 and/or recruitment of ASAP1 to membranes and hence induction of colocalization with Arf (Che et al., 2005). Thus, we wanted to investigate if calcium can have an additive effect in such a scenario.
+
+GTPase activity measurements of membrane-bound ASAP3 and Arf have been done with liposomes containing phosphatidylserine (PS), phosphatidylinositol (PI), and PI(4,5)P2 (Ha et al., 2008). Unfortunately, PI and PS bind divalent cations such as calcium, sequestering them from solution and aggregating the liposomes (Fraley et al., 1980 and Janmey et al., 1987). We thus decided to use the previously described Ni2+-NTA liposomal system (Oh et al., 2006 and Schmitt et al., 1994). Arf6 and ASAP3 constructs were then allowed to attach to those liposomes by an N-terminal His tag. However, with these experimental settings, we could not reach the maximum GTP hydrolysis rates reported before (50 s−1) as PI(4,5)P2, the allosteric activator, is missing (Luo et al., 2007). Very low concentration of ASAP3 efficiently stimulated GTP hydrolysis, whereas in the absence of liposomes no GTP hydrolysis activity could be detected even in the presence of 2 mM CaCl2 (Figure 4C). Calcium on the other hand was able to stimulate hydrolysis in the presence of liposomes, and such an effect of calcium was also observed with 250 μM CaCl2 (Figures 4C and 4D). This leads us to the conclusion that calcium has a stimulating effect also under more physiologically relevant conditions and stimulates GTP hydrolysis with membrane-bound components.
+
+ASAP Is a Ca2+-Regulated ArfGAP Subfamily
+The calcium ligands Asp68(Arf6) and Glu98(Arf6) are conserved among all human Arfs, whereas Gln479(ASAP3) is conserved only among the ASAP subfamily and ARAP3. In all other ArfGAP subfamilies this Gln residue is replaced by a positively charged arginine or lysine (Figure 5A). This suggests that the close proximity of opposite charges would contribute to Arf-ArfGAP interactions in those other GAPs. To see the effect of a positive charge and to delete the Ca2+-binding site, we mutated the ligand residues to arginine and measured GTP hydrolysis. Mutants such as Q479R in ASAP3 or E98R and D68R in Arf6 with extra positive charges were more active compared to the wild-type proteins under the same conditions but were insensitive to calcium regulation (Figures 6A and 6B). The increased activity of the mutants is likely due to a stronger protein-protein interaction. However, given that stimulation by the arginine mutation was not as strong as that by Ca2+, we conclude that arginine is only a partial mimic of the latter.
+
+Full-size image (80 K)
+Figure 5. 
+Comparison of Ca2+ Effect on ArfGAP Subfamilies
+(A) Sequence alignment of the fragment containing residues discussed in the text, underlining important residues such as Gln479(ASAP3), Trp451, Asp484, and the arginine finger Arg469, for the 31 members of ArfGAPs. The conserved Ca2+ ligand Gln is in blue, and the proteins containing Gln are marked by a shaded box. GTP hydrolysis by 20 μM ASAP1 (B) and 0.1 μM AGAP1 (C) on 70 μM Δ17Arf1GTP in the presence and absence of 1 mM CaCl2 is shown, as described in the Experimental Procedures.
+Figure options
+Full-size image (24 K)
+Figure 6. 
+Mutational Analysis of the Calcium-Binding Pocket
+(A) GTP hydrolysis of wild-type (WT) Arf6 (50 μM) stimulated by WT (14 μM) and Q479R mutant (14 μM) ASAP3 [294–697] in the presence and absence of calcium.
+(B) GTP hydrolysis of wild-type, D68R (50 μM) and E98R (50 μM) mutant Arf6 stimulated by WT ASAP3 [294–697] (14 μM) in the presence and absence of calcium.
+Figure options
+In order to confirm that Ca2+ regulation is a common feature among other subfamily members, we measured the activity of ASAP1 in the presence of CaCl2. To confirm that it is unique to the ASAP subfamily, we also measured the activity of AGAP1. Ca2+ indeed stimulated ASAP1 activity but did not have a significant effect on AGAP1 (Figures 5B and 5C). However, AGAP1 was much more active than the wild-type ASAP1 (roughly 200-fold). This confirms the expectations from the structural analysis that only the ASAP subfamily and most likely ARAP3 is regulated by calcium. It also suggests that the higher basic activity of other ArfGAPs is partially due to a better charge complementarity in the protein-protein interface.
+
+Discussion
+For a decade, the available biochemical data describing the interactions between Arfs and ArfGAPs could not be explained on the basis of the available complex structure. The difficulty of crystallizing an Arf-ArfGAP complex, at least partially due to low affinity of Arfs and ArfGAPs, hindered either confirming or refuting the previously proposed structural model. By linking Arf and an ArfGAP via a flexible linker we could obtain crystals of the relevant complex and eventually describe in structural and mechanistic terms the catalytically relevant Arf-ArfGAP interactions. A related linker was previously required for successful crystallization of the enhanceosome (Panne et al., 2007). This underscores the value of such an approach for crystallization of weak binding complexes.
+
+Calcium-binding proteins can be classified into calcium sensors or buffers. Sensors undergo a conformational change upon calcium binding, which in turn results in a specific signal for, e.g., exposing hydrophobic residues for protein-protein interactions, as shown for Calmodulin, or assembling a proteolytic active site (Calpain) (Hosfield et al., 1999 and Krebs and Michalak, 2007). For non-EF-hand proteins, calcium can mediate membrane binding as in the case of C2 domains. Here we show an entirely different type of Ca2+ regulation in which a calcium-binding pocket is formed by two proteins and Ca2+ has a direct effect on catalysis.
+
+A wide range of calcium concentrations in the cell from nanomolars (cytosol) up to hundreds of micromolars close to the exit site of a single calcium channel have been described (Laude and Simpson, 2009, Oheim et al., 2006, Parekh, 2008 and Rizzuto and Pozzan, 2006). Furthermore the calcium-binding C2 domains have been shown to have a range of affinities varying from micro- to millimolar (Gomperts et al., 2002). Despite the fact that full ASAP3-GAP activity needs millimolar concentrations in vitro, we could show that physiologically attainable calcium concentrations can activate GTP hydrolysis and are additive with membrane colocalization. Nevertheless the existence of other factors such as certain lipids or proteins lowering the calcium concentrations needed for stimulation of GTP hydrolysis cannot be excluded. In fact, other cellular Ca2+-signaling systems have been reported that in vitro require hundreds of micromolar or up to a millimolar concentrations of calcium (Bao et al., 2007 and Goll et al., 2003). In addition, requirement of high calcium concentrations can offer the bonus of precise spatiotemporal regulation. Only at certain times and locations (calcium micro and nano domains) within the cell can calcium reach very high concentrations, which would restrict the calcium effect on ArfGTP hydrolysis within those locations. A clear example is seen with synaptic transmission, where vesicles are positioned within tens of nanometers from voltage-gated calcium channels (Meinrenken et al., 2002). Upon calcium influx only vesicles that are correctly positioned close to the calcium channel would have a high probability of fusion and hence release (McNeil and Wu, 2009). Indeed the involvement of Arfs in vesicle trafficking, especially of Arf6 in Ca2+-mediated exocytosis and endocytosis, supports the notion that calcium participates in their GTP/GDP cycle regulation. We propose a crosstalk between Arf signaling and calcium signaling in which calcium can contribute to the spatiotemporal regulation of Arf signaling by stimulating the GAP activity of ASAPs, and possibly ARAP3.
+
+The many different domain organizations of the 10 subfamilies of ArfGAPs suggest that they respond to many different cues in very complex scenarios. For ArfGAP1 it has been shown that it has a special amphipathic helix, ALPS, which can sense membrane curvatures and thereby modulates its GAP activity (Bigay et al., 2005). ArfGAP1, 2, and 3 were reported to be activated by the presence of coatomer (Goldberg, 1999 and Weimer et al., 2008). Many other ArfGAP members contain BAR domains that are known to recognize as well as induce membrane curvature; however their role in regulating GAP activity is not well established. It was reported that the BAR domain did not render ASAP1 GAP activity sensitive for liposome size (Nie et al., 2006). Phospholipids play a role in regulating ArfGAP activity of members harboring PH domains (Inoue and Randazzo, 2007). It will be necessary to find out whether and how calcium binding in coordination with other cues regulates the function of ASAPs in vivo.
+
+Finally the involvement of ASAP1, ASAP3, and Arf6 in carcinogenesis and metastasis highlights the importance of the presented structure in general and the Ca2+-binding pocket in particular as it may give clues for designing inhibitors for therapeutic applications.
+
+Experimental Procedures
+Constructs
+Two constructs of ASAP3, PH-GAP-Ankyrin (aa 294–697) and GAP-Ankyrin (aa 416–697), were cloned in a pET28a vector with N-terminal His-tag. Arf constructs (Δ17Arf1, Δ17Arf4, and Δ13Arf6) were cloned in pET20a with C-terminal His-tag. For experiments with liposomes, a truncated construct of Arf6, Δ13Arf6, was cloned in a pEQ 80L vector (Quiagen) with an N-terminal His-tag. His-tagged AGAP1 (347–804) and ASAP1 (325–724) clones were kindly provided by Paul Randazzo.
+
+The sequence for the linker is NLSSDSSLSSPSALNSLSSPSALNSTASNSPGIEGLS (van Leeuwen et al., 1997). The fusion protein (GAP-Ankyrin(416–697)-Linker-Δ13Arf6) was constructed by overlap PCR and cloned in pET20a with C-terminal His-tag. Site-directed mutagenesis were performed using the QuickChange kit from Stratagene.
+
+Protein Expression and Purification
+All proteins were expressed in Bl21 DE3 codon plus RIL cells. Purification was done using nickel affinity chromatography followed by gel permeation chromatography. GAP proteins and the fusion protein were kept and stored in a buffer containing 10% glycerol, 100 mM NaCl, 20 mM Tris-HCl(7.5) and 5 mM βME (in the case of fusion protein, 5 mM MgCl2 was also added). Arf proteins were kept and stored in 150 mM NaCl, 20 mM Tris-HCl, 5 mM MgCl2, and 5 mM βME. Δ17Arf1 and Δ13Arf6 were 80%–90% GTP loaded, as assessed by HPLC, whereas the fusion protein showed only GDP-loading.
+
+Crystallization and Structure Solution
+The fusion protein was concentrated to 30 mg/ml in the above-mentioned buffer in addition to 2 mM GDP and 4 mM AlFx. The sitting drop method was used and an initial condition was found in EasyXtal Protein Complex Suite from QIAGEN. The condition was optimized to a final solution of 13% PEG8000, 150 mM magnesium acetate, and 100 mM MOPS (7.5). Crystals appeared after 1 day and were flash frozen in a cryo-solution containing the same constituents as the crystallizing condition in addition to 4 mM AlFx, 2 mM GDP, and 29% glycerol. Data collection was done at the X10SA beamline of the Suisse Light Source (SLS), Villigen.
+
+Data were processed with XDS (Kabsch, 1993). Molecular Replacement was done with Molrep from the CCP4 package; using one monomer of UPLC1 structure (PDB 2b0o) and Arf6 structure (PDB 2j5x), the nucleotide was not included in the search model (Vagin and Teplyakov, 1997). The structure was refined to a resolution of 3.4 Å using REFMAC5 (Murshudov et al., 1997). For data and refinement statistics, see Table S1.
+
+For soaking, one crystal was soaked for 1 min in the same cryo-solution, as above, in addition to 30 mM CaCl2. Data collection was done at the SLS using 1.38 Å wavelength. For comparing anomalous signals, data for an unsoaked crystal were collected at 1.39 Å. All the figures were produced using PYMOL (DeLano Scientific LLC).
+
+GTP Hydrolysis Assay
+GTP hydrolysis was done by mixing GTP-loaded Arf proteins with GAP proteins as specified. Samples were flash frozen at given time points. The relative amounts of GDP and GTP were determined by calculating the peak area via HPLC (Lenzen et al., 1995). Assays were performed in GAP storage buffer (for AGAP1 plus 200 mM NaCl). Fourteen micromolar wild-type and mutant ASAP3 [294–697] and 50 μM wild-type and mutant Δ13Arf6GTP were used. For the AGAP1 assay, 0.1 μM AGAP1 and 70 μM Δ17Arf1GTP and for ASAP1 20 μM ASAP1 and 70 μM Δ17Arf1GTP were used. For assays with lower concentrations of CaCl2, 18 μM ASAP3 [294–697] and 47 μM Δ13Ar6 were used. For the experiment with fusion protein 9 μM of fusion protein was used (GDP loaded) in the presence of 10 μM ARNO and 250 μM GTP and 1.5 mM CaCl2.
+
+For assays of GTP hydrolysis in the presence of liposomes, 15 μM Δ13Ar6 was added to the liposomes for 2 min in the presence of the specified amount of calcium. 0.3 μM ASAP3 [294–697] was then added and samples at the specified time points were taken, and the GTP:GDP content was assessed by HPLC.
+
+For all assays, to test the effect of CaCl2 or MgCl2, ΔArfGTP was passed through a PD-10 desalting column to remove excess MgCl2 from the buffer directly before the assays.
+
+For determining the EC50 value for calcium, 7 μM ASAP3 [294–697] and 1320 μM Δ13Arf6•GTP were used in the presence of increasing CaCl2 concentrations. Initial rates were measured by fitting a first order exponential function to the data and measuring the slope of the tangent passing through the origin. The rates were then plotted against the concentrations of calcium and the curve was fitted to a single rectangular hyperbola, and EC50 was calculated as well as estimation of the maximum rate at those conditions.
+
+Vesicles Preparation
+1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) and 1,2-dioleoyl-sn-glycero-3-{[N-5-amino-1-carboxylpentyl)iminodiacetic acid]succinyl} (nickel salt) (DOGS-NTA-Ni2+) were purchased from Avanti Polar Lipids. The vesicles were prepared by mixing the chloroform solutions of POPC and DOGS-NTA-Ni 2+ (3 mM total lipids, 70% POPC:30% DOGS-NTA-Ni2+) and drying under nitrogen gas in a glass test tube as thin films. The formed thin film was then further dried under vacuum for 2 hr. The dried lipids were then resuspended in a buffer containing 100 mM NaCl, 10% glycerol, 100 μM βME, and 20 mM Tris-HCl (7.5) by vortexing. The suspension was then subjected to nine cycles of freezing and thawing and was used then directly for the experiments.
+
+Acknowledgments
+We thank Paul Randazzo for ASAP1 and AGAP1 clones; Maraget Chou for the Arf6 clone; and Michael Spörner for ARNO proteins; Wulf Blankenfeldt, Eckhard Hoffman, and Ilme Schlichting for data collection at the Swiss Light Source, beamline X10SA, Paul Scherrer Institut, Villigen, Switzerland. We thank Ola Sabet, Raphael Gasper, and Simon Meyer for scientific discussions and Carolin Koerner for scientific discussion and expert technical support. S.A.I. is sponsored by the Alexander Von Humboldt Stiftung. A.W. thanks the DFG (SFB 642) for financial support.
+
+Accession Numbers
+The PDB codes for the crystal structures of calcium-soaked and -unsoaked crystals are 3LVQ and 3LVR, respectively.
+
+Supplemental Information
+ 
+Table S1. Data Collection and Refinement Statistics, Related to Experimental Procedures.  
+Help with PDF filesOptions
+ 
+Document S1. Article Plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Andreev et al., 1999
+J. Andreev, J.P. Simon, D.D. Sabatini, J. Kam, G. Plowman, P.A. Randazzo, J. Schlessinger
+Identification of a new Pyk2 target protein with Arf-GAP activity
+Mol. Cell. Biol., 19 (1999), pp. 2338–2350
+
+View Record in Scopus | Citing articles (123)
+Bao et al., 2007
+Q. Bao, W. Lu, J.D. Rabinowitz, Y. Shi
+Calcium blocks formation of apoptosome by preventing nucleotide exchange in Apaf-1
+Mol. Cell, 25 (2007), pp. 181–192
+
+Article |  PDF (1448 K) | View Record in Scopus | Citing articles (54)
+Berry, 2002
+H. Berry
+Monte carlo simulations of enzyme reactions in two dimensions: fractal kinetics and spatial segregation
+Biophys. J., 83 (2002), pp. 1891–1901
+
+Article |  PDF (227 K) | View Record in Scopus | Citing articles (123)
+Bharti et al., 2007
+S. Bharti, H. Inoue, K. Bharti, D.S. Hirsch, Z. Nie, H.Y. Yoon, V. Artym, K.M. Yamada, S.C. Mueller, V.A. Barr et al.
+Src-dependent phosphorylation of ASAP1 regulates podosomes
+Mol. Cell. Biol., 27 (2007), pp. 8271–8283
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+Bigay et al., 2005
+J. Bigay, J.F. Casella, G. Drin, B. Mesmin, B. Antonny
+ArfGAP1 responds to membrane curvature through the folding of a lipid packing sensor motif
+EMBO J., 24 (2005), pp. 2244–2253
+
+View Record in Scopus | Citing articles (138)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: Critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Brown et al., 1998
+M.T. Brown, J. Andrade, H. Radhakrishna, J.G. Donaldson, J.A. Cooper, P.A. Randazzo
+ASAP1, a phospholipid-dependent arf GTPase-activating protein that associates with and is phosphorylated by Src
+Mol. Cell. Biol., 18 (1998), pp. 7038–7051
+
+View Record in Scopus | Citing articles (144)
+Che et al., 2005
+M.M. Che, E.S. Boja, H.Y. Yoon, J. Gruschus, H. Jaffe, S. Stauffer, P. Schuck, H.M. Fales, P.A. Randazzo
+Regulation of ASAP1 by phospholipids is dependent on the interface between the PH and Arf GAP domains
+Cell. Signal., 17 (2005), pp. 1276–1288
+
+Article |  PDF (832 K) | View Record in Scopus | Citing articles (24)
+D'Souza-Schorey and Chavrier, 2006
+C. D'Souza-Schorey, P. Chavrier
+ARF proteins: roles in membrane traffic and beyond
+Nat. Rev. Mol. Cell Biol., 7 (2006), pp. 347–358
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Fang et al., 2006
+Z. Fang, Y. Miao, X. Ding, H. Deng, S. Liu, F. Wang, R. Zhou, C. Watson, C. Fu, Q. Hu et al.
+Proteomic identification and functional characterization of a novel ARF6 GTPase-activating protein, ACAP4
+Mol. Cell. Proteomics, 5 (2006), pp. 1437–1449
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Fraley et al., 1980
+R. Fraley, J. Wilschut, N. Duzgunes, C. Smith, D. Papahadjopoulos
+Studies on the mechanism of membrane fusion: role of phosphate in promoting calcium ion induced fusion of phospholipid vesicles
+Biochemistry, 19 (1980), pp. 6021–6029
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+Goldberg, 1999
+J. Goldberg
+Structural and functional analysis of the ARF1-ARFGAP complex reveals a role for coatomer in GTP hydrolysis
+Cell, 96 (1999), pp. 893–902
+
+Article |  PDF (386 K) | View Record in Scopus | Citing articles (223)
+Goll et al., 2003
+D.E. Goll, V.F. Thompson, H. Li, W. Wei, J. Cong
+The calpain system
+Physiol. Rev., 83 (2003), pp. 731–801
+
+View Record in Scopus | Citing articles (1390)
+Gomperts et al., 2002
+B.D. Gomperts, P.E.R. Tatham, I.M. Kramer
+Signal Transduction
+Academic Press, San Diego, CA (2002)
+
+Ha et al., 2008
+V.L. Ha, S. Bharti, H. Inoue, W.C. Vass, F. Campa, Z. Nie, A. de Gramont, Y. Ward, P.A. Randazzo
+ASAP3 is a focal adhesion-associated Arf GAP that functions in cell migration and invasion
+J. Biol. Chem., 283 (2008), pp. 14915–14926
+
+Full Text via CrossRef
+Hosfield et al., 1999
+C.M. Hosfield, J.S. Elce, P.L. Davies, Z. Jia
+Crystal structure of calpain reveals the structural basis for Ca(2+)-dependent protease activity and a novel mode of enzyme activation
+EMBO J., 18 (1999), pp. 6880–6889
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (228)
+Inoue and Randazzo, 2007
+H. Inoue, P.A. Randazzo
+Arf GAPs and their interacting proteins
+Traffic, 8 (2007), pp. 1465–1475
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (78)
+Janmey et al., 1987
+P.A. Janmey, K. Iida, H.L. Yin, T.P. Stossel
+Polyphosphoinositide micelles and polyphosphoinositide-containing vesicles dissociate endogenous gelsolin-actin complexes and promote actin assembly from the fast-growing end of actin filaments blocked by gelsolin
+J. Biol. Chem., 262 (1987), pp. 12228–12236
+
+Kabsch, 1993
+W. Kabsch
+Automatic processing of rotation diffraction data from crystals of initially unknown symmetry and cell constants
+J. Appl. Cryst., 26 (1993), pp. 795–800
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2542)
+Kahn et al., 2006
+R.A. Kahn, J. Cherfils, M. Elias, R.C. Lovering, S. Munro, A. Schurmann
+Nomenclature for the human Arf family of GTP-binding proteins: ARF, ARL, and SAR proteins
+J. Cell Biol., 172 (2006), pp. 645–650
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (107)
+Kahn et al., 2008
+R.A. Kahn, E. Bruford, H. Inoue, J.M. Logsdon Jr., Z. Nie, R.T. Premont, P.A. Randazzo, M. Satake, A.B. Theibert, M.L. Zapp et al.
+Consensus nomenclature for the human ArfGAP domain-containing proteins
+J. Cell Biol., 182 (2008), pp. 1039–1044
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Kholodenko et al., 2000
+B.N. Kholodenko, J.B. Hoek, H.V. Westerhoff
+Why cytoplasmic signaling proteins should be recruited to cell membranes
+Trends Cell Biol., 10 (2000), pp. 173–178
+
+Article |  PDF (115 K) | View Record in Scopus | Citing articles (112)
+Kirberger et al., 2008
+M. Kirberger, X. Wang, H. Deng, W. Yang, G. Chen, J.J. Yang
+Statistical analysis of structural characteristics of protein Ca2+-binding sites
+J. Biol. Inorg. Chem., 13 (2008), pp. 1169–1181
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Krebs and Michalak, 2007
+,in: J. Krebs, J.K. Michalak (Eds.), Calcium: A Matter of Life or Death, Vol 41Elsevier, Amsterdam (2007)
+
+Laude and Simpson, 2009
+A.J. Laude, A.W. Simpson
+Compartmentalized signalling: Ca2+ compartments, microdomains and the many facets of Ca2+ signalling
+FEBS J., 276 (2009), pp. 1800–1816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+Lenzen et al., 1995
+C. Lenzen, R.H. Cool, A. Wittinghofer
+Analysis of intrinsic and CDC25-stimulated guanine nucleotide exchange of p21ras-nucleotide complexes by fluorescence measurements
+Methods Enzymol., 255 (1995), pp. 95–109
+
+Article |  PDF (753 K) | View Record in Scopus | Citing articles (101)
+Luo et al., 2007
+R. Luo, B. Ahvazi, D. Amariei, D. Shroder, B. Burrola, W. Losert, P.A. Randazzo
+Kinetic analysis of GTP hydrolysis catalysed by the Arf1-GTP-ASAP1 complex
+Biochem. J., 402 (2007), pp. 439–447
+
+View Record in Scopus | Citing articles (22)
+Mandiyan et al., 1999
+V. Mandiyan, J. Andreev, J. Schlessinger, S.R. Hubbard
+Crystal structure of the ARF-GAP domain and ankyrin repeats of PYK2-associated protein beta
+EMBO J., 18 (1999), pp. 6890–6898
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+McNeil and Wu, 2009
+B.D. McNeil, L.G. Wu
+Location matters: synaptotagmin helps place vesicles near calcium channels
+Neuron, 63 (2009), pp. 419–421
+
+Article |  PDF (100 K) | View Record in Scopus | Citing articles (3)
+Meinrenken et al., 2002
+C.J. Meinrenken, J.G. Borst, B. Sakmann
+Calcium secretion coupling at calyx of held governed by nonuniform channel-vesicle topography
+J. Neurosci., 22 (2002), pp. 1648–1667
+
+View Record in Scopus | Citing articles (140)
+Murshudov et al., 1997
+G.N. Murshudov, A.A. Vagin, E.J. Dodson
+Refinement of macromolecular structures by the maximum-likelihood method
+Acta Crystallogr. D Biol. Crystallogr., 53 (1997), pp. 240–255
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9784)
+Nie et al., 2006
+Z. Nie, D.S. Hirsch, R. Luo, X. Jian, S. Stauffer, A. Cremesti, J. Andrade, J. Lebowitz, M. Marino, B. Ahvazi et al.
+A BAR domain in the N terminus of the Arf GAP ASAP1 affects membrane structure and trafficking of epidermal growth factor receptor
+Curr. Biol., 16 (2006), pp. 130–139
+
+Article |  PDF (821 K) | View Record in Scopus | Citing articles (50)
+Oh et al., 2006
+K.J. Oh, S. Barbuto, K. Pitter, J. Morash, L.D. Walensky, S.J. Korsmeyer
+A membrane-targeted BID BCL-2 homology 3 peptide is sufficient for high potency activation of BAX in vitro
+J. Biol. Chem., 281 (2006), pp. 36999–37008
+
+Full Text via CrossRef
+Oheim et al., 2006
+M. Oheim, F. Kirchhoff, W. Stuhmer
+Calcium microdomains in regulated exocytosis
+Cell Calcium, 40 (2006), pp. 423–439
+
+Article |  PDF (856 K) | View Record in Scopus | Citing articles (50)
+Okabe et al., 2004
+H. Okabe, Y. Furukawa, T. Kato, S. Hasegawa, Y. Yamaoka, Y. Nakamura
+Isolation of development and differentiation enhancing factor-like 1 (DDEFL1) as a drug target for hepatocellular carcinomas
+Int. J. Oncol., 24 (2004), pp. 43–48
+
+View Record in Scopus | Citing articles (21)
+Onodera et al., 2005
+Y. Onodera, S. Hashimoto, A. Hashimoto, M. Morishige, Y. Mazaki, A. Yamada, E. Ogawa, M. Adachi, T. Sakurai, T. Manabe et al.
+Expression of AMAP1, an ArfGAP, provides novel targets to inhibit breast cancer invasive activities
+EMBO J., 24 (2005), pp. 963–973
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+Panne et al., 2007
+D. Panne, T. Maniatis, S.C. Harrison
+An atomic model of the interferon-beta enhanceosome
+Cell, 129 (2007), pp. 1111–1123
+
+Article |  PDF (1371 K) | View Record in Scopus | Citing articles (200)
+Parekh, 2008
+A.B. Parekh
+Ca2+ microdomains near plasma membrane Ca2+ channels: impact on cell function
+J. Physiol., 586 (2008), pp. 3043–3054
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+Rizzuto and Pozzan, 2006
+R. Rizzuto, T. Pozzan
+Microdomains of intracellular Ca2+: molecular determinants and functional consequences
+Physiol. Rev., 86 (2006), pp. 369–408
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Sabe, 2003
+H. Sabe
+Requirement for Arf6 in cell adhesion, migration, and cancer cell invasion
+J. Biochem., 134 (2003), pp. 485–489
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Scheffzek et al., 1997
+K. Scheffzek, M.R. Ahmadian, W. Kabsch, L. Wiesmuller, A. Lautwein, F. Schmitz, A. Wittinghofer
+The Ras-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants
+Science, 277 (1997), pp. 333–338
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (745)
+Schmitt et al., 1994
+L. Schmitt, C. Dietrich, R. Tampe
+Synthesis and characterization of chelator-lipids for reversible immobilization of engineered proteins at self-assembled lipid interfaces
+J. Am. Chem. Soc., 116 (1994), pp. 8485–8491
+
+Full Text via CrossRef
+Takakuwa et al., 1994
+Y. Takakuwa, H. Nishino, Y. Ishibe, T. Ishibashi
+Properties and kinetics of membrane-bound enzymes when both the enzyme and substrate are components of the same microsomal membrane. Studies on lathosterol 5-desaturase
+J. Biol. Chem., 269 (1994), pp. 27889–27893
+
+View Record in Scopus | Citing articles (18)
+Vagin and Teplyakov, 1997
+A. Vagin, A. Teplyakov
+MOLREP: an automated program for molecular replacement
+J. Appl. Cryst., 30 (1997), pp. 1022–1025
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2961)
+van Leeuwen et al., 1997
+H.C. van Leeuwen, M.J. Strating, M. Rensen, W. de Laat, P.C. van der Vliet
+Linker length and composition influence the flexibility of Oct-1 DNA binding
+EMBO J., 16 (1997), pp. 2043–2053
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Vetter and Wittinghofer, 2001
+I.R. Vetter, A. Wittinghofer
+The guanine nucleotide-binding switch in three dimensions
+Science, 294 (2001), pp. 1299–1304
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (776)
+Weimer et al., 2008
+C. Weimer, R. Beck, P. Eckert, I. Reckmann, J. Moelleken, B. Brugger, F. Wieland
+Differential roles of ArfGAP1, ArfGAP2, and ArfGAP3 in COPI trafficking
+J. Cell Biol., 183 (2008), pp. 725–735
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Yang et al., 2002
+W. Yang, H.W. Lee, H. Hellinga, J.J. Yang
+Structural analysis, identification, and design of calcium-binding sites in proteins
+Proteins, 47 (2002), pp. 344–356
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (79)
+Corresponding author contact information
+Corresponding author
+Copyright © 2010 Elsevier Inc. All rights reserved.

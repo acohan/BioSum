@@ -1,0 +1,1537 @@
+Lessons from the Cancer Genome
+Levi A. Garraway1, 2, 4, Eric S. Lander3, 4, 5, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2013.03.002
+Under an Elsevier user license
+  Open Archive
+Systematic studies of the cancer genome have exploded in recent years. These studies have revealed scores of new cancer genes, including many in processes not previously known to be causal targets in cancer. The genes affect cell signaling, chromatin, and epigenomic regulation; RNA splicing; protein homeostasis; metabolism; and lineage maturation. Still, cancer genomics is in its infancy. Much work remains to complete the mutational catalog in primary tumors and across the natural history of cancer, to connect recurrent genomic alterations to altered pathways and acquired cellular vulnerabilities, and to use this information to guide the development and application of therapies.
+
+Main Text
+Introduction
+More than a century ago, Theodor Boveri proposed that cancer is caused by chromosomal derangements that cause cells to divide uncontrollably (Boveri, 2008)—that, in modern terms, cancer is a “disease of the genome.” It took 70 years for molecular biologists to prove this concept by showing the existence of mutated cancer-causing genes (Stehelin et al., 1976; Tabin et al., 1982). By the mid-1980s, researchers had established two main types of cancer-causing genes (oncogenes and tumor suppressor genes) and had defined the genomic alterations that give rise to them (e.g., nucleotide substitutions, chromosomal copy number alterations, and DNA rearrangements; reviewed in Macconaill and Garraway [2010]). These studies also began to suggest considerable complexity in the mutational origins of cancer, with cancer-causing genes varying across and within tumor types and with multiple genes contributing to tumorigenesis.
+
+In an influential commentary in 1986, Renato Dulbecco argued that the complete sequence of the human genome would be an essential tool for systematically discovering the genes that drive cancer (Dulbecco, 1986). “If we wish to learn more about cancer, we must now concentrate on the cellular genome,” he wrote. “We have two options: either to try to discover the genes important in malignancy by a piecemeal approach, or to sequence the whole genome…it will be far more useful to begin by sequencing the cellular genome.” Responding to this and other calls, the Human Genome Project (HGP) was launched in 1990. A “draft” sequence was completed by 2000 (Lander et al., 2001; Venter et al., 2001) and a near-complete sequence by 2003 (IHGSC, 2004).
+
+With the availability of the genome sequence, cancer researchers rapidly began to develop a new field of “cancer genomics.” Cancer genomics involves systematic studies of (some or all of) the genome to find sites of recurrent derangement in specific cancer types. Pioneering genomic studies at the Sanger Institute and Johns Hopkins uncovered genes mutated frequently in melanoma and colon cancer, respectively (Davies et al., 2002; Samuels et al., 2004). Studies by several groups in Boston and New York then discovered frequent activating mutations in lung cancer, which largely explained patient response to a drug (Lynch et al., 2004; Paez et al., 2004; Pao et al., 2004). Soon thereafter, a working group of the U.S. National Cancer Institute proposed a “Human Cancer Genome Project” (see http://www.genome.gov/Pages/About/NACHGR/May2005NACHGRAgenda/ReportoftheWorkingGrouponBiomedicalTechnology.pdf), which came to be called The Cancer Genome Atlas (TCGA). The NCI launched a pilot project for TCGA in 2006 and a full project in 2009. In parallel, an International Cancer Genome Consortium was launched and has grown to involve researchers in more than 15 countries (Hudson et al., 2010).
+
+The notion of taking a genomic approach to characterizing cancer was not universally endorsed, as reflected in the title of one commentary: “Human Cancer Genome Project: Another Misstep in the War on Cancer” (Gabor Miklos, 2005). Some thoughtful critics felt that hypothesis-driven research was the best way to study cancer and worried that systematic studies were so expensive that they would drive out focused investigation (Weinberg, 2010). Proponents argued that science requires investment in both hypothesis generation and hypothesis testing and that unbiased genomic studies were an excellent way to find surprises. They also expected the cost of genomic studies to plummet, with new technologies just over the horizon. Some scientists were skeptical because they believed that there were few cancer-related genes left to discover, whereas others thought that cancers were too hopelessly complicated to yield to systematic analysis. This open debate helped to shape the design of cancer genome projects. In the end, however, the questions could only be answered with data.
+
+With cancer genome projects now underway for several years (Table 1), the time is right to assess the early returns and to consider next steps for the field. (As a complement to this Review, we recommend an earlier review by Stratton et al. [2009], which describes many foundational aspects of cancer genomics.) Here, we describe the remarkable tapestry of biological, evolutionary, and therapeutic insights that have emerged from systematic cancer genome characterization. At the end, we suggest the next steps for cancer genomics.
+
+Table 1.
+Current Large-Scale Cancer Genome Projectsa
+Anatomic Site	Tumor Type
+Brain/Central nervous system	glioblastoma multiforme
+low-grade glioma
+pediatric: medulloblastoma
+pediatric: pilocytic astrocytoma
+Head and neck	head/neck squamous cell cancer
+thyroid carcinoma
+Thoracic	lung adenocarcinoma
+lung squamous cell carcinoma
+Breast	breast lobular carcinoma
+breast ductal carcinoma
+breast triple-negative
+breast HER-2 positive
+breast ER positive vs. negative
+Gastrointestinal	esophageal adenocarcinoma
+esophageal squamous carcinoma
+gastric adenocarcinoma
+gastric (intestinal/diffuse)
+hepatocellular (alcohol/adiposity)
+hepatocellular (virus)
+hepatocellular (general)
+pancreatic adenocarcinoma
+colorectal adenocarcinoma
+colon cancer (non-Western)
+Gynecologic	ovarian serous cystadenocarcinoma
+endometrial carcinoma
+cervical cancer (squamous + adeno)
+Urologic	renal: clear cell carcinoma
+renal: papillary carcinoma
+renal: chromophobe carcinoma
+bladder cancer
+prostate adenocarcinoma
+prostate adenocarcinoma, early onset
+Skin	melanoma, cutaneous
+Soft tissue (Sarcoma)	solitary fibrous tumors
+desmoid tumors
+angiorsarcomas
+leiomyosarcomas
+extraskeletal myxoid chondrosarcomas
+Hematologic	acute myeloid leukemia
+lymphoma: chronic lymphocytic leuk.
+lymphoma: germinal B cell
+lymphoma: diffuse large B cell
+chronic myeloid disorders
+a
+In conjunction with The Cancer Genome Atlas, International Cancer Genome Consortium, and Slim Initiative for Genomic Medicine.
+Table options
+Technology Revolution
+Initial cancer genome projects had to be carried out with what today seem like primitive technologies. Mutations were identified by traditional capillary-based sequencing in which each exon to be studied was amplified and sequenced individually, and chromosome copy number alterations were surveyed with DNA microarrays. DNA rearrangements could hardly be cataloged at all. The high cost and extensive infrastructure needed for large-scale DNA sequencing placed tight constraints on the amount of data that could be collected. Exome-scale projects could only be carried out on small numbers of samples (Sjöblom et al., 2006; Wood et al., 2007); thus, much effort was spent developing lists of candidate gene for sequencing based on a priori notions of cancer mechanisms or therapeutic targets (Ding et al., 2008; Greenman et al., 2007; CGARN, 2008).
+
+The emergence of massively parallel sequencing (MPS) revolutionized the entire enterprise (Bentley et al., 2008; Margulies et al., 2005). Initially, MPS made it possible to sequence nearly 1 billion bases (1 gigabase [Gb]) in a single run; this number grew to >600 Gb/run by 2012. In parallel, methods were developed that employ hybridization to oligonucleotide “baits” in aqueous solution to capture specific portions of the genome—most importantly, the ∼2% of genomic DNA that contains known exons (the “exome”) (Gnirke et al., 2009; Hodges et al., 2007). MPS also made it possible to use a single technology platform for all categories of genome analysis (discovering point mutations, assessing copy number alterations and translocations, measuring transcript levels, identifying alternative splicing, detecting DNA methylation, and mapping chromatin structure).
+
+The first whole cancer genome sequenced by MPS was reported in 2008 (Ley et al., 2008). Whereas initial studies were confined to single samples (Pleasance et al., 2010a, 2010b), studies of hundreds of samples have quickly become the norm. Plummeting costs have propelled an unprecedented explosion of sequence data. For example, >16,000 cancer samples had been subjected to genome or exome sequencing by late 2012 just at our institution alone (Broad Institute).
+
+With the MPS data came a need for completely new analytic tools. The first challenge was to accurately determine the sequence in individual tumor and normal samples from the “raw” sequence data. Each type of alteration in the DNA and RNA required a specialized detection method, including for single nucleotide variants, small insertions/deletions, chromosomal rearrangements, gene fusions, alternatively spliced transcripts, chromosomal copy number alterations, and detection of foreign DNA (such as from viruses) (Beroukhim et al., 2007; Chen et al., 2009; Cibulskis et al., 2013; Dees et al., 2012; Kim and Salzberg, 2011; Kostic et al., 2011; Trapnell et al., 2009). Algorithms employ probabilistic methods to identify mutations or rearrangements based on their presence in multiple tumor sequence reads and absence in the paired normal DNA sequence (Meyerson et al., 2010).
+
+Detecting mutations with high accuracy turned out to be surprisingly tricky. Because somatic point mutations in cancer are so infrequent (∼1/Mb), the background error rate must be an order of magnitude lower to ensure that most apparent events are true positives. Many false positives initially arose from sequencing errors and inaccurate alignment of reads to the human genome. In addition, false negatives may arise from admixture of noncancer cells (tumor purity), copy number variations inherent in cancer genomes (ploidy), and the presence of variant subclones within the cancer cell population (heterogeneity) (Carter et al., 2012). Increasing the sequencing depth (average number of reads per base) was found to improve both the specificity and sensitivity of mutation calling. Currently, tumor sequencing is performed with 100- to 150-fold coverage for whole-exome analysis and 30- to 60-fold coverage for whole-genome analysis. (The whole-genome sequence should ideally be deeper but is currently limited by cost.)
+
+Obtaining accurate mutation calls for a collection of individual samples is only the first step. The harder challenge is to distinguish between “driver” events that are causally related to the development of cancer and random “passenger” events that have simply accumulated over the course of development and cell growth. This requires determining which genes show significantly more mutations than random expectation. Sophisticated mathematical methods are needed to ensure that the “random expectation” properly accounts for (1) variation in background mutation rates across the genome, (2) variation across tumors, and (3) variation in purity and heterogeneity (Chapman et al., 2011a; Dees et al., 2012; Hodis et al., 2012; M.S. Lawrence, personal communication). Without such corrections, genes may be spuriously declared to be drivers, with the problem growing worse as sample size grows (because even modest deviations from expectation will appear to be significant). Recent studies have highlighted some likely spurious results and have developed solutions to eliminate them (G. Getz, personal communication). Perfecting these algorithms remains an area of active research. Other algorithms have been developed to study the structure of amplifications and deletions to detect the possibility of multiple target genes within a given locus (Beroukhim et al., 2007; Beroukhim et al., 2010).
+
+Mutational Mechanisms
+The explosion of genomic data quickly shed light on the mutational processes of cancer, revealing an unexpected richness of mechanisms. These insights may propel a deeper understanding of factors governing genome integrity and tumor evolution.
+
+Mutation Rates
+Initial plans for cancer genome analysis assumed a single uniform background mutation rate (∼1/Mb). In fact, cancer mutation rates turned out to be much more variable, ranging from as low as one base substitution per exome (<0.1/Mb) in some pediatric cancers to thousands of mutations per exome (∼100/Mb) in certain mutagen-induced malignancies (such as lung cancer and melanoma). Moreover, mutation rates were found to vary substantially across the genome, governed by processes such as transcription-coupled repair and replication timing.
+
+Mutational Spectra
+Cancer genome sequencing has also revealed a wide array of mutational patterns both across and within individual tumor types. Their distinctive characteristics may reflect extrinsic factors (e.g., UV light or tobacco smoke) or intrinsic patterns such as DNA repair deficiencies. For example, a recent study (Nik-Zainal et al., 2012a) pointed to at least five distinct nucleotide substitution patterns, most of which occur by as-yet unknown mechanisms. One such process, which produces C > A, C > G, or C > T substitutions at TpCpX trinucleotides, appeared to underpin most nucleotide substitutions in ∼10% of ER-positive breast tumors. These studies also discovered a new regional hypermutation mechanism characterized by multiple base mutations that occur in cis near rearrangement breakpoints. Termed “kataegis” (Greek, “kataegis” = “shower” or “thunderstom”), this process likely involves the activation-induced deaminase (AID) and apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like (APOBEC) protein families. New mutation patterns (in this case, A > C transversions at “AA” dinucleotides) have also been discovered in esophageal cancers by large-scale sequencing (A.M. Dulak, personal communication).
+
+Chromosomal Gains and Losses
+Although tumor cell aneuploidy has long been recognized, global cancer genome studies have yielded a systematic assessment of large-scale (whole chromosome or chromosome arm) and focal copy number aberrations. The typical cancer cell exhibits large-scale gains or losses involving a quarter of its genome and carries focal events affecting 10% (Beroukhim et al., 2010). Based on current sample collections, many focal amplifications and deletions have been localized to “peak” regions containing a median of 6–7 genes (although the number is 150–200 in some cases). For the majority of focal events, the driver gene(s) still cannot be assigned definitively.
+
+Chromosomal Shattering
+One of the most striking mutational patterns unveiled by whole-genome sequencing studies consists of a catastrophic phenomenon that produces dozens or even hundreds of rearrangements. The resulting disarray is distinctive for two reasons: it is typically localized within one or a few chromosomes, and it usually involves only two distinct copy number states (Stephens et al., 2011). Termed “chromothripsis” (Greek, “thripsis” = “shattering”), this process occurs in ∼2%–3% of human cancers, with an elevated prevalence in bone cancers, pediatric medulloblastoma, and neuroblastoma (Molenaar et al., 2012; Rausch et al., 2012). Genomic shattering appears to develop as a result of erroneous chromosome segregation during mitosis and the subsequent entrapment of individual chromosomes within “micronuclei” (Crasta et al., 2012). Micronuclei have a tendency toward premature chromosome condensation, which may result in pulverization of chromosomal segments. Chromosomes that survive this process, having undergone aberrant reassembly through nonhomologous end-joining, emerge with dense rearrangements that may sometimes dysregulate cancer genes (Stephens et al., 2011).
+
+Chromosomal Chains
+A whole-genome sequencing study of primary human prostate cancer (Berger et al., 2011) uncovered a distinct category of complex chromosomal rearrangements. Prostate cancer genomes often exhibit “chains” of copy-neutral rearrangements that consist of ∼4–12 distinct breakpoint junctions distributed across multiple chromosomes, with the breakpoints forming a “closed chain” (A to B, B to C, C to D, and finally back to A) that distinguishes the process from chromothripsis or other complex rearrangements. Closed chain rearrangement breakpoints tend to occur near “open” chromatin (that is, transcriptionally active chromatin) in prostate cancer genomes harboring ETS transcription factor rearrangements but near “closed” chromatin in certain “ETS-negative” prostate cancers. These chains have recently been termed “chromoplexy” (Greek, “plexy” = “weave” or “braid”) (Baca et al., 2013).
+
+Additional Processes
+Other complex DNA rearrangements seem to arise through errors in DNA replication (Liu et al., 2011). These may include fork-stalling and template-switching events that trigger microhomology-dependent DNA priming, duplications, and DNA template insertions (for a recent review, see Holland and Cleveland [2012]). Interestingly, these replication-dependent rearrangements show a strong correlation with TP53 mutations in subtypes of medulloblastoma ( Rausch et al., 2012). Thus, somatic alterations in DNA-damage-sensing pathways may render tumor progenitor cells vulnerable to ensuing catastrophic genomic events.
+
+Insights into mutational patterns may bring a deeper understanding of tumor evolution. In contrast to a simple gradualist notion in which somatic mutations accumulate steadily, tumor evolution can be punctuated by various types of catastrophic events (Baca et al., 2013). A fuller knowledge of mutational processes—particularly those that preferentially enact cancer genes—may help to identify driver mechanisms in tumors.
+
+New Cancer Genes
+A key question is whether cancer genomics has led to the discovery of new genes and, ideally, to new classes of genes not previously known to play a causal role in cancer. Although much work still lies ahead, the answer is clear. The trickle of biological discoveries from early studies has become a wave, implicating a wide range of cellular processes in cancer. Whereas some of the new cancer genes encode classical signaling proteins, most populate new and sometimes surprising categories, such as metabolism, epigenetics, chromatin biology, splicing, protein homeostasis, and cell differentiation ( Table 2). The insights from these studies are already guiding hypothesis-driven cancer research ranging from basic cell and molecular biology to novel therapeutics.
+
+Table 2.
+Discoveries from Cancer Genome Characterization
+Cellular Process Altered by Genomic Alterations	Examples of Cancer Genes Discovered (or Extended to New Cancers∗) by Genomics
+RTK signaling	EGFR, aERBB2,∗, aMET,∗, aALK,∗, aJAK2, aRET,∗, aROS,∗, aFGFR1,∗, aFGFR2, aPDGFRA,∗, a and CRKL a
+MAPK signaling (oncogenes)	KRAS,∗, aNRAS,∗, aBRAF, a and MAP2K1 a
+MAPK signaling (TSG)	NF1∗, b
+PI3K signaling (oncogenes)	PIK3CA, aAKT1, a and AKT3 a
+PI3K signaling (TSG)	PTEN∗, b and PIK3R1 b
+Notch signaling (oncogene or TSG)	NOTCH1, cNOTCH2, c and NOTCH3 b
+TOR signaling (TSG)	STK11,∗, bTSC1,∗, b and TSC2∗, b
+Wnt/β-catenin signaling (TSG)	APC∗, b and CTNNB1∗, a
+TGF-β signaling (TSG)	SMAD2,∗, bSMAD4,∗, b and TGFBR2 b
+NF-κB signaling (oncogene)	MYD88 a
+Other signaling	RAC1, aRAC2, aCDC42, aKEAP1, bMAP3K1, bMAP2K4, bROBO1, bROBO2, bSLIT2, bSEMA3A, bSEMA3E, bELMO1, d and DOCK2 d
+Epigenetics DNA methylation	DNMT3A b
+Epigenetics DNA hydroxymethylation	TET2 b
+Chromatin histone methyltransferases	MLL,∗, bMLL2, bMLL3, bEZH2, cNSD1, b and NSD3 b
+Chromatin histone demethylases	JARID1A, bUTX, bKDM5A, b and KDM5C b
+Chromatin histone acetyltransferases	CREBP b and EP300 b
+Chromatin SWI/SNF complex	SMARCA1,∗, bSMARCA4, bARID1A, bARID2, bARID1B, b and PBRM1 b
+Chromatin other	CHD1, bCHD2, b and CHD4 b
+Transcription factor lineage dependency or oncogene	MITF, aNKX2-1, aSOX-2, aERG, aETV1, a and CDX2 a
+Transcription factor other	MYC,∗, aRUNX1, bGATA3, bFOXA1, bNKX3.1, bSOX9, aNFE2L2, a and MED12 d
+Splicing	SF3B1, dU2AF1, dSFRS1, dSFRS7, dSF3A1, dZRSR2, bSRSF2, dU2AF2, d and PRPF40B d
+RNA abundance	DIS3 d
+Translation/protein homeostasis/ubiquitination	SPOP, dFBXW7,∗, bWWP1,∗, bFAM46C, d and XBP1 d
+Metabolism	IDH1 a and IDH2 a
+Genome integrity	TP53,∗, bMDM2, aMSH,∗, bMLH,∗, b and ATM∗, b
+Telomere stability	TERT promoter mutations a
+Cell cycle (oncogene)	CCND1∗, a and CCNE1∗, a
+Cell cycle (TSG)	CDKN2A,∗, bCDKN2B,∗, b and CDKN1B b
+Apoptosis regulation	MCL1, aBCL2A1, a and BCL2L1 a
+a
+Activating mutation or amplification.
+b
+Inactivating mutation or deletion.
+c
+Both activating and inactivating genomic events observed.
+d
+Effect of mutations on protein function unknown.
+Table options
+Signal Transduction Pathways
+Studies from the 1980s and 1990s revealed that signaling pathways linked to proliferation and survival played a crucial role in many cancers. Mutations were discovered in key genes that encode members (or regulators) of receptor tyrosine kinase (RTK)-signaling pathways (HER-2, c-KIT, ABL, RAS, NF1, NF2, MET, PTEN), the WNT/β-catenin pathway (APC), and the TGF β pathway (SMAD2 and SMAD4), among others. Moreover, the pharmaceutical industry showed that drugs could be developed to inhibit protein kinases. The poster child was imatinib (Gleevec) against the ABL and KIT kinases, which proved remarkably effective in treating malignancies driven by activating mutations in these oncoproteins (chronic myelogenous leukemia [CML] and gastrointestinal stromal tumors [GIST]) (Demetri et al., 2002; Druker et al., 2001).
+
+Recognition of the importance and druggability of RTKs motivated the first unbiased sequencing surveys in the early 2000s, which employed Sanger sequencing to examine dozens of genes in dozens of patients. The studies quickly hit pay dirt, with the finding of mutations in BRAF in 50% of melanomas, PIK3CA in ∼25%–30% of breast and colorectal cancers, EFGR in 10%–15% of non-small cell lung cancers, FGFR2 in 15%–20% of endometrial cancers, and JAK2 in myeloproliferative diseases ( Davies et al., 2002; Dutt et al., 2008; Kralovics et al., 2005; Levine et al., 2005; Lynch et al., 2004; Paez et al., 2004; Pao et al., 2004; Pollock et al., 2007; Samuels et al., 2004). (Some of the findings came to have a major impact on drug development and clinical treatment, including the development of selective RAF and MEK inhibitors that have produced dramatic remissions in melanoma and the ability to target the use of EGFR inhibitors to the subset of lung cancer patients who derive benefit.)
+
+In turn, these successes led researchers to scale up sequencing surveys to discover additional candidate genes in signaling pathways and eventually to all genes. Recurrent mutations were found in genes involved in several—sometimes surprising—pathways not previously suspected to drive cancer. These included the MAP3K1 and MAP2K4 genes in breast cancer (encoding serine/threonine kinases involved in the P38-JNK signaling pathway) ( Banerji et al., 2012; Ellis et al., 2012; Stephens et al., 2012; CGAN, 2012), RAC1 in melanoma (a GTPase involved in the RAC/PAK-signaling module involved in focal adhesion) ( Hodis et al., 2012; Krauthammer et al., 2012), ELMO1 and DOCK2 in esophageal cancer (two genes that activate RAC/PAK signaling) (A.M. Dulak, personal communication), MYD88 in diffuse large B cell lymphoma (activates NF-κB signaling) ( Ngo et al., 2011), and PREX2 in melanoma (a guanine nucleotide exchange factor that controls RAC/PAK and PI3K signaling) ( Berger et al., 2012). Remarkably, a pathway involved in axon guidance in neurons (the ROBO/SLIT pathway) turned out to be a target of mutations in ∼20% of pancreatic adenocarcinomas ( Biankin et al., 2012). And, a pathway that governs the oxidative stress response in all cells (the KEAP1/NRF2-signaling pathway) is activated by mutation in >30% of squamous lung cancers ( Hammerman et al., 2012; Shibata et al., 2008). Many of these results would have eluded hypothesis-based investigation.
+
+In addition, genome-wide studies of copy number alterations based on DNA microarrays revealed recurrently amplified genes in signaling and cell survival pathways. MCL1 and BCL2L1, which encode anti-apoptotic proteins that are critical regulators of tumor cell survival, were found to be amplified in a wide range of cancers, including breast, lung, colorectal, melanoma, and glioblastoma ( Beroukhim et al., 2010). FGFR1 was found to be amplified in >20% of lung squamous cancer ( Weiss et al., 2010) and in ∼10% of breast cancers ( Chin et al., 2006). CRKL, which encodes a signaling adaptor protein, was found amplified in a subset of lung cancers ( Kim et al., 2010).
+
+Despite their successes, these studies were sobering in revealing that the early promise of using a single kinase inhibitor (imatinib) to treat prevalent oncoprotein mutations (as in CML and GIST) was not going to be widely generalizable: most cancers lacked a highly recurrent mutation in genes encoding kinases (or other readily druggable targets) (Greenman et al., 2007). This underscored the importance of more deeply probing the cancer genome.
+
+Metabolism
+If there were any doubt that genomic approaches would reveal surprises, they should have been put to rest by a pioneering study in 2008. In this paper (which predated the maturation of MPS technology), Vogelstein and colleagues employed an impressive “brute force” approach to PCR amplify and sequence 175,471 exons from 20,661 genes (Parsons et al., 2008). They were rewarded with the discovery of highly recurrent mutations in the IDH1 gene, which encodes the cytoplasmic metabolic enzyme isocitrate dehydrogenase, a seemingly unlikely candidate for a cancer gene ( Figure 1); the mutations affected a single amino acid in the active site. Subsequent studies found that specific mutations in IDH1 and IDH2 (IDH1’s mitochondrial homolog) occurred in >70% of secondary glioblastomas, oligodendrogliomas, and high-grade astrocytomas ( Parsons et al., 2008; Yan et al., 2009) and in ∼15%–30% of acute myelogenous leukemias (AML) ( Mardis et al., 2009). Because isocitrate dehydrogenases convert isocitrate to α-ketoglutarate (α-KG) in the tricarboxylic acid (TCA) cycle, the observation suggested a previously unrecognized link between cell metabolism and cancer. It soon became clear that the mutations caused a gain-of-function (or “neomorphic”) activity, whereby isocitrate was converted to a distinct metabolite: the R-enantiomer of 2-hydroxyglutarate (2HG; Figure 1) ( Dang et al., 2009; Ward et al., 2010). How this “oncometabolite” might drive cancer, however, remained a mystery.
+
+Full-size image (27 K)
+Figure 1. 
+Somatic IDH1/2 Mutations Produce the Oncometabolite 2HG
+Oncogenic effects of 2HG include generation of a CIMP-like phenotype and inhibition of α-ketoglutarate-dependent enzymes such as histone methyltransferases (KMT), histone demethylases (KDM), and prolyl hydroxylases (EGLN). TET2 mutations are mutually exclusive with IDH1/2 mutations in leukemias and may exert common downstream effects on DNA methylation. Mutant IDH1/2 proteins are the targets of emerging drug discovery efforts (boxed).
+Figure options
+The answer emerged from a different type of genomic analysis: genome-wide surveys of DNA methylation. The methylation studies revealed that a subset of glioblastomas (the “proneural” subtype) showed a DNA methylation pattern that strongly resembled the CpG island methylator phenotype (CIMP) originally described in colorectal cancer (Noushmehr et al., 2010). Remarkably, the CIMP-like phenotype was tightly correlated with the presence of IDH1 mutations ( Figure 1). A follow-up study confirmed that introduction of mutant IDH actually caused the CIMP-like phenotype ( Turcan et al., 2012).
+
+Unexpectedly, the mechanism was clarified by yet another genomic survey, this time involving acute myelogenous leukemia (AML). This large-scale study showed that IDH1/IDH2 mutations were mutually exclusive with inactivating TET2 mutations ( Figueroa et al., 2010), suggesting that the two types of mutations had similar effects and were thus functionally redundant. The TET2 protein catalyzes 5-methylcytosine hydroxylation in a α-KG-dependent manner, and loss of TET2 produces a CIMP-like phenotype. Studies then showed that 2HG appears to inhibit several α-KG-dependent enzymes ( Xu et al., 2011), including Jumonji-C domain histone demethylases that affect gene expression ( Lu et al., 2012) and prolyl-4-hydroxylases (EGLN1/2/3) that regulate hypoxia inducible factor (HIF), which is involved in certain cancers ( Koivunen et al., 2012) ( Figure 1).
+
+The surprising discoveries about IDH1/IDH2 have helped to spark enormous interest in cancer metabolism. They have also spawned new areas for cancer drug discovery that had little precedent prior to these cancer genome studies.
+
+Lineage Survival Oncogene Transcription Factors
+Another important discovery concerned “master” lineage-specific transcription factors (TFs). Because such TFs are typically involved in terminal differentiation of cell types, the prevailing hypothesis was that overexpression would suppress cancer by promoting lineage maturation and cell-cycle arrest. Surprisingly, however, an integrative analysis of genome-wide copy number and transcription showed that MITF, which encodes the master transcription factor that regulates melanocyte survival and differentiation, underwent gene amplification in a subset of metastatic melanomas ( Garraway et al., 2005). MITF thus served as a prototype for a new category of cancer genes termed “lineage survival” oncogenes.
+
+Systematic genomic studies subsequently uncovered several additional lineage survival oncogene TFs. Examples include NKX2.1 in lung adenocarcinoma, SOX2 in esophageal cancer, and CDX2 in colorectal cancer ( Bass et al., 2009; Salari et al., 2012; Weir et al., 2007). In hindsight, these TFs are analogous to the androgen receptor (AR), a nuclear hormone TF that plays crucial roles in proliferation and survival of normal and malignant prostate epithelia and is frequently amplified or mutated during tumor progression ( Taplin et al., 1995). Exome-sequencing studies of castration-resistant prostate cancer have recently identified somatic mutations in both AR and several key coregulators ( Grasso et al., 2012).
+
+Epigenomics
+One of the most far-reaching discoveries from genomic studies has been the critical role of epigenomic changes in tumorigenesis, which in turn has unleashed a torrent of hypothesis-driven studies and drug discovery efforts. Abnormal DNA methylation and chromatin structure were known to be common in cancers, but it was unclear whether these epigenomic changes played a causal role in cancer or were simply a noncausal correlate of the cancerous state. The question was settled with the recognition that ∼40 genes encoding epigenomic regulators show highly recurrent somatic alterations across a wide range of cancer types (reviewed in Dawson and Kouzarides, 2012). Mutations that affect the epigenome would seem like a highly efficient mechanism to rewire cellular circuitry because they provide a way to affect multiple target genes simultaneously. The next several sections discuss various epigenomic processes related to chromatin and DNA methylation that are affected by mutations in cancer ( Figure 2).
+
+Full-size image (45 K)
+Figure 2. 
+Genes Encoding Epigenetic and Chromatin Regulators Are Frequent Targets of Mutations in Cancer
+The enzymes DNMT3A and TET2 regulate 5-methylcytosine and 5-hydroxymethylcytosine production in genomic DNA; the genes encoding these enzymes are frequently mutated in leukemias. The histone H3 component of the nucleosome undergoes extensive modifications involving its lysine (K)-rich tail. Genes encoding enzymes that read, produce, or interpret these modifications are frequently mutated in cancer. Examples include histone lysine methyltransferases (KMTs), histone lysine demethylases (KDMs), and histone acetyltransferases (HATs). Genes encoding components of the SWI/SNF chromatin-remodeling complex are also recurrently mutated in cancer. Novel therapeutics targeting chromatin and epigenetic mechanisms have entered clinical use or are in development (boxed).
+Figure options
+Chromatin: Histone Modification
+Genomic studies have provided clear genetic evidence that dysregulation of chromatin modifiers drives many types of cancer. Recurrent mutations were found in genes encoding enzymes that add, subtract, or interpret posttranslational modifications to histone H3. These enzymes include histone (lysine) methyltransferases (KMTs) and histone (lysine) demethylases (KDM), which activate or repress genes by modifying specific lysine residues; histone acetyltransferases (HATs), which regulate transcription by adding acetyl groups to the histone H3 tail; and histone readers, which bind various histone modifications and recruit additional protein complexes to carry out specific effector functions (Figure 2). Among the KMTs, mutations affect the MLL subfamily, which acts on lysine 4 of H3 (e.g., H3K4); the NSD subfamily, which acts on H3K36 (Dolnik et al., 2012); and EZH2, which methylates H3K27 (Morin et al., 2010). Among the KDMs, mutations affect JARID1A and UTX, which demethylate H3K4 and H3K27, respectively. Among the HATs, mutations affect CREBP and EP300 ( Gui et al., 2011; Morin et al., 2011; Peifer et al., 2012).
+
+The genes encoding histone-modifying enzymes typically exhibit lineage-restricted mutational patterns. For example, the NSD1 and NSD3 KMTs have so far been found rearranged only in AML (Jaju et al., 2001; Rosati et al., 2002), and mutations affecting the histone demethylases (HDMs) KDM5A and KDM5C appear to occur exclusively in AML and renal cell cancer, respectively. However, some genes show a much broader mutational distribution. Although MLL is named for its association with a particular leukemia subtype (mixed lineage leukemia), cancer sequencing studies have found recurrent MLL gene mutations in a variety of hematologic and solid tumors, including small-cell lung cancer ( Peifer et al., 2012), lung squamous cancer ( Hammerman et al., 2012), gastric cancer ( Zang et al., 2012), head and neck cancer ( Stransky et al., 2011), and prostate cancer ( Barbieri et al., 2012; Grasso et al., 2012). Interestingly, the DOT1L KMT, which methylates H3K79, is not itself mutated but becomes essential in MLL-translocated leukemias ( Bernt et al., 2011). HAT mutations are found in B cell lymphomas ( Pasqualucci et al., 2011a), small-cell lung cancers ( Peifer et al., 2012), and medulloblastoma ( Robinson et al., 2012). These distinctive patterns suggest that mutations affecting chromatin-modifying enzymes contribute to cancer by disrupting expression of specific target genes that play critical roles in particular cell types. However, the identities of these target genes remain unknown, and we lack systematic methods for identifying them.
+
+Affected tumors are typically heterozygous for apparent loss-of-function alleles, indicating that haploinsufficiency for these chromatin-modifying enzymes propels cancer and that complete loss is cell lethal. (An exception is EZH2, in which gain-of-function mutants are observed in follicular lymphoma [Morin et al., 2010], whereas loss-of-function events are seen in myeloid cancers [Jankowska et al., 2011; Makishima et al., 2010]). This makes chromatin-modifying enzymes attractive targets for anticancer drugs because cancer cells carrying only one functional gene could be uniquely sensitive to inhibitors (a synergy termed “synthetic lethality”). Vigorous drug discovery efforts are currently underway against many of the enzymes. So far, the only drugs targeting histone-modifying enzymes in clinical use are the histone deacetylase (HDAC) inhibitors. Ironically, the HDAC inhibitor vorinostat is approved for treatment of myelodysplastic syndromes and cutaneous T cell lymphomas, although HDAC genes have not been found mutated in these (or any other) malignancies.
+
+Chromatin: Nucleosome Remodeling
+Another major mutational target affecting chromatin biology is the SWI/SNF complexes (Figure 2), which regulate chromatin structure through ATP-dependent nucleosome remodeling (for a recent review, see Wilson and Roberts [2011]). The importance of these complexes in tumor biology was initially suggested by the discovery of biallelic deletions involving SNF5 (a core SWI/SNF protein) in malignant rhabdoid tumors (an aggressive pediatric cancer). Multiple cancer sequencing surveys then revealed that the class of genes encoding SWI/SNF factors is one of the most commonly mutated targets in cancer. In renal cell cancer, 41% of tumors harbor mutations in PBRM1, which encodes BAF180, a histone acetylation reader and integral component of the so-called “BAF” SWI/SNF complex) ( Varela et al., 2011); only the VHL tumor suppressor is mutated more commonly in this malignancy. Similarly, >50% of ovarian clear cell carcinomas carry inactivating mutations in ARID1A, which encodes another BAF protein ( Jones et al., 2010; Wiegand et al., 2010). Frequent ARID1A mutations have since been observed in many other cancer types, including up to 30% of hepatocellular carcinomas ( Fujimoto et al., 2012; Huang et al., 2012a), 34% of bladder cancers, and 21% of endometrioid cancers. Its homologs ARID1B or ARID2 (a component of the “PBAF” SWI/SNF complex) harbor recurrent mutations in melanoma ( Hodis et al., 2012; Krauthammer et al., 2012), hepatocellular ( Fujimoto et al., 2012; Li et al., 2011), and pancreatic cancers ( Biankin et al., 2012). As with other histone-modifying proteins, the SWI/SNF gene mutations are typically loss-of-function alleles; they often exhibit biallelic inactivation or loss of protein expression, consistent with a tumor suppressor mechanism.
+
+Chromatin: Compaction
+Another unexpected chromatin-related target is the chromodomain-helicase-DNA-binding (CHD) gene family. CHD proteins regulate chromatin compaction during stem cell differentiation and may also promote genome stability (Ho and Crabtree, 2010) (Figure 2). Inactivating CHD1 mutations and deletions comprise likely founder events (together with SPOP mutations) in a newly recognized “ETS-negative” genetic subtype of prostate cancer ( Barbieri et al., 2012), where they appear to confer distinct patterns of genome derangement ( Huang et al., 2012b). The homolog CHD4 is frequently deleted in endometrial cancers ( Le Gallo et al., 2012). Histone H3.3 itself contains highly recurrent hot spot mutations in pediatric astrocytoma and a subtype of medulloblastoma ( Robinson et al., 2012; Schwartzentruber et al., 2012). Overall, the discovery of extensive chromatin and epigenetic mutations by unbiased cancer genome characterization has opened up vast new areas of basic and clinical discovery.
+
+DNA Methylation
+Systematic surveys have revealed that DNA methylation also plays a critical role in shaping the cancer genome (Figure 2). In particular, some cancers show a clear CpG island methylator phenotype (CIMP). The notion that DNA hypermethylation might define a biologically important cancer subtype in colorectal cancer (CRC) originated from focused studies of individual genes (Toyota et al., 1999), but other reports challenged its existence—or at least its biological relevance. Systematic interrogation of all available methylation markers (at that time) across >100 CRC samples provided definitive evidence for CIMP in CRC (“CRC-CIMP”) (Weisenberger et al., 2006). Most CRC-CIMP tumors show high microsatellite instability (MSI) (Ogino et al., 2006; Weisenberger et al., 2006); this is likely due to the fact that such tumors typically have hypermethylation (and hence repression) of the MLH locus, whose loss of expression results in MSI. The etiology of CIMP in CRC remains mysterious, with these tumors showing few mutations in the DNA methylation machinery. Subsets of glioblastoma and AML were also found to have CIMP-like patterns (as described above). In these cases, the phenomenon is likely due, in part, to 2HG generated from mutant IDH1/2 proteins (Noushmehr et al., 2010), as described above.
+
+DNA hypomethylation also plays an important role in some cancers. A whole-genome sequencing survey revealed that ∼25% of AMLs carry inactivating mutations in DNMT3A ( Ley et al., 2010), an enzyme that catalyzes the addition of methyl groups to CpG dinucleotides. AML cells with DNMT3A mutations show reduced DNA methylation at the promoter of many genes involved in cancer ( Hájková et al., 2012); these mutations correlate with poorer overall survival ( Ley et al., 2010). Subsequently, recurrent DNMT3A mutations were also found in the myelodysplastic syndrome (MDS) ( Walter et al., 2011), a neoplastic condition that often progresses to AML.
+
+The recognition of the key role of DNA methylation has galvanized interest in drugs that inhibit this process, such as 5-azacitidine and decitabine. Conceivably, these drugs may act in a synthetic lethal manner against tumors carrying mutations in DNMT3A and other genes affecting DNA methylation. Azacitidine has proved especially intriguing: it is the first drug to improve the survival of patients with myelodysplastic syndrome (MDS) and has also shown promising efficacy in AML (reviewed in Estey [2007]). DNMT3A mutations or other altered methylation phenotypes may define leukemic patient subpopulations that are more likely to benefit from these drugs ( Marcucci et al., 2012). As with chromatin dysregulation, the critical genes affected by aberrant DNA methylation remain unclear.
+
+DNA Hydroxyl Methylation
+Genomic studies have uncovered a link between a novel epigenetic modification and cancer. In 2009, biochemical studies identified a new type of DNA modification: the conversion of 5-methylcytosine (5mC) at CpG islands to a hydroxylated variant called 5-hydroxymethylcytosine (5hmC) by the ten/eleven translocation (TET) family of DNA hydroxylases (Kriaucionis and Heintz, 2009; Tahiliani et al., 2009) (Figure 2). Soon thereafter, genomic surveys found that a family member TET2 shows recurrent inactivating mutations in AML, MDS, and other myeloproliferative disorders (Delhommeau et al., 2009; Langemeijer et al., 2009). As noted above, the TET enzymes require α-ketoglutarate for their activity and are inhibited by the 2HG oncometabolite product of mutant IDH1/2. TET2 and IDH1/2 mutations thus act, at least in part, through a common mechanism; as would be expected, these mutations rarely co-occur in AML. Interestingly, however, TET2 and DNMT3A mutations frequently co-occur in MDS, pointing to an as-yet unexplained cooperativity between dysregulation of 5mC and 5hmC in leukemogenesis.
+
+RNA Splicing
+Complementing the targets above affecting RNA transcription, cancer sequencing uncovered other important targets involved in RNA splicing (Figure 3). Though it had long been known that cancers showed aberrant splicing patterns, it was impossible to know whether these events played a causal role in cancer or were simply an effect of cancer.
+
+Full-size image (21 K)
+Figure 3. 
+Cancer-Associated Mutations in the RNA-Splicing Machinery
+Genes encoding spliceosomal components are recurrently mutated in both hematologic malignancies and solid tumors. Drugs that target SF3B1 have entered clinical trials.
+Figure options
+The answer became clear with exome-sequencing studies in chronic myelogenous leukemia (CLL) and myelodysplastic syndromes (MDS). In CLL, the spliceosome gene SF3B1 is mutated in 10%–15% of cases, and other spliceosomal genes, such as SFRS1, SFRS7, and U2AF2, are also mutated at lower frequencies ( Puente et al., 2011; Quesada et al., 2012; Wang et al., 2011a). In MDS, the spectrum is even more striking: 45%–85% of cases harbor mutations in a spliceosome gene, with SF3B1 and U2AF1 being the most common and other genes (such as SF3A1, ZRSR2, SRSF2, and U2AF2) occurring at lower frequencies ( Papaemmanuil et al., 2011; Yoshida et al., 2011). Spliceosomal genes have also been found significantly mutated in solid tumors—most notably, U2AF1, SF3B1, U2AF2, and PRPF40B mutations in lung adenocarcinomas ( Imielinski et al., 2012). SF3B1 is also recurrently mutated in breast cancer ( Ellis et al., 2012) and pancreatic cancer ( Biankin et al., 2012).
+
+The pattern of mutations in the spliceosomal genes contains important clues about their function. First, the mutations tend to occur in a mutually exclusive fashion in all tumor types examined, suggesting that they play similar roles and are thus functionally redundant with respect to causing cancer (for a recent review, see Lindsley and Ebert [2013]). Second, several of the genes carry heterozygous missense mutations affecting specific protein domains, suggesting that they confer a gain of function. SF3B1 (encoding a member of the splicing factor 3b complex, which interacts with SF3A proteins and a snRNA species to form the U2 small nuclear ribonucleoprotein [snRNP]) has mutations affecting the carboxy-terminal HEAT domains. U2AF1 (encoding a member of the U2 snRNP auxiliary factor, a spliceosomal component that binds the 3′ splice acceptor site within target pre-mRNAs) has mutations affecting conserved zinc finger domains. SRSF2 (a serine-arginine-rich protein that mediates U2 snRNP assembly through binding of exon-splicing enhancer elements within pre-mRNA species) also has distinct codon localizations ( Yoshida et al., 2011). In contrast, the ZRSR2 gene (encoding a spliceosomal adaptor protein) has mutations distributed throughout its open reading frame and has frequent nonsense mutations; the pattern is indicative of loss-of-function mutations. What is missing, of course, is knowledge of the specific aberrant cancer-related splicing events caused by these mutations.
+
+Genotype-phenotype connections offer some additional clues. In MDS, SF3B1 mutations occur primarily in subtypes associated with ring sideroblasts ( Papaemmanuil et al., 2011; Yoshida et al., 2011), whose presence signifies defective erythrocyte maturation. This observation raises the possibility that mutated SF3B1 may cause ring sideroblast formation, at least in some MDS subtypes, by governing splicing of a key erythroid lineage differentiation factor.
+
+Mutations in several splicing factors carry prognostic information that might influence clinical management. For example, U2AF1 mutations have been linked to increased progression from MDS to AML, and SRSF2 mutations correlate with the so-called chronic myelomonocytic leukemia (CMML) subtype of MDS. In CLL, SF3B1 mutations correlate with more rapid disease progression and lower overall survival ( Quesada et al., 2012; Wang et al., 2011a). U2AF1 mutations were associated with poor progression-free survival in lung adenocarcinoma ( Imielinski et al., 2012).
+
+Splicing factors were not previously considered attractive targets for anticancer therapies, but that assessment is changing (Figure 3). Indeed, several small molecules and natural products known to target the spliceosome have been reported, including spliceostatin A (SSA), a metabolite derived from Pseudomonas that inhibits the SF3b complex and suppresses splicing in vitro, and pladienolide, a compound produced by Streptomyces platensis that inhibits the SF3B1 protein directly ( Kaida et al., 2007). A derivative of pladienolide called E7107 has entered phase I clinical trials and shows moderate activity in thyroid cancer ( Folco et al., 2011).
+
+Protein Homeostasis
+Genome-wide and exome-wide sequencing in multiple myeloma (MM) suggested an unexpected (and still unexplained) role of protein synthesis and degradation. In MM, mutations were found at high frequencies in DIS3, FAM46C, and XBP1 ( Chapman et al., 2011a). DIS3 is an RNA exonuclease that regulates RNA abundance through the exosome complex. FAM46C is a protein whose function remains unknown but whose expression pattern is nearly perfectly correlated with that of genes encoding ribosomal proteins, eukaryotic initiation factors, and translation elongation factors ( Chapman et al., 2011a). XBP1 encodes a factor involved in the unfolded protein response; mutations in the mouse homolog cause a myeloma-like condition.
+
+Unbiased genomic studies have also uncovered unexpected roles for the ubiquitination machinery in cancer. In prostate and endometrial cancers, mutations in SPOP have been observed in 8%–14% of cases ( Barbieri et al., 2012; Kan et al., 2010; Le Gallo et al., 2012). SPOP encodes the substrate recognition component of an E3 ubiquitin ligase complex. In prostate cancer, the SPOP mutations affect highly conserved amino acid residues situated within the substrate-binding motif (MATH domain), suggesting that they abrogate normal ligase/substrate interactions. These mutations are mutually exclusive with ETS rearrangements, thereby defining a distinct genetic subtype of prostate cancer ( Barbieri et al., 2012). In endometrial cancer, SPOP mutations also occur in the MATH domain but involve different amino acid residues than those seen in prostate cancer ( Le Gallo et al., 2012). The distinct pattern of mutations in these two cancers suggests loss of recognition for distinct substrates, leading to their accumulation.
+
+The ubiquitin ligase gene FBXW7 shows recurrent mutations in endometrial, head/neck, bladder, and GI cancers but only rarely shows recurrent mutations in prostate cancer. In contrast to SPOP, the mutations appear to be simple loss-of-function events. The ubiquitin ligase gene WWP1 thus far only shows recurrent mutations in liver cancer ( Fujimoto et al., 2012). The distinct spectra of cancers seem likely to result from insufficient degradation of different proteins that are critical for different cell types. Finding the protein targets is a high priority.
+
+Squamous Differentiation
+Exome-sequencing studies in head and neck squamous cell carcinoma (HNSCC) revealed unexpected roles for pathways involved in squamous cell differentiation (Agrawal et al., 2011; Stransky et al., 2011). The studies found mutations in NOTCH1 in ∼15% of cases, as well as mutations and focal copy number alterations of NOTCH2 and NOTCH3 in an additional 11% ( Stransky et al., 2011) ( Figure 4). Whereas activating NOTCH1/2 mutations had been reported in various blood cancers ( Lohr et al., 2012; Pasqualucci et al., 2011b; Puente et al., 2011; Weng et al., 2004), the NOTCH mutations in HNSCC were clearly loss-of-function events. Parallel studies in myeloid leukemia also identified recurrent loss-of-function NOTCH mutations ( Klinakis et al., 2011).
+
+Full-size image (25 K)
+Figure 4. 
+Genetic Alterations Affecting Lineage Specification Are Common in Squamous Tumors
+NOTCH and several other lineage regulatory factors are disrupted by genomic alterations in lung, cervical, head/neck, and cutaneous squamous carcinomas. SOX2 is also a lineage survival oncogene that regulates squamous maturation. Genes that encode proteins shaded in red undergo mutational activation or amplification; those shaded gray undergo mutational inactivation or deletion.
+Figure options
+The NOTCH mutations turned out to be just a part of the story. A more sophisticated analysis (of gene sets with recurrent mutations) pointed to genes known to be involved in epidermal development and squamous differentiation in HNSCC ( Stransky et al., 2011) ( Figure 4). Additional genes mutated in HNSCC (such as RIPK2, EZH2, and DICER1) were linked to the squamous differentiation program based on results from genetically engineered mice. Two further genes (SYNE1 and SYNE2, mutated in 20% and 8% of cases, respectively) were also implicated; these genes encode proteins that control nuclear polarity and spindle orientation, which stand upstream of NOTCH signaling in squamous lineage development ( Williams et al., 2011). In all, nearly one-third of HNSCC tumors appeared to harbor at least one mutation predicted to affect squamous differentiation.
+
+Comprehensive genomic studies soon demonstrated the importance of dysregulated squamous differentiation in other tumor types. For example, inactivating NOTCH1/2 mutations occur in >75% of cutaneous squamous cell carcinomas (Wang et al., 2011b). Moreover, a study of squamous lung cancer revealed that 44% of cases harbored mutations in genes that regulate squamous differentiation (Hammerman et al., 2012). The loss of function in squamous differentiation contrasts with the SOX2 lineage survival TF oncogene, which undergoes frequent amplification in squamous lung cancer, HNSCC, and cervical squamous cancers (http://www.cbioportal.org/public-portal/index.do).
+
+Connecting the Dots: From Cancer Genes to Cancer Processes
+Hanahan and Weinberg have proposed “hallmark” processes that must become dysregulated in tumorigenesis and metastasis (Hanahan and Weinberg, 2000, 2011). These processes include genome instability, unlimited cell division, sustained proliferative signaling, evasion of growth suppression, cellular energetics, and resisting apoptosis. Many classical cancer genes encode proteins that mediate or control such processes: for example, mutations in receptor tyrosine kinases or cell-cycle inhibitors can be directly understood in terms of “jamming the accelerator pedal” or “eliminating the brakes” on cell growth.
+
+By contrast, many of the newly discovered cancer genes affect global processes whose precise connection to cancer remains obscure. These cancer genes act by deranging gene expression (through changes to chromatin and DNA methylation), RNA splicing, protein synthesis and degradation, and cellular metabolism (Figure 5). Presumably, these global changes propel cancer by affecting one or more specific targets involved in cancer processes—activating or repressing specific genes, altering the isoforms of specific mRNAs, and increasing or decreasing steady-state levels of specific proteins. The key targets are likely cell type specific, accounting for the presence of specific subsets of driver genes in particular cancer types.
+
+Full-size image (37 K)
+Figure 5. 
+Genetic Alterations Disrupt Multiple Cellular Processes
+Alterations in a range of cellular processes presumably contribute to cancer through their action on one or more target genes, mRNAs, or proteins, although the precise targets remain unknown in many cases (illustrated by shaded ovals). Even in advance of such knowledge, many mutations suggest potential targets for therapeutic development and allow stratification for clinical trials of targeted drugs.
+Figure options
+For the most part, we are ignorant of the precise targets—or whether we are looking for single targets or multiple targets. Indeed, mutations affecting global processes seemingly provide an efficient mechanism by which multiple coregulated targets might be affected. In some respects, the situation may be analogous to amplification and deletion of chromosome arms, which may provide a similarly efficient means to dysregulate multiple targets. In each case, identifying the full range of target genes will likely require unbiased genomic surveys at the DNA, RNA, and protein levels to generate hypotheses, as well as focused experiments to prove them.
+
+Connecting the new cancer genes to known (or as-yet unknown) cancer processes will surely accelerate efforts to understand and treat cancer. Of course, therapeutic progress can be made even without a full understanding of their action. For example, inhibitors of the neomorphic IDH1/2 enzymes or perturbed splicing factors may prove valuable even without understanding the full range of enzymes affected by 2HG or SF3B1. Moreover, the set of cancer genes mutated in a tumor provides a powerful classification tool, identifying natural subtypes that can be studied in both preclinical and clinical investigation to detect distinct vulnerabilities and correlate outcomes.
+
+Completing the Picture: Long Tails, Dark Matter, Heterogeneity, and Heredity
+Genomic studies have definitely shown that our previous inventory of cancer genes was far from complete. The question now is do we finally have a near-comprehensive catalog? The honest answer: we don’t know.
+
+Long Tails
+For many cancer types, a handful of cancer genes are mutated at high frequency, but many more cancer-related genes are found mutated at much lower frequencies. For example, a recent genomic study of breast cancer reported 40 loci that were mutated at statistically significant rates (Stephens et al., 2012); of these, 53% of the apparent driver mutations or focal copy number alterations were concentrated in six genes (TP53, PIK3CA, ERBB2, FGFR1/ZNF703, and GATA3), and the remainder were dispersed across 34 genes. Only eight of the genes were mutated in at least 10% of breast cancers. Many tumor types exhibit similar “long tail” distributions.
+
+Some of the genes found mutated at low frequencies in some cancers are more commonly (and significantly) mutated in other cancers. In the breast cancer example mentioned above, “long tail” genes that are significantly mutated in other cancers include the SWI/SNF complex genes ARID1A and ARID1B, the KMT-encoding genes MLL2 and MLL3, and KRAS. This finding might suggest that the discovery of new driver genes is approaching a plateau. On the other hand, the fact that so many driver genes occur at lower frequencies raises the possibility that many such genes may yet remain undiscovered. Moreover, some tumors (e.g., some primary prostate cancers) appear to lack even a single mutation in a proven driver gene.
+
+The problem is due, in part, to the fact that most studies to date have been insufficiently powered—lacking adequate sample size to detect low-frequency events and/or adequate depth of sequence coverage to overcome impurity due to stromal contamination. Fortunately, it should be feasible to enumerate all genes carrying nonsynonymous coding mutations in at least 2% of tumors of every cancer type by sequencing a sufficiently large number of tumor-normal pairs. (Roughly 950 pairs will be needed per tumor type if the background mutation rate in the cancer is 2 mutations per Mb and 2,500 pairs if the rate is 10/Mb.) This scale seems readily achievable for many tumor types over the next several years.
+
+Dark Matter
+In contrast to point mutations in coding regions, our ability to discover and understand other types of driver mutations is still distressingly limited. Many more important cancer drivers may be lurking in the places that we cannot currently interpret. These include copy number alterations, chromosomal rearrangements, and noncoding regions.
+
+As noted above, gains and losses spanning whole chromosome arms occur commonly in most types of cancer, but it is difficult to pinpoint the key genes for which the presence of a few extra copies contributes to cancer. Even for focal amplifications or deletions, finding the target genes can be difficult. A study of copy number alterations across cancer types found that proven cancer genes were known for less than half of recurrent focal amplifications and an even smaller proportion of recurrent focal deletions (Beroukhim et al., 2010). Incorporating sample-matched data sets can help to suggest candidates for functional validation. For example, a study in glioblastoma showed that gain of extra copies of chromosome 7 was associated with dysregulation of the HGF-MET axis (Beroukhim et al., 2007); pharmacologic experiments showed that cell lines carrying nonfocal chromosome 7 gains together with HGF and MET overexpression were preferentially dependent on MET signaling.
+
+Chromosomal rearrangements are also pervasive in many cancers, but our ability to characterize and interpret their impact has been limited. Whereas basic cancer genome analyses can be accomplished by mapping short DNA sequences to a fixed reference sequence, comprehensive study of rearrangements requires obtaining larger-scale “linking” information to reconstruct unexpected genomic junctions and performing transcriptome sequencing to detect expressed fusion genes. These efforts have been aided by recent computational advances, such as algorithms that reconstruct transcriptomes without the need for an underlying reference genome (Grabherr et al., 2011). Most rearrangements may be random passenger events, but some clearly disrupt cancer genes by creating fusion proteins or by subjecting a gene to new regulation. Genome analysis has identified several new fusions involving known cancer genes, including RAS, RAF, ERG, and PTEN, in prostate cancer and in other malignancies (L.A.G. and E.S.L, unpublished data; Palanisamy et al., 2010; Wang et al., 2011c) and NOTCH genes in breast cancers ( Robinson et al., 2011). Although relatively few instances of recurrent rearrangements implicating new cancer genes have emerged (possibly owing to limited sample sizes and the challenge of interpreting these events), those that have been discovered may implicate new biological processes. Examples include MAST kinases in breast cancer ( Robinson et al., 2011) and R-spondin family members in 10% of colon cancers ( Seshagiri et al., 2012).
+
+The great uncharted frontier is the >98% of the human genome that does not encode proteins. Our ignorance is due to two factors. First, we have lacked adequate data because cancer genome studies to date have largely focused on the exome rather than on the whole genome for reasons of cost. Second, we lack adequate analytical techniques to recognize recurrent mutations in nongenic territory. To detect a cancer-associated target, one must aggregate mutations across a defined region to test whether the rate is sufficiently elevated above background. This is straightforward for protein-coding regions, where one can aggregate nonsynonymous mutations across thousands of bases. But it is more challenging for the rest of the genome. Unbiased searches require scanning millions of small regions across the genome to find those with an unusually high mutation rate. If one searches with a small window, the mutational signal will be weak (unless the mutation frequency is very high) and detection will require large sample numbers. If one uses a large window size, the signal may be obscured by random noise in the surroundings. At present, the best approach may be to focus on regions defined by features corresponding to known biological functions, such as promoters, evolutionary conservation, and epigenomic modification.
+
+A recent study of regulatory regions in melanoma has confirmed that important mutations may be lurking in noncoding regions (Huang et al., 2013). Whole-genome sequencing revealed the presence of highly recurrent somatic mutations at two specific nucleotides situated within the promoter of the TERT gene, which encodes a reverse transcriptase component of the telomerase enzyme. Both of these mutations are cytidine-to-thymidine transitions that generate a de novo binding site for the ETS transcription factor. These sites increase expression from the TERT promoter in reporter assays. The mutations occur in >70% of melanomas and ∼16% of other tumor types examined, including bladder and hepatocellular carcinomas.
+
+Heterogeneity
+Cancer genome analyses have largely focused on tumors as a whole. Yet it has been clear for decades that tumors show extensive cellular and molecular heterogeneity. Indeed, heterogeneity was inherent in Nowell’s original clonal model for tumor evolution (Nowell, 1976). Some early genomic studies have begun to come to grips with tumor heterogeneity. Initial forays have documented subclonal variation across distinct geographic regions of a primary tumor (Gerlinger et al., 2012) and within hematopoietic malignant populations (Ding et al., 2012).
+
+Studies of heterogeneity are beginning to provide fascinating glimpses into paths of tumor evolution. For example, a study of 21 breast cancers showed that the most recent common ancestral tumor cell—which contains the full complement of mutations common to all tumor cells—arose remarkably early in “molecular time” (Nik-Zainal et al., 2012b). The precursor cell typically gives rise to a dominant subclone that represents at least 50% of all cells in the primary tumor. Knowledge of intratumoral heterogeneity has also revealed instances of convergent evolution. In one study of renal cancer, only 30%–35% of somatic mutations were concordant across multiple primary and metastatic sites sampled (Gerlinger et al., 2012); however, several cancer genes contained distinct genomic alterations that had arisen in geographically disparate regions of the primary tumor. This observation thus revealed a remarkable mutational consolidation that engaged critical pathways linked to chromatin regulation (SETD2, KDM5C) or signal transduction (PTEN, mTOR).
+
+Tumor heterogeneity could have important implications for “precision” cancer medicine. Some subclones may contain pre-existing mutations that confer drug resistance or accelerate tumor relapse in cancers that show poor clinical responses to targeted inhibitors. Studies that seek to stratify patients for clinical trials of targeted agents based on specific “actionable” mutations may be confounded if a biopsy sample is not representative of the whole tumor. On the other hand, the ability to identify driver or resistance mutations within subclonal populations may allow improved prediction of clinical outcomes (Landau et al., 2013). The growing understanding of intratumoral heterogeneity may inform the design of clinical studies that account for this process (e.g., by following the therapeutic response of the biopsied lesion in addition to the overall tumor burden) and circumvent its subversive effects (e.g., by developing therapeutic combinations directed against major and minor subclones).
+
+Studies of cancer heterogeneity will be accelerated by recent genomic advances enabling single-cell sequencing (Navin et al., 2011). Whole-exome sequences have been produced from single cells in both hematologic neoplasms and solid tumors (Hou et al., 2012; Xu et al., 2012). Moreover, new protocols that yield more uniform and accurate whole-genome amplification have been developed (Zong et al., 2012). Single-cell analyses have already provided new insights into the evolutionary history of tumors within individual patients and have revealed functional differences across individual tumor cells (Kreso et al., 2013). In the future, these advances may enable detailed genomic studies of circulating tumor cells, thereby providing high-resolution monitoring of therapeutic responses or emerging resistance mechanisms and facilitating detection of aggressive tumor subclones.
+
+Heredity
+Although many of the genetic factors that drive a cancer are acquired through somatic mutation, some are inherited at birth. Epidemiological studies have long noted an increased risk of cancer in relatives of affected individuals (Pomerantz and Freedman, 2011). Genomics has revealed many genes that influence predisposition to cancer, although the picture remains far from complete. Our focus in this Review is on somatic mutations, but we briefly summarize the current state of progress for inherited variation (see recent reviews by Hindorff et al. [2011] and Chung and Chanock [2011]).
+
+One method to identify genes that confer predisposition to cancer is to study rare, highly penetrant Mendelian cancer syndromes. These syndromes arise when mutant alleles confer such a high increased risk (>10-fold) that it is straightforward to trace their transmission in families by linkage analysis. More than 100 genes underlying such cancer syndromes have been identified, including those underlying retinoblastoma (RB1), breast cancer (BRCA1, BRCA2), and colon cancer (APC, MUTYH and the mismatch repair genes MLH1, MSH1, MSH6, and PMS2). Such genes have been deeply informative about cancer biology but together account for <5% of the estimated heritability of cancer ( Cazier and Tomlinson, 2010).
+
+To identify cancer genes that confer more modest risks, it is necessary to use population-based association studies rather than family-based linkage studies. The methodology for association studies depends on whether one wishes to study “common” (>1%) or “rare” (<1%) variants. Common variants are frequent enough that they can be tested for their individual effects on cancer risk by genotyping of millions of variants in cases and controls in “genome-wide association studies” (GWAS) (Altshuler et al., 2008). Rare variants must be combined together for analysis: studies examine the aggregate frequency of rare coding variants in each gene to look for an elevated frequency in cases versus controls. More than 150 cancer risk loci have been identified thus far, with most having been found through GWAS ( Chung and Chanock, 2011; Hindorff et al., 2011). The common alleles appear to include many regulatory variants and to confer a lower increased risk (<30%), whereas the rare alleles affect coding regions of known cancer genes (such as ATM, BRIP1, CHEK2, PALB2, and RAD51C in breast cancer) and tend to have higher risk (2- to 3-fold). The relative roles of the two classes vary among cancer types. Importantly, the risk factors identified to date explain only a fraction of the heritability of cancer ( Hindorff et al., 2011). Genomic studies with much larger samples will be needed to obtain a fuller picture of the inherited basis of cancer risk.
+
+Understanding the mechanisms by which common inherited genetic variants predispose to cancer will require integrative genomic analysis, which will likely yield important biological insights. One instructive case is found in a 500 kb “gene desert” in chromosome 8q24. Whereas most cancer-associated loci are tumor-type specific, this region contains variants that affect risk of prostate, colon, esophagus, head/neck, breast, and pancreas cancers (reviewed in Hindorff et al. [2011]). Epigenetic and chromosome conformation studies in human and genetic engineering studies in mouse suggest that the variants alter distal regulatory sequences controlling the MYC locus, which lies telomeric to the region ( Ahmadiyeh et al., 2010; Pomerantz et al., 2009; Sur et al., 2012; Tuupanen et al., 2009). A similar situation occurs in a 500 kb region in 9p21, where different variants affect multiple types of cancer (including breast cancer, melanoma, glioma, and leukemia) as well as noncancer-related diseases such as type 2 diabetes and myocardial infarction; these variants likely alter regulation of the cell-cycle genes CDKN2A/CDKN2B. The observation that a number of additional cancer-related loci also affect diabetes (or insulin dysregulation) suggests an important role for metabolic processes in cancer ( Dupuis et al., 2010; Pal et al., 2012).
+
+Finally, understanding the inherited factors may help to explain some disparities among ethnic groups. For example, a proportion of the higher risk of prostate cancer in African Americans and other men of African descent may be due, in part, to allele frequency differences at chromosome 8q24 (Haiman et al., 2011; Murphy et al., 2012).
+
+Applying the Knowledge: Diagnostics and Therapeutics
+The ultimate test of cancer genomics will be its ability to improve diagnostics and therapeutics. Academic centers are already beginning to adopt “first-generation” genome profiling platforms to guide cancer treatment (Dias-Santagata et al., 2010; MacConaill et al., 2009; Thomas et al., 2007; Wagle et al., 2012) These platforms involve testing a few hundred specific cancer-associated mutations or performing full sequencing of a limited set of cancer-associated genes (Lipson et al., 2012; Wagle et al., 2012). The early returns suggest that, in ∼40%–60% of cases for many common solid tumors, the information points to at least one alteration that might influence therapeutic decision-making or might suggest enrollment in a particular clinical trial (Beltran et al., 2012; Hammerman et al., 2012; CGAN, 2012). As sequencing costs fall, diagnostics may move to whole-exome or whole-genome sequencing. The challenge will be to filter and annotate the results for oncologists, based on a constantly changing landscape of scientific knowledge. Eventually, genomic analysis will likely become part of the standard of care for cancer patients.
+
+Cancer genomics will also become a key component in the design, execution, and interpretation of clinical trials. Investigators are already using genomic information for retrospective clinical analyses that correlate treatment response with specific genomic features. There is growing interest in using deep genomic characterization of “exceptional cases,” such as rare tumors that show a complete clinical response to a particular anticancer regimen. For example, a recent tumor genome-sequencing study of a bladder cancer patient who experienced a complete response to a TOR inhibitor (everolimus) identified two distinct cancer gene mutations (TSC1 and NF2) predicted to affect oncogenic TOR signaling ( Iyer et al., 2012). Sequencing of additional everolimus-treated tumors confirmed that TSC1 mutations correlate with clinical response.
+
+The prospective use of genomic information may substantially transform trial design. Cancer trials have traditionally selected patients based on histologic tumor subtypes. However, it makes more sense to test targeted therapeutics on the subset of patients carrying the relevant genetic lesions; by selecting the patients most likely to benefit, one decreases sample size, cost, and unjustified harm. In some cases, it will make sense to enroll patients carrying the same genetic alteration across a wide range of tumor types (for example, a trial led by investigators at Memorial Sloan-Kettering Cancer Center in which BRAFV600 mutant tumors from colon, thyroid, lung, and other organ sites are treated with a selective RAF or MEK inhibitor). Moreover, novel designs are becoming possible in which one simultaneously tests multiple drugs or drug combinations. In these “basket trials,” patients are assigned to different therapeutic regimens based on the specific genetic profiles in their tumor (Kim et al., 2011). Basket trials may employ an “adaptive design,” allowing “real-time” adjustments if hints of specific genotype-driven responses are detected (Berry, 2011). Trials can further be shaped by genomic analysis from serial biopsies to assess pharmacodynamics response and to characterize the presence of resistance mechanisms. It may be useful to create a worldwide “clearinghouse” mechanism that connects patients to trials based on their genotype, especially to obtain a large enough sample to evaluate responses in tumors with rarer genetic features.
+
+Cancer drug discovery efforts are already being shaped by the findings from genomic studies. In some cases, the product of the mutated gene may be an appropriate drug target. In many other cases, mutations may confer specific vulnerabilities on the cancer cell that can be discovered through functional genomic studies, such as comprehensive gene inhibition screens with RNA interference across large numbers of cancer cell lines with varying genotypes.
+
+Beyond the development of specific drugs, knowledge of the cancer genome will be critical to design combination therapies, which will be essential for conquering cancer. Most tumors eventually develop resistance to single-agent therapeutics (reviewed in Garraway and Jänne [2012]). For example, the use of RAF and MEK inhibitors in BRAF mutant melanomas leads to spectacular responses, but tumors reappear within a year (Chapman et al., 2011b; Flaherty et al., 2012a, 2012b; Sosman et al., 2012). Multiple genetic mechanisms of resistance have been described (oncogenic NRAS mutations, COT/MAP3K8 gains, BRAF amplification, activating MEK1 mutations, and NF1 loss), each of which produces sustained MAP kinase (ERK) activity in the presence of drug ( Emery et al., 2009; Johannessen et al., 2010; Nazarian et al., 2010; Poulikakos et al., 2011; Wagle et al., 2011; Whittaker et al., 2013). These findings raise the possibility that adding an ERK inhibitor to existing RAF/MEK inhibitor regimens could provide an additional clinical benefit ( Whittaker et al., 2013).
+
+Systematic preclinical studies may make it possible to anticipate the mechanisms of resistance, allowing therapeutic scientists to plan for resistance long before it arises in the clinic. For example, a recent study performed large-scale screens (using RNAi knockdown and ORF overexpression) to identify genes whose loss or amplification can confer resistance to RAF inhibition in a melanoma cell line; the results were confirmed by clinical observations in patients’ tumors (Johannessen et al., 2010; Whittaker et al., 2013). Another group systematically screened stromal cell lines to identify those that secrete factors that confer resistance on adjacent cancer cells; the screen revealed that hepatocyte growth factor confers resistance to RAF inhibition (Straussman et al., 2012). Such approaches may make it possible to formulate rational combination therapies even before the results of single-agent clinical trials are known.
+
+In the end, combination therapy depends on shifting the odds of resistance. There is cause for optimism: mathematical modeling suggests that resistance may often be due to pre-existing mutations in the tumor cell population (Michor et al., 2005). If so, it should be possible to prevent recurrence by treating simultaneously with drugs directed against several independent targets so that the chance of a single cell carrying all the necessary resistance mutations is vanishingly small. This is, of course, the basis for the successful triple-drug combinations against HIV. Ultimately, cancer genomics should aim to provide a comprehensive roadmap for selecting rational, multidrug combinations for anticancer therapy.
+
+Next Steps for Cancer Genomics
+The early fruits of cancer genome studies have confirmed Renato Dulbecco’s prediction about the value of complementing “piecemeal approaches” with systematic genome-wide studies. The results have already opened new frontiers in basic, translational, and clinical investigation. Still, current studies have only scratched the surface of what can be learned from comprehensive study of the cancer genome. Cancer genomics has largely focused on documenting the mutations in primary tumors. Over the coming years, the field should expand its focus to gather systematic information to inform a wider range of biological and clinical questions. Below, we suggest four important components for the next phase of cancer genomics.
+
+Complete the Mutational Atlas of Primary Tumors
+A straightforward but critical component is to finish compiling the catalog of significantly mutated genes in primary tumors of every feasible cancer type. Given the long tail of cancer genes and the variable background mutation rates, such studies will require thousands of tumor-normal pairs. Why bother to press for completeness? Scientifically, because the low-frequency drivers may in aggregate make a substantial contribution and because they are likely to harbor further surprises. Medically, because physicians will want to be able to recognize all driver mutations in each patient to optimize therapy. Fortunately, these efforts should become increasingly feasible and affordable given the decreasing costs of sequencing and the increasing ability to analyze small amounts of starting material from formalin-fixed, paraffin-embedded archival samples. The analysis must expand beyond the exome to include the whole genome (including long-range links to detect translocations), the transcriptome, and the epigenome (at least the methylome and key chromatin modifications). Improved laboratory and analytical methods will be needed to discern the targets of nonfocal chromosome copy number aberrations, epigenomic modifications, and nongenic translocations. In addition, the genomic information should be thoroughly mined to identify germline variants that contribute to cancer risk.
+
+Expand the Mutational Atlas beyond Primary Tumors
+The second component is to systematically expand the atlas beyond primary tumors to include the natural history of human cancer, as well as the homology to cancer in key model systems. A mutational atlas of the natural history of cancer would involve comprehensive genomic analysis of preneoplastic lesions, metastases from various organ sites, and tumors that show different types of responses to therapies, including extreme response, intrinsic resistance, and acquired resistance. Ideally, all clinical trials in oncology would be subject to such analysis. Genomic characterization should also be applied to animal models of cancer so that we can better connect these to human cancers based on mechanism. In addition to genetically engineered mouse models, intensive studies of naturally occurring cancers in large animals, especially dogs (Karlsson and Lindblad-Toh, 2008), may provide both insights and important preclinical models for drug testing.
+
+Create a Functional Encyclopedia of Altered Pathways and Acquired Vulnerabilities
+Though a mutational catalog will provide a comprehensive picture of cancer genomes, this catalog alone is not enough. We need to produce a functional encyclopedia of altered cellular pathways and acquired vulnerabilities that correspond to each cancer genome. Genomic approaches can propel systematic functional studies, just as they have propelled comprehensive structural studies. Building a functional encyclopedia will involve (1) creating tractable models representing the full range of cancer genotypes and (2) characterizing these models with respect to their genomic alterations, essential pathways, and therapeutic vulnerabilities. Already, ongoing projects are assembling large collections of cancer cell lines; defining their genomic changes; characterizing their cellular states at the RNA, protein, and posttranslational levels; and determining their sensitivities to anticancer drugs, RNAi-based inhibition of every gene, and microenvironmental interactions (Barretina et al., 2012; Garnett et al., 2012). With a sufficiently large collection of cell models, one can correlate pathways and vulnerabilities with specific genetic lesions, providing invaluable insights into cancer biology, markers for patient selection in clinical trials, and potential new targets for cancer drug development.
+
+One limitation has been that current cancer cell lines represent a biased sampling of cancer and cancer genotypes, owing to differences in the ability to derive cell lines. However, new methods (such as Rho kinase inhibitor-treated feeder layers and “organoid” culture systems) appear poised to greatly expand the repertoire of available cancer models (Huch et al., 2013; Liu et al., 2012). Patient-derived xenografts can also play a key role in preclinical studies of new therapeutics.
+
+Enable and Promote Sharing of Cancer Genomic Information
+Finally, there is one critical component that is an essential foundation for the others: widespread information sharing. Cancer genome information will grow exponentially in the years ahead as genome analysis moves from the research lab to routine clinical care for millions of patients around the world. If it were possible to share and analyze this torrent of genomic information together with associated clinical outcome data, it could significantly accelerate the understanding and treatment of cancer. The information would speed not only the identification of cancer genes, but also the correlation of therapeutic responses to specific tumor genotype, including dramatic responses to new targeted agents seen in some patients and more modest responses to different regimens. In effect, it would connect cancer care around the world into a laboratory for continuous improvement.
+
+Making this world a reality will require coordinated efforts by researchers, hospitals, and patient groups to accomplish two goals: (1) creating the computational infrastructure to enable sharing and (2) promoting a culture of sharing. It is easy to imagine an alternative future in which cancer genomic information cannot be aggregated because it is stored in inaccessible sites and incompatible formats, much as is the case with electronic medical records in the U.S. To avoid this outcome, it will be necessary to have common or interoperable standards for data and analysis, cloud-based storage solutions to ensure data security, and rigorous systems to enforce patients’ instructions concerning their data. But technology platforms alone will not suffice. Clinicians, hospitals, and healthcare networks will need to become engaged in collecting and sharing clinical outcome data. Pharmaceutical companies and others will need to share data from completed clinical trials. Ultimately, patient advocacy groups may provide the impetus for cultural change, as happened with AIDS. Though it must be up to each patient to decide whether to share his or her data, we suspect that most cancer patients will actively want to allow their information to be appropriately aggregated and shared (with appropriate rules and technology to protect privacy) to accelerate progress for this and future generations of patients. We must ensure that patients have the right and ability to contribute their information to a global fight against cancer.
+
+Conclusions
+Genomics has become a powerful tool for cancer research, yielding important biological surprises and enabling systematic classification based on cellular mechanism. Cancer genomics is just now emerging from its first phase, which has been largely focused on creating basic mutational catalogs in primary tumors. To fulfill its full promise, the field will need to deepen the structural characterization of cancer genomes, complement it with comprehensive functional characterization of cancer cells, and enable and promote information sharing across the world. Ultimately, cancer genomics is about fully knowing the enemy. While not alone a guarantee of victory, it is an essential part of any overall plan of attack.
+
+Acknowledgments
+We thank Todd Golub, Matthew Meyerson, and Michael Stratton for reviewing the manuscript and for valuable comments. We thank Gad Getz, Charles Roberts, and Matthew Freedman for helpful discussions. The design of figures was aided by materials from ScienceSlides (http://www.visiscience.com). L.A.G. and E.S.L. are supported by the U.S. National Human Genome Research Institute, the U.S. National Cancer Institute, the Slim Initiative for Genomic Medicine, and the Broad Institute. L.A.G. also receives support from the Department of Defense, the Starr Cancer Consortium, the Prostate Cancer Foundation, the Melanoma Research Alliance, and the Adelson Medical Research Foundation. L.A.G. and E.S.L. are consultants and equity holders in Foundation Medicine, Inc.
+
+References
+Agrawal et al., 2011
+N. Agrawal, M.J. Frederick, C.R. Pickering, C. Bettegowda, K. Chang, R.J. Li, C. Fakhry, T.X. Xie, J. Zhang, J. Wang et al.
+Exome sequencing of head and neck squamous cell carcinoma reveals inactivating mutations in NOTCH1
+Science, 333 (2011), pp. 1154–1157
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (287)
+Ahmadiyeh et al., 2010
+N. Ahmadiyeh, M.M. Pomerantz, C. Grisanzio, P. Herman, L. Jia, V. Almendro, H.H. He, M. Brown, X.S. Liu, M. Davis et al.
+8q24 prostate, breast, and colon cancer risk loci show tissue-specific long-range interaction with MYC
+Proc. Natl. Acad. Sci. USA, 107 (2010), pp. 9742–9746
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (103)
+Altshuler et al., 2008
+D. Altshuler, M.J. Daly, E.S. Lander
+Genetic mapping in human disease
+Science, 322 (2008), pp. 881–888
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (597)
+Baca et al., 2013
+S.C. Baca, D. Prandi, M.S. Lawrence, J.M. Mosquera, A. Romanel, Y. Drier, K. Park, N. Kitabayashi, T.Y. MacDonald, M. Ghandi et al.
+Punctuated evolution of prostate cancer genomes
+Cell, 153 (2013) http://dx.doi.org/10.1016/j.cell.2013.03.021 Published online April 25, 2013
+
+Banerji et al., 2012
+S. Banerji, K. Cibulskis, C. Rangel-Escareno, K.K. Brown, S.L. Carter, A.M. Frederick, M.S. Lawrence, A.Y. Sivachenko, C. Sougnez, L. Zou et al.
+Sequence analysis of mutations and translocations across breast cancer subtypes
+Nature, 486 (2012), pp. 405–409
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+Barbieri et al., 2012
+C.E. Barbieri, S.C. Baca, M.S. Lawrence, F. Demichelis, M. Blattner, J.P. Theurillat, T.A. White, P. Stojanov, E. Van Allen, N. Stransky et al.
+Exome sequencing identifies recurrent SPOP, FOXA1 and MED12 mutations in prostate cancer
+Nat. Genet., 44 (2012), pp. 685–689
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (165)
+Barretina et al., 2012
+J. Barretina, G. Caponigro, N. Stransky, K. Venkatesan, A.A. Margolin, S. Kim, C.J. Wilson, J. Lehár, G.V. Kryukov, D. Sonkin et al.
+The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity
+Nature, 483 (2012), pp. 603–607
+
+View Record in Scopus | Citing articles (392)
+Bass et al., 2009
+A.J. Bass, H. Watanabe, C.H. Mermel, S. Yu, S. Perner, R.G. Verhaak, S.Y. Kim, L. Wardwell, P. Tamayo, I. Gat-Viks et al.
+SOX2 is an amplified lineage-survival oncogene in lung and esophageal squamous cell carcinomas
+Nat. Genet., 41 (2009), pp. 1238–1242
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (268)
+Beltran et al., 2012
+H. Beltran, R. Yelensky, G.M. Frampton, K. Park, S.R. Downing, T.Y. Macdonald, M. Jarosz, D. Lipson, S.T. Tagawa, D.M. Nanus et al.
+Targeted next-generation sequencing of advanced prostate cancer identifies potential therapeutic targets and disease heterogeneity
+Eur. Urol. (2012) http://dx.doi.org/10.1016/j.eururo.2012.08.053 Published online September 5, 2012
+
+Bentley et al., 2008
+D.R. Bentley, S. Balasubramanian, H.P. Swerdlow, G.P. Smith, J. Milton, C.G. Brown, K.P. Hall, D.J. Evers, C.L. Barnes, H.R. Bignell et al.
+Accurate whole human genome sequencing using reversible terminator chemistry
+Nature, 456 (2008), pp. 53–59
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1193)
+Berger et al., 2011
+M.F. Berger, M.S. Lawrence, F. Demichelis, Y. Drier, K. Cibulskis, A.Y. Sivachenko, A. Sboner, R. Esgueva, D. Pflueger, C. Sougnez et al.
+The genomic complexity of primary human prostate cancer
+Nature, 470 (2011), pp. 214–220
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (354)
+Berger et al., 2012
+M.F. Berger, E. Hodis, T.P. Heffernan, Y.L. Deribe, M.S. Lawrence, A. Protopopov, E. Ivanova, I.R. Watson, E. Nickerson, P. Ghosh et al.
+Melanoma genome sequencing reveals frequent PREX2 mutations
+Nature, 485 (2012), pp. 502–506
+
+View Record in Scopus | Citing articles (149)
+Bernt et al., 2011
+K.M. Bernt, N. Zhu, A.U. Sinha, S. Vempati, J. Faber, A.V. Krivtsov, Z. Feng, N. Punt, A. Daigle, L. Bullinger et al.
+MLL-rearranged leukemia is dependent on aberrant H3K79 methylation by DOT1L
+Cancer Cell, 20 (2011), pp. 66–78
+
+Article |  PDF (1989 K) | View Record in Scopus | Citing articles (115)
+Beroukhim et al., 2007
+R. Beroukhim, G. Getz, L. Nghiemphu, J. Barretina, T. Hsueh, D. Linhart, I. Vivanco, J.C. Lee, J.H. Huang, S. Alexander et al.
+Assessing the significance of chromosomal aberrations in cancer: methodology and application to glioma
+Proc. Natl. Acad. Sci. USA, 104 (2007), pp. 20007–20012
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (384)
+Beroukhim et al., 2010
+R. Beroukhim, C.H. Mermel, D. Porter, G. Wei, S. Raychaudhuri, J. Donovan, J. Barretina, J.S. Boehm, J. Dobson, M. Urashima et al.
+The landscape of somatic copy-number alteration across human cancers
+Nature, 463 (2010), pp. 899–905
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (718)
+Berry, 2011
+D.A. Berry
+Adaptive clinical trials in oncology
+Nat. Rev. Clin. Oncol., 9 (2011), pp. 199–207
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+Biankin et al., 2012
+A.V. Biankin, N. Waddell, K.S. Kassahn, M.C. Gingras, L.B. Muthuswamy, A.L. Johns, D.K. Miller, P.J. Wilson, A.M. Patch, J. Wu, Australian Pancreatic Cancer Genome Initiative et al.
+Pancreatic cancer genomes reveal aberrations in axon guidance pathway genes
+Nature, 491 (2012), pp. 399–405
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (135)
+Boveri, 2008
+T. Boveri
+Concerning the origin of malignant tumours by Theodor Boveri. Translated and annotated by Henry Harris
+J. Cell Sci., 121 (Suppl 1) (2008), pp. 1–84
+
+View Record in Scopus | Citing articles (102)
+CGAN, 2012
+CGAN (Cancer Genome Atlas Network)
+Comprehensive molecular portraits of human breast tumours
+Nature, 490 (2012), pp. 61–70
+
+CGARN, 2008
+CGARN (Cancer Genome Atlas Research Network)
+Comprehensive genomic characterization defines human glioblastoma genes and core pathways
+Nature, 455 (2008), pp. 1061–1068
+
+Carter et al., 2012
+S.L. Carter, K. Cibulskis, E. Helman, A. McKenna, H. Shen, T. Zack, P.W. Laird, R.C. Onofrio, W. Winckler, B.A. Weir et al.
+Absolute quantification of somatic DNA alterations in human cancer
+Nat. Biotechnol., 30 (2012), pp. 413–421
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+Cazier and Tomlinson, 2010
+J.B. Cazier, I. Tomlinson
+General lessons from large-scale studies to identify human cancer predisposition genes
+J. Pathol., 220 (2010), pp. 255–262
+
+View Record in Scopus | Citing articles (17)
+Chapman et al., 2011a
+M.A. Chapman, M.S. Lawrence, J.J. Keats, K. Cibulskis, C. Sougnez, A.C. Schinzel, C.L. Harview, J.P. Brunet, G.J. Ahmann, M. Adli et al.
+Initial genome sequencing and analysis of multiple myeloma
+Nature, 471 (2011), pp. 467–472
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (374)
+Chapman et al., 2011b
+P.B. Chapman, A. Hauschild, C. Robert, J.B. Haanen, P. Ascierto, J. Larkin, R. Dummer, C. Garbe, A. Testori, M. Maio, BRIM-3 Study Group et al.
+Improved survival with vemurafenib in melanoma with BRAF V600E mutation
+N. Engl. J. Med., 364 (2011), pp. 2507–2516
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1696)
+Chen et al., 2009
+K. Chen, J.W. Wallis, M.D. McLellan, D.E. Larson, J.M. Kalicki, C.S. Pohl, S.D. McGrath, M.C. Wendl, Q. Zhang, D.P. Locke et al.
+BreakDancer: an algorithm for high-resolution mapping of genomic structural variation
+Nat. Methods, 6 (2009), pp. 677–681
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (237)
+Chin et al., 2006
+K. Chin, S. DeVries, J. Fridlyand, P.T. Spellman, R. Roydasgupta, W.L. Kuo, A. Lapuk, R.M. Neve, Z. Qian, T. Ryder et al.
+Genomic and transcriptional aberrations linked to breast cancer pathophysiologies
+Cancer Cell, 10 (2006), pp. 529–541
+
+Article |  PDF (1453 K) | View Record in Scopus | Citing articles (644)
+Chung and Chanock, 2011
+C.C. Chung, S.J. Chanock
+Current status of genome-wide association studies in cancer
+Hum. Genet., 130 (2011), pp. 59–78
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (60)
+Cibulskis et al., 2013
+K. Cibulskis, M.S. Lawrence, S.L. Carter, A. Sivachenko, D. Jaffe, C. Sougnez, S. Gabriel, M. Meyerson, E.S. Lander, G. Getz
+Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples
+Nat. Biotechnol. (2013) http://dx.doi.org/10.1038/nbt.2514 Published online February 20, 2013
+
+Crasta et al., 2012
+K. Crasta, N.J. Ganem, R. Dagher, A.B. Lantermann, E.V. Ivanova, Y. Pan, L. Nezi, A. Protopopov, D. Chowdhury, D. Pellman
+DNA breaks and chromosome pulverization from errors in mitosis
+Nature, 482 (2012), pp. 53–58
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (139)
+Dang et al., 2009
+L. Dang, D.W. White, S. Gross, B.D. Bennett, M.A. Bittinger, E.M. Driggers, V.R. Fantin, H.G. Jang, S. Jin, M.C. Keenan et al.
+Cancer-associated IDH1 mutations produce 2-hydroxyglutarate
+Nature, 462 (2009), pp. 739–744
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (662)
+Davies et al., 2002
+H. Davies, G.R. Bignell, C. Cox, P. Stephens, S. Edkins, S. Clegg, J. Teague, H. Woffendin, M.J. Garnett, W. Bottomley et al.
+Mutations of the BRAF gene in human cancer
+Nature, 417 (2002), pp. 949–954
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3826)
+Dawson and Kouzarides, 2012
+M.A. Dawson, T. Kouzarides
+Cancer epigenetics: from mechanism to therapy
+Cell, 150 (2012), pp. 12–27
+
+Article |  PDF (1233 K) | View Record in Scopus | Citing articles (227)
+Dees et al., 2012
+N.D. Dees, Q. Zhang, C. Kandoth, M.C. Wendl, W. Schierding, D.C. Koboldt, T.B. Mooney, M.B. Callaway, D. Dooling, E.R. Mardis et al.
+MuSiC: identifying mutational significance in cancer genomes
+Genome Res., 22 (2012), pp. 1589–1598
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+Delhommeau et al., 2009
+F. Delhommeau, S. Dupont, V. Della Valle, C. James, S. Trannoy, A. Massé, O. Kosmider, J.P. Le Couedic, F. Robert, A. Alberdi et al.
+Mutation in TET2 in myeloid cancers
+N. Engl. J. Med., 360 (2009), pp. 2289–2301
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (567)
+Demetri et al., 2002
+G.D. Demetri, M. von Mehren, C.D. Blanke, A.D. Van den Abbeele, B. Eisenberg, P.J. Roberts, M.C. Heinrich, D.A. Tuveson, S. Singer, M. Janicek et al.
+Efficacy and safety of imatinib mesylate in advanced gastrointestinal stromal tumors
+N. Engl. J. Med., 347 (2002), pp. 472–480
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2569)
+Dias-Santagata et al., 2010
+D. Dias-Santagata, S. Akhavanfard, S.S. David, K. Vernovsky, G. Kuhlmann, S.L. Boisvert, H. Stubbs, U. McDermott, J. Settleman, E.L. Kwak et al.
+Rapid targeted mutational analysis of human tumours: a clinical platform to guide personalized cancer medicine
+EMBO Mol. Med., 2 (2010), pp. 146–158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (130)
+Ding et al., 2008
+L. Ding, G. Getz, D.A. Wheeler, E.R. Mardis, M.D. McLellan, K. Cibulskis, C. Sougnez, H. Greulich, D.M. Muzny, M.B. Morgan et al.
+Somatic mutations affect key pathways in lung adenocarcinoma
+Nature, 455 (2008), pp. 1069–1075
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (889)
+Ding et al., 2012
+L. Ding, T.J. Ley, D.E. Larson, C.A. Miller, D.C. Koboldt, J.S. Welch, J.K. Ritchey, M.A. Young, T. Lamprecht, M.D. McLellan et al.
+Clonal evolution in relapsed acute myeloid leukaemia revealed by whole-genome sequencing
+Nature, 481 (2012), pp. 506–510
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (288)
+Dolnik et al., 2012
+A. Dolnik, J.C. Engelmann, M. Scharfenberger-Schmeer, J. Mauch, S. Kelkenberg-Schade, B. Haldemann, T. Fries, J. Krönke, M.W. Kühn, P. Paschka et al.
+Commonly altered genomic regions in acute myeloid leukemia are enriched for somatic mutations involved in chromatin remodeling and splicing
+Blood, 120 (2012), pp. e83–e92
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Druker et al., 2001
+B.J. Druker, M. Talpaz, D.J. Resta, B. Peng, E. Buchdunger, J.M. Ford, N.B. Lydon, H. Kantarjian, R. Capdeville, S. Ohno-Jones, C.L. Sawyers
+Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia
+N. Engl. J. Med., 344 (2001), pp. 1031–1037
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3222)
+Dulbecco, 1986
+R. Dulbecco
+A turning point in cancer research: sequencing the human genome
+Science, 231 (1986), pp. 1055–1056
+
+View Record in Scopus | Citing articles (70)
+Dupuis et al., 2010
+J. Dupuis, C. Langenberg, I. Prokopenko, R. Saxena, N. Soranzo, A.U. Jackson, E. Wheeler, N.L. Glazer, N. Bouatia-Naji, A.L. Gloyn, DIAGRAM Consortium, GIANT Consortium, Global BPgen Consortium, Anders Hamsten on behalf of Procardis Consortium, MAGIC investigators et al.
+New genetic loci implicated in fasting glucose homeostasis and their impact on type 2 diabetes risk
+Nat. Genet., 42 (2010), pp. 105–116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (613)
+Dutt et al., 2008
+A. Dutt, H.B. Salvesen, T.H. Chen, A.H. Ramos, R.C. Onofrio, C. Hatton, R. Nicoletti, W. Winckler, R. Grewal, M. Hanna et al.
+Drug-sensitive FGFR2 mutations in endometrial carcinoma
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 8713–8717
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+Ellis et al., 2012
+M.J. Ellis, L. Ding, D. Shen, J. Luo, V.J. Suman, J.W. Wallis, B.A. Van Tine, J. Hoog, R.J. Goiffon, T.C. Goldstein et al.
+Whole-genome analysis informs breast cancer response to aromatase inhibition
+Nature, 486 (2012), pp. 353–360
+
+View Record in Scopus | Citing articles (187)
+Emery et al., 2009
+C.M. Emery, K.G. Vijayendran, M.C. Zipser, A.M. Sawyer, L. Niu, J.J. Kim, C. Hatton, R. Chopra, P.A. Oberholzer, M.B. Karpova et al.
+MEK1 mutations confer resistance to MEK and B-RAF inhibition
+Proc. Natl. Acad. Sci. USA, 106 (2009), pp. 20411–20416
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (170)
+Estey, 2007
+E. Estey
+Acute myeloid leukemia and myelodysplastic syndromes in older patients
+J. Clin. Oncol., 25 (2007), pp. 1908–1915
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+Figueroa et al., 2010
+M.E. Figueroa, O. Abdel-Wahab, C. Lu, P.S. Ward, J. Patel, A. Shih, Y. Li, N. Bhagwat, A. Vasanthakumar, H.F. Fernandez et al.
+Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation
+Cancer Cell, 18 (2010), pp. 553–567
+
+Article |  PDF (2150 K) | View Record in Scopus | Citing articles (506)
+Flaherty et al., 2012a
+K.T. Flaherty, J.R. Infante, A. Daud, R. Gonzalez, R.F. Kefford, J. Sosman, O. Hamid, L. Schuchter, J. Cebon, N. Ibrahim et al.
+Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations
+N. Engl. J. Med., 367 (2012), pp. 1694–1703
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (370)
+Flaherty et al., 2012b
+K.T. Flaherty, C. Robert, P. Hersey, P. Nathan, C. Garbe, M. Milhem, L.V. Demidov, J.C. Hassel, P. Rutkowski, P. Mohr, METRIC Study Group et al.
+Improved survival with MEK inhibition in BRAF-mutated melanoma
+N. Engl. J. Med., 367 (2012), pp. 107–114
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (316)
+Folco et al., 2011
+E.G. Folco, K.E. Coil, R. Reed
+The anti-tumor drug E7107 reveals an essential role for SF3b in remodeling U2 snRNP to expose the branch point-binding region
+Genes Dev., 25 (2011), pp. 440–444
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Fujimoto et al., 2012
+A. Fujimoto, Y. Totoki, T. Abe, K.A. Boroevich, F. Hosoda, H.H. Nguyen, M. Aoki, N. Hosono, M. Kubo, F. Miya et al.
+Whole-genome sequencing of liver cancers identifies etiological influences on mutation patterns and recurrent mutations in chromatin regulators
+Nat. Genet., 44 (2012), pp. 760–764
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (109)
+Gabor Miklos, 2005
+G.L. Gabor Miklos
+The human cancer genome project—one more misstep in the war on cancer
+Nat. Biotechnol., 23 (2005), pp. 535–537
+
+Full Text via CrossRef
+Garnett et al., 2012
+M.J. Garnett, E.J. Edelman, S.J. Heidorn, C.D. Greenman, A. Dastur, K.W. Lau, P. Greninger, I.R. Thompson, X. Luo, J. Soares et al.
+Systematic identification of genomic markers of drug sensitivity in cancer cells
+Nature, 483 (2012), pp. 570–575
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (244)
+Garraway and Jänne, 2012
+L.A. Garraway, P.A. Jänne
+Circumventing cancer drug resistance in the era of personalized medicine
+Cancer Discov., 2 (2012), pp. 214–226
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Garraway et al., 2005
+L.A. Garraway, H.R. Widlund, M.A. Rubin, G. Getz, A.J. Berger, S. Ramaswamy, R. Beroukhim, D.A. Milner, S.R. Granter, J. Du et al.
+Integrative genomic analyses identify MITF as a lineage survival oncogene amplified in malignant melanoma
+Nature, 436 (2005), pp. 117–122
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (645)
+Gerlinger et al., 2012
+M. Gerlinger, A.J. Rowan, S. Horswell, J. Larkin, D. Endesfelder, E. Gronroos, P. Martinez, N. Matthews, A. Stewart, P. Tarpey et al.
+Intratumor heterogeneity and branched evolution revealed by multiregion sequencing
+N. Engl. J. Med., 366 (2012), pp. 883–892
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (958)
+Gnirke et al., 2009
+A. Gnirke, A. Melnikov, J. Maguire, P. Rogov, E.M. LeProust, W. Brockman, T. Fennell, G. Giannoukos, S. Fisher, C. Russ et al.
+Solution hybrid selection with ultra-long oligonucleotides for massively parallel targeted sequencing
+Nat. Biotechnol., 27 (2009), pp. 182–189
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (438)
+Grabherr et al., 2011
+M.G. Grabherr, B.J. Haas, M. Yassour, J.Z. Levin, D.A. Thompson, I. Amit, X. Adiconis, L. Fan, R. Raychowdhury, Q. Zeng et al.
+Full-length transcriptome assembly from RNA-Seq data without a reference genome
+Nat. Biotechnol., 29 (2011), pp. 644–652
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (649)
+Grasso et al., 2012
+C.S. Grasso, Y.M. Wu, D.R. Robinson, X. Cao, S.M. Dhanasekaran, A.P. Khan, M.J. Quist, X. Jing, R.J. Lonigro, J.C. Brenner et al.
+The mutational landscape of lethal castration-resistant prostate cancer
+Nature, 487 (2012), pp. 239–243
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (203)
+Greenman et al., 2007
+C. Greenman, P. Stephens, R. Smith, G.L. Dalgliesh, C. Hunter, G. Bignell, H. Davies, J. Teague, A. Butler, C. Stevens et al.
+Patterns of somatic mutation in human cancer genomes
+Nature, 446 (2007), pp. 153–158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1170)
+Gui et al., 2011
+Y. Gui, G. Guo, Y. Huang, X. Hu, A. Tang, S. Gao, R. Wu, C. Chen, X. Li, L. Zhou et al.
+Frequent mutations of chromatin remodeling genes in transitional cell carcinoma of the bladder
+Nat. Genet., 43 (2011), pp. 875–878
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (157)
+Haiman et al., 2011
+C.A. Haiman, G.K. Chen, W.J. Blot, S.S. Strom, S.I. Berndt, R.A. Kittles, B.A. Rybicki, W.B. Isaacs, S.A. Ingles, J.L. Stanford et al.
+Characterizing genetic risk at known prostate cancer susceptibility loci in African Americans
+PLoS Genet., 7 (2011), p. e1001387
+
+Full Text via CrossRef
+Hájková et al., 2012
+H. Hájková, J. Marková, C. Haškovec, I. Sárová, O. Fuchs, A. Kostečka, P. Cetkovský, K. Michalová, J. Schwarz
+Decreased DNA methylation in acute myeloid leukemia patients with DNMT3A mutations and prognostic implications of DNA methylation
+Leuk. Res., 36 (2012), pp. 1128–1133
+
+Article |  PDF (695 K) | View Record in Scopus | Citing articles (2)
+Hammerman et al., 2012
+P.S. Hammerman, D.N. Hayes, M.D. Wilkerson, N. Schultz, R. Bose, A. Chu, E.A. Collisson, L. Cope, C.J. Creighton, G. Getz, Cancer Genome Atlas Research Network et al.
+Comprehensive genomic characterization of squamous cell lung cancers
+Nature, 489 (2012), pp. 519–525
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (319)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (12741)
+Hanahan and Weinberg, 2011
+D. Hanahan, R.A. Weinberg
+Hallmarks of cancer: the next generation
+Cell, 144 (2011), pp. 646–674
+
+Article |  PDF (2122 K) | View Record in Scopus | Citing articles (5261)
+Hindorff et al., 2011
+L.A. Hindorff, E.M. Gillanders, T.A. Manolio
+Genetic architecture of cancer and other complex diseases: lessons learned and future directions
+Carcinogenesis, 32 (2011), pp. 945–954
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Ho and Crabtree, 2010
+L. Ho, G.R. Crabtree
+Chromatin remodelling during development
+Nature, 463 (2010), pp. 474–484
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (271)
+Hodges et al., 2007
+E. Hodges, Z. Xuan, V. Balija, M. Kramer, M.N. Molla, S.W. Smith, C.M. Middle, M.J. Rodesch, T.J. Albert, G.J. Hannon, W.R. McCombie
+Genome-wide in situ exon capture for selective resequencing
+Nat. Genet., 39 (2007), pp. 1522–1527
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (318)
+Hodis et al., 2012
+E. Hodis, I.R. Watson, G.V. Kryukov, S.T. Arold, M. Imielinski, J.P. Theurillat, E. Nickerson, D. Auclair, L. Li, C. Place et al.
+A landscape of driver mutations in melanoma
+Cell, 150 (2012), pp. 251–263
+
+Article |  PDF (1086 K) | View Record in Scopus | Citing articles (244)
+Holland and Cleveland, 2012
+A.J. Holland, D.W. Cleveland
+Chromoanagenesis and cancer: mechanisms and consequences of localized, complex chromosomal rearrangements
+Nat. Med., 18 (2012), pp. 1630–1638
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Hou et al., 2012
+Y. Hou, L. Song, P. Zhu, B. Zhang, Y. Tao, X. Xu, F. Li, K. Wu, J. Liang, D. Shao et al.
+Single-cell exome sequencing and monoclonal evolution of a JAK2-negative myeloproliferative neoplasm
+Cell, 148 (2012), pp. 873–885
+
+Article |  PDF (1173 K) | View Record in Scopus | Citing articles (96)
+Huang et al., 2012a
+J. Huang, Q. Deng, Q. Wang, K.Y. Li, J.H. Dai, N. Li, Z.D. Zhu, B. Zhou, X.Y. Liu, R.F. Liu et al.
+Exome sequencing of hepatitis B virus-associated hepatocellular carcinoma
+Nat. Genet., 44 (2012), pp. 1117–1121
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Huang et al., 2012b
+S. Huang, Z.G. Gulzar, K. Salari, J. Lapointe, J.D. Brooks, J.R. Pollack
+Recurrent deletion of CHD1 in prostate cancer with relevance to cell invasiveness
+Oncogene, 31 (2012), pp. 4164–4170
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+Huang et al., 2013
+F.W. Huang, E. Hodis, M.J. Xu, G.V. Kryukov, L. Chin, L.A. Garraway
+Highly recurrent TERT promoter mutations in human melanoma
+Science, 339 (2013), pp. 957–959
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (108)
+Huch et al., 2013
+M. Huch, C. Dorrell, S.F. Boj, J.H. van Es, V.S. Li, M. van de Wetering, T. Sato, K. Hamer, N. Sasaki, M.J. Finegold et al.
+In vitro expansion of single Lgr5+ liver stem cells induced by Wnt-driven regeneration
+Nature, 494 (2013), pp. 247–250
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Hudson et al., 2010
+T.J. Hudson, W. Anderson, A. Artez, A.D. Barker, C. Bell, R.R. Bernabé, M.K. Bhan, F. Calvo, I. Eerola, D.S. Gerhard, International Cancer Genome Consortium et al.
+International network of cancer genome projects
+Nature, 464 (2010), pp. 993–998
+
+View Record in Scopus | Citing articles (407)
+Imielinski et al., 2012
+M. Imielinski, A.H. Berger, P.S. Hammerman, B. Hernandez, T.J. Pugh, E. Hodis, J. Cho, J. Suh, M. Capelletti, A. Sivachenko et al.
+Mapping the hallmarks of lung adenocarcinoma with massively parallel sequencing
+Cell, 150 (2012), pp. 1107–1120
+
+Article |  PDF (1774 K) | View Record in Scopus | Citing articles (189)
+International Human Genome Sequencing Consortium, 2004
+International Human Genome Sequencing Consortium
+Finishing the euchromatic sequence of the human genome
+Nature, 431 (2004), pp. 931–945
+
+Iyer et al., 2012
+G. Iyer, A.J. Hanrahan, M.I. Milowsky, H. Al-Ahmadie, S.N. Scott, M. Janakiraman, M. Pirun, C. Sander, N.D. Socci, I. Ostrovnaya et al.
+Genome sequencing identifies a basis for everolimus sensitivity
+Science, 338 (2012), p. 221
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+Jaju et al., 2001
+R.J. Jaju, C. Fidler, O.A. Haas, A.J. Strickson, F. Watkins, K. Clark, N.C. Cross, J.F. Cheng, P.D. Aplan, L. Kearney et al.
+A novel gene, NSD1, is fused to NUP98 in the t(5;11)(q35;p15.5) in de novo childhood acute myeloid leukemia
+Blood, 98 (2001), pp. 1264–1267
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (131)
+Jankowska et al., 2011
+A.M. Jankowska, H. Makishima, R.V. Tiu, H. Szpurka, Y. Huang, F. Traina, V. Visconte, Y. Sugimoto, C. Prince, C. O’Keefe et al.
+Mutational spectrum analysis of chronic myelomonocytic leukemia includes genes associated with epigenetic regulation: UTX, EZH2, and DNMT3A
+Blood, 118 (2011), pp. 3932–3941
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+Johannessen et al., 2010
+C.M. Johannessen, J.S. Boehm, S.Y. Kim, S.R. Thomas, L. Wardwell, L.A. Johnson, C.M. Emery, N. Stransky, A.P. Cogdill, J. Barretina et al.
+COT drives resistance to RAF inhibition through MAP kinase pathway reactivation
+Nature, 468 (2010), pp. 968–972
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (473)
+Jones et al., 2010
+S. Jones, T.L. Wang, IeM. Shih, T.L. Mao, K. Nakayama, R. Roden, R. Glas, D. Slamon, L.A. Diaz Jr., B. Vogelstein et al.
+Frequent mutations of chromatin remodeling gene ARID1A in ovarian clear cell carcinoma
+Science, 330 (2010), pp. 228–231
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (296)
+Kaida et al., 2007
+D. Kaida, H. Motoyoshi, E. Tashiro, T. Nojima, M. Hagiwara, K. Ishigami, H. Watanabe, T. Kitahara, T. Yoshida, H. Nakajima et al.
+Spliceostatin A targets SF3b and inhibits both splicing and nuclear retention of pre-mRNA
+Nat. Chem. Biol., 3 (2007), pp. 576–583
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (177)
+Kan et al., 2010
+Z. Kan, B.S. Jaiswal, J. Stinson, V. Janakiraman, D. Bhatt, H.M. Stern, P. Yue, P.M. Haverty, R. Bourgon, J. Zheng et al.
+Diverse somatic mutation patterns and pathway alterations in human cancers
+Nature, 466 (2010), pp. 869–873
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (317)
+Karlsson and Lindblad-Toh, 2008
+E.K. Karlsson, K. Lindblad-Toh
+Leader of the pack: gene mapping in dogs and other model organisms
+Nat. Rev. Genet., 9 (2008), pp. 713–725
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (89)
+Kim and Salzberg, 2011
+D. Kim, S.L. Salzberg
+TopHat-Fusion: an algorithm for discovery of novel fusion transcripts
+Genome Biol., 12 (2011), p. R72
+
+Full Text via CrossRef
+Kim et al., 2010
+Y.H. Kim, K.A. Kwei, L. Girard, K. Salari, J. Kao, M. Pacyna-Gengelbach, P. Wang, T. Hernandez-Boussard, A.F. Gazdar, I. Petersen et al.
+Genomic and functional analysis identifies CRKL as an oncogene amplified in lung cancer
+Oncogene, 29 (2010), pp. 1421–1430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Kim et al., 2011
+E.S. Kim, R.S. Herbst, I.I. Wistuba, J.J. Lee, G.R. Blumenschein Jr., A. Tsao, D.J. Stewart, M.E. Hicks, J. Erasmus Jr., S. Gupta et al.
+The BATTLE trial: personalizing therapy for lung cancer
+Cancer Discov., 1 (2011), pp. 44–53
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (180)
+Klinakis et al., 2011
+A. Klinakis, C. Lobry, O. Abdel-Wahab, P. Oh, H. Haeno, S. Buonamici, I. van De Walle, S. Cathelin, T. Trimarchi, E. Araldi et al.
+A novel tumour-suppressor function for the Notch pathway in myeloid leukaemia
+Nature, 473 (2011), pp. 230–233
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (113)
+Koivunen et al., 2012
+P. Koivunen, S. Lee, C.G. Duncan, G. Lopez, G. Lu, S. Ramkissoon, J.A. Losman, P. Joensuu, U. Bergmann, S. Gross et al.
+Transformation by the (R)-enantiomer of 2-hydroxyglutarate linked to EGLN activation
+Nature, 483 (2012), pp. 484–488
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+Kostic et al., 2011
+A.D. Kostic, A.I. Ojesina, C.S. Pedamallu, J. Jung, R.G. Verhaak, G. Getz, M. Meyerson
+PathSeq: software to identify or discover microbes by deep sequencing of human tissue
+Nat. Biotechnol., 29 (2011), pp. 393–396
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Kralovics et al., 2005
+R. Kralovics, F. Passamonti, A.S. Buser, S.S. Teo, R. Tiedt, J.R. Passweg, A. Tichelli, M. Cazzola, R.C. Skoda
+A gain-of-function mutation of JAK2 in myeloproliferative disorders
+N. Engl. J. Med., 352 (2005), pp. 1779–1790
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1626)
+Krauthammer et al., 2012
+M. Krauthammer, Y. Kong, B.H. Ha, P. Evans, A. Bacchiocchi, J.P. McCusker, E. Cheng, M.J. Davis, G. Goh, M. Choi et al.
+Exome sequencing identifies recurrent somatic RAC1 mutations in melanoma
+Nat. Genet., 44 (2012), pp. 1006–1014
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Kreso et al., 2013
+A. Kreso, C.A. O’Brien, P. van Galen, O.I. Gan, F. Notta, A.M. Brown, K. Ng, J. Ma, E. Wienholds, C. Dunant et al.
+Variable clonal repopulation dynamics influence chemotherapy response in colorectal cancer
+Science, 339 (2013), pp. 543–548
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (74)
+Kriaucionis and Heintz, 2009
+S. Kriaucionis, N. Heintz
+The nuclear DNA base 5-hydroxymethylcytosine is present in Purkinje neurons and the brain
+Science, 324 (2009), pp. 929–930
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (691)
+Landau et al., 2013
+D.A. Landau, S.L. Carter, P. Stojanov, A. McKenna, K. Stevenson, M.S. Lawrence, C. Sougnez, C. Stewart, A. Sivachenko, L. Wang et al.
+Evolution and impact of subclonal mutations in chronic lymphocytic leukemia
+Cell, 152 (2013), pp. 714–726
+
+Article |  PDF (2355 K) | View Record in Scopus | Citing articles (96)
+Lander et al., 2001
+E.S. Lander, L.M. Linton, B. Birren, C. Nusbaum, M.C. Zody, J. Baldwin, K. Devon, K. Dewar, M. Doyle, W. FitzHugh, International Human Genome Sequencing Consortium et al.
+Initial sequencing and analysis of the human genome
+Nature, 409 (2001), pp. 860–921
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11239)
+Langemeijer et al., 2009
+S.M. Langemeijer, R.P. Kuiper, M. Berends, R. Knops, M.G. Aslanyan, M. Massop, E. Stevens-Linders, P. van Hoogen, A.G. van Kessel, R.A. Raymakers et al.
+Acquired mutations in TET2 are common in myelodysplastic syndromes
+Nat. Genet., 41 (2009), pp. 838–842
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (307)
+Le Gallo et al., 2012
+M. Le Gallo, A.J. O’Hara, M.L. Rudd, M.E. Urick, N.F. Hansen, N.J. O’Neil, J.C. Price, S. Zhang, B.M. England, A.K. Godwin, NIH Intramural Sequencing Center (NISC) Comparative Sequencing Program et al.
+Exome sequencing of serous endometrial tumors identifies recurrent somatic mutations in chromatin-remodeling and ubiquitin ligase complex genes
+Nat. Genet., 44 (2012), pp. 1310–1315
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Levine et al., 2005
+R.L. Levine, M. Wadleigh, J. Cools, B.L. Ebert, G. Wernig, B.J. Huntly, T.J. Boggon, I. Wlodarska, J.J. Clark, S. Moore et al.
+Activating mutation in the tyrosine kinase JAK2 in polycythemia vera, essential thrombocythemia, and myeloid metaplasia with myelofibrosis
+Cancer Cell, 7 (2005), pp. 387–397
+
+Article |  PDF (459 K) | View Record in Scopus | Citing articles (1391)
+Ley et al., 2008
+T.J. Ley, E.R. Mardis, L. Ding, B. Fulton, M.D. McLellan, K. Chen, D. Dooling, B.H. Dunford-Shore, S. McGrath, M. Hickenbotham et al.
+DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome
+Nature, 456 (2008), pp. 66–72
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (590)
+Ley et al., 2010
+T.J. Ley, L. Ding, M.J. Walter, M.D. McLellan, T. Lamprecht, D.E. Larson, C. Kandoth, J.E. Payton, J. Baty, J. Welch et al.
+DNMT3A mutations in acute myeloid leukemia
+N. Engl. J. Med., 363 (2010), pp. 2424–2433
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (463)
+Li et al., 2011
+M. Li, H. Zhao, X. Zhang, L.D. Wood, R.A. Anders, M.A. Choti, T.M. Pawlik, H.D. Daniel, R. Kannangai, G.J. Offerhaus et al.
+Inactivating mutations of the chromatin remodeling gene ARID2 in hepatocellular carcinoma
+Nat. Genet., 43 (2011), pp. 828–829
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+Lindsley and Ebert, 2013
+R.C. Lindsley, B.L. Ebert
+Molecular Pathophysiology of Myelodysplastic Syndromes
+Annu. Rev. Pathol., 8 (2013), pp. 21–47 http://dx.doi.org/10.1146/annurev-pathol-011811-132436 Published online August 28, 2012
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (10)
+Lipson et al., 2012
+D. Lipson, M. Capelletti, R. Yelensky, G. Otto, A. Parker, M. Jarosz, J.A. Curran, S. Balasubramanian, T. Bloom, K.W. Brennan et al.
+Identification of new ALK and RET gene fusions from colorectal and lung cancer biopsies
+Nat. Med., 18 (2012), pp. 382–384
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (188)
+Liu et al., 2011
+P. Liu, A. Erez, S.C. Nagamani, S.U. Dhar, K.E. Kołodziejska, A.V. Dharmadhikari, M.L. Cooper, J. Wiszniewska, F. Zhang, M.A. Withers et al.
+Chromosome catastrophes involve replication mechanisms generating complex genomic rearrangements
+Cell, 146 (2011), pp. 889–903
+
+Article |  PDF (3180 K) | View Record in Scopus | Citing articles (94)
+Liu et al., 2012
+X. Liu, V. Ory, S. Chapman, H. Yuan, C. Albanese, B. Kallakury, O.A. Timofeeva, C. Nealon, A. Dakic, V. Simic et al.
+ROCK inhibitor and feeder cells induce the conditional reprogramming of epithelial cells
+Am. J. Pathol., 180 (2012), pp. 599–607
+
+Article |  PDF (2078 K) | View Record in Scopus | Citing articles (10)
+Lohr et al., 2012
+J.G. Lohr, P. Stojanov, M.S. Lawrence, D. Auclair, B. Chapuy, C. Sougnez, P. Cruz-Gordillo, B. Knoechel, Y.W. Asmann, S.L. Slager et al.
+Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma (DLBCL) by whole-exome sequencing
+Proc. Natl. Acad. Sci. USA, 109 (2012), pp. 3879–3884
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (127)
+Lu et al., 2012
+C. Lu, P.S. Ward, G.S. Kapoor, D. Rohle, S. Turcan, O. Abdel-Wahab, C.R. Edwards, R. Khanin, M.E. Figueroa, A. Melnick et al.
+IDH mutation impairs histone demethylation and results in a block to cell differentiation
+Nature, 483 (2012), pp. 474–478
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (212)
+Lynch et al., 2004
+T.J. Lynch, D.W. Bell, R. Sordella, S. Gurubhagavatula, R.A. Okimoto, B.W. Brannigan, P.L. Harris, S.M. Haserlat, J.G. Supko, F.G. Haluska et al.
+Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib
+N. Engl. J. Med., 350 (2004), pp. 2129–2139
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5744)
+Macconaill and Garraway, 2010
+L.E. Macconaill, L.A. Garraway
+Clinical implications of the cancer genome
+J. Clin. Oncol., 28 (2010), pp. 5219–5228
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+MacConaill et al., 2009
+L.E. MacConaill, C.D. Campbell, S.M. Kehoe, A.J. Bass, C. Hatton, L. Niu, M. Davis, K. Yao, M. Hanna, C. Mondal et al.
+Profiling critical cancer gene mutations in clinical tumor samples
+PLoS ONE, 4 (2009), p. e7887
+
+Full Text via CrossRef
+Makishima et al., 2010
+H. Makishima, A.M. Jankowska, R.V. Tiu, H. Szpurka, Y. Sugimoto, Z. Hu, Y. Saunthararajah, K. Guinta, M.A. Keddache, P. Putnam et al.
+Novel homo- and hemizygous mutations in EZH2 in myeloid malignancies. Leukemia: official journal of the Leukemia Society of America
+Leukemia, 24 (2010), pp. 1799–1804
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (74)
+Marcucci et al., 2012
+G. Marcucci, K.H. Metzeler, S. Schwind, H. Becker, K. Maharry, K. Mrózek, M.D. Radmacher, J. Kohlschmidt, D. Nicolet, S.P. Whitman et al.
+Age-related prognostic impact of different types of DNMT3A mutations in adults with primary cytogenetically normal acute myeloid leukemia
+J. Clin. Oncol., 30 (2012), pp. 742–750
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+Mardis et al., 2009
+E.R. Mardis, L. Ding, D.J. Dooling, D.E. Larson, M.D. McLellan, K. Chen, D.C. Koboldt, R.S. Fulton, K.D. Delehaunty, S.D. McGrath et al.
+Recurring mutations found by sequencing an acute myeloid leukemia genome
+N. Engl. J. Med., 361 (2009), pp. 1058–1066
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (781)
+Margulies et al., 2005
+M. Margulies, M. Egholm, W.E. Altman, S. Attiya, J.S. Bader, L.A. Bemben, J. Berka, M.S. Braverman, Y.J. Chen, Z. Chen et al.
+Genome sequencing in microfabricated high-density picolitre reactors
+Nature, 437 (2005), pp. 376–380
+
+View Record in Scopus | Citing articles (3529)
+Meyerson et al., 2010
+M. Meyerson, S. Gabriel, G. Getz
+Advances in understanding cancer genomes through second-generation sequencing
+Nat. Rev. Genet., 11 (2010), pp. 685–696
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (329)
+Michor et al., 2005
+F. Michor, T.P. Hughes, Y. Iwasa, S. Branford, N.P. Shah, C.L. Sawyers, M.A. Nowak
+Dynamics of chronic myeloid leukaemia
+Nature, 435 (2005), pp. 1267–1270
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (404)
+Molenaar et al., 2012
+J.J. Molenaar, J. Koster, D.A. Zwijnenburg, P. van Sluis, L.J. Valentijn, I. van der Ploeg, M. Hamdi, J. van Nes, B.A. Westerman, J. van Arkel et al.
+Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes
+Nature, 483 (2012), pp. 589–593
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (109)
+Morin et al., 2010
+R.D. Morin, N.A. Johnson, T.M. Severson, A.J. Mungall, J. An, R. Goya, J.E. Paul, M. Boyle, B.W. Woolcock, F. Kuchenbauer et al.
+Somatic mutations altering EZH2 (Tyr641) in follicular and diffuse large B-cell lymphomas of germinal-center origin
+Nat. Genet., 42 (2010), pp. 181–185
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (331)
+Morin et al., 2011
+R.D. Morin, M. Mendez-Lago, A.J. Mungall, R. Goya, K.L. Mungall, R.D. Corbett, N.A. Johnson, T.M. Severson, R. Chiu, M. Field et al.
+Frequent mutation of histone-modifying genes in non-Hodgkin lymphoma
+Nature, 476 (2011), pp. 298–303
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (270)
+Murphy et al., 2012
+A.B. Murphy, F. Ukoli, V. Freeman, F. Bennett, W. Aiken, T. Tulloch, K. Coard, F. Angwafo, R.A. Kittles
+8q24 risk alleles in West African and Caribbean men
+Prostate, 72 (2012), pp. 1366–1373
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (7)
+Navin et al., 2011
+N. Navin, J. Kendall, J. Troge, P. Andrews, L. Rodgers, J. McIndoo, K. Cook, A. Stepansky, D. Levy, D. Esposito et al.
+Tumour evolution inferred by single-cell sequencing
+Nature, 472 (2011), pp. 90–94
+
+Full Text via CrossRef
+Nazarian et al., 2010
+R. Nazarian, H. Shi, Q. Wang, X. Kong, R.C. Koya, H. Lee, Z. Chen, M.K. Lee, N. Attar, H. Sazegar et al.
+Melanomas acquire resistance to B-RAF(V600E) inhibition by RTK or N-RAS upregulation
+Nature, 468 (2010), pp. 973–977
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (605)
+Ngo et al., 2011
+V.N. Ngo, R.M. Young, R. Schmitz, S. Jhavar, W. Xiao, K.H. Lim, H. Kohlhammer, W. Xu, Y. Yang, H. Zhao et al.
+Oncogenically active MYD88 mutations in human lymphoma
+Nature, 470 (2011), pp. 115–119
+
+Full Text via CrossRef
+Nik-Zainal et al., 2012a
+S. Nik-Zainal, L.B. Alexandrov, D.C. Wedge, P. Van Loo, C.D. Greenman, K. Raine, D. Jones, J. Hinton, J. Marshall, L.A. Stebbings, Breast Cancer Working Group of the International Cancer Genome Consortium et al.
+Mutational processes molding the genomes of 21 breast cancers
+Cell, 149 (2012), pp. 979–993
+
+Article |  PDF (2527 K) | View Record in Scopus | Citing articles (192)
+Nik-Zainal et al., 2012b
+S. Nik-Zainal, P. Van Loo, D.C. Wedge, L.B. Alexandrov, C.D. Greenman, K.W. Lau, K. Raine, D. Jones, J. Marshall, M. Ramakrishna, Breast Cancer Working Group of the International Cancer Genome Consortium et al.
+The life history of 21 breast cancers
+Cell, 149 (2012), pp. 994–1007
+
+Article |  PDF (2051 K) | View Record in Scopus | Citing articles (197)
+Noushmehr et al., 2010
+H. Noushmehr, D.J. Weisenberger, K. Diefes, H.S. Phillips, K. Pujara, B.P. Berman, F. Pan, C.E. Pelloski, E.P. Sulman, K.P. Bhat, Cancer Genome Atlas Research Network et al.
+Identification of a CpG island methylator phenotype that defines a distinct subgroup of glioma
+Cancer Cell, 17 (2010), pp. 510–522
+
+Article |  PDF (2031 K) | View Record in Scopus | Citing articles (495)
+Nowell, 1976
+P.C. Nowell
+The clonal evolution of tumor cell populations
+Science, 194 (1976), pp. 23–28
+
+View Record in Scopus | Citing articles (1847)
+Ogino et al., 2006
+S. Ogino, M. Cantor, T. Kawasaki, M. Brahmandam, G.J. Kirkner, D.J. Weisenberger, M. Campan, P.W. Laird, M. Loda, C.S. Fuchs
+CpG island methylator phenotype (CIMP) of colorectal cancer is best characterised by quantitative DNA methylation analysis and prospective cohort studies
+Gut, 55 (2006), pp. 1000–1006
+
+View Record in Scopus | Citing articles (201)
+Paez et al., 2004
+J.G. Paez, P.A. Jänne, J.C. Lee, S. Tracy, H. Greulich, S. Gabriel, P. Herman, F.J. Kaye, N. Lindeman, T.J. Boggon et al.
+EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy
+Science, 304 (2004), pp. 1497–1500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4875)
+Pal et al., 2012
+A. Pal, T.M. Barber, M. Van de Bunt, S.A. Rudge, Q. Zhang, K.L. Lachlan, N.S. Cooper, H. Linden, J.C. Levy, M.J. Wakelam et al.
+PTEN mutations as a cause of constitutive insulin sensitivity and obesity
+N. Engl. J. Med., 367 (2012), pp. 1002–1011
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Palanisamy et al., 2010
+N. Palanisamy, B. Ateeq, S. Kalyana-Sundaram, D. Pflueger, K. Ramnarayanan, S. Shankar, B. Han, Q. Cao, X. Cao, K. Suleman et al.
+Rearrangements of the RAF kinase pathway in prostate cancer, gastric cancer and melanoma
+Nat. Med., 16 (2010), pp. 793–798
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (152)
+Pao et al., 2004
+W. Pao, V. Miller, M. Zakowski, J. Doherty, K. Politi, I. Sarkaria, B. Singh, R. Heelan, V. Rusch, L. Fulton et al.
+EGF receptor gene mutations are common in lung cancers from “never smokers” and are associated with sensitivity of tumors to gefitinib and erlotinib
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 13306–13311
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2359)
+Papaemmanuil et al., 2011
+E. Papaemmanuil, M. Cazzola, J. Boultwood, L. Malcovati, P. Vyas, D. Bowen, A. Pellagatti, J.S. Wainscoat, E. Hellstrom-Lindberg, C. Gambacorti-Passerini, Chronic Myeloid Disorders Working Group of the International Cancer Genome Consortium et al.
+Somatic SF3B1 mutation in myelodysplasia with ring sideroblasts
+N. Engl. J. Med., 365 (2011), pp. 1384–1395
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (220)
+Parsons et al., 2008
+D.W. Parsons, S. Jones, X. Zhang, J.C. Lin, R.J. Leary, P. Angenendt, P. Mankoo, H. Carter, I.M. Siu, G.L. Gallia et al.
+An integrated genomic analysis of human glioblastoma multiforme
+Science, 321 (2008), pp. 1807–1812
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1801)
+Pasqualucci et al., 2011a
+L. Pasqualucci, D. Dominguez-Sola, A. Chiarenza, G. Fabbri, A. Grunn, V. Trifonov, L.H. Kasper, S. Lerach, H. Tang, J. Ma et al.
+Inactivating mutations of acetyltransferase genes in B-cell lymphoma
+Nature, 471 (2011), pp. 189–195
+
+Full Text via CrossRef
+Pasqualucci et al., 2011b
+L. Pasqualucci, V. Trifonov, G. Fabbri, J. Ma, D. Rossi, A. Chiarenza, V.A. Wells, A. Grunn, M. Messina, O. Elliot et al.
+Analysis of the coding genome of diffuse large B-cell lymphoma
+Nat. Genet., 43 (2011), pp. 830–837
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (175)
+Peifer et al., 2012
+M. Peifer, L. Fernández-Cuesta, M.L. Sos, J. George, D. Seidel, L.H. Kasper, D. Plenker, F. Leenders, R. Sun, T. Zander et al.
+Integrative genome analyses identify key somatic driver mutations of small-cell lung cancer
+Nat. Genet., 44 (2012), pp. 1104–1110
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (96)
+Pleasance et al., 2010a
+E.D. Pleasance, R.K. Cheetham, P.J. Stephens, D.J. McBride, S.J. Humphray, C.D. Greenman, I. Varela, M.L. Lin, G.R. Ordóñez, G.R. Bignell et al.
+A comprehensive catalogue of somatic mutations from a human cancer genome
+Nature, 463 (2010), pp. 191–196 http://dx.doi.org/10.1038/nature08658 Published online December 16, 2009
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (603)
+Pleasance et al., 2010b
+E.D. Pleasance, P.J. Stephens, S. O’Meara, D.J. McBride, A. Meynert, D. Jones, M.L. Lin, D. Beare, K.W. Lau, C. Greenman et al.
+A small-cell lung cancer genome with complex signatures of tobacco exposure
+Nature, 463 (2010), pp. 184–190 http://dx.doi.org/10.1038/nature08629 Published online December 16, 2009
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (462)
+Pollock et al., 2007
+P.M. Pollock, M.G. Gartside, L.C. Dejeza, M.A. Powell, M.A. Mallon, H. Davies, M. Mohammadi, P.A. Futreal, M.R. Stratton, J.M. Trent, P.J. Goodfellow
+Frequent activating FGFR2 mutations in endometrial carcinomas parallel germline mutations associated with craniosynostosis and skeletal dysplasia syndromes
+Oncogene, 26 (2007), pp. 7158–7162
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (128)
+Pomerantz and Freedman, 2011
+M.M. Pomerantz, M.L. Freedman
+The genetics of cancer risk
+Cancer J., 17 (2011), pp. 416–422
+
+View Record in Scopus | Citing articles (2)
+Pomerantz et al., 2009
+M.M. Pomerantz, N. Ahmadiyeh, L. Jia, P. Herman, M.P. Verzi, H. Doddapaneni, C.A. Beckwith, J.A. Chan, A. Hills, M. Davis et al.
+The 8q24 cancer risk variant rs6983267 shows long-range interaction with MYC in colorectal cancer
+Nat. Genet., 41 (2009), pp. 882–884
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (262)
+Poulikakos et al., 2011
+P.I. Poulikakos, Y. Persaud, M. Janakiraman, X. Kong, C. Ng, G. Moriceau, H. Shi, M. Atefi, B. Titz, M.T. Gabay et al.
+RAF inhibitor resistance is mediated by dimerization of aberrantly spliced BRAF(V600E)
+Nature, 480 (2011), pp. 387–390
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (297)
+Puente et al., 2011
+X.S. Puente, M. Pinyol, V. Quesada, L. Conde, G.R. Ordóñez, N. Villamor, G. Escaramis, P. Jares, S. Beà, M. González-Díaz et al.
+Whole-genome sequencing identifies recurrent mutations in chronic lymphocytic leukaemia
+Nature, 475 (2011), pp. 101–105
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (364)
+Quesada et al., 2012
+V. Quesada, L. Conde, N. Villamor, G.R. Ordóñez, P. Jares, L. Bassaganyas, A.J. Ramsay, S. Beà, M. Pinyol, A. Martínez-Trillos et al.
+Exome sequencing identifies recurrent mutations of the splicing factor SF3B1 gene in chronic lymphocytic leukemia
+Nat. Genet., 44 (2012), pp. 47–52
+
+View Record in Scopus | Citing articles (193)
+Rausch et al., 2012
+T. Rausch, D.T. Jones, M. Zapatka, A.M. Stütz, T. Zichner, J. Weischenfeldt, N. Jäger, M. Remke, D. Shih, P.A. Northcott et al.
+Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations
+Cell, 148 (2012), pp. 59–71
+
+Article |  PDF (1765 K) | View Record in Scopus | Citing articles (135)
+Robinson et al., 2011
+D.R. Robinson, S. Kalyana-Sundaram, Y.M. Wu, S. Shankar, X. Cao, B. Ateeq, I.A. Asangani, M. Iyer, C.A. Maher, C.S. Grasso et al.
+Functionally recurrent rearrangements of the MAST kinase and Notch gene families in breast cancer
+Nat. Med., 17 (2011), pp. 1646–1651
+
+View Record in Scopus | Citing articles (65)
+Robinson et al., 2012
+G. Robinson, M. Parker, T.A. Kranenburg, C. Lu, X. Chen, L. Ding, T.N. Phoenix, E. Hedlund, L. Wei, X. Zhu et al.
+Novel mutations target distinct subgroups of medulloblastoma
+Nature, 488 (2012), pp. 43–48
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (101)
+Rosati et al., 2002
+R. Rosati, R. La Starza, A. Veronese, A. Aventin, C. Schwienbacher, T. Vallespi, M. Negrini, M.F. Martelli, C. Mecucci
+NUP98 is fused to the NSD3 gene in acute myeloid leukemia associated with t(8;11)(p11.2;p15)
+Blood, 99 (2002), pp. 3857–3860
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (87)
+Salari et al., 2012
+K. Salari, M.E. Spulak, J. Cuff, A.D. Forster, C.P. Giacomini, S. Huang, M.E. Ko, A.Y. Lin, M. van de Rijn, J.R. Pollack
+CDX2 is an amplified lineage-survival oncogene in colorectal cancer
+Proc. Natl. Acad. Sci. USA, 109 (2012), pp. E3196–E3205
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (8)
+Samuels et al., 2004
+Y. Samuels, Z. Wang, A. Bardelli, N. Silliman, J. Ptak, S. Szabo, H. Yan, A. Gazdar, S.M. Powell, G.J. Riggins et al.
+High frequency of mutations of the PIK3CA gene in human cancers
+Science, 304 (2004), p. 554
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1578)
+Schwartzentruber et al., 2012
+J. Schwartzentruber, A. Korshunov, X.Y. Liu, D.T. Jones, E. Pfaff, K. Jacob, D. Sturm, A.M. Fontebasso, D.A. Quang, M. Tönjes et al.
+Driver mutations in histone H3.3 and chromatin remodelling genes in paediatric glioblastoma
+Nature, 482 (2012), pp. 226–231
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (259)
+Seshagiri et al., 2012
+S. Seshagiri, E.W. Stawiski, S. Durinck, Z. Modrusan, E.E. Storm, C.B. Conboy, S. Chaudhuri, Y. Guan, V. Janakiraman, B.S. Jaiswal et al.
+Recurrent R-spondin fusions in colon cancer
+Nature, 488 (2012), pp. 660–664
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (83)
+Shibata et al., 2008
+T. Shibata, T. Ohta, K.I. Tong, A. Kokubu, R. Odogawa, K. Tsuta, H. Asamura, M. Yamamoto, S. Hirohashi
+Cancer related mutations in NRF2 impair its recognition by Keap1-Cul3 E3 ligase and promote malignancy
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 13568–13573
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+Sjöblom et al., 2006
+T. Sjöblom, S. Jones, L.D. Wood, D.W. Parsons, J. Lin, T.D. Barber, D. Mandelker, R.J. Leary, J. Ptak, N. Silliman et al.
+The consensus coding sequences of human breast and colorectal cancers
+Science, 314 (2006), pp. 268–274
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1718)
+Sosman et al., 2012
+J.A. Sosman, K.B. Kim, L. Schuchter, R. Gonzalez, A.C. Pavlick, J.S. Weber, G.A. McArthur, T.E. Hutson, S.J. Moschos, K.T. Flaherty et al.
+Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib
+N. Engl. J. Med., 366 (2012), pp. 707–714
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (476)
+Stehelin et al., 1976
+D. Stehelin, H.E. Varmus, J.M. Bishop, P.K. Vogt
+DNA related to the transforming gene(s) of avian sarcoma viruses is present in normal avian DNA
+Nature, 260 (1976), pp. 170–173
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (314)
+Stephens et al., 2011
+P.J. Stephens, C.D. Greenman, B. Fu, F. Yang, G.R. Bignell, L.J. Mudie, E.D. Pleasance, K.W. Lau, D. Beare, L.A. Stebbings et al.
+Massive genomic rearrangement acquired in a single catastrophic event during cancer development
+Cell, 144 (2011), pp. 27–40
+
+Article |  PDF (2895 K) | View Record in Scopus | Citing articles (419)
+Stephens et al., 2012
+P.J. Stephens, P.S. Tarpey, H. Davies, P. Van Loo, C. Greenman, D.C. Wedge, S. Nik-Zainal, S. Martin, I. Varela, G.R. Bignell, Oslo Breast Cancer Consortium (OSBREAC) et al.
+The landscape of cancer genes and mutational processes in breast cancer
+Nature, 486 (2012), pp. 400–404
+
+View Record in Scopus | Citing articles (269)
+Stransky et al., 2011
+N. Stransky, A.M. Egloff, A.D. Tward, A.D. Kostic, K. Cibulskis, A. Sivachenko, G.V. Kryukov, M.S. Lawrence, C. Sougnez, A. McKenna et al.
+The mutational landscape of head and neck squamous cell carcinoma
+Science, 333 (2011), pp. 1157–1160
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (377)
+Stratton et al., 2009
+M.R. Stratton, P.J. Campbell, P.A. Futreal
+The cancer genome
+Nature, 458 (2009), pp. 719–724
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (712)
+Straussman et al., 2012
+R. Straussman, T. Morikawa, K. Shee, M. Barzily-Rokni, Z.R. Qian, J. Du, A. Davis, M.M. Mongare, J. Gould, D.T. Frederick et al.
+Tumour micro-environment elicits innate resistance to RAF inhibitors through HGF secretion
+Nature, 487 (2012), pp. 500–504
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (258)
+Sur et al., 2012
+I.K. Sur, O. Hallikas, A. Vähärautio, J. Yan, M. Turunen, M. Enge, M. Taipale, A. Karhu, L.A. Aaltonen, J. Taipale
+Mice lacking a Myc enhancer that includes human SNP rs6983267 are resistant to intestinal tumors
+Science, 338 (2012), pp. 1360–1363
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Tabin et al., 1982
+C.J. Tabin, S.M. Bradley, C.I. Bargmann, R.A. Weinberg, A.G. Papageorge, E.M. Scolnick, R. Dhar, D.R. Lowy, E.H. Chang
+Mechanism of activation of a human oncogene
+Nature, 300 (1982), pp. 143–149
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (174)
+Tahiliani et al., 2009
+M. Tahiliani, K.P. Koh, Y. Shen, W.A. Pastor, H. Bandukwala, Y. Brudno, S. Agarwal, L.M. Iyer, D.R. Liu, L. Aravind et al.
+Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1
+Science, 324 (2009), pp. 930–935
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1125)
+Taplin et al., 1995
+M.E. Taplin, G.J. Bubley, T.D. Shuster, M.E. Frantz, A.E. Spooner, G.K. Ogata, H.N. Keer, S.P. Balk
+Mutation of the androgen-receptor gene in metastatic androgen-independent prostate cancer
+N. Engl. J. Med., 332 (1995), pp. 1393–1398
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (711)
+Thomas et al., 2007
+R.K. Thomas, A.C. Baker, R.M. Debiasi, W. Winckler, T. Laframboise, W.M. Lin, M. Wang, W. Feng, T. Zander, L. MacConaill et al.
+High-throughput oncogene mutation profiling in human cancer
+Nat. Genet., 39 (2007), pp. 347–351
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (420)
+Toyota et al., 1999
+M. Toyota, N. Ahuja, M. Ohe-Toyota, J.G. Herman, S.B. Baylin, J.P. Issa
+CpG island methylator phenotype in colorectal cancer
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 8681–8686
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1281)
+Trapnell et al., 2009
+C. Trapnell, L. Pachter, S.L. Salzberg
+TopHat: discovering splice junctions with RNA-Seq
+Bioinformatics, 25 (2009), pp. 1105–1111
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1502)
+Turcan et al., 2012
+S. Turcan, D. Rohle, A. Goenka, L.A. Walsh, F. Fang, E. Yilmaz, C. Campos, A.W. Fabius, C. Lu, P.S. Ward et al.
+IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype
+Nature, 483 (2012), pp. 479–483
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (222)
+Tuupanen et al., 2009
+S. Tuupanen, M. Turunen, R. Lehtonen, O. Hallikas, S. Vanharanta, T. Kivioja, M. Björklund, G. Wei, J. Yan, I. Niittymäki et al.
+The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling
+Nat. Genet., 41 (2009), pp. 885–890
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (223)
+Varela et al., 2011
+I. Varela, P. Tarpey, K. Raine, D. Huang, C.K. Ong, P. Stephens, H. Davies, D. Jones, M.L. Lin, J. Teague et al.
+Exome sequencing identifies frequent mutation of the SWI/SNF complex gene PBRM1 in renal carcinoma
+Nature, 469 (2011), pp. 539–542
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (330)
+Venter et al., 2001
+J.C. Venter, M.D. Adams, E.W. Myers, P.W. Li, R.J. Mural, G.G. Sutton, H.O. Smith, M. Yandell, C.A. Evans, R.A. Holt et al.
+The sequence of the human genome
+Science, 291 (2001), pp. 1304–1351
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+Wagle et al., 2011
+N. Wagle, C. Emery, M.F. Berger, M.J. Davis, A. Sawyer, P. Pochanard, S.M. Kehoe, C.M. Johannessen, L.E. Macconaill, W.C. Hahn et al.
+Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling
+J. Clin. Oncol., 29 (2011), pp. 3085–3096
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (256)
+Wagle et al., 2012
+N. Wagle, M.F. Berger, M.J. Davis, B. Blumenstiel, M. Defelice, P. Pochanard, M. Ducar, P. Van Hummelen, L.E. Macconaill, W.C. Hahn et al.
+High-throughput detection of actionable genomic alterations in clinical tumor samples by targeted, massively parallel sequencing
+Cancer Discov., 2 (2012), pp. 82–93
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+Walter et al., 2011
+M.J. Walter, L. Ding, D. Shen, J. Shao, M. Grillot, M. McLellan, R. Fulton, H. Schmidt, J. Kalicki-Veizer, M. O’Laughlin et al.
+Recurrent DNMT3A mutations in patients with myelodysplastic syndromes. Leukemia: official journal of the Leukemia Society of America
+Leukemia, 25 (2011), pp. 1153–1158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (148)
+Wang et al., 2011a
+L. Wang, M.S. Lawrence, Y. Wan, P. Stojanov, C. Sougnez, K. Stevenson, L. Werner, A. Sivachenko, D.S. DeLuca, L. Zhang et al.
+SF3B1 and other novel cancer genes in chronic lymphocytic leukemia
+N. Engl. J. Med., 365 (2011), pp. 2497–2506
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (221)
+Wang et al., 2011b
+N.J. Wang, Z. Sanborn, K.L. Arnett, L.J. Bayston, W. Liao, C.M. Proby, I.M. Leigh, E.A. Collisson, P.B. Gordon, L. Jakkula et al.
+Loss-of-function mutations in Notch receptors in cutaneous and lung squamous cell carcinoma
+Proc. Natl. Acad. Sci. USA, 108 (2011), pp. 17761–17766
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Wang et al., 2011c
+X.S. Wang, S. Shankar, S.M. Dhanasekaran, B. Ateeq, A.T. Sasaki, X. Jing, D. Robinson, Q. Cao, J.R. Prensner, A.K. Yocum et al.
+Characterization of KRAS rearrangements in metastatic prostate cancer
+Cancer Discov., 1 (2011), pp. 35–43
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Ward et al., 2010
+P.S. Ward, J. Patel, D.R. Wise, O. Abdel-Wahab, B.D. Bennett, H.A. Coller, J.R. Cross, V.R. Fantin, C.V. Hedvat, A.E. Perl et al.
+The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate
+Cancer Cell, 17 (2010), pp. 225–234
+
+Article |  PDF (799 K) | View Record in Scopus | Citing articles (412)
+Weinberg, 2010
+R. Weinberg
+Point: Hypotheses first
+Nature, 464 (2010), p. 678
+
+View Record in Scopus | Citing articles (35)
+Weir et al., 2007
+B.A. Weir, M.S. Woo, G. Getz, S. Perner, L. Ding, R. Beroukhim, W.M. Lin, M.A. Province, A. Kraja, L.A. Johnson et al.
+Characterizing the cancer genome in lung adenocarcinoma
+Nature, 450 (2007), pp. 893–898
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (542)
+Weisenberger et al., 2006
+D.J. Weisenberger, K.D. Siegmund, M. Campan, J. Young, T.I. Long, M.A. Faasse, G.H. Kang, M. Widschwendter, D. Weener, D. Buchanan et al.
+CpG island methylator phenotype underlies sporadic microsatellite instability and is tightly associated with BRAF mutation in colorectal cancer
+Nat. Genet., 38 (2006), pp. 787–793
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (740)
+Weiss et al., 2010
+J. Weiss, M.L. Sos, D. Seidel, M. Peifer, T. Zander, J.M. Heuckmann, R.T. Ullrich, R. Menon, S. Maier, A. Soltermann et al.
+Frequent and focal FGFR1 amplification associates with therapeutically tractable FGFR1 dependency in squamous cell lung cancer
+Sci. Transl. Med., 2 (2010) 62ra93
+
+Weng et al., 2004
+A.P. Weng, A.A. Ferrando, W. Lee, J.P. Morris 4th, L.B. Silverman, C. Sanchez-Irizarry, S.C. Blacklow, A.T. Look, J.C. Aster
+Activating mutations of NOTCH1 in human T cell acute lymphoblastic leukemia
+Science, 306 (2004), pp. 269–271
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1093)
+Whittaker et al., 2013
+S.R. Whittaker, J.P. Theurillat, E. Van Allen, N. Wagle, J. Hsiao, G.S. Cowley, D. Schadendorf, D.E. Root, L.A. Garraway
+A genome-scale RNA interference screen implicates NF1 loss in resistance to RAF inhibition
+Cancer Discov. (2013) http://dx.doi.org/10.1158/2159-8290 Published online January 3, 2013
+
+Wiegand et al., 2010
+K.C. Wiegand, S.P. Shah, O.M. Al-Agha, Y. Zhao, K. Tse, T. Zeng, J. Senz, M.K. McConechy, M.S. Anglesio, S.E. Kalloger et al.
+ARID1A mutations in endometriosis-associated ovarian carcinomas
+N. Engl. J. Med., 363 (2010), pp. 1532–1543
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (352)
+Williams et al., 2011
+S.E. Williams, S. Beronja, H.A. Pasolli, E. Fuchs
+Asymmetric cell divisions promote Notch-dependent epidermal differentiation
+Nature, 470 (2011), pp. 353–358
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+Wilson and Roberts, 2011
+B.G. Wilson, C.W. Roberts
+SWI/SNF nucleosome remodellers and cancer
+Nat. Rev. Cancer, 11 (2011), pp. 481–492
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (173)
+Wood et al., 2007
+L.D. Wood, D.W. Parsons, S. Jones, J. Lin, T. Sjöblom, R.J. Leary, D. Shen, S.M. Boca, T. Barber, J. Ptak et al.
+The genomic landscapes of human breast and colorectal cancers
+Science, 318 (2007), pp. 1108–1113
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1427)
+Xu et al., 2011
+W. Xu, H. Yang, Y. Liu, P. Wang, S.H. Kim, S. Ito, C. Yang, P. Wang, M.T. Xiao, L.X. Liu et al.
+Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of α-ketoglutarate-dependent dioxygenases
+Cancer Cell, 19 (2011), pp. 17–30
+
+Article |  PDF (2181 K) | View Record in Scopus | Citing articles (365)
+Xu et al., 2012
+X. Xu, Y. Hou, X. Yin, L. Bao, A. Tang, L. Song, F. Li, S. Tsang, K. Wu, H. Wu et al.
+Single-cell exome sequencing reveals single-nucleotide mutation characteristics of a kidney tumor
+Cell, 148 (2012), pp. 886–895
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (126)
+Yan et al., 2009
+H. Yan, D.W. Parsons, G. Jin, R. McLendon, B.A. Rasheed, W. Yuan, I. Kos, I. Batinic-Haberle, S. Jones, G.J. Riggins et al.
+IDH1 and IDH2 mutations in gliomas
+N. Engl. J. Med., 360 (2009), pp. 765–773
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1117)
+Yoshida et al., 2011
+K. Yoshida, M. Sanada, Y. Shiraishi, D. Nowak, Y. Nagata, R. Yamamoto, Y. Sato, A. Sato-Otsubo, A. Kon, M. Nagasaki et al.
+Frequent pathway mutations of splicing machinery in myelodysplasia
+Nature, 478 (2011), pp. 64–69
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (294)
+Zang et al., 2012
+Z.J. Zang, I. Cutcutache, S.L. Poon, S.L. Zhang, J.R. McPherson, J. Tao, V. Rajasegaran, H.L. Heng, N. Deng, A. Gan et al.
+Exome sequencing of gastric adenocarcinoma identifies recurrent somatic mutations in cell adhesion and chromatin remodeling genes
+Nat. Genet., 44 (2012), pp. 570–574
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+Zong et al., 2012
+C. Zong, S. Lu, A.R. Chapman, X.S. Xie
+Genome-wide detection of single-nucleotide and copy-number variations of a single human cell
+Science, 338 (2012), pp. 1622–1626
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (65)
+Corresponding author contact information
+Corresponding author

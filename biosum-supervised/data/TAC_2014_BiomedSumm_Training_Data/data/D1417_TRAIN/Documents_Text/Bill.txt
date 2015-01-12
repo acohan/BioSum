@@ -1,0 +1,557 @@
+﻿Cytohesins Are Cytoplasmic ErbB Receptor Activators
+Anke Bill1, 8, Anton Schmitz1, 8, Barbara Albertoni1, Jin-Na Song1, Lukas C. Heukamp2, David Walrafen3, Franziska Thorwirth4, Peter J. Verveer4, Sebastian Zimmer2, Lisa Meffert2, Arne Schreiber3, Sampurna Chatterjee5, Roman K. Thomas5, 6, 7, Roland T. Ullrich5, Thorsten Lang3, Michael Famulok1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2010.09.011
+Under an Elsevier user license
+  Open Archive
+Summary
+Signaling by ErbB receptors requires the activation of their cytoplasmic kinase domains, which is initiated by ligand binding to the receptor ectodomains. Cytoplasmic factors contributing to the activation are unknown. Here we identify members of the cytohesin protein family as such factors. Cytohesin inhibition decreased ErbB receptor autophosphorylation and signaling, whereas cytohesin overexpression stimulated receptor activation. Monitoring epidermal growth factor receptor (EGFR) conformation by anisotropy microscopy together with cell-free reconstitution of cytohesin-dependent receptor autophosphorylation indicate that cytohesins facilitate conformational rearrangements in the intracellular domains of dimerized receptors. Consistent with cytohesins playing a prominent role in ErbB receptor signaling, we found that cytohesin overexpression correlated with EGF signaling pathway activation in human lung adenocarcinomas. Chemical inhibition of cytohesins resulted in reduced proliferation of EGFR-dependent lung cancer cells in vitro and in vivo. Our results establish cytohesins as cytoplasmic conformational activators of ErbB receptors that are of pathophysiological relevance.
+
+Graphical Abstract
+Full-size image (33 K)
+Figure options
+Highlights
+► Cytohesin/ARNO enhances ErbB receptor (ErbBR) autophosphorylation and signaling ► Cytohesins rearrange the conformation of ErbBR intracellular domains ► Elevated cytohesin levels in human lung tumors correlate with EGF pathway activation ► Cytohesin inhibitor SecinH3 reduces ErbBR-dependent cancer cell proliferation in mice
+
+Author Keywords
+SIGNALING; HUMDISEASE
+Introduction
+ErbB receptors are key regulators of cell differentiation, survival, proliferation, and migration, and aberrant ErbB receptor function is a hallmark of many human cancers (Fischer et al., 2003 and Bublil and Yarden, 2007). The ErbB receptor family is comprised of four members, the epidermal growth factor receptor (EGFR/ErbB1), Her2/ErbB2, Her3/ErbB3, and ErbB4. Signaling is initiated by growth factor binding to the extracellular domains of the ErbB receptors. The ligand-induced conformational change in the receptor ectodomains results in the association of the cytoplasmic tyrosine kinase domains of two receptor molecules. This association has been considered to be sufficient for releasing the default autoinhibited state of the kinase domains (Ferguson, 2008 and Bose and Zhang, 2009). However, the picture appears to be more complex as only a fraction of the dimerized ErbB receptors are catalytically active (Gadella and Jovin, 1995, Moriki et al., 2001 and Cui et al., 2002), and because receptor dimerization seems to occur continuously and reversibly even in the absence of ligand (Chung et al., 2010). Recent crystallographic studies indicate that catalytic activity may be restricted to dimers that show a special arrangement of the kinase domains, the so-called asymmetric dimers (Zhang et al., 2006, Qiu et al., 2008, Jura et al., 2009 and Red Brewer et al., 2009). However, determinants defining the fraction of active dimers that form within the entire population of dimerized receptors remain elusive. This fraction may simply depend on the rate of the spontaneous conversion from the symmetric to the asymmetric dimer. Alternatively, the fraction of active dimers may not simply be defined by receptor-inherent properties alone or by an equilibrium between the two receptor dimer populations but be modulated by cytoplasmic activator proteins. Such activators would endow the cell with the possibility to fine-tune the number of actively signaling receptors within a given pool of ligand-occupied receptors according to cellular needs. However, cytoplasmic activators of ErbB receptors have not yet been identified.
+
+Here, we report cytohesins as cytoplasmic ErbB receptor activators. The cytohesin family consists of four highly homologous members, including ubiquitously expressed cytohesin-1, cytohesin-2 (ARNO), cytohesin-3 (Grp1), and cytohesin-4, which is exclusively found in cells of the immune system (Kolanus, 2007). Cytohesins are guanine nucleotide exchange factors (GEFs) for ADP ribosylation factors (ARFs) that belong to the family of small Ras-like GTPases. As in the case of other small GTPases, ARF function critically depends on activation by GEFs (Bos et al., 2007). Thus, because ARFs are involved in controlling cytoskeletal dynamics, cell migration, vesicular traffic, and signaling (Casanova, 2007 and Kolanus, 2007), cytohesins are important regulators of these processes.
+
+We show that cytohesins enhance EGFR activation by directly interacting with the cytoplasmic domains of dimerized receptors and by facilitating conformational rearrangements of these domains. Chemical inhibition and knockdown of cytohesins reduce EGFR activation, whereas cytohesin overexpression has the opposite effect. Our results strongly suggest that EGF and cytohesins concertedly determine the degree of EGFR activation. We propose that whereas EGF exhibits its known function from the extracellular side, namely to relieve the autoinhibition of the unliganded receptor, cytohesins function to adjust EGFR signaling from the cytoplasmic side by increasing the number of EGFR dimers having the active, catalytically competent conformation within the reservoir of ligand-bound EGFR dimers. This model is further supported by the finding that cytohesin expression levels in human tumors correlate with EGFR activation and signaling and that the chemical inhibition of cytohesins reduces cell proliferation in vitro and tumor growth in mice. Thus, cytohesins are introduced as intracellular EGFR activators that are relevant in the pathophysiology of certain cancers.
+
+Results
+Chemical Inhibition and Knockdown of Cytohesins Reduce ErbB Receptor Signaling
+To test whether cytohesins are involved in ErbB receptor signaling, we used the specific cytohesin antagonist SecinH3 (Hafner et al., 2006 and Bi et al., 2008). For this purpose, EGFR-expressing human lung adenocarcinoma-derived H460 cells were stimulated with EGF in the presence of SecinH3. Using autophosphorylation as a readout, we observed that SecinH3-treated cells showed an about 50% inhibition of EGFR activation (Figure 1A). The inhibitory effect was also found at the level of the adaptor proteins IRS1 and Shc and of the downstream kinases p44/42 (Erk1/Erk2). A control compound (XH1009) that is structurally related to SecinH3 but does neither bind nor inhibit cytohesins (Bi et al., 2008) had no effect on EGFR activation and signaling (Figure S1A available online). To obtain SecinH3-independent evidence, the cytohesin-specific aptamer M69 (Mayer et al., 2001) or cytohesin-specific siRNAs were used. Inhibition of EGFR activation was observed in both experiments (Figures S1B and S1C). The re-expression of cytohesin-2/ARNO in siRNA-treated cells rescued the effect of ARNO knockdown on EGFR autophosphorylation (Figure S2A, lanes 4 and 6).
+
+Full-size image (63 K)
+Figure 1. 
+Cytohesins Enhance Activation of ErbB Receptors
+(A and B) The cytohesin inhibitor SecinH3 reduces ErbB receptor signaling. Western blot analysis of H460 (A) or SkBr3 (B) cells treated with SecinH3 or solvent and stimulated with EGF or heregulin (HRG), respectively, is shown. Phosphorylation of the indicated proteins was determined by immunodetection using phosphospecific antibodies. Heat shock cognate protein 70 (Hsc70) served as loading control. The diagrams show relative phosphorylation levels after normalization for Hsc70. The untreated ligand-stimulated cells were set as 1 (n = 6).
+(C and D) Overexpression of the cytohesin ARNO enhances ErbB receptor autophosphorylation. H460 (C) or SkBr3 (D) cells were transfected with increasing amounts of FLAG-tagged ARNO and stimulated with ligand. Receptor autophosphorylation was analyzed as above (n = 3).
+Data are represented as mean ± SEM. See Figure S1 for further information.
+Figure options
+Full-size image (104 K)
+Figure S1. 
+Inhibition of Cytohesins Decreases ErbB Receptor Signaling, Related to Figure 1
+(A and D) Western blot analysis of H460 cells (A) or SkBr3 (D) cells treated with solvent, SecinH3 or the SecinH3-related but inactive control compound XH1009 and stimulated with EGF or heregulin, respectively. The phosphorylation of the indicated proteins was analyzed using phosphospecific antibodies. Hsc70 served as loading control.
+(B and E) Cytohesin-specific aptamer M69 reduces ErbB receptor autophosphorylation. H460 (B) or SkBr3 (E) cells were transfected with increasing concentrations of the cytohesin-specific aptamer M69, stimulated with EGF or heregulin, respectively, and analyzed as above.
+(C and F) Knockdown of cytohesins reduces ErbB receptor autophosphorylation. H460 (C) or SkBr3 (F) cells were transfected with cytohesin-specific siRNAs, stimulated with EGF or heregulin, respectively, and analyzed as above. The diagrams depict phosphorylation after normalization for Hsc70 (n = 4). SecinH3-treated cells are shown in white for comparison.
+(G and H) Knockdown efficiency of the different siRNAs was determined by quantitative RT-PCR in H460 (G) or SkBr3 (H) cells. ns: nonsilencing siRNA.
+Figure options
+Full-size image (41 K)
+Figure S2. 
+Activation of ErbB Receptors by ARNO Is Independent of Its GEF Activity, Related to Figure 2
+(A) Re-expression of ARNO or the GEF-inactive ARNO-E156K rescues the effect of ARNO knockdown on EGFR autophosphorylation. H460 cells were transfected with ARNO-specific siRNA and increasing amounts (+ or ++) of plasmid encoding ARNO or ARNO-E156K. EGFR autophosphorylation was detected using a phosphospecific antibody. Hsc70 served as a loading control. empty: empty vector, ns: nonsilencing siRNA. The lower band in the ARNO blot represents a nonspecific cross-reactivity of the antibody, ARNO is the upper band.
+(B) Knockdown of ARF-1or ARF-6 does not inhibit EGFR autophosphorylation. H460 cells were transfected with ARF-1 or ARF-6 specific siRNAs, stimulated with EGF and receptor autophosphorylation was analyzed with phosphospecific antibodies. ARF knockdown was verified by immunodetection.
+(C) Knockdown of ARF-1or ARF-6 does not inhibit Her3 autophosphorylation. After knockdown of ARF-1 or ARF-6 with specific siRNAs, SkBr3 cells were stimulated with heregulin (HRG) and analyzed as above.
+Figure options
+We then analyzed whether cytohesins also affected the signaling of Her2 and Her3, two other members of the ErbB receptor family forming a heterodimer. When Her2/Her3-expressing human breast adenocarcinoma-derived SkBr3 cells were treated with heregulin, SecinH3 reduced the phosphorylation of Her3 by about 50% (Figure 1B). This reduction in Her3 activation was mirrored in reduced activation of the adaptor protein IRS1 and the downstream kinases Akt and p44/42. The control compound XH1009 had no inhibitory effect (Figure S1D). Again, the involvement of cytohesins in the activation of Her3 was confirmed by the aptamer M69 and by cytohesin-specific siRNAs (Figures S1E and S1F).
+
+Overexpression of ARNO Enhances EGFR Activation
+Having shown that cytohesin inhibition and knockdown reduce ErbB signaling, we asked whether overexpression of cytohesins leads to an enhancement of EGF-stimulated EGFR activation. For this analysis we have selected ARNO, which shows in both H460 and SkBr3 cells higher expression than cytohesin-1 and -3 (data not shown). When ARNO-transfected H460 cells were stimulated with EGF, an ARNO-dependent increase in receptor activation could be detected (Figure 1C). The same result was seen in the Her2/Her3-expressing SkBr3 cells (Figure 1D). These data show that ARNO, when overexpressed, enhances the ligand-dependent activation of ErbB family members.
+
+ARNO Enhances EGFR Activation Independently of Its GEF Activity
+The known function of ARNO is to act as a GEF on ARF proteins. To analyze whether the GEF activity was also required for the activation of the EGFR we made use of the GEF-inactive ARNO mutant ARNO-E156K (Cherfils et al., 1998). Unexpectedly, overexpressed wild-type ARNO and ARNO-E156K were equally potent in enhancing EGFR autophosphorylation (Figure 2A). The ability of ARNO-E156K to enhance EGFR activation was not due to its overexpression as ARNO-E156K expressed at endogenous protein level rescued the inhibition of EGFR autophosphorylation induced by knockdown of endogenous ARNO (Figure S2A, lanes 5 and 7). The mutant also stimulated Her2/Her3 autophosphorylation (Figure 2B), suggesting that the GEF activity is not required for the ARNO-mediated activation of ErbB receptors. To substantiate this observation, we reduced the expression of ARF1 or ARF6 by RNA interference. Neither the knockdown of ARF1 nor that of ARF6 had an influence on the activation of the EGFR (Figure S2B) or Her2/Her3 (Figure S2C). These results indicate that the cytohesin-mediated activation of ErbB receptors does not involve these ARF proteins, nor does it require the GEF function of the Sec7 domain, and thus implicate a hitherto unknown GEF-independent function of ARNO.
+
+Full-size image (33 K)
+Figure 2. 
+The Sec7 Domain Enhances the Autophosphorylation of ErbB Receptors Independently of Its GEF Activity
+(A and B) GEF-inactive ARNO enhances ErbB receptor autophosphorylation. Shown is western blot analysis of protein lysates prepared from H460 (A) or SkBr3 (B) cells transfected with FLAG-tagged wild-type ARNO or GEF-inactive ARNO-E156K. Cells were stimulated with EGF or heregulin (HRG) and receptor autophosphorylation was analyzed with phosphospecific antibodies.
+(C) The Sec7 domain is sufficient for EGFR activation. H460 cells were transfected with full-length ARNO (FL), with ARNO lacking the coiled-coil (ΔCC) or the pleckstrin homology (ΔPH) domain, or with the isolated Sec7 domain (Sec7). Autophosphorylation of the EGFR was determined as above.
+See Figure S2 for further information.
+Figure options
+As SecinH3 targets the Sec7 domain of the cytohesins (Hafner et al., 2006 and Bi et al., 2008), we asked whether this domain was sufficient for EGFR activation or whether cytohesins' pleckstrin-homology (PH) and/or coiled-coil (CC) domains were also required (Lim et al., 2010). Deletion studies showed that ARNO's Sec7 domain stimulated EGFR autophosphorylation as well as the full-length protein (Figure 2C), attributing the EGFR-activating capability of the cytohesins to this domain.
+
+ARNO Acts on Dimerized Receptors
+Depending on determinants that are as yet incompletely understood, ErbB receptor activation by growth factor ligands may (Nagy et al., 1999) or may not (Abulrob et al., 2010) be accompanied by receptor clustering. As the enhancement of EGFR activation by cytohesins could be due to an effect of cytohesins on EGFR clustering, we examined by superresolution light microscopy (Hell and Wichmann, 1994) whether ARNO was involved in the EGF-dependent EGFR clustering. We found a slight increase in the measured EGFR cluster size upon EGF stimulation, which was not affected by SecinH3 (Figure 3A and Figures S3B and S3C), indicating that the reduction of EGFR signaling observed after cytohesin inhibition is not a result of alterations in cluster size at the observed ∼100 nm scale.
+
+Full-size image (48 K)
+Figure 3. 
+Cytohesins Enhance the Phosphorylation but Not the Dimerization of EGFR
+(A) Cytohesins do not alter EGFR cluster size at the observed ∼100 nm scale. SecinH3-treated or untreated H460 cells were stimulated with EGF, and EGFR cluster sizes were determined by STED microscopy on plasma membrane sheets. Each condition in each experiment (n = 3) includes 105–480 clusters measured from 10–12 membrane sheets. ∗p < 0.05.
+(B) SecinH3 does not affect EGF-triggered internalization of EGFR. SecinH3-treated or untreated H460 cells were stimulated with EGF and the EGFR remaining at the plasma membrane was quantified on plasma membrane sheets by immunofluorescence microscopy. Statistical evaluation was of three independent experiments each comprising the analysis of 26–66 membrane sheets per condition.
+(C–F) Cytohesins enhance phosphorylation of ErbB dimers. H460 (C and D) or SkBr3 (E and F) cells were either treated with SecinH3 (C and E) or transfected with ARNO (D and F), stimulated with ligand for 5 min and chemically crosslinked. Receptor phosphorylation was analyzed by phosphospecific antibodies. Arrows indicate receptor dimers. Diagrams show the phosphorylation of the crosslinked, i.e., dimeric, receptors only after normalization for total dimeric receptor (n = 9 for SecinH3 treatment, n = 5 for ARNO overexpression).
+Data are represented as mean ± SEM. See Figure S3 for further information.
+Figure options
+Full-size image (69 K)
+Figure S3. 
+SecinH3 Does Not Alter EGF-Triggered Internalization or Cluster Size of EGFR, Related to Figure 3
+(A) Representative images of immunofluorescence microscopy analysis of plasma membrane sheets. Internalization of the EGFR was stimulated for 5 min with EGF in SecinH3-treated or solvent-treated cells and the EGFR remaining at the plasma membrane was visualized by immunofluorescence microscopy of plasma membrane sheets. Upper panels (shown at different contrasts): TMA-DPH stains phospholipids thereby visualizing the plasma membrane. Lower panels: immunostaining of EGFR at the plasma membrane.
+(B) Representative images of STED microscopy analysis of plasma membrane sheets. Membrane sheets were generated from unstimulated cells, cells stimulated for 5 min with EGF or cells pretreated overnight with SecinH3 before stimulation with EGF. Membrane sheets were stained with anti-EGFR antibody and analyzed by STED microscopy. White Boxes indicate regions shown as magnified views in the lower panel. The red box indicates an individual cluster analyzed in (C).
+(C) Exemplary analysis of EGFR cluster size by STED microscopy. 3-pixel (1 pixel equates to 20.22 nm) broad linescans were placed through the centers of individual EGFR clusters (for example, see left) and a Gaussian function (black trace) was fitted to the signal intensity distribution (red) and full width at half maximum (corresponding to the cluster size) was determined (right).
+Figure options
+Cytohesins are involved in endocytosis (D'Souza-Schorey and Chavrier, 2006) and thus could augment EGFR activation indirectly by modulating the endocytosis or degradation of the EGFR. However, quantification of the EGFR at the plasma membrane after EGF stimulation revealed no difference between untreated and SecinH3-treated cells, arguing against this assumption (Figure 3B and Figure S3A). Generally, EGFR activation by EGF enhances receptor endocytosis (Sorkin and Goh, 2008) and thus might lead to the assumption that the reduced EGFR activation after cytohesin inhibition would slow down EGFR endocytosis. However, recently, it was shown that receptor dimerization and not receptor activity is a prerequisite for endocytosis (Wang et al., 2005). Therefore, our finding that SecinH3 treatment does not reduce receptor internalization suggests that EGFR dimerization does not depend on cytohesins.
+
+To analyze the effect of cytohesins on receptor dimerization more directly, H460 cells were preincubated with SecinH3, stimulated, and treated with crosslinker to trap dimeric receptors. Cytohesin inhibition did not affect receptor dimerization but reduced the phosphorylation of the dimerized receptors (Figure 3C). Consistently, ARNO overexpression led to increased phosphorylation of EGFR dimers, whereas it had no effect on receptor dimerization (Figure 3D). The same results were obtained for Her2/Her3 receptors in SkBr3 cells (Figures 3E and 3F). These data suggest that ARNO facilitates the activation of already dimerized ErbB receptors.
+
+To obtain further evidence for this assumption, we analyzed directly whether ARNO acts on dimeric receptors. A constitutively dimerized EGFR (lz-EGFR; Figure 4A) was constructed by replacing the extracellular domain of the receptor with a dimerization module consisting of a leucine zipper and a single cysteine residue that forms a disulfide bridge upon dimerization (Stuhlmann-Laeisz et al., 2006). When the lz-EGFR was expressed in HEK293 cells it was found exclusively as a dimer (Figure S4A, upper panel). Consistent with its constitutive dimerization, lz-EGFR was phosphorylated (Figure S4A, lower panel). To test whether the activation of the lz-EGFR kinase domain was dependent on the formation of the asymmetric dimer, the effect of MIG6 on the autophosphorylation of the lz-EGFR was analyzed. MIG6 inhibits receptor autophosphorylation by preventing the formation of the active asymmetric EGFR dimer (Zhang et al., 2007). Coexpression of the EGFR-binding domain of MIG6 (MIG6-EBR), which is sufficient to inhibit EGFR signaling (Anastasi et al., 2007), reduced lz-EGFR receptor autophosphorylation, suggesting that the activation of the lz-EGFR depends on the formation of the asymmetric dimer (Figure S4B). Thus, regarding the allosteric activation of the kinase domains, the lz-EGFR appears to behave like an authentic EGFR. Therefore, the lz-EGFR is a suitable model to ask whether ARNO enhances the activation of the EGFR kinase after its dimerization. To address this question, ARNO activity was modulated in lz-EGFR-expressing cells. In the presence of SecinH3, the autophosphorylation of lz-EGFR was reduced (Figure 4B). The control compound XH1009 had no effect (Figure S4C). Consistently, overexpression of ARNO in these cells led to an increased autophosphorylation of lz-EGFR (Figure 4C). These data provide strong evidence for the hypothesis that ARNO enhances the activation of already dimerized EGFR, possibly by facilitating conformational rearrangements.
+
+Full-size image (61 K)
+Figure 4. 
+Cytohesins Facilitate a Conformational Rearrangement of the Intracellular Domains of EGFR Dimers
+(A) Schematic of the constitutively dimerized lz-EGFR. The extracellular domain of EGFR was replaced by a Flag-tagged disulfide-bridged leucine zipper dimerization module.
+(B and C) ARNO enhances the autophosphorlyation of lz-EGFR. Shown are western blot analyses of HEK293 cells transfected with lz-EGFR and treated with SecinH3 (B) or cotransfected with ARNO (C). The phosphorylation of lz-EGFR was analyzed by phosphospecific antibodies (p-lz-EGFR). Diagrams show receptor phosphorylation after normalization for total receptor (n = 5). The double bands in the FLAG blots correspond to unphosphorylated (lower) and phosphorylated (upper) lz-EGFR.
+(D) ARNO facilitates a conformational rearrangement of the intracellular domains of constitutively dimerized EGFR. For fluorescence anisotropy microscopy, the C termini of both EGFR molecules in lz-EGFR were tagged with mCitrine (lz-EGFR-mCitrine). COS-7 cells were cotransfected with lz-EGFR-mCitrine and empty vector (left) or together with increasing amounts of ARNO (middle and right). Homo-FRET between the two mCitrine moieties was determined by steady-state fluorescence anisotropy microscopy. The diagram shows the statistic evaluation of five experiments, each covering 25 fields of view with 1–4 cells.
+Data are represented as mean ± SEM. See Figure S4 for further information.
+Figure options
+Full-size image (60 K)
+Figure S4. 
+Characterization of lz-EGFR Constructs, Related to Figure 4
+(A) lz-EGFR is a constitutive dimer. HEK293 cells were transfected with increasing amounts of lz-EGFR (+ and ++) or empty vector (−). Proteins were separated by reducing or non-reducing SDS-PAGE and lz-EGFR was detected by anti-FLAG antibody. The arrow indicates receptor dimers, the arrowheads monomers. The double bands under reducing conditions correspond to unphosphorylated (lower) and phosphorylated (upper) lz-EGFR. Under nonreducing conditions the two forms are not separated. The nonreducing gel shows that lz-EGFR exists exclusively as a dimerized molecule in the cells.
+(B) MIG6 inhibits the autophosphorylation of lz-EGFR. HEK293 cells were transfected with lz-EGFR alone or in combination with a myc-tagged form of the EGFR-binding region of MIG6 (MIG6-EBR). Proteins were separated by reducing SDS-PAGE, lz-EGFR was detected by anti-FLAG antibody, MIG6-EBR by anti-myc antibody and the phosphorylation of lz-EGFR by a phosphospecific antibody. Hsc70 served as a loading control.
+(C) Western blot analysis of HEK293 cells transfected with lz-EGFR and treated with solvent, SecinH3 or the SecinH3-related but inactive control compound XH1009. Proteins were detected as above.
+(D) lz-EGFR-mCitrine is constitutively dimerized and phosphorylated. COS-7 cells were transfected with lz-EGFR C-terminally tagged with mCitrine (lz-EGFR-mCitrine), or empty vector under the same conditions as used for anisotropy measurements. Proteins were separated by reducing or nonreducing SDS-PAGE. lz-EGFR-mCitrine was detected by anti-EGFR antibody and by a phosphospecific antibody. The arrows indicate receptor dimers, the arrowheads monomers. The nonreducing gel shows that lz-EGFR-mCitrine exists exclusively as a dimerized molecule in the cells. The asterisk indicates endogenous EGFR.
+(E) Steady-state fluorescence anisotropy microscopy of lz-EGFR-mCitrine. Representative micrographs of COS7 cells transfected with lz-EGFR-mCitrine alone (left) or together with MIG6-EBR (right, upper) or Rheb (right, lower). Whereas MIG6-EBR is known to prevent the formation of the asymmetric EGFR dimer Rheb is not involved in EGFR signaling. The diagram shows the statistical evaluation of 5 experiments (n = 25 fields of view with 1–4 cells each).
+Figure options
+ARNO Facilitates a Conformational Rearrangement of the Cytoplasmic Domains of the Dimerized EGFR
+To visualize conformational changes of the EGFR cytoplasmic domains in living cells we tagged each molecule in the dimeric lz-EGFR at the C terminus with the fluorescent protein mCitrine (lz-EGFR-mCitrine). Like the untagged lz-EGFR, the fusion protein was constitutively dimerized and autophosphorylated (Figure S4D) and reached the plasma membrane, as visualized by fluorescence microscopy on plasma membrane sheets (data not shown), demonstrating that the mCitrine did not perturb receptor function. Changes in the positions of the two mCitrine moieties relative to each other result in changes in the fluorescence resonance energy transfer between these proteins (homo-FRET). The efficiency of homo-FRET, which is exquisitely sensitive to both the distance and the orientation of the fluorophores, can be determined by measuring the steady-state fluorescence anisotropy of the cells (Squire et al., 2004). This technique has recently been used to monitor conformational changes in the neurotrophin receptor (Vilar et al., 2009). To test whether it is also suited to detect conformational changes in the EGFR cytoplasmic domains, we expressed lz-EGFR-mCitrine in COS-7 cells either alone, together with MIG6, or together with Rheb. Whereas MIG6 is expected to change the steady-state fluorescence anisotropy of lz-EGFR-mCitrine, Rheb, which is not involved in EGFR signaling, should have no effect. As expected, coexpression of MIG6-EBR led to a change in the steady-state fluorescence anisotropy of lz-EGFR-mCitrine whereas coexpression of Rheb did not (Figure S4E). Thus, anisotropy measurements are suited to detect differences in lz-EGFR-mCitrine conformation. To detect ARNO-dependent conformational changes in the EGFR cytoplasmic domains, lz-EGFR-mCitrine was expressed together with ARNO. The coexpression of ARNO led to a decrease in anisotropy as compared to lz-EGFR-mCitrine alone (Figure 4D). As ARNO neither changed the fluorescence anisotropy of lz-mCitrine (which does not contain the EGFR cytoplasmic domain) nor the fluorescence lifetime of lz-EGFR-mCitrine (data not shown), these results indicate that ARNO coexpression resulted in an altered conformation of the cytoplasmic domains of the EGFR dimer. Although the geometries of the EGFR dimers in the EGFR-ARNO and EGFR-MIG6 complexes are expected to be different, we found in both cases a decrease in fluorescence anisotropy. At first view, these results seem mutually contradictory as it might intuitively be anticipated that changes in anisotropy produced by an inhibitor would oppose those of an activator. It should be noted, however, that anisotropy depends on both the distance and the relative orientation of the fluorophores. Therefore, even if the anisotropy is equal in two situations the underlying geometry can be quite different. Although a specific conformation thus cannot be deduced from a certain value of anisotropy, a change in anisotropy is a reliable indicator for a change in geometry (Vilar et al., 2009). Together with the analysis of receptor crosslinking and phosphorylation, these results support the hypothesis that ARNO enhances receptor activation by facilitating a conformational rearrangement of the cytoplasmic domains of the dimerized EGFR.
+
+Cell-free Reconstitution of ARNO-Dependent EGFR Activation
+ARNO's function as a conformational activator of the EGFR implies ARNO and the EGFR to physically interact. Immunofluorescence microscopy of plasma membrane sheets showed that ARNO and the EGFR colocalize in H460 cells (Figure 5A). Moreover, coimmunoprecipitation of ARNO and the EGFR indicated complex formation between the two proteins (Figure 5B). To gain evidence for direct interaction of ARNO and the cytoplasmic domain of the EGFR, a cell-free reconstitution system was used. The complete cytoplasmic domain of the EGFR (EGFR-ICD) and ARNO were heterologously expressed (Figures S5A and S5B), and the interaction of the purified, FITC-labeled proteins was analyzed by fluorescence anisotropy measurements (Figure 5C). Full-length ARNO, the isolated Sec7 domain, and the GEF-inactive Sec7-E156K bound to the EGFR-ICD with apparent dissociation constants around 1 μM. Segment 1 of MIG6-EBR (MIG6-S1), a known binding partner of the EGFR-ICD (Zhang et al., 2007), bound with a dissociation constant (KD) around 2 μM. No binding was observed between lysozyme and EGFR-ICD, nor did ARNO full-length or ARNO-Sec7 show binding to MIG6-S1 (Figure 5C), indicating that the observed binding is specific. EGFR-ICD lacking the C-terminal 188 amino acids (EGFR-ICD1022) bound to ARNO-Sec7 with the same affinity as the complete EGFR-ICD confining ARNO's binding site to the kinase or juxtamembrane domains of the EGFR. In agreement with ARNO functioning upstream of EGFR autophosphorylation, the binding of ARNO did not require phosphorylation of the EGFR-ICD (Figure S5C).
+
+Full-size image (75 K)
+Figure 5. 
+ARNO Stimulates Autophosphorylation of EGFR by Direct Interaction
+(A) ARNO colocalizes with EGFR. Plasma membrane sheets were immunostained for EGFR (red channel, left panels) and ARNO/cytohesin-1 (green channel, middle panels). Right panels show corresponding overlays. To quantify colocalization, circles were superimposed concentrically on selected spots in the red channel and transferred to identical pixel locations in the green channel. Continuous and dashed circles indicate positive and negative colocalization signals, respectively. 62% ± 5% of the EGFR spots were positive for ARNO (n = 3).
+(B) Coimmunoprecipitation of ARNO with EGFR. EGFR was immunoprecipitated from H460 cells with agarose-coupled anti-EGFR. Coprecipitated ARNO was detected by an ARNO-specific antibody. Agarose-coupled normal mouse IgG was used as control matrix.
+(C) ARNO interacts with the intracellular domain of the EGFR (EGFR-ICD) in vitro. The indicated protein was labeled with FITC and the unlabeled ligand was added at increasing concentrations. Binding was measured by fluorescence anisotropy. KD values were calculated assuming a 1:1 stoichiometry (n=4) and are given as mean ± SEM. n.b., no binding.
+(D) ARNO enhances autophosphorylation of EGFR-ICD. The indicated ARNO construct and EGFR-ICD were incubated in vitro. Autophosphorylation was initiated by addition of ATP. Samples were taken at the indicated time points and analyzed using antiphosphotyrosine antibody (pY). EGFR-ICD and ARNO constructs were detected with anti-His-antibody.
+See Figure S5 for further information.
+Figure options
+Full-size image (53 K)
+Figure S5. 
+Autophosphorylation of EGFR-ICD, Related to Figure 5
+(A) Coomassie stains of the proteins used in the cell-free binding and autophosphorylation experiments.
+(B) To exclude the possibility that EGFR-ICD aggregated during binding experiments which could confound the measurements, the reactions were separated into a soluble and a pellet fraction. When EGFR-ICD is aggregated by the addition of MnCl2 it is found in the pellet (data not shown). EGFR-ICD was found exclusively in the soluble fraction.
+(C) Interaction of ARNO-Sec7 and EGFR-ICD was measured by fluorescence anisotropy in the presence or absence of ATP. Addition of ATP results in autophosphorylation of EGFR-ICD as detected by immunoblotting. Binding of ARNO-Sec7 and EGFR-ICD was independent of the phosphorylation status of EGFR-ICD.
+(D) Autophosphorylation of EGFR-ICD in the presence of the indicated proteins was analyzed by immunoblotting. EGFR-ICD and ARNO were detected by anti-His antibody, phosphorylated EGFR-ICD by anti-pY antibody, MIG6-S1 and GST by anti-GST antibody. Whereas ARNO increased and MIG6 decreased the autophosphorylation of EGFR-ICD, GST had no influence on autophosphorylation of EGFR-ICD.
+Figure options
+Due to the presence of the juxtamembrane segment, EGFR-ICD forms a dimer resembling the intracellular domains of the ligand-bound EGFR (Jura et al., 2009) and thus can be used to analyze the autophosphorylation of the EGFR in a cell-free system. To test whether the conformational requirements for the activation of the authentic EGFR are preserved in EGFR-ICD, an autophosphorylation reaction of EGFR-ICD was performed in the presence of MIG6-S1, which inhibits the formation of the asymmetric dimer of the EGFR (Zhang et al., 2007). MIG6-S1 reduced the autophosphorylation of EGFR-ICD (Figure S5D), indicating that the activation of the EGFR-ICD kinase depends on the formation of the asymmetric dimer. Addition of GST had no effect (Figure S5D). When ARNO was added to an autophosphorylation reaction of EGFR-ICD, increased autophosphorylation was found (Figure 5D). A similar level of stimulation was seen when the isolated Sec7 domain or Sec7-E156K was added. Taken together with the data obtained in the cellular assays, these results strongly argue for cytohesins acting on the intracellular domains of dimerized EGFR as conformational activators.
+
+Cytohesin Overexpression Correlates with Enhanced EGFR Signaling in Human Lung Cancers
+Enhanced EGFR signaling is known to be a hallmark in many cancers. Having shown that ARNO enhances EGFR activation in H460 cells, we wondered whether ARNO or other cytohesins might be overexpressed in lung cancer. To address this question, we immunostained primary human lung adenocarcinomas with an antibody detecting ARNO and cytohesin-1. Whereas normal lung tissue showed only background or weak staining, 82% of the carcinomas showed moderate or strong ARNO/cytohesin-1 staining (Figure 6A), demonstrating cytohesin upregulation in a large fraction of lung adenocarcinomas. According to our in vitro data, increased cytohesin expression should result in enhanced EGFR autophosphorylation in these tumors. Indeed, we found a highly significant (p = 0.002) correlation between the expression level of ARNO/cytohesin-1 and the level of EGFR autophosphorylation (Figure 6B) in consecutive sections of tumor tissue. Immunofluorescence double-staining of phosphorylated EGFR and ARNO further supported this correlation (Figure S6). The increased EGFR phosphorylation was not due to overexpression of the receptor because total EGFR expression was independent of the ARNO/cytohesin-1 expression (p = 0.581). The phosphorylation of Akt (Figure 6C) and p44/42 (Erk1/Erk2) (Figure 6D) was also significantly correlated with higher ARNO/cytohesin-1 expression (p = 0.002 and p = 0.025, respectively), suggesting that the enhanced activation is not restricted to the EGFR itself but continues along these two major branches of the EGF signaling pathway.
+
+Full-size image (107 K)
+Figure 6. 
+High Expression Levels of ARNO/Cytohesin-1 Correlate with Increased EGFR Signaling in Human Lung Adenocarcinomas
+Consecutive sections of resected human lung adenocarcinomas were stained for ARNO/cytohesin-1 (A), pEGFR (B), pAkt (C), pp44/42 (D). Representative images of tumors with background (left column) or strong (right column) ARNO/cytohesin-1 expression are shown. The diagram in (A) shows the fraction of tumors with background (score 0), weak (score 1), moderate (score 2), or strong (score 3) staining for ARNO/cytohesin-1. The diagrams in (B)–(D) depict the phosphorylation levels of the respective protein in correlation to the cytohesin score (p = 0.002 for pEGFR, p = 0.002 for pAkt, p = 0.025 for pp44/42, n = 45).
+See Figure S6 for further information.
+Figure options
+Full-size image (88 K)
+Figure S6. 
+Coexpression of pEGFR and ARNO in Human Lung Adenocarcinoma, Related to Figure 6
+The same section of a resected human lung adenocarcinoma was double-stained for ARNO/cytohesin-1 (red, A) and pEGFR (green, B) and counterstained with DAPI (blue, C). An overlay of ARNO/cytohesin-1 and pEGFR (D) and a triple overlay including DAPI (E) are shown.
+Figure options
+SecinH3 Reduces Growth of EGFR-Dependent Lung Tumor Xenografts
+The strong expression of ARNO/cytohesin-1 in tumor tissue raised the question of whether cytohesins may, by enhanced EGFR signaling, promote the proliferation of the tumor cells. To test this possibility, the proliferation rate of the EGFR-dependent lung cancer cell line PC9 was determined in the presence or absence of SecinH3. Indeed, the inhibition of cytohesins led to a strong reduction of the proliferation of PC9 cells (Figure 7A). Because the inhibition of EGFR signaling in EGFR-dependent cells results in cell-cycle arrest and the induction of apoptosis (Sharma et al., 2007), we examined SecinH3-treated PC9 cells for cell-cycle arrest and apoptosis. We found an increase of cells in the G1 phase of the cell cycle and a concomitant decrease of cells in S and G2/M phases, indicative of SecinH3 inducing an arrest in G1 of the cell cycle (Figure 7B). Accordingly, Annexin V staining showed that SecinH3 treatment led to an increase of apoptotic cells (Figure 7C). To test whether SecinH3 treatment reduced tumor growth in vivo, tumor xenografts were generated by subcutaneous injection of PC9 cells into nude mice. Cell proliferation in the tumors was followed by [18F]-fluoro-L-thymidine uptake positron emission tomography ([18F]FLT PET) (Shields et al., 1998). The tumors in the SecinH3-treated mice showed significantly less uptake of [18F]FLT (Figure 7D), indicating reduced tumor growth. Further, immunohistochemical staining of the cell proliferation marker Ki-67 (Gerdes et al., 1983) in resected tumors confirmed reduced cell proliferation (Figure 7E), and TUNEL staining showed an increase in apoptotic cells in the tumors of SecinH3-treated animals (Figure 7F). Taken together, these data demonstrate that the chemical inhibition of cytohesins reduces the proliferation of EGFR-dependent tumor cells in vitro and in vivo.
+
+Full-size image (89 K)
+Figure 7. 
+SecinH3 Inhibits Growth of EGFR-Dependent Lung Tumor Xenografts
+(A) SecinH3 inhibits proliferation of PC9 cells. The diagram shows the relative cell number (MTT assay) after 72 hr treatment with SecinH3 or DMSO. The cell number in the solvent-treated samples was set to 1. ∗∗∗p < 0.001, n = 9.
+(B) SecinH3 induces G1 arrest in PC9 cells. PC9 cells were treated with SecinH3 or solvent for 24 hr, fixed, stained with TOPRO-3, and analyzed by flow cytometry. The diagram shows the percentage of cells in the indicated cell-cycle phases. ∗∗∗p < 0.001, n = 6.
+(C) SecinH3 induces apoptosis in PC9 cells. Annexin V FACS was performed after 48 hr treatment with SecinH3 or solvent. The diagram shows the percentage of apoptotic cells. ∗∗∗p < 0.001, n = 3.
+(D) [18F]FLT PET indicates response to SecinH3. Representative [18F]FLT PET images of mice bearing PC9 xenografts before and 7 days after treatment with SecinH3 or carrier (DMSO). ∗∗p < 0.01, n = 7.
+(E) SecinH3 decreases proliferation of PC9 xenografts. Ki-67 staining of PC9 xenograft tumors in nude mice after treatment with carrier or SecinH3 for 7 days.
+(F) SecinH3 induces apoptosis in PC9 xenografts. TUNEL assay of PC9 xenograft tumors in nude mice after treatment with carrier or SecinH3 for 7 days. The diagram shows the number of TUNEL-positive cells per high power microscopic field. Per treatment group, 10 representative fields were counted. ∗∗∗p < 0.001.
+Data are represented as mean ± SEM.
+Figure options
+Discussion
+In the present study, we identify cytohesins as ErbB receptor activators that enhance receptor activation by direct interaction with the cytoplasmic domain of the receptor. The importance of this kind of ErbB receptor activator is underlined by the findings that increased cytohesin expression correlates with increased EGFR activation and signaling in human lung cancers, and that the chemical inhibition of cytohesins reduces the proliferation of EGFR-dependent lung cancer cells in vitro and in mice. Except for Dok-7, cytoplasmic activators have not been described for any receptor tyrosine kinase. Dok-7 enhances the activity of the muscle-specific receptor kinase MuSK by dimerizing partially autophosphorylated and thus partially activated receptor monomers (Inoue et al., 2009 and Bergamin et al., 2010). In contrast, cytohesins do neither influence receptor dimerization nor require receptor autophosphorylation for binding but function as conformational activators of receptor dimers.
+
+From crystallographic, biochemical, and biophysical data it is becoming increasingly evident that EGFR dimerization and activation of the kinase domains are distinctly regulated and thoroughly balanced processes, but the mechanisms by which this balance is achieved are largely elusive. The fundamental model of EGFR activation held that the activation of the EGFR kinase results from the EGF-dependent dimerization of the receptor cytoplasmic domains (Yarden and Schlessinger, 1987). This model had to be extended when it was shown that the mere dimerization of the EGFR is not sufficient for activation (Gadella and Jovin, 1995, Moriki et al., 2001, Cui et al., 2002 and Chung et al., 2010). Recent crystallographic studies strongly suggest that only a subset of the dimers that adopt a distinct conformation called the asymmetric dimers, where one kinase acts as an allosteric activator for the other, are catalytically active (Zhang et al., 2006, Jura et al., 2009 and Red Brewer et al., 2009). Integration of these data into the prior model led to the currently prevailing model of EGFR activation according to which the activation of the EGFR kinase results from the intrinsic ability of the receptor kinase domains to form active (asymmetric) dimers as soon as they are released from their default autoinhibited state (Ferguson, 2008 and Bose and Zhang, 2009). The only activator required in this model is the ligand EGF, which binds to the ectodomain of the receptor and thereby induces and/or stabilizes the structural rearrangements that release the kinase domains from their autoinhibited state. Our finding that EGFR activation is enhanced by cytohesins both in cells and in a cell-free reconstitution system indicates that EGFR activation is likely not comprehensively explained by ligand-induced release from autoinhibition and the subsequent spontaneaus formation of the asymmetric dimer. The existence of cytoplasmic EGFR activators like cytohesins does not preclude receptor activation to occur in their absence as seen for EGFR-ICD in our cell-free autophosphorylation experiments and as seen for near-full length EGFR in experiments by others (Mi et al., 2008 and Qiu et al., 2009). Our results implicate, however, a further extension of the current model of EGFR activation to include additional layers of regulation.
+
+Indeed, in a cellular context, the transition from the inactive symmetric to the active asymmetric dimer represents a stage where additional layers of modulation of receptor activation, inhibitory as well as stimulatory, might come into play. Recently, MIG6 was identified as an inhibitor of EGFR signaling (Ferby et al., 2006, Anastasi et al., 2007 and Reschke et al., 2009) that acts by blocking the formation of the asymmetric dimer (Zhang et al., 2007), indicating that a layer of negative regulation appears actually implemented. Cytohesins represent an example of a class of EGFR activators that may form a layer of positive regulation by facilitating the structural rearrangements required to convert the receptor dimer into its active conformation. It is important to point out that the existence of cytoplasmic EGFR activators does not abolish ligand dependency of receptor activation because the autoinhibition that is imposed by the extracellular domains on the kinase domain (Zhu et al., 2003) still has to be released by ligand binding. Such activators do, however, allow the cell to modulate, for a given amount of ligand-bound receptor, the number of activated receptors according to cellular needs.
+
+On the other hand, dysregulation of cytoplasmic EGFR activators like the cytohesin ARNO might result in inappropriately activated EGFR signaling. Enhanced EGFR signaling is a characteristic feature of several cancers including non-small cell lung cancers (Gazdar, 2009). Cancer cells that critically depend on a specific signaling molecule for growth and survival are addicted to that oncogene (Weinstein, 2002), and those lung cancers that respond to EGFR tyrosine kinase inhibitor therapy are addicted to EGFR (Sharma et al., 2007). The majority of these tumors have either upregulated or mutant EGFR (Lynch et al., 2004, Paez et al., 2004 and Pao et al., 2004). Nevertheless, a significant fraction of lung cancers with apparently normal EGFR status also respond to EGFR inhibitors, reflecting their EGFR addiction (Sharma and Settleman, 2009). How these tumor cells maintain a sufficient level of EGFR signaling to satisfy their EGFR addiction is currently unclear. Our observation that ARNO overexpression is associated with an activated EGF signaling pathway in human lung adenocarcinoma provides a possible explanation for the EGFR addiction of these cancer cells that have neither mutant nor overexpressed EGFR. Our finding that the proliferation of EGFR-dependent tumor cells is drastically reduced by inhibition of cytohesins underlines the pathophysiological significance of intracellular ErbB receptor activators like ARNO and opens up avenues for fighting ErbB receptor-dependent cancers by targeting not the receptors themselves but their activators.
+
+Experimental Procedures
+For detailed protocols allowing reproduction of the experiments, see Extended Experimental Procedures.
+
+Immunoblotting/Immunoprecipitation
+Cells were serum-starved overnight in the presence of SecinH3 or DMSO and stimulated for 5 min with EGF or heregulin-β1. Proteins were first immunoprecipitated or directly analyzed by SDS-PAGE and immunoblotting. Visualization was done by enhanced chemiluminescence or by fluorescence-labeled secondary antibodies.
+
+Crosslinking
+Cells were starved overnight in the presence of SecinH3 or DMSO. Directly after stimulation (5 min), proteins were crosslinked by adding BS3 and analyzed by SDS-PAGE and immunoblotting.
+
+Anisotropy Microscopy
+Anisotropy microscopy was done as described (Squire et al., 2004) in COS-7 cells.
+
+STED Microsocopy and Immunofluorescence Microscopy
+Membrane sheets were generated essentially as previously described (Lang et al., 2001) and visualized either by epi-fluorescence or stimulated emission depletion (STED) microscopy.
+
+Cell-free Fluorescence Anisotropy and Autophosphorylation Assays
+Fluorescein-labeled ARNO, ARNO-Sec7-WT/E156K, MIG6-EBR, or lysozyme was mixed with unlabeled EGFR-ICD or MIG6-EBR at room temperature, and fluorescence anisotropy was measured in a microplate reader. For the autophosphorylation assays, EGFR-ICD was incubated with the indicated protein in the presence of ATP at room temperature. After the indicated time, aliquots were removed, separated by SDS-PAGE, and analyzed by immunoblotting.
+
+Tumor Samples
+All tumor samples stem from the CIO Biobank at the Institute of Pathology, University of Bonn, Germany. All tumors were clinically and pathologically identified as being the primary and only neoplastic lesion and classified according to World Health Organization (WHO) guidelines (Brambilla et al., 2001). Sections were stained and evaluated as previously described (Heukamp et al., 2006 and Zimmer et al., 2008). Staining intensities were individually evaluated by three independent observers using a four-tier scoring system as described before (Zimmer et al., 2008). Immunofluorescence double-staining of tumor sections was performed as described (Friedrichs et al., 2007).
+
+Proliferation and Apoptosis Assays
+PC9 cells were treated with SecinH3 or solvent in medium containing 1% FCS. Proliferation was analyzed after 3 days using a MTT assay. Apoptosis and cell-cycle status were determined after 2 days by Annexin V and TOPRO-3 staining and fluorescence-activated cell sorting (FACS) analysis.
+
+[18F]FLT PET Imaging of Tumor Xenografts
+nu/nu athymic mice that had been subcutaneously injected with PC9 cells were treated with SecinH3 or DMSO for 7 days. After [18F]FLT (3′-deoxy-3′-[F-18]fluorothymidine) administration tumors were visualized using a FOCUS microPET scanner.
+
+Statistics
+Results are given as the mean ± standard error of the mean (SEM). Statistical analyses were performed with Prism (GraphPad Software) applying the two-tailed t test or one-way ANOVA, as appropriate. All datasets passed the Kolmogorov and Smirnov test for Gaussian distribution. For the analysis of the tumor samples the Spearman nonparametric correlation test was used. Differences of means were considered significant at a significance level of 0.05.
+
+open menu
+Acknowledgments
+We thank S. Rose-John for plasmid pMWOS-L-gp130, K. Nishio for PC9 cells, the Department of Nanobiophotonics, MPI Göttingen for Atto647N coupled secondary antibodies and access to STED microscopy, Silvio Rizzoli for providing MatLab routines for image analysis, Philippe I.H. Bastiaens for advice on the anisotropy measurements, V. Fieberg and Y. Aschenbach-Paul for technical assistance, J. Hannam, A.M. Hayallah, and X.-H. Bi for the synthesis of SecinH3 and XH1009, B. Neumaier for the synthesis of [18F]FLT, and the members of the Famulok laboratory for helpful discussions. This work was supported by grants from the DFG, the SFBs 645, 704, and 832, and the GRK804. The CIO Biobank is supported by the Deutsche Krebshilfe. A.B. and B.A. thank the Fonds der Chemischen Industrie and the Roche Research Foundation for scholarships. R.K.T. is supported by the Deutsche Krebshilfe, Fritz-Thyssen-Stiftung, and the BMBF NGFNplus-program. A.S. and M.F. are co-owners of a patent application for SecinH3.
+
+Supplemental Information
+ 
+Document S1. Article Plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Abulrob et al., 2010
+A. Abulrob, Z. Lu, E. Baumann, D. Vobornik, R. Taylor, D. Stanimirovic, L.J. Johnston
+Nanoscale imaging of epidermal growth factor receptor clustering
+J. Biol. Chem., 285 (2010), pp. 3145–3156
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Anastasi et al., 2007
+S. Anastasi, M.F. Baietti, Y. Frosi, S. Alema, O. Segatto
+The evolutionarily conserved EBR module of RALT/MIG6 mediates suppression of the EGFR catalytic activity
+Oncogene, 26 (2007), pp. 7833–7846
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+Bergamin et al., 2010
+E. Bergamin, P.T. Hallock, S.J. Burden, S.R. Hubbard
+The cytoplasmic adaptor protein Dok7 activates the receptor tyrosine kinase MuSK via dimerization
+Mol. Cell, 39 (2010), pp. 100–109
+
+Article |  PDF (1360 K) | View Record in Scopus | Citing articles (30)
+Bi et al., 2008
+X. Bi, A. Schmitz, A.M. Hayallah, J.N. Song, M. Famulok
+Affinity-based labeling of cytohesins with a bifunctional SecinH3 photoaffinity probe
+Angew. Chem. Int. Ed. Engl., 47 (2008), pp. 9565–9568
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: Critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Bose and Zhang, 2009
+R. Bose, X. Zhang
+The ErbB kinase domain: Structural perspectives into kinase activation and inhibition
+Exp. Cell Res., 315 (2009), pp. 649–658
+
+Article |  PDF (885 K) | View Record in Scopus | Citing articles (26)
+Brambilla et al., 2001
+E. Brambilla, W.D. Travis, T.V. Colby, B. Corrin, Y. Shimosato
+The new World Health Organization classification of lung tumours
+Eur. Respir. J., 18 (2001), pp. 1059–1068
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (515)
+Bublil and Yarden, 2007
+E.M. Bublil, Y. Yarden
+The EGF receptor family: spearheading a merger of signaling and therapeutics
+Curr. Opin. Cell Biol., 19 (2007), pp. 124–134
+
+Article |  PDF (625 K) | View Record in Scopus | Citing articles (174)
+Casanova, 2007
+J.E. Casanova
+Regulation of Arf activation: the Sec7 family of guanine nucleotide exchange factors
+Traffic, 8 (2007), pp. 1476–1485
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (133)
+Cherfils et al., 1998
+J. Cherfils, J. Menetrey, M. Mathieu, G. Le Bras, S. Robineau, S. Beraud-Dufour, B. Antonny, P. Chardin
+Structure of the Sec7 domain of the Arf exchange factor ARNO
+Nature, 392 (1998), pp. 101–105
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+Chung et al., 2010
+I. Chung, R. Akita, R. Vandlen, D. Toomre, J. Schlessinger, I. Mellman
+Spatial control of EGF receptor activation by reversible dimerization on living cells
+Nature, 464 (2010), pp. 783–787
+
+View Record in Scopus | Citing articles (147)
+Cui et al., 2002
+T.-X. Cui, H. Nakagami, C. Nahmias, T. Shiuchi, Y. Takeda-Matsubara, J.-M. Li, L. Wu, M. Iwai, M. Horiuchi
+Angiotensin II subtype 2 receptor activation inhibits insulin-induced phosphoinositide 3-kinase and Akt and induces apoptosis in PC12W cells
+Mol. Endocrinol., 16 (2002), pp. 2113–2123
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+D'Souza-Schorey and Chavrier, 2006
+C. D'Souza-Schorey, P. Chavrier
+ARF proteins: roles in membrane traffic and beyond
+Nat. Rev. Mol. Cell Biol., 7 (2006), pp. 347–358
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Ferby et al., 2006
+I. Ferby, M. Reschke, O. Kudlacek, P. Knyazev, G. Pante, K. Amann, W. Sommergruber, N. Kraut, A. Ullrich, R. Fassler, R. Klein
+Mig6 is a negative regulator of EGF receptor-mediated skin morphogenesis and tumor formation
+Nat. Med., 12 (2006), pp. 568–573
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+Ferguson, 2008
+K.M. Ferguson
+Structure-based view of epidermal growth factor receptor regulation
+Annu. Rev. Biophys., 37 (2008), pp. 353–373
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (79)
+Fischer et al., 2003
+O.M. Fischer, S. Hart, A. Gschwind, A. Ullrich
+EGFR signal transactivation in cancer cells
+Biochem. Soc. Trans., 31 (2003), pp. 1203–1208
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (245)
+Friedrichs et al., 2007
+N. Friedrichs, S. Steiner, R. Buettner, G. Knoepfle
+Immunohistochemical expression patterns of AP2alpha and AP2gamma in the developing fetal human breast
+Histopathology, 51 (2007), pp. 814–823
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Gadella and Jovin, 1995
+T.W. Gadella Jr., T.M. Jovin
+Oligomerization of epidermal growth factor receptors on A431 cells studied by time-resolved fluorescence imaging microscopy. A stereochemical model for tyrosine kinase receptor activation
+J. Cell Biol., 129 (1995), pp. 1543–1558
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (295)
+Gazdar, 2009
+A.F. Gazdar
+Activating and resistance mutations of EGFR in non-small-cell lung cancer: role in clinical response to EGFR tyrosine kinase inhibitors
+Oncogene, 28 (2009), pp. S24–S31
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (212)
+Gerdes et al., 1983
+J. Gerdes, U. Schwab, H. Lemke, H. Stein
+Production of a mouse monoclonal antibody reactive with a human nuclear antigen associated with cell proliferation
+Int. J. Cancer, 31 (1983), pp. 13–20
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1119)
+Hafner et al., 2006
+M. Hafner, A. Schmitz, I. Grune, S.G. Srivatsan, B. Paul, W. Kolanus, T. Quast, E. Kremmer, I. Bauer, M. Famulok
+Inhibition of cytohesins by SecinH3 leads to hepatic insulin resistance
+Nature, 444 (2006), pp. 941–944
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (133)
+Hell and Wichmann, 1994
+S.W. Hell, J. Wichmann
+Breaking the diffraction resolution limit by stimulated emission: stimulated-emission-depletion fluorescence microscopy
+Opt. Lett., 19 (1994), pp. 780–782
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1173)
+Heukamp et al., 2006
+L.C. Heukamp, H.P. Fischer, P. Schirmacher, X. Chen, K. Breuhahn, C. Nicolay, R. Buttner, I. Gutgemann
+Podocalyxin-like protein 1 expression in primary hepatic tumours and tumour-like lesions
+Histopathology, 49 (2006), pp. 242–247
+
+View Record in Scopus | Citing articles (16)
+Inoue et al., 2009
+A. Inoue, K. Setoguchi, Y. Matsubara, K. Okada, N. Sato, Y. Iwakura, O. Higuchi, Y. Yamanashi
+Dok-7 activates the muscle receptor kinase MuSK and shapes synapse formation
+Sci. Signal., 2 (2009), p. ra7
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Jura et al., 2009
+N. Jura, N.F. Endres, K. Engel, S. Deindl, R. Das, M.H. Lamers, D.E. Wemmer, X. Zhang, J. Kuriyan
+Mechanism for activation of the EGF receptor catalytic domain by the juxtamembrane segment
+Cell, 137 (2009), pp. 1293–1307
+
+Article |  PDF (3082 K) | View Record in Scopus | Citing articles (161)
+Kolanus, 2007
+W. Kolanus
+Guanine nucleotide exchange factors of the cytohesin family and their roles in signal transduction
+Immunol. Rev., 218 (2007), pp. 102–113
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Lang et al., 2001
+T. Lang, D. Bruns, D. Wenzel, D. Riedel, P. Holroyd, C. Thiele, R. Jahn
+SNAREs are concentrated in cholesterol-dependent clusters that define docking and fusion sites for exocytosis
+EMBO J., 20 (2001), pp. 2202–2213
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (400)
+Lim et al., 2010
+J. Lim, M. Zhou, T.D. Veenstra, D.K. Morrison
+The CNK1 scaffold binds cytohesins and promotes insulin pathway signaling
+Genes Dev., 24 (2010), pp. 1496–1506
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Lynch et al., 2004
+T.J. Lynch, D.W. Bell, R. Sordella, S. Gurubhagavatula, R.A. Okimoto, B.W. Brannigan, P.L. Harris, S.M. Haserlat, J.G. Supko, F.G. Haluska et al.
+Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib
+N. Engl. J. Med., 350 (2004), pp. 2129–2139
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5770)
+Mayer et al., 2001
+G. Mayer, M. Blind, W. Nagel, T. Bohm, T. Knorr, C.L. Jackson, W. Kolanus, M. Famulok
+Controlling small guanine-nucleotide-exchange factor function through cytoplasmic RNA intramers
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 4961–4965
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (78)
+Mi et al., 2008
+L.-Z. Mi, M.J. Grey, N. Nishida, T. Walz, C. Lu, T.A. Springer
+Functional and structural stability of the epidermal growth factor receptor in detergent micelles and phospholipid nanodiscs
+Biochemistry, 47 (2008), pp. 10314–10323
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+Moriki et al., 2001
+T. Moriki, H. Maruyama, I.N. Maruyama
+Activation of preformed EGF receptor dimers by ligand-induced rotation of the transmembrane domain
+J. Mol. Biol., 311 (2001), pp. 1011–1026
+
+Article |  PDF (402 K) | View Record in Scopus | Citing articles (182)
+Nagy et al., 1999
+P. Nagy, A. Jenei, A.K. Kirsch, J. Szollosi, S. Damjanovich, T.M. Jovin
+Activation-dependent clustering of the erbB2 receptor tyrosine kinase detected by scanning near-field optical microscopy
+J. Cell Sci., 112 (1999), pp. 1733–1741
+
+View Record in Scopus | Citing articles (85)
+Paez et al., 2004
+J.G. Paez, P.A. Janne, J.C. Lee, S. Tracy, H. Greulich, S. Gabriel, P. Herman, F.J. Kaye, N. Lindeman, T.J. Boggon et al.
+EGFR mutations in lung cancer: Correlation with clinical response to gefitinib therapy
+Science, 304 (2004), pp. 1497–1500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4894)
+Pao et al., 2004
+W. Pao, V. Miller, M. Zakowski, J. Doherty, K. Politi, I. Sarkaria, B. Singh, R. Heelan, V. Rusch, L. Fulton et al.
+EGF receptor gene mutations are common in lung cancers from “never smokers” and are associated with sensitivity of tumors to gefitinib and erlotinib
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 13306–13311
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2369)
+Qiu et al., 2008
+C. Qiu, M.K. Tarrant, S.H. Choi, A. Sathyamurthy, R. Bose, S. Banjade, A. Pal, W.G. Bornmann, M.A. Lemmon, P.A. Cole, D.J. Leahy
+Mechanism of activation and inhibition of the HER4/ErbB4 kinase
+Structure, 16 (2008), pp. 460–467
+
+Article |  PDF (911 K) | View Record in Scopus | Citing articles (62)
+Qiu et al., 2009
+C. Qiu, M.K. Tarrant, T. Boronina, P.A. Longo, J.M. Kavran, R.N. Cole, P.A. Cole, D.J. Leahy
+In vitro enzymatic characterization of near full length EGFR in activated and inhibited states
+Biochemistry, 48 (2009), pp. 6624–6632
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+Red Brewer et al., 2009
+M. Red Brewer, S.H. Choi, D. Alvarado, K. Moravcevic, A. Pozzi, M.A. Lemmon, G. Carpenter
+The juxtamembrane region of the EGF receptor functions as an activation domain
+Mol. Cell, 34 (2009), pp. 641–651
+
+Article |  PDF (1414 K) | View Record in Scopus | Citing articles (87)
+Reschke et al., 2009
+M. Reschke, I. Ferby, E. Stepniak, N. Seitzer, D. Horst, E.F. Wagner, A. Ullrich
+Mitogen-inducible gene-6 is a negative regulator of epidermal growth factor receptor signaling in hepatocytes and human hepatocellular carcinoma
+Hepatology, 51 (2009), pp. 1383–1390
+
+Sharma and Settleman, 2009
+S.V. Sharma, J. Settleman
+ErbBs in lung cancer
+Exp. Cell Res., 315 (2009), pp. 557–571
+
+Article |  PDF (984 K) | View Record in Scopus | Citing articles (28)
+Sharma et al., 2007
+S.V. Sharma, D.W. Bell, J. Settleman, D.A. Haber
+Epidermal growth factor receptor mutations in lung cancer
+Nat. Rev. Mol. Cell Biol., 7 (2007), pp. 169–181
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (903)
+Shields et al., 1998
+A.F. Shields, J.R. Grierson, B.M. Dohmen, H.J. Machulla, J.C. Stayanoff, J.M. Lawhorn-Crews, J.E. Obradovich, O. Muzik, T.J. Mangner
+Imaging proliferation in vivo with [F-18]FLT and positron emission tomography
+Nat. Med., 4 (1998), pp. 1334–1336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (726)
+Sorkin and Goh, 2008
+A. Sorkin, L.K. Goh
+Endocytosis and intracellular trafficking of ErbBs
+Exp. Cell Res., 315 (2008), pp. 683–696
+
+Squire et al., 2004
+A. Squire, P.J. Verveer, O. Rocks, P.I.H. Bastiaens
+Red-edge anisotropy microscopy enables dynamic imaging of homo-FRET between green fluorescent proteins in cells
+J. Struct. Biol., 147 (2004), pp. 62–69
+
+Article |  PDF (279 K) | View Record in Scopus | Citing articles (36)
+Stuhlmann-Laeisz et al., 2006
+C. Stuhlmann-Laeisz, S. Lang, A. Chalaris, P. Krzysztof, S. Enge, J. Eichler, U. Klingmuller, M. Samuel, M. Ernst, S. Rose-John, J. Scheller
+Forced dimerization of gp130 leads to constitutive STAT3 activation, cytokine-independent growth, and blockade of differentiation of embryonic stem cells
+Mol. Biol. Cell, 17 (2006), pp. 2986–2995
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+Vilar et al., 2009
+M. Vilar, I. Charalampopoulos, R.S. Kenchappa, A. Simi, E. Karaca, A. Reversi, S. Choi, M. Bothwell, I. Mingarro, W.J. Friedman et al.
+Activation of the p75 neurotrophin receptor through conformational rearrangement of disulphide-linked receptor dimers
+Neuron, 62 (2009), pp. 72–83
+
+Article |  PDF (1329 K) | View Record in Scopus | Citing articles (37)
+Wang et al., 2005
+Q. Wang, G. Villeneuve, Z. Wang
+Control of epidermal growth factor receptor endocytosis by receptor dimerization, rather than receptor kinase activation
+EMBO Rep., 6 (2005), pp. 942–948
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+Weinstein, 2002
+I.B. Weinstein
+Addiction to oncogenes–the Achilles heal of cancer
+Science, 297 (2002), pp. 63–64
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (890)
+Yarden and Schlessinger, 1987
+Y. Yarden, J. Schlessinger
+Self-phosphorylation of epidermal growth factor receptor: evidence for a model of intermolecular allosteric activation
+Biochemistry, 26 (1987), pp. 1434–1442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (186)
+Zhang et al., 2006
+X. Zhang, J. Gureasko, K. Shen, P.A. Cole, J. Kuriyan
+An allosteric mechanism for activation of the kinase domain of epidermal growth factor receptor
+Cell, 125 (2006), pp. 1137–1149
+
+Article |  PDF (1092 K) | View Record in Scopus | Citing articles (552)
+Zhang et al., 2007
+X. Zhang, K.A. Pickin, R. Bose, N. Jura, P.A. Cole, J. Kuriyan
+Inhibition of the EGF receptor by binding of MIG6 to an activating kinase domain interface
+Nature, 450 (2007), pp. 741–744
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (117)
+Zhu et al., 2003
+H.J. Zhu, J. Iaria, S. Orchard, F. Walker, A.W. Burgess
+Epidermal growth factor receptor: association of extracellular domain negatively regulates intracellular kinase activation in the absence of ligand
+Growth Factors, 21 (2003), pp. 15–30
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+Zimmer et al., 2008
+S. Zimmer, P. Kahl, T.M. Buhl, S. Steiner, E. Wardelmann, S. Merkelbach-Bruse, R. Buettner, L.C. Heukamp
+Epidermal growth factor receptor mutations in non-small cell lung cancer influence downstream Akt, MAPK and Stat3 signaling
+J. Cancer Res. Clin. Oncol., 135 (2008), pp. 723–730
+
+View Record in Scopus | Citing articles (1)
+Supplemental References
+Avery et al., 2000
+Avery, J., Ellis, D.J., Lang, T., Holroyd, P., Riedel, D., Henderson, R.M., Edwardson, J.M., and Jahn, R. (2000). A cell-free system for regulated exocytosis in PC12 cells. J. Cell Biol. 148, 317–324.
+Brambilla et al., 2001
+Brambilla, E., Travis, W.D., Colby, T.V., Corrin, B., and Shimosato, Y. (2001). The new World Health Organization classification of lung tumors. Eur. Respir. J. 18, 1059–1068.
+Friedrichs et al., 2007
+Friedrichs, N., Steiner, S., Buettner, R., and Knoepfle, G. (2007). Immunohistochemical expression patterns of AP2alpha and AP2gamma in the developing fetal human breast. Histopathology 51, 814–823.
+Hafner et al., 2006
+Hafner, M., Schmitz, A., Grune, I., Srivatsan, S.G., Paul, B., Kolanus, W., Quast, T., Kremmer, E., Bauer, I., and Famulok, M. (2006). Inhibition of cytohesins by SecinH3 leads to hepatic insulin resistance. Nature 444, 941–944.
+Heukamp et al., 2006
+Heukamp, L.C., Fischer, H.P., Schirmacher, P., Chen, X., Breuhahn, K., Nicolay, C., Buttner, R., and Gutgemann, I. (2006). Podocalyxin-like protein 1 expression in primary hepatic tumors and tumor-like lesions. Histopathology 49, 242–247.
+Lang et al., 2001
+Lang, T., Bruns, D., Wenzel, D., Riedel, D., Holroyd, P., Thiele, C., and Jahn, R. (2001). SNAREs are concentrated in cholesterol-dependent clusters that define docking and fusion sites for exocytosis. EMBO J. 20, 2202–2213.
+Lang et al., 2002
+Lang, T., Margittai, M., Holzler, H., and Jahn, R. (2002). SNAREs in native plasma membranes are active and readily form core complexes with endogenous and exogenous SNAREs. J. Cell Biol. 158, 751–760.
+Machulla et al., 2000
+Machulla, H.J., Blocher, A., Kuntzsch, M., Piert, M., Wei, R., and Grierson, J.R. (2000). Simplified labeling approach for synthesizing 3 ′-deoxy-3 ′- F-18 fluorothymidine (F-18 FLT). J. Radioanal. Nucl. Chem. 243, 843–846.
+Squire et al., 2004
+Squire, A., Verveer, P.J., Rocks, O., and Bastiaens, P.I.H. (2004). Red-edge anisotropy microscopy enables dynamic imaging of homo-FRET between green fluorescent proteins in cells. J. Struct. Biol. 147, 62–69.
+Stuhlmann-Laeisz et al., 2006
+Stuhlmann-Laeisz, C., Lang, S., Chalaris, A., Krzysztof, P., Enge, S., Eichler, J., Klingmuller, U., Samuel, M., Ernst, M., Rose-John, S., et al. (2006). Forced dimerization of gp130 leads to constitutive STAT3 activation, cytokine-independent growth, and blockade of differentiation of embryonic stem cells. Mol. Biol. Cell 17, 2986–2995.
+Ullrich et al., 2008
+Ullrich, R.T., Zander, T., Neumaier, B., Koker, M., Shimamura, T., Waerzeggers, Y., Borgman, C.L., Tawadros, S., Li, H., Sos, M.L., et al. (2008). Early detection of erlotinib treatment response in NSCLC by 3′-deoxy-3′-[18F]-fluoro-L-thymidine ([18F]FLT) positron emission tomography (PET). PLoS ONE 3, e3908.
+Zhang et al., 2006
+Zhang, X., Gureasko, J., Shen, K., Cole, P.A., and Kuriyan, J. (2006). An allosteric mechanism for activation of the kinase domain of epidermal growth factor receptor. Cell 125, 1137–1149.
+Zimmer et al., 2008
+Zimmer, S., Kahl, P., Buhl, T.M., Steiner, S., Wardelmann, E., Merkelbach-Bruse, S., Buettner, R., and Heukamp, L.C. (2008). Epidermal growth factor receptor mutations in non-small cell lung cancer influence downstream Akt, MAPK and Stat3 signaling. J. Cancer Res. Clin. Oncol. 135, 723–730.
+Corresponding author contact information
+Corresponding author
+8
+These authors contributed equally to this work
+Copyright © 2010 Elsevier Inc. All rights reserved.

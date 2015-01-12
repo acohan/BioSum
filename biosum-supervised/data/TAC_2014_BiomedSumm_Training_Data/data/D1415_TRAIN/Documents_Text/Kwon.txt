@@ -1,0 +1,752 @@
+﻿Mouse models for lung cancer
+Min-chul Kwon, Anton BernsCorresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molonc.2013.02.010
+Under an Elsevier user license
+  Open Archive
+Abstract
+Lung cancer is a devastating disease and a major therapeutic burden with poor survival rates. It is responsible for 30% of all cancer deaths. Lung cancer is strongly associated with smoking, although some subtypes are also seen in non-smokers. Tumors in the latter group are mostly adenocarcinomas with many carrying mutations in the epidermal growth factor receptor (EGFR). Survival statistics of lung cancer are grim because of its late detection and frequent local and distal metastases. Although DNA sequence information from tumors has revealed a number of frequently occurring mutations, affecting well-known tumor suppressor genes and proto-oncogenes, many of the driver mutations remain ill defined. This is likely due to the involvement of numerous rather infrequently occurring driver mutations that are difficult to distinguish from the very large number of passenger mutations detected in smoking-related lung cancers. Therefore, experimental model systems are indispensable to validate putative driver lesions and to gain insight into their mechanisms of action. Whereas a large fraction of these analyzes can be performed in cell cultures in vitro, in many cases the consequences of the mutations have to be assessed in the context of an intact organism, as this is the context in which the Mendelian selection process of the tumorigenic process took place and the advantages of particular mutations become apparent. Current mouse models for cancer are very suitable for this as they permit mimicking many of the salient features of human tumors. The capacity to swiftly re-engineer complex sets of lesions found in human tumors in mice enables us to assess the contribution of defined combinations of lesions to distinct tumor characteristics such as metastatic behavior and response to therapy. In this review we will describe mouse models of lung cancer and how they are used to better understand the disease and how they are exploited to develop better intervention strategies.
+
+Keywords
+Lung cancer; Mouse models; Experimental model systems
+1. Introduction
+Lung cancer is the leading cause of cancer deaths worldwide. Approximately 30% of all cancer deaths is caused by lung cancer (Landis et al., 1999). Lung cancer can be divided in two major histological subtypes, non small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) (van Zandwijk et al., 1995). About 80% of lung cancers are NSCLC. They are subdivided in adenocarcinomas, squamous cell, bronchioalveolar and large cell carcinomas. The remaining 20% of lung cancers show properties of neuroendocrine differentiation. Lung cancer belongs to the most deadly lifestyle-related cancers. The overall prognosis is very poor, with only a small percentage surviving more than 5 years. Lung cancers in heavy smokers have the poorest prognosis due to the enormous mutation load that has accumulated in these cancers. Nevertheless, one of the lessons we have learned in recent decades from genetic analyzes of many cancers and their study in experimental systems, is that specific cancer types often depend on deregulation of a limited set of signaling networks, that are often unique for a particular tumor type. In some instances this is reflected in the extremely high incidence of distinct mutations in a particular tumor, such as BCR-ABL translocations in chronic myeloid leukemia (CML)(Landstrom and Tefferi, 2006), KRAS mutations in pancreatic cancer (Morris et al., 2010), BRAF mutations in melanoma (Davies et al., 2002), or mutations in the retinoblastoma tumor suppressor gene in small cell lung cancer (Wistuba et al., 2001). This also has become apparent from the study of genetic heterogeneity in individual tumors (Gerlinger et al., 2012; Swanton, 2012). When different regions of a tumor are genetically characterized one often observes lesions that are shared and lesions that are different. Interestingly, tumor subclones in different areas of the primary tumor might harbor distinct mutations in the same gene or mutations in different genes that act in the same signaling cascade, implying that deregulation of defined signaling pathways is imperative for a particular tumor type. In Mendelian terms this is coined convergent evolution (Gerlinger et al., 2012). Although the heterogeneity is disturbing from a therapeutic defined-target perspective, the observed convergence offers treatment perspectives as it indicates that a particular tumor might be heavily addicted to the deregulation of distinct signaling pathways and that this might be hard wired. However, in order to effectively exploit this, we need to meticulously identify how these signaling networks on which tumors depends function and find out how to disrupt them. Given the heterogeneity of most tumors, we likely need to administer several drugs inhibiting multiple components of a distinct signaling network as well as target more than one network simultaneously or in succession. The immediate question that comes up is which pathways we have to target, which drugs to use to effectively control that pathway, what are the associated toxicities, and how we have to administer the drugs if multiple networks need to be controlled while keeping toxicities within acceptable limits.
+
+It is evident that it is impossible to explore this in depth in patients. Firstly, we do not have all the drugs that might be needed, we lack insight in drug interactions, and toxicity is likely a major complication, requiring extensive scheduling studies that have to be individually adjusted based on reliable biomarkers. Here animal model systems come into the picture. However, it is essential that the tumors in these models show similar dependencies on lesions in the distinct signaling cascades. The strategy to achieve this is to introduce a number of tumor-specific driver mutations into the appropriate target cell in order to reproduce most of the features that are unique for that particular tumor type. This permits us to answer the question how individual mutations contribute to the tumor phenotype and how they influence intervention strategies.
+
+Over the years the mouse model community have generated the tools to mutate specific genes in the mouse using embryonic stem cells as a starting point (Frese and Tuveson, 2007). The tools available today permit us to conditionally activate or inactivate genes in distinct cell types at any desired moment, we have methods to regulate expression of introduced genes or shRNAs by small molecules given in the drinking water or by injection, we can mark the switched cells using fluorescent reporters, read out distinct signaling pathways using either fluorescent or bioluminescent reporters and conduct lineage tracing. The only, but nevertheless major, drawback of current mouse model systems that encompass multiple genetic modifications, is the time required to bring together all the desired mutations into a single genome. Breeding mice to generate complex genotypes carrying 6 or 7 engineered alleles can require many years, involves many animals, and is extremely costly.
+
+Recently, we and others have embarked on strategies to speed up this process (for review see: (Dow and Lowe, 2012). We have focused on replacing crossbreeding by the consecutive genetic modification of embryonic stem cells (Zhou et al., 2010) or by the further genetic modification of ES cells derived from strains that already harbor an important subset of the mutations required in the ultimate model (Huijbers et al., 2011). By streamlining the techniques to re-derive and genetically modify the embryonic stem (ES) cells of these existing mouse tumor models we now can generate complex models much faster. Furthermore, we can substitute genetic modification in ES cells partly by somatic gene transfer using an array of specifically designed adenoviral and lentiviral vectors (Xia et al., 2012). We will describe here their use in the study of non small cell and small cell lung cancer.
+
+2. Mouse models for NSCLC
+A number of the mutations found in human non small cell lung cancer (NSCLC) have been introduced in the mouse. These include among others Kras, Braf, Egfr, Lkb1, Rac1, NfkappaB, and p53 (see also Table 1, Table 2 and Table 3). Also the role of a number microRNAs (miRNAs) has been assessed. The use of combinations of lesions can be particularly instructive as they might reveal synergistic effects or dependencies, leading to shorter or longer latency periods or resulting in an altered disease phenotype. The most relevant compound mutants are mentioned under the primary oncogenic drivers mentioned below and listed in Table 1, Table 2 and Table 3.
+
+Table 1.
+Mouse models for NSCLC.
+Mouse mutant	Tumor induction	Phenotype	Reference
+LSL-KrasG12D endogenous control	Sporadic infection of lung cells with Adeno-Cre virus	Adenomas & adenocarcinomas
+Long latency	(Jackson et al., 2001)
+KrasG12D LA1 and LA2 in wt or p53 deficiency	Spontaneous lung tumor development due to sporadic switching of LA allele	Adenomas & adenocarcinomas
+A variety of tumor types	(Johnson et al., 2001)
+Tet-op-KrasG12D in wt or p53 and P19Arf deficiency	CCSP-rtTA transgene, treatment with doxycyclin. Transgene directs rtTA expression in alveolar type II cells	Fast tumor growth, accelerated in p53 and Ink4A/Arf def. background.	(Fisher et al., 2001)
+LSL-KrasG12D	Tamoxifen Cre-ERT2 knockins in SPC and CC10 (AT2 and Clara cells)	Adenomas & adenocarcinomas with SPC-Cre.	(Xu et al., 2012)
+Beta-Actin loxGFPlox -Kras	Ad5-CMV-Cre	Adenomas & adenocarcinomas
+Short latency	(Meuwissen et al., 2001)
+LSL-KrasG12D;
+p53lox/lox	Sporadic switching of lung cells with Lenti Cre virus	Accelerated tumor development. Metastasis. Role for Nkx2-1 and Hmga2	(Winslow et al., 2011)
+PTENlox/lox	Clara cell specific CCSP-Cre.	No tumors	(Iwanaga et al., 2008)
+LSL-KrasG12D;
+PTENlox/lox	Clara cell specific CCSP-Cre.	Accelerated tumor development.
+Metastasis	(Li et al., 2008)
+(Iwanaga et al., 2008)
+LSL-KrasG12D;
+Lkb1lox/lox	Ad5-CMV-Cre	Strongly augmented tumor growth and metastasis both Adenocarcinomas and Squamous cell carcinomas	(Ji et al., 2007)
+LSL-KrasG12Vgeo	Cre-ERT2 (RERT-ert) + Tamoxifen	Adenomas & adenocarcinomas.
+Not all KrasV12 expressing cells proliferate	(Guerra et al., 2003)
+LL-BrafV600E	Ad5-CMV-Cre	Adenomas & rarely progress to adenocarcinoma	(Dankort et al., 2007)
+Inducible-cRaf mutant	Clara and Alveolar type II cell specific expression	Only expression in alveolar type II cells gives rise to macroscopic tumors.
+De-induction causes reversion	(Ceteci et al., 2011)
+TRE-Egfr L858R/T790M/Del exon 19 mutants	CCSP-rtTA doxycyclin inducible	Adenocarcinomas. T790M and L858R/T790M double mutant show less aggressive growth	(Politi et al., 2006; Regales et al., 2007)
+Tet-op-PIK3CA H1047R; CCSP-rtTA	CCSP-rtTA doxycycline inducible	Adenocarcinoma with bronchioalveolar features	(Engelman et al. 2008)
+Table options
+Table 2.
+Mouse models for NSCLC pointing to intervention strategies – genetic approach
+Mouse mutant	Tumor/intervention	Effect	Reference
+LSL-KrasG12D; TRE-OmoMyc; CMVrtTA	Ad5-CMV-Cre and doxycyclin once tumors had established.	OmoMyc activation caused tumor ablation	(Soucek et al., 2008)
+Tet-op-KrasG12D in wt or p53 and P19Arf deficiency	CCSP-rtTA transgene, treatment with doxycyclin. Transgene directs rtTA expression in alveolar type II cells	Fast tumor growth, accelerated in p53 and Ink4A/Arf def. background. Regression upon removal doxycyclin	(Fisher et al., 2001)
+LSL-KrasG12D
+Sprouty2−/−	Sporadic infection of lung cells with Adeno-Cre virus	Impaired tumor development	(Shaw et al., 2007)
+LSL-KrasG12D
+GATA2lox/lox	Sporadic infection of lung cells with Adeno-Cre virus	GATA2 loss induces regression of established tumors	(Kumar et al., 2012)
+KrasG12D LA2;
+Pi3kca mutant not binding to Ras	Spontaneous lung tumor development due to sporadic switching of LA2 allele.	Strongly impaired tumor development	(Gupta et al., 2007)
+Tet-op-PIK3CA H1047R; CCSP-rtTA	CCSP-rtTA doxycycline inducible	Tumor regression upon removal Doxycyclin	(Engelman et al. 2008)
+LSL-KrasG12D; Rac1−/−	Sporadic infection of lung cells with Adeno-Cre virus	Impaired tumor growth. Rac1 is required	(Kissil et al., 2007)
+LSL-KrasG12D;
+NFKb−/− and IKK2lox/lox* shRNA p53*	Sporadic infection of lung cells with Adeno-Cre virus & lentivirus*	Impaired tumor growth. NFKb and IKK2 signaling is important modulator	(Meylan et al., 2009)* (Xia et al., 2012)
+LSL-KrasG12D;
+Jnk1lox/lox;/Jnk2 −/−	Ad5-CMV-Cre	Impaired tumor growth.	(Cellurale et al., 2011)
+LSL-KrasG12Vgeo;
+CDK2/CDK4/CDK6
+(KO and conditional)	Cre-ERT2 (RERT-ert)+ Tamoxifen+/− Ad5-Flp	Loss of CDK4 but not CDK2 and CDK6 is synthetic lethal with KrasV12	(Puyol et al., 2010)
+LSL-KrasG12Vgeo;
+cRaflox/lox/Braflox/lox	Ad5-CMV-cre or Cre-ERT2 (RERT-ert) + Tamoxifen	Craf but not Braf is essential for KrasV12 induced tumors	(Blasco et al., 2011; Karreth et al., 2011)
+LSL-KrasG12Vgeo;
+ERK1−/−; ERK2lox/lox	Ad5-CMV-cre or Cre-ERT2 (RERT-ert) + Tamoxifen	Only concomitant ablation of ERK1 and ERK2 impairs tumor growth	(Blasco et al., 2011)
+LSL-KrasG12Vgeo;
+Mek1lox/lox; Mek2−/−	Ad5-CMV-cre or Cre-ERT2 (RERT-ert) + Tamoxifen	Mek1/2 are essential for KrasV12 induced tumors	(Blasco et al., 2011)
+TRE KrasG12D, ErbB2/EgfrL858R, CCSP-rtTA chimeras	Induction of oncogene by doxycyclin	Only EgfrL858R respond to EGFR inhibitor. ErbB2 tumors might respond to PI3K inhibitor.	(Zhou et al., 2010)
+LSL-KrasG12D; Wt1lox/lox	Ad5-CMV-Cre	Synthetic lethality with Wt1 loss. Causes senescence	(Licciulli and Kissil, 2010; Vicent et al., 2010)
+Table options
+Table 3.
+Mouse models for NSCLC pointing to intervention strategies – pharmacological approach
+Mouse mutant	Tumor/intervention	Effect	Reference
+LSL-KrasG12D; P53lox/lox or Lkb1lox/lox	Ad5-CMV-Cre and treatment with Docetaxel with/without MEK inhibitor.
+Co-clinical trial	MEK inhibitor showed synergistic effect but not upon Lkb1 loss	(Chen et al., 2012)
+LSL-KrasG12Vgeo	Cre-ERT2 (RERT-ert) + Tamoxifen and treatment with Cdk4/6 inhibitor	Cdk4/6 inhibitor reduced KrasV12 tumor progression	(Puyol et al., 2010)
+LL-BrafV600E
+LSL-KrasG12D	Ad5 CMV Cre and treatment with MEK1/2 inhibitors	Tumors regress upon treatment with MEK inhibitor	(Trejo et al., 2012)
+LSL-KrasG12D; P53frt/frt	Ad5-CMV-Cre	Analysis of effects of series of chemotherapies. Comparison with trials in man	(Singh et al., 2010)
+Tet-op-PIK3CA H1047R;
+CCSP-rtTA	Tumor induction by doxycyclin and treatment with pan-PI3K-mTOR inhibitor	Tumor regression upon treatment of pan-PI3K-mTOR inhibitor but not upon TORC1 inhibitor	(Engelman et al., 2008)
+LSL-KrasG12D	Ad5-CMV-Cre and treatment with PI3K and MEK inhibitors	Combined PI3K and MEK inhibition shrinks Kras induced tumors	(Engelman et al., 2008)
+Table options
+2.1. Kras mutations
+Mouse models for NSCLC have mostly focused on the adenocarcinoma subtype. The majority of the studies have been performed using a Lox-Stop-Lox conditional KrasG12D mutation engineered in the endogenous Kras locus (Jackson et al., 2001; Guerra et al., 2003). Introduction of Cre recombinase in cells of LSL-KrasG12D mice results in expression of the mutant allele at endogenous levels. The precise genetic engineering in which expression of a mutant allele is brought under control of the endogenous locus likely mimics the conditions that initiate tumor development in man. Therefore, the consequences for processes such as cell division, apoptosis or senescence, have a high probability to be similar. Since its generation, most investigators have used this LSL-KrasG12D mutant mouse model rather than transgenic models overexpressing mutant Kras and developing disease with a very similar histopathology after a shorter latency period (Meuwissen et al., 2001). Usually tumors are induced in LSL-KrasG12D mice by exposing them to Adeno-Cre or Lenti-Cre viruses (Jackson et al., 2001; Meuwissen et al., 2001; DuPage et al., 2009) thereby achieving sporadic switching of cells in a microenvironment still mostly composed of normal cells. Another conditional allele (RasV12) was constructed such that galactosidase would be co-expressed with the mutant KrasV12 allele permitting the LacZ marking of those cells (Guerra et al., 2003). This experiment showed that most of the tumors arose in the alveolar space. Interestingly, many of the LacZ stained, and therefore KrasV12 expressing cells, did not divide at all whereas others formed small hyperplastic lesions that over time progressed to adenomas and adenocarcinomas. This observation illustrates that there is substantial heterogeneity between alveolar cells with regard to their capacity to initiate the formation of small tumor colonies. Whether this represents heterogeneity in the alveolar type II cells themselves or reflects microenvironmental control exerted by surrounding cells is unclear at the moment. Likely restricted growth is mediated by cell cycle arrest and cellular senescence imposed by cell-autonomous or microenvironmental cues (Collado et al., 2005). In addition, besides the different effects of mutant Kras expression on alveolar cells, other cell types in lung do also respond to mutant Kras expression and can give rise to hyperplasias, adenomas and adenocarcinomas (see Table 1 and also below under “Cell of origin of NSCLC”).
+
+KrasG12D-induced lung tumors in mice also made it possible to define a “mutant Ras” gene signature that permitted identification of a RAS signature in human NSCLC tumors. Such signature could not be identified by analysis of human lung tumors as the noise level in human tumors was too high to derive such signature directly from human tumor samples (Sweet-Cordero et al., 2005). The model is also valuable for protein profiling using plasma samples (Taguchi et al., 2011) illustrating the utility of this model for identifying new biomarkers.
+
+Ras proteins have long been known for their capability to serve several signaling cascades important for cell proliferation and cell migration. This included the MAPK pathway, the PI3K pathway, both contributing to cell proliferation, and the Rac/Rho pathway that is closer associated with cell shape and migratory capacities of cells (Young et al., 2009). In line with this broader role of Ras, activating mutations in the MAPK pathway, such as in BrafV600E (Dankort et al., 2007) or oncogenic Craf show a more benign lung tumor phenotype. Nevertheless, MAPK signaling is critical for lung tumor development. The oncogenic activity of mutant Kras appears dependent on functional Craf (Blasco et al., 2011; Karreth et al., 2011) but not on Braf (Blasco et al., 2011). Furthermore, ablation of both Erk1 and Erk2 impaired tumor development, whereas inactivation of either one alone had no effect (Blasco et al., 2011). Other components in the MAPK signaling pathway, such as Sprouty2, can act as tumor suppressors and its inactivation enhances tumor development (Shaw et al., 2007). A similar activity has been found for the Let7 microRNA (Kumar et al., 2008). In contrast, KrasG12D expression in a Rac1 null background substantially impaired tumor development (Kissil et al., 2007) indicating that Rac1 signaling pathway is important for the oncogenic activity of mutant Kras. Synergy between PI3K pathway activation and mutant Kras is also evident (Engelman et al., 2008; Gupta et al., 2007; Iwanaga et al., 2008; Yang et al., 2008), indicating that signaling through both pathways is important for the oncogenic action of mutant Kras. Moreover, microRNA-21, one of the most significantly overexpressed miRNAs in human NSCLC, enhances KrasG12D initiated lung tumor development through inhibition of negative regulators of the Ras/MEK/Erk pathway (Hatley et al., 2010). Expression of mutant Kras with concomitant loss of Lkb1, a combination often found in human NSCLC, showed strongly accelerated lung tumor development with more malignant and diverse phenotypic characteristics, including squamous cell carcinoma and large cell carcinomas (Ji et al., 2007). In addition, concurrent activation of Wnt/beta-Catenin signaling and mutant Kras signaling leads to aggressive and highly proliferative distal lung tumor formation (Pacheco-Pinedo et al., 2011).
+
+Combining KrasG12D activation with the concomitant inactivation of p53 results in more aggressive tumors that also metastasize. Likely, p53 deficiency permits a level of genomic instability that drives malignant progression. However, p53 deficiency also results in augmented NF-kappaB signaling (Meylan et al., 2009). The relevance of NFkappaB signaling in p53-deficient lung tumors was also illustrated by a delay in tumorigenesis upon inhibition of NfkappaB signaling by bortezomib, a small molecule inhibitor that reduced nuclear NFkappaB (Xue et al., 2011) or by inhibiting IKK2 (Xia et al., 2012). KrasG12D; p53−/− tumors appear also dependent on c-JunNH2 terminal kinase (JNK) (Cellurale et al., 2011). Lentivirus-mediated overexpression of miRNA 34a, a transcriptional target of p53, prevents tumor formation and progression in the KrasG12D; p53lox/lox lung tumor model (Kasinski and Slack, 2012).
+
+In studies in which activation of KrasG12D and inactivation of p53 was achieved by infection of mouse lung with Lentiviral Cre, the relationship between primary tumor nodules and individual metastases could be established (Winslow et al., 2011). In this study the unique chromosomal insertion site of the lentiviral vector served as an unique lineage marker. Interestingly, multiple metastases appeared to be derived from one of the primary tumors, indicating that metastatic progression requires a rare stochastic event or, alternatively, that primary tumors can arise from different cell types that permit more or less efficient metastasis and therefore the metastatic capacity might depend on the cell-of-origin of the primary tumor. The capacity to give rise to metastases was also associated with a distinct marker profile. Metastases had lost expression of NKX2-1 which marks most of the relatively benign adenomas and gained expression of the Hmga2 marker (Winslow et al., 2011). Primary tumors that served as donor of the metastases as defined by the lentiviral insertion site showed regions with a same change in the NKX2-1 and Hmga2 marker profile as assessed by histological staining. Interestingly, the same markers are also associated with more aggressive disease in human NSCLC.
+
+2.2. EGFR mutations
+Lung-specific switching of conditional Egfr mutant alleles in mice results in lung tumors. Next to sporadic switching using Cre encoding viruses, Tet-inducible models have also be used to activate KrasG12D, and various Egfr mutants (Politi et al., 2006; Regales et al., 2007). Whereas activation of KrasG12D resulted in focal tumors, the EgfrL858R mutation gave rise to diffuse lung cancer resembling bronchioalveolar carcinomas. Expression of the exon 19 deleted Egfr allele resulted in multifocal adenocarcinomas. The T790M mutation that makes the Egfr refractory to erlotinib/gefitinib inhibition, shows delayed tumorigenesis in comparison with the L858R mutant. Also the L858R + T790M double mutant, often found in relapsed human lung cancer after treatment with gefitinib or erlotinib, shows a prolonged latency period as compared to the L858R mutant alone (Regales et al., 2007).
+
+This elegantly illustrates the value of mouse models for comparing the different tumor inducing alleles in a fully comparable setting. Furthermore, the close phenotypic similarity between the human and mouse tumors further emphasizes the utility of these models. These models appear also very suitable to study resistance mechanisms. Treatment of mouse lung tumors carrying the Egfr L858M mutation resulted in drug-resistant tumors. In a subset of the tumors the T790M mutation was found as well as Met amplification (Politi et al., 2010) and Her2 overexpression (Takezawa et al., 2012), all resistance mechanisms that are also found in tumors in man. Furthermore, mice carrying the T790M mutation can also be used to test new intervention strategies, especially if these are based on the use of drug combinations. A number of new intervention strategies have been evaluated in this way (Regales et al., 2009). In an extensive study comparing standard therapies in man with interventions in mouse models the similarities in responses were rigorously documented (Singh et al., 2010).
+
+2.3. ALK fusion gene
+Anaplastic lymphoma kinase (ALK) encodes a receptor tyrosine kinase which is not expressed in the normal lung. However, a novel ALK fusion protein EML4-ALK is often found in NSCLC patient tumor samples causing constitutive tyrosine kinase activity in the lung (Soda et al., 2007). EML4-ALK represents ∼5% of all NSCLCs and is mutually exclusive with Kras and EGFR mutations (Gerber and Minna, 2010). Similar to EGFR mutations, EML4-ALK fusions are much more common in young patients and light or never-smokers. To address their tumor-initiating role, lung specific EML4-ALK expressing transgenic mice were generated. All of the transgenic mice showed the development of multiple lung adenocarcinoma shortly after birth, indicative for the oncogenicity of the fusion kinase (Soda et al., 2008).
+
+2.4. Pathway addiction
+The dependence of tumor on the continuous signaling through a particular pathway, coined as oncogene addiction (Weinstein, 2002) is rightly considered as the Achilles heal of cancers. Interventions that target such pathways are considered most promising. The dependence on specific pathways is most evident from the frequent occurrence of specific mutations, such as the EGFR L858M mutation in NSCLC and the BRAFv600E lesion in melanoma. Addiction is also evident from the convergent evolution seen in multiple subclones of heterogenous tumors in which different mutations in the same pathway are found in individual clones (Gerlinger et al., 2012). On the one hand it illustrates how critical that pathway is for tumor development and likely for tumor maintenance, on the other hand such pathways are difficult to target effectively in all tumor cells, since interventions usually focus on individual components in a pathway and therefore resistant clones will be almost invariably present. This can significantly reduce the effectiveness of an otherwise very effective drug as has been shown in the case of melanoma in which tumors show a dramatic response to the BRAF inhibitor vemurafenib but subsequently relapse in a matter of months with the relapsed tumor now being refractory to the drug (Wagle et al., 2011). Obviously, the lower one can intersect in a particular pathway, e.g. all the way down to a (set of) specific transcription factor(s), the smaller the chance of escape. However, it might also increase the toxicity as normal cells might need that transcription factor for normal cells to function properly. An added complication is that inhibitors of transcription factors are difficult to design. Nevertheless, transcription factors could serve as very useful targets. A very illustrating example is Myc, itself strongly oncogenic when overexpressed. Using a modified Myc construct, OmoMyc, which acts as a dominant-negative form of Myc and directs the Myc interactome to repression rather than activation (Savino et al., 2011) it was shown that mutant Kras induced adenocarcinomas in lung could be eradicated and that the effectiveness could be enhanced by appropriate dosing schedules (Soucek et al., 2008). Although it will be a challenge to generate drugs with a similar specificity as Omomyc, these experiments show that at least for Myc there is a therapeutical window to selectively target tumor cells with tolerable and reversible damage to normal cells. This revealing insight is exclusively acquired by OmoMyc expression in mouse tumor models and represents an illuminating illustration of the value of mouse models for developing highly innovating intervention paradigms that otherwise would not even be considered.
+
+Similarly, synthetic lethal screens can identify other targets to which tumors become addicted when a particular pathway is mutationally activated. This would also permit the use of inhibitors that target a single normal protein on which in particular the tumor cells depend as the result of a mutation in a defined pathway. Recently, it was shown that Gata2 fulfills such role in mutant Kras induced NSCLC (Barbacid, 2012; Kumar et al., 2012). The attraction of synthetic lethality is that the toxicity mediated by the putative “drug” will depend on the aberrant expression or mutation of the “synthetic” gene in the tumor thereby limiting the side effects.
+
+Some of the studies that illustrate oncogene addiction or dependencies of mutant Kras or Egfr on the expression of other genes are summarized in Table 2.
+
+2.5. Cell-of-origin of NSCLC
+For many years human adenocarcinomas were thought to arise from transformed alveolar type 2 cells (AT2) cells, as a hallmark feature of this tumor subtype is the expression of Surfactant Protein C (pro-SPC or Sftpc), a well-characterized marker of AT2 cells. However, in principle many different cell types could serve as the cell-of-origin of adenocarcinomas. This has been explored by activating the KrasG12D allele in different lung cell types of mice. Cre-recombinase constructs driven from either an alveolar type II specific promoter (SPC) or a Clara cell specific promoter (CC10) were shown to cause adenomas and subsequently adenocarcinomas. This suggested that tumors can arise from different cell types in lung or that cells expressing both SPC and CC10 serve as the cell of origin of adenomas. A very rare population of cells expressing both CC10 and SPC, residing at the bronchioalveolar duct junction (BADJ), a well-established stem cell niche (Giangreco et al., 2002), has been proposed as the cell-of-origin of mutant Kras driven lung tumors (Kim et al., 2005; Ventura et al., 2007; Yanagi et al., 2007; Yang et al., 2008). Subsequent detailed studies using Cre-ERT2 knockins in the CC10 and SPC genes offered a more detailed assessment of the cell-of-origin. In an elegant and detailed study (Xu et al., 2012) found that activation of mutant Kras in SPC-positive cells gives rise to widespread hyperplasia in the alveolar space that progressed to adenomas and adenocarcinomas, indicating that alveolar type II cells can very efficiently serve as the cell-of-origin of these tumors. CC10-positive cells gave rise to local hyperplasias in the duct junction region but these hyperplasias did not progress to tumors. However, the same authors provided evidence that rare cells in the alveolar space that expressed low levels of CC10, and likely representing a subset of the alveolar type II cells, could give rise to adenomas/adenocarcinomas that were, in their early phase, characterized by a different marker profile of which SOX2 expression was a pronounced example. This distinguished these CC10-Cre initiated tumors from those initiated by SPC-Cre (Xu et al., 2012). Using adenoviruses equipped with Cre constructs driven from SPC and CC10 promoters (Sutherland et al., 2011) we also could induce adenomas and adenocarcinomas using both viruses. Whereas Ad5-SPC-Cre virus would induce effectively tumors in the alveolar space, Ad5-CC10-Cre virus caused adenomas and adenocarcinomas that started at the BADJ region. The target cell giving rise to these latter tumors is a pronounced CC10-positive cell. Early lesions also show high SOX2 expression indicating that this might be the same cell as identified by Xu et al. (Xu et al., 2012). Our data, however, favor a model in which mutant Kras expression in a subset of the CC10-positive cells in the duct junction regions permits those cells to proliferate and differentiate into SPC positive cells that subsequently give rise to adenocarcinomas (Sutherland and Berns, in preparation). Our observations would be largely in line with both the work of Kim et al. (2005), Xu et al. (2012). However, a definitive answer to the cell-of-origin question will have to come from directing Cre expression to better-defined subsets of cells in lung, e.g. by using promoter combinations to activate Cre recombinase (Hirrlinger et al., 2009). It will also be important to assess to what extent the cell-of-origin contributes to the final tumor phenotype and whether a particular cell-of-origin requires a specific set of mutations to be able to actually serve as the cell-of-origin. Our own observation that even neuroendocrine cells in lung can give rise to adenocarcinomas (Sutherland and Berns, in preparation) when besides mutant Kras expression p53 is inactivated supports the notion that many cells can serve as the cell-of-origin of a tumor provided they can accumulate the appropriate set of mutations. This concept was elegantly illustrated in a transposon tagging experiment leading to T-cell acute lymphoblastic leukemia (T-ALL). Activation of the transposon in different cells along the lymphoid differentiation lineage resulted in T-ALL in all instances. However, the genes found to be mutated/activated differed substantially and showed only partial overlap (Berquam-Vrieze et al., 2011). On might therefore argue that any cell can serve as a cell-of-origin of any tumor, provided the right set of mutations are introduced. The capacity to convert a somatic cell into a iPS cell by the temporal expression of a small set of genes (Takahashi et al., 2007), most of which are renowned oncogenes, is in support of this notion. The question then rather should be what the probability is that such lesions accumulate in a specific cell type. Again the elegant transposon tagging study mentioned above gives an indication. In the T-ALL induction experiment far fewer mutations were needed when the transposon was activated in “stem cell” like progenitors and tumors also developed after a shorter latency period (Berquam-Vrieze et al., 2011), suggesting that cells endowed with self-renewal capacity are a more suitable starting point for tumorigenesis giving rise to cancer stem cells that can fuel tumor growth (Schepers et al., 2012). Obviously, the size of that specific cell population is also a critical factor. A very elegant lineage tracing study by Song et al. (Song et al., 2012) provide evidence that cells expressing neuroendocrine markers can give rise to alveolar cells during development and even to Clara cells upon lung damage supporting the notion that the plasticity of cells is much larger than we might have anticipated.
+
+There is another reason to be cautious drawing conclusions from the cell-of-origin experiments conducted in mice. Mouse tumor model experiments could easily lead to the wrong conclusions when we induce tumors by introducing multiple lesions simultaneously. Such combination might transform a differentiated cell into a self-renewing tumor cell although under normal conditions such cell would never be able to accumulate those mutations. Adenocarcinomas induced from neuroendocrine cells might represent such an example.
+
+3. Mouse models for SCLC
+Small cell lung cancer is almost exclusively occurring in smokers and has a very poor prognosis. Only the small group of patients with limited stage disease have a 20% chance to survive longterm (Kalemkerian, 2011). SCLC has a very high mutation load due to the longterm exposure of carcinogens present in cigarette smoke (Pleasance et al., 2010). The cells in SCLC have a high mitotic index, show neuroendocrine markers and are believed to derive from neuroendocrine cells in lung. The tumors usually respond well to cisplatin but invariably relapse and are then refractory to the drug. Predominant mutations observed in SCLC include loss-of-function mutations in the retinoblastoma and p53 genes. Mutation clustering is also found in the PI3K pathway, the mediator complex, Notch and Hedgehog, glutamate receptors, Sox genes, DNA repair genes and several receptor kinases (Peifer et al., 2012; Rudin et al., 2012). Gain of function mutations or overexpression of proto-oncogenes by amplification of distinct chromosomal regions include L-MYC, C-MYC, SOX2 and SOX4 (Rudin et al., 2012). The large variety of lesions found in this tumor illustrates the need to design models in which the importance of individual lesions can be assessed in the context of various combinations of concurrent oncogenic mutations. This notion provides a strong incentive to set-up fast-track mouse tumor models in which different combinations of lesions can be evaluated swiftly (Huijbers et al., 2011; Dow and Lowe, 2012).
+
+3.1. Rb and p53 lesions
+The retinoblastoma and p53 tumor suppressor genes are frequently inactivated in SCLC. That has been the background for modeling this disease in compound conditional knockouts of Rb and p53 (Meuwissen et al., 2003). SCLC have been initiated mostly by infecting conditional Rblox/lox; p53lox/lox (RPf) mice with adenoviral or lentiviral vectors expressing Cre recombinase. Inactivating Rb and p53 invariably results in SCLC although it takes often more than 9 months before tumors become evident. The tumors closely resemble human SCLC and even metastasize to the same organs. They also acquire additional mutations that are reminiscent of human SCLC, such as the amplification of one of the Myc genes. In addition, amplification of the Nfib gene is frequently observed in mouse SCLC. This gene is also found to be amplified in human SCLC (Dooley et al., 2011). In vitro Nfib has been show to contribute to transformation and has a synergistic effect with Lmyc (Dooley et al., 2011). Overexpression of Lmyc and Nfib also does accelerate SCLC development in RPf mice in vivo (our unpublished results). Combined loss of the Rb related protein p130 with Rb and p53 result in significant acceleration of SCLC development indicative for a potent tumor suppressing role of p130 in mouse SCLC (Schaffer et al., 2010). There is also strong synergy with mutations in the PI3K pathway as inactivation of Rb, p53 and Pten in Rbf/f; p53f/f; Ptenf/f; CGRP-CreER mice resulted in strongly accelerated tumor development (Song et al., 2012). These data show that conditional RPf constitute a very suitable starting point for assessing the contributions of other lesions frequently found in human SCLC. In addition, tumor cell lines from such mice are much more suitable to identify specific drug response and resistance profiles since these can be assessed in a defined background without the enormous mutation load that is typical for human SCLC cell lines. Furthermore, the fast-track mouse models (Huijbers et al., 2011) that allow the swift sampling of a whole series of mutations, should make it possible to search for combination treatments and identify synthetic lethal interaction with recurrent lesions found in SCLC.
+
+3.2. Functional tumor cell heterogeneity, a new paradigm
+Tumor heterogeneity is the largest problem we face in treating cancer in general and in lung cancer in particular because of the exceptional high mutation load in most lung cancers. Tumor cell heterogeneity is an important basis for developing drug resistance and many of the mutations that were found to be responsible for tumor relapses could already be found in the initial tumor sample in a subset of the cells (Gerlinger et al., 2012). However, it has been long recognized that tumors, although out of control, still require some level of organization in order to gain access to energy and nutrients. This requires a level of organization in which normal stromal cells, hematopoietic cells and endothelial cells often play a supporting role. Whereas the view that a tumor is an aberrant “organ” has been expertly described in authoritative reviews (Hanahan and Weinberg, 2000, 2011) a specific role of tumor cell heterogeneity itself for the functionality of the tumor organ has received less attention. However, one might argue that if a tumor manages to recruit a range of normal cells to “serve” tumor growth and metastasis, why would the Darwinian selection to which tumor cells are subjected, not lead to specialization among tumor cells themselves in which specific tasks are divided between tumor cells? This resembles the vasculogenic mimicry observed in glioma (Ricci-Vitiani et al., 2010).
+
+We stumbled on this aspect when we characterized individual tumor cell clones from mouse SCLC in vitro. These mouse SCLC tumors could be easily propagated in vitro. In many of these tumors we found two types of cells, one growing in suspensions with neuroendocrine features that are typical for SCLC, the other growing adherent and showing mesenchymal markers more closely resembling NSCLC. Remarkably, we found a number of “sets” in which the neuroendocrine and non-neuroendocrine cells isolated from the same primary tumor showed a clonal relationship. They shared some genomic aberrations whereas also carrying unique genomic alterations that identified them as independent subclones. Apparently, they originated from a single precursor cell that underwent genomic alterations and then diverged while remaining constituents of the primary tumor. Each of the clones would grow independently in vitro and in vivo while retaining their distinct marker profile.
+
+Co-cultures of neuroendocrine and non-neuroendocrine cells in vitro showed accelerated growth of both cell types suggestive for a paracrine mutual support role. In subcutaneous grafts this accelerated growth was not observed. However, in the co-graft setting we observed that the presence of the non-neuroendocrine cells in the primary graft endowed the neuroendocrine tumor cells with metastatic capacity (Calbo et al., 2011). This property was specifically mediated by the non-neuroendocrine cells. A similar activity could not be conferred by normal fibroblasts. Metastasis required close proximity of the non-neuroendocrine and neuroendocrine cells as metastasis was not observed when the non-neuroendocrine cells were grafted in the opposite flank of the mouse. Furthermore, although co-grafting resulted in a mixed tumor in which the non-neuroendocrine cells were distributed throughout the primary graft, only the neuroendocrine cell would show outgrowth at the metastatic site. The paracrine signaling cascades responsible for this accelerated growth in vitro, and augmented metastatic behavior are currently being explored. Obviously, the question is whether these observations bear any relevance for human SCLC. Two points are worth mentioning here. Human SCLC cell lines when cultured in vitro also show adherent and non-adherent subclones resembling the situation we encountered in mouse SCLC. Furthermore, there are reports of interconversion between NSCLC and SCLC in man. A fraction of the NSCLC appear, after treatment, to relapse as SCLC while retaining the specific EGFR mutation found in the original NSCLC (Sequist et al., 2011). These observations illustrate the remarkable plasticity of tumors. This is a major challenge for designing effective treatments. Clearly, mouse models as described here can be of enormous help to understand the molecular basis of these interconversions and to come up with and test new intervention strategies (Chen et al., 2012).
+
+3.3. Pathway addiction of SCLC
+Whereas in NSCLC frequent activating mutations are found in the MAPK pathway, such as in KRAS and EGFR, such frequent activating mutations are lacking in SCLC. However, SCLC are known to respond well to cisplatin although they become invariably refractory to the drug making it almost impossible to effectively treat relapsed SCLC. Resistance mechanism needs to be explored and it is worth examining all possible mechanisms which should also include the role of drug transporters (Minami et al., 2012). Furthermore SCLC has been shown to be dependent on several signaling cascades such as hedgehog signaling (Park et al., 2011b) and therefore hedgehog inhibitors are worth exploring. Similarly, the frequently found mutations in the PI3K pathway and amplification of BCL2 (Rudin et al., 2012) points to potential sensitivity towards inhibitors of anti-apoptotic pathways. The very recurrent overexpression of MYC in SCLC also offers a potential strategy for intervention. We already described the remarkable tumor-eradicating effect of OmoMyc expression in NSCLC (Soucek et al., 2008). Furthermore, several synthetic lethal interactions have been described for overexpression of MYC. Obviously these strategies can be excellently explored in these mouse models (Goga et al., 2007; Yang et al., 2010; Yuneva et al., 2012). Mouse models of SCLC have so far not significantly contributed to the assessment of new intervention strategies. This is largely due to the fact that spontaneous SCLC growth takes a long time and growth and regression is difficult to monitor using noninvasive imaging techniques due to the central location of the tumors, making high-throughput imaging techniques, such as bioluminescence, cumbersome. However, using stronger promoters to drive more active luciferases will likely resolve this, especially now these more effective reporters can be quickly combined with the lesions needed to give rise to SCLC (Huijbers et al., 2011).
+
+3.4. Cell-of-origin of SCLC
+Neuroendocrine cells present in lung were long assumed to be the cell-of-origin of SCLC. This was largely based on the neuroendocrine marker profile of these tumors. However, formal proof was lacking. Therefore, we and others have addressed this by cell type specific switching of conditional Rb and p53 alleles (Sutherland et al., 2011; Park et al., 2011a). We inactivated Rb and p53 in neuroendocrine (CGRP promoter), Clara (CC10 promoter) and alveolar type II cells (SPC promoter) using the cell type-specific Adeno-Cre viruses described above. The results show that inactivation of Rb and p53 by neuroendocrine cells specific Ad5-CGRP-Cre virus is the most efficient way to induce SCLC, supporting a neuroendocrine origin of SCLC. However, also switching of Rb and p53 in SPC-positive cells gives rise to SCLC although at a lower efficiency. Interestingly, the latter tumors are often more peripherally located and preliminary data suggest that these tumors might carry chromosomal aberrations that are not observed in tumors induced in neuroendocrine cells. This brings up the point that was also raised above with regard to cell-of-origin studies in NSCLC. There is still the question whether the relatively small number of neuroendocrine cells in lung provide a large enough target population to accumulate all the mutations when these have to be induced by carcinogens. Therefore, we are repeating this experiment but now using mice that carry either one wild-type Rb or p53 allele. Then a spontaneous LOH event is necessary to loose both alleles and develop SCLC. We know from previous experiments that such LOH events do occur when switching is mediated by Ad5-CMV-Cre. However, the question is whether in this setting Ad5-CGRP-Cre is still the most effectively virus giving rise to SCLC. Important follow-up questions are then whether the phenotypic characteristics of tumors arising from different cells-of-origin are also different as we seem to observe for NSCLC and whether we can find evidence that this also occurs in human SCLC.
+
+4. Squamous cell carcinomas
+Although squamous cell carcinomas (SCC) constitute an important fraction of the NSCLC in man, modeling of this tumor type in the mouse is still in its infancy (You et al., 2012). Overexpression of genes found in squamous cell carcinoma such as Sox2 (Lu et al., 2010) are worth reproducing in mice together with some of the other mutations found in squamous cell carcinomas. Loss of Lkb1 has been shown to give tumors with squamous makers (Ji et al., 2007). By combining appropriate lesions found in human SCC with cell-type specific targeting should enable the mouse community to also generate high incidence SCC mouse models closely resembling human SCC, making them suitable for the validation of targets and for the testing of new intervention strategies.
+
+5. Patient-derived xenografts
+Detailed description of patient derived xenograft models (PDX) of lung tumors is beyond the scope of this review. Nevertheless, it is worth mentioning that grafting tissue fragments from primary or metastasized tumors is highly promising approach complementing the autochthonous mouse models described above. In cases where sufficient lung tumor tissue can be obtained from patients this strategy needs to be pursued vigorously. Maintaining the tumor architecture including the stromal components can teach us dependencies that are difficult to reproduce in vitro or by grafting strategies using primary cell populations. At the same time extensive tumor heterogeneity and a highly complex mutation spectrum might limit the predictive value of such approach. Nevertheless, it is the only approach to study intact human tumors in a well-controlled in vivo setting (Moro et al., 2012).
+
+6. Future perspectives
+Autochthonous mouse models for lung cancer hold great promise for developing new intervention strategies (Singh et al., 2012). We summarize the most important reasons why.
+
+i.
+Cancer genome sequencing of in particular smoking-related lung cancers show so many genomic aberrations that the contribution of individual lesions to the tumor phenotypic characteristics and drug response are very difficult to assess. We need models to quickly evaluate the relevance of the different lesions. This has immediate consequences for the selection of appropriate intervention strategies.
+ii.
+Current fast-track mouse models make it possible to introduce swiftly mutations that one wants to assess for their tumor driver capacity and suitability as a direct or indirect target. The availability of methods to specifically inactivate targets via genetic methods makes the availability of suitable drugs for that specific target largely superfluous. Furthermore, if an effective target can be identified for which no drug is available, the observation by itself will provide a strong motivation to invest in the design of small molecule inhibitors for such target.
+i.
+Although the genetic homogeneity of mouse models we employ obviously does not reflect the genetic complexity inherent to the human population or outbred mice for that matter, we need to reduce to background noise to assess the importance of the driver mutations we want explore for intervention. The obvious good news in this regard is that the autochthonous models with their identical genetic background actually do reproduce the human disease often quite accurately and even acquire new mutations that are identical to those observed in human tumors. However, it is also evident that we can take advantage of the large array of mouse strains to search for alleles that can modify the tumor phenotype. This again is an area that can only be explored efficiently in mice (Welsh et al., 2012).
+ii.
+By introducing a sufficient number of mutations to cause tumors swiftly we can fully focus on exclusively those combinations of mutations for testing intervention. Additional mutations that are subsequently spontaneously acquired then do matter less. This has the advantage that we should see therapeutic effects even if we treat multiple independent tumors that undoubtedly will arise in such models. This implies that tumor monitoring using e.g. bioluminescence to read out overall tumor load then becomes a suitable strategy to monitor the success of interventions.
+iii.
+The autochthonous mouse models currently available are also an exquisite source of defined tumor cell lines that can be used in drug response and resistance screens using drug and shRNA library screening pipelines. The latter can be used both to identify resistance mechanisms as well as targets to overcome resistance. Drop-out shRNA screens conducted both in vitro in cell lines and in vivo in tumor cell graft models can in this regard yield promising synthetic lethal targets for intervention.
+iv.
+Conducting co-clinical trials in which trials in patients are flanked by trials in autochthonous mouse models (Singh et al., 2010) in which the same therapeutic regimen is used can provide important mechanistic insight (Chen et al., 2012). It might teach why a particular intervention does or does not work. Especially for combination therapies the precise way in which drugs are given (dose/frequency/order) might make an enormous difference and turn out to be of critical important to achieve maximal efficacy with tolerable toxicity. Mouse experiments might also teach whether a particular treatment can eliminate the cancer-initiating cell compartment, an aspect this is almost impossible to monitor directly in patients.
+It should be evident that making mouse models a really effective tool for treatment design and validation demands major commitments both with regard to facilities, personnel as well as funding. This is the area where we need to join forces to guarantee sufficient continuity of high quality infrastructures and expertise.
+
+Acknowledgments
+We would like to thank Paul Krimpenfort for critically reading the manuscript. M-C K. was supported by a program grant of the Dutch Cancer Society to A.B.
+
+References
+Barbacid, 2012
+M. Barbacid
+Opening a new GATAway for treating KRAS-driven lung tumors
+Cancer Cell, 21 (2012), pp. 598–600
+
+Article |  PDF (194 K) | View Record in Scopus | Citing articles (2)
+Berquam-Vrieze et al., 2011
+K.E. Berquam-Vrieze, K. Nannapaneni, B.T. Brett, L. Holmfeldt, J. Ma, O. Zagorodna, N.A. Jenkins, N.G. Copeland, D.K. Meyerholz, C.M. Knudson et al.
+Cell of origin strongly influences genetic selection in a mouse model of T-ALL
+Blood, 118 (2011), pp. 4646–4656
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Blasco et al., 2011
+R.B. Blasco, S. Francoz, D. Santamaría, M. Cañamero, P. Dubus, J. Charron, M. Baccarini, M. Barbacid
+c-Raf, but not B-Raf, is essential for development of K-Ras oncogene-driven non-small cell lung carcinoma
+Cancer Cell, 19 (2011), pp. 652–663
+
+Article |  PDF (1248 K) | View Record in Scopus | Citing articles (56)
+Calbo et al., 2011
+J. Calbo, E. van Montfort, N. Proost, E. van Drunen, H.B. Beverloo, R. Meuwissen, A. Berns
+A functional role for tumor cell heterogeneity in a mouse model of small cell lung cancer
+Cancer Cell, 19 (2011), pp. 244–256
+
+Article |  PDF (2450 K) | View Record in Scopus | Citing articles (35)
+Cellurale et al., 2011
+C. Cellurale, G. Sabio, N.J. Kennedy, M. Das, M. Barlow, P. Sandy, T. Jacks, R.J. Davis
+Requirement of c-Jun NH(2)-terminal kinase for Ras-initiated tumor formation
+Mol. Cell. Biol., 31 (2011), pp. 1565–1576
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Ceteci et al., 2011
+F. Ceteci, J. Xu, S. Ceteci, E. Zanucco, C. Thakur, U.R. Rapp
+Conditional expression of oncogenic C-RAF in mouse pulmonary epithelial cells reveals differential tumorigenesis and induction of autophagy leading to tumor regression
+Neoplasia, 13 (2011), pp. 1005–1018
+
+View Record in Scopus | Citing articles (8)
+Chen et al., 2012
+Z. Chen, K. Cheng, Z. Walton, Y. Wang, H. Ebi, T. Shimamura, Y. Liu, T. Tupper, J. Ouyang, J. Li et al.
+A murine lung cancer co-clinical trial identifies genetic modifiers of therapeutic response
+Nature, 483 (2012), pp. 613–617
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+Collado et al., 2005
+M. Collado, J. Gil, A. Efeyan, C. Guerra, A.J. Schuhmacher, M. Barradas, A. Benguría, A. Zaballos, J.M. Flores, M. Barbacid et al.
+Tumour biology: senescence in premalignant tumours
+Nature, 436 (2005), p. 642
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (634)
+Dankort et al., 2007
+D. Dankort, E. Filenova, M. Collado, M. Serrano, K. Jones, M. McMahon
+A new mouse model to explore the initiation, progression, and therapy of BRAFV600E-induced lung tumors
+Genes Dev., 21 (2007), pp. 379–384
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (166)
+Davies et al., 2002
+H. Davies, G.R. Bignell, C. Cox, P. Stephens, S. Edkins, S. Clegg, J. Teague, H. Woffendin, M.J. Garnett, W. Bottomley et al.
+Mutations of the BRAF gene in human cancer
+Nature, 417 (2002), pp. 949–954
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3858)
+Dooley et al., 2011
+A.L. Dooley, M.M. Winslow, D.Y. Chiang, S. Banerji, N. Stransky, T.L. Dayton, E.L. Snyder, S. Senna, C.A. Whittaker, R.T. Bronson et al.
+Nuclear factor I/B is an oncogene in small cell lung cancer
+Genes Dev., 25 (2011), pp. 1470–1475
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+Dow and Lowe, 2012
+L.E. Dow, S.W. Lowe
+Life in the fast lane: mammalian disease models in the genomics era
+Cell, 148 (2012), pp. 1099–1109
+
+Article |  PDF (665 K) | View Record in Scopus | Citing articles (20)
+DuPage et al., 2009
+M. DuPage, A.L. Dooley, T. Jacks
+Conditional mouse lung cancer models using adenoviral or lentiviral delivery of Cre recombinase
+Nat. Protoc., 4 (2009), pp. 1064–1072
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+Engelman et al., 2008
+J.A. Engelman, L. Chen, X. Tan, K. Crosby, A.R. Guimaraes, R. Upadhyay, M. Maira et al.
+Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers
+Nat. Med., 14 (2008), pp. 1351–1356 http://dx.doi.org.hsl-ezproxy.ucdenver.edu/10.1038/nm.1890
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (556)
+Fisher et al., 2001
+G.H. Fisher, S.L. Wellen, D. Klimstra, J.M. Lenczowski, J.W. Tichelaar, M.J. Lizak, J.A. Whitsett, A. Koretsky, H.E. Varmus
+Induction and apoptotic regression of lung adenocarcinomas by regulation of a K-Ras transgene in the presence and absence of tumor suppressor genes
+Genes Dev., 15 (2001), pp. 3249–3262
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (323)
+Frese and Tuveson, 2007
+K.K. Frese, D.A. Tuveson
+Maximizing mouse cancer models
+Nat. Rev. Cancer, 7 (2007), pp. 645–658
+
+View Record in Scopus | Citing articles (253)
+Gerber and Minna, 2010
+D.E. Gerber, J.D. Minna
+ALK inhibition for non-small cell lung cancer: from discovery to therapy in record time
+Cancer Cell, 18 (2010), pp. 548–551
+
+Article |  PDF (108 K) | View Record in Scopus | Citing articles (87)
+Gerlinger et al., 2012
+M. Gerlinger, A.J. Rowan, S. Horswell, J. Larkin, D. Endesfelder, E. Gronroos, P. Martinez, N. Matthews, A. Stewart, P. Tarpey et al.
+Intratumor heterogeneity and branched evolution revealed by multiregion sequencing
+N. Engl. J. Med., 366 (2012), pp. 883–892
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (999)
+Giangreco et al., 2002
+A. Giangreco, S. Reynolds, B. Stripp
+Terminal bronchioles harbor a unique airway stem cell population that localizes to the bronchoalveolar duct junction
+Am. J. Pathol., 161 (2002), pp. 173–182
+
+Article |  PDF (1230 K) | View Record in Scopus | Citing articles (277)
+Goga et al., 2007
+A. Goga, D. Yang, A.D. Tward, D.O. Morgan, J.M. Bishop
+Inhibition of CDK1 as a potential therapy for tumors over-expressing MYC
+Nat. Med., 13 (2007), pp. 820–827
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (92)
+Guerra et al., 2003
+C. Guerra, N. Mijimolle, A. Dhawahir, P. Dubus, M. Barradas, M. Serrano, V. Campuzano, M. Barbacid
+Tumor induction by an endogenous K-ras oncogene is highly dependent on cellular context
+Cancer Cell, 4 (2003), pp. 111–120
+
+Article |  PDF (3088 K) | View Record in Scopus | Citing articles (267)
+Gupta et al., 2007
+S. Gupta, A.R. Ramjaun, P. Haiko, Y. Wang, P.H. Warne, B. Nicke, E. Nye, G. Stamp, K. Alitalo, J. Downward
+Binding of ras to phosphoinositide 3-kinase p110alpha is required for ras-driven tumorigenesis in mice
+Cell, 129 (2007), pp. 957–968
+
+Article |  PDF (1318 K) | View Record in Scopus | Citing articles (254)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (12807)
+Hanahan and Weinberg, 2011
+D. Hanahan, R.A. Weinberg
+Hallmarks of cancer: the next generation
+Cell, 144 (2011), pp. 646–674
+
+Article |  PDF (2122 K) | View Record in Scopus | Citing articles (5394)
+Hatley et al., 2010
+M.E. Hatley, D.M. Patrick, M.R. Garcia, J.A. Richardson, R. Bassel-Duby, E. van Rooij, E.N. Olson
+Modulation of K-Ras-dependent lung tumorigenesis by MicroRNA-21
+Cancer Cell, 18 (2010), pp. 282–293
+
+Article |  PDF (1597 K) | View Record in Scopus | Citing articles (174)
+Hirrlinger et al., 2009
+J. Hirrlinger, R.P. Requardt, U. Winkler, F. Wilhelm, C. Schulze, P.G. Hirrlinger
+Split-CreERT2: temporal control of DNA recombination mediated by split-Cre protein fragment complementation
+PLoS ONE, 4 (2009), p. e8354
+
+Full Text via CrossRef
+Huijbers et al., 2011
+I.J. Huijbers, P. Krimpenfort, A. Berns, J. Jonkers
+Rapid validation of cancer genes in chimeras derived from established genetically engineered mouse models
+Bioessays, 33 (2011), pp. 701–710
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+Iwanaga et al., 2008
+K. Iwanaga, Y. Yang, M.G. Raso, L. Ma, A.E. Hanna, N. Thilaganathan, S. Moghaddam, C.M. Evans, H. Li, W.-W. Cai et al.
+Pten inactivation accelerates oncogenic K-ras-initiated tumorigenesis in a mouse model of lung cancer
+Cancer Res., 68 (2008), pp. 1119–1127
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+Jackson et al., 2001
+E.L. Jackson, N. Willis, K. Mercer, R.T. Bronson, D. Crowley, R. Montoya, T. Jacks, D.A. Tuveson
+Analysis of lung tumor initiation and progression using conditional expression of oncogenic K-ras
+Genes Dev., 15 (2001), pp. 3243–3248
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (601)
+Ji et al., 2007
+H. Ji, M.R. Ramsey, D.N. Hayes, C. Fan, K. McNamara, P. Kozlowski, C. Torrice, M.C. Wu, T. Shimamura, S.A. Perera et al.
+LKB1 modulates lung cancer differentiation and metastasis
+Nature, 448 (2007), pp. 807–810
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (291)
+Johnson et al., 2001
+L. Johnson, K. Mercer, D. Greenbaum, R.T. Bronson, D. Crowley, D.A. Tuveson, T. Jacks
+Somatic activation of the K-ras oncogene causes early onset lung cancer in mice
+Nature, 410 (6832) (2001), pp. 1111–1116 http://dx.doi.org.hsl-ezproxy.ucdenver.edu/10.1038/35074129
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Kalemkerian, 2011
+G.P. Kalemkerian
+Advances in the treatment of small-cell lung cancer
+Semin. Respir. Crit. Care Med., 32 (2011), pp. 94–101
+
+View Record in Scopus | Citing articles (6)
+Karreth et al., 2011
+F.A. Karreth, K.K. Frese, G.M. DeNicola, M. Baccarini, D.A. Tuveson
+C-Raf is required for the initiation of lung cancer by K-Ras(G12D)
+Cancer Discov., 1 (2011), pp. 128–136
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+Kasinski and Slack, 2012
+A.L. Kasinski, F.J. Slack
+miRNA-34 prevents cancer initiation and progression in a therapeutically resistant K-ras and p53-induced mouse model of lung adenocarcinoma
+Cancer Res., 72 (2012), pp. 5576–5587
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+Kim et al., 2005
+C.F.B. Kim, E.L. Jackson, A.E. Woolfenden, S. Lawrence, I. Babar, S. Vogel, D. Crowley, R.T. Bronson, T. Jacks
+Identification of bronchioalveolar stem cells in normal lung and lung cancer
+Cell, 121 (2005), pp. 823–835
+
+Article |  PDF (653 K)
+Kissil et al., 2007
+J.L. Kissil, M.J. Walmsley, L. Hanlon, K.M. Haigis, C.F. Bender Kim, A. Sweet-Cordero, M.S. Eckman, D.A. Tuveson, A.J. Capobianco, V.L.J. Tybulewicz et al.
+Requirement for Rac1 in a K-ras induced lung cancer in the mouse
+Cancer Res., 67 (2007), pp. 8089–8094
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (71)
+Kumar et al., 2008
+M.S. Kumar, S.J. Erkeland, R.E. Pester, C.Y. Chen, M.S. Ebert, P.A. Sharp, T. Jacks
+Suppression of non-small cell lung tumor development by the let-7 microRNA family
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 3903–3908
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (396)
+Kumar et al., 2012
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas, M. Steckel, P. East, M. Diefenbacher, E. Armenteros-Monterroso, F. Lassailly, N. Matthews, E. Nye et al.
+The GATA2 transcriptional network is requisite for RAS oncogene-driven non-small cell lung cancer
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+Landis et al., 1999
+S.H. Landis, T. Murray, S. Bolden, P.A. Wingo
+Cancer statistics, 1999
+CA Cancer J. Clin., 49 (1999), pp. 8–31
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2690)
+Landstrom and Tefferi, 2006
+A.P. Landstrom, A. Tefferi
+Fluorescent in situ hybridization in the diagnosis, prognosis, and treatment monitoring of chronic myeloid leukemia
+Leuk. Lymphoma., 47 (2006), pp. 397–402
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Li et al., 2008
+H. Li, S.N. Cho, C.M. Evans, B.F. Dickey, J.-W. Jeong, F.J. Demayo
+Cre-mediated recombination in mouse Clara cells
+Genesis, 46 (2008), pp. 300–307
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (10)
+Licciulli and Kissil, 2010
+S. Licciulli, J.L. Kissil
+WT1: a weak spot in KRAS-induced transformation
+J. Clin. Invest., 120 (2010), pp. 3804–3807
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3)
+Lu et al., 2010
+Y. Lu, C. Futtner, J.R. Rock, X. Xu, W. Whitworth, B.L.M. Hogan, M.W. Onaitis
+Evidence that SOX2 overexpression is oncogenic in the lung
+PLoS ONE, 5 (2010), p. e11022
+
+Full Text via CrossRef
+Meuwissen et al., 2003
+R. Meuwissen, S.C. Linn, R.I. Linnoila, J. Zevenhoven, W.J. Mooi, A. Berns
+Induction of small cell lung cancer by somatic inactivation of both Trp53 and Rb1 in a conditional mouse model
+Cancer Cell, 4 (2003), pp. 181–189
+
+Article |  PDF (644 K) | View Record in Scopus | Citing articles (174)
+Meuwissen et al., 2001
+R. Meuwissen, S.C. Linn, M. van der Valk, W.J. Mooi, A. Berns
+Mouse model for lung tumorigenesis through Cre/lox controlled sporadic activation of the K-Ras oncogene
+Oncogene, 20 (2001), pp. 6551–6558
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (127)
+Meylan et al., 2009
+E. Meylan, A.L. Dooley, D.M. Feldser, L. Shen, E. Turk, C. Ouyang, T. Jacks
+Requirement for NF-kappaB signalling in a mouse model of lung adenocarcinoma
+Nature, 462 (2009), pp. 104–107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (201)
+Minami et al., 2012
+T. Minami, T. Kijima, Y. Otani, S. Kohmo, R. Takahashi, I. Nagatomo, H. Hirata, M. Suzuki, K. Inoue, Y. Takeda et al.
+HER2 as therapeutic target for overcoming ATP-binding cassette transporter-mediated chemoresistance in small cell lung cancer
+Mol. Cancer Ther., 11 (2012), pp. 830–841
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4)
+Moro et al., 2012
+M. Moro, G. Bertolini, M. Tortoreto, U. Pastorino, G. Sozzi, L. Roz
+Patient-derived xenografts of non small cell lung cancer: resurgence of an old model for investigation of modern concepts of tailored therapy and cancer stem cells
+J. Biomed. Biotechnol., 2012 (2012), p. 568567
+
+Morris et al., 2010
+J.P. Morris, S.C. Wang, M. Hebrok
+KRAS, Hedgehog, Wnt and the twisted developmental biology of pancreatic ductal adenocarcinoma
+Nat. Rev. Cancer, 10 (2010), pp. 683–695
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+Pacheco-Pinedo et al., 2011
+E.C. Pacheco-Pinedo, A.C. Durham, K.M. Stewart, A.M. Goss, M.M. Lu, F.J. Demayo, E.E. Morrisey
+Wnt/β-catenin signaling accelerates mouse lung tumorigenesis by imposing an embryonic distal progenitor phenotype on lung epithelium
+J. Clin. Invest., 121 (2011), pp. 1935–1945
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Park et al., 2011a
+K.-S. Park, M.-C. Liang, D.M. Raiser, R. Zamponi, R.R. Roach, S.J. Curtis, Z. Walton, B.E. Schaffer, C.M. Roake, A.-F. Zmoos et al.
+Characterization of the cell of origin for small cell lung cancer
+Cell Cycle, 10 (2011), pp. 2806–2815
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Park et al., 2011b
+K.-S. Park, L.G. Martelotto, M. Peifer, M.L. Sos, A.N. Karnezis, M.R. Mahjoub, K. Bernard, J.F. Conklin, A. Szczepny, J. Yuan et al.
+A crucial requirement for Hedgehog signaling in small cell lung cancer
+Nat. Med., 17 (2011), pp. 1504–1508
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Peifer et al., 2012
+M. Peifer, L. Fernandez-Cuesta, M.L. Sos, J. George, D. Seidel, L.H. Kasper, D. Plenker, F. Leenders, R. Sun, T. Zander et al.
+Integrative genome analyses identify key somatic driver mutations of small-cell lung cancer
+Nat. Genet., 44 (2012), pp. 1104–1110
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+Pleasance et al., 2010
+E.D. Pleasance, P.J. Stephens, S. O'Meara, D.J. McBride, A. Meynert, D. Jones, M.-L. Lin, D. Beare, K.W. Lau, C. Greenman et al.
+A small-cell lung cancer genome with complex signatures of tobacco exposure
+Nature, 463 (2010), pp. 184–190
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (465)
+Politi et al., 2010
+K. Politi, P.-D. Fan, R. Shen, M. Zakowski, H. Varmus
+Erlotinib resistance in mouse models of epidermal growth factor receptor-induced lung adenocarcinoma
+Dis. Model. Mech., 3 (2010), pp. 111–119
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+Politi et al., 2006
+K. Politi, M.F. Zakowski, P.-D. Fan, E.A. Schonfeld, W. Pao, H.E. Varmus
+Lung adenocarcinomas induced in mice by mutant EGF receptors found in human lung cancers respond to a tyrosine kinase inhibitor or to down-regulation of the receptors
+Genes Dev., 20 (2006), pp. 1496–1510
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (207)
+Puyol et al., 2010
+M. Puyol, A. Martín, P. Dubus, F. Mulero, P. Pizcueta, G. Khan, C. Guerra, D. Santamaría, M. Barbacid
+A synthetic lethal interaction between K-Ras oncogenes and Cdk4 unveils a therapeutic strategy for non-small cell lung carcinoma
+Cancer Cell, 18 (2010), pp. 63–73
+
+Article |  PDF (1649 K) | View Record in Scopus | Citing articles (88)
+Regales et al., 2007
+L. Regales, M.N. Balak, Y. Gong, K. Politi, A. Sawai, C. Le, J.A. Koutcher, D.B. Solit, N. Rosen, M.F. Zakowski et al.
+Development of new mouse lung tumor models expressing EGFR T790M mutants associated with clinical resistance to kinase inhibitors
+PLoS ONE, 2 (2007), p. e810
+
+Full Text via CrossRef
+Regales et al., 2009
+L. Regales, Y. Gong, R. Shen, E. de Stanchina, I. Vivanco, A. Goel, J.A. Koutcher, M. Spassova, O. Ouerfelli, I.K. Mellinghoff et al.
+Dual targeting of EGFR can overcome a major drug resistance mutation in mouse models of EGFR mutant lung cancer
+J. Clin. Invest., 119 (2009), pp. 3000–3010
+
+View Record in Scopus | Citing articles (138)
+Ricci-Vitiani et al., 2010
+L. Ricci-Vitiani, R. Pallini, M. Biffoni, M. Todaro, G. Invernici, T. Cenci, G. Maira, E.A. Parati, G. Stassi, L.M. Larocca et al.
+Tumour vascularization via endothelial differentiation of glioblastoma stem-like cells
+Nature, 468 (2010), pp. 824–828
+
+Full Text via CrossRef
+Rudin et al., 2012
+C.M. Rudin, S. Durinck, E.W. Stawiski, J.T. Poirier, Z. Modrusan, D.S. Shames, E.A. Bergbower, Y. Guan, J. Shin, J. Guillory et al.
+Comprehensive genomic analysis identifies SOX2 as a frequently amplified gene in small-cell lung cancer
+Nat. Genet., 44 (2012), pp. 1111–1116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+Savino et al., 2011
+M. Savino, D. Annibali, N. Carucci, E. Favuzzi, M.D. Cole, G.I. Evan, L. Soucek, S. Nasi
+The action mechanism of the Myc inhibitor termed Omomyc may give clues on how to target Myc for cancer therapy
+PLoS ONE, 6 (2011), p. e22284
+
+Full Text via CrossRef
+Schaffer et al., 2010
+B.E. Schaffer, K.-S. Park, G. Yiu, J.F. Conklin, C. Lin, D.L. Burkhart, A.N. Karnezis, E.A. Sweet-Cordero, J. Sage
+Loss of p130 accelerates tumor development in a mouse model for human small-cell lung carcinoma
+Cancer Res., 70 (2010), pp. 3877–3883
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+Schepers et al., 2012
+A.G. Schepers, H.J. Snippert, D.E. Stange, M. van den Born, J.H. van Es, M. van de Wetering, H. Clevers
+Lineage tracing reveals Lgr5+ stem cell activity in mouse intestinal adenomas
+Science, 337 (2012), pp. 730–735
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (205)
+Sequist et al., 2011
+L.V. Sequist, B.A. Waltman, D. Dias-Santagata, S. Digumarthy, A.B. Turke, P. Fidias, K. Bergethon, A.T. Shaw, S. Gettinger, A.K. Cosper et al.
+Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors
+Sci. Transl Med., 3 (2011), p. 75ra26
+
+Full Text via CrossRef
+Shaw et al., 2007
+A.T. Shaw, A. Meissner, J.A. Dowdle, D. Crowley, M. Magendantz, C. Ouyang, T. Parisi, J. Rajagopal, L.J. Blank, R.T. Bronson et al.
+Sprouty-2 regulates oncogenic K-ras in lung development and tumorigenesis
+Genes Dev., 21 (2007), pp. 694–707
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Singh et al., 2010
+M. Singh, A. Lima, R. Molina, P. Hamilton, A.C. Clermont, V. Devasthali, J.D. Thompson, J.H. Cheng, H. Bou Reslan, C.C.K. Ho et al.
+Assessing therapeutic responses in Kras mutant cancers using genetically engineered mouse models
+Nat. Biotechnol., 28 (2010), pp. 585–593
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (104)
+Singh et al., 2012
+M. Singh, C.L. Murriel, L. Johnson
+Genetically engineered mouse models: closing the gap between preclinical data and trial outcomes
+Cancer Res., 72 (2012), pp. 2695–2700
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Soda et al., 2007
+M. Soda, Y.L. Choi, M. Enomoto, S. Takada, Y. Yamashita, S. Ishikawa, S.-I. Fujiwara, H. Watanabe, K. Kurashina, H. Hatanaka et al.
+Identification of the transforming EML4-ALK fusion gene in non-small-cell lung cancer
+Nature, 448 (2007), pp. 561–566
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1338)
+Soda et al., 2008
+M. Soda, S. Takada, K. Takeuchi, Y.L. Choi, M. Enomoto, T. Ueno, H. Haruta, T. Hamada, Y. Yamashita, Y. Ishikawa et al.
+A mouse model for EML4-ALK-positive lung cancer
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 19893–19897
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (228)
+Song et al., 2012
+H. Song, E. Yao, C. Lin, R. Gacayan, M.-H. Chen, P.-T. Chuang
+Functional characterization of pulmonary neuroendocrine cells in lung development, injury, and tumorigenesis
+Proc. Natl. Acad. Sci. USA, 109 (2012), pp. 17531–17536
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (8)
+Soucek et al., 2008
+L. Soucek, J. Whitfield, C.P. Martins, A.J. Finch, D.J. Murphy, N.M. Sodir, A.N. Karnezis, L.B. Swigart, S. Nasi, G.I. Evan
+Modelling Myc inhibition as a cancer therapy
+Nature, 455 (2008), pp. 679–683
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (245)
+Sutherland et al., 2011
+K.D. Sutherland, N. Proost, I. Brouns, D. Adriaensen, J.-Y. Song, A. Berns
+Cell of origin of small cell lung cancer: inactivation of Trp53 and rb1 in distinct cell types of adult mouse lung
+Cancer Cell, 19 (2011), pp. 754–764
+
+Article |  PDF (1632 K) | View Record in Scopus | Citing articles (65)
+Swanton, 2012
+C. Swanton
+Intratumor heterogeneity: evolution through space and time
+Cancer Res., 72 (2012), pp. 4875–4882
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+Sweet-Cordero et al., 2005
+A. Sweet-Cordero, S. Mukherjee, A. Subramanian, H. You, J.J. Roix, C. Ladd-Acosta, J. Mesirov, T.R. Golub, T. Jacks
+An oncogenic KRAS2 expression signature identified by cross-species gene-expression analysis
+Nat. Genet., 37 (2005), pp. 48–55
+
+View Record in Scopus | Citing articles (260)
+Taguchi et al., 2011
+A. Taguchi, K. Politi, S.J. Pitteri, W.W. Lockwood, V.M. Faça, K. Kelly-Spratt, C.-H. Wong, Q. Zhang, A. Chin, K.-S. Park et al.
+Lung cancer signatures in plasma based on proteome profiling of mouse tumor models
+Cancer Cell, 20 (2011), pp. 289–299
+
+Article |  PDF (1122 K) | View Record in Scopus | Citing articles (51)
+Takahashi et al., 2007
+K. Takahashi, K. Tanabe, M. Ohnuki, M. Narita, T. Ichisaka, K. Tomoda, S. Yamanaka
+Induction of pluripotent stem cells from adult human fibroblasts by defined factors
+Cell, 131 (2007), pp. 861–872
+
+Article |  PDF (2158 K) | View Record in Scopus | Citing articles (5600)
+Takezawa et al., 2012
+K. Takezawa, V. Pirazzoli, M.E. Arcila, C.A. Nebhan, X. Song, E. de Stanchina, K. Ohashi, Y.Y. Janjigian, P.J. Spitzler, M.A. Melnick et al.
+HER2 amplification: a potential mechanism of acquired resistance to EGFR inhibition in EGFR-mutant lung cancers that lack the second-site EGFRT790M mutation
+Cancer Discov., 2 (2012), pp. 922–933
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Trejo et al., 2012
+C.L. Trejo, J. Juan, S. Vicent, A. Sweet-Cordero, M. McMahon
+MEK1/2 inhibition elicits regression of autochthonous lung tumors induced by KRASG12D or BRAFV600E
+Cancer Res., 72 (2012), pp. 3048–3059
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+van Zandwijk et al., 1995
+N. van Zandwijk, W.J. Mooi, S. Rodenhuis
+Prognostic factors in NSCLC. Recent experiences
+Lung Cancer, 12 (Suppl. 1) (1995), pp. S27–S33
+
+Ventura et al., 2007
+J.J. Ventura, S. Tenbaum, E. Perdiguero, M. Huth, C. Guerra, M. Barbacid, M. Pasparakis, A.R. Nebreda
+p38alpha MAP kinase is essential in lung stem and progenitor cell proliferation and differentiation
+Nat. Genet., 39 (2007), pp. 750–758
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (147)
+Vicent et al., 2010
+S. Vicent, R. Chen, L.C. Sayles, C. Lin, R.G. Walker, A.K. Gillespie, A. Subramanian, G. Hinkle, X. Yang, S. Saif et al.
+Wilms tumor 1 (WT1) regulates KRAS-driven oncogenesis and senescence in mouse and human models
+J. Clin. Invest., 120 (2010), pp. 3940–3952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+Wagle et al., 2011
+N. Wagle, C. Emery, M.F. Berger, M.J. Davis, A. Sawyer, P. Pochanard, S.M. Kehoe, C.M. Johannessen, L.E. MacConaill, W.C. Hahn et al.
+Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling
+J. Clin. Oncol., 29 (2011), pp. 3085–3096
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (258)
+Weinstein, 2002
+I.B. Weinstein
+Cancer. Addiction to oncogenes – the Achilles heal of cancer
+Science, 297 (2002), pp. 63–64
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (890)
+Welsh et al., 2012
+C.E. Welsh, D.R. Miller, K.F. Manly, J. Wang, L. McMillan, G. Morahan, R. Mott, F.A. Iraqi, D.W. Threadgill, F.P.-M. de Villena
+Status and access to the Collaborative Cross population
+Mamm. Genome, 23 (2012), pp. 706–712
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+Winslow et al., 2011
+M.M. Winslow, T.L. Dayton, R.G.W. Verhaak, C. Kim-Kiselak, E.L. Snyder, D.M. Feldser, D.D. Hubbard, M.J. DuPage, C.A. Whittaker, S. Hoersch et al.
+Suppression of lung adenocarcinoma progression by Nkx2-1
+Nature, 473 (2011), pp. 101–104
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (96)
+Wistuba et al., 2001
+I.I. Wistuba, A.F. Gazdar, J.D. Minna
+Molecular genetics of small cell lung carcinoma
+Semin. Oncol., 28 (2001), pp. 3–13
+
+Article |  PDF (1207 K) | View Record in Scopus | Citing articles (213)
+Xia et al., 2012
+Y. Xia, N. Yeddula, M. Leblanc, E. Ke, Y. Zhang, E. Oldfield, R.J. Shaw, I.M. Verma
+Reduced cell proliferation by IKK2 depletion in a mouse lung-cancer model
+Nat. Cell. Biol., 14 (2012), pp. 257–265
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Xu et al., 2012
+X. Xu, J.R. Rock, Y. Lu, C. Futtner, B. Schwab, J. Guinney, B.L.M. Hogan, M.W. Onaitis
+Evidence for type II cells as cells of origin of K-Ras-induced distal lung adenocarcinoma
+Proc. Natl. Acad. Sci. USA, 109 (2012), pp. 4910–4915
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (30)
+Xue et al., 2011
+W. Xue, E. Meylan, T.G. Oliver, D.M. Feldser, M.M. Winslow, R. Bronson, T. Jacks
+Response and resistance to NF-κB inhibitors in mouse models of lung adenocarcinoma
+Cancer Discov., 1 (2011), pp. 236–247
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Yanagi et al., 2007
+S. Yanagi, H. Kishimoto, K. Kawahara, T. Sasaki, M. Sasaki, M. Nishio, N. Yajima, K. Hamada, Y. Horie, H. Kubo et al.
+Pten controls lung morphogenesis, bronchioalveolar stem cells, and onset of lung adenocarcinomas in mice
+J. Clin. Invest., 117 (2007), pp. 2929–2940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (92)
+Yang et al., 2010
+D. Yang, H. Liu, A. Goga, S. Kim, M. Yuneva, J.M. Bishop
+Therapeutic potential of a synthetic lethal interaction between the MYC proto-oncogene and inhibition of aurora-B kinase
+Proc. Natl. Acad. Sci. USA, 107 (2010), pp. 13836–13841
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Yang et al., 2008
+Y. Yang, K. Iwanaga, M.G. Raso, M. Wislez, A.E. Hanna, E.D. Wieder, J.J. Molldrem, I.I. Wistuba, G. Powis, F.J. Demayo et al.
+Phosphatidylinositol 3-kinase mediates bronchioalveolar stem cell expansion in mouse models of oncogenic K-ras-induced lung cancer
+PLoS ONE, 3 (2008), p. e2220
+
+Full Text via CrossRef
+You et al., 2012
+M.S. You, L.C. Rouggly, M. You, Y. Wang
+Mouse models of lung squamous cell carcinomas
+Cancer Metastasis Rev. (2012) http://dx.doi.org.hsl-ezproxy.ucdenver.edu/10.1007/s10555-012-9406-4
+
+Young et al., 2009
+A. Young, J. Lyons, A.L. Miller, V.T. Phan, I.R. Alarcón, F. McCormick
+Ras signaling and therapies
+Adv. Cancer Res., 102 (2009), pp. 1–17
+
+Article |  PDF (209 K) | View Record in Scopus | Citing articles (62)
+Yuneva et al., 2012
+M.O. Yuneva, T.W.M. Fan, T.D. Allen, R.M. Higashi, D.V. Ferraris, T. Tsukamoto, J.M. Matés, F.J. Alonso, C. Wang, Y. Seo et al.
+The metabolic profile of tumors depends on both the responsible genetic lesion and tissue type
+Cell. Metab., 15 (2012), pp. 157–170
+
+Article |  PDF (1987 K) | View Record in Scopus | Citing articles (55)
+Zhou et al., 2010
+Y. Zhou, W.M. Rideout, T. Zi, A. Bressel, S. Reddypalli, R. Rancourt, J.-K. Woo, J.W. Horner, L. Chin, M.I. Chiu et al.
+Chimeric mouse tumor models reveal differences in pathway activation between ERBB family- and KRAS-dependent lung adenocarcinomas
+Nat. Biotechnol., 28 (2010), pp. 71–78
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Corresponding author contact information
+Corresponding author.
+Copyright © 2013 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved.

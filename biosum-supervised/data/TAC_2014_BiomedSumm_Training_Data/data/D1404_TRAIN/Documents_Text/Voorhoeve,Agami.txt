@@ -1,0 +1,248 @@
+The tumor-suppressive functions of the human INK4A locus
+P.Mathijs Voorhoeve, Reuven AgamiCorresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S1535-6108(03)00223-X
+  Open Archive
+Abstract
+The INK4A locus is often inactivated in human cancer. INK4A encodes for p14ARF and p16INK4A that inhibit growth through p53 and pRb, respectively. We used RNA interference vectors in transformation assays of human primary cells to analyze tumor-suppressive functions. We first show that a concerted inactivation of pRb and p53 is required for transformation. We then demonstrate that loss of p14ARF enhances growth in a p53-dependent manner but has little tumorigenic effect. In contrast, suppression of p16INK4A expression does not affect cellular proliferation but synergizes with p53 loss to accelerate growth and cause transformation. Our results delineate the functions of the human INK4A genes in normal and tumorigenic growth.
+
+Significance
+Tumor suppressors are genes found inactivated by mutations or deletions in a subset of human cancers. However, each individual tumor contains many genetic alterations, complicating the study of the contribution of each variation to tumorigenesis. We studied the tumor-suppressive functions of the human INK4A locus, which encodes for the p16INK4A and p14ARF genes and is mutated in many cancers. In mouse model systems, p19ARF plays an important protective role from tumorigenicity whereas p16INK4A loss causes only a limited induction of tumors. Here we provide evidence that p16INK4A, but not p14ARF, is the major tumor suppressor of the human INK4A locus.
+
+Introduction
+Most, if not all, human cancers contain genetic alterations in the p53 and the pRb tumor suppressor pathways (Hanahan and Weinberg, 2000). In many tumor types, frequent inactivating mutations of the p53 and pRb genes appear, whereas in many other cancers, these genes are intact and other members of these pathways are deregulated or inactivated. One such example is the INK4A locus whose inactivation is seen in a large proportion of human tumors (recently reviewed in Krug et al., 2002). The INK4A locus encodes two growth-inhibitory gene products: p16INK4A that activates the tumor-suppressive function of pRb by neutralizing cyclinD/cdk4 activity and p14ARF that counteracts the HDM2-mediated destruction of p53 Bothner et al. 2001, Lowe and Sherr 2003 and Pomerantz et al. 1998. Significantly, in vivo experiments in mouse model systems indicated that p19ARF, the mouse homolog of p14ARF, plays an important protective role in oncogenic transformation and tumorigenicity (Kamijo et al., 1997). In primary mouse embryonic fibroblasts, p19ARF is upregulated in response to oncogenic RAS expression and is required for the subsequent p53-dependent growth arrest (Kamijo et al., 1997). Also, the expression of p16INK4A is elevated in response to oncogenic stress; however, this is not essential for the protective response to transformation (Serrano et al., 1997). Lastly, nullizigous mice for the p19ARF gene display a large panel of tumors whereas p16INK4A loss causes only a limited induction of tumors Krimpenfort et al. 2001 and Sharpless et al. 2001. Whereas in mice p19ARF seems to be the major tumor suppressor of the INK4A locus, epidemiological data showing the presence of point mutations and small deletions that specifically affect p16INK4A seem to implicate p16INK4A as the more important tumor suppressor gene product in the human INK4A locus Ruas and Peters 1998 and Sharpless et al. 2001. However, no experimental data have directly supported this notion yet.
+
+With the identification of a set of genetic elements that are required for the initial neoplastic transformation of human primary cells Hahn et al. 1999 and Hahn et al. 2002, it has become possible to investigate the individual role of putative tumor suppressors in human oncogenesis. By using viral and mutant human genes, as well as homologous recombination, it became apparent that the pRb and p53 pathways are involved in this process Hahn et al. 1999 and Wei et al. 2003. It was previously described (Hahn et al., 1999) that transformation of primary human fibroblasts is possible by joint expression of the Telomerase reverse transcriptase subunit (hTERT), oncogenic H-RASV12, and the early region of SV40, which encodes for the viral large and small T antigens (LT and st, respectively, Figure 1A). It is likely that the function of LT in these assays is to inactivate pRb and p53 whereas st supports oncogenic growth by modulating the phosphatase activity of PP2A (Hahn et al., 2002). Here we used this neoplastic transformation model in combination with RNA interference technology to directly assess the individual contribution of the human p14ARF and p16INK4A genes to the p53 and pRb tumor suppressor pathway.
+
+Full-size image (56 K)
+Figure 1. 
+Inactivation of p53 and pRb in cellular transformation of primary human fibroblasts
+A: Schematic drawing of the transformation protocol of human primary BJ fibroblast using overexpression of hTERT, SV40 Large and small t antigens (LT and st), and H-RASV12. LT inhibits the Rb and p53 pathways.
+B: Stable suppression of pRb and p53 expression in primary human fibroblasts. BJ-ET cells were infected with the indicated retroviral siRNA vectors (pRetroSuper (pRS)-Hyg) and selected for 10 days with hygromycin. Subsequently, polyclonal pools of cells were infected with a mixture of retroviruses expressing oncogenic RASV12 and st and selected with blasticidin. The efficiency of st infection was controlled with GFP and was consistently between 50%–60%. After seven days of selection, cells were harvested and protein expression was analyzed on SDS-PAGE with the indicated antibodies. pRb protein is indicated by the vertical bar and background staining is indicated by an asterisk.
+C: The same cell populations from B were passed through a 3T3 protocol in which at every passage, the relative increase of the cell number was monitored.
+D: The same cell population as in B was plated in soft agar to test anchorage-independent growth capability. Visible colonies were counted after three weeks.
+E: Six aliquots of 2 × 10E6 BJ-ET cells from B were injected into the flanks of three athymic nude mice, and the number of visible tumors was noted after four weeks.
+Figure options
+Results and Discussion
+So far, it has not been clear whether the inactivation of pRb and p53 by overexpression of LT is the only relevant function of LT in the neoplastic transformation model. Therefore, we initially examined whether direct inhibition of p53 and pRb expression is sufficient to replace LT function in transformation of human primary fibroblasts. We used the pSUPER-short interfering (si)RNA expression system to stably suppress the expression of p53 and pRb (Brummelkamp et al., 2002b). In transient transfection assays in MCF-7 cells, we identified active siRNA constructs that inhibit p53 and pRb gene expression by more than 90% ( Brummelkamp et al., 2002b and Supplemental Figure S1 at http://www.cancercell.org/cgi/content/full/4/4/311/DC1). Then, we retrovirally transduced BJ-primary human fibroblasts at population doubling (PD) 24 with an amphotropic virus encoding for the ecotropic receptor and subsequently with an hTERT-puromycin vector and drug selected to obtain a polyclonal pool of BJ/ecotropic receptor/TERT cells (BJ-ET). These cells were transduced with siRNA-retroviral vectors against p53 and pRb, selected for 10 days with hygromycin, infected with a mixture of st-GFP and H-RASV12-blasticidin vectors, and drug selected for RASV12 expression to obtain isogenic polyclonal populations of cells. Immunoblot analysis of cells directly after the RASV12/st infection demonstrated the powerful repression of p53 and pRb expression by the corresponding siRNA vectors ( Figure 1B, lanes 2 and 4). As expected, LT expression induced the stabilization of p53 in an inactive form (lane 5). Importantly, simultaneous suppression of both p53 and pRb was obtained in cells cotransduced with a mixture of siRNA vectors for these genes (lane 3), indicating that combinatorial usage of two siRNA vectors is possible in human primary cells.
+
+Next, we tested the tumorigenicity of the different cell populations in three types of experiments. First, we examined the capability of cells to grow in the presence of oncogenic stress induced by RASV12. Cellular transformation requires the expression of oncogenic RASV12, but in primary cells, its expression provokes a stress response that arrests the cells (Serrano et al., 1997). As a step toward full transformation, cells must efficiently switch off or escape this stress response. Indeed, BJ-ET cells with st were growth arrested in response to H-RASV12 expression but continued to grow when LT was additionally present (Figure 1C). Interestingly, the inhibition of p53, alone or in combination with pRb, was sufficient to overcome the RASV12-induced arrest to an extent similar as LT. Inhibition of only pRb expression did not allow any escape from RAS -induced arrest. In a second experiment, we tested the anchorage-independent growth capability of these cells in a soft agar assay. Only the combined inhibition of pRb and p53 stimulated colonigenic outgrowth similar to LT (Figure 1D). Single inhibitions of p53 or pRb expression or excluding RASV12 or st in cells lacking p53 and pRb expression showed no stimulation of colony outgrowth (Figure 1D). In a third experiment, we tested the ability of cells to form tumors in athymic nude mice. We injected 2 million cells subcutaneously and monitored tumor growth after 4 weeks. Both the LT overexpression and the concerted inhibition of pRb and p53 in BJ-ET/st/RAS allowed for highly efficient tumor formation in mice (Figure 1E). Inactivation of only p53 gave rise to inefficient tumor growth in some of the mice (2 out of 6), most likely due to increased genomic instability in the absence of p53 while propagating the cells before the injections. Lastly, mice injected with BJ-ET/st/RAS cells, in which only pRb expression was inhibited, developed no tumors. In conclusion, our results indicate that loss of p53 is sufficient to overcome RAS-induced oncogenic stress in primary cells. However, this was not sufficient for full blown transformation of primary human cells, which also required the collaborative inhibition of pRb, together with the expression of hTERT, RASV12, and st.
+
+The INK4A genes (p16 and p14ARF) act upstream of pRb and p53 to inhibit cellular growth (Lowe and Sherr, 2003). To study their tumor-suppressive role, we have designed siRNA vectors that specifically suppress the expression of either p16INK4A or p14ARF by targeting sequences from their unique first exons, as both genes share their exons 2 and 3 (Figure 2A). In transient transfection assays in HeLa cells, we identified two active constructs against p14ARF and one against p16INK4A (Supplemental Figure S2 on Cancer Cell website), cloned them into the retroviral siRNA vectors pRS-GFP or pRS-Hyg, and produced viral stocks. We transduced HeLa/ecotropic-receptor cells with the various pRS-Hyg viruses, drug selected for a week, and monitored the expression of p14ARF and p16INK4A with immunoblot analysis. Figure 2B demonstrates the strong and stable inhibition of p14ARF and p16INK4A genes by the corresponding viral vectors. Importantly, no crossreactivity was detected despite the shared exons of these genes, allowing for an independent investigation of the functions of p16INK4A and p14ARF.
+
+Full-size image (28 K)
+Figure 2. 
+Specific inhibition of expression of p14ARF and p16INK4A
+A: Overview of the INK4A locus. The open reading frames of p14ARF (light gray) and p16INK4A (dark gray) are indicated. Dashes above the unique exons illustrate the position of the siRNA oligos used to target the respective mRNAs.
+B: Stable suppression of p16INK4A and p14ARF expression by retroviral transduction. pRS-Hygro retroviruses containing the indicated siRNA constructs were used to infect HeLa cells. After selection for one week, protein expression was analyzed by immunoblot with the indicated antibodies. Equal loading control is shown with several background bands (bg).
+Figure options
+We used the various pRS-GFP knockdown constructs to uncover phenotypes of p14ARF and p16INK4A on cellular growth of primary human cells. We transduced BJ-ET cells with the respective siRNA vectors and followed the percentage of the GFP-positive population as a measure for the relative growth advantage or disadvantage that is conferred by the knockdown compared with the untransduced population that grew under identical conditions (Figure 3A). In this assay, we have noticed that inactivation of either p53 or p14ARF (two different vectors) granted primary cells a growth advantage compared to control cells ( Figure 3B, left). This effect was highly specific to p53 and p14ARF as neither the vector-GFP nor many other functional siRNA constructs displayed such an effect ( Figure 3B and data not shown). As an additional control, we tested the p14ARF-GFP knockdown construct in MCF-7 cells that lack the p14ARF gene and found no effect on cellular growth (Figure 3C). We then examined whether the effect of p14ARF knockdown depends on p53 by repeating the experiment in BJ-ET cells that lost p53 function through RNA interference. We found that in the absence of p53, loss of p14ARF expression no longer provides a growth advantage ( Figure 3B, middle), indicating that p14ARF limits proliferation of primary cells in tissue culture conditions in a completely p53-dependent manner. Equally, the growth-regulating function of p53 was exclusively dependent on p14ARF expression, as no significant growth advantage was detected in cells where p53 was inactivated in the background of cells that lost p14ARF expression ( Figure 3B, right). To demonstrate the knockdown of p14ARF in human primary BJ cells, we used a semiquantitative RT-PCR with primers specific for p14ARF, as p14ARF protein in these cells was undetectable by immunoblotting ( Figure 3D and Wei et al., 2001). Stable expression of siRNA against p14ARF reduced the level of p14ARF mRNA by more than 10-fold (4 PCR cycles difference), consistent with the results obtained in Hela cells and comparable to other functional siRNAs, such as p53 ( Figure 3D and Brummelkamp et al., 2002b). We used control CDK4 primers to show equal RNA levels in the samples. Similar to mouse cells, the inactivation of p53 in BJ cells led to stimulation of p14ARF transcription by ∼5- to 10-fold ( Figure 3D and Eischen et al., 1999). Collectively, these results demonstrate that in primary human fibroblasts, the level of endogenous p14ARF restricts growth in tissue culture conditions in a p53-dependent manner. Second, these results unequivocally demonstrate the functionality of the p14ARF siRNA constructs in BJ human primary cells.
+
+Full-size image (83 K)
+Figure 3. 
+Growth-inhibiting function of INK4A genes
+A: Schematic depiction of the experiment. Cells are transduced with the siRNA-expressing GFP vectors, and the percentage of GFP-positive cells was determined later by flow cytometry. Increase in the GFP-positive population in time indicates a relative growth advantage whereas decrease indicates a relative growth disadvantage.
+B and E: Primary human BJ-ET cells, that were first transduced with RS-Hyg-53#2, RS-Hyg14#1, RS-Hyg16#4, or control RS-Hyg and selected (BJ53, BJ14, BJ16, or BJET, respectively), were transduced with the indicated knockdown-GFP vectors and monitored for a period of 10–20 days. In E, right panel, data from B-left and E-left is copied to allow direct comparison in the same scale.
+C: MCF7 cells were infected with the indicated retroviruses and cumulative growth advantage was monitored over 19 days.
+D: RNA from BJ-ET cells, stably transduced with the indicated vectors, was collected and subjected to RT-PCR. Relative band intensities of the specific p14ARF product (marked with an arrow) are indicated by the bar histogram. As control, RT-PCR for CDK4 was performed.
+F: p16 expression was analyzed in BJ-cells expressing the indicated knockdown constructs. For comparison with cells with elevated p16 levels, BJET cells expressing Ras were included (lane 1).
+Figure options
+In contrast to p14ARF, the inhibition of p16INK4A expression did not alter the growth of primary fibroblasts ( Figure 3E, left), which indicates that the low level of p16INK4A in relatively young BJ fibroblasts (PD < 35) is not yet growth limiting. However, it is possible that in older BJ cells or in other primary cells, endogenous p16INK4A is increased to a level that does inhibit growth. Interestingly, loss of p16INK4A consistently provided growth advantage to cells that already lost p53 function. Furthermore, the loss of p53 or p14ARF in cells with reduced p16INK4A expression also accelerated growth compared to control infected cells ( Figure 3E, right). The synergy after loss of p53 or p14ARF in a p16INK4A knockdown background was more pronounced than the reciprocal condition because p53 and p14ARF knockdown cells had an increased proliferation already. Notably, loss of p53 or p14ARF did not alter p16INK4A expression levels (Figure 3F), indicating that the acquired growth-limiting effect of p16INK4A in the p53 knockdown cells is not simply due to an increase in p16INK4A expression after inactivation of p53. Therefore, inactivation of the p53 pathway leaves p16INK4A as a key inhibitor of cellular proliferation of primary human fibroblasts.
+
+Next, we examined whether p14ARF and p16INK4A function to protect from oncogenic transformation. We introduced oncogenic RASV12 and st into the various knocked-down BJ-ET cells and drug selected for the infected cells. In response to RASV12 transduction, p16INK4A expression is markedly stimulated (Figure 4A, lanes 1 and 2). This stimulation is, to a large extent, counteracted by our p16INK4A-siRNA vector (lane 3). Importantly, the introduction of both p53 and p16INK4A siRNA constructs inhibited the expression of both genes to an extent comparable to their single knockdowns (lanes 3, 5, and 7). In contrast, p14ARF expression was undetectable and remained so also after RASV12 expression ( Figure 4B, lanes 3 and 4). As control, we used HeLa cells to demonstrate both the ability of our antibody to detect p14ARF and the potency of our knockdown construct to negate p14ARF expression from much higher levels then ever detectable in BJ cells, even when transduced with RASV12 ( Figure 4B, lanes 1 and 2). Next, we measured the cellular response to oncogenic RAS stress. As above, control BJ-ET cells activated a protective growth arrest (Figure 4C). Once more, all conditions containing loss of p53 continued to grow to various degrees in the presence of RASV12 while p53-p16INK4A knockdown cells grew significantly faster than the rest Figure 4 and Figure 1. In contrast, the single loss of either p14ARF or p16INK4A or combinations of p14ARF with either pRb or p16INK4A did not overcome the RAS-induced oncogenic stress effect.
+
+Full-size image (108 K)
+Figure 4. 
+p16INK4A and p53 collaborate to protect from oncogenic transformation
+A: BJ-ET cells were infected with various knockdown- or LT-expressing viruses and subsequently infected with Ras and st and analyzed as in Figure 1B.
+B: BJ-ET cells were transduced with a RASV12 vector (lane 4) or control vector (lane 3) and selected for a week. Cell extracts were analyzed with the indicated antibodies. For comparison, p14ARF expression was monitored in HeLa cells transduced with control (lane 2) or the p14ARF siRNA vector (lane 1).
+C: Growth curves of the indicated knockdown BJ-ET-st-RASV12 cells.
+D: Immunoblot analysis of whole-cell lysates from the cells in C before and after RASV12 transduction. Short exposure is indicated by s.e.
+E: Soft agar assay with the cells from C.
+F: Tumorigenicity in nude mice was assayed as in Figure 1E.
+G: A schematic model showing the growth and tumor-suppressive functions of the INK4A genes.
+Figure options
+Intriguingly, our results indicate that acute inactivation of p53 in primary human BJ cells makes them resistant to RAS-induced oncogenic stress. This result is different from previous observations indicating that dominant-negative p53 could not overcome RAS-induced arrest in IMR90 fibroblasts (Serrano et al., 1997), that p53−/− derivatives of LF1 fibroblasts showed a premature senescence phenotype (Wei et al., 2001), and that BJ fibroblasts expressing an E1A mutant defective in pRb binding still arrested in response to RAS (Hahn et al., 2002). Numerous explanations can account for this difference. For instance, overexpression of mutant oncogenes, such as E1A or dominant-negative p53, may by itself upregulate p16INK4A levels, resulting in the additional requirement of inhibition of the pRb pathway to allow these cells to grow in the presence of RAS. Furthermore, it has been recently suggested that lung fibroblasts such as IMR-90 or LF1 have higher basal levels of p16INK4A than BJ cells (Itahana et al., 2003), perhaps resulting in a different sensitivity level to the oncogenic stress assault. In another report, it was shown that fibroblasts with biallelic mutation in the p16INK4A gene, but with apparently normal p14ARF and p53 function, were resistant to RAS-induced premature senescence (Huot et al., 2002). Here, although p53 function could be induced in these cells by UV irradiation, it cannot be excluded that the p53 pathway has become compromised with regard to oncogenic stress response. Therefore, different human cell strains may behave differently depending on their initial p16INK4A and p53 activities.
+
+Loss of the protective response against oncogenic stress is an essential step toward neoplastic transformation. Our results so far support a model in which p53 but not p14ARF is the main factor in this process. To test this hypothesis further, we analyzed p53 activity by monitoring the level of p21CIP1, a well-established p53-target gene, in the various knockdown cells and in the presence or absence of RASV12. Overexpression of oncogenic RAS induced p21CIP1 levels (Figure 4D). As expected, loss of p53 expression in BJ-ET cells markedly reduced p21CIP1 levels irrespective of RASV12 expression (Figure 4D, lanes 1 and 3). Intriguingly, and in agreement with our previous results, also the loss of p14ARF significantly reduced p53 levels and its activity (p21CIP1 levels) in BJ cells (lane 2). However, the p14ARF effect was negated by the expression of RASV12 (lanes 2, 4 +RAS), suggesting that in response to oncogenic stress, cells induce a pathway that activates p53 in a p14ARF-independent manner. We cannot formally exclude that oncogenic RAS sensitizes cells even to the much reduced levels of p14ARF as found in the knockdown cells. However, as p14ARF functions to stabilize p53, the fact that p53 protein levels are not increased by RASV12 expression argues against this possibility (e.g., Figure 3F, lanes 1 and 2). Therefore, in our human model system, it is unlikely that p14ARF has an essential protective role against RAS-induced oncogenic transformation, in contrast to what has been found in mice.
+
+Finally, we asked if the observed synergism between loss of p16INK4A and p53 leads to anchorage-independent growth with st and RASV12. Clearly, the combined loss of p16INK4A and p53 functions permitted anchorage-independent outgrowth of cells to a similar extent as LT (Figure 4E). All the single knockdowns were completely inactive, most notably, again, the loss of p53 function, which relieved RAS-induced growth arrest. Additionally, all the combinations with p14ARF knockdown showed no activity. To further validate transformation, 2 million cells containing the p16/p53 knockdown combination were also injected into athymic nude mice and found to efficiently give rise to subcutaneous tumors (Figure 4F). In addition to the RNAi construct directed against exon 1α of p16, we identified a construct directed against exon 2 of the INK4A locus that inhibits the expression of both p14ARF and p16INK4A (Supplemental Figure S3 on Cancer Cell website). As expected, this construct behaved similarly to the p16 knockdown construct in a RAS-induced growth arrest assay (Figure 4C), in a colony formation assay (Figure 4E), and in an in vivo tumorigenicity assay (Figure 4F). As this construct inhibits both p14ARF and p16INK4A expression, it not only independently verifies the requirement of p16INK4A downregulation for tumorigenesis, but also restates the lack of effect of p14ARF inactivation on this process.
+
+In summary, we describe an approach to directly define genes, such as p53 and pRb, whose function is to protect primary human cells from initiating oncogenic transformation. We used this approach to study the important growth-controlling functions of the INK4A locus. We find that p16INK4A is the major tumor suppressor of the human INK4A locus. Namely, p16INK4A synergizes with p53 to protect primary cells from unrestricted growth and from oncogenic transformation. p14ARF, on the other hand, regulates growth of primary human cells in normal culture conditions through p53 but the oncogenic activation of p53 is p14ARF independent. As the RNAi technology is easily applicable to other fibroblast strains and cell types, further investigations should reveal the general applicability of these rules. In addition, it should be possible to use this approach in the future to define the function of other suspected tumor suppressors and also to screen for novel genes with tumor-suppressive function using human siRNA-expressing libraries.
+
+Experimental procedures
+Antibodies
+Antibodies used in this report were directed against H-Ras (F235), p16 (C-19), p21 (F5), p53 (DO-1), cdk4 (C-22) (Santa Cruz), pRb (IF-8, Signal Transduction Lab.), p14ARF (Ab-1, NeoMarkers), tubulin (YL1/2, ECACC), SV40 LT, and st (MoAb 419).
+
+Constructs
+pRetroSuper (pRS) was described by Brummelkamp et al. (2002a). pRS-Hygro was generated by replacing the puromycin resistance gene from pRetroSuper by a Hygromycin B resistance gene. pRS-GFP was generated by replacing the puromycin resistance gene by a cDNA encoding enhanced GFP (Clontech). pMSCV-GFP was generated from pRS-GFP by replacing the deleted 3′LTR sequence with the original 3′LTR from pMSCV (Clontech). pMSCV-Blast was generated by replacing the puromycin resistance gene of pMSCV with the Blasticidin resistance gene from pcDNA6 (Invitrogen). pMSCV-GFP-LT and pMSCV-GFP-st were generated by cloning PCR fragments that encode, respectively, the SV40 large T antigen or the small t antigen Srinivasan et al. 1997 and Zalvide and DeCaprio 1995 in pMSCV-GFP. Exclusive expression of the respective proteins after infection of BJET cells was verified by Western blotting. pMSCV-Blast Ras was created by cloning a fragment encoding the V12 mutant of H-Ras in pMSCV-Blast. pBabepuro-hTERT and LZRS-Neo-ecotropic receptor were described previously Brummelkamp et al. 2002a and Counter et al. 1998.
+
+Identification of siRNA oligos
+MCF7 or HeLa cells were electroporated as described previously (Agami and Bernards, 2000) to more than 95% efficiency with pSuper constructs against the various targets, and 72 hr later, protein expression was analyzed by SDS-PAGE and Western blotting. The successful 19 nt target sequences used were: RB #2: ATGGAAGATGATCTGGTGA, p14ARF #1: GAACATGGTGCGCAGGTTC, p14ARF #2: CATGGTGCGCAGGTTCTTG, p16 #4: GAGGAGGTGCGGGCGCTGC, Ex2: GGCAGTAACCATGCCCGCA. The p53 target sequence was described previously (Brummelkamp et al., 2002b).
+
+Retroviruses
+Ecotropic retroviruses were generated by transient transfection of the relevant constructs as described (Brummelkamp et al., 2002a) into EcoPack2 (Clontech). Amphotropic retroviruses were generated in Phoenix-Ampho (Brummelkamp et al., 2002a). Virus containing supernatant was harvested 48–72 hr later and frozen in aliquots.
+
+Generation of stable knockdown HeLa cells
+HeLa cells were electroporated with an expression construct expressing the mouse ecotropic receptor, and two days later, infected with ecotropic retroviruses in the presence of 8 ug/ml polybrene. The cells were selected with 400 ug/ml Hygromycin B for one week.
+
+Generation of knockdown BJ-ET cells
+BJ primary human skin fibroblasts (ATCC #CRL-2522) were obtained at passage doubling (PD) 22 and maintained by passaging 1:4 when confluent in DMEM plus 10% FCS plus antibiotics in 5% CO2 at 37°C. The cells were infected at 70% confluency for 16 hr in the presence of 8 ug/ml polybrene with an amphotropic retrovirus carrying an expression cassette for the ecotropic receptor (Brummelkamp et al., 2002a), followed by infection with an ecotropic retrovirus expressing hTERT (pBabe puro-hTERT) (Counter et al., 1998). The cells (designated BJ-ET) were selected with 1 ug/ml puromycin and frozen down at PD30. BJ-ET cells were then infected with pRS-Hyg viruses against the various knockdown constructs. In double infections, the viruses were mixed at a ratio of 1:1. Titers were estimated by serial dilutions and infection and selection of mouse 3T3 cells in a pilot experiment. BJ-ET cells expressing SV40LT were generated by double infection with pMSCVxGFP-LT and pRSHyg. Polyclonal pools were selected for two weeks in 50 ug/ml Hygromycin B (Roche). Subsequently, cells were co-infected with pMSCVblast-RasV12 and pMSCV-GFP-st retroviruses and selected with 5 ug/ml blasticidin. Small t expression was verified by monitoring % GFP-positive cells, which was consistently between 50 and 60%, and by immunoblotting.
+
+For growth curves, cells were split on a 3T3 protocol in medium containing blasticidin, and the relative increase in cell number was calculated.
+
+Soft agar assay
+In DMEM containing 10% serum, 2 × 104 cells were resuspended in 2 ml 0.4% low melting point agarose (Sigma type VII, catalog no. A-4018) and seeded, in triplicate, into six-well plates coated with 1% low melting point agarose in DMEM containing 10% serum. The number of macroscopically visible foci was scored after 3 weeks. All the presented experiments were performed at least twice.
+
+Relative growth advantage of knockdown cells
+Cells were infected with pRS-GFP-siRNA retroviruses and allowed to recover for 4 days. The cells were passaged every 3 to 4 days and a sample was analyzed by FACS. The increase of GFP-positive cells over each period (which is represented by the formula: %GFP(t=2) = k.%GFP(t=1)/[k.%GFP(t=1)+(100-%GFP(t=1))], where k is the relative growth advantage of the GFP-positive cells over the negative cells) declines with higher percentages of GFP-positive cells although the relative growth advantage is constant. To obtain a measurement independent of the initial percentage of GFP-positive cells (which varied between 4% and 40% 4 days after infection), we calculated k for every growth period (k = [(100. %GFP(t=2)) − (%GFP(t=2).%GFP(t=1))]/[(100.%GFP(t=1)) − (%GFP(t=2).%GFP(t=1))] and depicted cumulative growth advantage over time.
+
+RT-PCR
+Primers for p14ARF were used as described in Wei et al. (2001). Primers for CDK4 were cccgtggttgttacactctggtaccgagc and gtcatcctctggaggcagcccaatcagg. cDNA was generated with Superscript III (Invitrogen) following the manufacturers instructions. Semiquantitative PCR was performed by taking samples after 27, 31, and 35 cycles and analyzing them with gel electrophoresis and ethidiumbromide staining. Relative band intensities were determined with an Eagle-Eye camera and software.
+
+Supplementary data
+ 
+Figures S1–S3.  
+Help with PDF filesOptions
+Acknowledgements
+We thank B. van Leeuwen for his excellent technical support, A. Duursma for sharing unpublished results, A. Berns and T. Brummelkamp for critical reading of the manuscript, R. Beijersbergen and A. Pietersen for reagents, and Dick Grunt and Henk Starreveld for animal husbandry. We thank also the Dutch Cancer Society and the Netherlands Cancer Institute and the Centre for Biomedical Genetics for their financial support.
+
+References
+Agami and Bernards 2000
+R. Agami, R. Bernards
+Distinct initiation and maintenance mechanisms cooperate to induce G1 cell cycle arrest in response to DNA damage
+Cell, 102 (2000), pp. 55–66
+
+Article |  PDF (579 K) | View Record in Scopus | Cited By in Scopus (233)
+Bothner et al. 2001
+B. Bothner, W.S. Lewis, E.L. DiGiammarino, J.D. Weber, S.J. Bothner, R.W. Kriwacki
+Defining the molecular basis of Arf and Hdm2 interactions
+J. Mol. Biol, 314 (2001), pp. 263–277
+
+Article |  PDF (682 K) | View Record in Scopus | Cited By in Scopus (87)
+Brummelkamp et al. 2002a
+T.R. Brummelkamp, R. Bernards, R. Agami
+Stable suppression of tumorigenicity by virus-mediated RNA interference
+Cancer Cell, 2 (2002), pp. 243–247 a
+
+Article |  PDF (198 K) | View Record in Scopus | Cited By in Scopus (862)
+Brummelkamp et al. 2002b
+T.R. Brummelkamp, R. Bernards, R. Agami
+A system for stable expression of short interfering RNAs in mammalian cells
+Science, 296 (2002), pp. 550–553 b
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3334)
+Counter et al. 1998
+C.M. Counter, W.C. Hahn, W. Wei, S.D. Caddle, R.L. Beijersbergen, P.M. Lansdorp, J.M. Sedivy, R.A. Weinberg
+Dissociation among in vitro telomerase activity, telomere maintenance, and cellular immortalization
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 14723–14728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (422)
+Eischen et al. 1999
+C.M. Eischen, J.D. Weber, M.F. Roussel, C.J. Sherr, J.L. Cleveland
+Disruption of the ARF-Mdm2-p53 tumor suppressor pathway in Myc-induced lymphomagenesis
+Genes Dev, 13 (1999), pp. 2658–2669
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (505)
+Hahn et al. 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1483)
+Hahn et al. 2002
+W.C. Hahn, S.K. Dessain, M.W. Brooks, J.E. King, B. Elenbaas, D.M. Sabatini, J.A. DeCaprio, R.A. Weinberg
+Enumeration of the simian virus 40 early region elements necessary for human cell transformation
+Mol. Cell. Biol, 22 (2002), pp. 2111–2123
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (335)
+Hanahan and Weinberg 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12496)
+Huot et al. 2002
+T.J. Huot, J. Rowe, M. Harland, S. Drayton, S. Brookes, C. Gooptu, P. Purkis, M. Fried, V. Bataille, E. Hara et al.
+Biallelic mutations in p16(INK4a) confer resistance to Ras- and Ets-induced senescence in human diploid fibroblasts
+Mol. Cell. Biol, 22 (2002), pp. 8135–8143
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (88)
+Itahana et al. 2003
+K. Itahana, Y. Zou, Y. Itahana, J.L. Martinez, C. Beausejour, J.J. Jacobs, M. Van Lohuizen, V. Band, J. Campisi, G.P. Dimri
+Control of the replicative life span of human fibroblasts by p16 and the polycomb protein Bmi-1
+Mol. Cell. Biol, 23 (2003), pp. 389–401
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (245)
+Kamijo et al. 1997
+T. Kamijo, F. Zindy, M.F. Roussel, D.E. Quelle, J.R. Downing, R.A. Ashmun, G. Grosveld, C.J. Sherr
+Tumor suppression at the mouse INK4a locus mediated by the alternative reading frame product p19ARF
+Cell, 91 (1997), pp. 649–659
+
+Article |  PDF (364 K) | View Record in Scopus | Cited By in Scopus (1112)
+Krimpenfort et al. 2001
+P. Krimpenfort, K.C. Quon, W.J. Mooi, A. Loonstra, A. Berns
+Loss of p16Ink4a confers susceptibility to metastatic melanoma in mice
+Nature, 413 (2001), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (370)
+Krug et al. 2002
+U. Krug, A. Ganser, H.P. Koeffler
+Tumor suppressor genes in normal and malignant hematopoiesis
+Oncogene, 21 (2002), pp. 3475–3495
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (146)
+Lowe and Sherr 2003
+S.W. Lowe, C.J. Sherr
+Tumor suppression by Ink4a-Arf: progress and puzzles
+Curr. Opin. Genet. Dev, 13 (2003), pp. 77–83
+
+Article |  PDF (138 K) | View Record in Scopus | Cited By in Scopus (473)
+Pomerantz et al. 1998
+J. Pomerantz, N. Schreiber-Agus, N.J. Liegeois, A. Silverman, L. Alland, L. Chin, J. Potes, K. Chen, I. Orlow, H.W. Lee et al.
+The Ink4a tumor suppressor gene product, p19Arf, interacts with MDM2 and neutralizes MDM2′s inhibition of p53
+Cell, 92 (1998), pp. 713–723
+
+Article |  PDF (1859 K) | View Record in Scopus | Cited By in Scopus (1111)
+Ruas and Peters 1998
+M. Ruas, G. Peters
+The p16INK4a/CDKN2A tumor suppressor and its relatives
+Biochim. Biophys. Acta, 1378 (1998), pp. F115–F177
+
+Article |  PDF (538 K) | View Record in Scopus | Cited By in Scopus (703)
+Serrano et al. 1997
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Sharpless et al. 2001
+N.E. Sharpless, N. Bardeesy, K.H. Lee, D. Carrasco, D.H. Castrillon, A.J. Aguirre, E.A. Wu, J.W. Horner, R.A. DePinho
+Loss of p16Ink4a with retention of p19Arf predisposes mice to tumorigenesis
+Nature, 413 (2001), pp. 86–91
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (504)
+Srinivasan et al. 1997
+A. Srinivasan, A.J. McClellan, J. Vartikar, I. Marks, P. Cantalupo, Y. Li, P. Whyte, K. Rundell, J.L. Brodsky, J.M. Pipas
+The amino-terminal transforming region of simian virus 40 large T and small t antigens functions as a J domain
+Mol. Cell. Biol, 17 (1997), pp. 4761–4773
+
+View Record in Scopus | Cited By in Scopus (154)
+Wei et al. 2001
+W. Wei, R.M. Hemmer, J.M. Sedivy
+Role of p14(ARF) in replicative and induced senescence of human fibroblasts
+Mol. Cell. Biol, 21 (2001), pp. 6748–6757
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (157)
+Wei et al. 2003
+W. Wei, W.A. Jobling, W. Chen, W.C. Hahn, J.M. Sedivy
+Abolition of cyclin-dependent kinase inhibitor p16Ink4a and p21Cip1/Waf1 functions permits Ras-induced anchorage-independent growth in telomerase-immortalized human fibroblasts
+Mol. Cell. Biol, 23 (2003), pp. 2859–2870
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (55)
+Zalvide and DeCaprio 1995
+J. Zalvide, J.A. DeCaprio
+Role of pRb-related proteins in simian virus 40 large-T-antigen-mediated transformation
+Mol. Cell. Biol, 15 (1995), pp. 5800–5810
+
+View Record in Scopus | Cited By in Scopus (111)

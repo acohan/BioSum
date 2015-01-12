@@ -1,0 +1,501 @@
+Signal-Regulated Activation of Serum Response Factor Is Mediated by Changes in Actin Dynamics
+Athanassia Sotiropoulos1, Dziugas Gineitis1, John Copeland1, Richard Treisman1, *, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S0092-8674(00)81011-9
+Under an Elsevier user license
+  Open Archive
+Abstract
+Serum response factor (SRF) regulates transcription of many serum-inducible and muscle-specific genes. Using a functional screen, we identified LIM kinase-1 as a potent activator of SRF. We show that SRF activation by LIM kinase-1 is dependent on its ability to regulate actin treadmilling. LIM kinase activity is not essential for SRF activation by serum, but signals depend on alterations in actin dynamics. Studies with actin-binding drugs, the actin-specific C2 toxin, and actin overexpression demonstrate that G-actin level controls SRF. Regulation of actin dynamics is necessary for serum induction of a subset of SRF target genes, including vinculin, cytoskeletal actin, and srf itself, and also suffices for their activation. Actin treadmilling provides a convergence point for both serum- and LIM kinase-1-induced signaling to SRF.
+
+Introduction
+The MADS box transcription factor serum response factor (SRF) regulates both cellular immediate-early genes and genes expressed in skeletal, smooth, and cardiac muscle (for references, see Arsenian et al. 1998). Like many transcription factors, SRF exhibits combinatorial interactions with other transcription factors. At the growth factor–regulated c-fos serum response element, it forms a ternary complex with members of the ternary complex factor (TCF) family of Ets domain proteins, whose activity is regulated by MAP kinase signaling pathways (for review, see Treisman 1994). In contrast, at muscle-specific promoters, SRF acts cooperatively with other transcription factors, including GATA-4, Nkx2.5, and the myogenic group of E box proteins ( 39, 13, 16 and 42).
+
+Extracellular signals can also control SRF activity in the absence of TCF binding by a pathway that involves Rho family GTPases. Serum- or lysophosphatidic acid (LPA)-induced activation of SRF is dependent on functional RhoA, as is the apparently constitutive activity of SRF at muscle-specific promoters (20, 12 and 50). Expression of constitutively active forms of both RhoA and other Rho family GTPases such as Cdc42 and Rac1 can activate SRF in the absence of extracellular signals; Cdc42 and Rac1 function independently of RhoA, but their relevance to regulation of SRF by extracellular signals remains unclear (Hill et al. 1995). Since serum- and LPA-induced activation of SRF does not require known posttranslational modifications of the protein, we have previously proposed that it is mediated by an as yet uncharacterized SRF accessory factor (19 and 21).
+
+RhoA controls diverse cellular processes concerned with the cytoskeleton, including PIP2 synthesis, actin polymerization, F-actin bundling, myosin-based contractility, focal adhesion formation, and cytokinesis. Constitutively active RhoA can transform fibroblasts, and Ras-induced transformation and cell cycle reentry is Rho dependent (reviewed by Van Aelst and D'Souza-Schorey 1997). Studies with RhoA and Rac effector loop mutants show that SRF activation does not correlate with transformation or cytoskeletal rearrangements but have failed to identify the effector proteins involved (51, 35 and 54). Although the RhoA effector kinase ROCK can activate SRF, this process is itself Rho dependent, and ROCK activity does not appear necessary for serum-induced SRF activation (14, 35 and 36). The mechanism of SRF activation and its relationship to other RhoA-controlled processes has therefore remained unclear.
+
+We developed an in vivo functional screen for SRF activators and describe here its use to identify the actin regulator LIM kinase-1 (LIMK-1) as a powerful SRF activator. We show that although LIMK-1 is not essential for serum-regulated activation of SRF, it is the ability of both LIMK-1 and extracellular signals to regulate the actin treadmilling cycle that regulates SRF activity. Depletion of G-actin is both necessary and sufficient for activation both of SRF reporters and a subset of SRF target genes. Our results show that the actin treadmilling cycle represents a convergence point in signaling pathways to SRF and reveal a direct link between cytoskeletal reorganization and gene transcription.
+
+Results
+Expression Screening for SRF Activators
+To establish an in vivo screening assay for SRF activators, we first constructed an indicator COS cell line, COS/3DA.CD8, containing an SRF-controlled CD8 reporter gene (see Experimental Procedures). These cells were then used to screen a VP16-tagged NIH3T3 cDNA library by FACS sorting for cell-surface CD8 expression. We expected to recover two types of activator: cDNAs that stimulate transcription directly, encoding proteins that interact with SRF or proteins bound to it; and cDNAs that act indirectly, encoding proteins that activate SRF-linked signal transduction pathways (Figure 1A). Following sorting, DNA was recovered from the top 0.7% of CD8-expressing cells and divided into pools of 50 plasmids. Of 150 pools screened, 5 positive pools were identified and the active plasmids isolated by sibling selection (Figure 1B). Two different partial cDNAs were recovered (Figure 1C): clone G5, encoding mouse SRF residues 59–276, which encompass the DNA-binding domain, and clone Q1, which encodes mouse LIMK-1 residues 293–646, including the kinase domain. The repeated isolation of these cDNAs (G5, twice; Q1, three times) shows that under the screening conditions used, the library was screened at saturation.
+
+Full-size image (124 K)
+Figure 1. 
+Cos Cell Expression Screen for SRF Activators
+(A) Experimental strategy. Left panel, the SRF-controlled reporter in 3D.ACD8 cells is shown with the SRF dimer as shaded circles, and below are two expected scenarios for activation of the reporter gene by VP16-tagged cDNAs. Right panel, the screening protocol.
+(B) Sibling selection of a positive pool. FACS analysis of positive pool 20 (thick lines) compared to cells transfected with vector alone (thin lines).
+(C) Schematic representation of the clones isolated in the screen compared with the intact proteins.
+Figure options
+Activation of SRF by LIM Kinases
+LIMK-1 and its close relative LIMK-2 define a novel family of serine/threonine kinases containing two N-terminal LIM motifs and a PDZ domain (6 and 26). To investigate the specificity of transcriptional activation by LIMK-1, we first performed transfection assays using reporters controlled by various derivatives of the c-fos SRE ( Hill et al. 1994; Figure 2A). Clone Q1 activated the wild-type c-fos SRE at levels comparable to SRF-VP16 or serum stimulation; mutation of the TCF-binding site actually increased activation, while mutation of the SRF-binding site abolished activation ( Figure 2A). The VP16 tag was not required for activation, suggesting that activation occurs via the action of the kinase ( Figure 2A). Neither intact LIMK-1 nor its kinase domain alone could activate the MAP kinases ERK2 and SAPK/JNK (data not shown), and, consistent with this, they did not activate a reporter system controlled by the MAPK-controlled TCF Elk-1 ( Figure 2A, right panel). We next compared the ability of several LIMK-1 and LIMK-2 derivatives, shown in Figure 2B, to activate the SRF-controlled reporter gene 3D.ACAT ( 27 and 20). LIMK derivatives activated SRF at levels comparable to that by activated Rho family GTPases. The isolated LIMK-1 kinase domain was more effective than that of LIMK-2, and both were more effective than the intact proteins, even though all were expressed at similar levels ( Figure 2C; data not shown); it is likely that this reflects the increased activity of the isolated kinase domain ( Edwards and Gill 1999). SRF activation by LIMK-1 was abolished by kinase-inactivating mutations ( 52 and 17); these mutations also inactivated VP16-tagged clone Q1, indicating that activation cannot occur via two hybrid interactions between the kinase and the reporter gene. Taken together, these results show that LIM kinases specifically activate the SRF-linked signal pathway.
+
+Full-size image (97 K)
+Figure 2. 
+LIMK-1 Is a Strong Activator of SRF
+(A) LIMK-1 activates the SRF-linked signaling pathway. Left panel, behavior of different c-fos SRE derivatives: SRE.WT binds both SRF and TCF; SRE.L binds SRF only; SRE.LM binds neither SRF nor TCF. LIMK-1 derivatives used are shown in (B). SRF.M2-VP16 is an altered-specificity SRF that can activate the SRE.LM reporter ( Hill et al. 1994). NIH3T3 cells were transfected using DEAE-dextran; data shown are from a representative experiment. Right panel, LIMK-1 does not activate the ternary complex factor Elk-1. Cells were transfected with the reporter LexOP.CAT together with expression plasmids encoding the LexA/Elk-1 fusion protein NLex.ElkC and LIMK-1 derivatives. Data shown represent the mean ± SEM from three independent transfections.
+(B) LIMK-1 and LIMK-2 derivatives used in this paper. Point mutations are represented by black lines.
+(C) LIMK-1 kinase activity is required for SRF activation. NIH3T3 cells were transfected with the SRF-controlled 3D.ACAT reporter together with the indicated activators. Data shown represent the mean ± SEM from at least three independent transfections.
+Figure options
+LIMK-1-Induced SRF Activation Requires F-Actin Stabilization
+Currently, the only known LIMK substrates are the cofilins, small actin-binding proteins that facilitate the dissociation of actin monomers from F-actin pointed ends (see Figure 3A; 11 and 22). Phosphorylation of cofilin at serine 3 by LIMKs prevents its interaction with actin and thereby stabilizes F-actin. Overexpression of LIMK-1 therefore promotes formation of F-actin aggregates, an effect that can be blocked by coexpression of the nonphosphorylatable cofilin mutant Cof-S3A (2 and 52). We exploited this observation to test whether SRF activation by LIMK-1 is mediated via its effect on F-actin.
+
+Full-size image (141 K)
+Figure 3. 
+LIMK-1 Activates SRF via Actin
+(A) Regulation of actin treadmilling by LIM kinases. Actin monomers are shown as wedges, cofilin as a solid circle, and profilin as a solid rectangle. Cofilin facilitates dissociation of monomers from F-actin pointed ends, while polymerization is dependent on Rho family GTPases. LIM kinases phosphorylate cofilin, preventing its interaction with actin and thereby stabilizing F-actin.
+(B) Cofilin S3A blocks disruption of the actin cytoskeleton by LIMK-1. NIH3T3 cells in 0.5% FCS were microinjected with plasmids encoding the LIMK-1 kinase domain (50 μg/ml) and cofilin derivatives (100 μg/ml). F-actin was visualized 5 hr later using Texas red–phalloidin. Microinjected cells are arrowed.
+(C) Cells were microinjected with the SRF-controlled reporter 3D.AFosHA (50 μg/ml) together with LIMK-1 and cofilin vectors as in (B). After 14 hr, cells were either stained for FosHA expression or stimulated with LPA or 10% FCS, incubated a further 1 hr, and fixed before staining. Data are mean ± SEM from three independent experiments.
+(D) Dominant-negative LIMK-1 does not prevent serum induction. Cells were microinjected with SRF-controlled reporter 3D.AFosHA together with the kinase-inactive derivative K1.C/D460A-T508V and processed as in (C). Data are mean ± SEM from three independent experiments. Similar results were obtained with K1.C/D460A.
+Figure options
+NIH3T3 cells were microinjected with LIMK and cofilin expression plasmids, together with the SRF-controlled reporter 3D.FosHA. The LIMK-1 kinase domain induced formation of large F-actin aggregates, as did intact LIMK-1, although less effectively, and this required kinase activity (Figure 3B; data not shown). Both intact LIMK-1 and its kinase domain also activated the coinjected SRF reporter gene (Figure 3C). Expression of Cof-S3A but not wild-type cofilin blocked formation of actin aggregates by LIMK-1 or its kinase domain (Figure 3B; data not shown) and substantially inhibited activation of the SRF-controlled reporter gene (Figure 3C). These effects were dependent on interaction of the mutant cofilin with actin, since neither phenotype was affected by coexpression of Cof-S3A/K112,114A, a mutant that can neither be phosphorylated nor bind actin (Figure 3B and Figure 3C; see Lappalainen et al. 1997). These results strongly suggest that the ability of LIMK-1 derivatives to activate SRF is dependent on its ability to regulate actin treadmilling.
+
+We used overexpression of Cof-S3A or kinase-inactive LIMK-1 to test whether SRF regulation by extracellular signals also requires cofilin phosphorylation by LIMK. Under conditions sufficient to block activation by coinjected LIMK-1, Cof-S3A expression had no effect on SRF activation by serum and only a marginal effect on that by LPA (Figure 3C). Similarly, under conditions where the kinase-inactive LIMK-1 mutant D460A/T508V (Edwards and Gill 1999; see Figure 2B) could partially inhibit SRF activation by LIMK-1, it had no effect on SRF activation by serum or LPA (Figure 3D). Together, these data show that although LIMK-1 regulates SRF activity via its effects on actin, its activity is not essential for transmission of serum- or LPA-induced signals to SRF.
+
+SRF Activation by LIMK-1 Is Largely Dependent on RhoA
+LIMKs and Rho GTPases affect different aspects of actin treadmilling: LIMKs prevent the dissociation of actin from filament pointed ends, while Rho GTPases promote the accumulation of F-actin (Figure 3A; reviewed by 46, 48 and 8). Since even serum-starved cells possess basal levels of RhoA activity (C. Hill, A. S. Alberts, and R. T., unpublished data), we used C3 transferase, which inactivates RhoA and its close relatives, to test whether LIMK-induced SRF activation and actin reorganization were dependent on RhoA.
+
+In microinjection assays, expression of C3 transferase antagonized the formation of F-actin aggregates in cells expressing the LIMK-1 kinase domain expression plasmid and had a similar effect on the less dramatic actin rearrangements induced by intact LIMK-1, LIMK-2, or the LIMK-2 kinase domain (Figure 4A, upper panels, and data not shown). LIMK-1 expression partially alleviated the cytoskeletal disruption induced by C3 transferase, demonstrating that functional RhoA is not essential for LIMK activity (data not shown; Figure 4A, upper panels; see Discussion). Activation of SRF by intact LIMK-1 or LIMK-2 was strongly inhibited by C3 transferase. However, SRF activation by the LIMK-1 kinase domain was only partially inhibited at low plasmid input and apparently unaffected at high plasmid concentration (Figure 4A and Figure 4B; see Discussion). Similar results were obtained in the more quantitative transfection assay: SRF activation by the LIMK-1 kinase domain was sensitive to C3 transferase at low plasmid concentrations but substantially RhoA independent at high plasmid inputs, while LIMK-2 was RhoA dependent at all concentrations of input plasmid (Figure 4C).
+
+Full-size image (66 K)
+Figure 4. 
+SRF Activation by LIMK-1 Is Largely Dependent on RhoA
+(A) Both cytoskeletal rearrangements and SRF activation by LIMK-1 are RhoA dependent. NIH3T3 cells were microinjected with plasmids encoding LIMK-1 derivatives (100 μg/ml) and C3 transferase (25 μg/ml) together with the SRF-controlled reporter 3D.AFosHA (50 μg/ml). Five hours later, FosHA protein was detected by indirect immunofluorescence and F-actin visualized using Texas red–phalloidin. Microinjected cells, identified by staining for LIMK-1, are arrowed. Similar results were observed when endogenous RhoA was sequestered by coexpression of the RhoA-binding domain of its effector kinase PKN (data not shown).
+(B) Sensitivity of SRF activation to C3 transferase in the microinjection assay. Data represent mean ± SEM from three independent microinjection experiments performed as in (A).
+(C) SRF activation by LIMK-1 is largely RhoA dependent in the transfection assay. NIH3T3 cells were transfected with the SRF-controlled 3D.ACAT reporter together with the indicated activators. Data shown represent the mean ± SEM from three independent transfections.
+Figure options
+These results show that in serum-starved NIH3T3 cells, LIMK-induced actin rearrangements and SRF activation are substantially dependent on basal levels of RhoA signaling. Actin treadmilling therefore represents a potential convergence point for LIMK- and Rho-dependent signaling to SRF.
+
+Actin Polymerization Inhibitors Prevent SRF Activation by LIMK-1, Rho Family GTPases, and Extracellular Signals
+To examine the role of actin dynamics in SRF activation more directly, we tested the effects of actin polymerization inhibitors. Cells were treated either with the toxin latrunculin B, which sequesters G-actin monomers (Coue et al. 1987), or with Clostridium botulinum C2 toxin, which prevents polymerization of actin by ADP-ribosylating it at residue R177 ( Vandekerckhove et al. 1988).
+
+We first tested the effect of latrunculin B treatment on activation of SRF induced by cotransfection of signaling components. Latrunculin B significantly impaired activation of the SRF reporter 3DA.CAT by LIMK-1 derivatives, constitutively active Rho family GTPases, and the activated RhoA exchange factor mNet1ΔN; it did not affect activation by the constitutively active SRF derivative SRF-VP16 and had no effect alone (Figure 5A; see also Figure 6B). Similar results were obtained with latrunculin A (data not shown). Latrunculin B had little effect on serum-induced ERK2 phosphorylation or stress-induced activation of SAPK/JNK, showing that it specifically blocks SRF-linked signaling pathways (Figure 5B). Consistent with this, latrunculin treatment had no effect on the ability of constitutively active Ras to activate a reporter gene system controlled by the MAPK-responsive SRF cofactor TCF Elk-1 (Figure 5A, right panel). Latrunculin B treatment led to a reduction in protein accumulation, as assessed by immunoblotting, but this was observed with all activators (data not shown).
+
+Full-size image (82 K)
+Figure 5. 
+Inhibition of Actin Polymerization by Latrunculin or C. botulinum C2 Toxin Inhibits SRF Activation
+(A) Latrunculin B inhibits SRF but not TCF. Cells were transfected with reporters and activator plasmids as indicated. Eight hours after the start of the transfection, latrunculin B was added; cells were harvested 12 hr later. Left panel, SRF-controlled 3D.ACAT reporter. Data are mean ± SEM from three independent transfections, with activity in the absence of inhibitor set to 100 (see Figure 2C). Right panel, Elk-1-controlled Nlex.ElkC/LexOP.CAT reporter system.
+(B) NIH3T3 cells maintained in 0.5% FCS for 24 hr were stimulated with 10% FCS for the indicated times or for 30 min with 50 ng/ml anisomycin (aniso), UV irradiation (UV), or 0.5 μM jasplakinolide; latrunculin B pretreatment (60 min) was as indicated. Cell lysates were analyzed by immunoblotting with ERK2 or phospho-JNK antibodies.
+(C) Latrunculin B blocks SRF activation by serum and LPA. SRE.FosHA cells, which contain the SRF-controlled reporter 3D.AFosHA, were serum starved for 36 hr. Following a 60 min latrunculin B pretreatment as indicated, cells were stimulated with 15% FCS or 10 μM LPA for 30 min before analysis by RNase protection for 3D.AFosHA and GAPDH transcripts. Latrunculin B did not affect endogenous RhoA level (data not shown).
+(D) C2 toxin treatment blocks SRF activation by serum. SRE.FosHA cells were serum starved for 36 hr and then treated with C2 toxin (C2I, 200 ng/ml; C2II, 400 ng/ml) for 4 hr before serum stimulation and analysis as in (C).
+Figure options
+Full-size image (65 K)
+Figure 6. 
+Activation Responds to Depletion of the G-Actin Pool
+(A) Activation of SRF following F-actin stabilization by jasplakinolide. SRE.FosHA cells maintained in 0.5% FCS were stimulated for the indicated times with either 15% FCS or 0.5 μM jasplakinolide, with latrunculin B pretreatment where indicated. Total cell RNA prepared at the indicated times was analyzed by RNase protection for 3D.AFosHA and GAPDH transcripts.
+(B) SRF activation does not require increased F-actin. NIH3T3 cells were transfected with the SRF-controlled 3D.ACAT reporter, maintained in 0.5% FCS for 24 hr, and then stimulated with 10% FCS, 10 μM LPA, 0.2–0.5 μM latrunculin B (LB), 0.3–0.5 μM jasplakinolide (Jasp), 0.03–0.1 μM swinholide A (Swin), and 0.8–2 μM cytochalasin D (CD) as indicated. Data shown represent the mean ± SEM from three independent transfections.
+(C) Activation of SRF by WASP and Diaphanous family proteins. NIH3T3 cells were transfected with the SRF-controlled 3D.ACAT reporter together with expression plasmids encoding activated mDia1 or mDia2 (codons 263–1255 and 255–1153, respectively), VASP, WASP, N-WASP, or VCA (N-WASP codons 394–505) as indicated and maintained in 0.5% FCS for 24 hr before harvest. Data shown represent the mean ± SEM from three independent transfections.
+Figure options
+We next used latrunculin B and C2 toxin to test the role of actin polymerization in serum- or LPA-induced SRF activation, which are dependent on endogenous RhoA (Hill et al. 1995). For these experiments, we performed RNase protection assays using the NIH3T3-derived cell line SRE.FosHA, which carries an integrated SRF-controlled reporter gene (Alberts et al. 1998). Latrunculin B treatment completely blocked serum- and LPA-induced transcription of the reporter (Figure 5C). Similar results were obtained upon treatment of the cells with C2 toxin (Figure 5D). Taken together, these data show that although LIMK is not required for serum-induced SRF activation, both LIMK- and serum-induced signals acting through RhoA converge at the level of actin treadmilling.
+
+Induction of SRF by Actin-Polymerizing Agents
+The experiments described in the preceding sections suggest that stimuli that activate SRF do so by inducing F-actin accumulation. We therefore tested the effect on SRF activity of other drugs and proteins known to increase F-actin levels. These agents include jasplakinolide, which binds to and stabilizes F-actin (Bubb et al. 1994), and proteins belonging to the WASP and Diaphanous families that promote actin polymerization (4, 48 and 8).
+
+Jasplakinolide strongly activated transcription of the SRF reporter gene in SRE.FosHA cells, although with somewhat slower and more prolonged kinetics than serum (Figure 6A). Latrunculin B pretreatment retarded jasplakinolide-induced SRF activation but did not block it, consistent with the fact that the two drugs bind reversibly to different types of actin target (Figure 6A). Jasplakinolide also activated the transfected SRF-controlled reporter 3D.ACAT (Figure 6B) but did not activate the MAP kinase–controlled Elk-1 TCF reporter gene system or MAP kinases (data not shown, see Figure 5B). Overexpression of the WASP family proteins VASP, WASP, and N-WASP activated the SRF-controlled reporter, and the C-terminal 110 residues of N-WASP (VCA), which are sufficient to promote actin polymerization in vitro (25 and 33), were also sufficient for SRF activation (Figure 5C). Removal of the N-terminal Rho-binding domains of mDia1 and mDia2 generates constitutively active forms that promote F-actin accumulation (Watanabe et al. 1999; Tominaga et al., submitted), and these mutants also strongly activated SRF (Figure 5C). Thus, in addition to LIMK, both drugs and proteins that promote F-actin accumulation activate SRF.
+
+SRF Responds to G-Actin Levels
+Although the experiments presented show that increased F-actin levels are associated with increased SRF activity, they do not address whether SRF senses increased F-actin level itself, an increased F-/G-actin ratio, or a decreased G-actin level. To address this issue, we examined the effects of two other drugs, swinholide A and cytochalasin D. Swinholide A sequesters G-actin as dimers (10, 24 and 37), while cytochalasin D caps actin filaments and stimulates ATP hydrolysis on G-actin (discussed by Sampath and Pollard 1991). Both of these compounds strongly activated SRF reporter genes with prolonged activation kinetics similar to those of jasplakinolide (Figure 6 and data not shown). Although a recent report indicates that cytochalasin itself activates RhoA (Ren et al. 1999), SRF activation by cytochalasin D was RhoA independent (see Figure 4C). Since swinholide A and cytochalasin D interact with actin but do not induce its polymerization, their ability to activate SRF strongly supports a model in which SRF activation occurs in response to decreases in the G-actin level (see Discussion).
+
+Actin Overexpression Inhibits Activation of SRF by Serum
+The observation that certain drugs that bind G-actin are sufficient to activate SRF provides strong support for the idea that actin itself directly participates in SRF regulation. We reasoned that overexpression of actin might titrate cofactors involved in SRF regulation and thereby inhibit its activation. To test this idea, we increased actin levels in SRE-FosHA cells by microinjection of a plasmid expressing Flag-tagged actin. Upon serum stimulation, cells overexpressing actin exhibited greatly decreased expression of the SRF-controlled reporter gene (Figure 7A, panels 1–3). Similar results were obtained using a microinjected reporter (Figure 7B). The effect of actin overexpression was specific, since in parallel experiments, serum induction of the immediate-early gene Egr-1 was unimpaired (Figure 7A, panel 4; see below). We used a similar approach to test whether overexpression of profilin, an actin-binding protein thought to be involved in the polymerization process (Schluter et al. 1997), could also affect SRF activity. Overexpression of wild-type profilin activated expression of the reporter, but profilin H119E, which cannot bind actin, did not (Figure 7C; Suetsugu et al. 1998). Taken together, these results are consistent with participation of actin itself in the regulatory process.
+
+Full-size image (110 K)
+Figure 7. 
+Regulation of SRF by Actin
+(A) Actin overexpression inhibits SRF.SRE.FosHA cells were microinjected with an actin or GFP expression plasmid (100 μg/ml), maintained in 0.5% serum for 14 hr, and then stimulated with 10% FCS for 1 hr before staining for Flag-actin and FosHA (panels 1–3) or Flag-actin and Egr-1 (panel 4). Data are summarized at the bottom right.
+(B) Cells were microinjected with the 3D.AFosHA reporter (40 μg/ml) together with actin expression plasmid and treated as in (A).
+(C) Profilin overexpression can activate SRF. Cells were microinjected with the 3D.FosHA reporter and the indicated profilin expression plasmids (100 μg/ml) and stained for reporter expression 14 hr later. In all panels, data are from three independent experiments ± SEM.
+Figure options
+A Subset of SRF Target Genes Is Regulated by Actin Dynamics
+Finally, we investigated to what extent alterations in actin dynamics contribute to the regulation of endogenous SRF target genes. Previous studies have suggested that expression of two SRF target genes, cytoskeletal actin and vinculin (27, 5 and 28), responds to actin expression levels (30, 31, 40 and 24). We therefore examined these genes, as well as the well-characterized SRF targets c-fos and egr-1 and the srf gene itself ( Spencer and Misra 1996).
+
+Serum induction of the endogenous c-fos gene was essentially unimpaired by treatment with latrunculin B or C2 toxin ( Figure 8A, compare lanes 3–5 with 6–8); similar results were obtained with egr-1, consistent with the actin overexpression experiments (data not shown). Both the srf and vinculin genes were induced by serum, although less dramatically and with slower kinetics than c-fos, reflecting the greater stability of these mRNAs. In contrast to c-fos induction, however, serum induction of srf and vinculin was completely blocked by latrunculin B or C2 toxin ( Figure 8A, compare lanes 3–5 with 6–8 and 10 and 11 with 12 and 13). Induction of the c-fos gene by jasplakinolide, swinholide A, or cytochalasin D was barely detectable (<2-fold, compared with 100-fold induction by serum); in contrast, these drugs induced the srf and vinculin mRNAs, although somewhat less efficiently than serum stimulation ( Figure 8B; compare Figure 8A, lanes 1–5). Since cytoskeletal actin synthesis is controlled at both the transcriptional and posttranscriptional levels ( Bershadsky et al. 1995), we used a reporter system to study actin regulation. The Xenopus laevis type-5 cytoskeletal actin promoter, which like the mammalian genes contains multiple SRF-binding sites ( Mohun et al. 1987), behaved in an identical manner to the SRF-controlled reporter genes: induction by serum or LPA stimulation was blocked by latrunculin B, and the gene was activated by the other actin-binding drugs, LIMK-1 expression, and activated RhoA ( Figure 8C). Taken together, these data demonstrate that potentiation of SRF activity by depletion of the cellular G-actin pool is necessary and sufficient for induction of some but not all SRF target genes.
+
+Full-size image (155 K)
+Figure 8. 
+Regulation of SRF Target Genes via Actin Dynamics
+(A) Latrunculin B and C2 toxin block serum induction of the srf and vinculin, but not c-fos, genes. SRE.FosHA cells were maintained in 0.5% FCS for 36 hr and then treated with latrunculin B (lanes 1–8) or C2 toxin (lanes 9–13) as in Figure 5. After serum stimulation for the indicated times, c-fos (Fos), srf (SRF), vinculin, and GAPDH transcripts were analyzed by RNase protection. Relative transcript levels, as determined by PhosphorImager analysis, are shown below each panel.
+(B) Activation of SRF target genes by actin-binding drugs. Cells maintained as in (A) were treated with 0.5 μM jasplakinolide, 0.1 μM swinholide A, or 2 μM cytochalasin D for the indicated times before RNA analysis.
+(C) Control of a cytoskeletal actin promoter via actin dynamics. NIH3T3 cells were cotransfected with a CAT reporter controlled by the Xenopus type 5 cytoskeletal actin promoter (A431.CAT) and the indicated activators. Following maintenance in 0.5% FCS for 16 hr, cells were stimulated or not for 8 hr with 10% FCS, 10 μM LPA, 0.3 μM jasplakinolide, 0.03 μM swinholide A, or 2 μM cytochalasin D, with latrunculin B pretreatment as indicated, and harvested. Data shown are from a representative experiment.
+Figure options
+Discussion
+Actin Dynamics: A Convergence Point for SRF-Linked Signal Pathways
+We used an in vivo functional screen based on activation of an SRF-controlled reporter gene to identify activators of the SRF-linked signal pathway. In addition to SRF itself, we recovered a cDNA encoding the kinase domain of the actin regulator LIMK-1 (6, 26, 2 and 52). Expression screens of this type may facilitate identification of further regulators of both SRF and other transcription factors. SRF activity can be increased by overexpression of intact LIMK-1, its close relative LIMK-2, or either kinase domain. The only currently known function of LIMK is to phosphorylate cofilin, which results in the stabilization of F-actin (11, 22, 2 and 52). Both F-actin stabilization and SRF activation by LIMK are inhibited by overexpression of nonphosphorylatable cofilin, and this inhibition is dependent on the interaction of the mutant cofilin with actin. LIMK-induced SRF activation is also inhibited by latrunculins, drugs that prevent actin polymerization by binding actin monomers (Coue et al. 1987). These results indicate that LIMK-1 potentiates SRF activity by regulating actin dynamics. However, similar approaches demonstrated that LIMK-1 is not an essential component of the signaling pathway that activates SRF following serum stimulation, so we investigated the relationship between the LIMK- and serum-induced signal pathways.
+
+Several lines of evidence demonstrate that the actin treadmilling cycle is the point at which the LIMK- and serum-induced signaling pathways converge, as outlined in Figure 9. First, SRF activation by extracellular signals, Rho GTPases, and LIMK is blocked by inhibitors of actin polymerization such as latrunculin and C2 toxin. Second, agents that promote F-actin accumulation activate SRF. These either stabilize F-actin, as in the case of LIMKs and the F-actin-binding drug jasplakinolide (Bubb et al. 1994), or are associated with de novo actin polymerization, as in the case of VASP, WASP, and Diaphanous family proteins (reviewed by 4, 48 and 8). The 110 residue N-WASP VCA region sufficient to nucleate actin polymerization in vitro (Rohatgi et al. 1999) activates SRF, and, consistent with our model, a recent study indicates that Diaphanous family proteins are essential components of the serum-induced RhoA-dependent signaling pathway (Tominaga et al., submitted). Third, overexpression of actin itself specifically inhibits serum-induced signaling to SRF. Finally, the actin-binding drugs swinholide A and cytochalasin D are sufficient to activate SRF, as is overexpression of the actin-binding protein profilin. These agents do not induce polymerization, however, demonstrating that the sensing mechanism for regulation of SRF activity must involve G-actin, rather than the level of F-actin or the F-/G-actin ratio.
+
+Full-size image (50 K)
+Figure 9. 
+Models for SRF Regulation via the Actin Dynamics
+Actin monomers are shown as wedges, cofilin as a solid circle, and profilin as a solid rectangle. LIM kinases phosphorylate cofilin, preventing its interaction with actin and thereby stabilizing F-actin. Rho family GTPases regulate the activity of FH and WASP family proteins such as mDia1/mDia2 (Rho), WASP (Cdc42), or WAVE (Rac), which recruit profilin–actin complexes to polymerization sites. Extracellular signals regulate the system via control of Rho GTPase and possibly LIMK-1 activity. In the two models shown, SRF activity is controlled either by an actin-interacting coactivator (“X”) or a repressive (actin-containing?) complex, which enables its activity to track cellular G-actin level. For discussion, see text.
+Figure options
+We propose that it is depletion of the G-actin pool that induces SRF activation. This could occur in either of two ways: positive regulation by a coactivator that perhaps senses G-actin level by direct physical interaction, or negative regulation by a repressive complex perhaps involving G-actin itself (see Figure 9). Increased actin overexpression would inhibit SRF function by titrating such cofactors. Further experiments are required to distinguish between these possibilities. Although cofilin itself could in principle act as an SRF cofactor, this would appear unlikely, because nonphosphorylatable cofilin mutants do not impair SRF activation by extracellular signals and phosphomimetic cofilin mutants do not activate SRF (A. S., unpublished data). We are currently using inhibition of SRF regulation by actin overexpression as an assay with which to map regions of the molecule that participate in SRF regulation. Although we think it most likely that regulation occurs at the level of transcriptional initiation, this need not necessarily be the case, and it is interesting to note that cytoskeletal actin has recently been found to be associated with the BAF chromatin remodeling complex (Zhao et al. 1998).
+
+Latrunculin and C2 toxin inhibit signal transduction to SRF by binding to or modifying G-actin and preventing its polymerization. In contrast, profilin, swinholide A, and cytochalasin D, which also bind actin, are themselves sufficient to activate SRF. We propose that this contrasting behavior occurs because their association with G-actin, unlike latrunculins and C2 toxin, prevents interaction with the partner molecule involved in SRF regulation. As yet, however, their interaction with actin remains poorly defined. Swinholide A sequesters G-actin as dimers and can sever F-actin (10, 24 and 37); cytochalasin D induces dimerization of G-actin, promotes ATP hydrolysis, and caps filament barbed ends (see Sampath and Pollard 1991); and binding of profilin to actin promotes nucleotide exchange (Schluter et al. 1997). Further insights into the mechanism of SRF regulation will result from complete characterization of the interactions between these agents and actin.
+
+The failure of our RhoA effector loop mutant studies to implicate Diaphanous family proteins in SRF activation (Sahai et al. 1998) may reflect either inadequacies of the approach or requirements for additional effectors. One candidate might be phosphatidylinositol 5-kinase, which controls synthesis of PIP2, a regulator of actin dynamics (reviewed by Van Aelst and D'Souza-Schorey 1997).
+
+Although our data show that serum or LPA induction of SRF is not dependent on LIMK, the localization of LIMKs at the plasma membrane suggests that they may well be true signaling intermediates on as yet unidentified signaling pathways to SRF. Recent studies of LIMK have placed it downstream of both Rac and Rho GTPases (2 and 52; S. Narumiya, personal communication). However, although we found that LIMK-induced SRF activation and actin aggregate formation are largely Rho dependent, LIMK-1 expression alleviated cytoskeletal disruption induced by inactivation of Rho, indicating that LIMK activity is not dependent on Rho in our cells. We propose that LIMK-induced SRF activation is Rho dependent because the F-actin that is sensitive to LIMK is absolutely dependent on basal levels of RhoA activity. According to this view, RhoA-independent SRF activation by high-level LIMK expression would occur because higher LIMK activity is required to affect RhoA-independent F-actin. We are currently investigating the involvement of LIMK-1 in SRF regulation in other signaling contexts, particularly those that, unlike the serum pathway, involve Rac.
+
+Actin Dynamics as a Regulator of SRF Target Genes
+Our data show that actin dynamics plays a critical role in regulation of a subset of SRF target genes. Induction of the cytoskeletal actin, vinculin, and srf genes by serum is blocked by latrunculin or C2 toxin, and each responds to actin-binding drugs in a similar way to our SRF-controlled reporter gene. Thus, alterations in actin dynamics appear both necessary and sufficient for regulation of these genes. These findings confirm and extend previous reports that G-actin levels regulate cytoskeletal actin and vinculin synthesis ( 7, 30, 40 and 24). Vinculin overexpression correlates inversely with transformation (see Rodriguez Fernandez et al. 1992), so our results might explain the observation that LIMK-1 overexpression can suppress transformation ( Higuchi et al. 1996). By contrast, and to our surprise, we found that alterations in actin dynamics both contribute little to serum-induced transcription of the c-fos and egr-1 genes and also appear insufficient for their activation. The basis for the differential sensitivity of SRF target genes remains to be determined. It is intriguing to note that the SRF sites in the c-fos and egr-1 promoters, unlike those of the others, contain well-defined binding sites for the SRF cofactor TCF and that regulation of TCF activity via the ERK pathway plays a major role in their activation. We speculate that the association of TCF with SRF may simultaneously render a promoter sensitive to MAPK signaling pathways and relatively refractory to signaling via actin dynamics. Indeed, in reporter gene experiments, inactive TCF can inhibit activation of SRF by activated GTPases ( 19 and 20). SRF sites in muscle-specific promoters generally lack associated TCF-binding sites, and we expect that these promoters will also be sensitive to G-actin levels.
+
+Our present results suggest that SRF activation via actin dynamics is insufficient to activate the endogenous c-fos promoter, although several previous studies have suggested that active RhoA is necessary and sufficient for its activation ( 20 and 1). Moreover, our results show that activation via actin is sufficient to induce expression of a chromosomal SRF target, while we previously found that microinjected active RhoA requires a cooperating signal to activate such a target ( Alberts et al. 1998). These disagreements may arise from use of gene transfer approaches or from differences between signaling pathways activated using the different approaches; our recent observations suggest that low levels of RhoA signaling do not require cooperating signals to activate chromosomal SRF reporters (A. Alberts and R. T., unpublished data). Further experiments are required to resolve these issues.
+
+Why should some serum-induced genes be more sensitive to actin levels than others? Several other cytoskeletal components are inducible by serum stimulation of 3T3 cells, including alpha-tropomyosin, fibronectin, alpha-actinin, and some integrins (for example, see Ryseck et al. 1989), although the role of SRF in these events remains to be investigated. We propose that the sensitization of cytoskeletal gene transcription to G-actin level allows the expression of cytoskeletal components to track signal-induced cytoskeletal changes. Such a mechanism would also represent an obvious way in which muscle cells, where turnover of cytoskeletal components is high and signal-induced morphological changes frequent, could tailor synthesis of SRF-controlled cytoskeletal components to cell behavior.
+
+Experimental Procedures
+Plasmids
+Reporter plasmids and systems have been described previously: LexOP.CAT+NLexElkC, LSRE.CAT, and LMSRE.CAT (Hill et al. 1994); A431.CAT and 3D.ACAT (Mohun et al. 1987). 3D.ACD8 is a derivative of 3D.ACAT in which the CAT coding sequences are replaced by a 0.8 kb CD8 cDNA fragment encoding human CD8β (GenBank number M36712). 3D.ACD8-neo (a gift from Art Alberts) contains the TK.Neo gene from pREP9 (BsmI–SacII) inserted at the 3D.ACD8 PstI site.
+
+The library vector EF.NLS-VP16 is an EF.BOS derivative encoding ([SV40 NLS] MAPPKKKKRKVG)-S-(VP16 codons 410–490) upstream of a BstXI-flanked cyclin A cDNA stuffer fragment. Random primed cDNA from growing mouse NIH3T3 cells was synthesized by standard techniques, ligated to BstXI adaptors, and inserted into EF.NLS-VP16 backbone. The library contained 4.5 × 106 independent clones with a median cDNA insert size of ∼1 kb.
+
+The LIMK-1 kinase domain in clone Q1 deviated from the published sequence (GenBank number MMU14166) at GG1770–1771→CC. The 5′ end of the mouse LIMK-1 cDNA was amplified from the EF.NLS-VP16 library by PCR, sequenced, and used to reconstruct the full-length ORF; human LIMK-2 cDNA (Invitrogen) was used following correction of a presumed PCR error at V336. LIMKs were expressed with N-terminal 9E10 epitope tag using the EF.BOS derivative EF.Tplink. EF.Fplink (N-terminal Flag epitope) was used to express the following ORFs (GenBank numbers in parentheses): human cofilin (D00682), β-actin (NM001101), profilin (NM005022), and bovine N-WASP (NM00370). Expression plasmids for mouse mDia1 (AF094519) and mDia2 (U96963), human VASP (NM00370) and WASP (NM000377), and bovine N-WASP (NM00370) were gifts from Shuh Narumiya, Art Alberts, Nick Brindle, and Alan Hall, respectively.
+
+SRF Activator Screen
+COS/3D.ACD8 cells were established by transfection with 3D.ACD8-neo and G418 selection and screening for robust and uniform response to cytochalasin D using FACS. For screening, 5 × 107 COS/3D.ACD8 cells were transfected with 30 μg of the cDNA library using DEAE-Dextran, replated the following day, and a day later stained with FITC-conjugated anti-CD8 monoclonal antibody (DAKO clone DK25 at 1:200). The top 0.7% CD8-expressing cells were recovered by FACS and Hirt supernatants transformed into DH5α (190 pools of 50 plasmids). For screening, 5 × 105 COS/3D.ACD8 cells were transfected with plasmid pool DNA (0.75 μg) together with 0.4 μg 3DA.CD8 and 0.25 μg GFP expression plasmids using lipofectamine; GFP-positive cells were analyzed for CD8 expression by FACS using RPE-conjugated anti-CD8 (DAKO) as above. Positive pools were subdivided and rescreened.
+
+Microinjection and Immunofluorescence
+Expression plasmid DNAs were microinjected into the nuclei of cells grown on glass coverslips using a Zeiss 5171 semiautomated machine (Alberts et al. 1998). For each experiment, 50–100 cells were injected. Plasmid concentrations are given in the figure legends. Cells were fixed with 4% formaldehyde in PBS for 15 min and then permeabilized for 10 min in 0.3% Triton X-100 in PBS. Antibodies were diluted 1:100 in PBS, 1% gelatin, 0.5% NP-40, and 10% FCS; cells were washed four times in PBS after the antibody incubation prior to mounting. Microscopy was as described (Sahai et al. 1999).
+
+Cell Transfection and Gene Expression Assays
+SRE.FosHA cells are a NIH3T3 line with an integrated 3D.AFosHA reporter (20 and 1). SRE.FosHA or NIH3T3 cells were transfected using lipofectamine unless otherwise stated (per 60 mm dish: reporter plasmids, 0.3 or 0.5 μg; activators, 0.3 to 1 μg; RSV-lacZ standard, 0.6 μg). Transfected plasmid DNA was made up to 2 μg by addition of MLV128β or EFplink vector DNA. DEAE-dextran transfections were as described (Hill et al. 1995). Stimulation with either serum, LPA, C2 toxin, or actin-binding drugs 36 hr following transfection was as specified in the legends (20 and 30). Actin-binding drugs were cytochalasin D and latrunculin B (Calbiochem); jasplakinolide and latrunculin A (Molecular Probes); and swinholide A (Alexis). For latrunculin treatments during expression of intracellular activators, the drug was added 2–3 hr following lipofectamine treatment.
+
+RNAse protection assays with c-fos and 3D.AFos probes were as described ( Hill et al. 1995). Other probes were as follows: vinculin, 316 nt probe spanning cDNA nucleotides 1201–1444 (GenBank number L18880) and generating 239 nt protected fragment; srf, 252 nt probe spanning exon 3 nucleotides 1128–1134 (R. Nicolas, personal communication) and generating 175 nt protected fragment; GAPDH, 165 nt probe spanning cDNA nucleotides 92–241 (GenBank number M32599) and generating 150 nt protected fragment.
+
+Acknowledgements
+We thank Steve Goodbourn for advice on cDNA library construction; Art Alberts, Derek Davies, and the ICRF FACS lab for cell sorting; and Erik Sahai for microinjection and microscopy lessons. We are indebted to Holger Barth and Klaus Aktories for a generous gift of C2 toxin and to Shuh Narumiya and Art Alberts for gifts of mDia1 and mDia2 expression vectors, respectively, before publication. We thank Nick Brindle, Alan Hall, Shuh Narumiya, Rob Nicolas, Alan Weeds, and Keith Willison for DNAs. We thank members of the laboratory and Alan Weeds, Laura Machesky, Bruce Bowerman, and Caroline Hill for helpful discussions and/or comments on the manuscript. A. S. and J.C. were supported in part by EMBO Longterm Fellowships and D. G. by an Overseas Research Student Award from the Committee of Vice Chancellors and Principals of the United Kingdom. This work was supported by the Imperial Cancer Research Fund.
+
+References
+1
+A.S Alberts, O Geneste, R Treisman
+Activation of SRF-regulated chromosomal templates by Rho-family GTPases requires a signal that also induces H4 hyperacetylation
+Cell, 92 (1998), pp. 475–487
+
+Article |  PDF (714 K) | View Record in Scopus | Citing articles (182)
+2
+S Arber, F.A Barbayannis, H Hanser, C Schneider, C.A Stanyon, O Bernard, P Caroni
+Regulation of actin dynamics through phosphorylation of cofilin by LIM-kinase
+Nature, 393 (1998), pp. 805–809
+
+View Record in Scopus | Citing articles (768)
+3
+S Arsenian, B Weinhold, M Oelgeschlager, U Ruther, A Nordheim
+Serum response factor is essential for mesoderm formation during mouse embryogenesis
+EMBO J., 17 (1998), pp. 6289–6299
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (238)
+4
+M.C Beckerle
+Spatial control of actin filament assembly: lessons from Listeria
+Cell, 95 (1998), pp. 741–748
+
+Article |  PDF (199 K) | View Record in Scopus | Citing articles (77)
+5
+A Ben-Ze'ev, R Reiss, R Bendori, B Gorodecki
+Transient induction of vinculin gene expression in 3T3 fibroblasts stimulated by serum growth factors
+Cell Regul., 1 (1990), pp. 621–636
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+6
+O Bernard, S Ganiatsas, G Kannourakis, R Dringen
+Kiz-1, a protein with LIM zinc finger and kinase domains, is expressed mainly in neurons
+Cell Growth Differ., 5 (1994), pp. 1159–1171
+
+View Record in Scopus | Citing articles (75)
+7
+A.D Bershadsky, U Gluck, O.N Denisenko, T.V Sklyarova, I Spector, A Ben-Ze'ev
+The state of actin assembly regulates actin and vinculin expression by a feedback loop
+J. Cell Sci., 108 (1995), pp. 1183–1193
+
+View Record in Scopus | Citing articles (71)
+8
+E Bi, S.H Zigmond
+Where the WASP stings
+Curr. Biol., 9 (1999), pp. R160–R163
+
+Article |  PDF (67 K) | View Record in Scopus | Citing articles (51)
+9
+M.R Bubb, A.M Senderowicz, E.A Sausville, K.L Duncan, E.D Korn
+Jasplakinolide, a cytotoxic natural product, induces actin polymerization and competitively inhibits the binding of phalloidin to F-actin
+J. Biol. Chem., 269 (1994), pp. 14869–14871
+
+View Record in Scopus | Citing articles (471)
+10
+M.R Bubb, I Spector, A.D Bershadsky, E.D Korn
+Swinholide A is a microfilament disrupting marine toxin that stabilizes actin dimers and severs actin filaments
+J. Biol. Chem., 270 (1995), pp. 3463–3466
+
+View Record in Scopus | Citing articles (107)
+11
+M.F Carlier, V Laurent, J Santolini, R Melki, D Didry, G.X Xia, Y Hong, N.H Chua, D Pantaloni
+Actin depolymerizing factor (ADF/cofilin) enhances the rate of filament turnover: implication in actin-based motility
+J. Cell Biol., 136 (1997), pp. 1307–1322
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (615)
+12
+G Carnac, M Primig, M Kitzmann, P Chafey, D Tuil, N Lamb, A Fernandez
+RhoA GTPase and serum response factor control selectively the expression of MyoD without affecting Myf5 in mouse myoblasts
+Mol. Biol. Cell, 9 (1998), pp. 1891–1902
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (97)
+13
+C.Y Chen, J Croissant, M Majesky, S Topouzis, T McQuinn, M.J Frankovsky, R.J Schwartz
+Activation of the cardiac alpha-actin promoter depends upon serum response factor, Tinman homologue, Nkx-2.5, and intact serum response elements
+Dev. Genet., 19 (1996), pp. 119–130
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+14
+K Chihara, M Amano, N Nakamura, T Yano, M Shibata, T Tokui, H Ichikawa, R Ikebe, M Ikebe, K Kaibuchi
+Cytoskeletal rearrangements and transcriptional activation of c-fos serum response element by Rho-kinase
+J. Biol. Chem., 272 (1997), pp. 25121–25127
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (152)
+15
+M Coue, S.L Brenner, I Spector, E.D Korn
+Inhibition of actin polymerization by latrunculin A
+FEBS Lett., 213 (1987), pp. 316–318
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (426)
+16
+D Durocher, F Charron, R Warren, R.J Schwartz, M Nemer
+The cardiac transcription factors Nkx2-5 and GATA-4 are mutual cofactors
+EMBO J., 16 (1997), pp. 5687–5696
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (423)
+17
+D.C Edwards, G.N Gill
+Structural features of LIM kinase that control effects on the actin cytoskeleton
+J. Biol. Chem., 274 (1999), pp. 11352–11361
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+18
+O Higuchi, G.H Baeg, T Akiyama, K Mizuno
+Suppression of fibroblast cell growth by overexpression of LIM-kinase 1
+FEBS Lett., 396 (1996), pp. 81–86
+
+Article |  PDF (733 K) | View Record in Scopus | Citing articles (15)
+19
+C.S Hill, J Wynne, R Treisman
+Serum-regulated transcription by serum response factor (SRF): a novel role for the DNA-binding domain
+EMBO J., 13 (1994), pp. 5421–5432
+
+View Record in Scopus | Citing articles (114)
+20
+C.S Hill, J Wynne, R Treisman
+The Rho family GTPases RhoA, Rac1, and CDC42Hs regulate transcriptional activation by SRF
+Cell, 81 (1995), pp. 1159–1170
+
+Article |  PDF (2404 K) | View Record in Scopus | Citing articles (1028)
+21
+F.-E Johansen, R Prywes
+Two pathways for serum regulation of the c-fos serum response element require specific sequence elements and a minimal domain of serum response factor
+Mol. Cell. Biol., 14 (1994), pp. 5920–5928
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+22
+P Lappalainen, D.G Drubin
+Cofilin promotes rapid actin filament turnover in vivo
+Nature, 388 (1997), pp. 78–82
+
+View Record in Scopus | Citing articles (267)
+23
+P Lappalainen, E.V Fedorov, A.A Fedorov, S.C Almo, D.G Drubin
+Essential functions and actin-binding surfaces of yeast cofilin revealed by systematic mutagenesis
+EMBO J., 16 (1997), pp. 5520–5530
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (163)
+24
+A Lyubimova, A.D Bershadsky, A Ben-Ze'ev
+Autoregulation of actin synthesis responds to monomeric actin levels
+J. Cell. Biochem., 65 (1997), pp. 469–478
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+25
+L.M Machesky, K.L Gould
+The Arp2/3 complex: a multifunctional actin organizer
+Curr. Opin. Cell Biol., 11 (1999), pp. 117–121
+
+Article |  PDF (459 K) | View Record in Scopus | Citing articles (204)
+26
+K Mizuno, I Okano, K Ohashi, K Nunoue, K Kuma, T Miyata, T Nakamura
+Identification of a human cDNA encoding a novel protein kinase with two repeats of the LIM/double zinc finger motif
+Oncogene, 9 (1994), pp. 1605–1612
+
+View Record in Scopus | Citing articles (131)
+27
+T Mohun, N Garrett, R Treisman
+Xenopus cytoskeletal actin and human c-fos gene promoters share a conserved protein-binding site
+EMBO J., 6 (1987), pp. 667–673
+
+View Record in Scopus | Citing articles (33)
+28
+E.P Moiseyeva, P.A Weller, N.I Zhidkova, E.B Corben, B Patel, I Jasinska, V.E Koteliansky, D.R Critchley
+Organisation of the human gene encoding the cytoskeletal protein vinculin and the sequence of the vinculin promoter
+J. Biol. Chem., 268 (1993), pp. 4318–4325
+
+View Record in Scopus | Citing articles (40)
+29
+X.D Ren, W.B Kiosses, M.A Schwartz
+Regulation of the small GTP-binding protein Rho by cell adhesion and the cytoskeleton
+EMBO J., 18 (1999), pp. 578–585
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1153)
+30
+K.H Reuner, M Wiederhold, P Dunker, I Just, R.M Bohle, M Kroger, N Katz
+Autoregulation of actin synthesis in hepatocytes by transcriptional and posttranscriptional mechanisms
+Eur. J. Biochem., 230 (1995), pp. 32–37
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+31
+K.H Reuner, A van der Does, P Dunker, I Just, K Aktories, N Katz
+Microinjection of ADP-ribosylated actin inhibits actin synthesis in hepatocyte-hepatoma hybrid cells
+Biochem J., 319 (1996), pp. 843–849
+
+View Record in Scopus | Citing articles (12)
+32
+J.L Rodriguez Fernandez, B Geiger, D Salomon, I Sabanay, M Zoller, A Ben-Ze'ev
+Suppression of tumorigenicity in transformed cells after transfection with vinculin cDNA
+J. Cell Biol., 119 (1992), pp. 427–438
+
+Full Text via CrossRef
+33
+R Rohatgi, L Ma, H Miki, M Lopez, T Kirchhausen, T Takenawa, M.W Kirschner
+The interaction between N-WASP and the Arp2/3 complex links Cdc42-dependent signals to actin assembly
+Cell, 97 (1999), pp. 221–231
+
+Article |  PDF (335 K) | View Record in Scopus | Citing articles (782)
+34
+R.P Ryseck, B.H MacDonald, M Zerial, R Bravo
+Coordinate induction of fibronectin, fibronectin receptor, tropomyosin, and actin genes in serum-stimulated fibroblasts
+Exp. Cell Res., 180 (1989), pp. 537–545
+
+Article |  PDF (1745 K) | View Record in Scopus | Citing articles (28)
+35
+E Sahai, A.S Alberts, R Treisman
+RhoA effector mutants reveal distinct effector pathways for cytoskeletal reorganization, SRF activation and transformation
+EMBO J., 17 (1998), pp. 1350–1361
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (185)
+36
+E Sahai, T Ishizaki, S Narumiya, R Treisman
+Transformation mediated by RhoA requires activity of ROCK kinases
+Curr. Biol., 9 (1999), pp. 136–145
+
+Article |  PDF (234 K) | View Record in Scopus | Citing articles (152)
+37
+S.Y Saito, S Watabe, H Ozaki, M Kobayashi, T Suzuki, H Kobayashi, N Fusetani, H Karaki
+Actin-depolymerizing effect of dimeric macrolides, bistheonellide A and swinholide A
+J. Biochem., 123 (1998), pp. 571–578
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+38
+P Sampath, T.D Pollard
+Effects of cytochalasin, phalloidin, and pH on the elongation of actin filaments
+Biochemistry, 30 (1991), pp. 1973–1980
+
+Full Text via CrossRef
+39
+V Sartorelli, K.A Webster, L Kedes
+Muscle-specific expression of the cardiac alpha-actin gene requires MyoD1, CArG-box binding factor, and Sp1
+Genes Dev., 4 (1990), pp. 1811–1822
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (127)
+40
+G Schevzov, C Lloyd, P Gunning
+Impact of altered actin gene expression on vinculin, talin, cell spreading, and motility
+DNA Cell Biol., 14 (1995), pp. 689–700
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+41
+K Schluter, B.M Jockusch, M Rothkegel
+Profilins as regulators of actin dynamics
+Biochim. Biophys. Acta, 1359 (1997), pp. 97–109
+
+Article |  PDF (557 K) | View Record in Scopus | Citing articles (141)
+42
+J.L Sepulveda, N Belaguli, V Nigam, C.Y Chen, M Nemer, R.J Schwartz
+GATA-4 and Nkx-2.5 coactivate Nkx-2 DNA binding targets: role for regulating early cardiac gene expression
+Mol. Cell. Biol., 18 (1998), pp. 3405–3415
+
+View Record in Scopus | Citing articles (226)
+43
+J.A Spencer, R.P Misra
+Expression of the serum response factor gene is regulated by serum response factor binding sites
+J. Biol. Chem., 271 (1996), pp. 16535–16543
+
+View Record in Scopus | Citing articles (58)
+44
+S Suetsugu, H Miki, T Takenawa
+The essential role of profilin in the assembly of actin for microspike formation
+EMBO J., 17 (1998), pp. 6516–6526
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (159)
+45
+R Treisman
+Ternary complex factors: growth factor regulated transcriptional activators
+Curr. Opin. Genet. Dev., 4 (1994), pp. 96–101
+
+Article |  PDF (1568 K) | View Record in Scopus | Citing articles (519)
+46
+L Van Aelst, C D'Souza-Schorey
+Rho GTPases and signaling networks
+Genes Dev., 11 (1997), pp. 2295–2322
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1794)
+47
+J Vandekerckhove, B Schering, M Barmann, K Aktories
+Botulinum C2 toxin ADP-ribosylates cytoplasmic beta/gamma-actin in arginine 177
+J. Biol. Chem., 263 (1988), pp. 696–700
+
+View Record in Scopus | Citing articles (69)
+48
+S Wasserman
+FH proteins as cytoskeletal organizers
+Trends Cell Biol., 8 (1998), pp. 111–115
+
+Article |  PDF (721 K) | View Record in Scopus | Citing articles (152)
+49
+N Watanabe, T Kato, A Fujita, T Ishizaki, S Narumiya
+Cooperation between mDia1 and ROCK in Rho-induced actin reorganization
+Nat. Cell Biol., 1 (1999), pp. 136–143
+
+View Record in Scopus | Citing articles (529)
+50
+L Wei, W Zhou, J.D Croissant, F.E Johansen, R Prywes, A Balasubramanyam, R.J Schwartz
+RhoA signaling via serum response factor plays an obligatory role in myogenic differentiation
+J. Biol. Chem., 273 (1998), pp. 30287–30294
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+51
+J.K Westwick, Q.T Lambert, G.J Clark, M Symons, L Van Aelst, R.G Pestell, C.J Der
+Rac regulation of transformation, gene expression, and actin organization by multiple, PAK-independent pathways
+Mol. Cell. Biol., 17 (1997), pp. 1324–1335
+
+View Record in Scopus | Citing articles (341)
+52
+N Yang, O Higuchi, K Ohashi, K Nagata, A Wada, K Kangawa, E Nishida, K Mizuno
+Cofilin phosphorylation by LIM-kinase 1 and its role in Rac-mediated actin reorganization
+Nature, 393 (1998), pp. 809–812
+
+View Record in Scopus | Citing articles (702)
+53
+K Zhao, W Wang, O.J Rando, Y Xue, K Swiderek, A Kuo, G.R Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+54
+M Zohar, H Teramoto, B.Z Katz, K.M Yamada, J.S Gutkind
+Effector domain mutants of Rho dissociate cytoskeletal changes from nuclear signaling and cellular transformation
+Oncogene, 17 (1998), pp. 991–998
+
+View Record in Scopus | Citing articles (42)
+Further reading
+The data referred to as “S. Narumiya, personal communication,” are now in press: Maekawa, M., Ishizaki, T., Boku, S., Watanabe, N., Fujita, A., Owamatsu, A., Obinata, T., Ohashi, K., Mizuno, K., and Narumiya, S. (1999). Rho-associated kinase-induced phosphorylation of cofilin by LIM kinase in Rho-mediated reorganization of the actin cytoskeleton. Science.
+
+Corresponding author contact information
+Correspondence: Richard Treisman, 44 171 269 3271 (phone), 44 171 269 3581 (fax)
+*
+To whom correspondence should be addressed (e-mail: treisman@icrf.icnet.uk).
+Copyright © 1999 Cell Press. All rights reserved.

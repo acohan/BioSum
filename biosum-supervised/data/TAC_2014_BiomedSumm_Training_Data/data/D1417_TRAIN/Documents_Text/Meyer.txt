@@ -1,0 +1,441 @@
+﻿
+Kissing G Domains of MnmE Monitored by X-Ray Crystallography and Pulse Electron Paramagnetic Resonance Spectroscopy 
+Simon Meyer1, Sabine Bo¨ hme2, Andre´ Kru¨ ger 1¤, Heinz-Ju¨ rgen Steinhoff2, Johann P. Klare2*, Alfred Wittinghofer1* 
+1 Department of Structural Biology, Max-Planck-Institute of Molecular Physiology, Dortmund, Germany, 2 Department of Physics, University of Osnabru¨ ck, Osnabru¨ ck, Germany 
+Abstract 
+
+MnmE, which is involved in the modification of the wobble position of certain tRNAs, belongs to the expanding class of G proteins activated by nucleotide-dependent dimerization (GADs). Previous models suggested the protein to be a multidomain protein whose G domains contact each other in a nucleotide dependent manner. Here we employ a combined approach of X-ray crystallography and pulse electron paramagnetic resonance (EPR) spectroscopy to show that large domain movements are coupled to the G protein cycle of MnmE. The X-ray structures show MnmE to be a constitutive homodimer where the highly mobile G domains face each other in various orientations but are not in close contact as suggested by the GDP-AlFx structure of the isolated domains. Distance measurements by pulse double electron-electron resonance (DEER) spectroscopy show that the G domains adopt an open conformation in the nucleotide free/GDP-bound and an open/closed two-state equilibrium in the GTP-bound state, with maximal distance variations of 18 A° . With GDP and AlFx, which mimic the transition state of the phosphoryl transfer reaction, only the closed conformation is observed. Dimerization of the active sites with GDP-AlFx requires the presence of specific monovalent cations, thus reflecting the requirements for the GTPase reaction of MnmE. Our results directly demonstrate the nature of the conformational changes MnmE was previously suggested to undergo during its GTPase cycle. They show the nucleotide-dependent dynamic movements of the G domains around two swivel positions relative to the rest of the protein, and they are of crucial importance for understanding the mechanistic principles of this GAD. 
+Citation: Meyer S, Bo¨ hme S, Kru¨ ger A, Steinhoff H-J, Klare JP, et al. (2009) Kissing G Domains of MnmE Monitored by X-Ray Crystallography and Pulse Electron Paramagnetic Resonance Spectroscopy. PLoS Biol 7(10): e1000212. doi:10.1371/journal.pbio.1000212 
+Academic Editor: Gregory A. Petsko, Brandeis University, United States of America 
+Received March 30, 2009; Accepted August 21, 2009; Published October 6, 2009 
+Copyright: © 2009 Meyer et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. 
+Funding: SM was funded by the Fond der Chemischen Industrie and by the International Max Planck Research School with predoctoral fellowships. SB, JPK, and H-JS are funded by the Deutsche Forschungsgemeinschaft (STE640/7-2) and the Graduate College 612 (SB). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. 
+Competing Interests: The authors have declared that no competing interests exist. 
+Abbreviations: 5-F-THF, 5-formyl-tetrahydrofolate; AlFx, aluminium tri-or tetrafluoride; cmnm, carboxymethylaminomethyl; DEER, double electron-electron resonance; DTE, dithioerythritol; EPR, electron paramagnetic resonance; GAD, G protein activated by nucleotide-dependent dimerization; GAP, GTPase activating protein; GppCp, guanosine-59-(b,c-methylene)triphosphate; GppNHp, guanosine 59-imidotriphosphate; mGDP, 29-/39-O-(N9-Methylanthraniloyl)-GDP; MME, monomethyl ether; MTSSL, (1-oxyl-2,2,5,5-tetramethyl-3-pyrroline-3-methyl) methanethiosulfonate spin label; PEG, polyethylene glycol. 
+* E-mail: jklare@uos.de (JPK); alfred.wittinghofer@mpi-dortmund.mpg.de (AW) 
+
+¤ Current address: Center for Cellular Imaging and Nanoanalytics, M.E. Mueller Institute for Structural Biology, Biozentrum, University of Basel, Basel, Switzerland 
+Introduction 
+Cells devote substantial biosynthetic effort and resources to posttranscriptional modification of tRNAs [1]. A frequent feature of tRNAs in all domains of life are modified nucleosides in the anticodon region and especially at the wobble position (position 34) [2], which prestructure the anticodon domain to insure correct codon binding during translation [3]. MnmE is an evolutionary conserved G protein found in bacteria, fungi, and humans, which together with the protein GidA catalyzes the formation of a carboxymethylaminomethyl-group (cmnm) at the 5 position of the wobble uridine (U34) of tRNAs reading 2-fold degenerated codons ending with A or G, i.e., tRNAArg(UCU), tRNAGln(UUG), tRNAGlu(UUC), tRNALeu(UAA), and tRNALys(UUU) [4–6]. This modification (cmnm5U34) together with a thiolation at the 2 position favours the interaction with A and G, but suppresses base-pairing with C and U [3,7–10]. By controlling rare codon recognition and reading frame maintenance, hypermodified U34 moreover plays a regulatory role in gene expression [11]. Eucaryotic homologues of MnmE and GidA (termed MSS1 and Mto1, respectively, in yeast) are targeted to mitochondria [12,13], and the human homologues (termed hGTPBP3 and Mto1, respectively) have been implicated in the development of severe mitochondrial myopathies such as MERRF (myoclenic epilepsy ragged red fibres), MELAS (mitochondrial encephalomyopathy lactic acidosis stroke), and nonsyndromic deafness [14–18]. 
+The crystal structure of MnmE from Thermotoga maritima reveals a three-domain protein consisting of an N-terminal tetrahydrofo­late-binding domain, a central helical domain, and a canonical Ras-like G domain inserted into the helical domain [19]. The asymmetric unit of these crystals contained one MnmE molecule and the N-terminal domain of a second proteolysed MnmE chain 
+
+
+Author Summary 
+MnmE is an evolutionary conserved G protein that is involved in modification of the wobble U position of certain tRNAs to suppress translational wobbling. Despite high homology between its G domain and the small G protein Ras, MnmE displays entirely different regulatory properties to that of many molecular switch-type G proteins of the Ras superfamily, as its GTPase is activated by nucleotide-dependent homodimerization across the nucleotide-binding site. Here we explore the unusual G domain cycle of the MnmE protein by combining X-ray crystallography with pulse electron paramagnetic reso­nance (EPR) spectroscopy, which enables distance deter­minations between spin markers introduced at specific sites within the G domain. We determined the structures of the full-length MnmE dimer in the diphosphate and triphosphate states, which represent distinct steps of the G domain cycle, and demonstrate that the G domain cycle of MnmE comprises large conformational changes and domain movements of up to 18 A°, in which the G domains of the dimeric protein traverse from a GDP-bound open state through an open/closed equilibrium in the triphos­phate state to a closed conformation in the transition state, so as to assemble the catalytic machinery. 
+interacting with the N-terminal domain of the first molecule, suggesting that MnmE is a dimer in solution (Figure 1A) [19]. By superposition of the first MnmE chain on the second N-terminal domain a model for the full-length homodimer was generated in which the two G domains face each other with a distance of almost 50 A° between the two P-loops (Figure 1A) [19]. 
+In contrast to Ras-like small G proteins that require a guanine nucleotide exchange factor (GEF) protein to drive the nucleotide exchange and a GTPase activating protein (GAP) to stimulate hydrolysis [20,21], MnmE displays lower affinities towards nucleo­tides and a higher intrinsic K+-stimulated GTP hydrolysis [19,22– 24]. A G domain dimerization across the nucleotide binding site has been proposed on the basis of biochemical data and the crystal structure of the isolated MnmE G domains in complex with GDP-aluminium tri-or tetrafluoride (AlFx) (a mimic of the transition state of GTP hydrolysis [25]) [22]. The G domains dimerize via their switch regions to position an invariant Glu-residue (E282) for optimal orientation of a water molecule for the nucleophilic attack of the c-phosphate group [22]. Dimerization stabilizes a highly conserved loop in switch I, the so-called K-loop, to coordinate K+ in a position analogous to the positive charge of the arginine finger in the Ras-RasGAP system. This explains why K+ is required both for the GTPase stimulation and for G domain dimerization [22]. On the basis of the common feature that the G domain cycle is regulated by homodimerization, MnmE has been categorized as G protein activated by nucleotide-dependent dimerization (GAD) [26], together with the signal recognition particle (SRP) and its receptor (SR) [27,28], the regulator of Ni insertion into hydrogenases HypB [29], the dynamins [30], the human guanylate binding protein hGBP1 [31], the chloroplast import receptors Toc33/34 [32,33], the septins [34], and the Roc-COR tandem found to be mutated in Parkinson disease [35]. It has been postulated that nucleotide-dependent G domain dimerization activates the GTPase and the distinct biological functions of these proteins, although the mechanisms of coupling G domain dimerization to biological function within this class are diverse and incompletely understood [26]. 
+So far, neither the structural model of the full-length MnmE dimer nor dimerization of the G domains in the context of the full-length dimer have been proven directly. With the architecture of the proposed dimer model, dimerization of the G domains would require large domain movements suggesting that large conforma­tional rearrangements of the protein are coupled to its GTPase cycle [22]. Here we study these GTPase-coupled rearrangements by trapping the protein in various steps of its GTPase cycle by X-ray crystallography and pulse double electron-electron resonance (DEER) spectroscopy in combination with site-directed spin labeling [36–38]. The distance distributions obtained for spin labeled sites in the G domains of MnmE allow us to characterize the G domain movements during the GTPase cycle of MnmE. 
+Results 
+Crystal Structures of Full Length MnmE Bound to GDP and GppCp 
+Various MnmE homologous have been screened for crystalli­zation conditions in the presence of GDP, GDP-AlFx and guanosine-59-(b,c-methylene)triphosphate (GppCp), and K+ and were found to crystallize readily in diverse conditions, but only in three cases—Chlorobium tepidum MnmE (CtMnmE) in the presence of K+ , GDP, or GDP-AlFx; Nostoc MnmE (NoMnmE) in the presence of K+ , GDP, or GDP-AlFx; and CtMnmE in the presence of K+ and GppCp-crystals with sufficient diffraction quality were obtained. In the case of CtMnmE, a polyethylene glycol (PEG) 6000/NaCl-condition produced diffraction quality crystals in the presence of GPD and GDP-AlFx. Crystals had the same unit cell parameters and the same space group and are thus isomorphous. NoMnmE crystals with sufficient diffraction were obtained in a PEG 550 monomethyl ether (MME) condition. As with CtMnmE, crystals obtained in the presence of GDP-AlFx or GDP were isomorphous. Structure determination showed in both cases that the crystals contained the GDP-bound form of MnmE, despite the presence of AlFx. Quality of crystals grown in the presence of GDP-AlFx were somewhat better, hence their datasets were used for structure determination. 
+CtMnmE?GDP and NoMnmE?GDP (grown in presence of AlFx) crystallized in the space groups I4(1)22 and P4(3)2(1)2, respectively, each with one full length protomer in the asymmetric unit. In both cases homodimers are formed via crystallographic symmetry by means of the N-terminal domains (Figure 1B and 1C). Apart from the location of G domains, the structure is very similar to the dimer model proposed for nucleotide-free MnmE (Figure 1A) [19]. Strikingly, two molecules of 5-formyl-tetrahy­drofolate (5-F-THF) were identified in the structure of NoMn-mE?GDP, which were apparently copurified from the bacterial expression system (Figure S1A). This suggests a high affinity for 5­F-THF and supports the recently proposed enzymatic mechanism whereby the C1 group of the cmnm modification is donated by THF [19,39]. The cofactor is bound as previously described for the complex prepared in situ [19], with two folate binding sites within the dimer interface of the N-terminal domains. CtMnmE?GDP crystals were incubated with a 5-F-THF-contain­ing cryoprotectant prior to data collection and in the crystal structure 5-F-THF is found in identical positions as in the NoMnmE?GDP-dimer (Figure S1B) and in the TmMnmE-dimer. 
+In the case of CtMnmE?GppCp, the crystallographic asymmet­ric unit contained three protomers (chains A, B, C). Molecules B and C form a dimer within the asymmetric unit, while protomer A forms a dimer with its crystallographic symmetry mate (shown in Figure 1D). No density is found for the G domain of molecule C, but crystals applied on an SDS-page confirmed an intact protein (unpublished data). Thus two dimeric structures of CtMnmE?GppCp were analyzed, i.e., the dimer generated by 
+
+
+
+Figure 1. X-ray structures of full-length MnmE dimers. (A) Model of dimeric MnmE obtained from the partial structure of nucleotide-free MnmE from T. maritima, where only the N-terminal domain (NB), but not the helical (HB), or G domain (GB) of molecule B were present in the crystal. The model was obtained by superimposition of molecule A on the N domain of B and the expected positions of the nucleotide binding sites (denoted as NBS) in this model are indicated. (B–D) Ribbon models of X-ray structures of CtMnmE?GDP (B), No MnmE?GDP (C), and Ct MnmE?GppCp (dimer a) (D), with colors of the N, H, and G domains as indicated, and the protomers A and B. doi:10.1371/journal.pbio.1000212.g001 
+protomer A and a symmetry related chain A (termed ‘‘dimer A’’) and the dimer generated by protomer B and a second protomer B docked onto chain C (termed ‘‘dimer B’’). 
+The overall homodimer architecture found in the three structures resembles the proposed model obtained from a partial dimer (Figure 1A), with the G domains facing each other with their nucleotide binding sites (Figure 1B–1D). However, even though triphosphate analogues such as GppCp or AlFx and GDP were used in the crystallization trials, the G domains were separated from each other by large distances. They do not display any structural contacts between each other nor to the N-terminal or helical domains. In all the structures, nucleotides are far apart from each other, with distances of 38 to 56 A° between the first P-loop glycines’ Ca atom (GxxxxGKS motif). 
+The Mobile G Domains 
+In each structure, the G domain adapts the canonical Ras­fold with either both switch regions (CtMnmE?GDP, CtMnmE?GppCp) or switch II (NoMnmE?GDP) disordered and thus not resolved. Nucleotides are bound in a way typical for Ras­like G domains (Figure S1C–S1E). In CtMnmE?GDP however, no Mg2+ is coordinated to the phosphates, and switch I-contacts to GDP are absent (Figure S1C). In NoMnmE?GDP, two Zn2+ atoms from the crystallisation condition, localized by their anomalous signal, are coordinated to the G domain. One of these is coordinated to helix Ga4 and is involved in crystal contacts (see below), the other occupies the usual Mg2+-binding site at the b-phosphate of GDP (Figure S1D). As Switch I is resolved, but does not contact the bound GDP and since there is no indication for a physiological role of Zn2+, we consider this to be a crystallographic artefact also observed in the nucleotide binding pockets of other small G proteins [40]. 
+For conventional G proteins regulated by GAPs [20] as well as for G proteins activated by dimerization [26], AlFx-in the c-phosphate binding site mimics the transition state of the phosphor transfer reaction and is considered the litmus test for correct assembly of the active site. In the case of MnmE, this is thought to be achieved by dimerization and close juxtaposition of the two G domains across the nucleotide binding site, as observed for the isolated G domains [22]. Although both GDP-bound structures have been obtained using GDP and AlFx in the crystallization trials, no electron density for AlFx could be observed (Figure S1C and S1D). One would thus conclude that close contact between the G domains is not possible in the full-length protein or that the G domains are too mobile for fixation in the crystal and/or that the crystal lattice forces do not allow the close state to occur. 
+
+
+Another possibility would be that crystallisation conditions with high concentrations of precipitants inhibit formation of the closed state of the G domains. Indeed we can show by a previously established fluorometric assay, by which an increase of the fluorescence of 29-/39-O-(N9-methylanthraniloyl)-GDP (mGDP) bound to MnmE upon addition of AlFx in the presence of K+ is attributed to G domain dimerization [22], that in the presence of any of the precipitants used for crystallisation, dimerization of the G domains is severely inhibited in the full length protein (Figure S2). This explains why despite the presence of AlFx in the crystallisation trials only the GDP-bound conformations are found. In the crystals, the G domains are thus trapped in an open state that does not allow tight binding of AlFx, into the c-phosphate binding site. 
+Superposition of the five available homodimer structures (CtMnmE?GDP, NoMnmE?GDP, CtMnmE?GppCp dimers of molecules A and B, T. maritima MnmE dimer model, generated with pdb 1XZP) reveals that the N-terminal domains align quite well and only minor displacements are present for the helical domains (Figures 2A and S3; Table 1). Strikingly, the superpo­sition shows large rotational and translational displacements of the G domains (Figures 2A–2C and S3), which are reflected in their higher root mean square deviation (RMSD) values (Table 1) leading to separation of nucleotide binding sites between, for instance, CtMnmE?GDP and NoMnmE?GDPby18A° (Ca-Ca distance of the first P-loop glycines) (Figure 2A). This becomes clearly visible in the displacement of the G domain b-sheets and of helix Ga6 (Figure 2B and 2C). A video generated from the five homodimer structures makes the drastic displacements of the G domains evident and highlights the dynamic character of the G domains (Video S1). 
+The different orientations indicate that the G domains are highly flexible with regard to the rest of the protein probably due to the rather loose connections between G and helical domains. A conserved glycine residue is situated between helix Ha5 and the first strand of the G domain b-sheet (Figure 2C), which because of its higher conformational freedom could function as a hinge (‘‘N­hinge’’). A second hinge point (‘‘C-hinge’’) is where a not-well­ordered loop attaches the C-terminal end of the G domain after Ga6 to the helical domain (Figure 2B). The angle by which Ga6 is shifted spans up to 47u. In the crystal structure of CtMnmE?GppCp this loop region is not resolved underlining its high flexibility. 
+Although crystals grew under many more conditions, crystals diffracting to reasonable resolution were only obtained in the cases reported here. This result is most likely due to the fact that in these cases, crystal contacts trap the G domains in defined orientations (Figure S4), whereas in the weakly diffracting crystals the G domains are only loosely packed causing lattice disorder. The G domains in the CtMnmE?GDP and NoMnmE?GDP structures 
+°2
+pack against symmetry mates with contact areas of 376 Aand 
+°22+
+488 A. In NoMnmE?GDP a Zn-ion tightly links the G domain to symmetry mates (Figure S4A), while in CtMnmE?GDP the G domains fix each other by a toothing upside-down arrangement (Figure S4B). Crystal contacts of G domains A and B in the 
+°2 °2
+CtMnmE?GppCp structure comprise areas of 845 Aand 987 A, respectively. Docking the G domain of molecule B (or A) into the asymmetric unit of the CtMnmE?GppCp structure to the position expected for the G domain of molecule C would create a much 
+°2 °2
+smaller hypothetical crystal contact area of only 18 A(or 131 A). Thus we would expect that the G domain of molecule C is present in the crystal but, due to its high mobility and absence of sufficient crystal contacts, is not visible in the electron density map. This is similar to the recent structure of the Roco protein, which is also a GAD protein. There, the second G domain of the constitutive dimer is present in the crystal but can not be identified in the electron density map [35]. 
+G Domain Mobility Measured by DEER 
+To test whether the ‘‘open’’ G domain arrangement found in our GDP-and GppCp-bound structures is representative for the conformation in solution and to identify and characterize the putative transition state with closed G domains, which could not be obtained by crystallization, we applied four-pulse DEER spectroscopy [36–38], to measure distances between nitroxide spin labels in the G domains of full-length EcMnmE in different steps of the GTPase cycle. Positions mutated to cysteine for spin labeling with (1-oxyl-2,2,5,5-tetramethyl-3-pyrroline-3-methyl) metha­nethiosulfonate spin label (MTSSL) are Glu287, close to the top of the G domain in Ga2, Ser278 in switch II, and Asp366, located in Ga6, and, as shown in Figure 3, result in the introduction of two symmetry-related spin labels in the functional MnmE dimer. As a possible ‘‘negative control’’ we also spin labeled position Ile105 in the N-terminal domain, for which no distance changes are expected. The Cb-Cb distances between these sites derived from the structures of the open and the model of closed state are listed in Table 2. To avoid unwanted side effects of cysteine substitutions, only nonconserved, surface-exposed residues have been selected. Furthermore, mutant proteins were assayed for K+-stimulated GTPase activity with and without attached MTSSL-label. No impairment of GTPase activity in comparison to wild type could be observed by the mutation itself or the introduction of the spin label (Table S1). Since efficient GTPase activity in the presence of K+ is strictly dependent on correct K+-binding and G domain dimerization [22], we can conclude that the structural and functional aspects of G domain dimerization and GTPase activity of the mutants are preserved in the proteins used for DEER. 
+Nucleotide Free and GDP-Bound State 
+Figure 4A illustrates the results of the DEER measurements in the presence of 100 mM KCl, where the left panel shows the background-corrected dipolar evolution data, the centre panel the respective dipolar spectra, and the right panel the corresponding distance distributions (obtained by Tikhonov regularization; see Methods), which are summarized in Table 2. The DEER analysis of mutant E287R1 (R1 denotes the MTSSL side chain), close to the top of the G domain in Ga2, indicates one major peak centered at a distance of 55 A° for the apo-and 53 A° for the GDP-bound state. This distances correspond well to the Cb-Cb distances in the TmMnmE crystal structure model of 53 A(the
+° corresponding residues in the CtMnmE and NoMnmE structures are not resolved) and is therefore in agreement with an open conformation of the G domains. For D366R1 (situated at Ga6), a well-defined interspin distance distribution centered at 67 A° in the apo-state and 65 A° in the GDP-bound state could be observed in good agreement with the distances obtained from the TmMnmE dimer model (62 A° ) and NoMnmE?GDP (63 A° ), suggesting again an open conformation of the G domains. The corresponding Cb-Cb distance in CtMnmE?GDP dimer is somewhat shorter (57 A° ), which is due to the different orientation of G domains in this structure (Figure 2A) and to the different tilting of Ga6 (Figure 2B). From the E287R1 and D366R1 data in the apo-and GDP-bound 
+
+
+
+Figure 2. Orientations of the G domain. (A) Superimposition of CtMnmE?GDP (green) and NoMnmENGDP (blue) dimers (displayed as ribbon models) via the N-terminal and helical domains with domains labeled as in Figure 1, highlighting the G domains, the relative movements of the nucleotides (displayed as spherical models), and the N-(yellow spheres) and C-hinge (yellow tubes), shown in detail in (B, C). (B, C) Superimpositionof the C-hinge (B) and the N-hinge adjacent to helix Ha5 of the H domain (C) of the Ct and NoMnmE structures (coloring as in [A]) together with the corresponding parts of CtMnmE?GppCp, (chain A, red), highlighting the relative movements of the last helix of the G domain, Ga5 (B), and of the G domain b-sheet (C). The part of the C-hinge in CtMnmE?GppCp not resolved in the X-ray structure is depicted as dashed yellow line (B). doi:10.1371/journal.pbio.1000212.g002 
+
+
+Table 1. Average RMSD of each N-terminal domain, helical domain, and G domain from a superposition of the five MnmE structures (CtMnmE?GDP, CtMnmE?GppCp A and B, T. maritima MnmE [pdb 1XZP], NoMnmE?GDP) with NoMnmE?GDP as reference structure. 
+Average RMSD/A° to NoMnmE?GPD 
+
+CtMnmE?GDP  1.37  1.79  9.47  
+CtMnmE?GppCp, chain A  1.04  1.64  7.62  
+CtMnmE?GppCp, chain B  1.28  2.31  9.84  
+T. maritima MnmE  
+
+
+doi:10.1371/journal.pbio.1000212.t001 
+states, we conclude that instead of a continuum of freely moving orientations, the MnmE G domains seem to have defined major orientation reflected by the distance distributions. 
+In contrast, the analysis for S278R1 (switch II region) by Tikhonov regularization did not allow discrimination between a continuum of distances ranging from 25 A° to 50 A° with increasing probabilities for larger distances (shown in dark colours) or three to four distinct distances corresponding to different protein and/or spin label conformers (shown in pale colours). To clarify this issue, we additionally fitted the GDP data with a Monte Carlo/SIMPLEX algorithm assuming a sum of Gaussian-distributed conformers contributing to the dipolar evolution data (Figure 4B) [41]. The experimental data were satisfactorily reproduced by a distance distribution with two Gaussian populations, which are well defined as judged by the x 2 surfaces, summing up to a broad distribution in the range 30–50 A° . Possible explanations for such a continuum in the distance distribution could be (i) that the labeled position is located in the switch II region, which is flexible in the free and GDP-bound states, in line with the X-ray results, or (ii) that the spin label side chains are not restricted in their conformational space and populate multiple rotamers, or (iii) a combination of (i) and (ii). A general continuum of G domain orientations can be excluded from the results for positions E287R1 and D366R1. Control measure­ments of K+-stimulated GTPase activity (Table S1) make severe structural perturbations appear unlikely. Instead the deviation from the Cb-Cb distance of 22 Ain the TmMnmE dimer model is 
+° probably due to a switch II conformation induced by crystal packing forces. It has been observed before, that even in structures of the same G protein-nucleotide complex different switch II conforma­tions were induced by crystal packing forces [42]. Nevertheless, the most pronounced distances between 40–50 A° as well as the minor fractions situated between 30 and 40 A° observed by DEER are in strong agreement with an open state of the G domains as observed in the apo-and GDP-bound crystal structures. 
+GppNHp-Bound State 
+In the presence of the nonhydrolizable GTP analogue guanosine 59-imidotriphosphate (GppNHp) the distance distributions com­prise two fractions with different interspin distances for all three labeled positions. One larger distance (E287R1, 55 A° ; D366R1, 63 A° ; and S278R1, 43 A° ) corresponds to the open state of the G domains as observed for the nucleotide-free and GDP-bound forms, whereas the other distance, contributing about 30% to the distance distribution (average value calculated from the area under the distance distribution curve) is characterized by significantly shorter distances (E287R1, 37 A° ; D366R1, 47 A° ; and S278R1, 27 A° ), clearly indicating the presence of a second conformation, where the two G domains are in close proximity. As for the GDP-bound state, the GppNHp data for S278R1 were additionally fitted assuming a sum of Gaussian distributions. Despite differences especially in the distribution width for the two populations, this approach also reveals the presence of the two conformations of the G domains. In 
+
+
+Figure 3. Spin label sites in the MnmE dimer. Position of residues that were mutated to Cys and spin labeled (yellow spheres), with dashed lines indicating distances between residues in the open (A) and closed (B) conformation. Domains are labeled as in Figure 1. In (B) GDP-AlFx is displayed as stick model, Mg2+ as grey sphere and K+ as blue spheres. Cb-Cb distances were calculated from the respective residues for the open conformation represented from the model in Figure 1a (generated with pdb 1XZP) and the closed conformation obtained from the structures of the G domain in the GDP-AlFx state (pdb 2GJ8), as summarized in Table 2. doi:10.1371/journal.pbio.1000212.g003 
+
+
+Table 2. Cb-Cb distances between pair of residues mutated to Cys for MTSSL labeling measured in various MnmE dimer crystal structures and maxima in distance distributions for the pair of spin labels from experimentally determined DEER distance distributions. 
+Cb-Cb Distance from X-ray Maximum in DEER Distance Residuea Mutated to Cys Nucleotide State Structures/A° Distribution/A° b 
+
+Note that not all residues selected for spin labeling are resolved in all X-ray structures. 
+aNumbering according to E. coli MnmE sequence. 
+bMajor maxima are highlighted in bold. 
+cT. maritima homodimer model (generated with pdb 1XZP). 
+dFrom E. coli G domain dimer (pdb 2GJ8). 
+eFrom CtMnmE?GDP. 
+fFrom NoMnmE?GDP. 
+gFrom CtMnmE?GppCp, dimer A. 
+hFrom CtMnmE?GppCp, dimer B. 
+doi:10.1371/journal.pbio.1000212.t002 
+
+the X-ray structure of the AlFx-complexed G domain dimer, the Cb-Cb distance of the S278-and E287-pair are 18 A° and 28 A° , respectively and thus somewhat shorter as compared to the GppNHp DEER data (S278R1, 27 A° ; E287R1, 37 A° ). However the MTSSL-side chain itself has an average length of 7 A° between the nitroxyl-radical and the Cb-atom [43]. This can increase the measured distance up to 14 Afor a pair of MTSSL side chains, 
+° depending on their rotamer orientation. The longer distances of the short distance maxima in the GppNHp-distance distributions of S278R1 and E287R1 measured in solution are thus most likely the result of a closed conformation of G domains, where the MTSSL side chains protrude away from the symmetry axis of the G domain dimer. Overall, the GppNHp measurements lead us to conclude that in the presence of GppNHp two conformations are in thermal equilibrium. In the crystal structure of GppCp-bound MnmE the G domains are found in the open state, indicating that this equilibrium is shifted towards the open state under the crystallization conditions. 
+GDP-AlFx–Bound State 
+In the presence of the transition state mimic GDP-AlFx, S278R1 and E287R1 show a single population maximum, with defined distances of 28 Aand 36 A, respectively, in line with a closed 
+°° conformation (Figure 4). The observed distances are close to the observed Cb-Cb distances in the crystal structure of the GDP-AlFx– bound G domain dimer structure (S278, 18 A° ; E287 28 A° ), with deviations due to spin label conformations as discussed above. Compared to the distances characterizing the closed conformation in the presence of GppNHp, the distance distributions for the transition state mimic are sharper and the maxima are slightly shifted. For E287R1 it decreases by about 1–2 A° and for position S278R1 the broad distribution between 20 and 30 A° converts to a more defined but asymmetric distribution with a major distance of 28 A° , which is well reproduced also by the Monte Carlo approach (Figure 4B). For position D366R1 two major fractions with inter spin distances of 58 and 48 Aare visible, presumably due to two 
+° different rotamer populations of the spin label side chain. The maximum at 48 A° corresponds nicely to the Cb-Cb distance in the GDP-AlFx–bound G domain structure, whereas the 58Adistance 
+° likely represents an MTSSL-rotamer population pointing away from each other. As is obvious from the distance distributions for the GppNHp and the GDP-AlFx state, the closed state in the presence of GDP-AlFx slightly differs from that in the presence of GppNHp suggesting that on the reaction pathway from the triphosphate state to the GTPase competent conformation further rearrangements in the active site of the G domains take place. Overall the distance maxima are shifted to shorter distances in the GDP-AlFx state as compared to the apo-, GDP-and GppNHp distances. This shows that the G domains adapt a closed conformation as observed in the GDP-AlFx-complexed G domain structure. 
+Position Ile105 in the N-Terminal Domain 
+To explore whether G domain dimerisation leads to domain rearrangements in the N-terminal dimerization domain, a spin label was introduced at position Ile105 (Figure 3A). A comparison 
+
+
+
+
+
+Figure 4. DEER characterization of nucleotide-dependent domain movements of MTSSL labeled MnmE (E287R1, D366R1, S278R1, and I105R1). (A) Left panel, background corrected dipolar evolution data for the apo, GDP, GppNHp, and GDP-AlFx state of the respective MnmE mutants as indicated. Centre panel: dipolar spectra (Fourier transformation of the dipolar evolution data in the left panel). Right column: distance distributions obtained by Tikhonov regularization. All plots are normalized by amplitude. Broken lines in the left and center panel are fits to the data obtained by Tikhonov regularization. For S278R1 in apo, GDP, and GDP-AlFx state, alternative fits and resulting distance distributions obtained with smaller regularization parameters a, are shown in corresponding pale colours. (B) Data for S278R1 in the GDP-, GppNHp-, and GDP-AlFx state analyzed assuming a sum of Gaussian distributed conformers. Left panel: background corrected dipolar evolution data. Centre panel: goodness-of-fit (x 2) surfaces, created by random sampling of distance and width for each Gaussian population in the distance distributions shown in the right panel. Plots in the left and right column are normalized by amplitude. Broken lines in the left panel are fits to the data. doi:10.1371/journal.pbio.1000212.g004 
+of the distance distributions obtained for the GDP state (open conformation) and GDP-AlFx state (closed conformation) does not show any significant differences concerning the major population in the distance distribution with an average distance of 29 Afor
+° both nucleotide states (Figure 4A; Table 2), indicating, that closing of the G domains does not significantly disturb the overall integrity of the N-terminal domains. The deviation to the corresponding Cb-Cb distances in the various dimer models (36 A° ,37 A° ) are likely due to spin label rotamer conformations. 
+Cation Dependence of G Domain Dimerization 
++
+Previous studies have shown Kions to activate the MnmE GTPase. This follows from the finding that dimerization of the MnmE G domains and GDP-AlFx complex formation strictly require K+, which is bound in the dimer interface (Figure 3B), such that its position overlaps with that of an Arg finger required for the GAP-mediated GTP hydrolysis on Ras-like G proteins [20,22]. Moreover, GTPase activity and AlFx-induced dimerization are at least partially stimulated by cations with an ionic radius comparable 
+++ +
+to K(1.38 A° ) such as Rb(1.52 A° ) and, to a lesser extent, NH4 
+(1.44 A° ), whereas Na+ (0.99 A° ) and Cs+ (1.67 A° ) do not show this effect [22]. Consistent with this, Rb+ and NH4 + were also found to be coordinated to the K+ binding site in two MnmE G domain dimer structures GDP complexed with AlFx (pdb 2GJ9 and 2GJA) [22]. To analyze the cation dependency of G domain dimerization in full-length protein in solution, we determined distance distributions for the sites S278R1 and E287R1 in the apo, GDP, GDP-AlFx, and GppNHp bound state in the presence of various cations, i.e., Na+,K+,Rb+,Cs+, and for S278R1 additionally in the presence of NH4 + for the GDP and GDP-AlFx state (Figure 5). 
+The distance distributions and dipolar time traces show that in the presence of GDP-AlFx only K+ is capable for shifting the equilibrium completely towards the closed G domain dimer. The ability of the respective cations to stabilize G domain dimerization 
++++ +
+follows the order K.Rb.NH4.Cs+<Na, clearly correlated with their ionic radii and their ability to stimulate GTP hydrolysis [22]. In the presence of GppNHp, we observe the same order of cations with regard to their capability for shifting the equilibrium towards the closed state. Notably, Cs+, which is completely unable to stabilize G domain dimerization, seems to have an influence on switch II conformational dynamics and on the overall orientation of the G domains, as seen from the significantly broadened and shifted distance distributions compared to those for the other cations. 
+Discussion 
+Understanding how GADs use the GTPase cycle as the driving force to perform a variety of functions like insertion of signal sequences into the ER translocon by the SRP/SR system [44], tRNA modification by MnmE [19,22], kinase activation by the Parkinson kinase LRRK2 [45], or metal ion delivery to hydrogenases [46] is a crucial step for elucidating the diverse mechanism by which these proteins operate. Although within this class of proteins MnmE is one of the structurally and biochem­ically best characterized and a model for the GTPase cycle dependent G domain dimerization has been proposed [22], neither the structural model of the full-length MnmE dimer nor dimerization of the G domains in the full-length dimeric protein have been proven directly. 
+Here we have applied a combined approach of X-ray crystallog­raphy and pulse electron paramagnetic resonance (EPR) spectrosco­py to study the behavior of the G domains in full-length MnmE in different steps of the GTPase cycle. We were able to solve the first X-ray structures of full-length MnmE in complex with nucleotides. The structures confirm the previously postulated homodimer model [19] according to which MnmE constitutively dimerizes via its N-terminal domain whereas the G domains, separated by a large distance of approximately 48 A° (measured from Ca of the first glycine of the P-loop), face each other with their nucleotide binding sites. The distance distributions obtained by DEER of MnmE in the apo, GDP, and GppNHp state reveal that the G domains are far apart also in solution excluding that the open conformations in the crystal structures are crystallographic artefacts. Comparison of the different full-length structures reveals that the G domains are present in drastically different orientations suggesting them to be highly mobile elements capable of moving independently with regard to the other domains. As judged from the X-ray structure, they need to overcome a 20–30-A° distance gap on formation of the GDP-AlFx complex [22]. In contrast to the X-ray data, the DEER distance distributions suggest the presence of one defined orientation for the open state in solution, arguing that the different G domain orientations in the X-ray structures result from crystal packing forces. That reasonable diffraction data can only be obtained when the G domains are stabilized by packing interaction is a further indication for their high mobility. Moreover, for CtMnmE we find different orientations between the GDP-and GppCp-bound structures and even between different molecules in one asymmetric unit of CtMnmE?GppCp. 
+Although the crystals for all structures presented here were grown in the presence of K+ and triphosphate or a transition state mimic to induce G domain dimerization, the structures show the G domains in an open state, suggesting that the closed state is not stable under crystallization conditions. We can demonstrate indeed using a fluorometric assay with mant-GDP, that close juxtaposition of G domains with AlFx is inhibited in the presence of crystallization precipitants. 
+The interspin distances between the spin labeled G domains obtained by DEER directly prove for the first time that the G domains contact each other in the presence of triphosphate or transition state analogs. A notable feature of the GppNHp-bound state is the coexistence of an open and closed state, pointing out that a triphosphate analog is not sufficient to fully stabilize the closed state. However, recently a stabilizing effect of GidA on the closed state of the G domains was shown, indicating that regulation of the MnmE G domain cycle is coupled to other components of the tRNA-modification system [6]. Unlike the results from X-ray structures, the EPR data, under low salt and in the absence of PEG, do not show a continuum of conformations but rather particular 
+
+
+
+Figure 5. Cation dependency of DEER distance distributions, for MnmE mutants S278R1 (left) and E287R1 (right). For each mutant, the left column shows the background corrected dipolar evolution data and the fit obtained by Tikhonov regularization (broken line) and the right column the corresponding distance distribution. The evolution data and the respective distance distributions are colored according to the cation present in the experiment (red, Na+;black,K+;blue, Rb+; green, Cs+;and pale green,NH4 + [only for S278R1, GDP, and GDP-AlFx]). The area under the distance distribution corresponds to the number of interacting spins, derived from the modulation amplitude of the background corrected dipolar evolution data. doi:10.1371/journal.pbio.1000212.g005 
+conformations in the open and closed state not observable in the X-ray experiment. We further show that only the presence of GDP, AlFx and K+ is capable of stabilizing the closed state, and that this effect is specific, since the effect is absent with Na+ and Cs+ and is smaller with similar size cations such as Rb+ and NH4 + . 
+In summary, we were able to directly demonstrate the conformational changes MnmE was suggested to undergo during its GTPase cycle [6,19,22,39,47]. Dimerization of the MnmE G domains is accompanied by large domain movements of up to 20 A
+° from the open to the closed state, which is an apparently unique feature of MnmE with regard to other GADs, suggestive for a functional or regulatory coupling of these domain movements to the tRNA-modification reaction. For the architecturally similar Roc-COR tandem (see above), the G domains in the nucleotide free state are already in close proximity [35], rendering similar extensive domain rearrangements unlikely. Yet such drastic rearrangements are not untypical for NTPases, as for example Hsp90, which constitutively dimerizes via its C-terminal domain, undergoes dramatic domain movements during its ATPase cycle involving juxtaposition of its N-domains in the triphosphate state [48,49]. MnmE forms a heterotetrameric complex with GidA [50], which is stabilized in the triphosphate state [6,39], and tRNA 
+modification was suggested to be exerted by this complex rather than by the individual proteins [5,50], which was recently proven by an in vitro modification assay [6]. Furthermore active GTP-turnover rather than simple GTP-binding was shown to be essential for the modification reaction [6,47] and in particular, nucleotide dependent G domain dimerization is tightly coupled to the tRNA-modification process both in vitro and in vivo [6]. According to a proposed reaction mechanism, the reaction itself does not require energy, but rather comprises several steps at presumably different, spatially separated active sites, requiring tight regulation [19,39]. We thus speculate that G domain dimerization during GTP hydrolysis is required for orchestration of the multistep tRNA-modification reaction [6]. The exact link between G domain dimerization, GTP hydrolysis, conformational changes, and tRNA modification is focus of current investigations. 
+Materials and Methods 
+Proteins 
+C. tepidum and Nostoc sp. 7120 MnmE (CtMnmE, NoMnmE) were cloned into pET14b (Novagene) and expressed as N-terminal His-tagged proteins in Escherichia coli BL21-DE3. Cells were lysed in 50 mM Tris (pH 7.5), 100 mM NaCl, 5 mM MgCl2 ( = buffer A) with 20 mM imidazole, 5 mM b-mercaptoethanol, 150 mM PMSF, and the proteins were purified by Ni-NTA, thrombin-cleavage of the His-Tag, and gel filtration on Superdex 200 in buffer A with 5 mM dithioerythritol (DTE). Cloning, expression, and purification of E. coli MnmE and mutants and preparation of nucleotide-free MnmE was carried out as described elsewhere [39]. 
+
+
+Crystallography 
+Crystals were obtained by hanging-drop vapour diffusion. For CtMnmE?GDP crystals, 1 mleachof50 mg/ml proteinin50 mM Tris (pH 7.5), 100 mM KCl, 5 mM MgCl2, 5 mM DTE (buffer B) plus 5 mM GDP, 5 mM AlCl3, 50 mM NaF, and precipitant (100 mM Tris-HCl [pH 8.5], 2.250 M NaCl, 15% [w/v] PEG 6000) were mixed. After 3 d the reservoir was changed to 100 mM Tris-HCl (pH 8.5), 2.250 M NaCl, 30% PEG 6000, and equilibrated for 2 more days. Crystals were soaked with precipitant supplemented with 12% glycerol and 5 mM 5-F-THF for 30 min and flash-frozen in liquid nitrogen. For NoMnmE?GDP, 1 mlof 20 mg/ml proteinin buffer B with 5 mM GDP, 5 mM AlCl3,50 mM NaF, and precipitant (100 mM Tris [pH 7.5], 22% [w/v] PEG 550 MME, 10 mM ZnSO4) were mixed and grown at 20uC. After 2 d crystals were cryo-dipped into reservoir solution with 28% (w/v) PEG 550 MME and flash-frozen into liquid nitrogen. For CtMnmE?GppCp, 
+40 mg/mlnucleotidefreeprotein in buffer Bwith5 mM GppCpwas mixed (1:1) with 100 mM MES, 46 mM NaOH, 12% PEG 4000, 40 mM NaCl, and crystals were grown at 20uC. After 2–3 d, crystals were flash-frozen in reservoir containing 20% glycerol. All datasets were collected at 100 K on beamline PX2 (SLS, Villingen) at wavelengths of 0.98003, 0.9796, and 1.28186 A(Zn2+-edge) for
+° CtMnmE?GDP, CtMnmE?GppCp, and NoMnmE?GDP, respective­ly. All datasets were processed, indexed, and scaled with XDS [51]. Initial phases were obtained by molecular replacement with the N-terminal and the helical domain of T. maritima MnmE (pdb 1XZP) with MOLREP [52]. Coot [53] and REFMAC [54,55] were used for model building and translation, libration, screw rotation (TLS)-refinement including NCS restraints and NCS-averaged maps in the case of CtMnmE?GppCp. Crystallographic simulated annealing of models was carried out with CNS [56]. Structural representations were prepared with pymol (www.pymol. org). For NoMnmE?GDP, Zn2+ atom positions were located by their anomalous signal. For CtMnmE?GppCp, a positive peak in the FO-FC-map close to the b-and c-phosphate in the nucleotide binding site of G domain A was assigned to Mg2+, on the basis of its position at the usual Mg2+-site in G protein structures. Structures were analyzed by PROCHECK [57] revealing for all three structures 100% of torsion angles within the allowed Ramachandran regions. Data collection and refinement statistics are listed in Table 3. Structures were aligned with coot [53] and 
+Table 3. Data collection and refinement statistics. 
+
+Name CtMnmE?GDPa CtMnmE?GppCpa NoMnmE?GDPa Pdb-code 
+
+Data collection 
+
+
+Space group  I4(1)22  C222(1)  P4(3)2(1)2  
+Cell dimensions  
+A, b, c (A° )  130.804, 130.804, 200.611  139.882, 224.572, 156.788  124.279, 124.279, 174.701  
+
+
+Resolution (A° ) 20.0022.95 (3.0022.95) 20.0023.40 (3.4223.40) 20.0023.20 (3.3023.20) 
+
+
+I/s 24.49 (2.39) 12.13 (2.02) 8.61 (2.18) 
+
+Redundancy  7.16 (7.28)  7.45 (7.61)  7.78 (8.03)  
+Refinement  
+Resolution (A° )  19.9022.95 (3.0322.95)  19.9423.40 (3.4923.40)  20.0023.20 (3.2823.20)  
+n Reflections  
+ 
+Rwork/Rfree  0.23/0.27  0.24/0.27  0.24/0.27  
+n Atoms  
+ 
+Protein  3,259  8,715  3,364  
+
+
+
+
+B-factors (A° 2)  106.21  123.56  52.69  
+Protein  
+ 
+Ligand/Ion  115.84  164.78  97.10  
+Root mean square deviations  
+Bond lengths (A° )  0.006  0.008  0.007  
+
+
+
+Values in parentheses are for the highest-resolution shell. aData from one crystal. doi:10.1371/journal.pbio.1000212.t003 
+
+
+Superpose of the CCP4-package [54]. Crystal contact areas were calculated using the PROTORP server [58]. 
+Fluorometric Detection of AlFx-Complex Formation 
+10 mM of nucleotide-free E. coli MnmE loaded with 0.5 mMof mGDP were incubated in 50 mM TriS-HCl (pH 7.5), 100 mM KCl (or NaCl), 5 mM MgCl2, 10 mM NaF with or without the precipitants 15% PEG 6000, 2,250 mM NaCl, or both or 22% PEG 550 MME at 20uC. The fluorescence of mGDP bound to MnmE, excited at 366 nm and detected at 450 nm, was monitored over time in a Fluoromax 2 spectralfluorimeter (Spex Industries). To initiate AlFx-complex formation, 1 mM AlCl3 was added and the fluorescence was continuously monitored. For analysis, fluorescence amplitudes were normalized to the ampli­tude before addition of AlCl3. 
+Spin Labeling 
+Purified, nucleotide-free Cys-mutants of E. coli MnmE-C451S (Table 2) were pretreated with DTE (4uC). After removal of DTE protein solutions were incubated with 1–5 mM MTSSL (Toronto Research, Alexis) for 16 h (4uC). Excess MTSSL was removed by gel filtration. Labeling efficiencies have been determined to be .80% in all cases. 
+Steady State GTPase Measurements 
+GTPase reactions were started by adding 0.5 mM of wild type or mutant MTSSL-labeled or nonlabelled MnmE protein to 186 mM of GTP in 50 mM Tris-HCl (pH 7.5), 100 mM KCl, 5 mM MgCl2, and performed at 20uC. At time points 0, 1, 2, 3, 5, 7, and 10 min aliquots were taken and analyzed for their nucleotide content by HPLC as described elsewhere [22]. For comparison, vapp was determined as the absolute value of the slope of a linear fit of GTP consumption over time, normalized to the total amount of enzyme for a range in which 10% of initial GTP was consumed. 
+Pulse EPR Measurements 
+Pulse EPR experiments (DEER) were accomplished at X-band frequencies (9.3–9.4 GHz) with a Bruker Elexsys 580 spectrometer equipped with a Bruker Flexline split-ring resonator ER 4118X­MS3 and a continuous flow helium cryostat (ESR900, Oxford Instruments) controlled by an Oxford Intelligent temperature controller ITC 503S. Buffer conditions for the EPR experiments were 200–500 mM protein in 100 mM KCl (or NaCl, RbCl, CsCl, NH4Cl), 50 mM Tris-HCl, 5 mM MgCl2 (pH 7.4) with 5% (v/v) ethylene glycol (for H2O buffer) or 12.5% (v/v) glycerol-d8 (for D2O buffer), and 1 mM GDP, 1 mM GppNHp or 1 mM GDP, 1 mM AlCl3, 10 mM NaF, respectively. 
+All measurements were performed using the four-pulse DEER 
+0
+sequence: p=2(uobs){t1{p(uobs){t0{p(upump){ðt1zt2{tÞ {p(uobs){t2{echo [59]. A two-step phase cycling (+ Æxæ, 2 Æxæ) was performed on p=2(uobs). Time t9 is varied, whereas t1 and t2 are kept constant, and the dipolar evolution time is given by t~t0{t1. Data were analyzed only for t.0. The resonator was overcoupled to Q,100; the pump frequency upump was set to the center of the resonator dip and coincided with the maximum of the nitroxide EPR spectrum, whereas the observer frequency uobs was 65 MHz higher, coinciding with the low field local maximum of the spectrum. All measurements were performed at a temperature of 50 K with observer pulse lengths of 16 ns for p/ 2 and 32 ns for p pulses and a pump pulse length of 12 ns. Proton modulation was averaged by adding traces at eight different t1 values, starting at t1,0 ~200 ns and incrementing by Dt1 ~8ns. For proteins in D2O buffer with deuterated glycerol used for their effect on the phase relaxation, corresponding values were t1,0 ~400 ns and Dt1 ~56 ns. Data points were collected in 8-ns time steps or, if the absence of fractions in the distance distribution below an appropriate threshold was checked experimentally, in 16-or 32-ns time steps. The total measurement time for each sample was 4–24 h. Analysis of the data was performed with DeerAnalysis2006.1/2008 [60]. Additionally, the data was fitted assuming a sum of Gaussian distributed conformers utilizing the program DEFit 3.9 [41], which employs a Monte Carlo/ SIMPLEX algorithm to find a distance distribution to which the corresponding dipolar evolution function represents the best fit to the experimental data. 
+Accession Codes 
+Protein Data Bank (PDB) (http://www.rcsb.org/pdb): Coordi­nates und structure factors have been deposited with accession codes 3GEE (CtMnmE?GDP), 3GEI (CtMnmE?GppCp), and 3GEH (NoMnmE?GDP). 
+Supporting Information 
+Figure S1 Ligand binding in MnmE X-ray structures. 
+Protein backbones are displayed as ribbons with the N-terminal domain, helical domain, and G domain colored in blue, green, and white, respectively. Ligands are shown as stick models, metal ions as blue spheres, and electron density maps as meshes. (A) Stereo image of the N-terminal domains of NoMnmE?GDP with the two bound 5-F-THF molecules and the 2FO-FC-map contoured at 2s around the 5-F-THFs. (B) N-terminal domains of CtMnmE?GDP with the two bound 5-F-THF molecules and the 2FO-FC-map contoured at 2s around the 5-F-THFs. (C–E) The bound nucleotide in the G domain of the structures CtMnmE?GDP (C), NoMnmE?GDP (D), and CtMnmE?GppCp 
+(E) 
+with the P-loop, the G-4-, and the G-5-mofiv [42] highlighted in red and with the nucleotide-FO-FC-omit-maps as green meshes, contoured at 3s (C, E) and 4s (D). (C) GDP-bound to CtMnmE. 
+
+(D) 
+GDP bound to NoMnmE with the Zn2+-ion and its anomalous map contoured at 3s (purple mesh). (E) GppCp bound to CtMnmE. Additionally the FO-FC-map at the b-and c-phosphate calculated after fitting in GppCp, contoured at 2.5s (purple mesh) is shown. On the basis of structural knowledge of the nucleotide binding site of G proteins, this peak in the FO-FC-map was assigned to Mg2+ . Found at: doi:10.1371/journal.pbio.1000212.s001 (6.11 MB TIF) 
+
+
+Figure S2 Fluorometric assessment of G domain dimer­ization upon AlFx-complex formation in the presence of precipitants used for crystallization. Normalized fluores­cence amplitudes as a functions of time of the fluorescence labeled GDP analogon mGDP bound to MnmE in the presence of K+ as positive control (red curve) or Na+ as negative control (black curve) and NaF plus the respective precipitants together with K+ ,as indicated. At the beginning of the gap in the time traces, AlCl3 was added to initiate AlFx-complex formation and G domain dimerization, which only occurs in the presence of K+ and leads to an increase in fluorescence and which is impaired in the presence of various precipitants and K+ or when K+ is replaced by 
++
+Na. 
+Found at: doi:10.1371/journal.pbio.1000212.s002 (1.29 MB TIF) 
+
+Figure S3 Different orientations of the G domains. 
+Superimposition of the five available MnmE homodimer struc­tures CtMnmE?GDP, NoMnmE?GDP, CtMnmE?GppCp dimer A and dimer B, T. maritima MnmE dimer model generated with pdb 1XZP (TmMnmE) in ribbon representation with the N-
+
+
+terminal and helical domains in grey and the G domains (G A, G 
+B) colored according to legend. 
+Found at: doi:10.1371/journal.pbio.1000212.s003 (5.16 MB TIF) 
+
+Figure S4 Stabilization of the G domains by crystal 
+contacts. (A) Section of the crystal lattice of NoMnmE?GDP with 
+close-up inset of the Zn2+-ion involved in crystal packing. In the 
+crystal packing interface of the G domain to the symmetry related 
+molecule, a Zn2+-ion (shown as grey sphere with its anomalous 
+density contoured at 3 s displayed as green mesh), is complexed 
+by side chain residues (shown as sticks) of the G domain and the 
+helical domain of the symmetry related molecule. MnmE 
+molecules are displayed as ribbon models in different colors. (B) 
+Section of the crystal lattice of CtMnmE?GDP with MnmE 
+molecules displayed as ribbon models in different colors. Two 
+MnmE dimers are packed upside-down on each other with a 
+toothing arrangement of the G domains. 
+Found at: doi:10.1371/journal.pbio.1000212.s004 (4.25 MB TIF) 
+
+Table S1 Rates vapp of K+-stimulated GTP-hydrolysis for wild-type MnmE, nonlabelled and MTSSL-labelled (denoted with R1) mutant MnmE proteins. 
+Found at: doi:10.1371/journal.pbio.1000212.s005 (0.03 MB DOC) 
+Video S1 The mobile MnmE G domains. The video shows sequentially the superimposed five available MnmE homodimer structures CtMnmE?GDP, NoMnmE?GDP, CtMnmE?GppCp dimers of molecules A and B, T. maritima MnmE dimer model generated with pdb 1XZP (TmMnmE) in ribbon representation 
+References 
+1. 	
+Iwata-Reuyl D (2008) An embarrassment of riches: the enzymology of RNA modification. Curr Opin Chem Biol 12: 126–133. 
+
+2. 	
+Sprinzl M, Vassilenko KS (2005) Compilation of tRNA sequences and sequences of tRNA genes. Nucleic Acids Res 33: D139–D140. 
+
+3. 	
+Agris PF, Vendeix FA, Graham WD (2007) tRNA’s wobble decoding of the genome: 40 years of modification. J Mol Biol 366: 1–13. 
+
+4. 	
+Elseviers D, Petrullo LA, Gallagher PJ (1984) Novel E. coli mutants deficient in biosynthesis of 5-methylaminomethyl-2-thiouridine. Nucleic Acids Res 12: 3521–3534. 
+
+5. 	
+Bregeon D, Colot V, Radman M, Taddei F (2001) Translational misreading: a tRNA modification counteracts a +2 ribosomal frameshift. Genes Dev 15: 2295–2306. 
+
+6. 	
+Meyer S, Wittinghofer A, Versees W (2009) G-domain dimerization orchestrates the tRNA wobble modification reaction in the MnmE/GidA complex. J Mol Biol 392: 910–922. 
+
+7. 	
+Yarian C, Townsend H, Czestkowski W, Sochacka E, Malkiewicz AJ, et al. (2002) Accurate translation of the genetic code depends on tRNA modified nucleosides. J Biol Chem 277: 16391–16395. 
+
+8. 	
+Sakamoto K, Kawai G, Watanabe S, Niimi T, Hayashi N, et al. (1996) NMR studies of the effects of the 59-phosphate group on conformational properties of 5-methylaminomethyluridine found in the first position of the anticodon of Escherichia coli tRNA(Arg)4. Biochemistry 35: 6533–6538. 
+
+9. 	
+Agris PF, Sierzputowskagracz H, Smith W, Malkiewicz A, Sochacka E, et al. (1992) Thiolation of uridine carbon-2 restricts the motional dynamics of the transfer-rna wobble position nucleoside. J Am Chem Soc 114: 2652–2656. 
+
+10. 	
+Yokoyama S, Nishimura S (1995) Modified nucleosides and codon recognition. So¨ll D, RajBhandary UL, eds. tRNA: structure, biosynthesis and function. Washington (D.C.): American Society for Microbiology. pp 207–223. 
+
+11. 	
+Gustilo EM, Vendeix FA, Agris PF (2008) tRNA’s modifications bring order to gene expression. Curr Opin Microbiol 11: 134–140. 
+
+12. 	
+Decoster E, Vassal A, Faye G (1993) Mss1, a nuclear-encoded mitochondrial gtpase involved in the expression of cox1 subunit of cytochrome-c-oxidase. J Mol Biol 232: 79–88. 
+
+13. 	
+Colby G, Wu M, Tzagoloff A (1998) MTO1 codes for a mitochondrial protein required for respiration in paromomycin-resistant mutants of Saccharomyces cerevisiae. J Biol Chem 273: 27945–27952. 
+
+14. 	
+Li X, Guan MX (2002) A human mitochondrial GTP binding protein related to tRNA modification may modulate phenotypic expression of the deafness-associated mitochondrial 12S rRNA mutation. Mol Cell Biol 22: 7701–7711. 
+
+15. 	
+Li X, Li R, Lin X, Guan MX (2002) Isolation and characterization of the putative nuclear modifier gene MTO1 involved in the pathogenesis of deafness-associated mitochondrial 12 S rRNA A1555G mutation. J Biol Chem 277: 27256–27264. 
+
+
+with the N-terminal domains in blue, the helical domains in green and the G domains in red. The sequence in the video is: CtMnmE?GDP, CtMnmE?GppCp dimer A, CtMnmE?GppCp dimer B, TmMnmE, NoMnmE?GDP, TmMnmE, CtMnmE?GppCp dimer B, CtMnmE?GppCp dimer A. The video player may be set to playmode ‘‘infinite loop.’’ Found at: doi:10.1371/journal.pbio.1000212.s006 (1.93 MB MOV) 
+Acknowledgments 
+SM thanks I. Vetter and A. Scrima for valuable advice on the structural refinement, W. Verse´es for meaningful discussions, and the X-ray community of the Max-Planck-Institute of Molecular Physiology for data collection. We gratefully acknowledge P. Stege and C. Koerner for excellent technical assistance. 
+Author Contributions 
+The author(s) have made the following declarations about their contributions: Conceived and designed the experiments: JPK AW. Performed the experiments: SM SB AK JPK. Analyzed the data: SM SB JPK AW. Contributed reagents/materials/analysis tools: HJS. Wrote the paper: SM SB HJS JPK AW. Performed the protein preparations and biochemical experiments, performed the crystallization experiments, X-ray data analysis, and solving of the X-ray structures: SM. Performed and analyzed the EPR experiments: SB JPK. Designed the mutants: SM AK JPK. Provided the EPR equipment: H-JS. Performed the protein preparations and biochemical experiments: AK. 
+16. 	
+Suzuki T, Suzuki T, Wada T, Saigo K, Watanabe K (2002) Taurine as a constituent of mitochondrial tRNAs: new insights into the functions of taurine and human mitochondrial diseases. EMBO J 21: 6581–6589. 
+
+17. 	
+Villarroya M, Prado S, Esteve JM, Soriano MA, Aguado C, et al. (2008) Characterization of human GTPBP3, a GTP-binding protein involved in mitochondrial tRNA modification. Mol Cell Biol 28: 7514–7531. 
+
+18. 	
+Bykhovskaya Y, Mengesha E, Wang D, Yang H, Estivill X, et al. (2004) Phenotype of non-syndromic deafness associated with the mitochondrial A1555G mutation is modulated by mitochondrial RNA modifying enzymes MTO1 and GTPBP3. Mol Genet Metab 83: 199–206. 
+
+19. 	
+Scrima A, Vetter IR, Armengod ME, Wittinghofer A (2005) The structure of the TrmE GTP-binding protein and its implications for tRNA modification. EMBO J 24: 23–33. 
+
+20. 	
+Vetter IR, Wittinghofer A (2001) The guanine nucleotide-binding switch in three dimensions. Science 294: 1299–1304. 
+
+21. 	
+Bos JL, Rehmann H, Wittinghofer A (2007) GEFs and GAPs: critical elements in the control of small G proteins. Cell 129: 865–877. 
+
+22. 	
+Scrima A, Wittinghofer A (2006) Dimerisation-dependent GTPase reaction of MnmE: how potassium acts as GTPase-activating element. EMBO J 25: 2940–2951. 
+
+23. 	
+Cabedo H, Macian F, Villarroya M, Escudero JC, Martinez-Vicente M, et al. (1999) The Escherichia coli trmE (mnmE) gene, involved in tRNA modification, codes for an evolutionarily conserved GTPase with unusual biochemical properties. EMBO J 18: 7063–7076. 
+
+24. 	
+Yamanaka K, Hwang J, Inouye M (2000) Characterization of GTPase activity of TrmE, a member of a novel GTPase superfamily, from Thermotoga maritima. J Bacteriol 182: 7078–7082. 
+
+25. 	
+Wittinghofer A (1997) Signaling mechanistics: aluminum fluoride for molecule of the year. Curr Biol 7: R682–R685. 
+
+26. 	
+Gasper R, Meyer S, Gotthardt K, Sirajuddin M, Wittinghofer A (2009) It takes two to tango: regulation of G proteins by dimerization. Nat Rev Mol Cell Biol 
+
+10: 423–429. 
+
+27. 	
+Focia PJ, Shepotinovskaya IV, Seidler JA, Freymann DM (2004) Heterodimeric GTPase core of the SRP targeting complex. Science 303: 373–377. 
+
+28. 	
+Egea PF, Shan SO, Napetschnig J, Savage DF, Walter P, et al. (2004) Substrate twinning activates the signal recognition particle and its receptor. Nature 427: 215–221. 
+
+29. 	
+Gasper R, Scrima A, Wittinghofer A (2006) Structural insights into HypB, a GTP-binding protein that regulates metal binding. J Biol Chem 281: 27492–27502. 
+
+30. 	
+Praefcke GJ, McMahon HT (2004) The dynamin superfamily: universal membrane tubulation and fission molecules? Nat Rev Mol Cell Biol 5: 133–147. 
+
+31. 	
+Ghosh A, Praefcke GJ, Renault L, Wittinghofer A, Herrmann C (2006) How guanylate-binding proteins achieve assembly-stimulated processive cleavage of GTP to GMP. Nature 440: 101–104. 
+
+
+
+
+32. 	
+Koenig P, Oreb M, Hofle A, Kaltofen S, Rippe K, et al. (2008) The GTPase cycle of the chloroplast import receptors Toc33/Toc34: implications from monomeric and dimeric structures. Structure 16: 585–596. 
+
+33. 	
+Koenig P, Oreb M, Rippe K, Muhle-Goll C, Sinning I, et al. (2008) On the significance of Toc-GTPase homodimers. J Biol Chem 283: 23104–23112. 
+
+34. 	
+Sirajuddin M, Farkasovsky M, Hauer F, Kuhlmann D, Macara IG, et al. (2007) Structural insight into filament formation by mammalian septins. Nature 449: 311–315. 
+
+35. 	
+Gotthardt K, Weyand M, Kortholt A, Van Haastert PJ, Wittinghofer A (2008) Structure of the Roc-COR domain tandem of C. tepidum, a prokaryotic homologue of the human LRRK2 Parkinson kinase. EMBO J 27: 2239–2249. 
+
+36. 	
+Steinhoff HJ (2004) Inter-and intra-molecular distances determined by EPR spectroscopy and site-directed spin labeling reveal protein-protein and protein-oligonucleotide interaction. Biol Chem 385: 913–920. 
+
+37. 	
+Jeschke G, Polyhach Y (2007) Distance measurements on spin-labelled biomacromolecules by pulsed electron paramagnetic resonance. Phys Chem Chem Phys 9: 1895–1910. 
+
+38. 	
+Schiemann O, Prisner TF (2007) Long-range distance determinations in biomacromolecules by EPR spectroscopy. Q Rev Biophys 40: 1–53. 
+
+39. 	
+Meyer S, Scrima A, Versees W, Wittinghofer A (2008) Crystal structures of the conserved tRNA-modifying enzyme GidA: implications for its interaction with MnmE and substrate. J Mol Biol 380: 532–547. 
+
+40. 	
+Prehna G, Stebbins CE (2007) A Rac1-GDP trimer complex binds zinc with tetrahedral and octahedral coordination, displacing magnesium. Acta Crystallogr D Biol Crystallogr 63: 628–635. 
+
+41. 	
+Sen KI, Logan TM, Fajer PG (2007) Protein dynamics and monomer-monomer interactions in AntR activation by electron paramagnetic resonance and double electron-electron resonance. Biochemistry 46: 11639–11649. 
+
+42. 	
+Sprang SR (1997) G protein mechanisms: insights from structural analysis. Annu Rev Biochem 66: 639–678. 
+
+43. 	
+Rabenstein MD, Shin YK (1995) Determination of the distance between two spin labels attached to a macromolecule. Proc Natl Acad Sci U S A 92: 8239–8243. 
+
+44. 	
+Egea PF, Stroud RM, Walter P (2005) Targeting proteins to membranes: structure of the signal recognition particle. Curr Opin Struct Biol 15: 213–220. 
+
+45. 	
+Lewis PA (2009) The function of ROCO proteins in health and disease. Biol Cell 
+
+
+101: 183–191. 
+46. 	Maier T, Lottspeich F, Bock A (1995) GTP hydrolysis by HypB is essential for nickel insertion into hydrogenases of Escherichia coli. Eur J Biochem 230: 133–138. 
+47. 	
+Yim L, Martinez-Vicente M, Villarroya M, Aguado C, Knecht E, et al. (2003) The GTPase activity and C-terminal cysteine of the Escherichia coli MnmE protein are essential for its tRNA modifying function. J Biol Chem 278: 28378–28387. 
+
+48. 	
+Pearl LH, Prodromou C (2006) Structure and mechanism of the Hsp90 molecular chaperone machinery. Annu Rev Biochem 75: 271–294. 
+
+49. 	
+Wandinger SK, Richter K, Buchner J (2008) The Hsp90 chaperone machinery. J Biol Chem 283: 18473–18477. 
+
+50. 	
+Yim L, Moukadiri I, Bjork GR, Armengod ME (2006) Further insights into the tRNA modification process controlled by proteins MnmE and GidA of Escherichia coli. Nucleic Acids Res 34: 5892–5905. 
+
+51. 	
+Kabsch W (1993) Automatic processing of rotation diffraction data from crystals of initially unknown symmetry and cell constants. J Appl Crystallogr 26: 795–800. 
+
+52. 	
+Vagin A, Teplyakov A (1997) MOLREP: An automated program for molecular replacement. J Appl Crystallogr 30: 1022–1025. 
+
+53. 	
+Emsley P, Cowtan K (2004) Coot: model-building tools for molecular graphics. Acta Crystallogr D Biol Crystallogr 60: 2126–2132. 
+
+54. 	
+Bailey S (1994) The Ccp4 Suite -programs for protein crystallography. Acta Crystallogr D Biol Crystallogr 50: 760–763. 
+
+55. 	
+Murshudov GN, Vagin AA, Dodson EJ (1997) Refinement of macromolecular structures by the maximum-likelihood method. Acta Crystallogr D Biol Crystal­logr 53: 240–255. 
+
+56. 	
+Brunger AT, Adams PD, Clore GM, DeLano WL, Gros P, et al. (1998) Crystallography & NMR system: a new software suite for macromolecular structure determination. Acta Crystallogr D Biol Crystallogr 54: 905–921. 
+
+57. 	
+Laskowski RA, Macarthur MW, Moss DS, Thornton JM (1993) Procheck -a program to check the stereochemical quality of protein structures. J Appl Crystallogr 26: 283–291. 
+
+58. 	
+Reynolds C, Damerell D, Jones S (2009) ProtorP: a protein-protein interaction analysis server. Bioinformatics 25: 413–414. 
+
+59. 	
+Pannier M, Veit S, Godt A, Jeschke G, Spiess HW (2000) Dead-time free measurement of dipole-dipole interactions between electron spins. J Magn Reson 142: 331–340. 
+
+60. 	
+Jeschke G, Chechik V, Ionita P, Godt A, Zimmermann H, et al. (2006) DeerAnalysis2006 -a comprehensive software package for analyzing pulsed ELDOR data. Appl Magn Reson 30: 473–498. 
+
+
+
+
+

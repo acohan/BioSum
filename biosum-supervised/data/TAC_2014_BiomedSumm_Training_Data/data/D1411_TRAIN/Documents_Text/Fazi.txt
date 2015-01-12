@@ -1,0 +1,443 @@
+Article
+A Minicircuitry Comprised of MicroRNA-223 and Transcription Factors NFI-A and C/EBPα Regulates Human Granulopoiesis
+Francesco Fazi1, 3, Alessandro Rosa2, 3, Alessandro Fatica2, Vania Gelmetti1, Maria Laura De Marchis2, Clara Nervi1, Corresponding author contact information, E-mail the corresponding author, Irene Bozzoni2, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2005.09.023
+Under an Elsevier user license
+  Open Archive
+Summary
+MicroRNAs play important roles in cell differentiation by acting as translational inhibitors of specific target genes. Here we show that human granulocytic differentiation is controlled by a regulatory circuitry involving miR-223 and two transcriptional factors, NFI-A and C/EBPα. The two factors compete for binding to the miR-223 promoter: NFI-A maintains miR-223 at low levels, whereas its replacement by C/EBPα, following retinoic acid (RA)-induced differentiation, upregulates miR-223 expression. The competition by C/EBPα and the granulocytic differentiation are favored by a negative-feedback loop in which miR-223 represses NFI-A translation. In line with this, both RNAi against NFI-A and ectopic expression of miR-223 in acute promyelocytic leukemia (APL) cells enhance differentiation, whereas miR-223 knockdown inhibits the differentiation response to RA. Altogether, our data indicate that miR-223 plays a crucial role during granulopoiesis and point to the NFI-A repression as an important molecular pathway mediating gene reprogramming in this cell lineage.
+
+Introduction
+In the last few years, a new network of regulatory circuitries operating at the posttranscriptional level has been disclosed with the discovery of a complex class of noncoding RNAs of microscopic size (miRNAs). These molecules play a vital role in plants and animals, mainly by controlling translation and stability of specific target mRNAs (reviewed in Bartel, 2004). Their function has been correlated with many complex cellular circuitries (Ambros, 2004), and a role in oncogenesis has also been proposed (Meltzer, 2005). While some miRNAs show ubiquitous expression, others are limited to certain stages in development or to certain tissues and cell types (Pasquinelli et al., 2005). The study of tissue-specific miRNAs will therefore provide important clues for identifying new sets of genes and regulatory circuitries involved in the control of cell-specific differentiation.
+
+Hematopoiesis is a life-long, highly regulated multistage process wherein a pluripotent self-renewing hematopoietic stem cell (HSC) gives rise to all blood cell lineages. Therefore, blood cell formation is one of the most suitable systems to study the molecular mechanisms that control cell differentiation. A recent study has identified three miRNAs preferentially expressed in murine hematopoietic tissues: miR-181, miR-142, and miR-223 (Chen et al., 2004). miR-181 is strongly expressed in the thymus, miR-142 in all hematopoietic tissues, and miR-223 in the bone marrow. Interestingly, ectopic expression of miR-181 in mouse hematopoietic precursor cells was shown to lead to an increased fraction of B lineage cells (Chen et al., 2004).
+
+Acute myeloid leukemias (AMLs) represent the clonal expansion of hematopoietic precursors blocked at different stages of erythroid, granulocytic, monocytic, or megakaryocytic differentiation (Tenen, 2003). In the acute promyelocytic leukemia (APL), an AML subtype, the block of differentiation occurs at the level of promyelocytic precursors. APL is characterized by specific chromosomal translocations involving the retinoic-acid receptor α (RARα) and creating RARα fusion genes (Melnick and Licht, 1999 and Di Croce et al., 2002). At physiological levels of retinoids, the PML/RARα fusion protein causes the block of differentiation and neoplastic transformation of APL blasts by disrupting the function of PML and repressing transcription of genes regulated by RARα, through an aberrant recruitment of histone deacetylases and DNA-methyltransferase activities. Pharmacological doses of RA can instead overcome this block and induce terminal differentiation of PML/RARα-positive APL blasts in vitro and in vivo (Melnick and Licht, 1999 and Lo Coco et al., 2002). Among the target genes of PML/RARα are included the members of the family of the CCAAT enhancer proteins (C/EBPs), known to regulate cell growth and differentiation of many cell types, including myeloid cells (Wang et al., 1999, McKnight, 2001 and Khanna-Gupta et al., 2001). In particular, C/EBPα is activated in early myeloid precursors and directs them to granulocytic maturation (Radomska et al., 1998 and Tenen, 2003). Loss of C/EBPα functions has been linked to leukemogenesis, suggesting an important role for C/EBPα as a tumor suppressor (Pabst et al., 2001 and Gombart et al., 2002). PML/RARα was shown to block C/EBPα activity and inhibit expression of C/EBPɛ; interestingly, both of these effects are reverted by RA treatment (Lodie et al., 1999 and Park et al., 1999).
+
+In this study, we identify as a new C/EBPα target the miR-223 gene, which undergoes a specific activation during granulocytic differentiation. Remarkably, one of the putative targets of miR-223 identified by computational analysis (Lewis et al., 2005 and Krek et al., 2005) is the transcription factor NFI-A, a CCAAT-related binding protein controlling genes involved in cell growth control, which has been shown to bind sequences related to the ones of C/EBPα (Gronostajski, 2000).
+
+Here we show that both C/EBPα and NFI-A bind the region responsible for miR-223 upregulation upon RA treatment. Nevertheless, the binding of the two proteins on the miR-223 promoter is mutually exclusive of the upregulation following RA treatment, requiring release of NFI-A and binding of C/EBPα. Notably, our results indicate that NFI-A is negatively controlled by miR-223, thus explaining how sustained expression of the miRNA could be maintained during granulocytic differentiation. Our findings point to miR-223 and NFI-A as novel and crucial players in the molecular circuitry controlling human granulopoiesis.
+
+Results
+miR-223 Expression Is Associated with Myelopoiesis
+Probes for miR-223, miR-181a, and miR-142-5, the human counterparts of the murine miR-223, miR-181, and miR-142s species (www.sanger.ac.uk/Software/Rfam/mirna/index.shtml), have been utilized to study the hematopoietic lineage specificity of the corresponding RNAs. Figure 1A shows that, in analogy to the murine model, miR-142-5 was widely expressed in all hematopoietic cells and miR-181a was detectable in bone marrow (BM) CD34+ progenitor cells and in T lymphocytes (Chen et al., 2004). miR-223, however, was absent in B and T lymphocytes and present in BM cells, with the highest levels in the BM CD34− fraction, mostly representative of lineage-committed precursors and mature hematopoietic cells. It should be considered that about 4% of the BM nucleated cell population is constituted by CD34+ stem/progenitor cells and lineage-committed precursor cells (Barnett et al., 1999). The majority of the CD34− cells are represented by myeloid cells (60%–75% of total nucleated cells) at different stages of neutrophilic differentiation, with a ratio of 3:1 to erythroid cells. This evidence, together with the detection of miR-223 at high levels in mononucleated cells from peripheral blood (Figure 1A, lane MNC) consisting of 50%–70% of mature granulocytes, indicated an association of miR-223 expression with this differentiation lineage.
+
+Full-size image (58 K)
+Figure 1. 
+Northern Analysis of miRNA Expression in Different Primary and Clonal Hematopoietic Cells
+Total RNA was analyzed by Northern blot with the probes indicated on the side of each panel.
+(A) Three micrograms of RNA from CD34+, CD34−, and mononucleated cells from peripheral blood (lane MNC) analyzed in parallel to 5 μg of RNA from mature T (lane T) and committed B lymphoid (lane B) cells.
+(B) Three micrograms of RNA from the peripheral blood of a newly diagnosed APL patient (N1) treated for 24 and 72 hr with pharmacological doses of RA, analyzed in parallel to 3 μg of RNA from blasts of a second patient (N2) that were put in culture and treated with RA for the indicated times.
+(C) Five micrograms of RNA from untreated NB4 cells (lanes NB4) or from the same cells treated with RA for 72 hr (lane NB4 + RA) analyzed in parallel to 5 μg of RNA from HeLa cells.
+(D) Five micrograms of RNA from the indicated cell lines; NB4-MR4 and HL60-R are the RA-resistant derivatives of NB4 and HL60 respectively.
+(E) Five micrograms of RNA from NB4 and HL60 cells treated with vitamin D3 (lanes +) or analyzed in parallel to 5 μg RNA from untreated cells (lanes −). U2 and U6 are control hybridizations to the endogenous corresponding snRNAs.
+Figure options
+miR-223 Induction Is Associated with Granulocytic Differentiation of Myeloid Precursors Induced by RA
+Myeloid differentiation can be induced in APL cells by treatment with RA in vitro and in vivo. miR-223, miR-181a, and miR-142-5 were all detectable in untreated peripheral-blood cells from two newly diagnosed APL patients (Figure 1B, lanes 0). miR-223 was strongly induced by RA and reached a maximal expression at 72 hr of treatment either in vivo, in cells isolated at different times from a patient (lane group N1) receiving combined treatment of RA plus chemotherapy (Mandelli et al., 1997), or in cells isolated from a second patient and treated in vitro with RA (lane group N2). In addition, the three miRNA species were all detectable in the APL cell line NB4 (Lanotte et al., 1991). Also, in these cells, the addition of RA induced a marked and selective increase of miR-223 starting at 24 hr after treatment and increasing progressively up to 72 hr (Figures 1C and 1D). The ubiquitous miR-15a and miR-16, utilized as controls, did not show any variation upon RA addition. No expression of miR-223 was observed in the nonhematopoietic cervical carcinoma cell line, HeLa (Figure 1C), or in medulloblastoma or neuroblastoma cell lines treated with RA (data not shown). These findings indicated the specificity of miR-223 upregulation in RA-induced granulocytic differentiation of leukemic cells.
+
+In APL blasts, the effect of RA on granulocytic differentiation is mediated by the PML/RARα fusion product. We therefore measured miR-223 expression levels in two non-APL AML cell lines before and after treatment with RA. HL60 is an AML cell line that expresses a functional RARα known to mediate the RA effect on granulocytic differentiation (Collins et al., 1990). As the NB4 precursor cells, HL60 are able to undergo either myeloid or monocytic differentiation. On the other side, Kasumi-1 is an AML cell line containing the t(8;21) known to be resistant to the effect of RA on granulocytic differentiation. Figure 1D shows that miR-223 was strongly induced by RA addition in HL60 but not in Kasumi-1 cells. Notably, miR-223 levels were not significantly modified in two RA-resistant subclones: the NB4-MR4 derived from NB4 (lane group NB4-MR4) and the HL60-R derived from HL60 (lane group HL60-R). These resistant cell lines carry mutations abrogating RA binding capacities of PML/RARα and RARα, respectively (Shao et al., 1997).
+
+Densitometric analysis of the different gels indicated that, in all tested cells, the upregulation of miR-223 ranged between 3- and 5-fold.
+
+To assess the hematopoietic lineage specificity of miR-223 induction, we studied whether miR-223 could be activated in HL60 and NB4 cells in response to vitamin D3, which is known to induce APL cell differentiation toward the monocytic lineage. While the expression of the monocytic surface marker CD14 was induced by this treatment in both cell lines (data not shown), vitamin D3 had no effect in activating miR-223 transcription (Figure 1E).
+
+Altogether, these data indicated that miR-223 accumulation is an event specifically induced by RA during granulocytic differentiation of myeloid cells, which occurs independently of the expression of the PML/RARα fusion product.
+
+C/EBPα Binding Sites Are Present on the miR-223 Promoter and Are Necessary for RA Induction
+By scanning the miR-223 promoter with the TransFac software package (http://www.gene-regulation.com/pub/programs.html), two putative C/EBPα binding sites were identified upstream of the region encoding the pre-miR-223 sequence (see schematic representation in Figure 2A). Since C/EBPα is a key factor for the commitment of hematopoietic cells to granulocytic lineage (Tenen, 2003), we investigated the timing of C/EBPα induction by RA in relation to miR-223 expression (see Figure S1 in the Supplemental Data available with this article online). As previously reported in both NB4 and HL60 cells (Radomska et al., 1998), wild-type p42 isoform of C/EBPα was already present in NB4 cells, and its levels increased slightly at early times of RA treatment (12 hr) and decreased to control levels at 48 hr. Note that the levels of the p30 truncated isoform of C/EBPα (Pabst et al., 2001) known to inhibit DNA binding and transactivation activity of wild-type C/EBPα were unchanged. It was previously suggested that the APL-associated PML/RARα fusion product interferes with the C/EBPα function, thereby leading to an arrest in these cells at the promyelocytic stage (Tenen, 2001): even if the protein was present in promyelocytic cells, its binding to target genes either was very poor (Duprez et al., 2003) or did not correlate with transcriptional activation (Khanna-Gupta et al., 2003). On the contrary, treatment with RA, in addition to inducing C/EBPα expression, restored its binding activity and its correct nuclear distribution and increased its transactivation function (Radomska et al., 1998 and Tenen, 2001). Thus, it appears that upregulation of C/EBPα by RA precedes miR-223 activation in these cells.
+
+Full-size image (54 K)
+Figure 2. 
+Mutational Analysis of the miR-223 Promoter
+(A) Schematic representation of the reporter constructs. The indicated portions of the miR-223 promoter, numbered relative to the 5′ end of the pre-miR-223 (indicated as a dashed box), were fused to the region containing the pre-miR-126 sequence (black boxes). The putative binding sites for CEBPα and NFI-A (from −709 bp to −730 bp) are indicated by a gray box.
+(B) Northern analysis of miR-126 and miR-223 expression in NB4 cells transfected with the reporter constructs and either untreated (lanes −) or treated with RA for 48 hr (lanes +). Thirty micrograms of total RNA was loaded on each lane. Hybridizations were normalized for the endogenous U6 snRNA. For miR-223 and U6, shorter exposures are shown in comparison to miR-126; the accumulation levels of this RNA are particularly low due to the inefficient transfection of NB4 cells.
+(C) The graph shows the +RA/−RA ratios of miR-126 levels relative to the +RA/−RA ratios of the endogenous miR-223 levels. Error bars represent standard deviation and were obtained from three independent experiments.
+Figure options
+In order to analyze whether the putative C/EBPα binding sites are involved in RA induction, we made several constructs in which different portions of the miR-223 promoter were fused to the coding region of miR-126, which is not expressed in myeloid cells (Figure 2B, lane group NT). Constructs I, II, III, and IV contain 76, 620, 810, and 1070 nucleotides upstream of the pre-miR-223, respectively, while the miR-126 coding region contains the pre-miR-126, including the Drosha processing sites (Figure 2A). This region was previously shown to direct correct excision of a mature miR-126 when cloned downstream of a heterologous RNA pol II promoter (data not shown). After transfection with the chimeric constructs, half of the NB4 culture was treated with RA for 48 hr, and half was maintained without the inducer for the same time. Figure 2B shows that constructs I and II did not induce miR-126 transcription upon RA treatment. On the contrary, constructs III and IV, containing the putative C/EBPα sites, displayed a specific activation. Interestingly, the degree of induction of these constructs upon RA treatment was similar to that of the endogenous miR-223 (Figure 2C). No significant difference was observed between constructs III and IV, indicating that the region upstream of the C/EBPα sites does not contribute to this induction. These results indicated that the region containing the C/EBPα binding sites is necessary for miR-223 responsiveness to RA.
+
+RA Treatment Recruits C/EBPα on the miR-223 Promoter Region
+We next investigated whether C/EBPα physically interacts with the miR-223 promoter and whether its binding correlates with miR-223 transcriptional upregulation. This association was analyzed in vivo during RA-induced granulopoiesis of NB4 and RA-resistant NB4 cells by chromatin immunoprecipitation (ChIP) experiments (Figure 3). Cells were treated with RA for 4, 24, 48, and 72 hr, and chromatin fragments were immunoprecipitated with an anti-C/EBPα antibody. DNA from the immunoprecipitates was then amplified by PCR using primers (Oligos#1) located in the promoter region close to the putative C/EBPα binding sites (see schematic representation in Figure 3). C/EBPα was found associated with this region after 24, 48, and 72 hr of RA induction in NB4 cells (lanes NB4 24, 48, and 72), whereas no reactivity was measurable in untreated cells (lane 0) or after 4 hr of RA treatment (lane 4). In NB4-MR4 cells, C/EBPα was not detectable throughout all the RA treatment, with only a faint reactivity at 72 hr (lane group NB4-MR4). These results were confirmed also by quantitative PCR (right panel).
+
+Full-size image (56 K)
+Figure 3. 
+ChIP Analysis of the miR-223 Promoter
+NB4 and NB4-MR4 cells were grown for the indicated times in the presence of 1 μM RA. Lanes 0 are untreated cells. Chromatin was immunoprecipitated with anti-C/EBPα (panels C/EBPα) or anti-NFI-A (panels NFI-A) antibodies, and the recovered DNA was PCR amplified with the Oligos#1 and Oligos#2 couples of primers. The location of these primers (Oligos#1, −1030/−810 and Oligos#2, −1400/−1200 with respect to the 5′ end of the pre-miR-223) is shown in the upper panel together with the sequence of C/EBPα and NFI-A binding sites. Control amplifications were carried out on input chromatin before immunoprecipitation (rows Input) and on mock-immunoprecipitated chromatin (rows No-Ab). The right panel shows histograms of the quantitative real-time PCR performed with Oligo#1 on chromatin of NB4 and NB4-MR4 cells at different times after RA treatment. Error bars represent standard deviation.
+Figure options
+The specificity of C/EBPα occupancy in the region recognized by Oligos#1 was indicated by the detection of signals close to background levels when sequences located further upstream (Oligos#2) were amplified in the same chromatin preparations.
+
+These experiments showed that, in APL cells, C/EBPα interacts in vivo with the miR-223 promoter and that this binding correlates with both miR-223 upregulation and response of these cells to RA.
+
+NFI-A Competes with C/EBPα for Promoter Binding
+Among the hundreds of predicted regulatory targets of miR-223 (Lewis et al., 2005 and Krek et al., 2005), we noticed transcription factor NFI-A, a protein known to bind sequences related to the ones of C/EBPα (Gronostajski, 2000). Notably, a search in the miR-223 promoter revealed the presence of a NFI-A site (Meisterernst et al., 1988 and Garlatti et al., 1993) overlapping one of the two identified C/EBPα binding sites (see Figure 3).
+
+To analyze the association of NFI-A with the miR-223 promoter region, ChIP analysis was carried out with antibodies against the NFI-A factor in the same conditions utilized for C/EBPα. The immunoprecipitated DNA was amplified with the same couples of primers as in the previous experiment. In contrast to C/EBPα, NFI-A showed a strong interaction with the region amplified with Oligos#1 in the absence of RA. After RA treatment, its interaction gradually disappeared with an inverse correlation to the binding of C/EBPα (Figure 3, lane group NB4 and right panel). Also in this case, signals close to the background were obtained with Oligos#2, indicating that the interaction of NFI-A is specifically limited to the same region of C/EBPα. Interestingly, in RA-resistant NB4-MR4 cells, NFI-A remains on the promoter even after RA treatment (Figure 3, lane group NB4-MR4). These results correlated the RA activation of the miR-223 promoter with the physical replacement of NFI-A by the C/EBPα factor.
+
+NFI-A Is a Bona Fide Target of miR-223
+In order to find out whether NFI-A is a miR-223 target, we initially analyzed the levels of the NFI-A protein and mRNA before and after RA treatment of NB4 cells. Figure 4 shows that, while the amount of the NFI-A protein decreased with time after RA treatment, reaching low levels after 72 hr (Figure 4B), the accumulation of the mRNA was unaffected (Figure 4A). These are typical features for a miRNA target. In order to validate the NFI-A mRNA as a possible miR-223 target, we set up an assay in which the 3′UTR of the NFI-A gene, including the putative miRNA target site, was inserted downstream of a luciferase ORF (3′NFI-Awt, Figure 4C). A construct containing a mutated sequence of the miRNA binding site, 3′NFI-Amut, was also produced as a control. The different luciferase constructs were transfected into NB4 cells with a plasmid carrying a constitutive-expression cassette for miR-223 (psiU-223, Figure 4D) or with the same vector expressing an unrelated 21 nucleotide RNA (psiU-control). In these experiments, we preferred utilizing a construct expressing miR-223 under a heterologous and constitutive promoter in order to have a constant level of expression. The ability of psiU-223 to direct the expression and processing of a mature miR-223 is shown ( Figure 4D). A specific negative effect on luciferase activity was observed in the presence of miR-223 on the wild-type substrate, while no reduction in luciferase activity was obtained when the target site was mutated ( Figure 4E). The decrease in luciferase activity was similar to the translational repressor effect observed for other miRNAs on their substrates ( Poy et al., 2004). These results indicated that NFI-A is a target of miR-223.
+
+Full-size image (72 K)
+Figure 4. 
+NFI-A Is a miR-223 Target
+NB4 and NB4-MR4 cells were grown for the indicated number of hours in the presence of 10−6 M RA; lanes 0 are untreated cells.
+(A) Total RNA was analyzed by real-time PCR with oligos for the NFI-A mRNA. Error bars represent standard deviation.
+(B) Total proteins were analyzed by Western blot with anti-NFI-A antibodies (panel NFI-A). Control Western analysis of β-tubulin was performed as a loading control (panel β-tubulin). NFI-A values were analyzed by densitometric scanning and reported in the histogram after normalization with β-tubulin.
+(C) The renilla luciferase coding region is transcribed under the control of the TK promoter of HSV and the poly(A) site of SV40. The 3′UTR of NFI-A is shown as a black box. The sequences shown below indicate the putative miR-223 target site on the wild-type 3′UTR (construct 3′NFI-Awt), its mutated derivative (construct 3′NFI-Amut), and the pairing regions of miR-223.
+(D) Plasmid psiU-223 contains the U1 snRNA gene promoter and terminator (psiUx, Denti et al., 2004) driving the expression of a pre-miR-223, including the Drosha processing sites. In the insert, the expression of psiU-223 in HeLa cells is shown (lane −, untransfected cells; lanes +, cells transfected with psiU-223).
+(E) Cells were transfected with psiU-control and 3′NFI-Awt (white box, 3′NFI-Awt), psiU-223 and 3′NFI-Awt (black box, 3′NFI-Awt), and psiU-223 and 3′NFI-Amut (black box, 3′NFI-Amut). The histogram indicates the levels of luciferase in the different transfected cells. Error bars represent standard deviation and were obtained from three independent experiments.
+Figure options
+Ectopic Expression and Knockdown of miR-223
+We next evaluated whether a stable ectopic expression of miR-223 affected the differentiation status of NB4 cells. Thus, the NB4 cell line was infected with a lentiviral vector containing a cassette for the constitutive expression of miR-223 derived from the psiU-223 construct (Lenti-223). Figure 5A shows that the resulting expression level of miR-223 in NB4 infected cells (lane Lenti-223) was about twice the amount of that measurable in wild-type NB4 (lane −) or in NB4 infected with the empty vector (lane Vector). We then measured by flow cytometry the expression levels of two markers of myelomonocytic differentiation: CD11b and CD14. CD11b is a surface marker of granulocytic and monocytic cell differentiation, while CD14 specifically recognizes cells of the monocytic lineage. Figure 5B shows that the expression levels of CD11b approximately doubled, whereas those of CD14 remained at the levels measurable in NB4 cells infected with the empty vector. Furthermore, a specific increase of the mRNA expression for the granulocyte colony stimulating factor receptor (G-CSFr) was observed in NB4 cells infected with Lenti-223, whereas no changes for the granulocyte-macrophage colony stimulating factor receptor (GM-CSFr) mRNA were detected. Ectopic expression of miR-223 also induced morphological changes in NB4 cells, including chromatin condensation, decreased nuclear/cytoplasmic ratio, appearance of a paranuclear Golgi region, and primary granules, which are consistent with their maturation (Figure 5C).
+
+Full-size image (86 K)
+Figure 5. 
+Ectopic Expression and Knockdown of miR-223
+(A) Schematic representation of the lentiviral construct for miR-223 expression (Lenti-223) and Northern analyses of 3 μg of total RNA extracted from uninfected NB4 cells (−) or NB4 cells infected with the empty vector or with Lenti-223 and incubated for 48 hr. Hybridization to the U6 snRNA is shown as a loading control.
+(B) Percentage of CD11b+ or CD14+ cells and expression levels of growth-factor receptors involved in myeloid differentiation (G-CSFr and GM-CSFr), measured by qRT-PCR analysis in NB4 cells ectopically expressing either the empty vector or Lenti-223. Error bars represent standard deviation and indicate the average values of three culture replicates for each construct.
+(C) Morphological analysis of NB4 cells 4 days after infection with the empty vector or Lenti-223.
+(D) Northern blot hybridizations of 3 μg of total RNA extracted from untreated NB4 cells (−) or transfected with LNA oligos against miR-126 or miR-223 and incubated for 48 hr.
+(E) LNA-treated cells were incubated in the absence or in the presence of different concentrations of RA for 48 hr and analyzed as in panel B; the values indicate the ratio of the percentage of RA-induced positive cells versus the percentage of noninduced positive cells. Error bars represent standard deviation and indicate the average values of three culture replicates for each construct.
+Figure options
+To better analyze the function of miR-223 in granulopoiesis, locked nucleic acid (LNA) oligonucleotides complementary to miR-223 were utilized in order to sequester the miRNA in an inactive form (Lecellier et al., 2005). The LNA-miRNA hybrids are thermally stable (Vester and Wengel, 2004) and are not melted in canonical denaturing gels; therefore, the depletion of the miRNA can be judged by the decrease in its hybridization signal in Northern blots. NB4 cells transfected with anti-223 LNA showed a 2-fold decrease in miR-223 levels when compared to control cells transfected with LNA against miR-126, not expressed in these cells (Figure 5D). Figure 5E shows that the knockdown of miR-223 produced a 30%–40% reduction of CD11b while maintaining the level of CD14 unaltered in the presence of two different RA concentrations. Altogether, these data indicated that the levels of miR-223 are crucial for controlling the differentiation fate of promyelocytic precursors.
+
+RNAi against C/EBPα and NFI-A
+RNAi against C/EBPα and NFI-A was utilized in order to validate the regulatory circuitry connecting the two transcriptional factors with the expression of miR-223 and cell differentiation.
+
+NB4 cells were infected with lentiviral constructs expressing siRNAs against C/EBPα or NFI-A. Both constructs proved effective in reducing the levels of the corresponding target proteins (Figures 6A and 6B). The knockdown of C/EBPα resulted in decreased levels of miR-223 only after RA treatment, whereas the decrease of NFI-A resulted in reduced levels of miR-223 in the absence of RA (Figures 6A and 6B). In agreement with ChIP analysis, these data indicated that both transcriptional factors function as miR-223 activators and that, in particular, C/EBPα is required for miR-223 expression following RA treatment, while NFI-A acts before induction. Notably, in comparison to mock-infected cells, the knockdown of C/EBPα decreased the effect of RA on granulocytic differentiation (both at 10−8 M and 10−6 M RA), as judged by immunological phenotyping and morphological analysis (Figures 6C and 6D, lanes siC/EBPα). On the contrary, the reduction of NFI-A had an opposite effect and strongly increased the differentiation status of RA-treated NB4 cells (Figures 6C and 6D, lanes siNFI-A). Altogether, these data indicated that sustained levels of C/EBPα and reduced amounts of NFI-A are required for myeloid differentiation. Moreover, these findings also provide evidence for NFI-A as a novel key regulator of granulocytic differentiation.
+
+Full-size image (84 K)
+Figure 6. 
+RNAi against C/EBPα and NFI-A
+(A and B) NB4 cells were infected with an empty lentiviral vector (Vector) or lentiviral constructs expressing siRNAs against C/EBPα (siC/EBPα, [A]) or NFI-A (siNFI-A, [B]). On the left of each panel, the Western analysis of 50 μg of proteins 48 hr after infection is shown. The antibodies utilized are indicated on the side. β-tubulin detection is shown as a loading control. On the right of each panel, the Northern analysis of miR-223 expression is shown; cells were either untreated (−) or treated (+) with RA for 48 hr. Hybridization to the endogenous U2 snRNA is shown as a loading control.
+(C) CD11b+ or CD14+ cells were analyzed by FACS; the values indicate the ratio of the percentage of RA-induced positive cells to the percentage of noninduced positive cells. Error bars represent standard deviation and indicate the average values of three culture replicates for each construct.
+(D) Morphological analysis of NB4 cells infected with the different constructs and either untreated (control panels) or treated with different doses of RA for 4 days.
+Figure options
+Discussion
+It is now well accepted that miRNAs exert their function of fine modulators of gene expression by controlling translational efficiency of a large number of target genes (Bartel, 2004). This regulation, as described in the cases studied so far, is mainly involved in gene reprogramming occurring during development and cell differentiation where fine tuning, more than on/off regulation, provides the initial and subtle changes of gene expression necessary to enter terminal commitment.
+
+In this study, we have identified in miR-223 an important modulator of human myeloid differentiation. This RNA is specifically expressed in myeloid cells and is upregulated during granulocytic differentiation of APL cells mediated in vivo or in vitro by retinoic acid (RA). Interestingly, the same specificity of induction was verified in blasts from patients undergoing therapeutic treatment with RA, indicating that the effect was not solely confined to in vitro-maintained cell lines.
+
+The relevant role of miR-223 in the differentiation process was demonstrated by both overexpression and knockdown experiments. In the first case, doubling of the cells committed to the granulocyte-specific lineage was obtained, whereas reduced miR-223 levels produced the opposite effect. Interestingly, the percentage of miR-223-infected cells induced to differentiate into granulocytic lineage was similar to that described for the ectopic expression of miR-181 in inducing B-specific lymphoid lineage of mouse hematopoietic precursors (Chen et al., 2004).
+
+Study of miR-223 expression disclosed a very interesting regulatory loop involving two well-known transcriptional factors, C/EBPα and NFI-A (see model in Figure 7). C/EBPα was shown to interact with the miR-223 promoter region required for RA responsiveness, and its binding correlated perfectly in time with the start of miRNA induction. A variety of studies in different experimental systems have provided compelling evidence indicating a very important role of C/EBPα in both growth arrest and terminal differentiation, in particular of granulocytes (Nerlov et al., 1998, Radomska et al., 1998, Wang et al., 1999 and Khanna-Gupta et al., 2001). Although C/EBPα was known to induce granulopoiesis while suppressing monocyte differentiation, it was unclear how C/EBPα regulated this cell fate choice at the mechanistic level.
+
+Full-size image (40 K)
+Figure 7. 
+A Model Summarizing the Interplay among miR-223, NFI-A, and C/EBPα in RA-Induced Granulocytic Differentiation
+In undifferentiated NB4 cells (left panel), NFI-A binds the miR-223 promoter, keeping levels of miR-223 expression and consequently miR-223-mediated translational repression low. Upon RA treatment (right panel), C/EBPα replaces NFI-A on the miR-223 promoter and boosts miR-223 expression. This results in an increase of miR-223-mediated translational repression of the NFI-A mRNA and decrease of the NFI-A protein.
+Figure options
+The second miR-223 regulator, NFI-A, was initially described as a CCAAT-box binding transcription factor, belonging to the nuclear factor I (NFI) family of proteins (Santoro et al., 1988). The NFI family is composed of four independent genes (NFI-A, -B, -C, and -X) and a large number of splice variants that form homodimers and heterodimers, thus creating an extensive network of possible functional dimers (Gronostajski, 2000). The NFI proteins bind as dimers to the dyad symmetric consensus sequence TTGGC(N5)GCCAA; nevertheless, they could also bind very well to individual half-sites, even though with a reduced affinity, and presumably as heterodimers with other proteins (Meisterernst et al., 1988 and Bachurski et al., 1997). Due to the ability to bind to half-sites, the NFI family could somehow compete with the C/EBP factors in binding the CCAAT element (Garlatti et al., 1993).
+
+In line with this hypothesis, our experiments indicated a very interesting functional interrelationship between NFI-A and C/EBPα. One of the two C/EBPα binding elements in the miR-223 promoter overlaps with a NFI-A binding site (Meisterernst et al., 1988, Bachurski et al., 1997 and Gronostajski, 2000). Indeed, NFI-A was shown to interact with this sequence in vivo; nevertheless, its binding was released upon RA treatment and substituted by that of C/EBPα. This displacement correlated with miRNA transcriptional upregulation. Notably, in cells resistant to retinoic acid and unable to undergo differentiation, the NFI-A factor remained on the miRNA promoter and no C/EBPα binding was detected. These findings supported the hypothesis of a competition between the two proteins in the regulation of the miRNA promoter: NFI-A produces low levels of miR-223, while C/EBPα is the differentiation-specific activator. The activation by C/EBPα had only a 3- to 5-fold effect on miR-223 levels, with little variations in different clonal and primary cells, indicating that granulocytic differentiation requires fine tuning of miRNA expression. RNAi proved that NFI-A and C/EBPα do indeed act as transactivators of miR-223 before and after RA treatment, respectively. Interestingly, miR-223 activation correlated in time with the decrease in accumulation of the NFI-A protein, while its mRNA levels remained unaltered; this, together with the experimental validation of the bona fide target site in the 3′UTR, indicated that NFI-A is a target of miR-223. Altogether, these data indicate that, in promyelocytic cells, the retinoic-acid treatment induces activation of C/EBPα, which in turn is able to displace NFI-A from the miR-223 promoter, thus allowing its upregulation. In cascade, miR-223 acts by repressing NFI-A, thus subtracting it from the competition with C/EBPα and maintaining sustained levels of miR-223 expression. Besides their effect on miR-223, the knockdown of both transcriptional factors had interesting consequences on differentiation. RNAi against NFI-A drastically increased the differentiation response of NB4 cells to RA, whereas the opposite effect was found with C/EBPα depletion. These findings are in agreement with the roles described for NFI-A and C/EBPα. C/EBPα has been implicated in promoting differentiation and repressing genes that play the important function of promoting growth (McKnight, 2001 and Tenen, 2001). On the other hand, NFI-A has been implicated in replication as well as in controlling changes in cell growth (Gronostajski, 2000).
+
+The regulatory circuitry described here provides another example of how gene reprogramming during differentiation relies on fine modulation of gene expression. It is also interesting to note that the fine tuning of miR-223 expression is part of an autoregulatory loop in which translational repression of the miRNA target allows the establishment of miRNA sustained expression. Notably, the relevant function of miR-223 upregulation would be not only the decrease of NFI-A-mediated functions, which appear quite crucial, but also the inhibition of other putative substrates not yet tested, possibly important for cell-lineage specification.
+
+In conclusion, our study provides new insight into the understanding of the molecular processes required for granulocyte differentiation and offers the possibility of identifying new reagents for the development of novel therapeutic approaches to leukemia.
+
+Experimental Procedures
+Reagents
+All-trans-retinoic acid was purchased from Sigma and utilized at a concentration of 1 μM unless differently specified. Vitamin D3 was a gift from Dr. Klaus (Hoffmann-La Roche) and was utilized at a concentration of 1 μM for 72 hr.
+
+Cell Cultures
+All cell lines were maintained in RPMI 1640 medium supplemented with 50 IU/ml of penicillin, 50 μg/ml streptomycin, and 10% fetal calf serum (FCS).
+
+Peripheral blood was obtained from two informed, newly diagnosed APL patients (N1 and N2), classified as M3 or M3-variant by morphological criteria according to the French-American-British (FAB) classification, and presented an initial percentage of circulating blasts that was more than 80%. Analysis of the PML/RARα fusion gene was performed by RT-PCR as reported elsewhere (Lo Coco et al., 1992). Leukemic cells were isolated on Ficoll-Hypaque density gradients and cultured in RPMI 1640 medium supplemented with 50 IU/ml of penicillin, 50 μg/ml streptomycin, and 10% fetal calf serum (FCS) as described (Fazi et al., 2005).
+
+CD34+ cells were isolated from the bone marrow of informed normal donors by Ficoll-Hypaque density-gradient centrifugation, depletion of adherent cells by adherence to plastic, and purification by immunomagnetic separation (Miltenyi, Biotech) as recommended by the manufacturer. Flow cytometric analysis confirmed that more than 90% of the cells were CD34+. Mature T and committed B lymphoid cells, kindly provided by Prof. A. Santoni, were selected from peripheral blood according to Mittelstadt and Ashwell (1998) and Benjamin et al. (1996). 293T cells were grown in Iscove's modified Dulbecco's medium (IMDM, GIBCO) supplemented with 10% FBS and L-glutamine (50 U/ml), penicillin, and streptomycin (50 U/ml).
+
+RNA Extraction and Analysis
+Total RNA from cells was extracted using TRIzol RNA isolation system (Invitrogen) according to the manufacturer's instructions. For Northern analysis of miRNAs, total RNA was electrophoresed in a 10% polyacrylamide 7 M urea gel and transferred by electroblotting onto Hybond-N+ membrane (Amersham Pharmacia Biotech). Hybridization was performed with terminally 32P-labeled DNA oligos. Probes were as follows: α-223, 5′-GGGGTATTTGACAAACTGACA-3′; α-181a, 5′-ACTCACCGACAGCGTTGAATGTT-3′; α-142-5, 5′-GTAGTGCTTTCTACTTTATG-3′; α-126, 5′-AGCATGGCACTCATTATTACG-3′; α-16, 5′-CGCCAATATTTACGTGCTGCTA-3′; α-15a, 5′-CACAAACCATTATGTGCTGCTA-3′. The endogenous U2 snRNA was detected with oligo U2R, 5′-GGGTGCACCGTTCCTGGAGGTAC-3′ and U6 snRNA with oligo U6, 5′-TGTGCTGCCGAAGCAAGCAC-3′.
+
+RNA quantification was performed by real-time PCR in ABI PRISM 7000 Sequence Detection System (Applied Biosystems). TaqMan oligonucleotides (Assay on Demand) for NFI-A, colony stimulating factor 3 receptor (CSF3r or G-CSFr), colony stimulating factor 2 receptor (CSF2r or GM-CSFr), and GAPDH were purchased from Applied Biosystems and used as recommended by the manufacturer. Delta-delta Ct values were normalized with those obtained from the amplification of a GAPDH. All reactions were performed in triplicate.
+
+Immunoblot Analysis
+Total cell extracts (50 μg of proteins) were fractionated by electrophoresis on 10% SDS polyacrylamide gel, electroblotted to nitrocellulose membrane (Protran, S&S) and reacted with anti-NFI-A (Abcam) or anti-C/EBPα (Santa Cruz) antibodies. Immunoreactivity was determined using the ECL method (Amersham) with the reagents provided according to the manufacturer's instructions.
+
+Formaldehyde Crosslink and Chromatin Immunoprecipitation Assay
+Crosslinking of proteins to DNA was obtained by the direct addition to cultured cells (2 × 106) of formaldehyde at 1% final concentration for 10 min at 37°C. After sonication, chromatin was immunoprecipitated overnight with 5 μl of the antibodies anti-C/EBPα (Santa Cruz) and anti-NFI-A (Abcam) as described (Fazi et al., 2005). Genomic regions of about 200 bp close to putative CEBPα binding sites as indicated by a search performed using the MatInspector Professional and Alibaba2 software programs on a region further upstream of the miR-223 promoter (1300 bp upstream of miR-223) were amplified with the following primer sequences designed by the Primer Express software (Applied Biosystems): oligo#1 (forward), 5′-GCCCTCTTTGTTGATGTGTC-3′; oligo#1 (reverse), 5′-GGCAGCTATTAAAGTGCCCT-3′; oligo#2 (forward), 5′-CTTGCTGAAAGACAAGGCTG-3′; and oligo#2 (reverse), 5′-CTGGTGTCAAATTACTGCCC-3′, as described (Fazi et al., 2005). Quantization of coimmunoprecipitated promoter fragments was performed in triplicate using the SYBR green dye detection method with Oligos#1. Delta-delta Ct values of each immunoprecipitated sample were normalized with those obtained from the amplification of their respective input and by subtracting the values obtained in the corresponding samples with normal rabbit serum as described (Chakrabarti et al., 2002).
+
+Promoter Analysis
+A DNA fragment containing the pre-miR-126 molecule (−51 bp to +34 bp relative to the mature miR-126) was amplified and cloned in pBluescript (Stratagene). DNA fragments from −76 bp to −25 bp (clone I), −620 bp to −25 bp (clone II), −810 bp to −25 bp (clone III), and −1070 bp to −25 bp (clone IV) relative to the pre-miR-223 were inserted upstream of the pre-miR-126 fragment. In all constructs, a 240 bp fragment derived from the 3′ downstream region of miR-223 was cloned downstream of the pre-miR-126 fragment. These plasmids (20 μg) were individually transfected by electroporation into NB4 cells. After 3 hr, cells were divided in two, and one aliquot was treated with RA for 48 hr. Total RNA from RA-treated and untreated cells was extracted and analyzed by Northern blot as described above. Quantitation was done using an InstantImager (Packard).
+
+Assay of Luciferase Activity
+The 3′UTR of the human NFI-A gene was PCR amplified using the primers 5′-CGCTCTAGACATGGACGCAACCTCAACCCAG-3′ and 5′-ATTTGCGGCCGCTCAGTTTTTAAAGGGATACAAG-3′ and cloned downstream of the stop codon in pRL-TK (Promega), giving rise to 3′NFI-Awt plasmid. This construct was used to generate the 3′NFI-Amut plasmid. NB4 cells were transfected by electroporation with 10 μg of pRL-TK derivative (Rr-luc), 1 μg of pGL3 control vector (Pp-luc, Promega), and 10 μg of psiU-223 or psiU-control. Cells were harvested 24 hr posttransfection and assayed with Dual Luciferase Assay (Promega) according to the manufacturer's instructions.
+
+Plasmid Constructs and miRNA Knockdown
+The psiU-223 plasmid was generated by cloning a fragment containing the pre-miR-223 (from −56 bp to +71 bp relative to the 5′ end of miR-223) in the psiUx plasmid, as described by Denti et al. (2004). The psiU-control contains an artificial short hairpin sequence producing a 22 nucleotide RNA (5′-CAACAAUUGUGCAGCCUGGCUU-3′). The constructs for RNAi were also raised in psiUx; they transcribe a short hairpin that produces the accumulation of siRNAs against the sequence 5′-GAACAGCAACGAGTACCGG-3′ of C/EBPα and 5′-GTTTTGACAGAAACTGACAGG-3′ of NFI-A. The psiU-derived expression cassettes were subcloned into the EcoRV site or in the LTR of the lentiviral vector pRRLcPPT.hPGK.EGFP.WPRE (Bonci et al., 2003). Infective particles were produced as already described (Bonci et al., 2003).
+
+LNA oligonucleotides against miR-223 and miR-126 were obtained from Exiqon (www.exiqon.com). Knockdown oligos were individually transfected by Lipofectamine 2000 (Invitrogen) into NB4 cells at a final concentration of 40 nM together with 10 nM of a FITC-labeled LNA oligonucleotide against an A. thaliana miRNA. After 48 hr, transfected cells were isolated by FACScan flow cytometer, and differentiation and miRNA levels were analyzed. Before loading on polyacrylamide 7 M urea gels, RNA samples were treated at 65°C in 3.5 M urea.
+
+Immunophenotyping and Morphological Analysis
+Cell differentiation was evaluated by direct immunofluorescence staining using allophycocyanin (APC) conjugated mouse anti-human CD11b and peridinin chlorophyll protein (PerCP) conjugated mouse anti-human CD14 cell-surface myeloid-specific antigens (BD Biosciences, San Jose, CA). A minimum of 50,000 events were collected for each sample by a FACScan flow cytometer (Becton Dickinson) using CellFit software (Becton Dickinson) for data acquisition and analysis. Morphology was evaluated after 4 days of treatment in conventional light-field microscopy of Wright-Giemsa-stained cytospins.
+
+Acknowledgments
+We thank Prof. A. Harel-Bellan and Dr. I. Naguibneva for kindly providing information on LNA utilization; Prof. F. Lo Coco for APL patient blasts; Prof. A. Santoni, Dr. M. Cippitelli, and Dr. D. Milana for B and T cell-specific RNAs; Profs. Wilson Miller and Steven Collins for RA-resistant AML cell lines; Dr. S. Di Cesare for cell sorting and FACS analysis; and Dr. T. Villa for helpful discussion. We also thank M. Arceci for technical assistance, O. Sthandier and M. Marchioni for cell-culture facilities, and L. De Pasquale for plasmid construction. This work was partially supported by grants from AIRC and AIRC-ROC, the Sixth Research Framework Programme of the European Union, Project RIGHT (LSHB-CT-2004 005276), MURST (FIRB-p.n. RBNE015MPB and RBNE01KXC9 to I.B.; RBAU01YFR3 and RBNE01SM99 to C.N.), PRIN, and “Centro di Eccellenza BEMM” and from the ISS National Program on Stem Cells.
+
+Supplemental Data
+ 
+Document S1. One Figure.  
+Help with PDF filesOptions
+References
+Ambros, 2004
+V. Ambros
+The function of animal miRNAs
+Nature, 431 (2004), pp. 350–355
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3075)
+Bachurski et al., 1997
+C.J. Bachurski, S.E. Kelly, S.W. Glasser, T.A. Currier
+Nuclear factor I family members regulate the transcription of surfactant protein-C
+J. Biol. Chem., 272 (1997), pp. 32759–32766
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Barnett et al., 1999
+D. Barnett, G. Janossy, A. Lubenko, E. Matutes, A. Newland, J.T. Reilly
+Guideline for the flow cytometric enumeration of CD34+ haematopoietic stem cells. Prepared by the CD34+ haematopoietic stem cell working party. General Haematology Task Force of the British Committee for Standards in Haematology
+Clin. Lab. Haematol., 21 (1999), pp. 301–308
+
+View Record in Scopus | Citing articles (76)
+Bartel, 2004
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (9544)
+Benjamin et al., 1996
+D. Benjamin, V. Sharma, M. Kubin, J.L. Klein, A. Sartori, J. Holliday, G. Trinchieri
+EBV-positive tumor B cell lines derived from patients with American Burkitt's lymphoma
+J. Immunol., 156 (1996), pp. 1626–1637
+
+View Record in Scopus | Citing articles (52)
+Bonci et al., 2003
+D. Bonci, A. Cittadini, M.V. Latronico, U. Borello, J.K. Aycock, A. Drusco, A. Innocenzi, A. Follenzi, M. Lavitrano, M.G. Monti et al.
+‘Advanced’ generation lentiviruses as efficient vectors for cardiomyocyte gene transduction in vitro and in vivo
+Gene Ther., 10 (2003), pp. 630–636
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+Chakrabarti et al., 2002
+S.K. Chakrabarti, J.C. James, R.G. Mirmira
+Quantitative assessment of gene targeting in vitro and in vivo by the pancreatic transcription factor, Pdx1. Importance of chromatin structure in directing promoter binding
+J. Biol. Chem., 277 (2002), pp. 13286–13293
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (187)
+Chen et al., 2004
+C.Z. Chen, L. Li, H.F. Lodish, D.P. Bartel
+MicroRNAs modulate hematopoietic lineage differentiation
+Science, 303 (2004), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1529)
+Collins et al., 1990
+S.J. Collins, K. Robertson, L. Mueller
+Retinoic acid-induced granulocytic differentiation of HL-60 cells myeloid leukemia cells is mediated directly through the retinoic acid receptor (RAR-alpha)
+Mol. Cell. Biol., 10 (1990), pp. 2154–2161
+
+Denti et al., 2004
+M.A. Denti, A. Rosa, O. Sthandier, F.G. De Angelis, I. Bozzoni
+A new vector, based on the Pol II promoter of the U1 snRNA gene, for the expression of siRNAs in mammalian cells
+Mol. Ther., 10 (2004), pp. 191–199
+
+View Record in Scopus | Citing articles (52)
+Di Croce et al., 2002
+L. Di Croce, V.A. Raker, M. Corsaro, F. Fazi, M. Fanelli, M. Faretta, F. Fuks, F. Lo Coco, T. Kouzarides, C. Nervi et al.
+Methyltransferase recruitment and DNA hypermethylation of target promoters by an oncogenic transcription factor
+Science, 295 (2002), pp. 1079–1082
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (513)
+Duprez et al., 2003
+E. Duprez, K. Wagner, H. Koch, D.G. Tenen
+C/EBPbeta: a major PML-RARA-responsive gene in retinoic acid-induced differentiation of APL cells
+EMBO J., 22 (2003), pp. 5806–5816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+Fazi et al., 2005
+F. Fazi, L. Travaglini, D. Carotti, F. Palitti, D. Diverio, M. Alcalay, S. McNamara, W.H. Miller, F.L. Coco, P.G. Pelicci, C. Nervi
+Retinoic acid targets DNA-methyltransferases and histone deacetylases during APL blast differentiation in vitro and in vivo
+Oncogene, 24 (2005), pp. 1820–1830
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+Garlatti et al., 1993
+M. Garlatti, V. Tchesnokov, M. Daheshia, S. Feilleux-Duche, J. Hanoune, M. Aggerbeck, R. Barouki
+CCAAT/enhancer-binding protein-related proteins bind to the unusual promoter of the aspartate aminotransferase housekeeping gene
+J. Biol. Chem., 268 (1993), pp. 6567–6574
+
+View Record in Scopus | Citing articles (19)
+Gombart et al., 2002
+A.F. Gombart, W.K. Hofmann, S. Kawano, S. Takeuchi, U. Krug, S.H. Kwok, R.J. Larsen, H. Asou, C.W. Miller, D. Hoelzer, H.P. Koeffler
+Mutations in the gene encoding the transcription factor CCAAT/enhancer binding protein alpha in myelodysplastic syndromes and acute myeloid leukemias
+Blood, 99 (2002), pp. 1332–1340
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (194)
+Gronostajski, 2000
+R.M. Gronostajski
+Roles of the NF1/CTF gene family in transcription and development
+Gene, 249 (2000), pp. 31–45
+
+Article |  PDF (294 K) | View Record in Scopus | Citing articles (247)
+Khanna-Gupta et al., 2001
+A. Khanna-Gupta, T. Zibello, H. Sun, J. Lekstrom-Himes, N. Berliner
+C/EBP epsilon mediates myeloid differentiation and is regulated by the CCAAT displacement protein (CDP/cut)
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 8000–8005
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (37)
+Khanna-Gupta et al., 2003
+A. Khanna-Gupta, T. Zibello, H. Sun, P. Gaines, N. Berliner
+Chromatin immunoprecipitation (ChIP) studies indicate a role for CCAAT enhancer binding proteins alpha and epsilon (C/EBP alpha and C/EBP epsilon) and CDP/cut in myeloid maturation-induced lactoferrin gene expression
+Blood, 101 (2003), pp. 3460–3468
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Krek et al., 2005
+A. Krek, D. Grun, M.N. Poy, R. Wolf, L. Rosenberg, E.J. Epstein, P. Macmenamin, I. da Piedade, K.C. Gunsalus, M. Stoffel, N. Rajewsky
+Combinatorial microRNA target predictions
+Nat. Genet., 37 (2005), pp. 495–500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2008)
+Lanotte et al., 1991
+M. Lanotte, V. Martin-Thouvenin, S. Najman, P. Ballerini, F. Valensi, R. Berger
+NB4, a maturation inducible cell line with t(15;17) marker isolated from a human acute promyelocytic leukemia (M3)
+Blood, 77 (1991), pp. 1080–1086
+
+View Record in Scopus | Citing articles (611)
+Lecellier et al., 2005
+C.H. Lecellier, P. Dunoyer, K. Arar, J. Lehmann-Che, S. Eyquem, C. Himber, A. Saib, O. Voinnet
+A cellular microRNA mediates antiviral defense in human cells
+Science, 308 (2005), pp. 557–560
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (514)
+Lewis et al., 2005
+B.P. Lewis, C.B. Burge, D.P. Bartel
+Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets
+Cell, 120 (2005), pp. 15–20
+
+Article |  PDF (304 K) | View Record in Scopus | Citing articles (4286)
+Lo Coco et al., 1992
+F. Lo Coco, D. Diverio, P.P. Pandolfi, A. Biondi, V. Rossi, G. Avvisati, A. Rambaldi, W. Arcese, M.C. Petti, G. Meloni et al.
+Molecular evaluation of residual disease as a predictor of relapse in acute promyelocytic leukemia
+Lancet, 340 (1992), pp. 1437–1438
+
+Article |  PDF (256 K) | View Record in Scopus | Citing articles (139)
+Lo Coco et al., 2002
+F. Lo Coco, A. Zelent, A. Kimchi, M. Carducci, S.D. Gore, S. Waxman
+Progress in differentiation induction as a treatment for acute promyelocytic leukemia and beyond
+Cancer Res., 62 (2002), pp. 5618–5621
+
+View Record in Scopus | Citing articles (17)
+Lodie et al., 1999
+T.A. Lodie, H.S. Radomska, J.D. Donato
+PML/RARalpha induces ATRA-sensitive delocalization of the critical granulocytic differentiation factor C/EBPalpha to a microspeckled nuclear pattern in t(15;17) APL
+Blood, 94 (1999), p. 692a
+
+Mandelli et al., 1997
+F. Mandelli, D. Diverio, G. Avvisati, A. Luciano, T. Barbui, C. Bernasconi, G. Broccia, R. Cerri, M. Falda, G. Fioritoni et al.
+Molecular remission in PML/RARa-positive acute promyelocytic leukemia by combined all-trans-retinoic acid and idarubicin (AIDA) therapy
+Blood, 90 (1997), pp. 1014–1021
+
+View Record in Scopus | Citing articles (346)
+McKnight, 2001
+S.L. McKnight
+McBindall—a better name for CCAAT/enhancer binding proteins?
+Cell, 107 (2001), pp. 259–261
+
+Article |  PDF (38 K) | View Record in Scopus | Citing articles (121)
+Meisterernst et al., 1988
+M. Meisterernst, I. Gander, L. Rogge, E.L. Winnacker
+A quantitative analysis of nuclear factor I/DNA interactions
+Nucleic Acids Res., 16 (1988), pp. 4419–4435
+
+View Record in Scopus | Citing articles (41)
+Melnick and Licht, 1999
+A. Melnick, J.D. Licht
+Deconstructing a disease: RARα, its fusion partners, and their roles in the pathogenesis of acute promyelocytic leukemia
+Blood, 93 (1999), pp. 3167–3215
+
+View Record in Scopus | Citing articles (737)
+Meltzer, 2005
+P.S. Meltzer
+Cancer genomics: small RNA with big impacts
+Nature, 435 (2005), pp. 745–746
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+Mittelstadt and Ashwell, 1998
+P.R. Mittelstadt, J.D. Ashwell
+Cyclosporin A-sensitive transcription factor Egr-3 regulates Fas ligand expression
+Mol. Cell. Biol., 18 (1998), pp. 3744–3751
+
+View Record in Scopus | Citing articles (138)
+Nerlov et al., 1998
+C. Nerlov, K.M. McNagny, G. Doderlein, E. Kowenz-Leutz, T. Graf
+Distinct C/EBP functions are required for eosinophil lineage commitment and maturation
+Genes Dev., 12 (1998), pp. 2413–2423
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+Pabst et al., 2001
+T. Pabst, B.U. Mueller, P. Zhang, H.S. Radomska, S. Narravula, S. Schnittger, G. Behre, W. Hiddemann, D.G. Tenen
+Dominant-negative mutations of CEBPA, encoding CCAAT/enhancer binding protein-alpha (C/EBPalpha), in acute myeloid leukemia
+Nat. Genet., 27 (2001), pp. 263–270
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (500)
+Park et al., 1999
+D.J. Park, A.M. Chumakov, P.T. Vuong, D.Y. Chih, A.F. Gombart, W.H. Miller Jr., H.P. Koeffler
+CCAAT/enhancer binding protein epsilon is a potential retinoid target gene in acute promyelocytic leukemia treatment
+J. Clin. Invest., 103 (1999), pp. 1399–1408
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (130)
+Pasquinelli et al., 2005
+A.E. Pasquinelli, S. Hunter, J. Bracht
+MicroRNAs: a developing story
+Curr. Opin. Genet. Dev., 15 (2005), pp. 200–205
+
+Article |  PDF (142 K) | View Record in Scopus | Citing articles (158)
+Poy et al., 2004
+M.N. Poy, L. Eliasson, J. Krutzfeldt, S. Kuwajima, X. Ma, P.E. Macdonald, S. Pfeffer, T. Tuschl, N. Rajewsky, P. Rorsman, M. Stoffel
+A pancreatic islet-specific microRNA regulates insulin secretion
+Nature, 432 (2004), pp. 226–230
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (874)
+Radomska et al., 1998
+H.S. Radomska, C.S. Huettner, P. Zhang, T. Cheng, D.T. Scadden, D.G. Tenen
+CCAAT/enhancer binding protein alpha is a regulatory switch sufficient for induction of granulocytic development from bipotential myeloid progenitors
+Mol. Cell. Biol., 18 (1998), pp. 4301–4314
+
+View Record in Scopus | Citing articles (310)
+Santoro et al., 1988
+C. Santoro, N. Mermod, P.C. Andrews, R. Tjian
+A family of human CCAAT-box-binding proteins active in transcription and DNA replication: cloning and expression of multiple cDNAs
+Nature, 334 (1988), pp. 218–224
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (231)
+Shao et al., 1997
+W. Shao, L. Benedetti, W.W. Lamph, C. Nervi, W.H.J. Miller
+A retinoid-resistant acute promyelocytic leukemia subclone expresses a dominant negative PML-RARa mutation
+Blood, 89 (1997), pp. 4282–4289
+
+View Record in Scopus | Citing articles (118)
+Tenen, 2001
+D.G. Tenen
+Abnormalities of the CEBP alpha transcription factor: a major target in acute myeloid leukemia
+Leukemia, 4 (2001), pp. 688–689
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+Tenen, 2003
+D.G. Tenen
+Disruption of differentiation in human cancer: AML shows the way
+Nat. Rev. Cancer, 3 (2003), pp. 89–101
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (338)
+Vester and Wengel, 2004
+B. Vester, J. Wengel
+LNA (locked nucleic acid): high-affinity targeting of complementary RNA and DNA
+Biochemistry, 43 (2004), pp. 13233–13241
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (288)
+Wang et al., 1999
+X. Wang, E. Scott, C.L. Sawyers, A.D. Friedman
+C/EBPalpha bypasses granulocyte colony-stimulating factor signals to rapidly induce PU.1 gene expression, stimulate granulocytic differentiation, and limit proliferation in 32D cl3 myeloblasts
+Blood, 94 (1999), pp. 560–571
+
+View Record in Scopus | Citing articles (133)
+Corresponding author contact information
+Ph: +39 06 803 190 49; Fax: +39 06 803 190 54
+Corresponding author contact information
+Ph: +39 06 499 125 00; Fax: +39 06 499 125 00
+3
+These authors contributed equally to this work.
+Copyright © 2005 Elsevier Inc. All rights reserved.

@@ -1,0 +1,520 @@
+Multiple Tumor Suppressor Pathways Negatively Regulate Telomerase
+Shiaw-Yih Lin1, 2, Stephen J ElledgeCorresponding author contact information, 1, 2, 3, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S0092-8674(03)00430-6
+  Open Archive
+Abstract
+Telomerase expression is repressed in most somatic cells but is observed in stem cells and a high percentage of human cancers and has been hypothesized to contribute to tumorigenesis and maintenance of stem cell states. To explore telomerase regulation, we employed a general genetic screen to identify negative regulators of hTERT. We discovered three tumor suppressor/oncogene pathways involved in hTERT repression. One, the Mad1/c-Myc pathway, had been previously implicated in hTERT regulation. The second, SIP1, a transcriptional target of the TGF-β pathway, mediates the TGF-β regulated repression of hTERT. The third, the tumor suppressor Menin, is a direct repressor of hTERT. Depleting Menin immortalizes primary human fibroblasts and causes a transformation phenotype when coupled with expression of SV40 Large and Small T antigen and oncogenic ras. These studies suggest that multiple tumor suppressor/oncogene pathways coordinately repress hTERT expression and imply that telomerase is reactivated in human tumors through oncogenic mutations.
+
+Introduction
+The replication of linear chromosomes by DNA polymerases fails to completely duplicate the ends of chromosomes. To complete the replication of chromosomal ends, cells have evolved a specialized reverse transcriptase called telomerase (Greider and Blackburn, 1987), which adds a repeated sequence onto the ends of newly replicated chromosomes. Telomerase consists of a protein component, hTERT, and an RNA component (hTR) containing the template for synthesis of the repeat unit added onto the ends of chromosomes Greider 1996, McEachern et al. 2000 and Stewart and Weinberg 2000. Telomerase activity Greider 1998, Aisner et al. 2002 and Cong et al. 2002 and hTERT expression Nakamura et al. 1997, Meyerson et al. 1997, Hahn and Meyerson 2001 and Ducrest et al. 2002 are absent in most somatic cells and, as a result, chromosome ends continue to shorten as somatic cells proliferate. This shortening of chromosomal ends is thought to decrease the replicative potential of cells and eventually leads cells into senescence or into crisis, which results in cell death (de Lange, 1994). In addition to preventing shortening of telomeres, telomerase has been shown to protect the single-stranded ends of chromosomes and may have a role in maintaining telomeres in a structure that is not recognized as DNA damage, thereby preventing activation of the cellular senescence program (Stewart et al., 2003).
+
+Telomerase has been implicated in the maintenance of stem cell function. A variety of self-renewing tissues have been shown to express telomerase activity including keratinocytes, the basal layer of the epidermis, and hematopoetic cells Forsyth et al. 2002 and Mason 2003. In addition, Dyskeratosis congenita, a rare skin and bone marrow failure syndrome, is caused by defective telomere maintenance in stem cells. An autosomal dominant form is due to mutations in the RNA component of telomerase, hTR (Vulliamy et al., 2001). Patients with this form of the disease are more severely affected in later generations, possibly due to the inheritance of shortened telomeres. The defects in stem cell function associated with this disease and the general absence of telomerase activity in somatic cells has lent credence to the hypothesis that differentiating cells turn off telomerase, which may contribute to limiting their replicative potential. In addition, mice lacking telomerase eventually show impairment of organs composed of highly proliferative tissues and premature aging Blasco et al. 1997, Lee et al. 1998, Rudolph et al. 1999 and Artandi and DePinho 2000.
+
+The ability of cells to replicate indefinitely has been linked to telomerase expression. A high percentage of tumor cells that take on immortalized characteristics show telomerase activity Kim et al. 1994, Greider and Blackburn 1996, Shay and Bacchetti 1997 and Cong et al. 2002, and it has been suggested that hTERT expression may be one of the six key events common to cancer (Hanahan and Weinberg, 2000). In addition, ectopic expression of hTERT in primary fibroblasts prevents replicative senescence in vitro Morales et al. 1999, Jiang et al. 1999, Zhu et al. 1999 and Hahn et al. 1999. Surprisingly, wild-type human fibroblasts in culture escape senescence extremely rarely Wright et al. 1989, Counter et al. 1992 and Stewart and Weinberg 2002. Since telomerase expression is sufficient for this escape, it must occur only very rarely. This suggests that hTERT expression is under stringent negative control Cong et al. 2002 and Ducrest et al. 2002.
+
+Considerable support exists for the hypothesis that telomerase expression contributes to human cancer. In addition to its role in immortalizing fibroblasts, hTERT can cooperate with activated ras and Large and Small T antigen to transform primary human cells (Hahn et al., 1999). However, although hTERT is expressed in 90% of human cancers, it has not been established that its expression is more than correlative. Unlike most oncogenes, no amplification or rearrangements of the hTERT gene to date have been identified in tumors to support the idea that this gene was specifically turned on in tumor cells. In the absence of alterations of the hTERT genomic locus to activate it in tumor cells, it would be expected that if telomerase expression is specifically reactivated in tumor cells, mutations in the pathways that regulate telomerase should be found in tumors.
+
+In addition to specific roles in cellular functions, telomerase may have broader roles at the organismal level. Telomeres and telomerase have long been suspected to be agents of human aging Cong et al. 2002 and Blasco 2002. Recently, a retrospective study examining the correlation between telomere lengths and mortality in age-matched individuals discovered that individuals with shorter telomeres have a significantly higher mortality rate (Cawthon et al., 2003). While further studies are needed to support the validity of such claims, they raise the intriguing possibility that controlling telomere length may have the potential to affect mortality. To further investigate the roles of telomerase in human biology and establish the regulatory circuitry for transcription of hTERT, we undertook a genetic screen to identify hTERT regulators described herein.
+
+Results
+To examine the reactivation hypothesis and to identify potential tumor suppressors involved in hTERT repression in normal cells, we established a genetic screen to identify transcriptional repressors for hTERT in human cells (Figure 1). HeLa cells, which normally express high levels of hTERT transcripts, were stably transfected with a GFP reporter driven by 2 kb of the hTERT promoter (hTERT-2K). Negative regulators of hTERT expression were identified using enhanced retroviral mutagens (Liu et al., 2000) (ERM). ERM is a retroviral vector that contains an epitope tag and a splice donor under the control of a tetracycline-responsive element. Random viral integration will occasionally result in insertion into a transcriptional unit to produce a gene fusion in which the endogenous gene is fused in frame to the epitope tag and placed under Tet control. We coinfected these cells with a retrovirus encoding Tet-off to place the ERM promoter under Tet control. The elevated expression of negative regulators of hTERT in a subset of ERM infected cells should result in reduced GFP expression in these cells. This population of cells displaying a reduction in GFP levels were identified and recovered by FACS ( Figure 2A, middle, asterisk region). The pooled candidates identified in the first screen were then further examined by adding doxycycline to turn off expression of genes under control of the ERM virus to ensure that the reduction of GFP intensity was due to overexpression of the insertion genes ( Figure 2A, bottom, asterisk region). The cells sorted in the second screen for increased GFP expression were collected by a single cell sorter (autoclone). These cells were then examined again for Tet-responsive GFP expression, and candidates showing a greater than 3-fold change in GFP expression were chosen for further study. Nine candidates were isolated, and the identity of six insertion sites was determined by 3′ RACE. As shown in Figure 2B, five of the candidates are either transcriptional regulators, such as Menin Agarwal et al. 1999 and Heppner et al. 2001, Sip1 (Comijn et al., 2001), Mad1 (Ayer et al., 1996), and hSir2 (Vaziri et al., 2001) or are involved in signaling, such as Rak, which encodes a protein kinase and has been shown to interact with the retinoblastoma protein pRB (Craven et al., 1995). Mad1 has been implicated in hTERT repression by several groups Wang et al. 1998, Oh et al. 2000 and Xu et al. 2001, thus validating our screening strategy. In addition to the known genes, we identified another protein in our screen that contained two BRCT domains in the C terminus. We named this gene BRIT1 (BRCT-repeat inhibitor of hTERT expression).
+
+Full-size image (6 K)
+Figure 1. 
+Schematic Outline of the Experimental Setup for Identification of Transcriptional Repressors of hTERT
+For the primary screen, we infected reporter cells with enhanced retroviral mutagens (ERM). Cells with reduced GFP intensity were sorted and expanded. As a secondary screen, doxycycline was added to repress the expression directed by the ERM retroviral insertions in these cells. Cells that restore GFP expression in the presence of doxycycline were sorted by the single cell sorter (autoclone).
+Figure options
+Full-size image (28 K)
+Figure 2. 
+The Identification of Candidate hTERT Repressors
+(A) Sequential sorting of hTERT-GFP reporter cells (top) after ERM delivery (middle) and doxycycline addition (bottom). The cells were sorted by FACS in the region marked with an asterisk during first, as well as second, screen.
+(B) The number or cell clones collected from the screens and the identity of the repressor candidates as well as their inhibitory effects on the GFP-reporter. The accession number for BRIT1 is NM_024596.
+Figure options
+To determine whether the genes we identified are genuine hTERT repressors, we transfected vectors expressing the individual proteins into HeLa cells and quantified the changes in endogenous hTERT transcript levels by RT-PCR. In control experiments, we could detect high levels of hTERT transcripts in HeLa (Oh et al., 2000), MCF-7, and BJ-hTERT (Jiang et al., 1999) stable cells, which have been previously reported to highly express hTERT (Figure 3A). In contrast, BJ cells (Jiang et al., 1999), a primary fibroblast cell line, as well as U2OS and Saos-2 (Bryan et al., 1997), two ALT osteosarcoma cell lines, expressed no detectable hTERT message. In the transfection experiments, we found that all genes tested except hSIR2 significantly repressed endogenous hTERT expression ( Figure 3B; BRIT1 was not tested). These repressive effects were also supported by reductions in hTERT protein levels as overexpression of Menin or Mad1 significantly decreased hTERT protein levels in HeLa nuclear extracts (Figure 3C).
+
+Full-size image (20 K)
+Figure 3. 
+Testing the Effects of the Candidate hTERT Repressor on Endogenous hTERT Expression
+(A) Specific detection of hTERT RT-PCR products in the indicated cell lines.
+(B) RNA was prepared from HeLa cells transfected with expression vectors for the indicated repressor candidates and analyzed for endogenous hTERT expression levels by RT-PCR.
+(C) Protein was prepared from HeLa cells transfected with expression vectors for the Menin and Mad1 and analyzed for endogenous hTERT expression levels by Western blotting. The same amount of nuclear extract from U2OS cells was included as a negative control for hTERT protein detection.
+Figure options
+Unexpectedly, human Sir2, a type-three histone deacetylase, not only failed to repress, but also appeared to increase hTERT expression when overexpressed. Since our insertion library was N terminally tagged with ERM, the possibility existed that the fusion protein was inactive, resulting in a dominant-negative effect. In fact, when we infected cells with a retrovirus expressing a dominant-negative hSIR2 mutant (Vaziri et al., 2001), we observed a slight reduction of hTERT mRNA levels. This observation suggests that hSir2 may function as an hTERT activator instead of a repressor.
+
+While four of the five genes tested can reduce hTERT expression when overproduced, it is not clear whether they act as repressors when expressed at endogenous levels in cells that do not express hTERT. Since the regulation of hTERT behaves as a recessive trait Oshimura and Barrett 1997 and Kyo and Inoue 2002, we anticipated that loss of hTERT repressors should reactivate hTERT expression in hTERT negative cells. To address this, we sought to reduce the expression levels of these proteins using siRNA (Elbashir et al., 2001) in U2OS cells that do not normally express hTERT. siRNAs against individual candidate genes were transfected into U2OS cells. As shown in Figure 4A (top), depletion of Rak, Menin, Mad1, or Brit1 readily activated the expression of hTERT mRNA. We also observed elevated expression of hTERT protein levels when Menin and Mad1 siRNAs were tested ( Figure 4A, bottom). The effects of repressor depletion on hTERT were specific because we did not observe an effect when siRNAs against LacZ, GFP, Cyclin F, or Claspin were used.
+
+Full-size image (34 K)
+Figure 4. 
+Candidate Repressors Are Required In Vivo to Limit hTERT Expression
+Cells treated with the indicated siRNAs were prepped for RNA or protein analysis as indicated. (A) Depletion of the repressor candidates by siRNAs reactivated hTERT expression detected by RT-PCR (top) or Western blotting (bottom) in U2OS cells. (B) Depletion of SIP1 partially rescued the inhibitory effect of TGF-β on hTERT expression in MCF-7 cells. (C) hTERT expression in U2OS cells with or without p53 depletion or in two HCT116 isogenic cell lines (top). hTERT expression levels were detected by RT-PCR using different numbers of PCR cycles in the bottom panel. For the top, hTERT was detected using 31 cycles of PCR. In the bottom panel, hTERT was detected using 31, 29, or 28 cycles as noted. In both cases, 16 cycles of PCR were used to detect GAPDH.
+Figure options
+The depletion of SIP1 had no effect on hTERT transcription or protein levels, suggesting SIP1 does not regulate hTERT in U2OS cells under these culture conditions. Recent studies have placed SIP1 as a downstream transcriptional target of TGF-β (Comijn et al., 2001), a cell inhibitory signal reported to repress hTERT expression (Yang et al., 2001). We therefore tested whether SIP1 might be required for the downregulation of hTERT by TGF-β. Consistent with this hypothesis, the reduction of hTERT expression induced by TGF-β treatment of MCF-7 cells was partially dependent upon SIP1 (Figure 4B).
+
+Several studies have suggested that p53 is a negative regulator of hTERT Kanaya et al. 2000 and Xu et al. 2000. However, these studies relied upon overproduction of p53. In order to show that p53 is a bona fide repressor of hTERT, removal of p53 must be able to increase hTERT expression. To confirm that p53 is a negative regulator of hTERT, we depleted p53 using siRNA. When p53 expression was inhibited in U2OS cells, no effect on hTERT expression was detected ( Figure 4C, top). To determine whether the inability to detect an effect on hTERT was due to an inability to completely eliminate p53 using siRNA, we next examined HCT116 cells in which p53 was deleted using gene targeting (Bunz et al., 1999). No difference in hTERT expression was detected in these isogenic HCT116 lines, differing only in their p53 status ( Figure 4C, bottom). Thus, using two different assays, we have been unable to confirm that p53 is repressor of hTERT under physiological conditions. This is consistent with the observation that telomerase expression in tumors does not correlate with p53 status (Sood et al., 2002)
+
+Among the repressor candidates we identified, we focused on Menin and Mad1 because of the involvement of their pathways in human cancers. Since both Mad1 and Menin are transcriptional repressors, their repressive activities on hTERT expression might be manifested through a direct interaction with the hTERT promoter. Therefore, we explored binding of these factors to the hTERT promoter using chromatin immunoprecipitation (CHIP) analysis.
+
+Mad1 is a transcriptional repressor that represses c-Myc-mediated transactivation by competing for the ubiquitous binding partner Max from binding to c-Myc. The decreased expression of Mad1 in normal cells could reduce its antagonistic activity toward c-Myc and, in turn, activate genes involved in tumorigenesis, including hTERT. We detected specific binding of Mad1 to the hTERT promoter (Figure 5A). Depletion of Mad1 by siRNA increased the association of c-Myc with the hTERT promoter, presumably through an increase of c-Myc/Max binding to the promoter. This data is consistent with published reports Wang et al. 1998 and Takakura et al. 1999 that Myc is a transcriptional activator of the hTERT promoter.
+
+Full-size image (20 K)
+Figure 5. 
+Direct Association of Mad1, c-Myc, Max, and Menin with the Promoter of hTERT
+(A) Direct association of Mad1, c-Myc, and Max to the promoter of hTERT. Chromatin was prepared from cells treated or untreated with siRNA to Mad1 and was immunoprecipitated using the indicated antibodies. Immunoprecipitated samples were subjected to PCR analysis using the indicated primers to the hTERT promoter.
+(B) Association of Menin with the hTERT promoter. Chromatin was prepared from cells treated or untreated with siRNA to Menin as indicated. This chromatin was immunoprecipitated using the indicated antibodies. Immunoprecipitated samples were subjected to PCR analysis using the primers indicated on the schematic diagram of the hTERT promoter.
+Figure options
+Menin is the protein product encoded by the potent tumor suppressor gene MEN1. Mutations in MEN1 result in multiple endocrine neoplasia type 1 syndrome (Marx et al., 1998). It is possible that loss of its repressive effects on hTERT may directly contribute to the tumor development observed in MEN1 patients. Menin has been shown to antagonize the transcriptional activity of either JunD on AP1 sites (Agarwal et al., 1999) or NF-κB (Heppner et al., 2001) on its cognate motif. As shown in Figure 5B, Menin crosslinks to the hTERT promoter, particularly to the region containing the putative AP1 and NF-κB binding sites (amplicon 2). The binding is much weaker to amplicon 1, which was immediately adjacent to amplicon 2. Consistent with this, amplicon 1 contains only a weak AP1 binding sequence. Menin binding was not detected to the β-actin promoter, demonstrating the specificity of our CHIP assays.
+
+Ectopic expression of hTERT has been shown to result in immortalization of human diploid fibroblasts and to contribute to cellular transformation in combination with expression of SV40 Large and Small T antigen and oncogenic ras. Since MEN1 negatively regulates hTERT, loss of MEN1 may result in similar phenotypes that contribute to its role in tumorigenesis. To test this, we depleted Menin expression in BJ cells, a primary human diploid fibroblast line, by integrating a vector that stably expressed a small hairpin RNA directed against Menin (shMenin) (Brummelkamp et al., 2002). The endogenous Menin expression was significantly reduced in three independent shMenin clones and led to the reactivation of hTERT expression as shown in Figure 6A. The reactivation of hTERT expression in BJ-shMenin cells led to an increase of telomerase activity as determined by TRAP assays ( Figure 6B, left) and in telomerase length as determined by using telomere restriction fragment (TRF) assays ( Figure 6B, right). These three Menin-deficient clones have exceeded their normal lifespan by at least 45 doublings with no sign of replicative senescence (less than 5% of cells showed SA-β-Gal staining versus more than 90% cells stained positive in the control clones) (Figure 6C). To date, these cells appear to be immortalized and have continued to proliferate. We have taken one line through over 200 cell doublings (data not shown).
+
+Full-size image (58 K)
+Figure 6. 
+The Effects of Menin Depletion on the Extension of Lifespan and Susceptibility to Cell Transformation in Human Primary Fibroblasts
+(A) Depletion of Menin reactivated hTERT expression in three shMenin BJ clones.
+(B) ShMenin BJ clones showed increased telomerase activity compared to parental cells and vector control clone (left). IC standards for the internal reaction control provided by the TRAPeze kit. The telomere lengths in shMenin cells were extended compared to the BJ-vector clone with two different population doublings as determined by Southern blotting, using telomeric repeats as probes.
+(C) The lifespan measured by population doublings of all three shMenin clones (shMenin1–3) were significantly extended (bottom, closed symbols) compared to vector controls (open symbols). Senescence as measured by SA-β-Gal staining was examined for shMenin clones (top, right) and vector control clones (top, left).
+(D) Large T (LT) and Small T (ST) antigens and oncogenic ras expression vectors were introduced into shMenin clones (top, right) or vector control cells (top, left) and assayed for foci formation. The foci numbers are shown as three individual experiments when 500 shMenin + LT + ST + ras cells or vector + LT + ST + ras cells were seeded with 105 BJ cells in 10 cm dishes.
+(E) A model summarizing the action of repressors on the hTERT promoter. Repressive proteins are shown in red and activating proteins in green. Rak, BRIT1, and hSir2 are arbitrarily shown to act through independent pathways, but it is possible that they act through the same pathway or one of the other three known pathways shown.
+Figure options
+Finally, we tested whether Menin-deficient cells were more susceptible to cellular transformation when exposed to additional oncogenic stimuli. As shown in Figure 6D, shMenin cells, when transfected with SV40 Large and Small T antigen and oncogenic ras, escaped contact inhibition and formed foci in the focus forming assay, indicating cell transformation had occurred, whereas control cells lacking shMenin did not form foci (Figure 6D). These results are similar to the combinatorial effects of ectopic hTERT, Large T, Small T, and ras shown in previous studies using additional transformation assays (Hahn et al., 1999).
+
+Discussion
+Understanding hTERT regulation is important for several reasons. First, if hTERT expression is a critical aspect of tumorigenesis, its regulators should be tumor suppressor or oncogenes. Secondly, if stem cells express telomerase and differentiated cells do not, regulatory pathways that control telomerase expression may be critical for maintenance of the stem cell state. Finally, recent studies have indicated a correlation between short telomere length and increased mortality (Cawthon et al., 2003). If these longevity correlations prove correct, it suggests the possibility that resetting telomere length through pharmacological manipulation of telomerase expression could affect mortality. Thus, knowledge of the regulatory pathways controlling telomerase expression has broad biological implications.
+
+In this study, we have uncovered six genes whose expression affects hTERT expression and found that multiple tumor suppressor/oncogene pathways negatively regulate human TERT. Genes in three known tumor suppressor/oncogene pathways, the TGF-β-Activin pathway, the MAD-MYC pathway, and the MEN1 pathway, all work to limit hTERT expression. SIP1 appears to mediate at least part of the TGF-β-mediated repression of hTERT. Mad1 regulates the ability of c-Myc to activate hTERT. Menin is known to act as a negative regulator of gene expression through its ability to bind to and inhibit the transactivation ability of several positively acting transcription factors. Consistent with this view of Menin, we observe that Menin physically associates with the promoter region of hTERT that we used in the original screen to drive GFP. The proteins through which Menin acts at the hTERT promoter are unknown, although JunD and/or NF-κB are potential candidates mediating this activity.
+
+Two other less studied genes, RAK and BRIT1, are also implicated in hTERT regulation and are therefore potential tumor suppressors. As RAK encodes a protein kinase, it may represent a fourth signaling pathway that impinges on hTERT expression. Understanding what pathway regulates RAK will be important for understanding the higher-level organization of hTERT regulation. In addition, we found that hSIR2 appears to play a positive role on hTERT transcription, although given its function, this is likely to be indirect, and how it controls hTERT will require further analysis. However, as Sir2 has been implicated in promoting longevity in both S. cerevisiae (Guarente and Kenyon, 2000) and C. elegans (Tissenbaum and Guarente, 2001) and telomerase promotes cell longevity in cultured cells, it is possible that this aspect of hSIR2 activity may represent a conserved feature of Sir2 function as a global promoter of longevity in eukaryotes.
+
+Telomere length has been suggested to be linked to aging in animals and cell immortality in cell culture. The expression of hTERT has been shown to stimulate telomerase activity in several cell types Counter et al. 1998, Morales et al. 1999, Jiang et al. 1999, Rufer, et al. 2001, Stampfer et al. 2001 and Simonsen et al. 2002 and to bypass the senescence program of human fibroblasts in vitro Morales et al. 1999, Jiang et al. 1999 and Zhu et al. 1999. Our results confirm this critical observation as loss of MEN1 function leads to a bypass of the senescence pathway, consistent with its role as a negative regulator of hTERT expression. Even though expression of a single gene, hTERT, can induce immortalization, spontaneous immortalization is rare, less than one in 107 cells Wright et al. 1989, Counter et al. 1992 and Stewart and Weinberg 2002. Given these multiple mechanisms of inducing hTERT expression, why it is so rare is not understood. We favor the explanation that although there are likely to be several genes whose loss can induce hTERT, since these cells have normal genomic stability, the frequency with which both alleles of a given gene would be lost is extremely rare.
+
+The fact that three known tumor suppressor/oncogene pathways were identified in this screen argues strongly for the notion that telomerase activity is specifically reactivated in tumors and that these tumors are derived from cells that initially did not express telomerase or were destined to repress it. Short of finding alterations in the hTERT gene itself in tumors, finding that multiple tumor suppressor/oncogene pathways control hTERT expression is among the strongest evidence that hTERT expression is actually contributing to tumor formation. It is easy to argue that a given downstream target of a single cancer-causing mutation may not be causal for tumorigenesis, i.e., Myc overproduction controls many genes, some of which have nothing to do with tumorigenesis. However, the finding that multiple pathways known to be involved in tumorigenesis regulate the same gene greatly enhances the probability that the expression of that gene participates in the generation of cancer.
+
+A strength of the screening method employed here is that it has the ability to activate transcription of nonexpressed genes in a given cell, thereby increasing the number of genes that can be interrogated. It should be noted that this type of screen could be generally applied to search for activators or repressors of any transcriptional target. In addition, we examined only six genes from insertions from an ERM vector using only a single reading frame to trap genes. As we failed to isolate the same gene twice, we are far from saturation and, therefore, there are likely to be a great number of genes in this regulatory network that are directly or indirectly involved in the regulation of hTERT transcriptional activity, thereby implicating a large number of genes in this aspect of tumorigenesis. These genes and additional candidates from the saturation of this screen will serve as a starting point for dissection of the pathways controlling hTERT expression and are likely to uncover additional novel tumor suppressors. Furthermore, these genes and the pathways they reside in may be important for the ability of stem cells to differentiate. In addition, they may serve as pharmalogical targets for the induction of telomerase activity in vivo. It has been suggested that restoring the proliferative potential of cells through telomerase activation may help diseases such as cirrhosis of the liver brought on by viral infection or alcohol abuse. Likewise, support has recently emerged for the idea that several of the phenotypes observed in ataxia telangiectasia patients derive from shortened telomeres and premature depletion of stem cells (Wong et al., 2003). Transient induction of telomerase function may have long-term palliative consequences in these circumstances without the risk of enhancing tumorigenesis. Thus, this collection of genes and the others to be found through completion of this screen may have important medical applications in the future.
+
+Experimental Procedures
+Cell Lines, Plasmids, and Antibodies
+All cell lines except BJ-hTERT were purchased from ATCC (Rockville, MD). Cells were grown in DMEM supplemented with 10% fetal calf serum except U2OS cells were grown in McCoy's Medium instead. BJ-hTERT was kindly provided by Dr. William Hahn. The hTERT-2k GFP reporter was constructed by subcloning 2 kb of hTERT promoter (+30 to −1970, ATG as +1) into a promoterless EGFP vector (Clontech). The enhanced retroviral mutagen (ERM) vector (Liu et al., 2000) was a gift from Dr. Z. Songyang. The expression vectors were generous gifts from Dr. A.L. Burns (Menin), Dr. R.A. Weinberg (hSir and dnSir retroviral vectors), Dr. D.C. Dean (SIP1), and Dr. T.K. Kim (Mad1). Rak was cloned by RT-PCR and subcloned into the pcDNA3 vector. The hTERT antibody was purchased from Calbiochem. The antibodies against Menin (sc-8200), Mad1 (sc-222), c-Myc (sc-764), and Max (sc-197) were all purchased from Santa Cruz Biotechnology.
+
+siRNA
+All RNA oligos were purchased from Dharmacon Research (Latayette, CO). Oligos were transfected twice using Oligofectamine (Invitrogen), and the RNAs or nuclear extracts were collected 2 days after the second transfection. The sequences of siRNAs employed are: Menin: 5′-CAGCCUCAGCCGCUCCUACdTdT-3′, 5′-GUAGGAGCGGCUGAGGCUGdTdT-3′; Rak: 5′-GCGAUUGGGAUCUGGUCAGdTdT3′, 5′-CUGACCAGAUCCCAAUCGCdTdT-3′; SIP1: 5′-CUGCCAUCUGAUCCGCUCUdTdT-3′, 5′-AGAGCGGAUCAGAUGGCAGdTdT-3; hSir2: 5′-CUGGAGCUGGGGUGUCUGUdTdT-3′, 5-ACAGACACCCCAGCUCCAGdTdT-3′; BRCT1: 5′-AGGAAGUUGGAAGGAUCCAdTdT-3′, 5′-UGGAUCCUUCCAACUUCCUdTdT-3′; Mad1: 5-GUCGACACACUACGUUGAGdTdT-3′, 5′-CUCAACGUAGUGUGUCGACdTdT-3′; and p53: 5′-GACUCCAGUGGUAAUCUACdTdT-3′, 5′-GUAGAUUACCACUGGAGUCdTdTT-3′. To construct the vector encoding shRNA against Menin, the Menin siRNA sequences shown above (using DNA instead of RNA oligos) were subcloned into the pSUPER vector as described previously (Brummelkamp et al., 2002).
+
+RT-PCR and Western Blot Analysis
+Analysis of hTERT and GAPDH mRNA expression was performed by RT-PCR amplification as described (Nakamura et al., 1997). hTERT mRNA was amplified using the primer pair 5′-CGGAAGAGTGTCTGGAGCAA-3′ (LT5) and 5′-GGATGAAGCGGAGTCTGGA-3′ (LT6) for 31 cycles (94°C for 45 s, 60°C for 45 s, 72°C for 90 s). GAPDH mRNA was amplified using primers 5′-CTCAGACACCATGGGGAAGGTGA-3′ (K136) and 5′-ATGATCTTGAGGCTGTTGTCATA-3′ (K137) for 16 cycles (94°C for 45 s, 55°C for 45 s, 72°C for 90 s). Reaction products were then resolved on 2% agarose gel. Nuclear proteins were extracted as described previously (Minamino et al., 2001).
+
+Chromatin Immunoprecipitation (CHIP) Assays
+The CHIP assays were performed as described by Xu et al. (2001). Briefly, logarithmically growing cells were fixed with formaldehyde (final concentration 1% vol/vol) in serum-free DMEM medium at 4°C for 1 hr. Glycine was added to a final concentration of 0.125 M to stop the crosslinking reaction. Fixed cells were pelleted by centrifugation and washed each in buffer A (10 mM Tris-HCl [pH 8.0], 10 mM EDTA, 0.5 mM EGTA, and 0.25% Triton X-100) and buffer B (10 mM Tris-HCl [pH 8.], 200 mM NaCl, 1mM EDTA, and 0.5 mM EGTA). The cells were then resuspended in RIPA (10 mM Tris-HCl [pH 8.0], 140 mM NaCl, 1 mM EDTA, 1% Triton X-100, 0.1% SDS, and 0.1% deoxycholate) and were sonicated to make soluble chromatin. Samples of total chromatin were taken at this point to use as a loading control (input) in the PCRs. The cell lysates were precleared by incubation with protein A/G-agarose beads and then incubated with various antibodies overnight at 4°C. DNA-protein complexes were collected with protein A/G-agarose beads followed by intensive washing. Bound DNA-protein complexes were eluted with two incubations in elution buffer (10 mM Tris [pH 8.0], 1 mM DTT, and 0.5% SDS) at room temperature for 10 min. A second immunoprecipitation was carried out to increase specificity with the use of the same protocol. Crosslinks were reversed by the sequential addition of RNase A and proteinase K and incubation at 65°C for 5 hr. Samples were then extracted twice with phenol/chloroform and precipitated with ethanol overnight. DNA fragments were recovered by centrifugation, resuspended in ddH2O, and used for PCR amplifications.
+
+shMenin Stable BJ Cell Clones and SA-β-Gal Staining
+The shMenin construct or the pSUPER empty vector were cotransfected with 1/10 the amount of puromycin-resistant vector into an early passage of BJ cells. After puromycin selection (750 ng/ml), stable clones were tested for Menin expression. Three clones showing the most Menin depletion were expanded for senescence experiments and the focus forming assays. SA-β-Gal staining was done as described previously (Dimri et al., 1995).
+
+Telomerase Activity and Telomere Length
+Telomerase activity was determined using the TRAPeze telomerase detection kit (Intergen, Purchase, NY). Extension of oligonucleotide substrates by hTERT enzymatic activity was followed by PCR in the presence of 32P-labeled TS primer and 36-base internal assay standard. Mean telomere length was determined by the telomere restriction fragment (TRF) assay as described before (Ouellette et al., 2000).
+
+Focus Forming Assay
+shMenin or vector control cells were cotransfected with vectors expressing Large T and Small T (Lusky and Botchan, 1981), H-ras (Reardon and Hung, 1993), and 1/10 amount of neo-resistant vector. After G418 drug selection, 500 cells (stable pool) were mixed with 105 BJ cells in 10 cm dishes, After 3 weeks, cells were stained with 2% methylene blue to detect foci.
+
+Acknowledgements
+We thank R.A. Weinberg, W. Hanh, Z. Songyang, T. de Lange, J. Shay, A. Levine, R. Depinho, A. Burns, D.C. Dean, and T.K. Kim for gifts of reagents and helpful discussions. We also thank Kaiyi Li for the technical support on TRF assay. This work was supported by an NIH fellowship (1 F32 CA93943) to S.-Y.L. S.J.E. is a Senior Scholar of the Ellison Foundation and an Investigator with the Howard Hughes Medical Institute and the Welch Professor of Biochemistry.
+
+References
+Agarwal et al. 1999
+S.K Agarwal, S.C Guru, C Heppner, M.R Erdos, R.M Collins, S.Y Park, S Saggar, S.C Chandrasekharappa, F.S Collins, A.M Spiegel et al.
+Menin interacts with the AP1 transcription factor JunD and represses JunD-activated transcription
+Cell, 96 (1999), pp. 143–152
+
+Article |  PDF (321 K) | View Record in Scopus | Cited By in Scopus (393)
+Aisner et al. 2002
+D.L Aisner, W.E Wright, J.W Shay
+Telomerase regulation: not just flipping the switch
+Curr. Opin. Genet. Dev., 12 (2002), pp. 80–85
+
+Article |  PDF (132 K) | View Record in Scopus | Cited By in Scopus (107)
+Artandi and DePinho 2000
+S.E Artandi, R.A DePinho
+Mice without telomerase: what can they teach us about human cancer?
+Nat. Med., 6 (2000), pp. 852–855
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (98)
+Ayer et al. 1996
+D.E Ayer, C.D Laherty, Q.A Lawrence, A.P Armstrong, R.N Eisenman
+Mad proteins contain a dominant transcription repression domain
+Mol. Cell. Biol., 16 (1996), pp. 5772–5781
+
+View Record in Scopus | Cited By in Scopus (120)
+Blasco 2002
+M.A Blasco
+Mouse models to study the role of telomeres in cancer, aging and DNA repair
+Eur. J. Cancer, 38 (2002), pp. 2222–2228
+
+Article |  PDF (211 K) | View Record in Scopus | Cited By in Scopus (18)
+Blasco et al. 1997
+M.A Blasco, H.W Lee, M.P Hande, E Samper, P.M Lansdorp, R.A DePinho, C.W Greider
+Telomere shortening and tumor formation by mouse cells lacking telomerase RNA
+Cell, 91 (1997), pp. 25–34
+
+Article |  PDF (275 K) | View Record in Scopus | Cited By in Scopus (1319)
+Brummelkamp et al. 2002
+T.R Brummelkamp, R Bernards, R Agami
+A system for stable expression of short interfering RNAs in mammalian cells
+Science, 296 (2002), pp. 550–553
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3341)
+Bryan et al. 1997
+T.M Bryan, A Englezou, L Dalla-Pozza, M.A Dunham, R.R Reddel
+Evidence for an alternative mechanism for maintaining telomere length in human tumors and tumor derived cell lines
+Nat. Med., 3 (1997), pp. 1271–1274
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (689)
+Bunz et al. 1999
+F Bunz, P.M Hwang, C Torrance, T Waldman, Y Zhang, L Dillehay, J Williams, C Lengauer, K.W Kinzler, B Vogelstein
+Disruption of p53 in human cancer cells alters the responses to therapeutic agents
+J. Clin. Invest., 104 (1999), pp. 263–269
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (703)
+Cawthon et al. 2003
+R.M Cawthon, K.R Smith, E O'Brien, A Sivatchenko, R.A Kerber
+Association between telomere length in blood and mortality in people aged 60 years or older
+Lancet, 361 (2003), pp. 393–395
+
+Article |  PDF (75 K) | View Record in Scopus | Cited By in Scopus (679)
+Comijn et al. 2001
+J Comijn, G Berx, P Vermassen, K Verschueren, L van Grunsven, E Bruyneel, M Mareel, D Huylebroeck, F van Roy
+The two-handed E box binding zinc finger protein SIP1 downregulates E-cadherin and induces invasion
+Mol. Cell, 7 (2001), pp. 1267–1278
+
+Article |  PDF (747 K) | View Record in Scopus | Cited By in Scopus (653)
+Cong et al. 2002
+Y.S Cong, W.E Wright, J.W Shay
+Human telomerase and its regulation
+Microbiol. Mol. Biol. Rev., 66 (2002), pp. 407–425
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (350)
+Counter et al. 1992
+C.M Counter, A.A Avilion, C.E LeFeuvre, N.G Stewart, C.W Greider, C.B Harley, S Bacchetti
+Telomere shortening associated with chromosome instability is arrested in immortal cells which express telomerase activity
+EMBO J., 11 (1992), pp. 1921–1929
+
+View Record in Scopus | Cited By in Scopus (1483)
+Counter et al. 1998
+C.M Counter, W.C Hahn, W Wei, S.D Caddle, R.L Beijersbergen, P.M Lansdorp, J.M Sedivy, R.A Weinberg
+Dissociation among in vitro telomerase activity, telomere maintenance, and cellular immortalization
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 14723–14728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (423)
+Craven et al. 1995
+R.J Craven, W.G Cance, E.T Liu
+The nuclear tyrosine kinase Rak associates with the retinoblastoma protein pRb
+Cancer Res., 55 (1995), pp. 3969–3972
+
+View Record in Scopus | Cited By in Scopus (30)
+de Lange 1994
+T de Lange
+Activation of telomerase in a human tumor
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 2882–2885
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (253)
+Dimri et al. 1995
+G.P Dimri, X Lee, G Basile, M Acosta, G Scott, C Roskelley, E.E Medrano, M Linskens, I Rubelj, O Pereira-Smith et al.
+A biomarker that identifies senescent human cells in culture and in aging skin in vivo
+Proc. Natl. Acad. Sci. USA, 92 (1995), pp. 9363–9367
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3154)
+Ducrest et al. 2002
+A.L Ducrest, H Szutorisz, J Lingner, M Nabholz
+Regulation of the human telomerase reverse transcriptase gene
+Oncogene, 21 (2002), pp. 541–552
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (129)
+Elbashir et al. 2001
+S.M Elbashir, J Harborth, W Lendeckel, A Yalcin, K Weber, T Tuschl
+Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells
+Nature, 411 (2001), pp. 494–498
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (6063)
+Forsyth et al. 2002
+N.R Forsyth, W.E Wright, J.W Shay
+Telomerase and differentiation in multicellular organisms: turn it off, turn it on, and turn it off again
+Differentiation, 69 (2002), pp. 188–197
+
+Article |  PDF (901 K) | View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (195)
+Greider 1996
+C.W Greider
+Telomere length regulation
+Annu. Rev. Biochem., 65 (1996), pp. 337–365
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (726)
+Greider 1998
+C.W Greider
+Telomerase activity, cell proliferation, and cancer
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 90–92
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (291)
+Greider and Blackburn 1987
+C.W Greider, E.H Blackburn
+The telomere terminal transferase of Tetrahymena is a ribonucleoprotein enzyme with two kinds of primer specificity
+Cell, 51 (1987), pp. 887–898
+
+Article |  PDF (4330 K) | View Record in Scopus | Cited By in Scopus (492)
+Greider and Blackburn 1996
+C.W Greider, E.H Blackburn
+Telomeres, telomerase and cancer
+Sci. Am., 274 (1996), pp. 92–97
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (116)
+Guarente and Kenyon 2000
+L Guarente, C Kenyon
+Genetic pathways that regulate ageing in model organisms
+Nature, 408 (2000), pp. 255–262
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (754)
+Hahn and Meyerson 2001
+W.C Hahn, M Meyerson
+Telomerase activation, cellular immortalization and cancer
+Ann. Med., 33 (2001), pp. 123–129
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (84)
+Hahn et al. 1999
+W.C Hahn, C.M Counter, A.S Lundberg, R.L Beijersbergen, M.W Brooks, R.A Weinberg
+Creation of human tumor cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1486)
+Hanahan and Weinberg 2000
+D Hanahan, R.A Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12553)
+Heppner et al. 2001
+C Heppner, K.Y Bilimoria, S.K Agarwal, M Kester, L.J Whitty, S.C Guru, S.C Chandrasekharappa, F.S Collins, A.M Spiegel, S.J Marx, A.L Burns
+The tumor suppressor protein menin interacts with NF-kappaB proteins and inhibits NF-kappaB-mediated transactivation
+Oncogene, 20 (2001), pp. 4917–4925
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (166)
+Jiang et al. 1999
+X.R Jiang, G Jimenez, E Chang, M Frolkis, B Kusler, M Sage, M Beeche, A.G Bodnar, G.M Wahl, T.D Tlsty, C.P Chiu
+Telomerase expression in human somatic cells does not induce changes associated with a transformed phenotype
+Nat. Genet., 21 (1999), pp. 111–114
+
+Full Text via CrossRef
+Kanaya et al. 2000
+T Kanaya, S Kyo, K Hamada, M Takakura, Y Kitagawa, H Harada, M Inoue
+Adenoviral expression of p53 represses telomerase activity through down-regulation of human telomerase reverse transcriptase transcription
+Clin. Cancer Res., 6 (2000), pp. 1239–1247
+
+View Record in Scopus | Cited By in Scopus (166)
+Kim et al. 1994
+N.W Kim, M.A Piatyszek, K.R Prowse, C.B Harley, M.D West, P.L Ho, G.M Coviello, W.E Wright, S.L Weinrich, J.W Shay
+Specific association of human telomerase activity with immortal cells and cancer
+Science, 266 (1994), pp. 2011–2015
+
+View Record in Scopus | Cited By in Scopus (4770)
+Kyo and Inoue 2002
+S Kyo, M Inoue
+Complex regulatory mechanisms of telomerase activity in normal and cancer cells: how can we apply them for cancer therapy?
+Oncogene, 21 (2002), pp. 688–697
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (108)
+Lee et al. 1998
+H.W Lee, M.A Blasco, G.J Gottlieb, J.W Horner 2nd, C.W Greider, R.A DePinho
+Essential role of mouse telomerase in highly proliferative organs
+Nature, 392 (1998), pp. 569–574
+
+View Record in Scopus | Cited By in Scopus (805)
+Liu et al. 2000
+D Liu, X Yang, D Yang, Z Songyang
+Genetic screens in mammalian cells by enhanced retroviral mutagens
+Oncogene, 19 (2000), pp. 5964–5972
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (23)
+Lusky and Botchan 1981
+M Lusky, M Botchan
+Inhibition of SV40 replication in simian cells by specific pBR322 DNA sequences
+Nature, 293 (1981), pp. 79–81
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (32)
+Mason 2003
+P.J Mason
+Stem cells, telomerase and dyskeratosis congenita
+Bioessays, 25 (2003), pp. 126–133
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (51)
+Marx et al. 1998
+S Marx, A.M Spiegel, M.C Skarulis, J.L Doppman, F.S Collins, L.A Liotta
+Multiple endocrine neoplasia type 1: clinical and genetic topics
+Ann. Intern. Med., 129 (1998), pp. 484–494
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (208)
+McEachern et al. 2000
+M.J McEachern, A Krauskopf, E.H Blackburn
+Telomerase and their control
+Annu. Rev. Genet., 34 (2000), pp. 331–335
+
+View Record in Scopus
+Meyerson et al. 1997
+M Meyerson, C.M Counter, E.N Eaton, L.W Ellisen, P Steiner, S.D Caddle, L Ziaugra, R.L Beijersbergen, M.J Davidoff, Q Liu et al.
+hEST2, the putative human telomerase catalytic subunit gene, is up-regulated in tumor cells and during immortalization
+Cell, 90 (1997), pp. 785–795
+
+Article |  PDF (283 K) | View Record in Scopus | Cited By in Scopus (1379)
+Minamino et al. 2001
+T Minamino, S.A Mitsialis, S Kourembanas
+Hypoxia extends the life span of vascular smooth muscle cells through telomerase activation
+Mol. Cell. Biol., 21 (2001), pp. 3336–3342
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (107)
+Morales et al. 1999
+C.P Morales, S.E Holt, M Ouellette, K.J Kaur, Y Yan, K.S Wilson, M.A White, W.E Wright, J.W Shay
+Absence of cancer-associated changes in human fibroblasts immortalized with telomerase
+Nat. Genet., 1 (1999), pp. 115–118
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (551)
+Nakamura et al. 1997
+T.M Nakamura, G.B Morin, K.B Chapman, S.L Weinrich, W.H Andrews, J Lingner, C.B Harley, T.R Cech
+Telomerase catalytic subunit homologs from fission yeast and human
+Science, 277 (1997), pp. 955–959
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1657)
+Oh et al. 2000
+S Oh, Y.-H Song, J Yim, T.K Kim
+Identification of Mad as a repressor of the human telomerase (hTERT) gene
+Oncogene, 19 (2000), pp. 1485–1490
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (127)
+Oshimura and Barrett 1997
+M Oshimura, J.C Barrett
+Multiple pathways to cellular senescence: role of telomerase repressors
+Eur. J. Cancer, 33 (1997), pp. 710–715
+
+Article |  PDF (722 K) | View Record in Scopus | Cited By in Scopus (61)
+Ouellette et al. 2000
+M Ouellette, M Liao, B.S Herbert, M Johnson, S.E Holt, H.S Liss, J.W Shay, W.E Wright
+Subsenescent telomere lengths in fibroblasts immortalized by limiting amounts of telomerase
+J. Biol. Chem., 275 (2000), pp. 10072–10076
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (160)
+Reardon and Hung 1993
+D.B Reardon, M.-C Hung
+Downstream signal transduction defects that suppress transformation in two revertant cell lines expressing activated rat neu oncogene
+J. Biol. Chem., 268 (1993), pp. 18136–18142
+
+View Record in Scopus | Cited By in Scopus (4)
+Rudolph et al. 1999
+K.L Rudolph, S Chang, H.W Lee, M Blasco, G.J Gottlieb, C Greider, R.A DePinho
+Longevity, stress response, and cancer in aging telomerase-deficient mice
+Cell, 96 (1999), pp. 701–712
+
+Article |  PDF (641 K) | View Record in Scopus | Cited By in Scopus (807)
+Rufer, et al. 2001
+N Rufer, M Migliaccio, J Antonchuk, R.K Humphries, E Roosnek, P.M Lansdorp
+Transfer of the human telomerase reverse transcriptase (TERT) gene into T lymphocytes results in extension of replicative potential
+Blood, 98 (2001), pp. 597–603
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (115)
+Shay and Bacchetti 1997
+J.W Shay, S Bacchetti
+A survey of telomerase activity in human cancer
+Eur. J. Cancer, 33 (1997), pp. 787–791
+
+Article |  PDF (427 K) | View Record in Scopus | Cited By in Scopus (1644)
+Simonsen et al. 2002
+J.L Simonsen, C Rosada, N Serakinci, J Justesen, K Stenderup, S.I Rattan, T.G Jensen, M Kassem
+Telomerase expression extends the proliferative life-span and maintains the osteogenic potential of human bone marrow stromal cells
+Nat. Biotechnol., 20 (2002), pp. 592–596
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (394)
+Sood et al. 2002
+A.K Sood, J Coffin, S Jabbari, R.E Buller, M.J Hendrix, A Klingelhutz
+p53 Null Mutations are Associated with a Telomerase Negative Phenotype in Ovarian Carcinoma
+Cancer Biol. Ther., 1 (2002), pp. 511–517
+
+View Record in Scopus | Cited By in Scopus (13)
+Stampfer et al. 2001
+M.R Stampfer, J Garbe, G Levine, S Lichtsteiner, A.P Vasserot, P Yaswen
+Expression of the telomerase catalytic subunit, hTERT, induces resistance to transforming growth factor beta growth inhibition in p16INK4A(-) human mammary epithelial cells
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 4498–4503
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (101)
+Stewart and Weinberg 2000
+S.A Stewart, R.A Weinberg
+Telomerase and human tumorigenesis
+Semin. Cancer Biol., 10 (2000), pp. 399–406
+
+Article |  PDF (144 K) | View Record in Scopus | Cited By in Scopus (107)
+Stewart and Weinberg 2002
+S.A Stewart, R.A Weinberg
+Senescence: does it all happen at the ends?
+Oncogene, 21 (2002), pp. 627–630
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (55)
+Stewart et al. 2003
+S.A Stewart, I Ben-Porath, V.J Carey, B.F O'Connor, W.C Hahn, R.A Weinberg
+Erosion of the telomeric single-strand overhang at replicative senescence
+Nat. Genet., 33 (2003), pp. 492–496
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (215)
+Takakura et al. 1999
+M Takakura, S Kyo, T Kanaya, H Hirano, J Takeda, M Yutsudo, M Inoue
+Cloning of human telomerase catalytic subunit (hTERT) gene promoter and identification of proximal core promoter sequences essential for transcriptional activation in immortalized and cancer cells
+Cancer Res., 59 (1999), pp. 551–557
+
+View Record in Scopus | Cited By in Scopus (441)
+Tissenbaum and Guarente 2001
+H.A Tissenbaum, L Guarente
+Increased dosage of a sir-2 gene extends lifespan in Caenorhabditis elegans
+Nature, 410 (2001), pp. 154–155
+
+Vaziri et al. 2001
+H Vaziri, S.K Dessain, E Ng Eaton, S.I Imai, R.A Frye, T.K Pandita, L Guarente, R.A Weinberg
+hSIR2SIRT1 functions as an NAD-dependent p53 deacetylase
+Cell, 107 (2001), pp. 149–159
+
+Article |  PDF (392 K) | View Record in Scopus | Cited By in Scopus (1274)
+Vulliamy et al. 2001
+T Vulliamy, A Marrone, F Goldman, A Dearlove, M Bessler, P.J Mason, I Dokal
+The RNA component of telomerase is mutated in autosomal dominant dyskeratosis congenita
+Nature, 413 (2001), pp. 432–435
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (548)
+Wang et al. 1998
+J Wang, L.Y Xie, S Allan, D Beach, G.J Hannon
+Myc activates telomerase
+Genes Dev., 12 (1998), pp. 1769–1774
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (478)
+Wong et al. 2003
+K.K Wong, R.S Maser, R.M Bachoo, J Menon, D.R Carrasco, Y Gu, F.W Alt, R.A DePinho
+Telomere dysfunction and Atm deficiency compromises organ homeostasis and accelerates aging
+Nature, 421 (2003), pp. 643–648
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (240)
+Wright et al. 1989
+W.E Wright, O.M Pereira-Smith, J.W Shay
+Reversible cellular senescence: implications for immortalization of normal human diploid fibroblasts
+Mol. Cell. Biol., 9 (1989), pp. 3088–3092
+
+View Record in Scopus | Cited By in Scopus (263)
+Xu et al. 2000
+D Xu, Q Wang, A Gruber, M Bjorkholm, Z Chen, A Zaid, G Selivanova, C Peterson, K.G Wiman, P Pisa
+Downregulation of telomerase reverse transcriptase mRNA expression by wild type p53 in human tumor cells
+Oncogene, 19 (2000), pp. 5123–5133
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (171)
+Xu et al. 2001
+D Xu, N Popov, M Hou, Q Wang, M Bjorkholm, A Gruber, A.R Menkel, M Henriksson
+Switch from Myc/Max to Mad1/Max binding and decrease in histone acetylation at the telomerase reverse transcriptase promoter during differentiationof HL60 cells
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 3826–3831
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (221)
+Yang et al. 2001
+H Yang, S Kyo, M Takatura, L Sun
+Autocrine transforming growth factor beta suppresses telomerase activity and transcription of human telomerase reverse transcriptase in human cancer cells
+Cell Growth Differ., 12 (2001), pp. 119–127
+
+View Record in Scopus | Cited By in Scopus (66)
+Zhu et al. 1999
+J Zhu, H Wang, J.M Bishop, E.H Blackburn
+Telomerase extends the lifespan of virus-transformed human cells without net telomere lengthening
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 3723–3728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (309)

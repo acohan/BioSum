@@ -1,0 +1,625 @@
+Genome-based cancer therapeutics: targets, kinase drug resistance and future strategies for precision oncology
+Paul Workman E-mail the corresponding author, Bissan Al-Lazikani, Paul A Clarke
+ Show more
+DOI: 10.1016/j.coph.2013.06.004
+Get rights and content
+Highlights
+•
+Genome-based cancer therapeutics and precision oncology.
+•
+Cancer drug targets.
+•
+Kinase inhibitors.
+•
+Drug resistance.
+•
+Combinatorial therapy.
+Extraordinary progress has been made in our detailed understanding of the genetic and epigenetic mechanisms responsible for oncogenesis and cancer progression. Empowered by next-generation sequencing, many new targets and pathways have been identified to exploit oncogene and non-oncogene addiction and synthetic lethality. Kinase inhibitors feature strongly in the druggable cancer genome and 19 have been approved in oncology. While survival gains are valuable, drug resistance has emerged as the major challenge. The clonal heterogeneity and evolution of cancers is an intrinsic problem, together with feedback loops, kinase switching and activation of alternative targets and pathways. The solution to drug resistance will require the use of rationally targeted combinational regimens. The application of adaptive treatment cycles based on ongoing multi-technology profiling will be the key to long-term therapeutic success.
+
+Current Opinion in Pharmacology 2013, 13:486–496
+
+This review comes from a themed issue on Cancer
+
+Edited by Massimo Santoro and Francesca Carlomagno
+
+For a complete overview see the Issue and the Editorial
+
+Available online 28th June 2013
+
+1471-4892/$ – see front matter, © 2013 Elsevier Ltd. All rights reserved.
+
+http://dx.doi.org/10.1016/j.coph.2013.06.004
+
+Introduction
+The 200 or so diseases classified as cancer represent a major and rising global health burden, with 12.7 million newly diagnosed cases and more than 7.5 million deaths each year; thus development of new improved cancer therapies is one of a number of important recommendations proposed recently by an international group to meet the urgent unmet medical need [1]. Until the last decade or so, drug treatment for cancer was dominated by cytotoxic agents which proved effective in malignancies such as childhood leukaemia, testicular and breast cancer but relatively ineffective in others, such as lung, pancreatic, brain and oesophageal tumours, even with drug combinations [2 and 3]. More recently, the balance has shifted overwhelmingly to the discovery and development of molecular therapeutics targeted to the genomic and other molecular abnormalities in cancer, offering the promise of greater efficacy and therapeutic selectivity — an approach referred to as ‘drugging the cancer genome’ [4].
+
+While impressive and durable responses are obtained with certain molecularly targeted drugs — most notably the iconic examples of the monoclonal antibody trastuzumab in breast cancers with amplification of the pathogenic HER2/ERBB2 receptor tyrosine kinase target and the small-molecule imatinib that inhibits the translocated BCR-ABL driver tyrosine kinase in chronic myeloid leukaemia (CML) — in most cases the responses to single agent molecular cancer therapeutics are relatively short-lived and intrinsic or acquired drug resistance is now seen as the major obstacle in targeted cancer therapy, just as it has been with cytotoxic agents [5 and 6].
+
+In this short article we will describe progress with the current approaches to targeting the cancer genome, review recent findings on resistance to molecularly targeted cancer drugs, assess the molecular mechanisms involved, and discuss circumvention strategies for clinical application. The focus will be on protein kinase inhibitors, reflecting the strong development emphasis and wealth of research on these agents. First we need to assess the current status of the molecular basis of cancer, which increasingly underpins rational approaches to detection, diagnosis and treatment.
+
+Lessons from the cancer genome
+A major advance in the understanding and therapeutic targeting of malignancies has come from the comprehensive and ongoing sequencing of thousands of cancer genomes. Two recent articles have provided excellent overviews of the genomic landscape of human cancers and summarized the lessons learned to date [7•• and 8••]. Generally, the landscape comprises a relatively small proportion of ‘mountains’ — genes altered in a large proportion of malignancies — and a far greater percentage of ‘hills’ — genes that are mutated less frequently. Around 140 genes have now been identified that encode proteins which when activated by intragenic mutation are able to cause or ‘drive’ cancer formation and progression. Tumours typically harbour ∼2–8 of these pathogenic drivers that in turn control 12 key biochemical pathways regulating the core cellular processes of cell fate and survival along with genome maintenance [7••]. The 140 cancer genes represent a variety of molecular functions (Figure 1a), the most common class being enzymes (36%) — half of which are kinases (18%) — followed by transcription factors and regulators (30%). The eventual total number of cancer drivers is expected to be much higher. Thus the COSMIC database ([9] http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/) reports thousands of genes mutated in cancer, while the manually curated Cancer Gene Census [10] lists almost 500 genes with mutations or other genomic abnormalities that are causally associated with malignancy. In addition, non-oncogenes play a role in cancer through mechanisms other than mutation [11].
+
+Full-size image (61 K)
+Figure 1. 
+The cancer genome and druggable cancer genome landscapes. (a) Functional classes of the protein products of 140 cancer genes that are activated by intragenic mutation to drive oncogenesis [7••]. Kinases account for 18%, while enzymes as a whole comprise 36%. (b) Functional classes of 132 druggable cancer proteins from among the 479 cancer genes assessed in Ref. [18], where kinases account for the higher proportion of 57%. (c) Druggable cancer proteins that are assigned as such because they are already drug targets (24 proteins, set shown in purple), have published active drug-like small molecules (86, set shown in green) or have 3D structures containing strictly druggable cavities (103, set shown in blue). A group of 46 proteins have druggable 3D structures but have few or no published compounds and are therefore of considerable immediate interest for drug discovery [18].
+Figure options
+Proteins encoded by cancer genes are known to affect not only cell signalling for proliferation, survival and DNA repair but also epigenomic and chromatin regulation, RNA splicing, protein homeostatsis, metabolism and lineage maturation [8••]. Exhaustive molecular profiling powered by increasingly affordable next-generation sequencing is providing us with an extremely detailed understanding of how cancer is driven by a network of genes that are hijacked by mutation, copy number variation, epigenetic alteration or deregulated expression. In addition, microRNAs are now recognised to play an important role in cancer pathogenesis [12]. A large-scale study has shed mechanistic light on the role of microRNAs in breast cancer, in particular modulating gene expression and the immune response [13]. A recent analysis using large datasets of genomic and clinical information has shown that survival predictions for breast cancer patients can be improved by multidimensional modelling employing machine learning methods that outperformed current best-in-class predictions [14].
+
+The dependencies and vulnerabilities created by the activities of oncogenes and non-oncogenes in cancer provide the basis for modern targeted therapies, exploiting processes such as oncogene and non-oncogene addiction and synthetic lethality [11, 15, 16 and 17•]. Increasingly detailed molecular analysis of cancers continues to inform the selection of drug targets. However, despite the almost overwhelming flood of data from genome sequencing and other omics profiling approaches — requiring systematic computational analysis to enable biological understanding — the assessment and prioritization of genes for target validation and therapeutic exploitation has remained largely ad hoc.
+
+A recent publication has described the first systematic, objective, large-scale, multidisciplinary, computational assessment of cancer genes for drug discovery [18••]. The authors analyzed 479 unique genes taken from the Cancer Gene Census (see earlier [10]). The results provide a valuable and comprehensive overview of the current and future potential druggability of the cancer genome. The products of many oncogenes — including critical genes such as MYC — remain stubbornly intractable to current small-molecule approaches because they lack ligand-binding ‘pockets’ in the cognate protein, emphasizing the importance of expanding the current limits of druggability. However, the large-scale objective assessment — which exploited the canSAR integrated knowledgebase ([19] https://cansar.icr.ac.uk/) — identified as many as 132 cancer genes (28% of the total) that encode proteins known or predicted to be druggable using chemical and protein structure-based criteria. Compared to the 25% of all cancer genes in this study that are enzymes, a much higher proportion of 57% of the druggable cancer proteins are enzymes, reflecting the druggability of these catalytic proteins with substrate-binding pockets (Figure 1b). Of the 132 proteins, 103 have structures containing predicted druggable cavities, as defined by strict criteria for orally administered drugs (Figure 1c) [18••]. This set of potential drug targets could be further expanded to 240 by relaxing the druggability criteria to include targets at the edge of druggable space using the less stringent definition of ‘tractability’.
+
+Remarkably, the 132 strictly druggable cancer proteins include 46 for which few or no chemical structures have been published (Figure 1c). These oncoproteins provide potentially very attractive drug targets suitable for immediate drug discovery. To be emphasized is that the large-scale objective assessment method does not replace in-depth target validation but rather provides a systematic prioritization methodology that can be applied at genome-scale to any gene list, for example arising from sequencing projects or RNA interference screens.
+
+Drugging the cancer kinome
+The first known oncogene, SRC, is a protein tyrosine kinase identified from research on a chicken cancer virus in the 1970s [2]. Protein kinases and the PI3 lipid kinase family now represent a major focus of drug discovery and development in oncology [20]. A total of 26 small-molecule kinase inhibitors have received regulatory approval, 19 for cancer indications, together with four monoclonal antibodies in oncology. Although a large proportion of pharmaceutical industry effort is focused, in descending order of priority, on VEGF/VEGFR, PI3 kinase, HER2, mTOR, EGFR, MET, PDGF/PDGFR and KIT, a recent analysis based on canSAR [19] and ChEMBL knowledgebases ([21] http://www.ebi.ac.uk/chembl/) estimated that ∼395 kinase inhibitors are currently in clinical trials — with approximately 33% of these being developed as cancer drugs [22]. The 395 agents were estimated to act on around 100 primary kinase targets, many inhibiting >1 kinase. Forty-two known or possible kinase targets with oncogenic mutations have been identified [18••] (Figure 1a). The potential is even greater given that only a restricted set of the 518 human protein kinome has been annotated functionally with small-molecule selective inhibitors, leading to the call for public-private partnerships to enhance innovation and reduce duplication in the kinase space [23 and 24]. However, a total of 207 human kinases already have compounds active at <50 nm [19] indicating that at least some of the considerable future potential may be realized quite soon.
+
+The approval of the EGFR kinase inhibitors gefitinib and erlotinib in non small cell lung cancer (NSCLC) was an important milestone for the treatment of solid tumours using molecularly targeted small-molecule drugs, especially with the recognition that the 15–30% of NSCLCs with driver mutations in EGFR are more strongly responsive [25 and 26]. Particularly worthy of highlighting from more recent approvals are vemurafenib for the treatment of lethal metastatic melanoma skin cancers driven by V600E mutations in BRAF [27••] and crizotinib for the treatment of NSCLCs harbouring driver ALK gene rearrangements [28••]. These represent major breakthroughs in the treatment of previously unresponsive cancers. Of note, the approvals came with a label requiring the use of the companion molecular diagnostic [22]. In May 2013 the BRAF inhibitor dabrafenib was approved for V600E BRAF melanomas and in addition trametinib, which inhibits the downstream target MEK, was approved for both V600E and V600K melanomas (http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm354199.htm).
+
+Resistance to kinase inhibitors
+As highlighted earlier, while a number of molecular therapeutics — including many kinase inhibitors following on from imatinib for CML — have extended life sufficiently to gain regulatory approval in solid tumours, the responses have usually not proved to be very durable, with survival extended by only a few months before resistance develops. Following the initial discovery of BCR-ABL kinase inhibitor-resistant alleles that were detected after treatment with imatinib — including ATP-site gatekeeper mutants with reduced drug binding [29] — there has been a dramatic increase in our understanding of the molecular mechanisms of resistance to kinase inhibitors. Multiple diverse mechanisms have been elucidated by a variety of approaches, including gene, exome and genome sequencing of tumours directly from cancer patients, molecular analysis of resistance developed in model systems, and large-scale RNA interference screens [5 and 6]. Important to note is that the identification of resistance mechanisms, especially resistant kinase target alleles, provides definitive evidence for the pathogenic role of the target in human cancer.
+
+Resistance to EGFR tyrosine kinase inhibitors gefitinib and erlotinib in NSCLC provides a useful paradigm for the multiple molecular mechanisms that can arise in cancers. Often this involves selection for mechanisms that allow addiction to the original canonical EGFR signalling pathway(s) to be maintained, which is a common pattern — also for example applying to anti-androgens such as the recently approved abiraterone [30••] — whereas in other cases diverse alternative molecular and cellular workarounds are observed. Resistance mechanisms for EGFR inhibitors reviewed recently [22 and 31] include the T790M second-site EGFR target gatekeeper mutation that attenuates inhibitor binding; amplification of the resistant allele; switching to an alternative tyrosine kinase or receptor dimerization via amplification of MET; increased expression of AXL tyrosine kinase or its GAS6 ligand; and activating mutations of the PIK3CA gene encoding the downstream p110α PI3 kinase. NF-κB signalling has been suggested as an alternative resistance mechanism by reducing drug-induced apoptosis [ 32].
+
+Alternatively, resistance to EGFR kinase inhibitors can be associated with phenotypic heterogeneity, including morphological conversion from the NSCLC to the tyrosine kinase inhibitor-resistant small cell lung cancer type [33 and 34]. The epithelial–mesenchymal transition (EMT) has also been reported as a resistance mechanism to EGFR tyrosine kinase inhibitors in NSCLC, potentially involving signalling via AXL, TGFβ, Notch, Snail family transcription factors and tumour–stromal interactions [22 and 33]. Depending on the mechanism of resistance observed, a range of treatment opportunities can be used to attack the new resistant tumour state. These include alternative EGFR inhibitors with greater target potency, such as the irreversible agent afatinib which is now undergoing clinical trial [35]; inhibitors of MET, AXL, the PI3 kinase pathway or IKKB [22]; application of small cell lung cancer (SCLC) phenotype-based cytotoxic chemotherapy; or drugs acting on EMT cells [36 and 37•].
+
+Over the last two years, elucidation of resistance mechanisms to inhibitors of BRAF has progressed fast on the heels of those for BCR-ABL and EGFR drugs [38]. BRAF was the first oncogene to be identified by cancer genome resequencing in 2002 [39] and the first BRAF inhibitor was approved for V600E mutant melanoma in 2011 [27••]. Despite impressive responses, resistance is seen after a few months in most patients and around 20% of melanoma and the majority of colorectal and thyroid cancer patients show innate resistance. A series of papers rapidly identified multiple resistance mechanisms, including amplification of mutant BRAF, expression of truncated BRAF mutant protein, increased expression of CRAF, mutations in RAS and MEK, loss of the RAS inhibitory protein NF1/neurofibrin, expression of MAP3K8/COT, loss of PTEN expression, and hyperactivation of the PI3 kinase pathway [38]. In addition, resistance can be mediated by treatment-induced feedback activation of receptor tyrosine kinases (RTKs; e.g. EGFR, HER2/HER3, PDGF receptor, IGF-1 receptor and MET). RTK signalling explains the general lack of sensitivity of BRAF mutant colorectal and thyroid cancers [40• and 41].
+
+The various resistance mechanisms identified suggest alternative therapeutic approaches, including the use of combinations of BRAF inhibitors with inhibitors of RTKs and MEK, such as the dabrafenib plus trametinib BRAF/MEK combination, which shows clinical promise [42•]. A recent study shows that vemurafenib-resistant tumours can become dependent on the drug for continued growth and that responses can be seen on drug discontinuation [43•]. This suggests clinical studies with discontinuous dosing to exploit the fitness disadvantage of resistant cells in the absence of drug and to delay or prevent the onset of lethal resistance. The findings emphasize the importance of considering population dynamics and creative dosing regimens in managing drug resistance [44••].
+
+Alteration to feedback loops as seen with BRAF and EGFR inhibitors appears to be common mechanism of resistance, as shown by the extensive dynamic reprogramming of the kinome following MYC depletion in response to MEK inhibition in triple negative breast cancer cells, once again reinforcing the importance of kinase inhibitor combinations [45]. In addition, inhibition of the transcription factor BCL6 has potential to overcome resistance to RTK treatment by blocking a key feedback loop in leukaemia-initiating cells [46]. Combinations of PI3 kinase/AKT and MEK inhibitors have been shown to be highly effective in experimental model cancers where both pathways are activated and have the advantage of overcoming adverse pathway feedback changes and inducing robust apoptosis and growth inhibition of tumours, including those driven by mutant RAS and BRAF [47 and 48]. Combined inhibition of PI3 kinase and the androgen receptor overcomes reciprocal feedback in PTEN-deficient prostate cancer cells [49].
+
+Especially given their frequency, overcoming drug resistance in mutant RAS tumours is a particularly demanding and urgent challenge. There have been issues and limitations with the outputs from previous synthetic lethal RNA interference screens. A recent study identified the importance of the GATA2 transcriptional network in RAS oncogene-driven NSCLC and suggested effective combinations targeting the proteasome together with IL-1 and Rho-signalling [50•].
+
+Yet another approach to overcome resistance to inhibitors of EGFR, BRAF and also other oncogenic kinases such as ALK is the use of HSP90 molecular chaperone inhibitors such as AUY922 and STA-990 or ganetesbib [51]. These agents are able to circumvent resistance to inhibitors of the target kinase, either because the resistant allele remains dependent on HSP90 in a similar way to the wildtype form or to the often even more chaperone-dependent oncogenically activated form, and/or because alternative resistance mechanisms may also rely on signalling players, especially kinases, that are themselves HSP90 clients [52•]. Thus HSP90 inhibitors can be seen as the first ‘network biology’ drugs for cancer, with potential to overcome, or even prevent, multiple mechanisms of resistance.
+
+The established value of very large cell line panels in identifying genetic and lineage mechanisms was exemplified at massive scale in two publications [53•• and 54••]. High-throughput combination drug screening identified genotype-selective combination therapies for melanoma, including dual EGFR and AKT inhibition which sensitized treatment-resistant BRAF mutant melanoma cultures to vemurafenib [55].
+
+Clonal heterogeneity and evolution
+The clonal heterogeneity and Darwinian evolutionary behaviour of cancers, involving step-wise somatic cell mutations with sequential subclonal selection, has long been recognised [44•• and 56]. However, clonal evolution within cancers has been brought into even sharper focus recently as a result of more sophisticated molecular and genomic analysis and the recognition of the key role of oligoclonal diversity and clonal selection in the development of resistance, with respect to both leukaemias and solid tumours [57• and 58•].
+
+To illustrate important concept of clonal evolution and the therapeutic consequences, Figure 2 shows a hypothetical but representative cancer in which clonal heterogeneity develops under the Darwinian selection pressure on cell fitness within the tumour ecosystem, and especially under the additional selective pressure imposed by drug treatment. In the example shown, cells variously referred to as founder stem cells, self-renewing cells or early tumour progenitor cells — which have the potential to repopulate the cancer — may be treated with inhibitors of histone deacetylase or other epigenetic regulators, such as additional chromatin-modifying enzymes and potentially also the emerging bromodomain inhibitors that are active in MYC-driven cancers [59 and 60], or with inhibitors of the WNT pathway. This approach is based on the observation that such agents can alter cellular reprogramming and thereby overcome resistance or reversible ‘tolerance’, as exemplified with histone deacetylase inhibitors in model systems [61 and 62].
+
+Full-size image (71 K)
+Figure 2. 
+Schematic representation of clonal heterogeneity and evolution of cancer cells in response to selective pressure from factors including drug treatment. In this example, histone deacetylase (HDAC) inhibitors and possibly other epigenetically targeted agents may potentially be used to treat early clones with characteristics of founder stem cells, self-renewing cells or early tumour progenitor cells. Kinase inhibitors (Ki) that target key driver kinases (e.g. Ki 1) can be used to kill tumour cells which are dependent on these kinases. Resistant clones that emerge can be treated with alternative kinase inhibitors (e.g. Ki 2 or 3) that can overcome resistance mechanisms such as mutated target alleles or feedback loops involving other kinase targets. Next, molecular chaperone HSP90 inhibitors can be used to deplete oncoprotein HSP90 clients in cases where the resistant kinase allele remains dependent on HSP90 or where alternative bypass mechanisms or feedback loops involve HSP90 client proteins; HSP90 inhibitors have the advantage of targeting multiple oncogenic players and pathways. Eventually, multi-drug resistant clones will emerge that require treatment with drug combinations that attack multiple pathways, or with novel targeted drugs. The treatment sequence shown is hypothetical and representative of many possible approaches, including the use of earlier combinations as front-line treatment to overcome, delay or prevent resistance.
+Figure options
+Assuming that the predominant clone or clones in the cancer are driven by an oncogenic kinase (as shown in Figure 2), another critical early treatment would be with an inhibitor of this driver kinase which should arrest or kill cancer cells that are addicted to it. Resistant cells that emerge should be sensitive to alternative kinase inhibitors that are able to overcome the predominant resistant mechanisms, which may involve mutation of the original kinase target or the activation of alternative kinases through kinase switching or feedback loops (see earlier). Ongoing resistance to kinases may still be overcome by the use of HSP90 inhibitors, as also described herein. It is likely that clones will eventually emerge that are increasingly resistant to multiple drugs — these might be termed multi-drug resistant (note that such multi-agent resistance is mechanistically distinct from that due to expression of the P-glycoprotein/MDR1 efflux pump). Tumours in this state of evolution might be rescued by drug combinations targeted to the genotype and phenotype of the resistant tumour state. Alternatively, developmental drugs acting on relevant novel targets could be tried. A recent study identified MED12, a component of the mediator transcriptional adaptor complex, as the mechanism, through TGFβ signalling, of broad resistance to targeted kinase inhibitors as well as to chemotherapy agents, and further suggested use of TGFβ inhibitors to restore sensitivity [37•].
+
+It should be emphasized that the example shown Figure 2 is illustrative of many different potential approaches. In particular, it can be argued that the drugs described above (and others) should be used in combination treatments given as front-line therapy, rather than employing them sequentially, in an attempt to eradicate all of the existing tumour cell populations and to reduce the likelihood of new resistant clones arising. However, laboratory and clinical studies are required to compare the effectiveness of these different approaches.
+
+Concluding remarks and future prospects
+The last two years have seen remarkable continuing advances in our understanding of human cancer biology, accelerated by encyclopaedic genomics profiling via next-generation sequencing, which in turn empowers rapid identification of new diagnostic biomarkers and drug targets, not only readily actionable driver kinases but also other functional target classes [18••] that are druggable, including of note proteins involved in epigenetic deregulation and tumour metabolism. The promise of synthetic lethal approaches is exemplified by the frequent durable clinical activity of PARP inhibitors in BRCA-mutant breast and ovarian cancers [63] with potential also in prostate cancer [64].
+
+As an example of the rapid and unexpected translational progress now achievable, the surprising first discovery of gain-of-function pathogenic driver mutations (specifically in paediatric glioblastoma) in genes encoding the regulatory histone 3 variant H3.3, published in April 2012 [65•], was followed within a year by the molecular elucidation of the mechanisms underpinning the mutations, involving firstly, changes in histone lysine trimethylation binding and inhibition of the Polycomb repressive complex 2 through interaction with the EZH2 subunit [66] and secondly, also the upregulation of oncogenic MYCN expression [67•]. This latter observation was coupled with the rapid discovery, through a synthetic lethal RNA interference screen targeting protein kinases, of Aurora A and CHK1 as targets of existing kinase inhibitors that could be used in combination to treat this devastating disease, in the latter case by decreasing the stability of MYCN [67•].
+
+Equally dramatic has been the rapidly increasing realization that although targeted therapeutics employed in molecularly stratified patient populations can be very effective, with the potential to complement or even eventually perhaps to replace one-size-fits-all cytotoxics, the development of drug resistance, especially through clonal selection and biochemical feedback loops, will remain an enduring challenge to be overcome. While the cataloguing and functional annotation of cancer genes must proceed to completion, at the same time future tumour biology studies must focus on understanding cancer as problem of aberrant gene networks and, moreover, also as a dynamic and evolving ecosystem involving both malignant and normal cells, including immune and inflammatory components. Indeed recent progress and drug approvals have emphasized the potential of immune agents, such as ipilimumab in metastatic melanoma [68••].
+
+Also in parallel, discovery of new molecular cancer therapeutics requires completion of drugging the cancer genome — which necessitates extending the envelope of druggability — and fully exploiting opportunities for attacking addictions, synthetic lethalities and other tumour vulnerabilities, yet at the same time searching for more druggable targets that would act on or exploit less druggable nodes and devising creative strategies to overcome or prevent drug resistance.
+
+While evidence-based medicine remains critical, creative hypothesis-testing biomarker-led clinical trials design are extremely important. Perceptive attention to response signals linked to a specific molecular feature in a small number of patients can be a useful pathfinder, as indicated by the recent interest in learning from exceptional outlier responses ([69 and 70] http://www.nature.com/news/cancer-researchers-revisit-failed-clinical-trials-1.12835).
+
+Both theoretical and emerging practical examples support the view that rational combinatorial therapy with targeted agents will be required to offer the best chance of dealing with drug resistance. These combinations can be identified by computational studies, candidate-based research, unbiased high-throughput screening also and next-generation sequencing carried out in both preclinical and clinical settings [5 and 6]. Figure 3 provides an example of combining different classes of molecular therapeutic agents acting not only on multiple targets but also exploiting different components of the cellular machinery to maximise cancer cell killing. The elements of these combinations can include kinase inhibitors, HSP90 inhibitors, epigenetic-modulating drugs and inhibitors of tumour metabolism targets such as IDH1 [71].
+
+Full-size image (108 K)
+Figure 3. 
+Representative examples of cellular pathways and processes that might be exploited in rational combinatorial therapy to overcome or prevent drug resistance. Resistance to inhibitors targeting receptor tyrosine kinases, protein kinase signalling and PI3K signalling can be overcome through combinations of agents targeting different oncogenic targets, such as kinases, together with modulators of major cellular processes that support malignancy (non-oncogene addiction) such as: stress response and protein degradation, as exemplified by HSP90 inhibitors; epigenetic regulators as exemplified by HDAC inhibitors or modulators of histone mark readers such as bromodomain BRD4 inhibitors; and metabolic process modulators such as inhibitors of IDH1.
+Figure options
+Looking to the future, Figure 4 provides a vision of how clinical combination therapy may increasingly be carried out within the next few years. Coupled with appropriately optimized surgery and radiation/cytotoxic drug therapy, initial molecular therapeutic drug combinations will be administered that are based on the detailed profiling of the cancer using genomic, morphological and imaging technologies and which address the major detectable liabilities together with any predictable resistance mechanisms. Subsequent longitudinal profiling will need be carried out so that the combinatorial therapy — which will progressively involve targeting all of the tumour hallmarks including the stress, microenvironmental and immune responses [11 and 72] — can be adapted in real time in response to the moving target of the evolving tumour biology. Such iterative treat-profile-adaptively retreat cycles, with appropriate dose schedules to optimally manage changes in the mutational and gene expression repertoire, cellular plasticity and subclonal dynamics [22, 33, 43• and 73•], will likely form the basis of future precision medicine strategies for chronic disease management that could continue for many years while not ignoring the potential for eventual cure. Ideally, combination treatment strategies need to be identified that drive tumour subclones down evolutionary blind alleys from which they are unable to return.
+
+Full-size image (53 K)
+Figure 4. 
+A vision of adaptive clinical combination therapy based on longitudinal patient profiling. Drug combinations will be informed by genomic and morphological profiling of individual tumours combined with advanced functional imaging techniques. Longitudinal profiling of drug resistant tumour cells that remain or arise after treatment will provide mechanistic insights into suitable new drug combinations. Therapy will be adapted in response to the changing profiles of the tumour and this iterative treat-profile-adaptively retreat cycle can form the basis for long-term chronic management of the disease. This chronic treatment might continue for many years. Other eventual outcomes would be cure or palliative treatment.
+Figure options
+Conflict of interest
+PW, BA-L, and PAC are employees of The Institute of Cancer Research, which has a commercial interest in the discovery and development of anticancer drugs, including kinase inhibitors, and operates a rewards to inventors scheme. PW is a former employee of AstraZeneca and declares relevant commercial interactions with Yamanouchi (now Astellas), Piramed Pharma (acquired by Roche), Genentech, Vernalis, Novartis, Chroma Therapeutics, Astex Pharmaceuticals, AstraZeneca, Cyclacel, Onyx Pharmaceuticals, Merck Serono, Sareum, Janssen, Wilex, and Nextech Ventures. BA-L is a former employee of Inpharmatica.
+
+References and recommended reading
+Papers of particular interest, published within the period of review, have been highlighted as:
+
+• of special interest
+•• of outstanding interest
+Acknowledgements
+PAC, BA-L and PW are grateful for major core support from Cancer Research UK (programme grant C309/A8725). PW is a Cancer Research UK Life Fellow. The authors acknowledge funding to The Institute of Cancer Research and the Royal Marsden Hospital as a Cancer Research UK Centre and from the National Institute of Health Research to our Biomedical Research Centre. We apologize to the authors of numerous excellent papers that could not be cited because of space constraints. We thank our many colleagues, collaborators and laboratory staff for valuable discussions. We thank Val Cornwell for excellent administrative support.
+
+References
+1
+H. Varmus, H.S. Kumar
+Addressing the growing international challenge of cancer: a multinational perspective
+Sci Transl Med, 5 (2013) 175cm172
+
+2
+H. Varmus
+The new era in cancer research
+Science, 312 (2006), pp. 1162–1165
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+3
+S. Mukherjee
+Emperor of All Maladies
+Scribner Book Company (2011)
+
+4
+T.A. Yap, P. Workman
+Exploiting the cancer genome: strategies for the discovery and clinical development of targeted molecular therapeutics
+Annu Rev Pharmacol Toxicol, 52 (2012), pp. 549–573
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+5
+L.A. Garraway, P.A. Janne
+Circumventing cancer drug resistance in the era of personalized medicine
+Cancer Discov, 2 (2012), pp. 214–226
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+6
+B. Al-Lazikani, U. Banerji, P. Workman
+Combinatorial drug therapy for cancer in the post-genomic era
+Nat Biotechnol, 30 (2012), pp. 679–692
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (63)
+7••
+B. Vogelstein, N. Papadopoulos, V.E. Velculescu et al.
+Cancer genome landscapes
+Science, 339 (2013), pp. 1546–1558
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (272)
+7••
+See annotation to Ref. [8••].
+
+8••
+L.A. Garraway, E.S. Lander
+Lessons from the cancer genome
+Cell, 153 (2013), pp. 17–37
+
+Article |  PDF (845 K) | View Record in Scopus | Citing articles (84)
+8••
+One of two comprehensive, up-to-date and insightful commentaries overviewing the genetic landscape of human cancers.
+
+9
+S.A. Forbes, N. Bindal, S. Bamford et al.
+COSMIC: mining complete cancer genomes in the Catalogue of Somatic Mutations in Cancer
+Nucleic Acids Res, 39 (2011), pp. D945–D950
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (519)
+10
+P.A. Futreal, L. Coin, M. Marshall et al.
+A census of human cancer genes
+Nat Rev Cancer, 4 (2004), pp. 177–183
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1057)
+11
+J. Luo, N.L. Solimini, S.J. Elledge
+Principles of cancer therapy: oncogene and non-oncogene addiction
+Cell, 136 (2009), pp. 823–837
+
+Article |  PDF (1103 K) | View Record in Scopus | Citing articles (516)
+12
+M.V. Iorio, C.M. Croce
+MicroRNA dysregulation in cancer: diagnostics, monitoring and therapeutics. A comprehensive review
+EMBO Mol Med, 4 (2012), pp. 143–159
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (156)
+13
+H. Dvinge, A. Git, S. Graf et al.
+The shaping and functional consequences of the microRNA landscape in breast cancer
+Nature, 497 (2013), pp. 378–382
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (22)
+14
+E. Bilal, J. Dutkowski, J. Guinney et al.
+Improving breast cancer survival analysis through competition-based multidimensional modeling
+PLoS Comput Biol, 9 (2013), p. e1003047
+
+Full Text via CrossRef
+15
+I.B. Weinstein, A. Joe
+Oncogene addiction
+Cancer Res, 68 (2008), pp. 3077–3080 discussion 3080
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (372)
+16
+R. Brough, J.R. Frankum, S. Costa-Cabral et al.
+Searching for synthetic lethality in cancer
+Curr Opin Genet Dev, 21 (2011), pp. 34–41
+
+Article |  PDF (533 K) | View Record in Scopus | Citing articles (39)
+17•
+R. Brough, J.R. Frankum, D. Sims et al.
+Functional viability profiles of breast cancer
+Cancer Discov, 1 (2011), pp. 260–273
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+17•
+Large-scale screening by RNA interference in >30 breast tumour cell lines exemplifies the ability of this approach to discover pharmacologically tractable genes required for viability in distinct molecular subclasses of cancer.
+
+18••
+M.N. Patel, M.D. Halling-Brown, J.E. Tym et al.
+Objective assessment of cancer genes for drug discovery
+Nat Rev Drug Discov, 12 (2013), pp. 35–50
+
+View Record in Scopus | Citing articles (17)
+18••
+First large-scale multidisciplinary computational assessment of the current and future potential druggability of the cancer genome.
+
+19
+M.D. Halling-Brown, K.C. Bulusu, M. Patel et al.
+canSAR: an integrated cancer public translational research and drug discovery resource
+Nucleic Acids Res, 40 (2012), pp. D947–D956
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+20
+J. Zhang, P.L. Yang, N.S. Gray
+Targeting cancer with small molecule kinase inhibitors
+Nat Rev Cancer, 9 (2009), pp. 28–39
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (710)
+21
+A. Gaulton, L.J. Bellis, A.P. Bento et al.
+ChEMBL: a large-scale bioactivity database for drug discovery
+Nucleic Acids Res, 40 (2012), pp. D1100–D1107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (365)
+22
+D. Gonzalez de Castro, P.A. Clarke, B. Al-Lazikani, P. Workman
+Personalized cancer medicine: molecular diagnostics, predictive biomarkers, and drug resistance
+Clin Pharmacol Ther, 93 (2013), pp. 252–259
+
+Full Text via CrossRef
+23
+S. Knapp, P. Arruda, J. Blagg et al.
+A public–private partnership to unlock the untargeted kinome
+Nat Chem Biol, 9 (2013), pp. 3–6
+
+24
+A.M. Edwards, R. Isserlin, G.D. Bader et al.
+Too many roads not taken
+Nature, 470 (2011), pp. 163–165
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+25
+J.G. Paez, P.A. Janne, J.C. Lee et al.
+EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy
+Science, 304 (2004), pp. 1497–1500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4894)
+26
+P.C. Zhou
+Erlotinib versus chemotherapy as first-line treatment for patients with advanced EGFR mutation-positive non-small-cell lung cancer (OPTIMAL, CTONG-0802): a multicentre, open-label, randomised, phase 3 study
+Lancet Oncol, 12 (2011)
+
+27••
+P.B. Chapman, A. Hauschild, C. Robert et al.
+Improved survival with vemurafenib in melanoma with BRAF V600E mutation
+N Engl J Med, 364 (2011), pp. 2507–2516
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1736)
+27••
+Clinical activity underpinning the approval of the BRAF inhibitor vemurafenib in V600E mutant malignant melanoma.
+
+28••
+A.T. Shaw, B.Y. Yeap, B.J. Solomon et al.
+Effect of crizotinib on overall survival in patients with advanced non-small-cell lung cancer harbouring ALK gene rearrangement: a retrospective analysis
+Lancet Oncol, 12 (2011), pp. 1004–1012
+
+Article |  PDF (249 K) | View Record in Scopus | Citing articles (286)
+28••
+Clinical study supporting the approval of the ALK inhibitor crizotinib in non-small cell lung cancer with ALK gene arrangements.
+
+29
+M.E. Gorre, M. Mohammed, K. Ellwood et al.
+Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification
+Science, 293 (2001), pp. 876–880
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2049)
+30••
+J.S. de Bono, C.J. Logothetis, A. Molina et al.
+Abiraterone and increased survival in metastatic prostate cancer
+N Engl J Med, 364 (2011), pp. 1995–2005
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (840)
+30••
+Clinical trial providing evidence for the approval of the CYP17 inhibitor abiraterone in late stage, castration-resistant prostate cancer.
+
+31
+S. Postel-Vinay, A. Ashworth
+AXL and acquired resistance to EGFR inhibitors
+Nat Genet, 44 (2012), pp. 835–836
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5)
+32
+T.G. Bivona, H. Hieronymus, J. Parker et al.
+FAS and NF-kappaB signalling modulate dependence of lung cancers on mutant EGFR
+Nature, 471 (2011), pp. 523–526
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+33
+L.V. Sequist, B.A. Waltman, D. Dias-Santagata et al.
+Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors
+Sci Transl Med, 3 (2011), p. 75ra26
+
+Full Text via CrossRef
+34
+N. Rekhtman, P.K. Paik, M.E. Arcila et al.
+Clarifying the spectrum of driver oncogene mutations in biomarker-verified squamous carcinoma of lung: lack of EGFR/KRAS and presence of PIK3CA/AKT1 mutations
+Clin Cancer Res, 18 (2012), pp. 1167–1176
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (86)
+35
+V.A. Miller, V. Hirsh, J. Cadranel et al.
+Afatinib versus placebo for patients with advanced, metastatic non-small-cell lung cancer after failure of erlotinib, gefitinib, or both, and one or two lines of chemotherapy (LUX-Lung 1): a phase 2b/3 randomised trial
+Lancet Oncol, 13 (2012), pp. 528–538
+
+Article |  PDF (372 K) | View Record in Scopus | Citing articles (164)
+36
+F. Nurwidya, F. Takahashi, A. Murakami, K. Takahashi
+Epithelial mesenchymal transition in drug resistance and metastasis of lung cancer
+Cancer Res Treat, 44 (2012), pp. 151–156
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+37•
+S. Huang, M. Holzel, T. Knijnenburg et al.
+MED12 controls the response to multiple cancer drugs through regulation of TGF-beta receptor signaling
+Cell, 151 (2012), pp. 937–950
+
+Article |  PDF (2041 K) | View Record in Scopus | Citing articles (45)
+37•
+Discovery through large-scale RNA interference screening that the MED12 component of the transcriptional mediator complex regulates the response to kinase inhibitors and cytotoxic drugs via control of TGF-β, suggesting the use of TGF-β inhibitors to restore drug sensitivity.
+
+38
+M.R. Girotti, R. Marais
+Deja Vu: EGF receptors drive resistance to BRAF inhibitors
+Cancer Discov, 3 (2013), pp. 487–490
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5)
+39
+H. Davies, G.R. Bignell, C. Cox et al.
+Mutations of the BRAF gene in human cancer
+Nature, 417 (2002), pp. 949–954
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3858)
+40•
+A. Prahallad, C. Sun, S. Huang et al.
+Unresponsiveness of colon cancer to BRAF(V600E) inhibition through feedback activation of EGFR
+Nature, 483 (2012), pp. 100–103
+
+Full Text via CrossRef
+40•
+Elucidation by large-scale RNA interference screening that the lack of sensitivity of V600E mutant colon cancer is a result of feedback activation of EGFR, suggesting the clinical evaluation of combinatorial BRAF and EGFR inhibition.
+
+41
+C. Montero-Conde, S. Ruiz-Llorente, J.M. Dominguez et al.
+Relief of feedback inhibition of HER3 transcription by RAF and MEK inhibitors attenuates their antitumor effects in BRAF-mutant thyroid carcinomas
+Cancer Discov, 3 (2013), pp. 520–533
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+42•
+K.T. Flaherty, J.R. Infante, A. Daud et al.
+Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations
+N Engl J Med, 367 (2012), pp. 1694–1703
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (384)
+42•
+Clinical evaluation of combinatorial treatment with BRAF and MEK inhibitors (dabrafenib and trametinib, respectively) in patients with V600E melanoma, indicating that this combination is well tolerated and showing promising progression-free survival; the combination has the potential to overcome some known mechanisms of resistance to selective BRAF inhibitors and block the skin tumours arising from the paradoxical activation of RAF signalling following BRAF inhibition.
+
+43•
+M. Das Thakur, F. Salangsang, A.S. Landman et al.
+Modelling vemurafenib resistance in melanoma reveals a strategy to forestall drug resistance
+Nature, 494 (2013), pp. 251–255
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+43•
+First evidence that melanomas that are resistant to the BRAF inhibitor vemurafenib can develop a dependence on the drug, so that drug withdrawal leads to tumour regression; supports clinical evaluation of discontinuous drug administration to limit drug resistance.
+
+44••
+M. Greaves, C.C. Maley
+Clonal evolution in cancer
+Nature, 481 (2012), pp. 306–313
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (267)
+44••
+Important review of heterogeneity and dynamic clonal evolution in cancer, emphasizing the Darwinian nature of the tumour ecosystem; provides an important conceptual framework for understanding drug resistance and devising strategies to overcome this.
+
+45
+J.S. Duncan, M.C. Whittle, K. Nakamura et al.
+Dynamic reprogramming of the kinome in response to targeted MEK inhibition in triple-negative breast cancer
+Cell, 149 (2012), pp. 307–321
+
+Article |  PDF (2715 K) | View Record in Scopus | Citing articles (72)
+46
+C. Duy, C. Hurtz, S. Shojaee et al.
+BCL6 enables Ph+ acute lymphoblastic leukaemia cells to survive BCR-ABL1 kinase inhibition
+Nature, 473 (2011), pp. 384–388
+
+Full Text via CrossRef
+47
+Q.B. She, E. Halilovic, Q. Ye et al.
+4E-BP1 is a key effector of the oncogenic activation of the AKT and ERK signaling pathways that integrates their function in tumors
+Cancer Cell, 18 (2010), pp. 39–51
+
+Article |  PDF (1482 K) | View Record in Scopus | Citing articles (139)
+48
+K.P. Hoeflich, M. Merchant, C. Orr et al.
+Intermittent administration of MEK inhibitor GDC-0973 plus PI3K inhibitor GDC-0941 triggers robust apoptosis and tumor growth inhibition
+Cancer Res, 72 (2012), pp. 210–219
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+49
+B.S. Carver, C. Chapinski, J. Wongvipat et al.
+Reciprocal feedback regulation of PI3K and androgen receptor signaling in PTEN-deficient prostate cancer
+Cancer Cell, 19 (2011), pp. 575–586
+
+Article |  PDF (1675 K) | View Record in Scopus | Citing articles (209)
+50•
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas et al.
+The GATA2 transcriptional network is requisite for RAS oncogene-driven non-small cell lung cancer
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+50•
+Determination, by large-scale RNA interference screening, of genes that suggest a drug combination approach to treat mutant RAS lung cancers.
+
+51
+L. Neckers, P. Workman
+Hsp90 molecular chaperone inhibitors: are we there yet?
+Clin Cancer Res, 18 (2012), pp. 64–76
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (158)
+52•
+J. Sang, J. Acquaviva, J.C. Friedland et al.
+Targeted inhibition of the molecular chaperone Hsp90 overcomes ALK inhibitor resistance in non-small cell lung cancer
+Cancer Discov, 3 (2013), pp. 430–443
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+52•
+This study demonstrates that inhibition of the molecular chaperone HSP90 overcomes multiple mechanisms of resistance to ALK inhibition in non small cell lung cancer.
+
+53••
+M.J. Garnett, E.J. Edelman, S.J. Heidorn et al.
+Systematic identification of genomic markers of drug sensitivity in cancer cells
+Nature, 483 (2012), pp. 570–575
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (254)
+53••
+See annotation to Ref. [54••].
+
+54••
+J. Barretina, G. Caponigro, N. Stransky et al.
+The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity
+Nature, 483 (2012), pp. 603–607
+
+View Record in Scopus | Citing articles (405)
+54••
+One of two papers confirming, at massive scale, the power of very large cell panels to link drug sensitivity to molecular and lineage features.
+
+55
+M.A. Held, C.G. Langdon, J.T. Platt et al.
+Genotype-selective combination therapies for melanoma identified by high-throughput drug screening
+Cancer Discov, 3 (2013), pp. 52–67
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+56
+P.C. Nowell
+The clonal evolution of tumor cell populations
+Science, 194 (1976), pp. 23–28
+
+View Record in Scopus | Citing articles (1858)
+57•
+K. Anderson, C. Lutz, F.W. van Delft et al.
+Genetic variegation of clonal architecture and propagating cells in leukaemia
+Nature, 469 (2011), pp. 356–361
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (241)
+57•
+Detailed characterization of dynamic clonal heterogeneity and evolution in acute myeloid leukaemia, including leukaemia-propagating cells, with implications for targeted treatment.
+
+58•
+M. Gerlinger, A.J. Rowan, S. Horswell et al.
+Intratumor heterogeneity and branched evolution revealed by multiregion sequencing
+N Engl J Med, 366 (2012), pp. 883–892
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (999)
+58•
+Extensive intratumour heterogeneity and branched evolution are revealed by exome sequencing linked to phenotypic profiling in human kidney tumours.
+
+59
+P.A. Cole
+Chemical probes for histone-modifying enzymes
+Nat Chem Biol, 4 (2008), pp. 590–597
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (117)
+60
+P. Filippakopoulos, J. Qi, S. Picaud et al.
+Selective inhibition of BET bromodomains
+Nature, 468 (2010), pp. 1067–1073
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (374)
+61
+B. Zhang, A.C. Strauss, S. Chu et al.
+Effective targeting of quiescent chronic myelogenous leukemia stem cells by histone deacetylase inhibitors in combination with imatinib mesylate
+Cancer Cell, 17 (2010), pp. 427–442
+
+Article |  PDF (1020 K) | View Record in Scopus | Citing articles (74)
+62
+S.V. Sharma, D.Y. Lee, B. Li et al.
+A chromatin-mediated reversible drug-tolerant state in cancer cell subpopulations
+Cell, 141 (2010), pp. 69–80
+
+Article |  PDF (1543 K) | View Record in Scopus | Citing articles (416)
+63
+P.C. Fong, T.A. Yap, D.S. Boss et al.
+Poly(ADP)-ribose polymerase inhibition: frequent durable responses in BRCA carrier ovarian cancer correlating with platinum-free interval
+J Clin Oncol, 28 (2010), pp. 2512–2519
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (244)
+64
+S.K. Sandhu, A. Omlin, L. Hylands et al.
+Poly (ADP-ribose) polymerase (PARP) inhibitors for the treatment of advanced germline BRCA2 mutant prostate cancer
+Ann Oncol, 24 (2013), pp. 1416–1418
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (8)
+65•
+J. Schwartzentruber, A. Korshunov, X.Y. Liu et al.
+Driver mutations in histone H3.3 and chromatin remodelling genes in paediatric glioblastoma
+Nature, 482 (2012), pp. 226–231
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (263)
+65•
+Unexpected discovery of driver mutations in a gene encoding the histone variant H3.3 in paediatric glioblastoma.
+
+66
+P.W. Lewis, M.M. Muller, M.S. Koletsky et al.
+Inhibition of PRC2 activity by a gain-of-function H3 mutation found in pediatric glioblastoma
+Science, 340 (2013), pp. 857–861
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+67•
+L. Bjerke, A. Mackay, M. Nandhabalan et al.
+Histone H3.3 mutations drive pediatric glioblastoma through upregulation of MYCN
+Cancer Discov (2013)
+
+67•
+Following Ref. [65•], rapid elucidation that upregulation of oncogenic NMYC is a key determinant of the activity of the oncogenic G34 mutation in histone H3.3, together with the discovery by large-scale synthetic lethal screening of the therapeutic potential of CHK1 and Aurora A inhibition in paediatric glioblastomas harbouring this mutation.
+
+68••
+F.S. Hodi, S.J. O’Day, D.F. McDermott et al.
+Improved survival with ipilimumab in patients with metastatic melanoma
+N Engl J Med, 363 (2010), pp. 711–723
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2062)
+68••
+Clinical demonstration of enhanced survival with the anti-PD-1 antibody, which blocks T-lymphocyte-associated antigen 4 and promotes an antitumour T-cell response, supporting the approval of this agent metastatic melanoma.
+
+69
+G. Iyer, A.J. Hanrahan, M.I. Milowsky et al.
+Genome sequencing identifies a basis for everolimus sensitivity
+Science, 338 (2012), p. 221
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (101)
+70
+J. Kaiser
+Biomedicine. Rare cancer successes spawn ‘exceptional’ research efforts
+Science, 340 (2013), p. 263
+
+View Record in Scopus | Full Text via CrossRef
+71
+J.O.S. Janeta Popovici-Muller, F.G. Salituro, J.M. Travins, S. Yan, F. Zhao, S. Gross, L. Dang, K.E. Yen, H. Yang, K.S. Straley et al.
+Discovery of the first potent inhibitors of mutant IDH1 that lower tumor 2-HG in vivo
+ACS Med Chem Lett, 3 (2012), pp. 850–855
+
+72
+D. Hanahan, R.A. Weinberg
+Hallmarks of cancer: the next generation
+Cell, 144 (2011), pp. 646–674
+
+Article |  PDF (2122 K) | View Record in Scopus | Citing articles (5395)
+73•
+J. Chmielecki, J. Foo, G.R. Oxnard et al.
+Optimization of dosing for EGFR-mutant non-small cell lung cancer with evolutionary cancer modeling
+Sci Transl Med, 3 (2011), p. 90ra59
+
+Full Text via CrossRef
+73•
+This study demonstrates the importance of evolutionary modelling and optimization of dosing schedule in managing dynamic clonal heterogeneity in a model of non small cell lung cancer.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.

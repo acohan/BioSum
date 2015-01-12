@@ -1,0 +1,452 @@
+Inhibition of FLT3 in MLL: Validation of a therapeutic target identified by gene expression based classification
+Scott A Armstrong1, 2, Andrew L Kung1, 2, Meghann E Mabon1, Lewis B Silverman1, 2, Ronald W Stam3, Monique L Den Boer3, Rob Pieters3, John H Kersey4, Stephen E Sallan1, 2, Jonathan A Fletcher5, Todd R Golub1, 6, 7, James D Griffin1, 5, Stanley J KorsmeyerCorresponding author contact information, 1, 7, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S1535-6108(03)00003-5
+Under an Elsevier user license
+  Open Archive
+Abstract
+We recently found that MLL-rearranged acute lymphoblastic leukemias (MLL) have a unique gene expression profile including high level expression of the receptor tyrosine kinase FLT3. We hypothesized that FLT3 might be a therapeutic target in MLL and found that 5 of 30 MLLs contain mutations in the activation loop of FLT3 that result in constitutive activation. Three are a newly described deletion of I836 and the others are D835 mutations. The recently described FLT3 inhibitor PKC412 proved cytotoxic to Ba/F3 cells dependent upon activated FLT3 containing either mutation. PKC412 is also differentially cytotoxic to leukemia cells with MLL translocations and FLT3 that is activated by either overexpression of the wild-type receptor or mutation. Finally, we developed a mouse model of MLL and used bioluminescent imaging to determine that PKC412 is active against MLL in vivo.
+
+Significance
+Gene expression profiles of cancer cells promise to more accurately define diseases, predict response to therapy, and ultimately identify new therapeutic targets. Recent gene expression studies of leukemias have shown that recurrent chromosomal translocations found in leukemic cells specify unique diseases. This provides the opportunity to test specifically expressed proteins as new therapeutic targets in these diseases. FLT3 is highly expressed in MLL-rearranged acute lymphoblastic leukemias (MLL) compared to other acute leukemias. Here, we validate FLT3 as a therapeutic target in MLL and show that FLT3 inhibitors are active against a mouse model of the disease. This represents the validation of a therapeutic target identified by gene expression analysis and mandates the development of clinical trials of FLT3 inhibitors in this chemotherapy-resistant leukemia.
+
+Introduction
+Gene expression profiles of neoplastic cells are beginning to provide important biological and clinical insights. Recent analyses of multiple different cancers have identified gene expression differences between tumors with similar histologic characteristics yet heterogeneous clinical behavior Alizadeh et al. 2000, Armstrong et al. 2002, Bhattacharjee et al. 2001, Perou et al. 2000, Singh et al. 2002 and Yeoh et al. 2002. Also, retrospective studies have demonstrated the potential for gene expression based prediction of response to therapy (Pomeroy et al. 2002 and Shipp et al. 2002; van't Veer et al., 2002). These studies provide evidence that tumor-intrinsic biological heterogeneity is at least partly responsible for the differing clinical responses to therapy and suggest that a refined molecular classification of cancer will lead to the development of tailored therapeutic regimens. The most exciting, and yet unrealized, promise of cancer genomics is the identification of new, unanticipated therapeutic targets. Development of therapeutic strategies directed toward highly specific targets may prove more effective and perhaps less toxic than conventional chemotherapy.
+
+The identification of non-random chromosomal translocations in leukemia provides a prominent example of how molecular characterization of cancer can lead to a better understanding of tumorigenesis and new therapeutic approaches (Rowley, 1998). Children diagnosed with acute lymphoblastic leukemia (ALL) that harbors a t(9;22), and those with rearrangements of the Mixed Lineage Leukemia (MLL) gene on chromosome 11q23, have a significantly worse prognosis than other patients with ALL Chen et al. 1993, Pui et al. 1990 and Pui et al. 1991. This knowledge prompted the development of a tailored chemotherapeutic approach for patients with ALL harboring a t(9;22) (Arico et al., 2000). More importantly, the detailed understanding of the molecular mechanisms of the BCR-ABL tyrosine kinase encoded by the t(9;22) has resulted in the development of an oncogene-targeted therapy using the tyrosine kinase inhibitor STI571 (Druker et al., 2001a). While the protein products of other chromosomal translocations also represent rational targets, most encode DNA binding proteins which have proven difficult to inhibit with small molecules. Therefore, identification of new therapeutic targets in leukemia is of utmost importance.
+
+We recently demonstrated that lymphoblastic leukemias with rearrangement of the MLL gene display a remarkably consistent and unique gene expression profile that distinguishes them from either ALL or acute myelogenous leukemia (AML) (Armstrong et al., 2002). Based on this finding, we proposed that they be considered a unique leukemia called MLL. Another recent gene expression study of large numbers of cases provided support for the hypothesis that distinct leukemias are specified by each of the unique chromosomal abnormalities found in lymphoblastic leukemias (Yeoh et al., 2002). Our expression profile of MLL suggests that it is arrested at an early stage of hematopoietic development, perhaps soon after the common lymphoid progenitor stage. Of particular interest is that the receptor tyrosine kinase FLT3 was the gene most consistently overexpressed in MLL as compared to other acute leukemias (Armstrong et al., 2002).
+
+FLT3 is a class III receptor tyrosine kinase that shares structural similarity with C-FMS, C-KIT, and PDGFR Matthews et al. 1991, Rosnet et al. 1991 and Small et al. 1994. Gene ablation experiments have established that FLT3 plays an important role in early hematopoietic development (Mackarehtschian et al., 1995). Recent studies have shown that FLT3 is mutated and constitutively active in approximately 30% of cases of AML (Gilliland and Griffin, 2002). The most common mutation results in an in-frame duplication of short sequences present in the juxtamembrane region of the receptor (Nakao et al., 1996). This leads to receptor dimerization and activation in the absence of the FLT3 ligand (FLT3L) (Kiyoi et al., 2002). The second type of mutation affects either aspartic acid 835 or isoleucine 836 in the receptor activation loop (Yamamoto et al., 2001). Since the activation loop has autoinhibitory activity, mutation of this region likely results in a conformational change that leads to constitutive receptor activity. The presence of these mutations, along with the development of FLT3 inhibitors, has generated much interest in FLT3 as a new therapeutic target (Gilliland and Griffin, 2002). While FLT3 is the most commonly mutated gene in AML, activating mutations of FLT3 are not common (<5%) in acute lymphoblastic leukemias (ALL) (Yamamoto et al., 2001).
+
+Given the high level expression of FLT3 in MLL, and its early hematopoietic gene expression profile, we hypothesized that a constitutive FLT3 signal might be involved in the development and maintenance of MLL. If so, this would not only provide a new avenue for therapy in MLL, but also validate the use of gene expression analysis as a method to identify both unique diseases and new therapeutic targets for those diseases. Here we show that MLL lymphoblasts contain activating mutations of FLT3. Furthermore, we have developed a murine model system of MLL and used bioluminescent imaging to show that a small molecule inhibitor of FLT3 effectively treats the disease in vivo. These data mandate the development of human clinical trials testing FLT3 inhibitors in this therapy-resistant leukemia.
+
+Results
+FLT3 mutations are present in MLL
+Given the consistently high expression of FLT3 in MLL, we searched for activating mutations in leukemic blasts from such patients. A previous study demonstrated that the FLT3 internal tandem duplications (FLT3-ITDs) are not found in MLL samples (Xu et al., 2000), thus we looked for the presence of activation loop mutations. Of the 30 primary MLL samples tested, 5 had point mutations in the FLT3 activation loop (Table 1). Three of the leukemias had a 3 nucleotide deletion that leads to a deletion of Isoleucine 836 (Δ836). Two of the leukemias had mutations that result in an amino acid change from Aspartic Acid 835 to either Tyrosine or Histidine (D835Y or D835H) (Table 1). We have examined two of the samples bearing FLT3 mutations and noted comparably high levels of expression as in MLL samples with wild-type FLT3.
+
+Table 1.
+FLT3 mutations in MLL
+Mutation	N	Amino acid change	% Total
+CAT-del	3	Ile836-Del	10
+GAT-TAT	1	Asp835-Tyr	3
+GAT-CAT	1	Asp835-His	3
+Thirty MLL samples were analyzed for the presence of activation loop mutations in FLT3 by RT-PCR as described (Yamamoto et al., 2001).
+
+Table options
+The D835Y and D835H mutations have been shown to lead to constitutive activation of FLT3 (Yamamoto et al., 2001), but the Δ836 is a newly described mutation. We therefore determined if the deletion of isoleucine 836 leads to constitutive activation of the FLT3 kinase. Expression of an active receptor tyrosine kinase in the IL3-dependent murine lymphocyte cell line Ba/F3 renders the cells IL3 independent (Weisberg et al., 2002). When expressed in Ba/F3 cells, both D835Y-FLT3 and Δ836-FLT3 molecules contained an increased phosphotyrosine content as compared to the wild-type FLT3 (Figure 1A). Expression of FLT3 with either the D835Y or the Δ836 mutation rendered Ba/F3 cells IL3 independent whereas expression of the wild-type FLT3 did not lead to IL3-independent growth. (Figure 1B). Thus at least 16% of MLL samples contain activating mutations, providing supporting evidence for FLT3 as a new therapeutic target in this leukemia.
+
+Full-size image (25 K)
+Figure 1. 
+FLT3 phosphorylation and IL3 dependence of Ba/F3 cells expressing wild-type or mutant FLT3
+A: Immunoblot analysis of parental Ba/F3 cells, Ba/F3 cells infected with a control virus, and Ba/F3 cells expressing wild-type-FLT3, D835Y-FLT3, and Δ836-FLT3. Immunoprecipitation of FLT3 was performed with an anti-FLT3 antibody and immunoblots were probed with either anti-FLT3 or anti-phosphotyrosine antibody 4G10.
+B: Growth of Ba/F3 cells expressing WT-FLT3, D835Y-FLT3, and Δ836-FLT3 after removal of IL3 from the medium. 1 × 106 cells were plated in medium without IL3 on day 0, and the number of cells counted on the indicated days.
+Figure options
+Activated FLT3 present in MLL is inhibited by PKC412
+The presence of FLT3 activating mutations in MLL suggests that inhibition of FLT3 will be a new therapeutic avenue in this disease. A number of small molecule FLT3 inhibitors with differential activities toward wild-type and mutated FLT3 have recently been described Kelly et al. 2002, Levis et al. 2002, Weisberg et al. 2002 and Yee et al. 2002. Because some molecules do not inhibit all of the FLT3 mutants, it is critical that the inhibitors be tested against all new mutations. PKC412 (N-benzoyl staurosporine) is a potent inhibitor of wild-type and mutant FLT3 that posses the FLT3-ITD or the D835Y mutation (Weisberg et al., 2002). We treated Ba/F3 cells rendered IL3 independent by expression of FLT3 containing the D835Y and Δ836 mutations with increasing concentrations of PKC412 and assessed for metabolically active cells 48 hr after addition. Both cell lines were sensitive to PKC412 with 50% inhibition achieved at <20 nM (Figures 2A and 2B). The same cell lines and Ba/F3 cells expressing wild-type FLT3 growing in the presence of IL3 were unaffected by PKC412 at concentrations up to 500 nM (Figures 2A and 2B). In order to determine if the decrease in cell metabolism reflected induction of apoptosis, we examined the amount of Annexin V staining 24 hr after treatment with PKC412. Greater than 70% of the cells expressing D835Y-FLT3 and Δ836-FLT3 growing in the absence of IL3 were Annexin V positive (Figure 2C). Conversely, after treatment with PKC412, only 15%–20% of the cells were positive for Annexin V staining when grown in the presence of IL3 (Figure 2C). Furthermore, the tyrosine phosphorylation of the mutated FLT3 was significantly inhibited by treatment with PKC412 (Figure 2D). Thus, PKC412 induces apoptosis in cells that are dependent upon activated FLT3 for their survival, and it does not affect cells dependent upon an alternative signal such as IL3. Also, PKC412 inhibits the newly described Δ836 mutation, and therefore appears active against all FLT3 mutations identified in MLL.
+
+Full-size image (68 K)
+Figure 2. 
+PKC412 sensitivity of Ba/F3 cells dependent upon FLT3 for survival
+A: MTT assay performed 48 hr after addition of PKC412 at the indicated concentration to Ba/F3 cells expressing D835Y-FLT3 growing in the absence (▴) or presence (•) of IL3, and Ba/F3 cells expressing wt-FLT3 growing in the presence of IL3 (□). Y axis is the absorbance reading for PKC412-treated cells divided by DMSO-treated cells. Error bars are from triplicate experiments.
+B: Ba/F3 cells expressing Δ836-FLT3 growing in the absence (▴) or presence (•) of IL3, and Ba/F3 cells expressing wt-FLT3 growing in the presence of IL3 (□).
+C: Percentage of cells that stain positive for Annexin V as assessed by flow cytometry 24 hr after the addition of 100 nM PKC412. Ba/F3 cells expressing D835Y-FLT3 and Δ836-FLT3 were grown in the absence of IL3 and treated with PKC412 (−IL3). Simultaneously, the same cell line was treated with PKC412 after the re-addition of IL3 (+IL3). The experiment was repeated two times with similar results.
+D: Immunoprecipitation of FLT3 from cells expressing D835Y-FLT3 or Δ836-FLT3 after treatment for 4 hr with the indicated amount of PKC412. Immunoblots were then probed with either anti-FLT3 or anti-Phosphotyrosine antibodies.
+Figure options
+PKC412 is cytotoxic to MLL cells that contain mutant or wild-type FLT3
+As MLL is characteristically a chemo-resistant leukemia, we were particularly interested in determining if FLT3 inhibitors might prove effective in this leukemia. In order to determine if FLT3 inhibition induces apoptosis in MLL cells, we assessed the ability of PKC412 to induce death in five different ALL or AML cell lines. Two of the cell lines, RS4;11 and SEMK2-M1, are derived from patients diagnosed with B-precursor lymphoblastic leukemia. Both cell lines contain a t(4;11) involving the MLL gene and are thus referred to as MLL cell lines Greil et al. 1994, Pocock et al. 1995 and Stong et al. 1985. The cell lines Blin1 and UoC-B1 are derived from patients with B-precursor lymphoblastic leukemia and do not contain MLL rearrangements Inaba et al. 1992 and Wormann et al. 1989. MV4;11 is an AML cell line with an MLL rearrangement that was recently demonstrated to posses a FLT3-ITD (Levis et al., 2002).
+
+First we determined the relative expression levels and the relative activity of FLT3 by assessment of its phosphotyrosine content. FLT3 is known to be expressed in most leukemia cell lines DaSilva et al. 1994 and Meierhoff et al. 1995. As expected, four of the five cell lines tested expressed detectable levels of FLT3, with the SEMK2-M1 line having the highest expression level (Figure 3). This was confirmed by flow cytometric analysis for cell surface expression (data not shown). Next, we determined the phosphotyrosine content of FLT3. As expected the MV4;11 cell line containing a FLT3-ITD showed high level FLT3 tyrosine phosphorylation. Interestingly, the SEMK2-M1 line, which has extremely high level FLT3 expression, also has high levels of phosphorylated FLT3. The other lymphoblastic leukemia lines showed minimal or no phosphorylated FLT3 (Figure 3).
+
+Full-size image (19 K)
+Figure 3. 
+Expression level and phosphotyrosine content of FLT3 in leukemia cell lines
+FLT3 was immunoprecipitated from 20 × 106 cells of the indicated cell line. Immunoblots were then performed with anti-FLT3 and anti-phosphotyrosine antibodies. Multiple FLT3 bands on the immunoblot represent differential glycosylation states.
+Figure options
+Since SEMK2-M1 expresses high levels of active FLT3, we examined the mechanism by which FLT3 is activated. First, we sequenced the entire coding region of FLT3 and found no mutations. Next we tested for amplification of the FLT3 locus in SEMK2-M1 using fluorescence in situ hybridization (FISH). BAC FISH probes spanning the FLT3 locus demonstrated FLT3 amplification in SEMK2-M1 (Figure 4A), whereas FLT3 amplification was not demonstrated in MV4;11 and RS4;11 (Figures 4B and 4C). The SEMK2-M1 FLT3 amplification was intrachromosomal, with each amplicon containing approximately ten copies of the FLT3 locus. One or two amplicons, integrated into the short arm of chromosome 7, were found in all SEMK2-M1 cells (Figure 4A). Activation of FLT3 in these leukemia cell lines can be associated with high level expression of the wild-type receptor secondary to amplification of the genomic locus as found in SEMK2-M1 as well as mutation.
+
+Full-size image (27 K)
+Figure 4. 
+Assessment of FLT3 in leukemia cell lines by FISH
+A genomic probe containing the entire FLT3 locus was hybridized to leukemia cells lines SEMK2-M1, MV4;11, and RS4;11. SEMK2-M1 interphase and metaphase cells (A) have chromosomally integrated FLT3 amplicons, each amplicon containing approximately ten copies of the FLT3 locus. SEMK2-M1 also has one nonamplified normal FLT3 locus, which is indicated by a white arrow in an interphase cell (top) and metaphase cell (middle). MV4;11 (B) and RS4;11 (C) cells have two normal copies of the FLT3 locus, with no FLT3 amplification.
+Figure options
+We next assessed whether high level FLT3 activity would predict sensitivity to FLT3 inhibitors in MLL. Thus, we examined if inhibition of FLT3 by PKC412 led to cytotoxicity in the leukemia cell lines. Increasing concentrations of PKC412 were incubated with each of the cell lines, and the percentage of metabolically active cells determined by MTT assay 48 hours after addition of the inhibitor. MV4;11 and SEMK2-M1 were particularly sensitive to the PKC412 (Figure 5A). We then determined if the effects seen in the MTT assay were due to an induction of apoptosis by PKC412. Approximately 50% of the SEMK2-M1 and MV4;11 cells were positive for Annexin V staining whereas there was much less staining of RS4;11, UoC-B1, and Blin1 at 24 hr (Figure 5B). Finally, treatment with PKC412 inhibited receptor phosphorylation in SEMK2-M1 and MV4;11 (Figure 5C). Thus PKC412, an inhibitor of FLT3, induces cell death in MLL-rearranged leukemia cell lines with activated FLT3.
+
+Full-size image (76 K)
+Figure 5. 
+In vitro sensitivity of leukemia cell lines and primary lymphoblasts to PKC412
+A: MTT assay performed 48 hr after addition of the indicated amount of PKC412 to MV4;11(■), SEMK2-M1 (○), RS4;11(▿), UoC-B1(♦), and Blin1 (▴) cell lines. Y axis is the absorbance reading for PKC412-treated cells divided by DMSO-treated cells. Error bars are from triplicate experiments.
+B: Percentage of cells that stain positive for Annexin V as assessed by flow cytometry 24 hr after addition of 500 nM PKC412. Error bars are from three independent experiments.
+C: Immunoprecipitation analysis of FLT3 from MV4;11 and SEMK2-M1 cells 4 hr after treatment with the indicated concentration of PKC412. Immunoblots were probed with anti-FLT3 to assess FLT3 loading and anti-phosphotyrosine (4G10) to assess for phosphotyrosine content of FLT3.
+D: MTT assay performed 48 hr after addition of PKC412 to primary lymphoblasts from four patients with MLL (■,▴,•,♦) and three patients with other types of lymphoblastic leukemias (□,○,♢). The genetic characteristics of the leukemias are indicated at the right.
+Figure options
+Since PKC412 is differentially cytotoxic to MLL cell lines, we determined the effect of PKC412 on primary patient lymphoblasts. We tested lymphoblasts from seven patients that possess various genetic abnormalities, four of which were MLL lymphoblasts. Of the four MLL samples, all are known to have high level expression of FLT3 (Armstrong et al., 2002). One sample harbored the Δ836 mutation and the others had wild-type FLT3. Increasing concentrations of PKC412 were incubated with lymphoblasts, and an MTT assay was performed at 48 hr. Three of four MLL samples were sensitive to treatment with PKC412 whereas none of the other leukemia samples were affected (Figure 5D). The samples possessing t(4;11) and wild-type FLT3 were as sensitive as the one with t(4;11) and a Δ836 mutation. Thus it appears that PKC412 may be effective against MLL samples with either high level expression of wild-type or mutant FLT3.
+
+PKC412 is active against MLL in vivo
+We next asked if PKC412 would prove effective against an in vivo model of MLL. We established a xenograft model system in which leukemia burden could be quantitated with in vivo bioluminescent imaging. SEMK2-M1 and RS4;11 cell lines were engineered to express firefly luciferase fused to neomycin phosphotransferase by retroviral transduction. One million labeled leukemia cells were then injected into the tail vein of SCID-beige mice. Within 1 week, the bioluminescent signal was detectable in a location consistent with the femur (Figure 6A). Pathologic analysis of similarly xenografted mice confirmed that the leukemia cells were initially found in the mouse bone marrow present in the femoral head (data not shown). The leukemia subsequently progressed to replace the normal bone marrow and involve other organs, thus mimicking the progression of human leukemia. Once the leukemia had engrafted, as determined by the presence of a bioluminescent signal (Figure 6A), we treated a cohort of mice with either 150 mg/kg PKC412 or vehicle once daily via gavage for 5 days per week. We then performed serial imaging of the two cohorts to quantitate disease burden (Figure 6A). In mice engrafted with SEMK2-M1 cells, quantification of total leukemic burden revealed anti-tumor efficacy of PKC412 after 2 weeks of therapy (Figures 6A and 6B). The anti-tumor effect of PKC412 was specific for the cell line with activated FLT3 (SEMK2-M1) as it had no effect on leukemia produced by injection of the cell line RS;411(Figure 6C). Pathological analysis performed at the completion of the study confirmed the vast differences in tumor burden in SEMK2-M1 injected mice treated with PKC412 as compared to control mice (Figure 7). Thus, oral administration of PKC412 is effective in vivo against human lymphoblastic leukemia with an MLL rearrangement and activated FLT3.
+
+Full-size image (114 K)
+Figure 6. 
+In vivo bioluminescent imaging of mice injected with SEMK2-M1 leukemia cells
+A: SCID-beige mice were injected with 1 × 106 SEMK2-M1 leukemia cells that have stable luciferase expression. One week after injection, engraftment of the leukemia cells was confirmed and mice were treated with either 150 mg/kg PKC412 or vehicle 5 of 7 days per week. Week 0 denotes start of therapy. Mice were imaged weekly to assess for leukemia progression.
+B and C: SCID-beige mice were injected with 1 × 106 SEMK2-M1 (B) or RS 4;11 cells (C), and the amount of bioluminescence was quantitated (photonic flux) weekly. Mice were treated with either 150 m/kg PKC412 (■) or vehicle (♦) for 5 days per week. Week 0 denotes the time at which the mice began therapy. Therapy began 1 week after injection of leukemia cells.
+Figure options
+Full-size image (97 K)
+Figure 7. 
+Histopathology of mice injected with SEMK2-M1 at the end of three weeks of treatment with either PKC412 or control
+H&E stained liver sections from mice after 3 weeks of treatment with PKC412 or vehicle control. Images were taken at either 4× or 60× magnification.
+Figure options
+Discussion
+We describe the validation of a molecular target identified by gene expression based cancer classification. We have recently shown that lymphoblastic leukemias with rearrangement of the MLL gene on chromosome 11q23 have a gene expression profile that is unique from other leukemias. Based on this, we proposed that they be considered a distinct entity, MLL (Armstrong et al., 2002). As high level expression of FLT3 was the gene that best distinguished MLL from other leukemias, we hypothesized that inhibition of FLT3 might be a new therapeutic avenue in this disease. The data presented here supports this hypothesis in that up to 16% of MLL specimens contain activating FLT3 mutations. Cell lines with MLL rearrangements and activated FLT3 appear to be dependent on it, displaying exquisite sensitivity to inhibition of FLT3. Primary MLL patient samples are also sensitive to the FLT3 inhibitor PKC412. Furthermore, a xenograft mouse model of MLL leukemia is effectively treated with a small molecule inhibitor of FLT3.
+
+Justifying FLT3 as a therapeutic target for MLL has helped credential the utility of differential gene expression patterns to identify new molecular targets. Multiple studies have shown that gene expression patterns can be used to identify prognostic subsets within morphologically similar tumors Alizadeh et al. 2000, Pomeroy et al. 2002, Shipp et al. 2002 and Yeoh et al. 2002. While expression studies might be predicted to reveal new therapeutic targets, in practice it has been difficult to select the valid targets from the multitude of differentially expressed genes. For example, a substantial portion of differentially expressed genes between leukemias appear to reflect differences in lineage or stage of differentiation (Ferrando et al., 2002). Solid tumors will also likely be plagued by this issue compounded by the presence of infiltrating inflammatory and stromal cells. Given this variability, it is a daunting task to predict which genes actually participate in the oncogenic process. Therefore, an approach is needed to focus attention on the most likely candidates. We reasoned that genes whose expression most strictly correlated with distinct genetic subtypes of leukemia might prove attractive targets. We therefore analyzed FLT3, which shows consistently high level expression in MLL even though FLT3 mutations were believed to be rare in lymphoblastic leukemias. The finding that FLT3 is mutated in MLL illustrates the power of correlating gene expression analysis with a genomic defect involved in the genesis of the tumor to rank potential targets. Validating FLT3 as a therapeutic target has outlined one avenue to the identification of new molecular targets. While recurrent chromosomal translocations are not characteristic of most solid tumors, other events including deletions and amplifications that are being quantified by approaches such as array comparative genomic hybridization (array CGH) may serve the same purpose.
+
+The application of genomic technologies will increase the number of potential molecular targets leading to an expectation that validating targets will become a rate-limiting step in translating these opportunities into new therapies. More rapid methods of small molecule discovery combined with improved animal models of human disease should help speed the process of drug development. While conventional xenograft models of human disease have been useful, they are limited by the inability to accurately follow tumor progression unless the tumor is injected subcutaneously. Here we have used in vivo bioluminescent imaging to follow leukemia progression. In this model system, the leukemia develops in the bone marrow and progresses to more disseminated disease much like that of human leukemia. The ability to follow tumors growing in their natural milieu represents a model that should prove more predictive of the behavior of human disease. Also, the use of bioluminescent imaging allowed us to determine the efficacy of PKC412 within 3 weeks, a significantly shorter period than if we had used the standard measure of mouse survival as an endpoint. Advances in in vivo imaging coupled with xenograft and genetically engineered mouse models of cancer constitute critical resources for target validation and drug development.
+
+The presence of activating FLT3 mutations in MLL is in keeping with a multistep pathway to leukemogenesis (Gilliland and Griffin, 2002). In this model, MLL fusion proteins are hypothesized to lead to an inappropriate developmental decision that is necessary, but not sufficient to induce leukemia. Within this hematopoietic progenitor, a second mutation provides a survival or proliferation signal that results in expansion of the neoplastic cells. A constitutively active FLT3 represents an attractive candidate for a “second hit” necessary for the development of MLL while other tyrosine kinases or downstream genes in the FLT3 pathway are also likely candidates. Along these lines, a recent study has shown that the receptor tyrosine kinase v-Sea can cooperate with an MLL fusion protein to produce leukemia in an avian system (Schulte et al., 2002). Findings here warrant exploring the mechanisms of complementation between tyrosine kinases such as FLT3 and leukemogenic fusion proteins.
+
+Patients with MLL harboring activating mutations of FLT3 should be considered candidates for therapy with FLT3 inhibitors. It is also conceivable that overexpression of a wild-type receptor might qualify as a candidate. The SEMK2-M1 cell line, which has amplified the FLT3 locus, displays an extremely high level of activated wild-type receptor, and its treatment with PKC412 shows efficacy both in vitro and in vivo. Of note, primary lymphoblasts with high level expression of wild-type FLT3 were also sensitive to PKC412. Preliminary examination indicates that FLT3 amplification is not universal in primary MLL samples (not shown). However, high level expression of a wild-type FLT3 receptor in MLL appears to confer dependence. As FLT3 is consistently highly expressed in MLL (Armstrong et al., 2002), perhaps all MLL cases deserve to be tested for response to FLT3 inhibitors. Further studies with FLT3 inhibitors may identify a threshold level of FLT3 activity that confers dependence on this pathway. Support for this vantage point is provided by studies of c-KIT in gastrointestinal stromal tumors where high level expression of the wild-type receptor, as well as receptor mutation, lead to constitutive signal propagation (Rubin et al., 2001). Similarly, high level expression of the wild-type ERBB-2 receptor leads to constitutive activation of this pathway in breast cancer Di Fiore et al. 1987 and Slamon et al. 1987. Further study of the signaling cascades initiated by wild-type and mutant tyrosine kinase receptors should shed light on this subject, as should clinical trials testing the efficacy of FLT3 inhibitors in MLL.
+
+The data here prompt the development of clinical trials that test the efficacy of FLT3 inhibitors in MLL. Recent studies indicate FLT3 may be a therapeutic target in AML where up to 30% of cases contain activating mutations of FLT3 (Gilliland and Griffin, 2002). Several FLT3 inhibitors have been described, and clinical trials in adult AML are underway. These studies should provide important data about the efficacy and toxicity of FLT3 inhibition. Of note, a study evaluating the toxicity of the FLT3 inhibitor used in this study (PKC412) in patients with solid tumors has been reported and the side effects were mild (Propper et al., 2001). Since tyrosine kinase inhibitors are not always uniformly effective against all mutations of a given target kinase, it will be important to determine the capability of each molecule to inhibit the various FLT3 mutations.
+
+Landmark clinical studies have demonstrated success with targeted cancer therapy. Perhaps the most celebrated have been trials using therapies that target oncogenes involved in tumorogenesis. The inhibition of the kinase activity of the BCR-ABL fusion protein by the small molecule STI571 (Gleevec) has produced remissions in chronic myelogenous leukemia (CML) and acute leukemias with t(9;22) Druker et al. 2001a and Druker et al. 2001b. Similarly, inhibition of the receptor tyrosine kinase c-KIT in gastrointestinal stromal tumors by STI571 has been particularly effective against this chemotherapy resistant tumor (Demetri et al., 2002). Finally, treatment of breast carcinoma with a monoclonal antibody targeting the ERBB-2 receptor (Herceptin) improved chemotherapy response and prolonged survival (Slamon et al., 2001). FLT3 inhibition in MLL represents an important opportunity in this particularly chemotherapy resistant leukemia.
+
+Experimental procedures
+Reagents
+The rabbit polyclonal anti-FLT3 antibody Sc479 was purchased from Santa Cruz Biotechnology, Inc. (Santa Cruz, California). The goat polyclonal anti-FLT3 antibody AF812 was purchased from R&D Systems (Minneapolis, Minnesota). Monoclonal antibody 4G10 was obtained from Upstate Biotechnology (Lake Placid, New York). Recombinant preparations of murine IL-3 were obtained from R&D Systems. Restriction enzymes were from New England Biolabs Inc. (Beverly, Massachusetts). PKC412 was obtained from Novartis Pharma AG, Basel, Switzerland and dissolved in DMSO to make a stock solution from which further dilutions were made.
+
+Cell lines and cell culture
+All cell culture reagents were obtained from Invitrogen (Rockville, Maryland). All cells were cultured in the appropriate medium in a humidified incubator at 37°C in 5% CO2. Medium was supplemented with penicillin/streptomycin and L-glutamine. All leukemia cell lines were grown in RPMI 1640 with 10% FCS. Ba/F3 cells were grown in RPMI 1640 with 10% FCS supplemented with 10 ng/ml recombinant IL-3 (R&D Systems). RS4;11, UoC-B1, and Blin1 are previously described and well-characterized leukemia cell lines Inaba et al. 1992, Stong et al. 1985 and Wormann et al. 1989. The SEMK2-M1 cell line is a subclone of the previously described lymphoblastic leukemia cell line SEMK2 (Pocock et al., 1995). This line was originally derived from lymphoblasts of a 5-year-old girl in first relapse with a t(4;11) positive ALL (Greil et al., 1994). Human embryonic kidney (HEK293) were grown in Dulbecco's Modified Eagle Medium supplemented with 10% FCS.
+
+Patient leukemia samples
+Patient samples were obtained from peripheral blood or bone marrow from children diagnosed with CD19+ B-precursor ALL and determined by either cytogenetic analysis, fluorescence in situ hybridization (FISH), or Southern blot to possess an MLL translocation as described Cuthbert et al. 2000 and Silverman et al. 1997.
+
+FLT3 expression in Ba/F3 cells
+The FLT3 cDNA encoding the wild-type FLT3 with a leader peptide from the C-FMS receptor was cloned into an MSCV-based retroviral vector containing a puromycin resistance cassette (Hawley et al., 1994). Mutant FLT3 cDNAs were constructed by PCR amplification of the region surrounding D835 from mutant patient samples. The PCR product was then used to replace the wild-type sequence. All PCR products were sequenced to assure the desired mutation and the absence of other mutations. The MSCV-FLT3-WT, MSCV-FLT3-D835Y, and MSCV-FLT3-Δ836 plasmids were then cotransfected into human embryonic kidney 293 cells with vectors encoding retroviral gag-pol and env proteins as described (Lessnick et al., 2002). The resulting retroviruses were used to introduce FLT3 into Ba/F3 cells, and the infected cells were selected with puromycin in the presence of IL3. The cells surviving selection (>70% survival) were then used for experiments. All Ba/F3 cells expressing wild-type or mutant FLT3 were passaged in puromycin and IL3.
+
+Reverse transcription-polymerase chain reaction
+Total RNA was extracted from cells with Trizol (Invitrogen) and reverse transcribed using RETROscript kit from Ambion (Austin, Texas). The resulting complementary DNA (cDNA) was used as a template for polymerase chain reaction (PCR) with primers to amplify the region in exon 20 of FLT3 as previously described (Yamamoto et al., 2001). PCR products were digested with EcoRV to detect mutations. Any PCR product that was not completely digested was then sequenced to confirm the presence of a mutation.
+
+Immunoprecipitation and immunoblotting
+Cells were washed with ice-cold PBS and lysed with buffer containing 20 mM Tris-Cl (pH 7.4), 150 mM NaCl, 100 mM NaF, 10 mM EDTA, 10% glycerol, 1% NP-40, 1 mM phenylmethylsulfonylfluoride, 1 mM sodium orthovanadate, and 100 U/mL leupeptin. Cell extracts were subjected to immunoprecipitation and immunoblotting with the antibodies indicated.
+
+Samples were separated by 4%–12% Bis-Tris-polyacrylamide gel electrophoresis and transferred to nitrocellulose membranes (Schleicher & Schuell Inc., Keene, New Hampshire). Western blots were probed with antibodies indicated. Blots were then labeled with anti-rabbit, anti-goat, or anti-mouse IgG-HRP antibody (Vector Laboratories, Burlingame, California) and visualized using ChemiLuminescence Reagent Plus (Perkin-Elmer, Boston, Massachusetts).
+
+Apoptosis and MTT assays
+MTT assays were performed using the manufacturer's recommendations (Roche, Indianapolis, Indiana). Briefly, 1 × 105 cells were plated in 100 microliters of medium in 96 well microtiter plates with the indicated concentration of PKC412. The cells were then incubated for 48 hr. Ten microliters of labeling reagent was added to each well and allowed to incubate at 37° for 4 hr. The precipitate was then solubilized overnight and assessed by an ELISA reader. Annexin V staining was assessed by flow cytometry using the manufacturer's recommendations (Biovision, Mountain View, California) 24 hr after the addition of the indicated amount of PKC412.
+
+FISH analysis of leukemia cell lines
+BAC (RP11-153M24 and RP11-179F17) genomic DNA clones spanning the FLT3 locus were isolated and labeled as previously described (Hibbard et al., 2000). Probe detection was with Texas Red-streptavidin (Zymed Laboratories, San Francisco, California). In order to determine the number of copies of the FLT3 locus, individual FISH signals were counted in multiple nuclei from interphase cells.
+
+Mouse studies and in vivo imaging
+The coding region of the firefly luciferase gene from pGL3-basic (Promega) and the coding region of neomycin phosophotransferase from pEGFP-N3 (Clontech) were amplified with high-fidelity polymerase (Platinum Pfx, Invitrogen) and fused in frame in the pMMP retrovirus (courtesy Richard Mulligan, HHMI, Boston, Massachusetts) to create pMMP-LucNeo. VSV-G pseudotyped retroviruses were packaged by cotransfection with expression vectors encoding packaging functions (pMD-G and pMD-MLV, courtesy Richard Mulligan) in 293T cells. Retroviruses were concentrated, stored frozen, titered, and verified to be free of replication-competent viruses as previously described (Burns et al., 1993). Cells were transduced with retrovirus utilizing Retronectin (Takara) according to manufacturer's instructions, and subsequently selected in medium containing G418 1 mg/ml (Invitrogen). One million luciferase-expressing cells were intravenously injected via the tail vein into SCID-beige mice (Taconic).
+
+For imaging, mice were anesthetized with an intraperitoneal injection of ketamine hydrochloride 150 mg/kg and xylazine 12 mg/kg (Webster). D-luciferin 50 mg/kg (Xenogen) was concomitantly administered by intraperitoneal injection. Photonic emission was imaged using the In Vivo Imaging System (IVIS, Xenogen) with total imaging time of 2 min. Total body bioluminescence was quantified by integrating the photonic flux (photons/sec) through a region of interest drawn around each mouse. PKC-412 (Novartis) or vehicle control were formulated and administered by oral gavage as previously described (Weisberg et al., 2002).
+
+Acknowledgements
+We thank members of Novartis Pharmaceuticals PKC412 development team. We also thank Julie Kujawa and Elizabeth Tanner for help with the mouse studies, Eric Smith for help with editing, and Stephen Lessnick for help with retrovirus production. This work was supported in part by NIH grants PO1 CA68484 and KO8 CA92551 and an American Society of Hematology Fellow Scholar Award (S.A.A.).
+
+References
+Alizadeh et al. 2000
+A.A Alizadeh, M.B Eisen, R.E Davis, C Ma, I.S Lossos, A Rosenwald, J.C Boldrick, H Sabet, T Tran, X Yu et al.
+Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling
+Nature, 403 (2000), pp. 503–511
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5140)
+Arico et al. 2000
+M Arico, M.G Valsecchi, B Camitta, M Schrappe, J Chessells, A Baruchel, P Gaynon, L Silverman, G Janka-Schaub, W Kamps et al.
+Outcome of treatment in children with Philadelphia chromosome-positive acute lymphoblastic leukemia
+N. Engl. J. Med., 342 (2000), pp. 998–1006
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (357)
+Armstrong et al. 2002
+S.A Armstrong, J.E Staunton, L.B Silverman, R Pieters, M.L den Boer, M.D Minden, S.E Sallan, E.S Lander, T.R Golub, S.J Korsmeyer
+MLL translocations specify a distinct gene expression profile that distinguishes a unique leukemia
+Nat. Genet., 30 (2002), pp. 41–47
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1003)
+Bhattacharjee et al. 2001
+A Bhattacharjee, W.G Richards, J Staunton, C Li, S Monti, P Vasa, C Ladd, J Beheshti, R Bueno, M Gillette et al.
+Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 13790–13795
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1379)
+Burns et al. 1993
+J.C Burns, T Friedmann, W Driever, M Burrascano, J.K Yee
+Vesicular stomatitis virus G glycoprotein pseudotyped retroviral vectors: concentration to very high titer and efficient gene transfer into mammalian and nonmammalian cells
+Proc. Natl. Acad. Sci. USA, 90 (1993), pp. 8033–8037
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (923)
+Chen et al. 1993
+C.S Chen, P.H Sorensen, P.H Domer, G.H Reaman, S.J Korsmeyer, N.A Heerema, G.D Hammond, J.H Kersey
+Molecular rearrangements on chromosome 11q23 predominate in infant acute lymphoblastic leukemia and are associated with specific biologic variables and poor outcome
+Blood, 81 (1993), pp. 2386–2393
+
+View Record in Scopus | Citing articles (212)
+Cuthbert et al. 2000
+G Cuthbert, K Thompson, G Breese, S McCullough, N Bown
+Sensitivity of FISH in detection of MLL translocations
+Genes Chromosomes Cancer, 29 (2000), pp. 180–185
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+DaSilva et al. 1994
+N DaSilva, Z.B Hu, W Ma, O Rosnet, D Birnbaum, H.G Drexler
+Expression of the FLT3 gene in human leukemia-lymphoma cell lines
+Leukemia, 8 (1994), pp. 885–888
+
+View Record in Scopus | Citing articles (37)
+Demetri et al. 2002
+G.D Demetri, M von Mehren, C.D Blanke, A.D Van den Abbeele, B Eisenberg, P.J Roberts, M.C Heinrich, D.A Tuveson, S Singer, M Janicek et al.
+Efficacy and safety of imatinib mesylate in advanced gastrointestinal stromal tumors
+N. Engl. J. Med., 347 (2002), pp. 472–480
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2576)
+Di Fiore et al. 1987
+P.P Di Fiore, J.H Pierce, M.H Kraus, O Segatto, C.R King, S.A Aaronson
+erbB-2 is a potent oncogene when overexpressed in NIH/3T3 cells
+Science, 237 (1987), pp. 178–182
+
+View Record in Scopus | Citing articles (556)
+Druker et al. 2001a
+B.J Druker, M Talpaz, D.J Resta, B Peng, E Buchdunger, J.M Ford, N.B Lydon, H Kantarjian, R Capdeville, S Ohno-Jones, C.L Sawyers
+Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia
+N. Engl. J. Med., 344 (2001), pp. 1031–1037 a
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3226)
+Druker et al. 2001b
+B.J Druker, C.L Sawyers, H Kantarjian, D.J Resta, S.F Reese, J.M Ford, R Capdeville, M Talpaz
+Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome
+N. Engl. J. Med., 344 (2001), pp. 1038–1042 b
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1927)
+Ferrando et al. 2002
+A.A Ferrando, D.S Neuberg, J Staunton, M.L Loh, C Huard, S.C Raimondi, F.G Behm, C.H Pui, J.R Downing, D.G Gilliland et al.
+Gene expression signatures define novel oncogenic pathways in T cell acute lymphoblastic leukemia
+Cancer Cell, 1 (2002), pp. 75–87
+
+Article |  PDF (777 K) | View Record in Scopus | Citing articles (512)
+Gilliland and Griffin 2002
+D.G Gilliland, J.D Griffin
+The roles of FLT3 in hematopoiesis and leukemia
+Blood, 100 (2002), pp. 1532–1542
+
+Full Text via CrossRef
+Greil et al. 1994
+J Greil, M Gramatzki, R Burger, R Marschalek, M Peltner, U Trautmann, T.E Hansen-Hagge, C.R Bartram, G.H Fey, K Stehr et al.
+The acute lymphoblastic leukaemia cell line SEM with t(4;11) chromosomal rearrangement is biphenotypic and responsive to interleukin-7
+Br. J. Haematol., 86 (1994), pp. 275–283
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (71)
+Hawley et al. 1994
+R.G Hawley, F.H Lieu, A.Z Fong, T.S Hawley
+Versatile retroviral vectors for potential use in gene therapy
+Gene Ther., 1 (1994), pp. 136–138
+
+View Record in Scopus | Citing articles (577)
+Hibbard et al. 2000
+M.K Hibbard, H.P Kozakewich, P Dal Cin, R Sciot, X Tan, S Xiao, J.A Fletcher
+PLAG1 fusion oncogenes in lipoblastoma
+Cancer Res., 60 (2000), pp. 4869–4872
+
+View Record in Scopus | Citing articles (111)
+Inaba et al. 1992
+T Inaba, W.M Roberts, L.H Shapiro, K.W Jolly, S.C Raimondi, S.D Smith, A.T Look
+Fusion of the leucine zipper gene HLF to the E2A gene in human acute B-lineage leukemia
+Science, 257 (1992), pp. 531–534
+
+View Record in Scopus | Citing articles (152)
+Kelly et al. 2002
+L.M Kelly, J.C Yu, C.L Boulton, M Apatira, J Li, C.M Sullivan, I Williams, S.M Amaral, D.P Curley, N Duclos et al.
+CT53518, a novel selective FLT3 antagonist for the treatment of acute myelogenous leukemia (AML)
+Cancer Cell, 1 (2002), pp. 421–432
+
+Article |  PDF (551 K) | View Record in Scopus | Citing articles (230)
+Kiyoi et al. 2002
+H Kiyoi, R Ohno, R Ueda, H Saito, T Naoe
+Mechanism of constitutive activation of FLT3 with internal tandem duplication in the juxtamembrane domain
+Oncogene, 21 (2002), pp. 2555–2563
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+Lessnick et al. 2002
+S.L Lessnick, C.S Dacwag, T.R Golub
+The Ewing's sarcoma oncoprotein EWS/FLI induces a p53-dependent growth arrest in primary human fibroblasts
+Cancer Cell, 1 (2002), pp. 393–401
+
+Article |  PDF (433 K) | View Record in Scopus | Citing articles (142)
+Levis et al. 2002
+M Levis, J Allebach, K.F Tse, R Zheng, B.R Baldwin, B.D Smith, S Jones-Bolin, B Ruggeri, C Dionne, D Small
+A FLT3-targeted tyrosine kinase inhibitor is cytotoxic to leukemia cells in vitro and in vivo
+Blood, 99 (2002), pp. 3885–3891
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (313)
+Mackarehtschian et al. 1995
+K Mackarehtschian, J.D Hardin, K.A Moore, S Boast, S.P Goff, I.R Lemischka
+Targeted disruption of the flk2/flt3 gene leads to deficiencies in primitive hematopoietic progenitors
+Immunity, 3 (1995), pp. 147–161
+
+Article |  PDF (2427 K) | View Record in Scopus | Citing articles (360)
+Matthews et al. 1991
+W Matthews, C.T Jordan, G.W Wiegand, D Pardoll, I.R Lemischka
+A receptor tyrosine kinase specific to hematopoietic stem and progenitor cell-enriched populations
+Cell, 65 (1991), pp. 1143–1152
+
+Article |  PDF (1860 K) | View Record in Scopus | Citing articles (346)
+Meierhoff et al. 1995
+G Meierhoff, U Dehmel, H.J Gruss, O Rosnet, D Birnbaum, H Quentmeier, W Dirks, H.G Drexler
+Expression of FLT3 receptor and FLT3-ligand in human leukemia-lymphoma cell lines
+Leukemia, 9 (1995), pp. 1368–1372
+
+View Record in Scopus | Citing articles (97)
+Nakao et al. 1996
+M Nakao, S Yokota, T Iwai, H Kaneko, S Horiike, K Kashima, Y Sonoda, T Fujimoto, S Misawa
+Internal tandem duplication of the flt3 gene found in acute myeloid leukemia
+Leukemia, 10 (1996), pp. 1911–1918
+
+View Record in Scopus | Citing articles (662)
+Perou et al. 2000
+C.M Perou, T Sorlie, M.B Eisen, M van de Rijn, S.S Jeffrey, C.A Rees, J.R Pollack, D.T Ross, H Johnsen, L.A Akslen et al.
+Molecular portraits of human breast tumours
+Nature, 406 (2000), pp. 747–752
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5660)
+Pocock et al. 1995
+C.F Pocock, M Malone, M Booth, M Evans, G Morgan, J Greil, F.E Cotter
+BCL-2 expression by leukaemic blasts in a SCID mouse model of biphenotypic leukaemia associated with the t(4;11)(q21;q23) translocation
+Br. J. Haematol., 90 (1995), pp. 855–867
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+Pomeroy et al. 2002
+S.L Pomeroy, P Tamayo, M Gaasenbeek, L.M Sturla, M Angelo, M.E McLaughlin, J.Y Kim, L.C Goumnerova, P.M Black, C Lau et al.
+Prediction of central nervous system embryonal tumour outcome based on gene expression
+Nature, 415 (2002), pp. 436–442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1350)
+Propper et al. 2001
+D.J Propper, A.C McDonald, A Man, P Thavasu, F Balkwill, J.P Braybrooke, F Caponigro, P Graf, C Dutreix, R Blackie et al.
+Phase I and pharmacokinetic study of PKC412, an inhibitor of protein kinase C
+J. Clin. Oncol., 19 (2001), pp. 1485–1492
+
+View Record in Scopus | Citing articles (140)
+Pui et al. 1990
+C.H Pui, W.M Crist, A.T Look
+Biology and clinical significance of cytogenetic abnormalities in childhood acute lymphoblastic leukemia
+Blood, 76 (1990), pp. 1449–1463
+
+View Record in Scopus | Citing articles (204)
+Pui et al. 1991
+C.H Pui, L.S Frankel, A.J Carroll, S.C Raimondi, J.J Shuster, D.R Head, W.M Crist, V.J Land, D.J Pullen, C.P Steuber et al.
+Clinical characteristics and treatment outcome of childhood acute lymphoblastic leukemia with the t(4;11)(q21;q23): a collaborative study of 40 cases
+Blood, 77 (1991), pp. 440–447
+
+View Record in Scopus | Citing articles (174)
+Rosnet et al. 1991
+O Rosnet, S Marchetto, O deLapeyriere, D Birnbaum
+Murine Flt3, a gene encoding a novel tyrosine kinase receptor of the PDGFR/CSF1R family
+Oncogene, 6 (1991), pp. 1641–1650
+
+View Record in Scopus | Citing articles (208)
+Rowley 1998
+J.D Rowley
+The critical role of chromosome translocations in human leukemias
+Annu. Rev. Genet., 32 (1998), pp. 495–519
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (291)
+Rubin et al. 2001
+B.P Rubin, S Singer, C Tsao, A Duensing, M.L Lux, R Ruiz, M.K Hibbard, C.J Chen, S Xiao, D.A Tuveson et al.
+KIT activation is a ubiquitous feature of gastrointestinal stromal tumors
+Cancer Res., 61 (2001), pp. 8118–8121
+
+View Record in Scopus | Citing articles (701)
+Schulte et al. 2002
+C.E Schulte, M von Lindern, P Steinlein, H Beug, L.M Wiedemann
+MLL-ENL cooperates with SCF to transform primary avian multipotent cells
+EMBO J., 21 (2002), pp. 4297–4306
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Shipp et al. 2002
+M.A Shipp, K.N Ross, P Tamayo, A.P Weng, J.L Kutok, R.C Aguiar, M Gaasenbeek, M Angelo, M Reich, G.S Pinkus et al.
+Diffuse large B-cell lymphoma outcome prediction by gene-expression profiling and supervised machine learning
+Nat. Med., 8 (2002), pp. 68–74
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1331)
+Silverman et al. 1997
+L.B Silverman, T.W McLean, R.D Gelber, M.J Donnelly, D.G Gilliland, N.J Tarbell, S.E Sallan
+Intensified therapy for infants with acute lymphoblastic leukemia: results from the Dana-Farber Cancer Institute Consortium
+Cancer, 80 (1997), pp. 2285–2295
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+Singh et al. 2002
+D Singh, P.G Febbo, K Ross, D.G Jackson, J Manola, C Ladd, P Tamayo, A.A Renshaw, A.V D'Amico, J.P Richie et al.
+Gene expression correlates of clinical prostate cancer behavior
+Cancer Cell, 1 (2002), pp. 203–209
+
+Article |  PDF (421 K) | View Record in Scopus | Citing articles (31)
+Slamon et al. 1987
+D.J Slamon, G.M Clark, S.G Wong, W.J Levin, A Ullrich, W.L McGuire
+Human breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene
+Science, 235 (1987), pp. 177–182
+
+View Record in Scopus | Citing articles (4896)
+Slamon et al. 2001
+D.J Slamon, B Leyland-Jones, S Shak, H Fuchs, V Paton, A Bajamonde, T Fleming, W Eiermann, J Wolter, M Pegram et al.
+Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2
+N. Engl. J. Med., 344 (2001), pp. 783–792
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5490)
+Small et al. 1994
+D Small, M Levenstein, E Kim, C Carow, S Amin, P Rockwell, L Witte, C Burrow, M.Z Ratajczak, A.M Gewirtz et al.
+STK-1, the human homolog of Flk-2/Flt-3, is selectively expressed in CD34+ human bone marrow cells and is involved in the proliferation of early progenitor/stem cells
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 459–463
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (290)
+Stong et al. 1985
+R.C Stong, S.J Korsmeyer, J.L Parkin, D.C Arthur, J.H Kersey
+Human acute leukemia cell line with the t(4;11) chromosomal rearrangement exhibits B lineage and monocytic characteristics
+Blood, 65 (1985), pp. 21–31
+
+View Record in Scopus | Citing articles (123)
+Veer et al. 2002
+L.J van't Veer, H Dai, M.J van de Vijver, Y.D He, A.A Hart, M Mao, H.L Peterse, K van der Kooy, M.J Marton, A.T Witteveen, G.J Schreiber, R.M Kerkhoven, C Roberts, P.S Linsley, R Bernards, S.H Friend
+Gene expression profiling predicts clinical outcome of breast cancer
+Nature, 415 (2002), pp. 530–536
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5069)
+Weisberg et al. 2002
+E Weisberg, C Boulton, L.M Kelly, P Manley, D Fabbro, T Meyer, D.G Gilliland, J.D Griffin
+Inhibition of mutant FLT3 receptors in leukemia cells by the small molecule tyrosine kinase inhibitor PKC412
+Cancer Cell, 1 (2002), pp. 433–443
+
+Article |  PDF (656 K) | View Record in Scopus | Citing articles (335)
+Wormann et al. 1989
+B Wormann, J.M Anderson, J.A Liberty, K Gajl-Peczalska, R.D Brunning, T.L Silberman, D.C Arthur, T.W LeBien
+Establishment of a leukemic cell model for studying human pre-B to B cell differentiation
+J. Immunol., 142 (1989), pp. 110–117
+
+View Record in Scopus | Citing articles (28)
+Xu et al. 2000
+F Xu, T Taki, M Eguchi, N Kamada, E Ishii, M Endo, Y Hayashi
+Tandem duplication of the FLT3 gene is infrequent in infant acute leukemia
+Japan Infant Leukemia Study Group. Leukemia, 14 (2000), pp. 945–947
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+Yamamoto et al. 2001
+Y Yamamoto, H Kiyoi, Y Nakano, R Suzuki, Y Kodera, S Miyawaki, N Asou, K Kuriyama, F Yagasaki, C Shimazaki et al.
+Activating mutation of D835 within the activation loop of FLT3 in human hematologic malignancies
+Blood, 97 (2001), pp. 2434–2439
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (634)
+Yee et al. 2002
+K.W Yee, A.M O'Farrell, B.D Smolich, J.M Cherrington, G McMahon, C.L Wait, L.S McGreevey, D.J Griffith, M.C Heinrich
+SU5416 and SU5614 inhibit kinase activity of wild-type and mutant FLT3 receptor tyrosine kinase
+Blood, 100 (2002), pp. 2941–2949
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Yeoh et al. 2002
+E.J Yeoh, M.E Ross, S.A Shurtleff, W.K Williams, D Patel, R Mahfouz, F.G Behm, S.C Raimondi, M.V Relling, A Patel et al.
+Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling
+Cancer Cell, 1 (2002), pp. 133–143
+
+Article |  PDF (774 K) | View Record in Scopus | Citing articles (1178)
+Corresponding author contact information
+Correspondence: Stanley J. Korsmeyer, 617 632 6402 (phone), 617 632 6401 (fax)
+Copyright © 2003 Cell Press. All rights reserved.

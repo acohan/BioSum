@@ -1,0 +1,341 @@
+A Genetic Screen Identifies PITX1 as a Suppressor of RAS Activity and Tumorigenicity
+Ingrid G.M. Kolfschoten1, Bart van Leeuwen1, Katrien Berns2, Jasper Mullenders2, Roderick L. Beijersbergen2, Rene Bernards2, P. Mathijs Voorhoeve1, Reuven Agami1, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2005.04.017
+  Open Archive
+Summary
+Activating mutations of RAS frequently occur in subsets of human cancers, indicating that RAS activation is important for tumorigenesis. However, a large proportion of these cancers still retain wild-type RAS alleles, suggesting that either the RAS pathway is activated in a distinct manner or another pathway is deregulated. To uncover novel tumor-suppressor genes, we screened an RNA-interference library for knockdown constructs that transform human primary cells in the absence of ectopically introduced oncogenic RAS. Here we report the identification of PITX1, whose inhibition induces the RAS pathway and tumorigenicity. Interestingly, we observed low expression of PITX1 in prostate and bladder tumors and in colon cancer cell lines containing wild-type RAS. Restoration of PITX1 in the colon cancer cells inhibited tumorigenicity in a wild-type RAS-dependent manner. Finally, we identified RASAL1, a RAS-GTPase-activating protein, as a transcription target through which PITX1 affects RAS function. Thus, PITX1 suppresses tumorigenicity by downregulating the RAS pathway through RASAL1.
+
+Introduction
+Human tumors harbor multiple genetic alterations in genes controlling cell growth, differentiation, and survival. These genetic changes comprise activation of oncogenes and inactivation of tumor-suppressor genes. Frequently, the p53 and pRb tumor-suppressor genes as well as the RAS oncogenes are mutated, or components of their pathways are altered ( Hanahan and Weinberg, 2000). Delineation of the essential alterations during tumorigenesis became feasible by the development of an in vitro system for neoplastic transformation of human primary cells ( Hahn et al., 1999 and Hahn and Weinberg, 2002). Through the use of ectopic expression of viral and mutant human genes, homologous recombination, and recently also short-hairpin RNA (shRNA) vectors, it became apparent that telomerase, the pRb, p53, PI3K, and the RAS pathways must be altered to allow transformation ( Hahn et al., 1999, Voorhoeve and Agami, 2003 and Zhao et al., 2003). Recently, we described a transformation model that allows anchorage-independent growth of human primary BJ fibroblast cells by overexpression of the catalytic subunit of telomerase (hTERT), oncogenic H-RASV12, and SV40 small t antigen (st) in combination with the inhibition of the expression of p53 and p16INK4A using shRNA vectors ( Figure 1A; Voorhoeve and Agami, 2003). In this model, oncogenic RAS expression was indispensable, as the omission of RASV12 resulted in very few transformed cells ( Figure 1A, Tr(-onc) cells).
+
+Full-size image (85 K)
+Figure 1. 
+The Identification of PITX1 in a Genetic Screen for Novel Tumor-Suppressor Genes
+(A) A scheme showing a protocol for screening for tumorigenic conversion of primary human cells. Pr represents primary cells, Tr represents transformed cells, and st is the SV40 small t antigen. Tr(-onc) are primary human BJ cells that contain ectopic expression of hTERT, st, and the p53 and p16INK4A knockdown constructs. Tr(-onc) cells were infected with pools of the NKI RNAi library, and the ability of cells to grow in soft agar was tested.
+(B) A histogram summarizing the number of colonies observed per individual pool.
+(C) A scheme to show the identification procedure. Colonies growing in the soft agar assay were picked and expanded, and their integrated shRNA inserts (typically 3–8 per colony) were PCR amplified and subcloned into a new retroviral vector for sequencing and verification of activity.
+(D) A representative picture of a soft agar assay with Tr(-onc) cells transduced with control vector and PITX1kd, PDCD6kd, KLF4kd, and RASV12 overexpression. For clarity, colonies were imaged with light and fluorescence microscopy, as they contain the small-t-GFP expression vector.
+(E) MCF-7 cells were electroporated with constructs encoding for PITX1-GFP and H2B-GFP together with either pRS-PITX1kd or a control vector. Whole-cell extracts (WCE) were made and immunoblotted with anti-GFP antisera.
+(F) Tr(-onc) cells were transduced with pRS-PITX1kd or vector control and drug selected with blasticidin for 4 days. Total RNA was extracted and subjected to semiquantitative RT-PCR analysis. Aliquots were taken at the indicated cycles, separated on a 2% agarose gel, and stained with EtBr.
+(G) T47D and SKBr3 cells were electroporated with pRS-PITX1kd or control construct (∼90% transfection efficiencies). Forty-eight hours after transfection, WCE were produced, separated on 10% SDS-PAGE, and immunoblotted with an anti-PITX1 antiserum.
+(H) Two additional active pRS-PITX1kd retroviral vectors 2 and 3 (columns 2 and 3) were transduced into Tr(-onc) cells, drug selected for 7 days, and tested for colonigenic growth in soft agar. As controls, a control vector and a RASV12-expressing vector were included. The number of colonies that appeared per 2 × 104 cells is shown. This experiment was reproduced twice.
+Figure options
+The RAS gene family is one of the most frequently activated oncogenes in human cancer ( Bos, 1989). RAS proteins are small monomeric GTPases of 21 kDa that play a key role in transducing growth signals from cell-surface receptors to the nucleus. Activating point mutations in RAS, which are found in tumors originating from colon, lung, pancreas, and other tissues, promote cellular transformation by growth-factor-independent stimulation of cell proliferation and cell survival. In humans, at least four RAS genes have been identified, H-RAS, N-RAS, R-RAS, and K-RAS, which bear high sequence conservation. Like other GTPases, RAS acts as a molecular switch that oscillates between an active GTP bound and an inactive GDP bound form. The activity of RAS is tightly regulated by two opposing components: GTP-exchange factors (GEFs) that induce dissociation of GDP, which allows binding of GTP, and GTPase-activating proteins (GAPs) that trigger the hydrolysis of bound GTP and attenuate RAS activity ( Repasky et al., 2004 and Wolthuis and Bos, 1999). The importance of GAPs in RAS inactivation has been established by the predisposition to tumor development of humans with mutations in the RAS-GAP gene NF1 ( Arun and Gutmann, 2004 and Harrisingh and Lloyd, 2004). Here we used in vitro neoplastic transformation assays in combination with an RNA interference (RNAi) library to screen for novel tumor-suppressor genes, whose inhibition substitutes for the activity of oncogenic RAS.
+
+Results and Discussion
+Inhibition of PITX1 Expression Induces Oncogenic Signals in Human Primary Cells
+We retrovirally transduced Tr(-onc) cells with half of the RNAi library (40 pools that contain RNAi constructs designed to target 4000 genes) (Berns et al., 2004) and screened for colonies growing in soft agar (Figure 1A). Several colonies emerged in a couple of the pools, whereas most of the pools showed no activity (Figure 1B). As expected, very efficient transformation was observed when Tr(-onc) cells were transduced with RASV12, either undiluted or diluted to 1:250 with control vector. We subsequently picked and expanded the colonies, PCR amplified their shRNA inserts, and subcloned them into a retroviral shRNA vector (pRS) for sequence identification and functional validation (Figure 1C). Using this approach, we identified knockdown (kd) constructs targeting the Kru¨ppel-like transcription factor KLF4, the proapoptotic calcium binding protein PDCD6 (ALG-2), and the homeodomain pituitary transcription factor PITX1, with a transforming activity comparable to RASV12 overexpression (Figure 1D). Interestingly, KLF4 was shown to exhibit putative tumor-suppressive functions in humans (Dang et al., 2003, Ohnishi et al., 2003 and Zhao et al., 2004), whereas PDCD6 has recently been shown to be downregulated in ocular melanoma (Subramanian et al., 2004). As little is known about possible tumor-inhibitory roles of PITX1, we focused here on PITX1.
+
+To study the possible involvement of PITX1 in controlling oncogenic pathways, we first assessed the ability of the PITX1kd construct to suppress PITX1 gene expression. In transient transfections, PITX1kd showed potent inhibition of the expression of cotransfected PITX1-GFP, while the expression of H2B-GFP remained unchanged ( Figure 1E). By semiquantitative RT-PCR, we found detectable levels of PITX1 mRNA in the Tr(-onc) cells that were reduced 8- to 10-fold in the Tr(-onc)/PITX1kd cells ( Figure 1F). We also scanned several breast cancer cell lines with a PITX1 antiserum and found clear PITX1 (39 kDa) expression in SKBr3 and T47D cells ( Figure 1G). Transfection of these cells with pRS-PITX1kd resulted in a marked reduction in PITX1 protein levels, indicating that our PITX1kd vector is a potent inhibitor of PITX1. Finally, to rule out possible off-target effects of the PITX1kd construct and address the role of the PITX1 gene in cellular transformation, we generated two additional active PITX1kd vectors. These vectors were introduced into Tr(-onc) cells, examined in the soft agar assay, and found to possess activity similar to that of the original PITX1kd construct ( Figure 1H). Thus, the specific inhibition of PITX1 expression induces oncogenic signals in human primary cells.
+
+Suppression of PITX1 Expression Activates the RAS Pathway
+Our results thus far may imply that RAS is activated when PITX1 expression is inhibited. To examine this hypothesis, we first monitored the RAS status using the property of the RAS binding domain of RAF (RAF-RBD), which associates exclusively with activated RAS (Figure 2A). We transduced Tr(-onc) cells with RASV12, PITX1kd, or control vectors and first analyzed RAS levels by Western blot using an anti-pan-RAS antibody. There was no significant difference in the total amount of endogenous RAS expressed in control and PITX1kd cells, and there were higher levels of RAS in the RASV12-transduced cells (Figure 2B). When the same lysates were used for a pull-down experiment with GST-RAF-RBD, a relatively high amount of active RAS was detected in PITX1kd cells and, as expected, in the RASV12-overexpressing cells (Figure 2B). Subsequently, we assayed extracts for phosphorylated ERK, which is a downstream target of RAS (Robinson and Cobb, 1997). Clearly, higher levels of phospho-ERK were observed in the PITX1kd cells and the RASV12-overexpressing cells when compared to control cells (Figure 2C). Control immunostaining for total ERK2 and CDK4 showed no such difference. Finally, we determined the expression levels of cyclin D1, another target of RASV12. In accordance with the results above, both PITX1kd and RASV12 induced higher levels of cyclin D1 than the vector control (Figure 2D), showing that suppression of PITX1 expression activates the RAS pathway.
+
+Full-size image (37 K)
+Figure 2. 
+Suppression of PITX1 Expression Activates the RAS Pathway
+(A) A schematic drawing showing the selective binding of the RAF-RAS binding domain (RAF-RBD) to activated RAS.
+(B) Tr(-onc) cells were transduced with the indicated vectors. WCE were made and used for pull-down assays using RAF-RBD. Lysates were separated on a 12% SDS-PAGE gel and immunoblotted with a pan-RAS antibody.
+(C and D) WCE from similar populations as used in (B) were made, separated on a 10% SDS-PAGE gel, and immunoblotted with the indicated antibodies.
+Figure options
+Comparable Phenotypes Are Induced by Oncogenic RAS and PITX1kd in Human Cells
+Primary human cells possess protective mechanisms that oppose the sustained induction of RAS by activating the p53 and p16INK4A growth-inhibitory pathways (Serrano et al., 1997; Figure 3A). To test whether the suppression of PITX1 expression causes the same phenotype as RASV12 overexpression, we monitored the proliferation rates of BJ/hTERT and BJ/hTERT/p53kd/p16kd cells that were transduced with either PITX1kd, RASV12, or the vector control. We found that both PITX1kd and RASV12 induce a growth arrest in a p53- and p16INK4A-dependent manner (Figure 3B). The growth arrest imposed by sustained RASV12 activity is irreversible and termed premature senescence (Serrano et al., 1997). Two of the most commonly used markers for senescence are the appearance of a flat cell morphology and the expression of acidic β-gal (Dimri et al., 1995). Accordingly, high numbers of cells with flat morphology and positive β-gal staining were observed in BJ/hTERT cells overexpressing RASV12 but not in the BJ/hTERT/p53kd/p16kd cells. An apparently similar phenotype was observed when PITX1 expression was suppressed (Figures 3C and 3D). Furthermore, only when the p53-p16INK4A protective mechanisms were eliminated by suppressing their expression were cellular growth and transformation efficiently induced by either overexpression of RASV12 or PITX1 inhibition (Figure 3E; Voorhoeve and Agami, 2003). Thus, the inhibition of PITX1 induces proliferation signals that phenotypically mimic oncogenic activation of the RAS pathway.
+
+Full-size image (77 K)
+Figure 3. 
+Oncogenic RAS and PITX1kd Induce Comparable Phenotypes in Human Cells
+(A) A schematic model showing the p53/p16INK4A-dependent growth arrest (premature senescent phenotype) induced by oncogenic RAS.
+(B) BJ/hTERT or BJ/hTERT/p53kd/p16kd cells were transduced with RASV12 expression vector, PITX1kd, and a control vector. Cells were drug selected for 3–4 days, and subsequently the number of cells was monitored in time in each culture. This experiment was reproduced three times.
+(C) The same cell populations described in (B) were plated on a 2.5 cm dish and stained 48 hr later for acidic β-gal expression. Positive cells are stained blue. This experiment was reproduced twice.
+(D) Quantification of the experiment presented in (C). Arbitrary fields were chosen and the percentage of β-gal-positive cells was determined. The bars represent the mean percentage of β-gal-positive cells ± SD of three arbitrary fields in two independent experiments.
+(E) The indicated genetically modified primary BJ/hTERT cells were transduced with PITX1kd, RASV12, and vector control; selected; and plated in soft agar. The number of colonies per 2 × 104 cells is shown. This experiment was reproduced twice in duplicates.
+Figure options
+PITX1 Expression Patterns in Human Cancer
+To obtain support for PITX1 involvement in human cancer, we scanned the gene-expression database Oncomine for differential PITX1 expression patterns in normal versus tumor tissue of different sources. We found PITX1 expression to be altered in prostate and bladder cancers relative to their normal tissue ( Table 1). In both cases, PITX1 expression was significantly reduced in the tumor material ( Ramaswamy et al., 2001 and Singh et al., 2002). Of particular interest was the highly cancer-prone prostate tissue in which PITX1 is well expressed ( Figure S1). To directly test whether the reduction in PITX1 levels also induces transformation in a primary human prostate model system, we obtained the primary-derived human prostate RWPE-1 cells (containing HPV and readily transformed by oncogenic K-RAS, ATCC). In soft agar assays, we found that the transduction of RWPE-1 cells with the PITX1kd, but not with a control vector, induces very efficient anchorage-independent growth ( Figure 4A). This result provides evidence that PITX1 is likely a relevant tumor suppressor for prostate cancer.
+
+Table 1.
+Lower Expression of PITX1 in Prostate and Bladder Cancers Compared with Normal Tissues
+Tissue Type	Number of Samples	Mean	p Value	Study
+Normal-tissue prostate	50	−0.437	2.6e−4	Singh et al., 2002
+Prostate tumor	52	−0.931
+Normal-tissue bladder	18	0.206	4.2e−4	Ramaswamy et al., 2001
+Bladder cell carcinoma	11	−1.624
+Several gene-expression studies comparing normal and cancer tissues were scanned for PITX1 using Oncomine software (http://141.214.6.50/oncomine/main/index.jsp). Data from two studies ( Ramaswamy et al., 2001; Singh et al., 2002) comparing prostate and bladder tissues are shown.
+
+Table options
+Full-size image (71 K)
+Figure 4. 
+PITX1 Expression Levels in Tumors
+(A) RWPE-1 human prostate cells containing human papilloma viral sequences (CRL-11609, ATCC) were transduced with either a control or a PITX1kd vector and tested for colony growth in soft agar. A representative picture of the plates and a histogram of the number of colonies per plate are shown. This experiment was reproduced twice.
+(B) WCE from Tr(-onc) cells and several colon cancer cell lines were subjected to pull-down experiments with the active RAS binding domain of RAF (GST-RAF-RBD), separated on 12% SDS-PAGE, and immunoblotted to detect RAS. Cell lines known to possess no mutations in RAS alleles are marked green. For comparison, the amount of total RAS in WCE is shown. BG is a background band for loading control.
+(C) RT-PCR of RNA isolated from the indicated colon cancer cell lines. The RAS status of these cell lines is indicated, and cell lines with only wild-type RAS alleles are marked green. As a control, we used an RT-PCR for ALG-2 that showed similar expression levels between the cell lines.
+(D) WCE (30 μg) from the indicated tumor cell lines were separated on 10% SDS-PAGE and examined with an anti-PITX1 antiserum. Cell lines with only wild-type RAS alleles are marked green. The 39 kDa PITX1 band is indicated.
+(E) Extracts from stably transduced control, PITX1kd, and RASV12 Tr(-onc) cells were separated on SDS-PAGE and immunoblotted to detect PITX1, RAS, and the control CDK4 proteins.
+Figure options
+A Causal Relationship between PITX1 Levels and Wild-Type RAS in Colon Cancer
+Although activating RAS mutations are frequently found in subsets of human cancers, other tumors in these panels contain no RAS mutations. For example, only 50% of all colon tumors, 30% of lung cancer, and 5% of prostate cancer in the United States are estimated to contain oncogenic RAS mutation ( Bos, 1989 and Rhim, 2001). We therefore initially asked whether cancer cell lines with wild-type RAS genotypes exhibit enhanced RAS activity. We used pull-down experiments with GST-RAF-RBD to compare RAS activity between the primary-derived Tr(-onc) cells and several colon cancer cell lines ( Figure 4B, cell lines with wt RAS alleles are marked with green ). Regardless of the RAS status, high levels of RAS activity were observed in all the cancer cell lines tested. In contrast, no correlation was seen between the protein levels of RAS and its activity in the different cell extracts we used.
+
+To investigate whether PITX1 contributes to the enhanced activity of endogenous wt RAS, we examined PITX1 expression in the colon cancer cells. First, using semiquantitative RT-PCR, we found that several colon cancer cell lines express very low levels of PITX1 mRNA ( Figure 4C). Significantly, the low levels of PITX1 expression correlated with the presence of wild-type RAS alleles (marked green). This correlation was verified by immunoblot analysis with PITX1 antiserum ( Figure 4D). These results can be explained by either the fact that loss of PITX1 precludes the requirement to mutate RAS or the fact that PITX1 expression is repressed by oncogenic RAS. As overexpression of RASV12 in Tr(-onc) or HEK293 cells did not result in elevated levels of PITX1 protein or activity, respectively ( Figure 4E and Figure S2), our data demonstrate a causal relationship between reduced PITX1 levels and wild-type RAS.
+
+PITX1 Inhibits Growth and Tumorigenicity in a Wild-Type-RAS-Dependent Manner
+The correlation between wild-type RAS expression and low PITX1 levels in colon cancer cell lines suggests that PITX1 restrains endogenous wt RAS activity. To test whether such a functional interaction exists, we constructed a retroviral vector containing PITX1-GFP and checked its activity. Similar to endogenous PITX1, PITX1-GFP was localized in the nucleus and activated the well-known PITX1 target the pro-opiomelanocortin (POMC) promoter ( Lamonerie et al., 1996; Figures 5A and 5B). We then transiently transfected HeLa cells with PITX1-GFP, control H2B-GFP, and RASV12 vectors and examined the RAS pathway by immunoblot analysis. We observed high levels of phosphorylated ERK in control-transfected HeLa cells, which were not significantly elevated when RASV12 was introduced ( Figure 5C). This result is different from the BJ primary cells ( Figure 2C), most likely because the RAS pathway is already optimally active in the HeLa cancer cell line. In contrast, we found lower levels of phospho-ERK in PITX1-GFP-transfected cells compared with control, whereas the ERK2 levels remain unchanged ( Figure 5C, lanes 1 and 3). Interestingly, this effect was negated by the cotransfection of RASV12 (lanes 2 and 4). Together with the results presented in Figure 2, these data indicate that PITX1 negatively regulates the RAS pathway.
+
+Full-size image (93 K)
+Figure 5. 
+PITX1 Inhibits Growth and Tumorigenicity in a RAS-Dependent Manner
+(A) MCF-7 cells were transfected with a vector expressing the PITX1-GFP chimera protein. Cells were fixed and stained with a PITX1 antibody. Nuclear localization of endogenous PITX1 and overexpressed PITX1-GFP can be detected in the enlarged picture.
+(B) T47D cells (containing relatively high PITX1 expression, Figure S3) were transfected with POMC-promoter-firefly-luciferase and control SV40-renilla-luciferase constructs together with either vector control, PITX1-GFP, or PITX1kd. The graph represents the mean relative firefly/renilla activity ± SD of three experiments.
+(C) HeLa cells were transfected with the indicated plasmids, and WCE were made after 48 hr, separated on 10% SDS-PAGE, and immunoblotted to detect the indicated proteins.
+(D) Caco-2 cells were transduced with retroviral vectors expressing PITX1-GFP or H2B-GFP control. After 3 days, cell cultures were divided in two and transduced with either a RASV12-expressing vector or a control vector. The percentage of GFP-positive cells was determined every 4–7 days.
+(E) Cells similar to those described in (D) were plated in soft agar, and the percentage of GFP-expressing colonies per dish was determined 17–21 days later. The experiments in (D) and (E) were reproduced three times.
+(F) The same cell populations as in (D) were injected into the flank of nude mice. After 3 weeks of growth, the tumors were removed, cut into small slides, and visualized by fluorescent microscopy. In parallel, cells were prepared from tumors and cultured for a week, and the percentage of GFP-positive cells was determined by flow cytometry.
+Figure options
+Consequently, we tested whether the wt-RAS-containing cancer cell lines depended on the reduced PITX1 expression for their transformed phenotype. We virally transduced the low-PITX1-expressing Caco-2 cells with either PITX1-GFP or H2B-GFP control vectors and obtained 20%–30% GFP-positive cells (Figure 5D). Importantly, the level of PITX1-GFP in the transduced cells was comparable to the level in cells endogenously expressing PITX1 (Figure S3). Subsequently, each cell population was transduced with either RASV12 or a vector control, and both the growth capacity and the tumorigenic potential of these cells were monitored. Figures 5D and 5E show that the expression of PITX1-GFP inhibits cellular proliferation and tumorigenicity in cells with low PITX1 levels. Remarkably, in both cases, the introduction of oncogenic RASV12 rescued the PITX1-mediated effects almost completely, whereas no significant change occurred in control H2B-GFP cells. Similar results were obtained with WiDr and Colo-205 cells, other colon cancer cell lines containing wild-type RAS alleles and low levels of PITX1 (data not shown).
+
+To directly address the tumor-suppressive function of PITX1, we injected Caco-2 cells into the flank of athymic nude mice. These cells contained a 20%–25% subpopulation of cells with either PITX1-GFP or H2B-GFP control, with or without RASV12. After 3 weeks, tumors appeared in all mice and were isolated and analyzed by fluorescence microscopy and flow cytometry. We found very few PITX1-GFP-containing tumor cells, whereas the expected levels of GFP-positive cells were observed in the tumors emerging from either PITX-GFP with RASV12 or the H2B control cells (Figure 5F). We therefore conclude that in colon cancer cell lines that have low PITX1 expression and wt RAS genes, PITX1 re-expression suppresses growth and tumorigenicity in a wt-RAS-dependent manner.
+
+RASAL1 Mediates PITX1 Effects on RAS Activity and Tumorigenicity
+Next we addressed the mechanism through which PITX1 regulates RAS activity. Thus far, our results indicate a cell-autonomous mechanism for regulation of RAS by PITX1 (Figures 5D–5F), suggesting a direct connection between PITX1 and RAS rather than via growth factors. RAS is activated by GTP-exchange factors (GEFs) and inhibited by GTP-activating factors (GAPs) (Repasky et al., 2004). As a transcriptional activator, PITX1 might activate a RAS-GAP to inhibit RAS activity (Figure 6A). To date, at least eight human RAS-GAP gene members are known: RASA1–4, RASAL1 and 2, NF1, and SYN-GAP. We therefore searched for PITX1 consensus binding sites (TAA[T/G]CC) in 2 kb upstream promoter regions of these RAS-GAP genes and found only RASAL1 to contain this site ( Figure 6B). RASAL1 is a RAS-GAP that senses and connects Ca2+ signals to RAS activity through synchronous oscillatory association with the plasma membrane ( Walker et al., 2004).
+
+Full-size image (92 K)
+Figure 6. 
+RASAL1 Mediates PITX1 Effects on RAS Activity and Tumorigenicity
+(A) A schematic model showing how PITX1 may regulate the RAS pathway through RAS-GAPs.
+(B) Two kilobases of RASAL1 upstream sequences were analyzed by McPromoter, a transcription-start-site prediction program for eukaryotic genes (http://genes.mit.edu/McPromoter.html). Nucleotides above the threshold (green line) are likely to serve as a transcription start site. TAAGCC is the consensus DNA binding sequence of PITX1. Also shown is the RASAL1 upstream fragment used for the luciferase assays.
+(C) HEK293 cells were transfected with the indicated vectors and harvested 48 hr later. RNA was extracted and used for quantitative RT-PCR (Q-PCR) to detect RASAL1 and the control CDK4 transcripts. Intensity of bands was measured using the Tina program. The figure shows the mean ± SD from three independent experiments.
+(D) HEK293 cells were transfected with the indicated firefly luciferase constructs together with SV40-renilla luciferase and either PITX1-GFP or the control H2B-GFP. Forty-eight hours after transfection, the ratio firefly/renilla was determined. The mean ± SD from three experiments is shown.
+(E) HEK293 cells were transfected with H2B-GFP and PITX1-GFP constructs and subjected to ChIP analysis.
+(F) HeLa cells were transfected with the indicated combinations of plasmids and immunoblotted to detect the indicated proteins.
+(G) Tr(-onc) cells were transduced with the indicated constructs, selected with blasticidin, and plated in soft agar. The number of colonies was monitored 17 days later. The bars represent the mean number of colonies ± SD of three experiments.
+(H) A schematic model showing the mechanism through which PITX1 restrains the wt-RAS transforming potential.
+Figure options
+To test whether RASAL1 is a target of PITX1, we examined RASAL1 mRNA levels using quantitative Q-PCR. Transient transfection of HEK293 cells with PITX1-GFP more than doubled the endogenous RASAL1 levels over those of the H2B-GFP control ( Figure 6C). Moreover, transfection of a RASAL1kd construct reduced RASAL1 mRNA levels by more than 70%, whereas suppression of PITX1 resulted in a reduction of 40%–50%. The later result is expected, as RASAL1kd causes an instant degradation of RASAL1 mRNA, whereas PITX1kd is expected to reduce transcription activity of RASAL1 only after a significant reduction in PITX1 protein is achieved. To further examine the PITX1-RASAL1 connection in more detail, we cloned a 1.4 kb region including the PITX1 binding site and the predicted transcription start site of RASAL1 in front of a firefly luciferase gene ( Figure 6B). Using transient transfections in HEK293 cells, we found this region to contain high promoter activity, which was further stimulated 6-fold by cotransfection of PITX1-GFP ( Figure 6D). Dissection of the RASAL1 promoter region revealed that PITX1 activity was correlated with the overall promoter activity and localized around the PITX1 site. These results suggest that PITX1 interacts directly with the RASAL1 promoter. To test this hypothesis, we performed chromatin immunoprecipitation (ChIP) analysis on HEK293 cells transfected with PITX1-GFP or H2B-GFP control. Figure 6E shows that fragments of the RASAL1 promoter were efficiently precipitated from cells transfected with PITX1-GFP and immunoprecipitated with anti-GFP antibodies but not from control-transfected cells or immunoprecipitation with a control antibody. Altogether, these results strongly suggest that RASAL1 is a transcription target of PITX1.
+
+Finally, we tested the genetic interaction between PITX1, RASAL1, and the RAS pathway. As observed above, overexpression of PITX1-GFP inhibited phosphorylation of ERK in a wild-type-RAS-dependent manner (Figure 6F). Introduction of RASAL1kd (which results in a more than 70% reduction in RASAL1 mRNA levels, Figure 6C) or the controls PITX1kd and overexpression of RASV12 negated this effect, indicating that RASAL1 is a mediator of PITX1 effects. Control immunostainings showed similar levels of ERK2 and PITX1-GFP in those cells. Last, to examine whether RASAL1, similarly to PITX1, is part of a network that inhibits oncogenic growth, we transduced Tr(-onc) cells with RASAL1kd and selected and plated them in soft agar to test for anchorage-independent growth. Figure 6G shows that the inhibition of RASAL1 expression induced tumorigenic growth that resembled the activity of PITX1kd, indicating that RASAL1 is a mediator of RAS inhibition and tumor suppression by PITX1. However, as the activity of RASAL1kd was lower than that of PITX1kd (approximately half), whereas its effect on RASAL1 mRNA was greater, it is likely that RASAL1 is not the only factor mediating the PITX1 tumor-suppressive effects.
+
+Conclusions
+Collectively, we describe here an approach to uncover tumor-suppressor genes that function as inhibitors of the RAS pathway. For this purpose, we used genetically modified primary human fibroblasts whose sole requirement for transformation is the deregulation of RAS activity. This strategy is potentially also suitable for the identification of tumor suppressors that regulate other proteins and pathways, such as p53 and p16INK4A, whose inhibition was defined as a requirement for this process (Hahn et al., 1999 and Voorhoeve and Agami, 2003). We demonstrate the power of this approach by the identification of PITX1. PITX1 regulates the RAS pathway and thereby tumorigenesis. The tumor-suppressive function of PITX1 is supported by the correlation between the low PITX1 levels present in colon cancer cell lines and wt RAS expression (Figure 4 and Figure 5) and the low PITX1 expression levels in prostate and bladder tumor tissues compared with normal tissues (Table 1). Moreover, we found in a primary-derived human prostate cell model susceptibility to PITX1kd-mediated transformation, which provides evidence that our transformation screen, although performed in fibroblasts, can identify relevant tumor suppressors for human cancer.
+
+We provide further genetic evidence for the regulation of the RAS pathway by PITX1 through RASAL1, a member of the RAS-GAP family. Interestingly, inhibition of RASAL1 expression potently induced tumorigenicity of human primary cells, suggesting that RASAL1, on its own, may also possess tumor-suppressive functions. Another tumor suppressor with a RAS-GAP activity is the neurofibromin (NF1) gene. Mutations in NF1 cause neurofibromatosis type I, which is characterized by café-au-lait spots and fibromatous tumors of the skin (Buchberg et al., 1990). It is interesting to note that while the inhibition of RASAL1 activity caused a transforming phenotype in our system (Figure 6G), knockdowns of NF1 showed no activity and NF1 expression was not altered when PITX1 expression was suppressed (data not shown). Since the tumor-suppressive function of NF1 is restricted to certain nerve tissues, whereas that of PITX1 is found in prostate, bladder, and colon tissues, it is tempting to speculate that specific RAS-GAPs control RAS activity in different tissues, but their inhibition is a general mechanism to provoke wt-RAS oncogenic activity and carcinogenesis. Finally, our findings show that re-expression of PITX1 in certain late-stage colon cancers is sufficient to alter their tumorigenic fate; this finding could be utilized in the future for cancer therapy. Thus, our study opens up new possibilities to discover and study targets for tumor intervention.
+
+Experimental Procedures
+Constructs and Antibodies
+pRetroSuper (pRS)-p53kd, -p16kd, and -p14kd; pMSCV-Blast RasV12; and pMSCV-GFP-st were described previously by Voorhoeve et al. (Voorhoeve and Agami, 2003). pRS-Blast was created by replacing the puromycin-resistance gene with a blasticidin-resistance gene. LZRS-PITX1-GFP was generated by PCR amplification and cloning of full-length PITX1 into LZRS-MS-IRES-GFP. pBabe-H2B-GFP was generated by cloning H2B-GFP into pBabepuro. pBabepuro-hTERT and LZRS-Neo-ecotropic receptor were described previously (Brummelkamp et al., 2002a and Counter et al., 1998). RASAL1 promoter luciferase constructs were generated by cloning PCR-amplified RASAL1 promoter sequences into a pGL3 basic vector. For the genomic PCR amplification, the following primers were used: construct 1, forw1 GGCGGTACCCAGGGAGAAATAAGTGTGCGAACGGATCTGTTCTGGG and rev1 GGCAAGCTTGAAGGGCGCTCAGGTTCCGAGGCTGGACCAGGGGACG; construct 2, forw1 and rev2 GGCAAGCTTGGGGGTCCGTTCAGAGTCAAGGGAGGGG; construct 3, forw2 GGCGGTACCGGGGGCGGAGAGGTGTGAATATGTTGG and rev1; construct 4, forw3 GGCGGTACCCTGGGTTCTGTGTTTAACTGGAAACTAG and rev1. Construct 5 was generated after removing a 50 bp fragment (ApaI digestion) out of construct 4, and construct 6 was generated after digestion of construct 4 with SacI and HindIII and religation into pGL3 basic.
+
+The construction of the NKI RNAi library has been described previously (Berns et al., 2004). Additional information about the library can be found at http://screeninc.nki.nl. The constructs pRS-Blast-PITX1 2 and 3 were designed as previously described (Brummelkamp et al., 2002b) to target PITX1 at positions 591 and 924 base pairs after the start codon, respectively. pRS-Blast-RASAL1 targets RASAL1 at a position 519 base pairs after the start codon.
+
+Antibodies against p-ERK (E-4), CDK4 (C-22), and cyclin D1 (M-20) were purchased from Santa Cruz; the antibody against pan-RAS was from Transduction Laboratories. The rabbit PITX1 antiserum was raised against a unique PITX1 peptide, CGYGALQGPASGLNACQYNS.
+
+Mice, Cell Culture, Transfection, and Retroviral Transduction
+In order to obtain Caco-2-derived tumors, 1 × 106 cells were injected subcutaneously in the flank of athymic nude mice. After three weeks of growth, the tumors were removed, dissected into small slides, visualized by fluorescence microscopy, and analyzed by flow cytometry.
+
+All cell lines described here, except for RWPE-1, were cultured in DMEM supplemented with 10% heat-inactivated fetal calf serum. RWPE-1 cells were cultured in keratinocyte-free medium supplemented with 5 ng/ml human recombinant EGF and 0.05 mg/ml bovine pituitary extract. T47D, MCF-7, Skbr3, HeLa, and Caco-2 cells were transfected by electroporation as described previously (Agami and Bernards, 2000). Ecopack2, HEK293, and phoenix cells were transiently transfected using the calcium phosphate precipitation technique. The generation of BJ-ET-st p53kd, p16kd cells was described before by Voorhoeve et al. (Voorhoeve and Agami, 2003). BJ cells were infected with amphotropic retrovirus carrying an expression cassette for the ecotropic receptor (Brummelkamp et al., 2002a) and selected with 500 μg/ml G418. After selection, the cells were transduced with ecotropic retroviral supernatants in the presence of 8 μg/ml polybrene and selected with either 400 μg/ml hygromycin B, 5 μg/ml blasticidin or 1 μg/ml puromycin. Caco-2 and RWPE-1 cells expressing an ecotropic receptor were generated by an amphotropic-retrovirus transduction.
+
+Recovery of shRNA Inserts
+Genomic DNA from expanded colonies was isolated by incubating the cells O/N at 42°C in a proteinase K solution (0.04% prot K, Tris-HCl [pH 8.0], 1 mM EDTA, 1% Tween). After heat denaturing the proteinase K, the shRNA inserts were PCR amplified using the pRS forw CCCTTGAACCTCCTCGTTCGACC and pRS rev GAGGCGCACCGTGGGCTTGTACTCGGTCAT primers. The PCR-amplified products were recloned into pRS-Blast and sequenced with Big-dye terminator (Perkin Elmer) using pRS-seq primer GCTGACGTCATCAACCCGCT.
+
+Soft Agar Assay
+Cells were resuspended in DMEM containing 0.4% low-melting agarose (Sigma, type VII) and 10% FCS and seeded onto a coating of 1% low-melting agarose in DMEM containing 10% FCS. After 3 weeks of growth, the number of colonies was scored and, if applicable, picked for further analysis.
+
+Proliferation Assay and β-Gal Staining
+BJ/hTERT and BJ/hTERT/p53kd/p16kd cells were transduced with either MSCV-Rasv12, MSCV-Blast, or pRS-PITX1kd. Cells were selected for 4 days with 5 μg/ml blasticidin, and 6 × 104 cells were seeded in a 2.5 cm plate. Cells were counted and split every 3.5 days.
+
+Two weeks after selection, cells were stained with X-gal. The cells were fixed with a 2% formaldehyde/0.2% glutaraldehyde solution and stained overnight at 37°C with 5 mM K3Fe[CN]6, 5 mM K4Fe[CN]6, 2 mM MgCl2, 150 mM NaCl, 1 mg/ml X-gal in 40 mM citric acid/Na2HPO4 (pH 6.0).
+
+GST-RBD-Raf Pull-Down
+The RAS binding domain (RBD) of RAF was coupled to GST, and the pull-down experiment was performed as previously described (de Rooij and Bos, 1997). In short, cell lysates were prepared by lysing 4 × 106 cells in RIPA buffer (50 mM Tris [pH 8.0], 150 mM NaCl, 1% NP40, 0.5% DOC, 0.1% SDS, and protease inhibitors) and incubated with precoupled GST-RBD for 30 min at 4°C. Beads were collected by centrifugation, washed three times with RIPA buffer, and resuspended in SDS loading buffer. Samples were analyzed by Western blot analysis.
+
+RT-PCR and Q-PCR
+cDNA was transcribed using SuperSCRIPT III (Invitrogen) following the manfacturer’s instructions. PITX1 was PCR amplified using the following primers: ATGGACGCCTTCAAGGGGGGC and TGCAACTGCTGGCTTGTGAAG. For amplification of RASAL1, primers GCAGGGAGGCGATTACAGCCGACCCCCGAG and GGGAAGCGAGTCTTCTTGATGGTTGAGGTCTCC were used. For amplification of ALG-2, primers ATGGCCGCCTACTCTTACCGC and GTTGTCCCGGTCGTACGTGCG were used. Samples were taken after 29, 32, and 35 cycles and analyzed by gel electrophoresis and ethidium bromide staining.
+
+For Q-PCR, a SYBRgreen PCR master mix (Applied Biosystems) was used, and the samples were amplified and analyzed by an ABI-Prism 7000 sequence detection system (Applied Biosystems).
+
+Luciferase Assay
+HEK293 cells were cotransfected with either 1 μg PITX1-GFP or H2B-GFP in combination with either 0.5 μg POMC-firefly-luc ( Vooijs et al., 2002) or a RASAL1-firefly-luc reporter construct and 1 ng SV40-renilla. Forty-eight hours after transfection, cells were lysed in 200 μl passive lysis buffer (Promega). The luciferase assay was performed according to the manufacturer’s protocol (Dual Luciferase system, Promega). The relative luciferase activity was calculated as the activity of the reporter constructs compared to the renilla activity.
+
+Chromatin Immunoprecipitation Assay
+HEK293 cells were transfected with either PITX1-GFP or H2B-GFP. After 48 hr, the cells were harvested and crosslinked with 1% formaldehyde at room temperature for 20 min. The ChIP assay was performed as previously described, using 25 μg genomic DNA for each analysis. (Barre et al., 2005). Immunoprecipitation was performed overnight at 4°C with a GFP-specific antibody or a cyclin D1 antibody as a control. After eluting twice with 1% SDS and 0.1 M NaHCO3, the eluates were pooled and subjected to a phenol/chloroform extraction. After an EtOH precipitation, the pellets were dissolved in H2O and analyzed by PCR using RASAL1-specific primers.
+
+Acknowledgments
+We thank E. Groeneveld for her help with generating anti-PITX1 antibodies, H. Pickersgill and E. Zlotorynski for critical reading of the manuscript, and H. Starrevelt for the mice husbandry. This work was supported by grants from the Dutch Cancer Society, the Centre for Biomedical Genetics, and the European Young Investigator Award (EURYI) to R.A.
+
+Supplemental Data
+ 
+Document S1. Three Figures.  
+Help with PDF filesOptions
+References
+Agami and Bernards, 2000
+R. Agami, R. Bernards
+Distinct initiation and maintenance mechanisms cooperate to induce G1 cell cycle arrest in response to DNA damage
+Cell, 102 (2000), pp. 55–66
+
+Article |  PDF (579 K) | View Record in Scopus | Cited By in Scopus (233)
+Arun and Gutmann, 2004
+D. Arun, D.H. Gutmann
+Recent advances in neurofibromatosis type 1
+Curr. Opin. Neurol., 17 (2004), pp. 101–105
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (71)
+Barre et al., 2005
+Barre, B., Vigneron, A., and Coqueret, O. (2005). The STAT3 transcription factor is a target for the Myc and riboblastoma proteins on the Cdc25A promoter, J. Biol. Chem. 280, 15673–15681. Published online January 26, 2005. 10.1074/jbc.M413203200.
+Berns et al., 2004
+K. Berns, E.M. Hijmans, J. Mullenders, T.R. Brummelkamp, A. Velds, M. Heimerikx, R.M. Kerkhoven, M. Madiredjo, W. Nijkamp, B. Weigelt et al.
+A large-scale RNAi screen in human cells identifies new components of the p53 pathway
+Nature, 428 (2004), pp. 431–437
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (701)
+Bos, 1989
+J.L. Bos
+ras oncogenes in human cancer: a review
+Cancer Res., 49 (1989), pp. 4682–4689
+
+View Record in Scopus | Cited By in Scopus (3144)
+Brummelkamp et al., 2002a
+T.R. Brummelkamp, R. Bernards, R. Agami
+Stable suppression of tumorigenicity by virus-mediated RNA interference
+Cancer Cell, 2 (2002), pp. 243–247
+
+Article |  PDF (198 K) | View Record in Scopus | Cited By in Scopus (862)
+Brummelkamp et al., 2002b
+T.R. Brummelkamp, R. Bernards, R. Agami
+A system for stable expression of short interfering RNAs in mammalian cells
+Science, 296 (2002), pp. 550–553 http://dx.doi.org/10.1126/science.1068999
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3334)
+Buchberg et al., 1990
+A.M. Buchberg, L.S. Cleveland, N.A. Jenkins, N.G. Copeland
+Sequence homology shared by neurofibromatosis type-1 gene and IRA-1 and IRA-2 negative regulators of the RAS cyclic AMP pathway
+Nature, 347 (1990), pp. 291–294
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (71)
+Counter et al., 1998
+C.M. Counter, W.C. Hahn, W. Wei, S.D. Caddle, R.L. Beijersbergen, P.M. Lansdorp, J.M. Sedivy, R.A. Weinberg
+Dissociation among in vitro telomerase activity, telomere maintenance, and cellular immortalization
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 14723–14728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (422)
+Dang et al., 2003
+D.T. Dang, X. Chen, J. Feng, M. Torbenson, L.H. Dang, V.W. Yang
+Overexpression of Kruppel-like factor 4 in the human colon cancer cell line RKO leads to reduced tumorigenecity
+Oncogene, 22 (2003), pp. 3424–3430
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (79)
+de Rooij and Bos, 1997
+J. de Rooij, J.L. Bos
+Minimal Ras-binding domain of Raf1 can be used as an activation-specific probe for Ras
+Oncogene, 14 (1997), pp. 623–625
+
+View Record in Scopus | Cited By in Scopus (363)
+Dimri et al., 1995
+G.P. Dimri, X. Lee, G. Basile, M. Acosta, G. Scott, C. Roskelley, E.E. Medrano, M. Linskens, I. Rubelj, O. Pereira-Smith et al.
+A biomarker that identifies senescent human cells in culture and in aging skin in vivo
+Proc. Natl. Acad. Sci. USA, 92 (1995), pp. 9363–9367
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3143)
+Hahn and Weinberg, 2002
+W.C. Hahn, R.A. Weinberg
+Modelling the molecular circuitry of cancer
+Nat. Rev. Cancer, 2 (2002), pp. 331–341
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (617)
+Hahn et al., 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1483)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12496)
+Harrisingh and Lloyd, 2004
+M.C. Harrisingh, A.C. Lloyd
+Ras/Raf/ERK signalling and NF1
+Cell Cycle, 3 (2004), pp. 1255–1258
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (28)
+Lamonerie et al., 1996
+T. Lamonerie, J.J. Tremblay, C. Lanctot, M. Therrien, Y. Gauthier, J. Drouin
+Ptx1, a bicoid-related homeo box transcription factor involved in transcription of the pro-opiomelanocortin gene
+Genes Dev., 10 (1996), pp. 1284–1295
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (302)
+Ohnishi et al., 2003
+S. Ohnishi, S. Ohnami, F. Laub, K. Aoki, K. Suzuki, Y. Kanai, K. Haga, M. Asaka, F. Ramirez, T. Yoshida
+Downregulation and growth inhibitory effect of epithelial-type Kruppel-like transcription factor KLF4, but not KLF5, in bladder cancer
+Biochem. Biophys. Res. Commun., 308 (2003), pp. 251–256
+
+Article |  PDF (333 K) | View Record in Scopus | Cited By in Scopus (87)
+Ramaswamy et al., 2001
+Ramaswamy, S., Tamayo, P., Rifkin, R., Mukherjee, S., Yeang, C.H., Angelo, M., Ladd, C., Reich, M., Latulippe, E., Mesirov, J.P., et al. (2001). Multiclass cancer diagnosis using tumor gene expression signatures Proc. Natl. Acad. Sci. USA 98, 15149–15154. Published online December 11, 2001. 10.1073/pnas.211566398.
+Repasky et al., 2004
+G.A. Repasky, E.J. Chenette, C.J. Der
+Renewing the conspiracy theory debate: does Raf function alone to mediate Ras oncogenesis?
+Trends Cell Biol., 14 (2004), pp. 639–647
+
+Article |  PDF (803 K) | View Record in Scopus | Cited By in Scopus (174)
+Rhim, 2001
+J.S. Rhim
+Molecular and genetic mechanisms of prostate cancer
+Radiat. Res., 155 (2001), pp. 128–132
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (7)
+Robinson and Cobb, 1997
+M.J. Robinson, M.H. Cobb
+Mitogen-activated protein kinase pathways
+Curr. Opin. Cell Biol., 9 (1997), pp. 180–186
+
+Article |  PDF (1219 K) | View Record in Scopus | Cited By in Scopus (1889)
+Serrano et al., 1997
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Singh et al., 2002
+D. Singh, P.G. Febbo, K. Ross, D.G. Jackson, J. Manola, C. Ladd, P. Tamayo, A.A. Renshaw, A.V. D’Amico, J.P. Richie et al.
+Gene expression correlates of clinical prostate cancer behavior
+Cancer Cell, 1 (2002), pp. 203–209
+
+Article |  PDF (421 K) | View Record in Scopus | Cited By in Scopus (31)
+Subramanian et al., 2004
+L. Subramanian, J.W. Crabb, J. Cox, I. Durussel, T.M. Walker, P.R. van Ginkel, S. Bhattacharya, J.M. Dellaria, K. Palczewski, A.S. Polans
+Ca2+ binding to EF hands 1 and 3 is essential for the interaction of apoptosis-linked gene-2 with Alix/AIP1 in ocular melanoma
+Biochemistry, 43 (2004), pp. 11175–11186
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (17)
+Vooijs et al., 2002
+M. Vooijs, J. Jonkers, S. Lyons, A. Berns
+Noninvasive imaging of spontaneous retinoblastoma pathway-dependent tumors in mice
+Cancer Res., 62 (2002), pp. 1862–1867
+
+View Record in Scopus | Cited By in Scopus (142)
+Voorhoeve and Agami, 2003
+P.M. Voorhoeve, R. Agami
+The tumor-suppressive functions of the human INK4A locus
+Cancer Cell, 4 (2003), pp. 311–319
+
+Article |  PDF (473 K) | View Record in Scopus | Cited By in Scopus (133)
+Walker et al., 2004
+Walker, S.A., Kupzig, S., Bouyoucef, D., Davies, L.C., Tsuboi, T., Bivona, T.G., Cozier, G.E., Lockyer, P.J., Buckler, A., Rutter, G.A., et al. (2004). Identification of a Ras GTPase-activating protein regulated by receptor-mediated Ca(2+) oscillations. EMBO J. 23, 1749–1760. Published online April 1, 2004. 10.1038/sj.emboj.7600197.
+Wolthuis and Bos, 1999
+R.M. Wolthuis, J.L. Bos
+Ras caught in another affair: the exchange factors for Ral
+Curr. Opin. Genet. Dev., 9 (1999), pp. 112–117
+
+Article |  PDF (90 K) | View Record in Scopus | Cited By in Scopus (118)
+Zhao et al., 2003
+J.J. Zhao, O.V. Gjoerup, R.R. Subramanian, Y. Cheng, W. Chen, T.M. Roberts, W.C. Hahn
+Human mammary epithelial cell transformation through the activation of phosphatidylinositol 3-kinase
+Cancer Cell, 3 (2003), pp. 483–495
+
+Article |  PDF (492 K) | View Record in Scopus | Cited By in Scopus (162)
+Zhao et al., 2004
+W. Zhao, I.M. Hisamuddin, M.O. Nandan, B.A. Babbin, N.E. Lamb, V.W. Yang
+Identification of Kruppel-like factor 4 as a potential tumor suppressor gene in colorectal cancer
+Oncogene, 23 (2004), pp. 395–402
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (145)

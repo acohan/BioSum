@@ -1,0 +1,185 @@
+miR-24 Regulates Apoptosis by Targeting the Open Reading Frame (ORF) Region of FAF1 in Cancer Cells
+Wenming Qin,1 Yi Shi,1 Botao Zhao,1 Chengguo Yao,1 Li Jin,2 Jiexian Ma,1 and Youxin Jin1,*
+Syed A. Aziz, Editor
+Author information ► Article notes ► Copyright and License information ►
+This article has been cited by other articles in PMC.
+Go to:
+Abstract
+Background
+
+microRNAs (miRNAs) are small noncoding RNAs that regulate cognate mRNAs at the post-transcriptional stage. Several studies have shown that miRNAs modulate gene expression in mammalian cells by base pairing to complementary sites in the 3′-untranslated region (3′-UTR) of the target mRNAs.
+
+Methodology/Principal Findings
+
+In the present study, miR-24 was found to target fas associated factor 1(FAF1) by binding to its amino acid coding sequence (CDS) region, thereby regulating apoptosis in DU-145 cells. This result supports an augmented model whereby animal miRNAs can exercise their effects through binding to the CDS region of the target mRNA. Transfection of miR-24 antisense oligonucleotide (miR-24-ASO) also induced apoptosis in HGC-27, MGC-803 and HeLa cells.
+
+Conclusions/Significance
+
+We found that miR-24 regulates apoptosis by targeting FAF1 in cancer cells. These findings suggest that miR-24 could be an effective drug target for treatment of hormone-insensitive prostate cancer or other types of cancers. Future work may further develop miR-24 for therapeutic applications in cancer biology.
+
+Go to:
+Introduction
+microRNAs (miRNAs) are endogenous, evolutionarily conserved small (approximately 22 nt) noncoding RNAs that have been shown to regulate gene expression post-transcriptionally [1], [2]. miRNAs usually regulate the expression of their target genes by degrading target mRNA transcripts or inhibiting mRNA translation [3], [4]. miRNAs have been implicated in various biological processes including developmental timing, patterning and embryogenesis, differentiation and organogenesis, immune response, growth control and apoptosis. However, the target genes and functions of most miRNAs are still unclear [5]–[9].
+
+Previous studies have shown that miRNAs modulate gene expression in mammalian cells by base pairing to complementary sites in the 3′-untranslated region (3′-UTR) of their target mRNAs [4], [10], [11]. More recently, it has been demonstrated that miRNAs can regulate target mRNAs by binding to the amino acid coding sequence (CDS) [12]–[14].
+
+Apoptosis is a form of programmed cell death (PCD) that occurs in multicellular organisms. Certain types of damage trigger a series of biochemical events, leading to a characteristic cell morphology and death [15], [16]. It is a well-orchestrated cellular mechanism that balances the effects of cell proliferation and cell death[17]. It seems clear that the tight regulation of apoptotic function through miRNAs is critical in development and other cellular processes. Several miRNAs that regulate apoptosis have been identified, though none of them regulate apoptosis by binding the CDS region of their targets [17]–[22]. Recently, it has been shown that miRNAs may act as oncogenes and tumor suppressors by targeting key regulators of cell growth [23]–[25].
+
+A novel class of chemically engineered oligonucleotides, termed ‘antagomirs’, can effectively silence endogenous miRNAs and have been used to abolish the aberrant expression of onco-miRNAs [26], [27]. This demonstrates a potential therapeutic application for effective silencing of onco-miRNAs in the treatment of some types of cancer[9].
+
+Fas-associated factor 1 (FAF1) is a component of the death-inducing signaling complex (DISC) and interacts with caspase-8 and FADD although it lacks the “death motifs” typical of apoptosis proteins [28]. Several recent studies showed that over-expression of FAF1 stimulated apoptosis in Jurkat cells, L cells and BOSC23 cells despite the absence of any extrinsic death signal [28]–[30]. FAF1 has been shown to play an important role in normal development and neuronal cell survival, whereas FAF1 downregulation may contribute to multiple aspects of tumorigenesis [31]. Using small interfering RNA (siRNA) to target FAF1, it was observed that down-regulation of FAF1 enhanced the susceptibility to apoptosis triggered by CP [32].
+
+Thus far, it is not known whether FAF1 is regulated by miRNAs. To our knowledge, no study has investigated how miRNAs that target the CDS region of the target gene contribute to tumor apoptosis. In this study, we show that miR-24 can regulate human FAF1 (hFAF1) expression through binding to the CDS region of hFAF1 mRNA. Moreover, we demonstrate that miR-24 regulates apoptosis and proliferation in DU-145, HGC-27, MGC-803 and HeLa cells by targeting the FAF1 gene. These findings suggest that miR-24 could be a potential drug target gene for the treatment of hormone-insensitive prostate cancer and other types of cancers.
+
+Go to:
+Results
+miR-24-ASO-Mediated Down-Regulation of miR-24 Induces Apoptosis and Affects Proliferation in DU-145 Cells
+
+To explore the functional effect of miR-24 on cell survival, we measured apoptosis in DU-145 cells transfected with miR-24-ASO. Down-regulation of miR-24 by miR-24-ASO increased apoptosis in DU-145 cells, as measured by FACS analysis of cells for propidium iodide and annexin V staining (Fig. 1A). Staurosporine was used to induce apoptosis at 48 hours after miR-24-ASO transfection. Apoptosis was much higher in DU-145 cells transfected with miR-24-ASO than in cells transfected with Negative Control NC-ASO (Fig. 1B). Next, the effect of miR-24 on the proliferation of DU-145 cells was explored with a CCK8 counting kit. As predicted, the proliferation of DU-145 cells was greatly reduced after miR-24 was down-regulated by miR-24-ASO, possibly because of apoptosis induced by miR-24-ASO (Fig. 1C). The expression of caspase-8 was also elevated in cells transfected with miR-24-ASO, while caspase-8 was slightly protected from activation in cells over-expressing miR-24 (Fig. 1D). These data suggest that miR-24 down-regulation in DU-145 cells can induce apoptosis, possibly through the caspase-8 pathway.
+
+Figure 1
+Figure 1
+Down-regulation of miR-24 induces apoptosis and affects proliferation in DU-145 cells.
+miR-24 Regulates the FAF1 Gene by Binding to the ORF Region of FAF1
+
+Using methods described by Karginov and colleagues [33] with some modifications, we found that FAF1 is a putative target of miR-24. Analysis with RNA22 software (IBM) indicated that there is no miRNA binding site in the 3′UTR region of the FAF1 gene, but two putative miR-24 binding sites were found within the open reading frame (ORF) region of FAF1 (Fig. 2A). Furthermore, the miR-24 target sequences, especially the ‘seed region’, at the ORF region of FAF1 were found to be highly conserved among eight species (Fig. 2B).
+
+Figure 2
+Figure 2
+miR-24 regulates FAF1 by targeting its ORF region.
+To test whether miR-24 could regulate FAF1 by binding to these two predicted sites, fragments containing these two sequences or mutated sequences were cloned into the 3′UTR region of the luciferase gene of the reporter vector pGL3, named FAF1/pGL3 or FAF1-M12/pGL3 (Fig. 2C). These luciferase reporter vectors containing miR-24 response elements or mutated sequences were co-transfected into 293T cells with an NC-mimic control or miR-24-mimic. Subsequently, the luciferase and Renilla activity in each well was measured. It was found that miR-24 was able to decrease the luciferase activity of the reporter vector containing miR-24 response elements, while the reporter containing mutated sequences was not down-regulated (Fig. 2C). These data show that miR-24 can down-regulate its targets by binding to these two predicted binding sites.
+
+To test whether miR-24 decreases the expression of FAF1, 293T cells were co-transfected with miR-24 mimics and pcDNA3.1-FAF1. As a control, some cells were co-transfected with NC-mimics and pcDNA3.1-FAF1. It was found that miR-24 mimics decreased FAF1 protein levels in a concentration-dependent manner (Fig. 2D and E). In addition, miR-24-ASO, miR-24 mimics and pcDNA3.1-FAF1 were co-transfected into 293T cells. The down-regulation of FAF1 was reversed by miR-24-ASO, but not by NC-ASO (Fig. 2D).
+
+To confirm that miR-24 regulated the FAF1 gene by binding to the two predicted binding sites of ORF, synonymous mutants of these two sites were constructed (Fig. 2B). The 293T cells were co-transfected with miR-24-mimic and pcDNA3.1-FAF1. The mutant FAF1 was not be down-regulated by transfection of miR-24 mimics as much as FAF1/pCDNA3.1 did (Fig. 2F). Taken together, these data suggest that miR-24 can bind and regulate these two response elements in the CDS region of the FAF1 gene.
+
+miR-24 Regulates Apoptosis in DU-145 Cells by Targeting the FAF1 Gene
+
+To test the hypothesis that miR-24 regulates apoptosis in DU-145 cells by targeting the FAF1 gene, we used FACS analysis to investigate the apoptosis of cells transfected with a series of reagents. Over-expression of FAF1 induced apoptosis, as did down-regulation of miR-24. When FAF1 and miR-24-ASO were co-transfected into DU-145 cells, the apoptosis rate was much higher when FAF1 was transfected and miR-24 was down-regulated simultaneously, as compared to results of transfecting either FAF1 or miR-24-ASO alone. Indeed, apoptosis induced by FAF1 could be rescued by the over-expression of miR-24 (Fig. 3). These data indicate that apoptosis induced by down-regulation of miR-24 may act through the regulation of FAF1.
+
+Figure 3
+Figure 3
+miR-24 regulates apoptosis by targeting FAF.
+Mutation of miR-24 Binding Sites in the FAF1 Gene Sensitizes Cells to Apoptosis
+
+The binding sites of miR-24 within the FAF1 ORF were mutated in order to further confirm that miR-24 regulates apoptosis in DU-145 cells by targeting the ORF region of the FAF1 gene. The results of this experiment show that DU-145 cells with mutant FAF1 were more susceptible to apoptosis than cells containing the wild-type FAF1 gene. To determine whether the mutant FAF1 could be regulated by miR-24, a mutant FAF1 gene and a miR-24-mimic were co-transfected into DU-145 cells. The over-expression of miR-24 could not rescue the cells from apoptosis induced by mutant FAF1 gene (Fig. 4). These data support our hypothesis that miR-24 regulates apoptosis by binding the ORF region of the FAF1 gene.
+
+Figure 4
+Figure 4
+miR-24 regulates apoptosis by binding to the ORF region of the FAF1 gene.
+miR-24-ASO-Mediated Down-Regulation of miR-24 Also Induces Apoptosis and Affects Proliferation in HGC-27, MGC-803 and HeLa Cells
+
+We next employed the cervical cancer cell line HeLa and two types of human gastric carcinoma cell lines (HGC-27 and MGC-803) to investigate whether miR-24 could regulate apoptosis in other cancer cells. Apoptosis was induced by 20 nM miR-24-ASO without any other induction after 48 hours in HGC-27 and MGC-803 cells (Fig. 5A). In HeLa cells, apoptosis was induced with1 nM staurosporine. The rate of apoptosis in was much higher in cells transfected with 20 nM miR-24-ASO than in cells transfected with NC-ASO (Fig. 5B). The data above suggest that regulation of apoptosis by miR-24 might be a common mechanism in different types of cancer cells.
+
+Figure 5
+Figure 5
+Down-regulation of miR-24 induced apoptosis in HGC-27 and MGC-803 cells, and increased staurosporine sensitivity in HeLa cells.
+Go to:
+Discussion
+miRNAs are known to inhibit gene expression by binding to the 3′ UTRs of their target transcripts [34]. Recently, it has been shown that that miRNAs may also modulate gene expression by base-pairing to the CDS region of target mRNAs. For example, the let-7 miRNA directly targets the miRNA-processing enzyme Dicer to its coding sequence, thus establishing a mechanism for a miRNA/Dicer autoregulatory negative feedback loop [12]–[14].
+
+Previous studies have found that down-regulation of FAF1 through RNA interference could enhance the susceptibility to apoptosis [32]. In the present study, we found that miR-24 acts as an endogenous siRNA for FAF1, and apoptosis induced by FAF1 can be rescued by the over-expression of miR-24.
+
+The major finding of this study is that miR-24 targets FAF1 by binding to its CDS region, thereby regulating apoptosis in DU-145 cells. Our study supports an augmented model in which animal miRNAs can regulate mRNAs by binding to targets outside as well as inside the 3′ untranslated region, and extends our understanding of how miR-24 and FAF1 regulate apoptosis in cancer cells.
+
+The function of miRNAs is particularly complicated, and miR-24 may have targets other than FAF1 that are also involved in cell survival. Previous studies have suggested that miR-24 represses the initiation and elongation phases of the translation of mRNA encoding the tumor suppressor p16 (INK4a) [35]. It also has been found that miR-24 is required to repress apoptosis in the developing neural retina [36]. Thus, FAF1 may be one of several distinct targets of miR-24 that contribute to its effect of apoptosis.
+
+DU-145 is the “classical” human prostate cancer cell line, derived from a brain metastasis. DU-145 cells have moderate metastatic potential, are not hormone-sensitive and do not express PSA (prostate specific antigen) [37]–[39]. Hormone-sensitive prostate cancers treated with hormonal therapy typically show good prognosis. However, few effective therapies exist to treat the hormone-insensitive prostate cancers represented by DU-145 [40]. In this study, we found that the over-expression of FAF1 after miR-24 down-regulation induced apoptosis in about 70% of DU-145 cells after 48 h (Fig. 3). This indicates that miR-24 could be a promising therapy target in the treatment of hormone-insensitive prostate cancer.
+
+In addition, miR-24 is one of the most abundant miRNAs in cervical cancer cells [41], and is reportedly up-regulated in solid stomach cancers [42]. Other studies also have shown that FAF1 expression is reduced in gastric carcinomas compared to non-neoplastic tissue, and there was a significant correlation between FAF1 reduction and the content of signet ring cells in gastric carcinomas [43]. These reports suggest that the expression of FAF1 is inversely correlated with the amount of miR-24 in gastric carcinomas. Our study shows that FAF1 is a direct target of miR-24, and that miR-24 can regulate apoptosis in HGC-27, MGC-803 and HeLa cells. These data indicate that regulation of apoptosis through miR-24 suppression of FAF1 may be a common mechanism in several different kinds of cancers.
+
+In conclusion, the present study suggests that the pro-apoptotic factor FAF1 is negatively regulated by miR-24 via two specific target motifs within the FAF1 ORF region. Furthermore, the down-regulation of miR-24 induces apoptosis in DU-145 cells. Our data support an augmented model in which miRNAs can directly target transcripts within their coding region, and suggests that a complete search for the regulatory targets of miRNAs should be expanded to the coding regions of genes. Our findings further reveal miR-24 to be a potential target for gene and drug therapy to treat hormone-insensitive prostate cancer. As similar results were obtained in HGC-27, MGC-803 and HeLa cells, there is also a strong rationale for future investigations of miR-24 as a therapeutic treatment for cervical and gastric cancer.
+
+Go to:
+Materials and Methods
+Cell Culture and Transfection
+
+Cell lines (293T, HeLa, HGC-27, MGC-803 and DU-145) were obtained from the Cell Bank at the China Academy of Science. Cells were cultured in DMEM, RPMI-1640 or DMEM/F12, all supplemented with 10% fetal bovine serum (FBS), at 37°C in a 5% CO2 atmosphere.
+
+Cells at about 70% confluency were transfected using INTERFERin (Polyplus, for transfection with oligonucleotides only) or Lipofectamine 2000 (Invitrogen, for transfection with plasmids) with different concentrations of synthetic miRNA mimics, negative controls (NC-mimics) (Ambion), synthetic LNA-labeled oligo-ribonucleotides, miR-24-ASO and LNA-labeled NC-ASO (TaKaRa) as well as plasmids according to standard protocols. Cells were collected at different time points after transfection for biochemical or biological assays. The oligonucleotide sequences used were:
+
+LNA NC-ASO, 5′ caCTTATCagtcAGACCAtcGT 3′;
+
+LNA 24-ASO, 5′ ctGTTCCTgctgAACTGAgcCA 3′ (small letters indicate the LNA-labeled bases).
+
+Plasmid Construction
+
+A FAF1 protein expression vector was created by PCR cloning of FAF1 cDNA (NM_007051) between the EcoRI and XhoI sites of pcDNA3.1 (−) (Invitrogen). FAF1 cDNA was amplified from a human cDNA library using the following primers:
+
+5′-GAACTCGAGATTGGCGTCCAACATGGAC-3′ and 5′-GCGCGAATTCTTACTCTTTTGCTTCAAGG-3′. Plasmids containing mutations within the binding sites of miR-24 were constructed with a PCR-based method using the following mutant primers:
+
+FAF1-Mu-B1-FW: 5′-TTAGCTACCTCACGCAAAATTTTATAACCTGGGCTT-3′
+
+FAF1-Mu-B1-RV: 5′-TGCGTGAGGTAGCTAACAATGGATTCAGCACAAAG -3′
+
+FAF1-Mu-B2-FW: 5′-CTCCCTCCGGAACCTAAGGAAGAAAATGCTGAGCCTG-3′
+
+FAF1-Mu-B2-RV: 5′-TTAGGTTCCGGAGGGAGGGCTTGCTCTAAGGACAG-3′
+
+Luciferase Assay
+
+The miR-24 binding sites were synthesized and cloned into the 3′UTR region of the luciferase gene in the pGL3 luciferase vector (Promega). The obtained construct was co-transfected with PRL-SV40 and miR-24 mimics or NC mimics (Ambion) into 293T cells as previously described. After 48 h, luciferase activity was determined as the average of three independent assays with the Dual-Luciferase Reporter system (Promega).
+
+Apoptosis Analysis
+
+Each cell line was transfected with synthesized oligonucleotides or vectors. After an additional incubation of 36 or 48 hours, the cells were harvested, stained with propidium iodide and FITC-labeled anti-annexin-V antibody, and analyzed by FACS.
+
+Cell Proliferation Assay
+
+Cell proliferation assays were performed with a Cell Counting Kit-8 (Dojindo). Cells were plated in 24-well plates in triplicate at about 5×104 cells per well and cultured in the growth medium. At the indicated time points, the numbers of cells per well were measured by the absorbance (450 nm) of reduced WST-8 (2-(2-methoxy-4-nitrophenyl)-3-(4-nitrophenyl)-5-(2, 4- disulfophenyl)-2H-tetrazolium, monosodium salt).
+
+Protein Extraction and Western Blot
+
+Cells were collected with SDS loading buffer (Sigma). Proteins were separated on SDS-polyacrylamide gels and transferred to a PVDF membrane. The membrane was then blocked with PBST containing 5% milk powder for 1 h at room temperature, followed by hybridization overnight at 4°C in TTBS containing 1% milk powder and primary antibodies. Primary antibodies were detected by a peroxidase-coupled secondary antibody (Sigma) and chemiluminescence (Pierce). The following primary antibodies were used: rabbit anti-FAF (Cell Signaling Technologies) and GAPDH (Abcam).
+
+Go to:
+Footnotes
+Competing Interests: The authors have declared that no competing interests exist.
+
+Funding: This work was supported by the National Key Basic Research and Development Program (2005CB724602) and Programs from the Chinese Academy of Sciences (KSCX-2-SW-228 and KSCX1-YW-R-64). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Go to:
+References
+1. Olena AF, Patton JG. Genomic organization of microRNAs. J Cell Physiol. 222:540–545. [PubMed]
+2. Axtell MJ. Evolution of microRNAs and their targets: are all microRNAs biologically relevant? Biochim Biophys Acta. 2008;1779:725–734. [PubMed]
+3. Yekta S, Shih IH, Bartel DP. MicroRNA-directed cleavage of HOXB8 mRNA. Science. 2004;304:594–596. [PubMed]
+4. Bartel DP. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell. 2004;116:281–297. [PubMed]
+5. Alvarez-Garcia IM, EA. MicroRNA functions in animal development and human disease. Development. 2005;132:10. [PubMed]
+6. Decembrini S, Bressan D, Vignali R, Pitto L, Mariotti S, et al. MicroRNAs couple cell fate and developmental timing in retina. Proc Natl Acad Sci U S A. 2009;106:21179–21184. [PMC free article] [PubMed]
+7. Rosa A, Brivanlou AH. microRNAs in early vertebrate development. Cell Cycle. 2009;8 [PubMed]
+8. Lu LF, Liston A. MicroRNA in the immune system, microRNA as an immune system. Immunology. 2009;127:291–298. [PubMed]
+9. Trang P, Weidhaas JB, Slack FJ. MicroRNAs as potential cancer therapeutics. Oncogene. 2008;27(Suppl 2):S52–57. [PubMed]
+10. Ambros V. The functions of animal microRNAs. Nature. 2004;431:350–355. [PubMed]
+11. Bartel DP. MicroRNAs: target recognition and regulatory functions. Cell. 2009;136:215–233. [PubMed]
+12. Tay Y, Zhang J, Thomson AM, Lim B, Rigoutsos I. MicroRNAs to Nanog, Oct4 and Sox2 coding regions modulate embryonic stem cell differentiation. Nature. 2008;455:1124–1128. [PubMed]
+13. Forman JJ L-MA, Coller HA. A search for conserved sequences in coding regions reveals that the let-7 microRNA targets Dicer within its coding sequence. Proc Natl Acad Sci U S A. 2008;105:6. [PMC free article] [PubMed]
+14. Ko HY, Lee DS, Kim S. Noninvasive imaging of microRNA124a-mediated repression of the chromosome 14 ORF 24 gene during neurogenesis. FEBS J. 2009;276:4854–4865. [PubMed]
+15. Kerr JF. A histochemical study of hypertrophy and ischaemic injury of rat liver with special reference to changes in lysosomes. J Pathol Bacteriol. 1965;90:419–435. [PubMed]
+16. Kerr JF, Wyllie AH, Currie AR. Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics. Br J Cancer. 1972;26:239–257. [PMC free article] [PubMed]
+17. Subramanian S, Steer CJ. MicroRNAs as gatekeepers of apoptosis. J Cell Physiol [PubMed]
+18. Yamakuchi M, Ferlito M, Lowenstein CJ. miR-34a repression of SIRT1 regulates apoptosis. Proc Natl Acad Sci U S A. 2008;105:13421–13426. [PMC free article] [PubMed]
+19. Lee KH, Chen YL, Yeh SD, Hsiao M, Lin JT, et al. MicroRNA-330 acts as tumor suppressor and induces apoptosis of prostate cancer cells through E2F1-mediated suppression of Akt phosphorylation. Oncogene 2009 [PubMed]
+20. Garzon R, Calin GA, Croce CM. MicroRNAs in Cancer. Annu Rev Med. 2009;60:167–179. [PubMed]
+21. Xiong Y, Fang JH, Yun JP, Yang J, Zhang Y, et al. Effects of MicroRNA-29 on apoptosis, tumorigenicity, and prognosis of hepatocellular carcinoma. Hepatology 2009 [PubMed]
+22. Nakano H, Miyazawa T, Kinoshita K, Yamada Y, Yoshida T. Functional screening identifies a microRNA, miR-491 that induces apoptosis by targeting Bcl-X(L) in colorectal cancer cells. Int J Cancer 2009 [PubMed]
+23. He L, Thomson JM, Hemann MT, Hernando-Monge E, Mu D, et al. A microRNA polycistron as a potential human oncogene. Nature. 2005;435:828–833. [PubMed]
+24. Chen CZ. MicroRNAs as oncogenes and tumor suppressors. N Engl J Med. 2005;353:1768–1771. [PubMed]
+25. Shenouda SK, Alahari SK. MicroRNA function in cancer: oncogene or a tumor suppressor? Cancer Metastasis Rev. 2009;28:369–378. [PubMed]
+26. Krutzfeldt J, Rajewsky N, Braich R, Rajeev KG, Tuschl T, et al. Silencing of microRNAs in vivo with ‘antagomirs’. Nature. 2005;438:685–689. [PubMed]
+27. Ploner A, Ploner C, Lukasser M, Niederegger H, Huttenhofer A. Methodological obstacles in knocking down small noncoding RNAs. RNA. 2009;15:1797–1804. [PMC free article] [PubMed]
+28. Ryu SW, Lee SJ, Park MY, Jun JI, Jung YK, et al. Fas-associated factor 1, FAF1, is a member of Fas death-inducing signaling complex. J Biol Chem. 2003;278:24003–24010. [PubMed]
+29. Ryu SW, Kim E. Apoptosis induced by human Fas-associated factor 1, hFAF1, requires its ubiquitin homologous domain, but not the Fas-binding domain. Biochem Biophys Res Commun. 2001;286:1027–1032. [PubMed]
+30. Chu K, Niu X, Williams LT. A Fas-associated protein factor, FAF1, potentiates Fas-mediated apoptosis. Proc Natl Acad Sci U S A. 1995;92:11894–11898. [PMC free article] [PubMed]
+31. Menges CW, Altomare DA, Testa JR. FAS-associated factor 1 (FAF1): diverse functions and implications for oncogenesis. Cell Cycle. 2009;8:2528–2534. [PMC free article] [PubMed]
+32. Ghosh AK, Basu S. Fas-associated factor 1 is a negative regulator in capsaicin induced cancer cell apoptosis. Cancer Lett 2009 [PubMed]
+33. Karginov FV, Conaco C, Xuan Z, Schmidt BH, Parker JS, et al. A biochemical approach to identifying microRNA targets. Proc Natl Acad Sci U S A. 2007;104:19291–19296. [PMC free article] [PubMed]
+34. Mishra PJ, Banerjee D, Bertino JR. MiRSNPs or MiR-polymorphisms, new players in microRNA mediated regulation of the cell: Introducing microRNA pharmacogenomics. Cell Cycle. 2008;7:853–858. [PubMed]
+35. Lal A, Kim HH, Abdelmohsen K, Kuwano Y, Pullmann R, Jr, et al. p16(INK4a) translation suppressed by miR-24. PLoS ONE. 2008;3:e1864. [PMC free article] [PubMed]
+36. Walker JC, Harland RM. microRNA-24a is required to repress apoptosis in the developing neural retina. Genes Dev. 2009;23:1046–1051. [PMC free article] [PubMed]
+37. Alimirah F, Chen J, Basrawala Z, Xin H, Choubey D. DU-145 and PC-3 human prostate cancer cell lines express androgen receptor: implications for the androgen receptor functions and regulation. FEBS Lett. 2006;580:2294–2300. [PubMed]
+38. Stone KR, Mickey DD, Wunderli H, Mickey GH, Paulson DF. Isolation of a human prostate carcinoma cell line (DU 145). Int J Cancer. 1978;21:274–281. [PubMed]
+39. Pulukuri SM, Gondi CS, Lakka SS, Jutla A, Estes N, et al. RNA interference-directed knockdown of urokinase plasminogen activator and urokinase plasminogen activator receptor inhibits prostate cancer cell invasion, survival, and tumorigenicity in vivo. J Biol Chem. 2005;280:36529–36540. [PMC free article] [PubMed]
+40. Barmoshe S, Zlotta AR. Pharmacotherapy for prostate cancer, with emphasis on hormonal treatments. Expert Opin Pharmacother. 2006;7:1685–1699. [PubMed]
+41. Wang X, Tang S, Le SY, Lu R, Rader JS, et al. Aberrant expression of oncogenic and tumor-suppressive microRNAs in cervical cancer is required for cancer cell growth. PLoS One. 2008;3:e2557. [PMC free article] [PubMed]
+42. Volinia S, Calin GA, Liu CG, Ambs S, Cimmino A, et al. A microRNA expression signature of human solid tumors defines cancer gene targets. Proc Natl Acad Sci U S A. 2006;103:2257–2261. [PMC free article] [PubMed]
+43. Bjorling-Poulsen M, Seitz G, Guerra B, Issinger OG. The pro-apoptotic FAS-associated factor 1 is specifically reduced in human gastric carcinomas. Int J Oncol. 2003;23:1015–1023. [PubMed]

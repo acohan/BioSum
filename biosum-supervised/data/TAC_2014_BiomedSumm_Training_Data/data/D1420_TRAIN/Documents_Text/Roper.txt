@@ -1,0 +1,444 @@
+Combination PI3K/MEK inhibition promotes tumor apoptosis and regression in PIK3CA wild-type, KRAS mutant colorectal cancer
+Jatin Ropera, e, Corresponding author contact information, E-mail the corresponding author, Mark J. Sinnamonb, Erin M. Coffeec, Peter Belmontd, Lily Keunge, Larissa Georgeon-Richarda, Wei Vivian Wanga, Anthony C. Faberc, Jihye Yunf, Ömer H. Yilmazg, Roderick T. Bronsonh, Eric S. Martinh, Philip N. Tsichlise, Kenneth E. Hungi
+ Show more
+DOI: 10.1016/j.canlet.2014.02.018
+Get rights and content
+Abstract
+PI3K inhibition in combination with other agents has not been studied in the context of PIK3CA wild-type, KRAS mutant cancer. In a screen of phospho-kinases, PI3K inhibition of KRAS mutant colorectal cancer cells activated the MAPK pathway. Combination PI3K/MEK inhibition with NVP-BKM120 and PD-0325901 induced tumor regression in a mouse model of PIK3CA wild-type, KRAS mutant colorectal cancer, which was mediated by inhibition of mTORC1, inhibition of MCL-1, and activation of BIM. These findings implicate mitochondrial-dependent apoptotic mechanisms as determinants for the efficacy of PI3K/MEK inhibition in the treatment of PIK3CA wild-type, KRAS mutant cancer.
+
+Keywords
+PI3K; MEK; KRAS; Colorectal cancer; Mouse model of cancer
+1. Introduction
+Members of the RAS family of GTPases (HRAS, NRAS, and KRAS) are mutated in approximately 25% of human cancers, the majority of which are mutations in KRAS, most commonly KRASG12D [1]. RAS mutations lock RAS into a constitutively activated state, which promotes tumorigenesis by activating the MAPK signaling pathway even in the absence of stimulation by receptor tyrosine kinases [2]. Oncogenic mutations in KRAS are present in 43–51% of colorectal cancers (CRCs), 27–37% of lung adenocarcinomas, and 70–90% of exocrine pancreatic cancers [3], [4], [5], [6], [7] and [8]. KRAS mutant colorectal and lung adenocarcinomas are resistant to receptor tyrosine kinase inhibitors [9] and [10]. Therefore, novel therapeutic strategies for KRAS mutant cancer are urgently needed.
+
+No inhibitors of KRAS are clinically available despite three decades of efforts. Therefore, strategies to inhibit KRAS mutant cancers have focused on signaling proteins downstream of RAS and on parallel signaling pathways such as the phosphoinositide 3-kinase (PI3K) pathway [11]. Clinical trials of PI3K inhibitors have been limited to patients whose tumors harbor mutations in PIK3CA, which encodes the p110α subunit of PI3K. However, PIK3CA mutations are found in only 20–32% of CRCs, 1–4% of lung adenocarcinomas and are not found in pancreatic cancer; only 8–11% of CRCs are mutant in both PIK3CA and KRAS [3], [4], [5], [6], [12], [13] and [14]. Thus, effective therapies are needed for the approximately 30% of CRCs that are PIK3CA wild-type, KRAS mutant, as well as for the vast majority of lung and pancreatic cancers.
+
+We recently reported that inhibition of PI3K and the downstream mammalian target of rapamycin (mTOR) pathways are effective in a mouse model of PIK3CA wild-type, KRAS wild-type CRC. However, monotherapy of the PI3K pathway has demonstrated poor clinical efficacy for KRAS mutant cancer, likely due to adaptive resistance [15]. Here, we use a phospho-kinase array to rationally identify the MAPK pathway as a resistance mechanism to PI3K inhibition in KRAS mutant cancer. We then demonstrate that combination PI3K/MEK inhibition effectively treats a genetically engineered mouse model of PIK3CA wild-type, KRAS mutant CRC. Finally, we find that PI3K/MEK inhibition effectively blocks mTORC1, inhibits the BCL-2 anti-apoptotic family member MCL-1, and activates the BH3-only pro-apoptotic family member BIM. These findings support a role for combination PI3K/MEK inhibition in the treatment of PIK3CA wild-type, KRAS mutant cancer.
+
+2. Materials and methods
+2.1. In vitro treatment of human CRC cell lines
+The human colorectal cancer cell lines DLD-1 (KRASG13D, PIK3CAE545K mutant) HCT116 (KRASG13D, PIK3CA H1047R mutant), and SW480 (KRASG13V, PIK3CA wild-type) human CRC cell lines were obtained from American Type Culture Collection (ATCC). Isogenic DLD-1 and HCT116 cells have been derived in which either the mutant or wild-type KRAS allele has been disrupted by targeted homologous recombination [16]. SW480 cells with shRNA-mediated knockdown of KRAS were obtained as kind gift from D. Chung. Cells were maintained in DMEM (Invitrogen) with 10% FBS and Penicillin/Streptomycin (Invitrogen). Cells were plated at different initial densities (HCT116: 3000 cells/well, DLD-1: 5500 cells/well, and SW480: 4500 cells/well) to account for differential growth kinetics. After 16 h, media was exchanged for DMEM media containing 0.5% FBS and cells were incubated with increasing concentrations of NVP-BKM120 (Novartis), PD-0325901 (LC Pharmaceuticals), or a combination [17] and [18]. Cell viability was assessed 16 h after the initial plating and 72 h after initiation of drug treatment using the colorimetric MTS assay CellTiter 96® AQueous One Solution Cell Proliferation Assay (Promega), as per the manufacturer’s instructions. Cell viability after drug treatment was normalized to that of cells treated with diluent (DMSO) also grown for 72 h. For western blot analysis, cells were plated with various concentrations of NVP-BKM120, PD-0325901, or combination.
+
+2.2. In vitro treatment of murine CRC cell lines
+Genetically engineered colorectal tumors were induced in Apcflox/floxKrasG12D/+p53flox/flox and Apcflox/floxKras+/+p53flox/flox mice [19]. Kras mutant and wild-type immortalized murine colorectal cancer cell lines were then derived from these tumors, as previously described [19]. Cell viability was assessed following treatment with NVP-BKM120, PD-0325901, or combination, as described above.
+
+2.3. Sequencing of colonic tumors from a GEM model of CRC
+C57BL/6J Apcflox/floxKrasG12D (Apc-Kras) mice were treated with adenovirus expressing cre recombinase (University of Iowa), as previously described [20]. Following necropsy, 10 tumor specimens were sequenced for PIK3CA exons nine (helical domain) and 20 (kinase domain) mutations, as previously described [21].
+
+2.4. In vivo treatment of GEM model of CRC
+Apcflox/flox (Apc) and Apc-Kras mice were treated with adenovirus expressing cre recombinase and followed by optical colonoscopy, as previously described [20]. As a colonoscopic metric for tumor size, the Tumor Size Index (TSI) was calculated as (tumor area/colonic lumen area) × 100 (%) [21]. Experimental drugs were diluted in 10% 1-methyl-2-pyrrolidone/90% PEG 300. Tumor-bearing Apc mice were randomly assigned to treatment with control vehicle alone (n = 8) or 40 mg/kg body weight NVP-BKM120 (n = 8) by daily oral gavage for 7 days. Tumor-bearing Apc-Kras mice were randomly assigned to treatment with either control vehicle alone, 40 mg/kg body weight NVP-BKM120, 25 mg/kg PD-0325901, or combination treatment (N = 6 per group). No toxicity was observed during the treatment period. Tumor biopsies were taken before the first treatment and one hour after the final treatment using biopsy forceps passed through the working channel of the endoscope sheath (Karl Storz), then flash-frozen in liquid nitrogen for subsequent western blot analysis [22]. Mice were sacrificed immediately following final biopsy, one hour after final treatment dose. Tumors were harvested for western blot analysis and immunohistochemistry. All protocols were approved by the Tufts Institutional Animal Care and Use Committee.
+
+2.5. Phospho-kinase analysis
+DLD-1 cells treated with or without 500 nM NVP-BKM120 for 24 h in DMEM media containing 10% FBS were tested in an array of 43 antibodies against selected phosphorylated kinases (Proteome Profiler Human Phospho-Kinase Array Kit, R&D systems), as per the manufacturer’s instructions. Phosphorylation of each target was then quantified using denisitometry (ImageJ).
+
+2.6. Western blot analysis
+Cells were seeded into six-well plates, and media was exchanged the following morning for DMEM containing 0.5% FBS. Cells were harvested at 70% confluency after 72 h treatment. Western blot analysis of whole cell and tumor lysates was performed, as previously described [21]. P-AKTThr308 (1:1000 dilution), AKT (1:1000 dilution) P-S6Ser240/244 (1:3000 dilution), S6 (1:1000 dilution), P-JNK Thr183/Tyr185(1:1000 dilution), JNK (1:1000 dilution), cleaved PARP (1:1000 dilution), BIM (1:1000 dilution), and MCL-1 (1:1000 dilution), were obtained from obtained from Cell Signaling Technologies (Beverly, MA). β-actin (1:5000 dilution) was obtained from Santa Cruz Biotechnology. Secondary antibody (1:10,000 dilution) was obtained from Jackson ImmunoResearch (West Grove, PA).
+
+2.7. Immunohistochemistry
+Immunohistochemistry was performed on paraffin-embedded tissue sections, as previously described [21]. P-AKTSer473 (1:50 dilution), P-S6Ser240/244 (1:50 dilution) were obtained from Cell Signaling Technologies (Beverly, MA). Ki-67 (1:100 dilution) was obtained from US Biological (Swampscott, MA). TUNEL assay (Apoptag) was purchased from Millipore (Billerica, MA). The Ki-67 staining was quantified as the mean number of Ki-67 positive cells/total number of glandular cells per high power field (mean of 16 high power fields) × 100. TUNEL positivity was quantified as mean number of TUNEL positive cells/total number of glandular cells per high power field (mean of 16 high power fields) × 100. Measurements were performed by three blinded, independent observers in four control and four treated tumors.
+
+2.8. Cell cycle analysis
+Cells were seeded at roughly 30–40% confluency and treated overnight with the indicated treatments in DMEM supplemented with 0.5% FBS, or control media, in triplicate. Cells were collected, washed in PBS, and resuspended in propidium iodide (PI) staining buffer (PBS containing 1% Triton X-100, 50 mg/ml PI and 50 mg/ml RNase). Cells were incubated for 30 min (37 °C) and DNA content was measured by flow cytometry using a BD FACSCanto cytometer (BD Biosciences).
+
+2.9. Statistics
+Pre- and post-treatment Tumor Size Index values were compared with the Wilcoxon signed-rank test. All other comparisons between groups were performed using the two-tailed Student’s T test.
+
+P < 0.05 was considered significant for all analyses. All analyses were calculated using SPSS 18.0 for Windows (IBM, Inc).
+
+3. Results
+3.1. Human and murine KRAS mutant CRC cell lines are resistant to PI3K inhibition
+To assess the efficacy of PI3K blockade in KRAS mutant CRC, we treated CRC cells with or without KRAS expression with 500 nM NVP-BKM120, a specific inhibitor of all four class I PI3K isoforms, and assessed cell viability after 72 h [17]. The dose of 500 nM NVP-BKM120 was selected based on data demonstrating that 500 nM is the IC50 required to inhibit PI3K activity in vitro [17]. NVP-BKM120 significantly inhibited proliferation of KRAS wild-type, but not mutant, cell lines ( Fig. 1A), and suppressed PI3K and downstream mTORC1 activity in both KRAS wild-type and mutant DLD-1 cells, as assessed by western blot for P-AKT and P-S6 ( Fig. 1B). Consistent with a prior report, both PIK3CA mutant and wild-type cells were sensitive to NVP-BKM120 [17]. We then confirmed these findings in low passage, immortalized colorectal cancer cell lines derived from Pik3ca wild-type/Kras wild-type and Pik3ca wild-type/Kras mutant genetically engineered murine tumors [19]. We found that NVP-BKM120 effectively inhibited proliferation of Pik3ca wild-type/Kras wild-type, but not Kras mutant, murine cell lines ( Fig. 1C).
+
+Full-size image (82 K)
+Fig. 1. 
+KRAS mutant CRC is resistant to PI3K inhibition. (A) KRAS mutant CRC cell lines DLD-1 and HCT116 and their wild-type isogenic counterparts and SW480 control or sh-KRAS cells were seeded in 0.5% FBS media, then treated with DMSO (−) or 500 nM NVP-BKM120 (+) for 72 h. Cell viability was assessed via MTS assay. (B) PI3K (P-AKTThr308) and mTORC1 (P-S6Ser240/244) activity in DLD-1 KRAS wild-type and mutant isogenic cells was assessed via western blot. (C) Kras+/+ (F62 and E75) and KrasG12D/+ (a54 and a88) murine CRC cell lines were seeded in 0.5% FBS media, then treated with DMSO (−) or 500 nM NVP-BKM120 (+) for 72 h. Proliferation was assessed via MTS assay. Tumor-bearing Apcflox/flox (Apc) mice were randomized to vehicle or 40 mg/kg NVP-BKM120 for seven days. Colonoscopy images (D) were taken before and after treatment to calculate Tumor Size Index (tumor area/luminal area × 100) (E). Tumor biopsies were obtained before and after treatment and assayed for PI3K and mTORC1 signaling via western blot (F). Similar experiments were performed in Apcflox/flox/KrasG12D/+ (Apc-Kras) mice (G–I). ∗P < 0.01.
+Figure options
+3.2. Genetically engineered Kras mutant murine tumors wild-type for Pik3ca do not respond to PI3K inhibition
+We evaluated the efficacy of PI3K inhibition in genetically engineered mouse models of PIK3CA wild-type CRC. Consistent with our report that CRC tumors wild-type for Kras and Pik3ca are sensitive to NVP-BEZ235 (a dual PI3K/mTOR inhibitor), treatment of tumor-bearing Apc mice with NVP-BKM120 resulted in tumor regression and inhibition of P-AKT and P-S6 [21] ( Fig. 1D–F, Supplementary Fig. 1). In contrast, treatment of tumor-bearing Apc-Kras mice had no effect on tumor size but effectively inhibited PI3K and mTOR activity ( Fig. 1G–I, Supplementary Fig. 2). As expected, 10 of 10 Apc-Kras tumors tested negative for the most common PIK3CA mutations, H1047R and E545K (data not shown). These findings suggest that PI3K inhibition is an effective treatment for PIK3CA wild-type, KRAS wild-type CRC, but does not treat PIK3CA wild-type, KRAS mutant CRC.
+
+3.3. A phospho-kinase array identifies MAPK activation as a resistance mechanism to PI3K inhibition
+To identify possible resistant mechanisms to PI3K blockade in KRAS mutant CRC, we assessed the levels of 43 phosphorylated kinases in DLD-1 cells treated with 500 nM and 2500 nM NVP-BKM120 relative to vehicle control using a phospho-kinase array (Proteome Profiler Human Phospho-Kinase Array Kit, R&D systems) ( Fig. 2A). 500 nM NVM-BKM120 treatment resulted in activation of P-JNKThr183/Tyr185, Thr221/Tyr223 (54%), P-mTORSer2448 (50%), P-ERK1/2Thr202/Tyr204, Thr185/Tyr187 (32%), P-SRCTyr419 (20%), and P-MEK1/2Ser218/Ser222, Ser222/Ser226 (17%) ( Supplementary Table 1). SRC and mTOR are well-established molecular pathways in KRAS wild-type CRC [23] and [24]. We therefore selected the JNK and MAPK pathway (which includes ERK and MEK) as candidate resistance mechanisms to PI3K inhibition.
+
+Full-size image (93 K)
+Fig. 2. 
+PI3K blockade induces MAPK activation in KRAS mutant CRC and is overcome with combination PI3K/MEK inhibition. (A) DLD-1 cells were treated with DMSO, 500 nM NVP-BKM120, or 2000 nM NVP-BKM120 for 24 h. Cell lysates were probed with a phospho-kinase array (Proteome Profiler Human Phospho-Kinase Array Kit, R&D systems). (P-ERK1/2Thr202/Tyr204, black boxes) (B) DLD-1 KRAS WT and mutant isogenic cells were treated with 2000 nM BKM120 for 72 h, and probed for JNK and MAPK signaling with western blot. (C) Tumor biopsies from two Apc and Apc-Kras mice before and after 7 days treatment with vehicle or NVP-BKM120 were assessed for P-ERK1/2 Thr202/Tyr204 signaling with western blot. DLD-1 (D), HCT116 (F), SW480 (G), and murine (H) KRAS WT and mutant cells were treated with DMSO, 500 nM NVP-BKM120, 100 nM PD325901, or combination for 72 h. Cell viability was assessed via MTS assay. (E) KRAS WT and mutant isogenic DLD-1 cells were treated for 72 h with DMSO, 500 nM NVP-BKM120 (+), or 2000 nM NVP-BKM120 (++), with or without 100 nM PD325901, then probed for MAPK (P-ERK1/2Thr202/Tyr204), mTORC1 (P-S6Ser240/244), and PI3K (P-AKTThr308) signaling. ∗P < 0.001.
+Figure options
+We first sought to validate the findings from the phospho-kinase array with western blot to identify resistance mechanisms to PI3K inhibition that are specific to KRAS mutant cancer. Treatment of KRAS wild-type, but not KRAS mutant, isogenic DLD-1 cells with 1500 nM NVP-BKM120 resulted in activation of P-JNK. This is consistent with evidence that JNK plays an important role in tumor progression in an Apc mutant, Kras wild-type mouse model of intestinal tumorigenesis [25]. In contrast, treatment of KRAS mutant DLD-1 cells and Apc-Kras tumors resulted in greater P-ERK1/2 and P-MEK activation compared to treatment of their KRAS wild-type counterparts ( Fig. 2B–E, Fig. 2C, Supplementary Figs. 1 and 2). We therefore identified the MAPK pathway as a likely resistance mechanism to PI3K blockade in KRAS-mutant CRC.
+
+3.4. Dual PI3K/MEK inhibition overcomes PI3K resistance in KRAS mutant human and murine CRC cells
+To assess the role of dual PI3K/MEK blockade in treatment of KRAS mutant CRC, we treated KRAS wild-type and mutant CRC cells with 500 nM NVP-BKM120, 100 nM of the specific MEK inhibitor PD-0325901, or combination, and assessed cell viability [18]. For all three sets of cell lines, combination therapy was significantly more effective than monotherapy in inhibiting cellular proliferation in KRAS mutant cells ( Fig. 2D–G). Corresponding western blot analysis for DLD-1 isogenic lines demonstrated elevated baseline P-ERK1/2 levels in KRAS-mutant lines, activation of P-ERK with NVP-BKM120 treatment, and maximal inhibition of P-AKT and P-S6 with combination PI3K/MAPK inhibition ( Fig. 2E). Analogous experiments in Kras wild-type and mutant murine CRC cell lines demonstrated greater efficacy with combination therapy compared to NVP-BKM120 or PD-0325901 monotherapy ( Fig. 2H).
+
+3.5. Combination PI3K/MEK inhibition induces tumor regression and inhibits proliferation in Pik3ca wild-type, Kras mutant murine colorectal tumors
+We then sought to validate our in vitro findings in the genetically engineered mouse model of CRC. We treated Apc-Kras tumors with NVP-BKM120, PD-0325901, or combination, for seven days, and assessed tumor size and activation of the PI3K, mTOR, and MAPK pathways before and after treatment. Combination PI3K/MEK therapy was required for maximal tumor regression in Apc-Kras tumors and inhibition of the PI3K, mTORC1, and MAPK pathways ( Fig. 3A–C, Supplementary Fig. 2). Immunohistochemistry for Ki-67 revealed that while NVP-BKM120 was sufficient for inhibition of tumor cell proliferation in Apc tumors, combination NVP-BKM120/PD-0325901 was required for inhibition of proliferation in Apc-Kras tumors ( Fig. 4A–D).
+
+Full-size image (61 K)
+Fig. 3. 
+Combination PI3K/MEK inhibition induces tumor regression in a mouse model of PIK3CA wild-type, KRAS-mutant CRC. Tumor-bearing Apc-Kras mice were treated with vehicle, 40 mg/kg NVP-BKM120, 25 mg/kg PD-325901, or combination for seven days. (A) Representative colonoscopic tumor images are shown before and after treatment. (B) Tumor size index (tumor area/luminal area × 100) was assessed for each tumor before and after treatment to calculate percent change in tumor size. (C) Biopsy specimens obtained before and after treatment for two tumors in each treatment group were probed for PI3K, mTORC1, and MAPK signaling with western blot.
+Figure options
+Full-size image (57 K)
+Fig. 4. 
+Dual PI3K/MEK inhibition inhibits proliferation of Kras-mutant CRC in vivo. Tumor-bearing Apc mice were treated with control or NVP-BKM120 for seven days. After sacrifice, Ki-67 staining of tumors was assessed by immunohistochemistry (20×) (A and B). Tumor-bearing Apc-Kras mice were treated with control, NVP-BKM120, PD-325901, or combination for seven days. Ki-67 staining of tumors was assessed by immunohistochemistry (20X) (C and D). ∗P < 0.01.
+Figure options
+3.6. Dual PI3K/MEK inhibition induces G1 phase arrest in KRAS mutant CRC cell lines
+To further explore the mechanisms by which PI3K/MEK inhibition treats KRAS mutant CRC, we assessed cell cycle progression in DLD-1 and HCT116 KRAS isogenic cell lines. For both lines, NVP-BKM120 or PD-0325901 monotherapy was sufficient to induce G1 phase arrest in KRAS wild-type cells, while combination NVP-BKM120/PD-0325901 treatment was required to induce G1 phase arrest in KRAS mutant cells ( Supplementary Fig. 3).
+
+3.7. Combination PI3K/MEK blockade activates apoptotic pathways and inhibits anti-apoptotic pathways in KRAS mutant CRC
+Based on our finding that PI3K/MEK treatment blocks cell proliferation by inducing cell cycle arrest, we asked whether combination treatment promotes apoptosis. In KRAS wild-type isogenic cells, NVP-BKM120 therapy was sufficient to induce cleavage of PARP by Caspase 3, a marker of cellular apoptosis. However, in KRAS mutant isogenic cells, combination NVP-BKM120/PD-0325901 treatment was required to induce PARP cleavage ( Fig. 5A and B). In vivo, while PI3K blockade induced apoptosis in Apc tumors, combination PI3K/MEK inhibition was required to induce apoptosis in Apc-Kras tumors ( Fig. 5C–F).
+
+Full-size image (109 K)
+Fig. 5. 
+Combination PI3K/MEK inhibition is required for induction of apoptosis in KRAS mutant CRC. Isogenic KRAS mutant and wild-type DLD-1 (A) and HCT116 (B) CRC cells were treated with DMSO, 500 nM NVP-BKM120, 100 nM PD325901, or combination for 72 h. Cell lysates were probed for Cleaved PARP. (C–F) Control and treated Apc and Apc-Kras tumor specimens were assessed for TUNEL staining (20×). ∗P < 0.01.
+Figure options
+MCL-1 is one of the most highly amplified genes in human cancers, particularly colorectal cancer [26]. MCL-1 is a member of the BCL-2 family of anti-apoptotic proteins and acts on the mitochondrial membrane to directly bind and sequester BH3-only pro-apoptotic family members such as BIM [27]. We therefore asked whether the efficacy of combination PI3K/MEK inhibition in KRAS mutant CRC is in part due to inhibition of MCL-1 and/or activation of BIM. We found that NVP-BKM120 or PD-0325901 was sufficient to inhibit MCL1 and activate BIM in KRAS wild-type CRC cell lines and genetically engineered colorectal tumors, while combination therapy was required to achieve the same apoptotic effect in KRAS mutant CRC cell lines and tumors ( Fig. 6).
+
+Full-size image (32 K)
+Fig. 6. 
+Dual PI3K/MEK blockade promotes apoptosis by inhibiting MCL-1 and activating BIM in KRAS mutant CRC. (A) Isogenic DLD-1 KRAS wild-type and mutant cells were treated with DMSO, 500 nM NVP-BKM120, 100 nM PD-325901, or combination for 72 h. Cell lysates were assessed for BIM and MCL-1 expression. (B) Tumor biopsies from Apc and Apc-Kras mice before and after treatment with vehicle, NVP-BKM120, or PD-325901 were assessed for BIM and MCL-1 expression.
+Figure options
+4. Discussion
+Therapeutic options for cancers with activating mutations in KRAS are limited. A number of studies have identified unbiased strategies to treat KRAS mutant cancers through RNA interference screens, including inhibition of TAK1, STK33, TBK1, WT1, GATA2, and BCL-XL/MEK [28], [29], [30], [31], [32] and [33]. However, follow up studies have been difficult to reproduce, possibly due to the off-target effects of RNA interference [34]. Moreover, clinical translation of these findings is limited by the need for selective, efficacious, and nontoxic drugs that target these pathways. In this study, we used a phospho-kinase array to identify adaptive mechanisms of resistance to PI3K inhibition in KRAS mutant CRC cells among 43 well-characterized kinases, most of which are targeted by known selective agents. This analysis revealed many potential phosphorylated mediators of PI3K resistance, including JNK, mTOR, ERK, MEK, SRC, p38a, HCK, p27, and FYN. The MAPK pathway has gained the most extensive interest as a resistance mechanism to PI3K inhibition due to multiple nodes of cross-talk between these pathways and the broad availability of selective pre-clinical therapeutics [35].
+
+The importance of MAPK signaling in adaptive resistance to selective pan-class I PI3K inhibitors is supported by several studies demonstrating the combined benefit of PI3K/MEK inhibition in the treatment of PIK3CA mutant, KRAS mutant colorectal, ovarian, and lung cancers [36], [37], [38], [39], [40], [41] and [42]. However, these studies did not examine the role of PI3K/MEK inhibition in PIK3CA wild-type cancers, which comprise the majority of KRAS-mutant cancers [3]. Despite studies suggesting that PI3K inhibitors are somewhat more effective in cancers with mutations in PIK3CA, we previously found that PIK3CA isogenic CRC cell lines and PIK3CA wild-type murine colorectal tumors are sensitive to PI3K/mTOR inhibition due to constitutive AKT activity [17], [21] and [43]. Here, we show that combination PI3K/MEK inhibition is effective in inducing regression of PIK3CA wild-type, KRAS mutant CRC by inhibiting mTORC1, blocking the anti-apoptotic activity of MCL-1 and increasing the pro-apoptotic activity of BIM.
+
+In vivo studies of PI3K/MEK inhibition have largely depended on (1) human cell lines and xenografts in immune-compromised mice that fail to recapitulate the complex host-stroma interaction in human tumors, or (2) genetic manipulations to over-activate PI3K in mouse models that are not commonly found in the cancer of study [37], [38] and [41]. To avoid these limitations, we first tested our hypothesis in PIK3CA mutant (DLD-1 and HCT116) and wild-type (SW480) KRAS mutant human CRC cell lines. We then confirmed our findings in our Pik3ca wild-type murine CRC cell lines that are Kras mutant or Kras wild-type. These murine tumor-derived CRC cell lines are an excellent preclinical resource for drug discovery; they are genetically defined, recently derived (<5 passages), and recapitulate key genetic signatures of KRAS mutant and wild-type human cancers [19].
+
+We validated our in vitro findings in genetically engineered mouse models of PIK3CA wild-type, KRAS wild-type (Apc) or PIK3CA wild-type, KRAS mutant (Apc-Kras) CRC. These models reproduce important features of human CRC: (1) tumors derive from somatic modification of driver genes such as Apc; (2) tumors recapitulate the adenoma-carcinoma-metastasis sequence; (3) only 1–3 tumors form; and (4) tumors are located only in the colon [20]. We have previously demonstrated the utility of endoscopic monitoring to assess tumor size before and after treatment [20], [21] and [44]. Here, we show that tumors can be biopsied before and after drug therapy to assess mechanisms of response and resistance in individual mice. Taken together, our rigorous three-step approach (e.g., human cell line, murine cell line, and genetically engineered mouse model studies) represents a new model for preclinical therapeutic studies that maximizes the likelihood of translational relevance.
+
+Our findings are relevant to the clinical care of patients with KRAS-mutant cancers for a number of reasons. First, although a number of Phase I clinical trials are currently examining the role of PI3K/MEK blockade in KRAS-mutant CRC and other cancers, patients harboring PIK3CA wild-type cancers are currently excluded [35]. Our findings suggest that the scope of these studies should be expanded to include PIK3CA wild-type patients. Second, our finding that tumor regression with combination PI3K/MEK therapy in KRAS-mutant CRC was associated with mTORC1 inhibition corroborates recent reports that mTORC1 suppression predicts sensitivity to MEK [45] or PI3K [46] inhibition. Together, these reports and our work suggest that efficacy of PI3K and MEK inhibitors as monotherapy or in combination depend on mTORC1 blockade. Finally, we report that modulation of the mitochondrial-dependent apoptotic program is an important mechanism for the effectiveness of PI3K/MEK inhibition. Previous studies have identified the anti-apoptotic BCL-2 family member MCL-1 and the pro-apoptotic BH3-only family member BIM as sentinel effectors in cancer cell apoptosis in response to targeted therapy [40], [47], [48], [49] and [50]. Our results therefore support future studies on BCL-2 family inhibitors in KRAS mutant cancer.
+
+Our findings raise the question of whether combination PI3K/MEK inhibition may be beneficial to patients harboring KRAS wild-type cancers. Prior reports have demonstrated that KRAS wild-type cells are less sensitive to MEK inhibition than KRAS-mutant cells [37] and [42]. However, we found that DLD-1 KRAS wild-type cells, and one of two Kras wild-type CRC tumors, exhibited modest induction of P-ERK following treatment with PI3K inhibitor ( Fig. 2C and E). While KRAS wild-type cells were exquisitely sensitive to PI3K inhibition alone, combination treatment with a MEK inhibitor provided additional reduction in cell viability, induction of BIM, and inhibition of MCL-1 (Figs. 2D, F–H, and 6A) without increased cell cycle arrest or PARP cleavage ( Supplementary Fig. 1, Figs. 5A and B). Thus, our findings implicate a potential role for combination PI3K/MEK inhibition in KRAS wild-type cancer. Taken together, further studies are needed to explore this therapeutic paradigm.
+
+In conclusion, we report the efficacy of combination PI3K/MEK inhibition of PIK3CA wild-type, KRAS-mutant human CRC cell lines, mouse CRC cell lines, and genetically engineered mice. Tumor regression with dual PI3K/MEK therapy was mediated by mTORC1 inhibition, MCL-1 inhibition, and BIM up-regulation. Our findings provide a rationale for testing PI3K/MEK inhibitors in patients with PIK3CA wild-type, KRAS-mutant cancer.
+
+5. Funding
+American Gastroenterological Association (Fellowship to Faculty Transition Award to J.R.).
+
+Conflict of Interest
+All authors report no conflicts of interest.
+
+Acknowledgements
+None.
+
+Appendix A. Supplementary material
+
+Full-size image (67 K)
+Supplementary Figure 1. 
+PI3K blockade inhibits the PI3K and mTORC1 pathways while activating the MAPK pathway in Pik3ca wild-type, Kras wild-type genetically engineered murine tumors. Tumor-bearing Apc mice were sacrificed one hour after final treatment with vehicle or NVP-BKM120. Tumors were assessed for PI3K, mTOR, and MAPK signaling with immunohistochemistry (40×).
+Figure options
+Full-size image (83 K)
+Supplementary Figure 2. 
+Combination PI3K/MEK blockade inhibits the PI3K, mTORC1, and MAPK pathways in Pik3ca wild-type, Kras mutant genetically engineered murine tumors. Tumor-bearing Apc-Kras mice were sacrificed one hour after final treatment with vehicle, NVP-BKM120, PD-32590, or combination. Tumors were assessed for PI3K, mTOR, and MAPK signaling with immunohistochemistry (40X).
+Figure options
+Full-size image (99 K)
+Supplementary Figure 3. 
+PI3K/MEK treatment induces G1 phase arrest in KRAS mutant isogenic CRC cell lines. Isogenic DLD-1 (A and B) and HCT116 (C and D) CRC cell lines either lacking KRASD13 or the wild-type KRAS allele through homologous recombination (KRASD13/∗ or KRAS∗/+) were treated with control, 500 nM NVP-BKM120, 100 nM PD-0325901, or combination for 24 h. Cells were then harvested, stained with propidium iodide, and analyzed for cell cycle with a FACS sorter. Percentages of cells in G1, S, and G2 phase were calculated.
+Figure options
+ 
+Supplementary Table 1.  
+
+Phosphorylated proteins up-regulated in DLD-1 cells after 24 h treatment with 500 or 2500 nM NVP-BKM120. Values are expressed as fold-change normalized to no treatment.
+
+Help with DOC filesOptions
+References
+[1]
+J.L. Bos, E.R. Fearon, S.R. Hamilton, M. Verlaan-de Vries, J.H. van Boom, A.J. van der Eb et al.
+Prevalence of ras gene mutations in human colorectal cancers
+Nature, 327 (1987), pp. 293–297
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (811)
+[2]
+E. Castellano, J. Downward
+RAS interaction with PI3K
+Genes Cancer, 2 (2011), pp. 261–274
+
+View Record in Scopus | Citing articles (85)
+[3]
+Cancer Genome Atlas Network
+Comprehensive molecular characterization of human colon and rectal cancer
+Nature, 487 (2012), pp. 330–337
+
+View Record in Scopus | Citing articles (1)
+[4]
+S. Seshagiri, E.W. Stawiski, S. Durinck, Z. Modrusan, E.E. Storm, C.B. Conboy et al.
+Recurrent R-spondin fusions in colon cancer
+Nature, 488 (2012), pp. 660–664
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+[5]
+L. Ding, G. Getz, D.A. Wheeler, E.R. Mardis, M.D. McLellan, K. Cibulskis et al.
+Somatic mutations affect key pathways in lung adenocarcinoma
+Nature, 455 (2008), pp. 1069–1075
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (904)
+[6]
+M. Imielinski, A.H. Berger, P.S. Hammerman, B. Hernandez, T.J. Pugh, E. Hodis et al.
+Mapping the hallmarks of lung adenocarcinoma with massively parallel sequencing
+Cell, 150 (2012), pp. 1107–1120
+
+Article |  PDF (1774 K) | View Record in Scopus | Citing articles (202)
+[7]
+C. Almoguera, D. Shibata, K. Forrester, J. Martin, N. Arnheim, M. Perucho
+Most human carcinomas of the exocrine pancreas contain mutant c-K-ras genes
+Cell, 53 (1988), pp. 549–554
+
+Article |  PDF (3669 K) | View Record in Scopus | Citing articles (1083)
+[8]
+M. Tada, M. Omata, M. Ohto
+Clinical application of ras gene mutation for diagnosis of pancreatic adenocarcinoma
+Gastroenterology, 100 (1991), pp. 233–238
+
+View Record in Scopus | Citing articles (121)
+[9]
+C.S. Karapetis, S. Khambata-Ford, D.J. Jonker, C.J. O’Callaghan, D. Tu, N.C. Tebbutt et al.
+K-ras mutations and benefit from cetuximab in advanced colorectal cancer
+N. Engl. J. Med., 359 (2008), pp. 1757–1765
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1483)
+[10]
+V. Ludovini, F. Bianconi, L. Pistola, V. Pistola, R. Chiari, R. Colella et al.
+Optimization of patient selection for EGFR-TKIs in advanced non-small cell lung cancer by combined analysis of KRAS, PIK3CA, MET, and non-sensitizing EGFR mutations
+Cancer Chemother. Pharmacol., 69 (2012), pp. 1289–1299
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+[11]
+T.L. Yuan, L.C. Cantley
+PI3K pathway alterations in cancer: variations on a theme
+Oncogene, 27 (2008), pp. 5497–5510
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (575)
+[12]
+Y. Samuels, Z. Wang, A. Bardelli, N. Silliman, J. Ptak, S. Szabo et al.
+High frequency of mutations of the PIK3CA gene in human cancers
+Science, 304 (2004), p. 554
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1590)
+[13]
+G.A. Weiss, M.R. Rossi, N.I. Khushalani, K. Lo, J.F. Gibbs, A. Bharthuar et al.
+Evaluation of phosphatidylinositol-3-kinase catalytic subunit (PIK3CA) and epidermal growth factor receptor (EGFR) gene mutations in pancreaticobiliary adenocarcinoma
+J. Gastrointest. Oncol., 4 (2013), pp. 20–29
+
+View Record in Scopus | Citing articles (2)
+[14]
+W. De Roock, B. Claes, D. Bernasconi, J. De Schutter, B. Biesmans, G. Fountzilas et al.
+Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal cancer: a retrospective consortium analysis
+Lancet Oncol., 11 (2010), pp. 753–762
+
+Article |  PDF (383 K) | View Record in Scopus | Citing articles (476)
+[15]
+P. Liu, H. Cheng, T.M. Roberts, J.J. Zhao
+Targeting the phosphoinositide 3-kinase pathway in cancer
+Nat. Rev. Drug Discov., 8 (2009), pp. 627–644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (624)
+[16]
+S. Shirasawa, M. Furuse, N. Yokoyama, T. Sasazuki
+Altered growth of human colon cancer cell lines disrupted at activated Ki-ras
+Science, 260 (1993), pp. 85–88
+
+View Record in Scopus | Citing articles (406)
+[17]
+S.-M. Maira, S. Pecchi, A. Huang, M. Burger, M. Knapp, D. Sterker et al.
+Identification and characterization of NVP-BKM120, an orally available pan-class I PI3-kinase inhibitor
+Mol. Cancer Ther., 11 (2012), pp. 317–328
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+[18]
+L. Ciuffreda, D. Del Bufalo, M. Desideri, C. Di Sanza, A. Stoppacciaro, M.R. Ricciardi et al.
+Growth-inhibitory and antiangiogenic activity of the MEK inhibitor PD0325901 in malignant melanoma with or without BRAF mutations
+Neoplasia, 11 (2009), pp. 720–731
+
+View Record in Scopus | Citing articles (40)
+[19]
+E.S. Martin, P.J. Belmont, M.J. Sinnamon, L.G. Richard, J. Yuan, E.M. Coffee et al.
+Development of a colon cancer GEMM-derived orthotopic transplant model for drug discovery and validation
+Clin. Cancer Res., 19 (2013), pp. 2929–2940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+[20]
+K.E. Hung, M.A. Maricevich, L.G. Richard, W.Y. Chen, M.P. Richardson, A. Kunin et al.
+Development of a mouse model for sporadic and metastatic colon tumors and its use in assessing drug treatment
+Proc. Natl. Acad. Sci. USA, 107 (2010), pp. 1565–1570
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (60)
+[21]
+J. Roper, M.P. Richardson, W.V. Wang, L.G. Richard, W. Chen, E.M. Coffee et al.
+The dual PI3K/mTOR inhibitor NVP-BEZ235 induces tumor regression in a genetically engineered mouse model of PIK3CA wild-type colorectal cancer
+PLoS ONE, 6 (2011), p. e25132
+
+Full Text via CrossRef
+[22]
+M.F. Neurath, N. Wittkopf, A. Wlodarski, M. Waldner, C. Neufert, S. Wirtz et al.
+Assessment of tumor development and wound healing using endoscopic techniques in mice
+Gastroenterology, 139 (2010), pp. 1837–1843.e1
+
+Article |  PDF (1810 K)
+[23]
+A.N. Gargalionis, M.V. Karamouzis, A.G. Papavassiliou
+The molecular rationale of Src inhibition in colorectal carcinomas
+Int. J. Cancer, 134 (2014), pp. 2019–2029
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2)
+[24]
+T. Fujishita, K. Aoki, H.A. Lane, M. Aoki, M.M. Taketo
+Inhibition of the mTORC1 pathway suppresses intestinal polyp formation and reduces mortality in ApcDelta716 mice
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 13544–13549
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (65)
+[25]
+T. Fujishita, M. Aoki, M.M. Taketo
+JNK signaling promotes intestinal tumorigenesis through activation of mTOR complex 1 in Apc(Δ716) mice
+Gastroenterology, 140 (2011), pp. 1556–1563.e6
+
+Article |  PDF (3219 K)
+[26]
+R. Beroukhim, C.H. Mermel, D. Porter, G. Wei, S. Raychaudhuri, J. Donovan et al.
+The landscape of somatic copy-number alteration across human cancers
+Nature, 463 (2010), pp. 899–905
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (728)
+[27]
+R.M. Perciavalle, J.T. Opferman
+Delving deeper: MCL-1’s contributions to normal and cancer biology
+Trends Cell Biol., 23 (2013), pp. 22–29
+
+Article |  PDF (407 K) | View Record in Scopus | Citing articles (9)
+[28]
+A. Singh, M.F. Sweeney, M. Yu, A. Burger, P. Greninger, C. Benes et al.
+TAK1 inhibition promotes apoptosis in KRAS-dependent colon cancers
+Cell, 148 (2012), pp. 639–650
+
+Article |  PDF (2133 K) | View Record in Scopus | Citing articles (35)
+[29]
+C. Scholl, S. Fröhling, I.F. Dunn, A.C. Schinzel, D.A. Barbie, S.Y. Kim et al.
+Synthetic lethal interaction between oncogenic KRAS dependency and STK33 suppression in human cancer cells
+Cell, 137 (2009), pp. 821–834
+
+Article |  PDF (2305 K) | View Record in Scopus | Citing articles (244)
+[30]
+D.A. Barbie, P. Tamayo, J.S. Boehm, S.Y. Kim, S.E. Moody, I.F. Dunn et al.
+Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1
+Nature, 462 (2009), pp. 108–112
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (313)
+[31]
+S. Vicent, R. Chen, L.C. Sayles, C. Lin, R.G. Walker, A.K. Gillespie et al.
+Wilms tumor 1 (WT1) regulates KRAS-driven oncogenesis and senescence in mouse and human models
+J. Clin. Invest., 120 (2010), pp. 3940–3952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+[32]
+M.S. Kumar, D.C. Hancock, M. Molina-Arcas, M. Steckel, P. East, M. Diefenbacher et al.
+The GATA2 transcriptional network is requisite for RAS oncogene-driven non-small cell lung cancer
+Cell, 149 (2012), pp. 642–655
+
+Article |  PDF (1843 K) | View Record in Scopus | Citing articles (54)
+[33]
+R.B. Corcoran, K.A. Cheng, A.N. Hata, A.C. Faber, H. Ebi, E.M. Coffee et al.
+Synthetic lethal interaction of combined BCL-XL and MEK inhibition promotes tumor regressions in KRAS mutant cancer models
+Cancer Cell, 23 (2013), pp. 121–128
+
+Article |  PDF (1509 K) | View Record in Scopus | Citing articles (38)
+[34]
+C. Babij, Y. Zhang, R.J. Kurzeja, A. Munzli, A. Shehabeldin, M. Fernando et al.
+STK33 kinase activity is nonessential in KRAS-dependent cancer cells
+Cancer Res., 71 (2011), pp. 5818–5826
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+[35]
+C.D. Britten
+PI3K and MEK inhibitor combinations: examining the evidence in selected tumor types
+Cancer Chemother. Pharmacol., 71 (2013), pp. 1395–1409
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+[36]
+K. Yu, L. Toral-Barza, C. Shi, W.-G. Zhang, A. Zask
+Response and determinants of cancer cell susceptibility to PI3K inhibitors: combined targeting of PI3K and Mek1 as an effective anticancer strategy
+Cancer Biol. Ther., 7 (2008), pp. 307–315
+
+View Record in Scopus | Citing articles (17)
+[37]
+S. Wee, Z. Jagani, K.X. Xiang, A. Loo, M. Dorsch, Y.-M. Yao et al.
+PI3K pathway activation mediates resistance to MEK inhibitors in KRAS mutant cancers
+Cancer Res., 69 (2009), pp. 4286–4293
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+[38]
+E. Halilovic, Q.-B. She, Q. Ye, R. Pagliarini, W.R. Sellers, D.B. Solit et al.
+PIK3CA mutation uncouples tumor growth and cyclin D1 regulation from MEK/ERK and mutant KRAS signaling
+Cancer Res., 70 (2010), pp. 6804–6814
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+[39]
+G. Migliardi, F. Sassi, D. Torti, F. Galimi, E.R. Zanella, M. Buscarino et al.
+Inhibition of MEK and PI3K/mTOR suppresses tumor growth but does not cause tumor regression in patient-derived xenografts of RAS-mutant colorectal carcinomas
+Clin. Cancer Res., 18 (2012), pp. 2515–2525
+
+View Record in Scopus | Citing articles (22)
+[40]
+K.M. Kinross, D.V. Brown, M. Kleinschmidt, S. Jackson, J. Christensen, C. Cullinane et al.
+In vivo activity of combined PI3K/mTOR and MEK inhibition in a KrasG12D;Pten deletion mouse model of ovarian cancer
+Mol. Cancer Ther., 10 (2011), pp. 1440–1449
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+[41]
+J.A. Engelman, L. Chen, X. Tan, K. Crosby, A.R. Guimaraes, R. Upadhyay et al.
+Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers
+Nat. Med., 14 (2008), pp. 1351–1356
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (556)
+[42]
+E. Martinelli, T. Troiani, E. D’Aiuto, F. Morgillo, D. Vitagliano, A. Capasso et al.
+Antitumor activity of pimasertib, a selective MEK 1/2 inhibitor, in combination with PI3K/mTOR inhibitors or with multi-targeted kinase inhibitors in pimasertib-resistant human lung and colorectal cancer cells
+Int. J. Cancer, 133 (2013), pp. 2089–2101
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+[43]
+F. Janku, A.M. Tsimberidou, I. Garrido-Laguna, X. Wang, R. Luthra, D.S. Hong et al.
+PIK3CA mutations in patients with advanced cancers treated with PI3K/AKT/mTOR axis inhibitors
+Mol. Cancer Ther., 10 (2011), pp. 558–565
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (118)
+[44]
+E.M. Coffee, A.C. Faber, J. Roper, M.J. Sinnamon, G. Goel, L. Keung et al.
+Concomitant BRAF and PI3K/mTOR blockade is required for effective treatment of BRAFV600E colorectal cancer
+Clin. Cancer Res., 19 (2013), pp. 2688–2698
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+[45]
+R.B. Corcoran, S.M. Rothenberg, A.N. Hata, A.C. Faber, A. Piris, R.M. Nazarian et al.
+TORC1 suppression predicts responsiveness to RAF and MEK inhibition in BRAF-mutant melanoma
+Sci. Transl. Med., 5 (2013) 196ra98–196ra98
+
+[46]
+M. Elkabets, S. Vora, D. Juric, N. Morse, M. Mino-Kenudson, T. Muranen et al.
+mTORC1 inhibition is required for sensitivity to PI3K p110α inhibitors in PIK3CA-mutant breast cancer
+Sci. Transl. Med., 5 (2013), p. 196ra99
+
+Full Text via CrossRef
+[47]
+G.R. Bean, Y.T. Ganesan, Y. Dong, S. Takeda, H. Liu, P.M. Chan et al.
+PUMA and BIM are required for oncogene inactivation-induced apoptosis
+Sci. Signal., 6 (2013), p. ra20
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+[48]
+K.H.T. Paraiso, H.E. Haarberg, E. Wood, V.W. Rebecca, Y.A. Chen, Y. Xiang et al.
+The HSP90 inhibitor XL888 overcomes BRAF inhibitor resistance mediated through diverse mechanisms
+Clin. Cancer Res., 18 (2012), pp. 2502–2514
+
+View Record in Scopus | Citing articles (46)
+[49]
+A.C. Faber, H. Ebi, C. Costa, J.A. Engelman
+Apoptosis in targeted therapy responses: the role of BIM
+Adv. Pharmacol., 65 (2012), pp. 519–542
+
+Article |  PDF (294 K) | View Record in Scopus | Citing articles (7)
+[50]
+A.C. Faber, E.M. Coffee, C. Costa, A. Dastur, H. Ebi, A.N. Hata et al.
+mTOR inhibition specifically sensitizes colorectal cancers with KRAS or BRAF mutations to BCL-2/BCL-XL inhibition by suppressing MCL-1
+Cancer Discov., 4 (2014), pp. 42–52
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4)
+Corresponding author contact information
+Corresponding author at: Tufts Medical Center, Division of Gastroenterology, Department of Medicine, Boston, MA, United States. Tel.: +1 617 636 6153; fax: +1 617 636 6127.
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.

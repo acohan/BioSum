@@ -1,0 +1,936 @@
+Analyzing Kernel Matrices for the Identification of Differentially Expressed Genes
+Xiao-Lei Xia,1,* Huanlai Xing,2 and Xueqin Liu3
+Ken Mills, Editor
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+One of the most important applications of microarray data is the class prediction of biological samples. For this purpose, statistical tests have often been applied to identify the differentially expressed genes (DEGs), followed by the employment of the state-of-the-art learning machines including the Support Vector Machines (SVM) in particular. The SVM is a typical sample-based classifier whose performance comes down to how discriminant samples are. However, DEGs identified by statistical tests are not guaranteed to result in a training dataset composed of discriminant samples. To tackle this problem, a novel gene ranking method namely the Kernel Matrix Gene Selection (KMGS) is proposed. The rationale of the method, which roots in the fundamental ideas of the SVM algorithm, is described. The notion of ''the separability of a sample'' which is estimated by performing An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e001.jpg-like statistics on each column of the kernel matrix, is first introduced. The separability of a classification problem is then measured, from which the significance of a specific gene is deduced. Also described is a method of Kernel Matrix Sequential Forward Selection (KMSFS) which shares the KMGS method's essential ideas but proceeds in a greedy manner. On three public microarray datasets, our proposed algorithms achieved noticeably competitive performance in terms of the B.632+ error rate.
+
+Go to:
+Introduction
+Microarray data has been applied to the class prediction of different samples, from which the disease diagnosis and prognosis can benefit. A microarray dataset usually contains thousand of genes and a relatively much smaller number of samples (usually An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e002.jpg). For the purpose of predicting the type of biological samples, a majority of this genes are irrelevant and redundant. This fact has prompted the development of a variety of approaches which detect differentially expressed genes (DEGs) to accomplish an accurate classification of the samples.
+
+The An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e003.jpg-test has been one of the most widely-used parametric statistical methods for the identification of DEGs between populations of two classes. Variants of the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e004.jpg-test, which adopt different technologies to obtain a more stable estimate of the within-class variance for each gene, have been proposed [1]–[3]. The regularized An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e005.jpg-test, for example, adjusted the gene-wise variance estimate by using a Bayesian probabilistic model [2]. For multiple testings, the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e006.jpg-value is calculated and adjusted to address the problem that the false positive rate is likely to accumulate over thousands of genes. Approaches in this categories range from those bounding the ''Family-Wise Error Rate'' (FWER) which is the overall chance of one or more false positives [4]–[6] and strategies controlling the ''False Discovery Rate'' (FDR) which is the expected percentage of false positives among the genes deemed as differentially expressed [1], [7]. Because the null distribution is unknown, these methods often shuffle the class labels of the samples to estimate the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e007.jpg-value. The ANOVA An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e008.jpg-test extends the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e009.jpg-test to multiple classes and a number of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e010.jpg-like statistics have been proposed which used different shrinkage estimators of the gene-wise variance [8], [9].
+
+Another family of statistical methods proposed to factor in the dependency information between genes. Representative examples include the gene pair selection method [10] and correlation-based methods the rationale behind which is that a good feature subset is highly correlated with the class and uncorrelated with each other [11], [12]. Also included are the approaches derived from Markov blanket filtering [13]–[15]. Minimum redundancy maximum relevance [16] and uncorrelated shrunken centroid [17] are also well-established gene selection methods in this category.
+
+When cast in the framework of pattern recognition, gene selection is a typical feature selection problem. Feature selection techniques in pattern recognition can be generalized into three types: filter, wrapper and embedded methods [18]–[20]. For filter methods, the feature selection is performed independently of a classification algorithm, which cover a majority of the aforementioned statistical tests. Wrapper methods, by contrast, use a classifier to evaluate a feature subset. The problem of choosing An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e011.jpg out of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e012.jpg features involves altogether An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e013.jpg feature subsets. An exhaustive evaluation of these subsets is computationally infeasible, particularly for microarray data of a large An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e014.jpg. A number of heuristic search techniques are thus proposed, and among them are the Sequential Forward Selection (SFS), the Sequential Backward Elimination (SBE), the Sequential Forward Floating Selection (SFFS) and the Sequential Backward Floating Elimination (SBFE). The SFS has been used to search for feature subsets which are evaluated by the leave-one-out cross validation accuracy of Least-Squares SVM [21], [22]. Genetic Algorithms (GAs) are another family of search strategies that have attracted considerable research attention [23]–[25].
+
+Embedded methods, on the other hand, use the intrinsic property of a specific classifier to evaluate feature subsets. For example, the SVM Recursive Feature Elimination (SVM-RFE) [26] regards that the normal vector of the linear SVM carries the significance information of the genes. Representative examples also include random forest induced approaches [27], [28]. An extensive review of major feature selection techniques has been carried out [29]. No general consensus has yet been reached on which one is the best, despite the diversity and abundance of gene selection algorithms.
+
+Empirically, wrappers and embedded methods have been observed to be more accurate than filters [30]. However, they require repetitive training of a specific classifier in order to guide the search in the space of feature subsets and are consequently very time consuming. Filters are, generally speaking, faster in the absence of interactions between feature subsets and a classifier. Thus filters, statistical tests in particular, have enjoyed considerable popularity in the field of gene selection for microarray data [4], [9], [31], [32]. In fact, wrappers normally incorporate statistical tests as a preprocessing step to prune a majority of genes so that the number of feature subsets to be visited is reduced along the search pathway [21], [22], [26].
+
+Meanwhile, although the choice of the classifier also presents a wide diversity, SVMs have been widely recognized for its generalization abilities [33] and remained as a predominant option [34]–[36].
+
+In summary, a widely-accepted scheme for the analysis of microarray data has been ''identification of DEGs by statistical tests followed by sample classification using SVMs''. The justification is that the prediction accuracy of various classifiers including SVMs, depends on how discriminant the features are. However, SVMs belong to the family of sample-based classifiers whose generalization performance comes down to, more precisely, how discriminant the samples are. DEGs identified by statistical tests cannot guaranteed to establish a set of discriminant samples for SVMs. Consequently, it cannot be promised the highest degree of accuracy for sample classification. This problem necessitates the development of gene selection algorithms that are more consistent with the fundamental ideas of SVMs. It is naturally desired that, the proposed methods can bypass the computationally-expensive training procedure of SVMs, which is required by the SVM-RFE algorithm [26] and wrapper methods based on Least-Squares SVMs [21], [22].
+
+Go to:
+Materials and Methods
+Support Vector Machines
+
+Given a binary classification problem with the training data set of:
+
+equation image	(1)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e016.jpg is the number of features and each An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e017.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e018.jpg is the class label for the training sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e019.jpg.
+
+As depicted in Fig. 1, the SVM algorithm seeks the separating hyperplane An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e020.jpg which possesses optimal generalization abilities. The hyperplane An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e021.jpg takes the form of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e022.jpg where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e023.jpg is the normal vector and the constant An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e024.jpg the bias term. The classifier An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e025.jpg is constructed so that samples from the positive class lie above the hyperplane An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e026.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e027.jpg while samples from the negative class lie beneath the hyperplane An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e028.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e029.jpg.
+
+Figure 1
+Figure 1
+The linear SVM trained on samples from two classes.
+The condition of optimality requires that the vector An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e032.jpg be a linear combination of the training samples:
+
+equation image	(2)
+Each constant An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e034.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e035.jpg is the Lagrangian multiplier introduced for sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e036.jpg. The feasible value range for the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e037.jpg's is An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e038.jpg where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e039.jpg is the regularization parameter and tunes the tradeoff between generalization abilities and the empirical risk.
+
+For nonlinear problems where the training data are not separable in the input space, a function, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e040.jpg, is applied, mapping the data to a feature space of higher dimensions where they become separable. Consequently, the normal vector of the resultant classifier becomes:
+
+equation image	(3)
+Equation (2) which represents the solution in the linear case, can also be viewed as a special case of Equation (3) where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e042.jpg.
+
+On a test sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e043.jpg, the SVM classifier outputs a decision value of:
+
+equation image	(4)
+According to the sign of the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e045.jpg, the sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e046.jpg obtains a class label of either An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e047.jpg or An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e048.jpg.
+
+Equation (4) suggests that the SVM algorithm requires the knowledge of the dot product between An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e049.jpg, rather than that of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e050.jpg itself. Thus the SVM employs the ''kernel trick'' which allows the the dot product between An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e051.jpg to be computed without the explicit knowledge of the function An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e052.jpg.
+
+Mining the Information Hidden in the SVM Solution
+
+As mentioned previously, each training sample is eventually assigned a Lagrangian multiplier An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e053.jpg, subject to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e054.jpg. The establishment of the SVM classifier is, in actual fact, a process of optimizing the values of these An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e055.jpg Lagrangian multipliers. In the SVM solution which is formulated by Equation (4), An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e056.jpg's can be divided into three groups which respectively satisfy An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e057.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e058.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e059.jpg.
+
+Using Figure 1, we now focus on the linear SVM classifier and review the connection between the value of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e060.jpg and the geometric location of its associated training sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e061.jpg. It is worth attention that the connection arises, mathematically, from the optimality conditions of SVMs [37], [38]. We then reveal the hidden information that can be mined out of this connection.
+
+1. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e062.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e063.jpg
+
+Depending on its class label An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e064.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e065.jpg lies geometrically either in the space above An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e066.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e067.jpg for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e068.jpg or in the space beneath An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e069.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e070.jpg for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e071.jpg.
+
+Consider a sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e072.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e073.jpg. Since it locates in the subspace above An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e074.jpg, we expect An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e075.jpg bearing noticeable similarities to class ''+'' than to class ''An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e076.jpg''. The similarity of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e077.jpg and class ''+'' can be measured by evaluating the the similarity between An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e078.jpg and each representative sample from class ''+''. The training set of the SVM is, or has been supposed to be, composed of representative samples from each class.
+
+We use the inner product to measure the similarity level between vectors. Denoting the number of the positive training samples as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e079.jpg, the inner products between An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e080.jpg and each each positive training sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e081.jpg form a population of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e082.jpg measurements, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e083.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e084.jpg The mean of these measurements, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e085.jpg, is regarded to be indicative of the similarity of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e086.jpg and class ''+'':
+
+equation image	(5)
+Likewise, denoting the number of the negative training samples as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e088.jpg, the similarity of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e089.jpg and class ''An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e090.jpg'' can be measured as:
+
+equation image	(6)
+where the set An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e092.jpg consists of all the negative training samples.
+
+As a result, we can express, mathematically, the expectation that a positive sample bears more resemblance to class ''+'' than to class ''An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e093.jpg'' as:
+
+equation image	(7)
+And a negative training sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e095.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e096.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e097.jpg is expected to satisfy:
+
+equation image	(8)
+Equation (7) and Equation (8) can be combined into:
+
+equation image	(9)
+2. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e100.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e101.jpg
+
+An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e102.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e103.jpg lies exactly on either An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e104.jpg for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e105.jpg or An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e106.jpg for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e107.jpg. This group of training samples are normally referred to as ''boundary samples''.
+
+The class resemblance of a boundary sample to its supposed class is not as striking as those samples with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e108.jpg. Nevertheless, they are still the samples whose class labels can be correctly restored by the SVM solution and thus expected to satisfy Equation (9).
+
+3. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e109.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e110.jpg
+
+An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e111.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e112.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e113.jpg can be located at one of the following three locations:
+
+(a) exactly on the hyperplane of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e114.jpg;
+(b) in the region between the hyperplanes of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e115.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e116.jpg but closer to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e117.jpg;
+(c) in the region between the hyperplanes of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e118.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e119.jpg but closer to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e120.jpg.
+A training sample from group (a), is a boundary sample but its class label can be correctly restored by the SVM solution. As with positive samples whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e121.jpg, Equation (9) is expected to hold for samples from case (a).
+
+For a training sample from group (b), the SVM classifier would not have been able to correctly restore its class label if it weren't for the introduction of the slack variables. Our interpretation is that, the class resemblance of this sample to its supposed class is so ambiguous that the SVM has difficulties in acknowledging its actual class membership.
+
+For a training sample from group (c), the SVM classifier is simply unable to correctly restore its class label. It is very likely that the class resemblance of this sample to its supposed class in fact contradicts its given class label.
+
+In mathematical terms, we reckon that a positive training sample of either group (b) or group (c) satisfies:
+
+equation image	(10)
+The hidden information for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e123.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e124.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e125.jpg can be inferred in a similar manner. And the formulation that describes a sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e126.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e127.jpg can be generalized as:
+
+equation image	(11)
+In summary, the resultant value of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e129.jpg for the training samples An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e130.jpg suggests how discriminant An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e131.jpg is between two opposing classes. But the values of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e132.jpg's can only be obtained after the completion of the training procedure which is of a formidable time complexity of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e133.jpg.
+
+Luckily, our analysis above implies that that the function of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e134.jpg is, promisingly, indicative of the discriminant level of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e135.jpg. In other words, the vector of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e136.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e137.jpg is highly informative about the complexity of classifying An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e138.jpg by the linear SVM classifier. It is easy to infer that, for nonlinear problems, this information can be obtained from the vector of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e139.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e140.jpg.
+
+Estimating the Separability of a Problem
+
+In the SVM algorithm, the vector of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e141.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e142.jpg constitutes the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e143.jpg-th column of the input kernel matrix. The An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e144.jpg measurements in the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e145.jpg-th column can be separated into two populations, according to the class label of sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e146.jpg, and respectively denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e147.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e148.jpg. Performing the following test to the two populations yields a score An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e149.jpg which measures the separability of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e150.jpg:
+
+equation image	(12)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e152.jpg(An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e153.jpg) and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e154.jpg(An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e155.jpg) are the mean and the standard deviation of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e156.jpg (An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e157.jpg).
+
+We justify the introduction of standard deviations in the denominator by considering two positive training samples in the feature space. The first sample is assumed to have come from a region of denser population than the second one. We reckon that, compared with the second sample, the first sample is more typical a representative of class ''+'' and is believed to be more similar to class ''+''. The positive sample from a denser population is expected to exhibit a lower deviation of the elements An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e158.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e159.jpg Thus, the standard deviation is formulated into Equation (12), demonstrating our confidence in a higher separability of a sample from a denser population.
+
+The values of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e160.jpg's can be split into three types, large positive ones, small positive ones and negative ones. A large positive value of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e161.jpg implies that, the training sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e162.jpg is likely to be discriminant, statistically bearing more resemblance to the supposed class than to the other one. A small positive An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e163.jpg suggests that, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e164.jpg might bear almost the same level of resemblance to both classes and thus, hard to classify. For a negative value on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e165.jpg, the class that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e166.jpg is computed as more similar to, is different from the actual one, which poses difficulties for the SVM classifier.
+
+Meanwhile, the similarity between each sample and itself is supposed to be An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e167.jpg. However, It is not the case for all kernel functions to satisfy An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e168.jpg. Consequently a proper preprocessing procedure might be required prior to the application of Equation (12), depending on the kernel in use. For linear kernels, we divide each element of the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e169.jpg-th column of the kernel matrix by An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e170.jpg. For Gaussian RBF kernels [29] which take the form of
+
+equation image	(13)
+it already holds that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e172.jpg and the preprocessing step is avoided. However, the value of the parameter An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e173.jpg is required to be optimized.
+
+Since the separability of each sample has an impact on the the class separability of a problem, we propose to use the sum of each sample's separability score as an estimate of the separability of the problem.
+
+A word about the formulation of Equation (12). In statistics, it is the norm of practice to add a small constant to the sum of variances, in order to guard against zero in the denominator. But for our algorithms, the designation of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e174.jpg prevents the occurrence of zero in the denominator of Equation (12). We explain how it is achieved for linear kernels and Gaussian RBF kernels:
+
+In the case of linear kernels, take a positive sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e175.jpg for example. Since An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e176.jpg, in order to have An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e177.jpg for Equation (12), it demands that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e178.jpg for any An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e179.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e180.jpg is a positive sample. This requires that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e181.jpg. This set of conditions can only satisfied either when An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e182.jpg or An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e183.jpg which suggests that the training set only include one positive sample. We reckon that either case is unlikely for well-posed classification problems.
+In the case of Gaussian RBF kernels, in order to have An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e184.jpg given a positive sample, it has to be met that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e185.jpg for any An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e186.jpg whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e187.jpg is a positive sample. This in fact implies that either An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e188.jpg which is hardly true with real-life microarray datasets, or the parameter An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e189.jpg has been assigned a value of zero, which can be easily avoided.
+Kernel Matrix Induced Gene Selection Algorithms
+
+Since each gene subset introduces a classification problem represented by the set of training samples, the gene subset thus corresponds to an estimate of the separability of the problem. Consequently, DEGs can be identified as those resulting in ''easier problems'' of high separability. This is the essential idea of our kernel matrix induced gene selection methods, which has been illustrated in Figure 2. This methodology is shared by the two gene selection algorithms we proposed below. The first algorithm, namely the Kernel Matrix Gene Selection (KMGS), ranks each gene individually, while the second one, namely the Kernel Matrix Sequential Forward Selection (KMSFS), identifies DEGs iteratively.
+
+Figure 2
+Figure 2
+The essential idea of kernel matrix induced gene selection algorithms.
+Kernel Matrix Gene Selection
+Given a microarray dataset of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e190.jpg samples with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e191.jpg genes, the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e192.jpg-th An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e193.jpg gene of the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e194.jpg samples forms a vector. The vector, in fact, establishes a training set for the following classification problem:
+
+equation image	(14)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e196.jpg is the value of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e197.jpg-the gene for the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e198.jpg-th sample and the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e199.jpg is its given class label. Given the training set, the separability of each sample, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e200.jpg, can be assessed using Equation (12). The class separability of the problem constructed from the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e201.jpg-th gene can thus be computed:
+
+equation image	(15)
+while the reason behind using (15) is that the class separability of a problem is reflected by the sum of the separability of each sample.
+
+Hence the function An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e203.jpg maps a gene to the separability level, in the contexts of sample-based classifiers including the SVM.
+
+The An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e204.jpg genes are ranked according to their respective An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e205.jpg value where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e206.jpg. Genes achieving a large An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e207.jpg obtain higher rankings.
+
+Kernel Matrix Sequential Forward Selection
+An alternative to the KMGS which proceeds in a greedy manner is also developed, which is namely the Kernel Matrix Sequential Forward Selection (KMSFS) algorithm. The algorithm starts with an empty set of selected DEGs. At each iteration, the algorithm identifies a single DEG which is then appended to the set. We now describe how the KMSFS algorithm proceeds between two consecutive iterations.
+
+Given a microarray dataset of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e208.jpg samples with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e209.jpg genes, at the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e210.jpg-th iteration, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e211.jpg genes has been collected into the set of DEGs. This in fact stands for a classification problem with the training set composed of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e212.jpg samples, each of which is of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e213.jpg dimensions:
+
+equation image	(16)
+Each gene from the remaining An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e215.jpg genes is, in turn, appended to these An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e216.jpg genes and forms a different classification problem with a training set of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e217.jpg samples, each of which is of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e218.jpg dimensions. This results in, altogether, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e219.jpg data matrices of size An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e220.jpg which are actually the training sets for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e221.jpg classification problems. The complexity of each problem can be estimated and interpreted as the significance of the associated An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e222.jpg-th gene. The An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e223.jpg-th DEG is eventually identified to be the one which produces the problem featuring the highest separability.
+
+The pseudo codes for the KMGS and KMSFS algorithms are given respectively in Table 1 and Table 2.
+
+Table 1
+Table 1
+The Algorithm of Kernel Matrix Gene Selection.
+Table 2
+Table 2
+The Algorithm of Kernel Matrix Sequential Forward Selection.
+Go to:
+Merits of Proposed Algorithms
+The proposed methods have noticeable merits:
+
+Filter methods identify discriminant features, making them suitable for feature-based classifiers whose normal vector is the linear combination of features. However, Equation (3) demonstrates that the SVM classifier is the linear combination of training samples in the feature space. Thus the performance of the SVM comes down, more to discriminant levels of samples than those of features. Since discriminant features selected by filter methods are not guaranteed to generate a training set composed of discriminant samples, the resultant classifier cannot be ensured to be optimally accurate either. In contrast, our algorithms aim at unveiling the information regarding discriminant levels of samples using the kernel function. Our algorithms are developed upon the fundamental ideas of SVMs and thus more likely to produce a classifier of a higher degree of accuracy.
+A majority of wrapper and embedded methods are based on the assumption that most microarray datasets pose linear problems. However, we reckon that, the problem presented by a set of DEGs can hardly be a linear one when the the set size is as small as only one or two.
+But the generalization to nonlinear cases have been challenging for various wrappers and embedded methods. For example, the SVM-RFE [27] keeps unchanged the Lagrangian multipliers An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e294.jpg's from the previous iteration and then selects the gene which makes the least change to the dual objective function. The strategy of fixing An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e295.jpg's is likely to compromises the significance evaluation of each gene, as well as the generalization abilities of the resultant SVM classifier.
+
+Advantageously, our algorithms can be directly applied to nonlinear cases by opting for Gaussian RBF kernels. The Gaussian RBF An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e296.jpg, according to Mercer's conditions, is an inner product of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e297.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e298.jpg in the feature space:
+
+equation image	(17)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e300.jpg is the function mapping a sample from the input space to the feature space. Thus, for the nonlinear case, the Gaussian kernel matrix is still composed of similarity measurements between training samples.
+
+3. The output of Equation (15) which measures the significance of genes is a real-valued number rather than an integer. This avoids the ties problem [40] which often occurs to count based wrapper methods including the one using the leave-one-out cross validation error as the selection criterion[21].
+Datasets and Data Preprocessing
+
+Prostate dataset
+The dataset contains, in total, 136 samples of two types which respectively have 77 and 59 cases. Each sample includes expression values of 12600 genes.
+
+Colon dataset
+The dataset contains the expression values of 2000 genes from 62 tissues, of which 22 are normal and 40 are cancerous.
+
+Leukaemia dataset
+The dataset was collected from 72 patients. 47 of them were diagnosed with acute acute lymphoblastic leukemia (ALL) and 25 with acute myeloid leukemia (AML). Expression values of 7129 genes were measured.
+
+Both the prostate dataset and the colon dataset were normalized using the following procedure. A microarray dataset with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e301.jpg samples and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e302.jpg genes was arranged as a matrix of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e303.jpg rows and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e304.jpg columns. Each row of the matrix was standardized so that the mean and the standard deviation for the row vector are respectively zero and unity. Next, each column of the resultant matrix was standardized to have zero mean and unity standard deviation. No further processing was conducted. All the simulations and comparisons have been performed on the standardized data.
+
+For the leukemia dataset, we applied the pre-processing procedure proposed by Dudoit et al. [41] which consisted of (i) thresholding (floor of 100 and ceiling of 16000), (ii) filtering (exclusion of genes with max/minAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e305.jpg and max-minAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e306.jpg across the samples), (iii) base 10 logarithmic transformation, leaving us with 3571 genes. Next, we applied Fisher's ratio and selected the 1000 top DEGs. For each individual gene, Fisher's ratio assigns it a score using the function An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e307.jpg where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e308.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e309.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e310.jpgAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e311.jpg are respectively the mean and the standard deviation across samples from the positive(negative) class. The preprocessing strategy which was also employed by [21] makes possible a fairer comparison between our experiment results and those reported in [21]. All the simulations and comparisons regarding the leukemia dataset have been performed on the preprocessed and pre-selected data.
+
+Error Rate Estimation Techniques
+
+Various gene selection algorithms are evaluated and compared by the error rate of SVMs. The simplest technique for error estimation is the holdout method which splits the dataset into a training set and a test set. The gene selection algorithm is performed on the training set and sample classification on the test set. However, the holdout method has been highly discouraged for microarray datasets which usually contain a small number of samples. In contrast to researchers who applied gene selection to the entire training set and employed An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e312.jpg-fold cross validation to assess the selected DEGs, Ambroise and McLachlan [42] emphasized to exclude samples used for validation from the gene selection procedure and labelled techniques that follow their recommendation as ''external'' ones. They suggested that external 10-fold cross validation and external B.632+ bootstrap could produce unbiased estimate [42], [43]. Due to the problem of high variance with cross validation techniques when applied to microarray datasets [44], we used the external B.632+ estimator for the comparison of gene selection algorithms.
+
+The B.632+ estimator involves resampling, with replacement, of the original dataset. From a dataset of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e313.jpg samples denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e314.jpg, a single sample is randomly drawn and then put back at each time. This process is repeated An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e315.jpg times, leading to a new set which is denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e316.jpg. The resampled set An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e317.jpg includes, with probability, duplicates of a sample from the original set An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e318.jpg. The number of duplicates for a sample included in An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e319.jpg ranges from 0 to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e320.jpg. The set of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e321.jpg is used for both gene selection and training a SVM. The SVM classifier is then tested on the set of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e322.jpg. A good error estimator requires the generation of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e323.jpg resampled sets which are denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e324.jpg where it was recommended that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e325.jpg. We set An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e326.jpg for all our experiments. Meanwhile, for each sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e327.jpg, its overall number of occurrences in the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e328.jpg resampled sets is ensured to be An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e329.jpg, which further reduces the variance.
+
+The flow chart for evaluating a gene selection algorithm using the B.632+ technique has been given by Figure 3.
+
+Figure 3
+Figure 3
+The flow chart for evaluating a gene selection algorithm using the B.632+ technique.
+Gene Selection Algorithms
+
+For the methods of KMSFS and KMGS, both the linear kernel and the Gaussian RBF kernel were tested. This resulted in altogether four algorithms which are referred to as Gaussian KMSFS, Gaussian KMGS, linear KMSFS and linear KMGS. They were compared with two wrapper methods: the leave-one-out calculation sequential forward selection (LOOSFS) which improved the least-squares bound measure [21] by easing the ties problem, and the gradient-based leave-one-out gene selection (GLGS) method [22] which was claimed to outperform the SVM-RFE algorithm [26]. Comparisons were also made to a number of filter methods, including the aforementioned Fisher's ratio [45], Cho's [46] and two other methods of Yang's [47]. We described the ideas of these gene selection algorithms below.
+
+Leave-One-Out Calculation Sequential Forward Selection (LOOSFS)
+The Leave-One-Out Cross-Validation(LOOCV) error has been generally used for measuring the generalization abilities of SVMs and Least-Squares SVMs (LS-SVMs). The LOOSFS method thus identifies as DEGs those genes which result in a LS-SVM classifier with the minimal Leave-One-Out Cross-Validation(LOOCV) error rate. The beauty of the algorithm consists in the efficient and exact computation of the LOOCV error. To address the ''ties problem'' in which multiple gene subsets achieve the same LOOCV error rate, a further selection criterion is imposed which favors the gene subset with minimal empirical risk.
+
+Gradient-Based Leave-One-Out Gene Selection (GLGS)
+The starting point of the GLGS method is also the employment of the exact formulation of the LOOCV error for LS-SVMs. The method then utilizes the gradient descent algorithm to seek a diagonal matrix which eventually minimizes the LOOCV error. Genes are ranked according to the absolute values of the diagonal elements of the diagonal matrix.
+
+With Cho's method and Yang's methods, genes are individually ranked. We use the following notations for their descriptions. Each micorarray dataset with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e330.jpg samples and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e331.jpg genes is treated as a matrix, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e332.jpg, where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e333.jpg indicates the expression value of gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e334.jpg for sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e335.jpg. Given a An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e336.jpg-class problem, the average expression value of each class, in terms of gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e337.jpg, can be computed and denoted as the set of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e338.jpg. Denote the standard deviation for the set as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e339.jpg. A matrix, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e340.jpg is also introduced, where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e341.jpg.
+
+Cho's Method
+The score, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e342.jpg, that gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e343.jpg obtains eventually is:
+
+equation image	(18)
+where
+
+equation image	(19)
+equation image	(20)
+An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e347.jpg is the reciprocal of the number of samples that share the same class label as sample An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e348.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e349.jpg. A small value of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e350.jpg indicates that samples of the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e351.jpg-th gene are clustered the centroid of each class.
+
+Yang's Methods
+The between-class variation with respect to gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e352.jpg, denoted as scatterAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e353.jpg, is formulated as:
+
+equation image	(21)
+In order to estimate within-class variations in terms of gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e355.jpg, a function An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e356.jpg is first introduced:
+
+equation image	(22)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e358.jpg is a function of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e359.jpg which are composed of the elements from the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e360.jpg-th column of the matrix An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e361.jpg and associated with the An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e362.jpg-th class. Denote An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e363.jpg as the mean of of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e364.jpg. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e365.jpg can be either the squared An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e366.jpg or the mean of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e367.jpg, which results in two forms of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e368.jpg which are referred to as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e369.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e370.jpg respectively.
+
+Two metrics for measuring within-class variations, denoted as compactAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e371.jpg and compactAn external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e372.jpg which are derived respectively upon An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e373.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e374.jpg, are proposed:
+
+equation image	(23)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e376.jpg is the mean of the set of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e377.jpg where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e378.jpg.
+
+Eventually, two score functions which decide the ranking of gene An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e379.jpg, are given:
+
+An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e380.jpg = An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e381.jpg, p = 1,2
+
+We refer to these two score functions respectively as Yang's method 1 and Yang's method 2.
+
+Cho's method and Yang's two methods identify as DEGs those genes whose associated An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e382.jpg are smaller. For all the gene selection algorithms, it has been emphasized to exclude the test subset each time from the gene selection procedure in order to obtain an unbiased evaluation [42], [43]. The gene selection algorithms terminated when a specific number of DEGs have been identified and we set this number to be 100.
+
+Parameter Tuning
+
+We employed grid search and Friedman rank sum tests combined with Holm correction to tune the parameters for different algorithms.
+
+Grid Search
+Among the total 10 gene selection algorithm, both Gaussian KMSFS and Gaussian KMGS require the parameter An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e383.jpg in Equation (13) to be optimized. For the LOOSFS algorithm, the regularization parameter, denoted here as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e384.jpg for consistency, has to be tuned. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e385.jpg was varied sequentially from An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e386.jpg to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e387.jpg in multiples of 10, which made up a total of 11 different values. With respect to sample classification, the linear SVM was used throughout. Its regularization parameter, denoted as An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e388.jpg, ranged from An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e389.jpg to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e390.jpg in multiples of 10, which gives 7 different values. Thus, 77 value pairs for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e391.jpg were tested for Gaussian KMSFS, Gaussian KMGS and LOOSFS algorithms, while 7 different values of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e392.jpg were evaluated for the rest of the 10 gene selection algorithms.
+
+Friedman Rank Sum Test with Holm Correction
+The Friedman rank sum test is a non-parametric alternative to ANOVA with repeated measures. The test statistic for the Friedman test is a Chi-square with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e393.jpg degrees of freedom, where An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e394.jpg is the number of repeated measures.
+
+We take the algorithm of Gaussian KMSFS as an example to explain how to apply Friedman test for the discovery of optimal values on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e395.jpg. As mentioned previously, 100 DEGs were selected, from each a new classification problem arose. We thus obtained altogether 100 B.632+ error rates for each setting on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e396.jpg. As we tried 77 settings for the parameter pair, 77 groups of classification accuracies were obtained.
+
+Friedman rank sum test was used to detect statistical differences among these 77 groups. The test was based on 100 sets of ranks, with each set corresponding to an individual classification problem. The performances of different parameter settings analyzed are ranked separately for each problem. If we rejected the null-hypothesis stating that all the 77 settings led to equal performance in mean ranking, we employed the Holm post-hoc analysis to identify which setting was significantly better than the rest.
+
+All the gene selection methods were coded in Matlab. The linear SVM was implemented using LIBSVM [48] and the Friedman test with Holm correction was coded in R. The specifications of the computer running the experiments were: Intel core i5-2320 quad-core processor 3.0 GHz, Memory 4 GBytes and the operating system of Windows 7.
+
+Go to:
+Results
+Results on the Prostate Dataset
+
+Optimal Parameter Settings
+Using Friedman tests with Holm correction, optimal settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e397.jpg for Gaussian KMGS, Gaussian KMSFS and LOOSFS were found to be An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e398.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e399.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e400.jpg respectively.
+
+GLGS and linear KMSFS shared the optimal setting of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e401.jpg. For linear KMGS and all the filter methods which are respectively Fisher's ratio, Cho's method and the two methods of Yang's, the optimal parameter settings were uniformly An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e402.jpg.
+
+Comparisons against Wrappers
+With a minimal error rate of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e403.jpg and a mean error rate of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e404.jpg, the performance of GLGS was much worse than that of the other 9 methods. Thus its simulation results were not graphically presented.
+
+Figure 4 illustrates the the B.632+ error rates as a function of the number of DEGs, for the algorithms of Gaussian KMGS, Gaussian KMSFS, LOOSFS, linear KMSFS and linear KMGS. It can been seen that, when the number of DEGs fell between 10 and around 60, linear KMSFS which is represented by the green solid line dotted with upper triangles, remained the best. As the number of DEGs further increased, Gaussian KMGS outperformed the rest and achieved the lowest B.632+ error rate.
+
+Figure 4
+Figure 4
+The B.632+ error shown as a function of the number of DEGs for the prostate dataset.
+As shown by Figure 4, the classical LOOSFS was outperformed by our algorithms including the Gaussian KMGS, linear KMSFS and linear KMGS. When the number of DEGs ranged between 10 and 20, Gaussian KMSFS also performed better than LOOSFS.
+
+Comparisons against Filters
+Figure 5 compares linear KMSFS, Gaussian KMGS against the filter methods of Fisher's ratio, Cho's method as well as the two methods of Yang's.
+
+Figure 5
+Figure 5
+The B.632+ error shown as a function of the number of DEGs for the prostate dataset.
+The error rate of linear KMSFS remained noticeably lower than the filter methods when the number of DEGs fell between 10 and 60. When the number of DEGs grew larger, Gaussian KMGS showed better than performance than the four filter methods.
+
+The performance of Gaussian KMGS and linear KMSFS remained competitive to those of the filter methods, respectively between the value ranges of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e419.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e420.jpg for the number of DEGs.
+
+These comparisons lead to the conclusion that linear KMSFS and Gaussian KMGS are the two best methods for the prostate dataset.
+
+Results on the Colon Dataset
+
+Optimal Parameter Settings
+For Gaussian KMGS, Gaussian KMSFS and LOOSFS, the optimal settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e421.jpg were respectively An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e422.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e423.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e424.jpg.
+
+For the other 3 wrapper methods which are respectively linear KMGS, linear KMSFS, GLGS and the 4 filter methods which are respectively Fisher's ratio, Cho's method and the two methods of Yang's, their optimal parameter settings were found to be An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e425.jpg.
+
+Comparisons against Wrappers
+With a minimal error rate of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e426.jpg and a mean error rate of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e427.jpg, GLGS performed much worse than the other nine methods. Thus again its simulation results were not graphically presented.
+
+Figure 6 illustrates the the B.632+ error rates of Gaussian KMGS, Gaussian KMSFS, linear KMSFS, linear KMGS and LOOSFS. It can been seen that Gaussian KMSFS demonstrated the best performance while the LOOSFS the worst performance. Gaussian KMGS, linear KMSFS and linear KMGS also performed slightly better than LOOSFS, particularly when the number of DEGs ranged between 15 and 45.
+
+Figure 6
+Figure 6
+The B.632+ error shown as a function of the number of DEGs for the colon dataset.
+It is interesting to note that Gaussian KMGS, with only 10 DEGs, reached the lowest B.632+ error rate which was approximately 0.10. Also the lowest B.632+ error rate of LOOSFS, which was 0.11 was lower than that reported in [21] which was around 0.15 on the colon data. We reckon it could be due to the employment of different data preprocessing strategies.
+
+Comparisons against Filters
+Figure 7 compares linear KMSFS and Gaussian KMGS against the filter methods of Fisher's ratio, Cho's method as well as the two methods of Yang's.
+
+Figure 7
+Figure 7
+The B.632+ error shown as a function of the number of DEGs for the colon dataset.
+Gaussian KMSFS remained better than the 4 filter methods whose performances were comparable between each other. Meanwhile, the error rates of Gaussian KMGS were also lower than those of the filter methods, particularly for a smaller number of selected DEGs.
+
+In conclusion, Gaussian KMSFS and Gaussian KMGS have proved to be the best methods for the colon dataset.
+
+Results on the Leukemia Dataset
+
+Optimal Parameter Settings
+For Gaussian KMGS, Gaussian KMSFS and LOOSFS, the optimal setting on the parameter pair of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e438.jpg were respectively An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e439.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e440.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e441.jpg.
+
+For GLGS, the optimal setting was found to be An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e442.jpg. For linear KMGS, linear KMSFS and all the filter methods which are respectively Fisher's ratio, Cho's method and the two methods of Yang's, their optimal parameter settings were uniformly An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e443.jpg.
+
+Comparisons against Filters
+Figure 8 illustrates the the B.632+ error rates of Gaussian KMGS, Gaussian KMSFS, LOOSFS, GLGS, linear KMSFS and linear KMGS. The performance of LOOSFS depicted by Figure 8 was in fact consistent with that reported in [21]. The performance of Gaussian KMSFS remained competitive to that of LOOSFS. Meanwhile, the lowest B.632+ error rate was achieved by the Gaussian KMSFS with around 50 selected DEGs.
+
+Figure 8
+Figure 8
+The B.632+ error shown as a function of the number of DEGs for the leukemia dataset.
+However, Gaussian KMGS, linear KMGS and linear KMSFS failed to perform as well as LOOSFS. We reckon it might be attributable to the preprocessing procedure which resulted in the removal of over 86% of the original 7029 genes, although this viewpoint has to be confirmed with more experiments.
+
+Comparisons against Filters
+Figure 9 further compares the performance of Gaussian KMSFS against the filter methods of Fisher's ratio, Cho's method as well as the two methods of Yang's. It was demonstrated that, the error rates of Gaussian KMSFS remained noticeably low than those of the 4 filter methods throughout.
+
+Figure 9
+Figure 9
+The B.632+ error shown as a function of the number of DEGs for the leukemia dataset.
+We regarded the LOOSFS and the Gaussian KMSFS as the two best gene selection algorithms for the leukemia dataset.
+
+Go to:
+Discussion
+Heatmaps of Differentially Expressed Genes
+
+Due to the employment of B.632+ error estimation technique, each gene selection algorithm was applied to the 200 sets of bootstrap samples as well as the original training set. For each of these 201 sample sets, we selected a sequence of 100 DEGs. This resulted in altogether 201 sets each of which contained 100 DEGs.
+
+We calculated the frequency with which each of the 2000 genes was selected into the 201 sets of DEGs and drew the heatmaps of 50 DEGs that were selected most frequently. For the algorithms of Gaussian KMGS, Gaussian KMSFS and LOOSFS, the outcome of gene selection procedures is influenced by the value setting on the parameter An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e453.jpg and we used the optimal values reported in the previous section.
+
+Heatmaps for the ten gene selection methods, were shown by Figure 10, Figure 11 and Figure 12. In each heatmap, each column corresponds to a sample and each row is the normalized expression values of a selected DEG across the 62 samples. A grid of each heatmap is colored according to the color key at the top of Figure 10 which maps a normalized expression value to a specific color between blue and red. The class of a sample at each column is indicated by the color bar at the top of each heatmap where blue indicates the cancerous case and red the normal case. Along the downward direction, the 50 DEGs are displayed in descending order of their frequency of occurrence in the 201 sets of selected genes.
+
+Figure 10
+Figure 10
+Heatmaps of top 50 DEGs selected most frequently by Gaussian KMGS, Gaussian KMSFS, LOOSFS, GLGS respectively with their optimal parameter settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e454.jpg.
+Figure 11
+Figure 11
+Heatmaps of top 50 DEGs selected most frequently by Fisher's ratio, Cho's methods and Yang's two methods.
+Figure 12
+Figure 12
+Heatmaps of top 50 DEGs selected most frequently by linear KMSFS and linear KMGS.
+It can be seen from Figure 11 that, the filter methods tend to favor ''discriminant features'' whose color forms an obvious contrast between the cancerous population and the normal population at each row. In Figure 10(b) which represents Gaussian KMSFS method, the color of genes at each row is in a pattern of ''occasional dotting of red versus a majority of blue''. The color contrast at each row of Figure 10(b) is less noticeable than Figure 11. Nevertheless, Gaussian KMSFS demonstrated the best prediction accuracies among all the methods, as reported in the previous section.
+
+The second best gene selection algorithm for the colon data is Gaussian KMGS whose selected DEGs have been presented by Figure 10(a). Interestingly, between the two opposing classes, Figure 10(a) exhibited a sharper color contrast than the one exhibited by Figure 10(b).
+
+The above facts suggest that, although filter methods selected genes whose values, in general, differ significantly between opposing classes, our kernel induced algorithms seemed not to hold it as the selection criterion. Instead, our methods endeavored to select genes that could establish a set of ''discriminant samples'' for SVMs. This possibly accounts for their superiority in terms of B.632+ error rates on the colon dataset.
+
+Parameter Sensitivity Analysis
+
+For linear KMGS and linear KMSFS, their B.632+ error rates are affected by value settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e455.jpg. For Gaussian KMGS and Gaussian KMSFS, their B.632+ error rates are influenced by both parameters of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e456.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e457.jpg.
+
+Using the prostate dataset and the colon dataset, we employed the Friedman rank sum test with Holm correction to study the sensitivity of sample classification to value settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e458.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e459.jpg respectively.
+
+Sensitivity of Sample Classification to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e460.jpg
+We kept An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e461.jpg fixed at a specific value and ran Friedman rank sum tests with Holm correction for various choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e462.jpg. The results were given by Table 3 each row of which reports the score for different values on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e463.jpg with C fixed at a specific value. The best choice is the one which obtained the lowest score and has been highlighted in bold for each row.
+
+Table 3
+Table 3
+Scores obtained from Friedman rank sum tests with Holm correction for choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e464.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e465.jpg fixed at a specific value at each row.
+Prostate Dataset
+We first analyzed the sensitivity of sample selection for Gaussian KMGS. At the row with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e520.jpg, the setting of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e521.jpg on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e522.jpg is significantly better than the choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e523.jpg,An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e524.jpg,An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e525.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e526.jpg,An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e527.jpg,An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e528.jpg at confidence levels of both An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e529.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e530.jpg. It shows that sample classification is insensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e531.jpg only between An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e532.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e533.jpg for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e534.jpg. For the row with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e535.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e536.jpg is significantly better than the rest at confidence levels of both An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e537.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e538.jpg.
+
+Since the optimal value setting for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e539.jpg for Gaussian KMGS was found to be 0.1, we have labelled the associated row with an asterisk. It can be seen that, fixing An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e540.jpg at 0.1, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e541.jpg is significantly better than all the rest, except for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e542.jpg, at confidence levels of both An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e543.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e544.jpg. This suggests sample classification is insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e545.jpg between 0.1 and 1 for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e546.jpg. For An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e547.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e548.jpg is significantly better than all the rest at confidence levels of 0.95 and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e549.jpg. Thus sample classification is insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e550.jpg between 0.1 and 1 for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e551.jpg.
+
+For the other rows for which An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e552.jpg was fixed at An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e553.jpg, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e554.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e555.jpg respectively, sample classification remained insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e556.jpg between 0.1 and 1.
+
+We can conclude that B.632+ error rates are insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e557.jpg between 0.1 and 1 in terms of Gaussian KMGS.
+
+At the first row for Gaussian KMSFS, we can see that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e558.jpg is significantly better than An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e559.jpg and other larger settings on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e560.jpg. At the next row, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e561.jpg is significantly better than the rest, exclusive of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e562.jpg, at confidence levels of 0.95. An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e563.jpg was also excluded at the confidence level of 0.99. The row of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e564.jpg has been labelled with an asterisk, indicating that 0.1 is the optimal choice for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e565.jpg for Gaussian KMSFS. And we can see that An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e566.jpg is significantly better than the other settings at confidence levels of both 0.95 and 0.99. This is also the case with the row corresponding to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e567.jpg.
+
+For the remaining three rows whose An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e568.jpg was fixed at respectively 10, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e569.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e570.jpg, uniformly, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e571.jpg is significantly better than the rest at the confidence level of 0.95.
+
+Thus, for Gaussian KMSFS, B.632+ error rates are sensitive to choice of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e572.jpg, when An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e573.jpg was fixed at 0.1 and 1.
+
+Colon Dataset
+Similar analysis can be performed for the colon dataset, whose scores for various An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e574.jpg produced by the Friedman tests have been reported at the bottom half of Table 3.
+
+Regarding Gaussian KMGS, we can see that B.632+ error rates are insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e575.jpg between 10 and 100 when An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e576.jpg goes from 1 to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e577.jpg in multiples of 10. For An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e578.jpg which is its optimal setting, B.632+ rates are insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e579.jpg between 0.1 and 1.
+
+In terms of Gaussian KMSFS, we can see that sample classification is sensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e580.jpg at the rows of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e581.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e582.jpg. For An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e583.jpg, it shows that B.632+ error rates are insensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e584.jpg at An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e585.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e586.jpg. Larger values for An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e587.jpg caused severe performance degradation, as suggested by the scores at the bottom right in Table 3.
+
+Sensitivity of Sample Classification to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e588.jpg
+We then kept An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e589.jpg fixed at a specific value and ran Friedman rank sum tests with Holm correction for varied An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e590.jpg's. The results were given by Table 4 each row of which reports scores for various choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e591.jpg at a specific value setting on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e592.jpg. The best choice at each row is the one with the lowest score and has been highlighted in bold.
+
+Table 4
+Table 4
+Scores obtained from Friedman rank sum tests with Holm correction for choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e593.jpg with An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e594.jpg fixed at a specific value at each row.
+Prostate Dataset
+For Gaussian KMGS, we can see that B.632+ error rates are sensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e649.jpg. For different An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e650.jpg's, An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e651.jpg remained the setting that linear SVMs achieved the best performance.
+
+For Gaussian KMSFS, when An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e652.jpg grows from An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e653.jpg to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e654.jpg, B.632+ error rates remaine sensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e655.jpg and the best performance was always achieved at An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e656.jpg. As An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e657.jpg continues to grow larger, B.632+ error rates appear to be insensitive between 0.1 and 1, which is particularly true with the row corresponding to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e658.jpg.
+
+An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e659.jpg is the sole parameter for linear KMGS and linear KMSFS. We can also see from Table 4 that, for both algorithms, B.632+ error rates are sensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e660.jpg.
+
+Colon Dataset
+Table 4 indicates that, for both Gaussian KMGS and Gaussian KMSFS, the classification performance is insensitive to choices of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e661.jpg between 0.01 and 0.1, for values of An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e662.jpg greater than 1. Nevertheless, for smaller values on An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e663.jpg with both algorithms, B.632+ error rates are sensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e664.jpg.
+
+In term of both linear KMGS and linear KMSFS, B.632+ error rates remain sensitive to An external file that holds a picture, illustration, etc.
+Object name is pone.0081683.e665.jpg, as with the results on the prostate dataset.
+
+Go to:
+Conclusions
+Statistical tests select genes whose expression values differ significantly between the two opposing classes, i.e., the discriminant genes. Samples-based learning machines including SVMs favor genes which results in a set of discriminant samples. The discriminant genes can not be guaranteed to result in a set of discriminant samples. We have shown that the genes leading to discriminant training samples can be detected by applying statistical tests to the kernel matrix.
+
+In addition to the competitive performance demonstrated on the three public microarray datasets, the proposed kernel matrix induced gene selection algorithms offer extra advantages:
+
+Generality. Our methods are considered applicable to any kernel classifiers, not just SVMs.
+Flexibility. For the implementation of our methods, users can opt for any mercer kernel which can be linear, Gaussian RBF, sigmoid, or polynomials. However, depending on the specific kernel, properly-designed preprocessing steps may be required. For examples, Gaussian RBF kernels require the tuning of the width parameter. For linear kernels, strategies are required to ensure the diagonal elements of the kernel matrix, each of which suggests the similarity between a sample and itself, to be uniformly one.
+It is also worth attention that microarray datasets have usually been assumed to present linear problems. However, it is unlikely to be true in the case that the number of DEGs is as few as one. Interestingly, linear problems can be solved by SVMs with nonlinear kernels, while nonlinear problems are hardly solvable with SVMs using linear kernels. A potential solution to the nonlinear problem posed by a small number of DEGs could be the application of nonlinear SVM classifiers. But our method suggested a successful alternative which is the use of the nonlinear Gaussian RBF kernel for the identification of DEGs. We reckon that this effort of instilling ''nonlinearity'' into the identification of DEGs has contributed to the better empirical performance of our methods.
+
+Go to:
+Supporting Information
+Additional File S1
+
+The three microarray datasets (PROSTATE, COLON, and LEU) in MATLAB format which were used in this work.
+
+(ZIP)
+
+Click here for additional data file.(5.2M, zip)
+Go to:
+Acknowledgments
+The authors would like to thank the reviewer and the Editor for their helpful comments.
+
+Go to:
+Funding Statement
+This work was supported by grants from Natural Science Foundation, Zhejiang Province, P.R. China (Project No. LQ13F030011) and National Science Foundation of P.R. China (Project No. 61133010). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Go to:
+References
+1. Tusher V, Tibshirani R, Chu G (2001) Significance analysis of microarrays applied to the ionizing radiation response. Proceedings of the National Academy of Sciences 98: 5116–5121. [PMC free article] [PubMed]
+2. Baldi P, Long A (2001) A Bayesian framework for the analysis of microarray expression data: regularized t-test and statistical inferences of gene changes. Bioinformatics 17: 509–519. [PubMed]
+3. Lönnstedt I, Speed T (2002) Replicated microarray data. Statistica sinica 12: 31–46.
+4. Dudoit S, Yang Y, Callow M, Speed T (2002) Statistical methods for identifying differentially expressed genes in replicated cDNA microarray experiments. Statistica Sinica 12: 111–140.
+5. Holm S (1979) A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics: 65–70.
+6. Westfall P, Young S (1993) Resampling-Based Multiple Testing: Examples and Methods for p-Value Adjustment. Wiley-Interscience.
+7. Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Royal Statistical Society Series B (Methodological): 289–300.
+8. Cui X, Hwang JG, Qiu J, Blades NJ, Churchill GA (2005) Improved statistical tests for differential gene expression by shrinking variance components estimates. Biostatistics 6: 59–75. [PubMed]
+9. Cui X, Churchill G (2003) Statistical tests for differential expression in cDNA microarray experiments. Genome Biology 4: 210. [PMC free article] [PubMed]
+10. Bo T, Jonassen I (2002) New feature subset selection procedures for classification of expression profiles. Genome Biology 3: 0017. [PMC free article] [PubMed]
+11. Yeoh E, Ross M, Shurtleff S, Williams W, Patel D, et al. (2002) Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling. Cancer Cell 1: 133–143. [PubMed]
+12. Wang Y, Tetko I, Hall M, Frank E, Facius A, et al. (2005) Gene selection from microarray data for cancer classificationa machine learning approach. Computational Biology and Chemistry 29: 37–46. [PubMed]
+13. Gevaert O, Smet F, Timmerman D, Moreau Y, Moor B (2006) Predicting the prognosis of breast cancer by integrating clinical and microarray data with Bayesian networks. Bioinformatics 22. [PubMed]
+14. Xing E, Jordan M, Karp R (2001) Feature selection for high-dimensional genomic microarray data. In: Proceedings of the Eighteenth International Conference on Machine Learning. Morgan Kaufmann, pp.601–608.
+15. Mamitsuka H (2006) Selecting features in microarray classification using ROC curves. Pattern Recognition 39: 2393–2404.
+16. Ding C, Peng H (2005) Minimum redundancy feature selection from microarray gene expression data. Journal of Bioinformatics and Computational Biology 3: 185–206. [PubMed]
+17. Yeung K, Bumgarner R (2003) Multiclass classification of microarray data with repeated measurements: application to cancer. Genome Biology 4: R83. [PMC free article] [PubMed]
+18. Guyon I, Elisseeff A (2003) An introduction to variable and feature selection. The Journal of Machine Learning Research 3: 1157–1182.
+19. Devijver P, Kittler J (1982) Pattern Recognition: A Statistical Approach. Prentice Hall.
+20. Kohavi R, John G (1997) Wrappers for feature subset selection. Artificial Intelligence 97: 273–324.
+21. Zhou X, Mao K (2005) LS bound based gene selection for DNA microarray data. Bioinformatics 21: 1559–1564. [PubMed]
+22. Tang E, Suganthan P, Yao X (2006) Gene selection algorithms for microarray data based on least squares support vector machine. BMC Bioinformatics 7: 95. [PMC free article] [PubMed]
+23. Jirapech-Umpai T, Aitken S (2005) Feature selection and classification for microarray data analysis: Evolutionary methods for identifying predictive genes. BMC bioinformatics 6: 148. [PMC free article] [PubMed]
+24. Li L, Weinberg C, Darden T, Pedersen L (2001) Gene selection for sample classification based on gene expression data: study of sensitivity to choice of parameters of the GA/KNN method. Bioinformatics 17: 1131–1142. [PubMed]
+25. Ooi C, Tan P (2003) Genetic algorithms applied to multi-class prediction for the analysis of gene expression data. Bioinformatics 19: 37–44. [PubMed]
+26. Guyon I, Weston J, Barnhill S, Vapnik V (2002) Gene selection for cancer classification using support vector machines. Machine learning 46: 389–422.
+27. Díaz-Uriarte R, de Andrés A (2006) Gene selection and classification of microarray data using random forest. BMC bioinformatics 7: 3. [PMC free article] [PubMed]
+28. Jiang H, Deng Y, Chen H, Tao L, Sha Q, et al. (2004) Joint analysis of two microarray geneexpression data sets to select lung adenocarcinoma marker genes. BMC bioinformatics 5: 81. [PMC free article] [PubMed]
+29. Saeys Y, Inza I, Larranaga P (2007) A review of feature selection techniques in bioinformatics. Bioinformatics 23: 2507. [PubMed]
+30. Inza I, Larrañaga P, Blanco R, Cerrolaza AJ (2004) Filter versus wrapper gene selection approaches in dna microarray domains. Artificial intelligence in medicine 31: 91–103. [PubMed]
+31. Pan W (2002) A comparative review of statistical methods for discovering differentially expressed genes in replicated microarray experiments. Bioinformatics 18: 546–554. [PubMed]
+32. Slonim D (2002) From patterns to pathways: gene expression data analysis comes of age. Nature Genetics: 502–508. [PubMed]
+33. Statnikov A, Wang L, Aliferis C (2008) A comprehensive comparison of random forests and support vector machines for microarray-based cancer classification. BMC Bioinformatics 9: 319. [PMC free article] [PubMed]
+34. Brown M, Grundy W, Lin D, Cristianini N, Sugnet C, et al. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines. Proceedings of the National Academy of Sciences 97: 262–267. [PMC free article] [PubMed]
+35. Shipp M, Ross K, Tamayo P, Weng A, Kutok J, et al. (2002) Diffuse large B-cell lymphoma outcome prediction by gene-expression profiling and supervised machine learning. Nature Medicine 8: 68–74. [PubMed]
+36. Furey T, Cristianini N, Duffy N, Bednarski D, Schummer M, et al. (2000) Support vector machine classification and validation of cancer tissue samples using microarray expression data. Bioinformatics 16: 906–914. [PubMed]
+37. Cristianini N, Shawe-Taylor J (2000) An introduction to support Vector Machines: and other kernel-based learning methods. Cambridge Univ Pr.
+38. Burges C (1998) A tutorial on support vector machines for pattern recognition. Data Mining and Knowledge Discovery 2: 121–167.
+39. Huang DS (1999) Radial basis probabilistic neural networks: Model and application. International Journal of Pattern Recognition and Artificial Intelligence 13: 1083–1101.
+40. Zhou X, Mao K (2006) The ties problem resulting from counting-based error estimators and its impact on gene selection algorithms. Bioinformatics 22: 2507–2515. [PubMed]
+41. Dudoit S, Fridlyand J, Speed T (2002) Comparison of discrimination methods for the classification of tumors using gene expression data. Journal of the American Statistical Association 97: 77–87.
+42. Ambroise C, McLachlan G (2002) Selection bias in gene extraction on the basis of microarray gene-expression data. Proceedings of the National Academy of Sciences 99: 6562. [PMC free article] [PubMed]
+43. Simon R, Radmacher M, Dobbin K, McShane L (2003) Pitfalls in the use of DNA microarray data for diagnostic and prognostic classification. Journal of the National Cancer Institute 95: 14–18. [PubMed]
+44. Braga-Neto U, Dougherty E (2004) Is cross-validation valid for small-sample microarray classification? Bioinformatics 20: 374–380. [PubMed]
+45. Pavlidis P, Weston J, Cai J, Grundy W (2001) Gene functional classification from heterogeneous data. In: Proceedings of the 5th Annual International Conference on Computational Biology. ACM New York, USA , pp.249–255.
+46. Cho JH, Lee D, Park JH, Lee IB (2003) New gene selection method for classification of cancer subtypes considering within-class variation. FEBS letters 551: 3–7. [PubMed]
+47. Yang K, Cai Z, Li J, Lin G (2006) A stable gene selection in microarray data analysis. BMC Bioinformatics 7: 228. [PMC free article] [PubMed]
+48. Chang CC, Lin CJ (2011) Libsvm: a library for support vector machines. ACM Transactions on Intelligent Systems and Technology (TIST) 2: 27.

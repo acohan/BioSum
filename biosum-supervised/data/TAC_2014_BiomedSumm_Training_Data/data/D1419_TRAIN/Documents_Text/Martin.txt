@@ -1,0 +1,532 @@
+Dimerization of MLL fusion proteins immortalizes hematopoietic cells
+Mary Ellen Martin1, 2, Thomas A Milne1, 3, Sebastien Bloyer3, Karine Galoian1, Weiping Shen1, Denise Gibbs1, Hugh W Brock3, Robert Slany4, Jay L HessCorresponding author contact information, 1, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S1535-6108(03)00214-9
+Under an Elsevier user license
+  Open Archive
+Abstract
+MLL fusion proteins are leukemogenic, but their mechanism is unclear. Induced dimerization of a truncated MLL immortalizes bone marrow and imposes a reversible block on myeloid differentiation associated with upregulation of Hox a7, a9, and Meis1. Both dimerized MLL and exon-duplicated MLL are potent transcriptional activators, suggesting a link between dimerization and partial tandem duplication of DNA binding domains of MLL. Dimerized MLL binds with higher affinity than undimerized MLL to a CpG island within the Hox a9 locus. However, MLL-AF9 is not dimerized in vivo. The data support a model in which either MLL dimerization/exon duplication or fusion to a transcriptional activator results in Hox gene upregulation and ultimately transformation.
+
+Significance
+MLL is truncated and fused to one of over 40 different translocation partners in aggressive human acute lymphoid and myeloid leukemias. The occurrence of some MLL translocation partners known to exist as dimers or tetramers in vivo suggests that one role of these partners may be to dimerize MLL. Our results show that MLL dimers immortalize cells, block myeloid differentiation, upregulate Hox a7, a9, and Meis1, and bind with higher affinity to their targets. However, not all MLL fusions dimerize in vivo. These findings may explain differences in efficiency of transformation by MLL fusion proteins and have important implications for the development of MLL-directed therapy.
+
+Introduction
+Rearrangements of the mixed lineage leukemia gene MLL, the human homolog of Drosophila trithorax, are associated with aggressive lymphoid and myeloid leukemias. The most common of these are the t(4;11),(MLL-AF4) and t(11;19),(MLL-ENL), translocations that are strongly associated with acute lymphoblastic leukemias in infants. MLL rearrangements are also one of the most common genetic alterations in acute myelogenous leukemia, occurring in about 10% of cases, particularly those with monocytic or myelomonocytic differentiation. These leukemias result from a different set of translocations, including the t(9;11) and t(6;11), which express MLL-AF9 and MLL-AF6, respectively Sorensen et al. 1994, Downing and Look 1996 and DiMartino and Cleary 1999. In addition, internal tandem duplications of MLL occur in about 10% of cytogenetically normal AML cases, and are associated with a worse prognosis Caligiuri et al. 1998 and Dohner et al. 2002. In all, more than 40 different translocations have been identified, making MLL rearrangements one of the most common genetic alterations in human leukemia.
+
+MLL is a large protein (3968 aa) that is proteolytically cleaved into two fragments before entering the nucleus Nakamura et al. 2002, Yokoyama et al. 2002 and Hsieh et al. 2003. The amino-terminal fragment MLLN is a 300 kDa protein that contains DNA binding motifs including three AT hooks and a DNA methyltransferase homology region that targets MLL to particular chromosomal sites. The C-terminal region of MLLN contains multiple cysteine-rich zinc finger domains (termed PHD for plant homeodomains) that flank a bromodomain region. These sequences by themselves have repressive effects on transcription. Because MLLN noncovalently associates with MLLC, which has potent transcriptional activating activity, MLL has net activating effects on transcription. This is likely the result of recruitment of the known histone acetyltransferase CBP (Ernst et al., 2001), recruitment of the SWI/SNF chromatin remodeling complex (Rozenblatt-Rosen et al., 1998), and intrinsic lysine 4 methyltransferase activity of the highly conserved MLL C-terminal SET domain Milne et al. 2002 and Nakamura et al. 2002.
+
+The best understood targets of MLL are the clustered homeobox or Hox genes (Yu et al., 1998). Studies of Mll knockout mice showed that MLL positively regulates expression of the clustered Hox genes during development (Yu et al., 1995). Recently, we and others have shown that MLL activates Hox gene transcription by binding directly to Hox promoters and promoting histone acetylation and H3 lysine 4 methylation Milne et al. 2002 and Nakamura et al. 2002. MLL is required for normal Hox gene expression and proliferation of hematopoietic progenitors, particularly of myelomonocytic lineage (Hess et al., 1997). This link between MLL, Hox gene regulation, and hematopoiesis is of particular importance because of the growing experimental evidence implicating changes in Hox gene expression with experimental and human leukemias Kroon et al. 1998, Kawagoe et al. 1999, Buske and Humphries 2000, Armstrong et al. 2002, Fujino et al. 2001, Rozovskaia et al. 2001 and Drabkin et al. 2002.
+
+While some insights into the function of wild-type MLL have been obtained, the role of MLL fusion proteins in transformation is poorly understood. Transformation by MLL requires fusion to a translocation partner, indicating that MLL-mediated transformation is not simply a loss of function mechanism. Translocations involving MLL cluster in exons 5 through 8 and consistently replace the PHD domain and distal domains with an in-frame fusion to one of many translocation partners that, in general, share little sequence homology. The other derivative product is not required for transformation and the fusion proteins apparently do not interact with MLLC(Yokoyama et al., 2002). This large number of translocation partners that lack sequence homology has made it difficult to develop a unifying theory for how rearranged forms of MLL are leukemogenic.
+
+Many commonly occurring MLL translocation partners are transcription factors, including AF4, AF9, and ENL that activate transcription when tethered to heterologous promoters. This suggested a simple mechanism of target gene activation by fusion of transcriptional activation domains to MLL, a finding supported by reports that VP-16 fused to MLL is also transforming So and Cleary 2003 and Zeisig et al. 2003. In rare cases of therapy-related leukemias, MLL is fused to CBP or the closely related protein p300, raising the possibility that recruitment of histone acetyltransferase (HAT) activity plays a role in MLL-mediated leukemogenesis (Lavau et al., 2000).
+
+However, not all MLL translocation partners appear to be transcriptional activators Ayton and Cleary 2001 and Strehl et al. 2003. Some are cytoplasmic proteins that are unlikely to have a nuclear function. The presence of self-association motifs in some MLL translocation partners has prompted several investigators to propose that dimerization of truncated MLL may be transforming Prasad et al. 1994, Chaplin et al. 1995, Dobson et al. 1999 and Sano 2001. There is abundant indirect evidence for this mechanism. AF10 and AF17 contain leucine zipper motifs that are required for transformation (DiMartino et al., 2002), and AF10 is a homotetramer (Linder et al., 2000). AF3p21 homooligomerizes (Sano, 2001), and guanine monophosphate synthetase is a tetramer (Pegram et al., 2000). In addition, LCX, SEPTING, AF1p/EPS15, EEN, and AF6 all contain α-helical coiled-coil regions that are retained in fusion proteins Slater et al. 2002 and Ono et al. 2002. These coiled-coil self-association domains resemble the rod-like domains that mediate dimerization of myosin chains and therefore are also likely to self-associate. Perhaps the most compelling experimental evidence for a dimerization model is the finding that MLL-lacZ knockin mice developed both lymphoid and myeloid leukemias, albeit with a long latency period (Dobson et al., 1999). β-galactosidase has no known transcriptional activity, nor is it homologous to any known MLL translocation partner. However, in its active form, the enzyme is a tetramer in solution Appel et al. 1965 and Jacobson et al. 1994, implying that the primary role of the translocation partner in these experimental leukemias is to oligomerize MLL.
+
+Dimerized MLL strikingly resembles the commonly occurring form of MLL with internal tandem duplications of the AT hooks and DNA methyltransferase homology regions. If dimerization doubles the number of DNA binding domains and increases the binding affinity or changes the target specificity of MLL, then this might explain how a subset of MLL fusions cause leukemia. Determining whether dimerization of truncated MLL is required for transformation is important for the future development of targeted therapies that block this self-association.
+
+Results
+MLL dimerization is sufficient for immortalization
+Therefore, we tested whether MLL dimerization was transforming by constructing a pharmacologically dimerizable MLL fusion protein (Amara et al., 1997) within an MSCV-based retroviral vector (Hawley et al., 1994). We fused a modified form of the 12 kD FK506 binding protein (FKBP12) in-frame to MLL in exon 7, a common site of translocation breakpoints, to generate the construct MSCV-MLL-FKBP. When expressed, this MLL-FKBP fusion protein dimerizes only in the presence of the dimerizer AP20187. Murine bone marrow was transduced with MLL-FKBP retrovirus, a retrovirus expressing MLL-AF9, an MLL fusion protein associated with acute myeloid leukemias, or a control virus expressing only NeoR (MSCV Neo). Retroviral transduction of 5-FU-primed bone marrow with MLL-AF9 readily transformed the cells to generate myeloblastic cell lines capable of growing in liquid culture in IL-3 only. These cells formed compact colonies in methylcellulose replating assays with replating properties similar to those reported for the closely related MLL-ENL (Lavau et al., 1997). MLL-AF9 cells had myeloblastic morphology, and immunophenotyping revealed expression of the myeloid markers Gr-1 and Mac-1 as well as c-Kit; the erythroid marker Ter-119 was not expressed (Figure 1C).
+
+Full-size image (48 K)
+Figure 1. 
+Dimerization of MLL-FKBP transforms murine bone marrow
+A: Methylcellulose cultures of murine bone marrow transformed by MLL-AF9 show compact colonies characteristic of MLL fusion protein transformation.
+B: Wright Giemsa-stained cytospins of MLL-AF9 transformed cells show myeloblastic morphology.
+C: Immunophenotypic analysis of MLL-AF9 transformed cells shows expression of myeloid (Mac-1, Gr-1) and hematopoietic progenitor markers (c-Kit), but not the erythroid lineage marker, Ter119.
+D: MLL-FKBP-transduced bone marrow cultured in the presence of 50 nM dimerizer shows compact colonies similar to MLL-AF9-transformed cells. When individual colonies of MLL-FKBP were picked and replated, only colonies with compact morphology gave rise to IL3 dependent cell lines.
+E: MLL-FKBP transformed cells were myeloblasts similar to MLL-AF9 transformed cells and had a similar immunophenotype with Gr-1, Mac-1 and c-Kit expression (F).
+Figure options
+Transduction of MLL-FKBP in the absence of dimerizer did not immortalize cells. Although the number of primary colonies was similar initially, in five separate experiments, the transduced cells died after three to four replatings in methylcellulose, and no cell lines could be established (data not shown). Only compact colonies from cells grown in the presence of dimerizer generated multiple myeloblastic lines that could be replated and which grew indefinitely in liquid culture. Dimerizer was required from the onset of plating in methylcellulose in order to get transformation. The MLL-FKBP-transduced cells cultured in the presence of 50 nM dimerizer formed compact colonies and showed myeloblastic cytology (Figures 1D and 1E) and an immunophenotype (Figures 1C and 1F) nearly identical to MLL-AF9 transformed cells (Figures 1A and 1B).
+
+Despite these similarities, some differences were noted in the behavior of the cells immortalized by dimerization. First, MLL-AF9 cells proliferated rapidly from the onset and required only IL-3 for growth initially when transferred to liquid culture. In contrast, MLL-FKBP-transduced cells grew slowly and required both IL-3 and SCF factor for growth initially in liquid culture. Ultimately, the MLL-FKBP-transduced cells proliferated as fast as the MLL-AF9 transduced cells and could be weaned to IL-3 alone. MLL-AF9 gave rise to oligoclonal populations of integrants, implying a high efficiency of transformation, whereas MLL-FKBP (Figures 4A and 4B) gave rise to monoclonal integrations, implying a lower efficiency.
+
+MLL-AF9 cells, when injected into busulfan-treated, immunosuppressed mice either intravenously or intraperitoneally, resulted in acute myeloid leukemias in all recipients by 60 days. Testing the ability of MLL-FKBP cells to cause leukemia in vivo presented challenges because of the short in vivo half-life and limited supply of dimerizer, which precluded continuously providing the drug to mice.
+
+The transformation imposed by MLL-FKBP was reversible. Withdrawal of dimerizer resulted in a loss in further colony formation upon replating (Figure 2A) and a rapid arrest of cell proliferation as shown by cell counts on trypan blue stained cells (Figure 2B). Dimerization of MLL-FKBP also stimulates S phase progression. Propidium iodide cell cycle analysis (Figures 2C and 2D) revealed that, similar to MLL-AF9 transformed cells, the MLL-FKBP line in the presence of dimerizer showed a high proportion of cells in S phase and G2M, (44.2% and 9.5%, respectively) whereas cells grown for 96 hr in the absence dimerizer showed a sharp reduction of cells in S phase (15.7%). Cells retained myeloblast morphology at 96 hr after dimerizer withdrawal; however, over a period of 21 days, the cells differentiated completely into a mixed population of predominantly macrophages with admixed neutrophils (Figures 2E and 2F). These results suggest that differentiation blockade is a fundamental mechanism of immortalization by all MLL fusion proteins (Schreiner et al., 2001, B. Zeisig et al., submitted).
+
+Full-size image (62 K)
+Figure 2. 
+MLL-FKBP dimerization promotes proliferation and reversibly blocks myeloid differentiation
+A: Colony counts on 103 MLL-FKBP cells plated in methylcellulose with added growth factors in the presence and absence of dimerizer. Only cells plated in the presence of dimerizer gave rise to compact colonies, which could be maintained in IL-3 alone in liquid culture.
+B: MLL-FKBP cells growing in the presence of dimerizer and IL-3 or dimerizer and IL-3 + SCF were washed in complete medium and replated in the presence or absence of 50 nM dimerizer and IL3 or IL3 + SCF. Viable and dead cells were counted using Trypan blue exclusion at 24, 48, 72, and 96 hr. Upon dimerizer withdrawal, cells grown either in the presence of IL-3 alone or IL-3 + SCF fail to proliferate, while cells grown in the presence of dimerizer grow robustly.
+C and D: Cell cycle analysis of MLL-FKBP-transformed cells. Cells grown in the presence of dimerizer and IL-3 + SCF were washed and replated in complete medium with IL-3 + SCF in the presence or absence of dimerizer. Cells were harvested 48 hr later and labeled with propidium iodide, and cell cycle analysis was performed. Cells growing in the presence of dimerizer (C) had an S phase fraction of 46% (similar to MLL-AF9-transformed cells; data not shown), while removal of dimerizer (D) resulted in a decreased S phase fraction (15%).
+E and F: Morphology of MLL-FKBP-transformed cells grown in the presence of dimerizer and 20 days after dimerizer withdrawal. Wright-Giemsa staining of cytospins reveals myeloblast morphology in cells grown in the continuous presence of dimerizer (E); after dimerizer withdrawal, MLL-FKBP cells (F) differentiate into neutrophils and macrophages, reflecting release from a block in myeloid differentiation.
+Figure options
+Dimerization of MLL converts it into a transcriptional transactivator
+Naturally occurring MLL fusion proteins such MLL-AF4 and MLL-AF9, but not truncated MLL, are potent transcriptional coactivators that activate transcription of promoters containing MYC E boxes as well as Hox promoters, which also contain E boxes ( Schreiner et al. 1999 and Galoian et al. 2000; J.L.H., unpublished data). To determine if dimerization of amino-terminal MLL affects coactivator activity, the MLL-FKBP expression construct ( Figure 3A) was transfected into CHO cells along with the Myc-Luc firefly luciferase reporter, and a CMV immediate early region regulated Renilla luciferase reporter as a control for dual luciferase reporter assays. Analysis of transiently transfected cells showed that dimerization of the fusion protein activated transcription (nearly 250-fold) in a dose-dependent manner (Figure 3B). Experiments with a stably integrated reporter gene gave similar results (Figure 3C). In contrast, addition of dimerizer to cells transfected with an “empty” expression vector (MSCV Neo) had no effect on transcription ( Figure 3C and data not shown).
+
+Full-size image (19 K)
+Figure 3. 
+Dimerization of truncated MLL, but not the AT hooks alone, converts it into a potent transcriptional activator
+A: Schematic of MSCV-based constructs used for transfections, including the naturally occurring translocation partner MLL-AF9,MLL-FKBP, which contains a cDNA encoding the FKBP12 protein fused to MLL at the PflM1 site within exon 7, a common site for translocation breakpoints. AT-FKBP contains sequences C-terminal to the 3 AT hook motifs of MLL fused in frame to FKBP12. MLL-DUP contains the amino-terminal sequences of MLL spanning the AT hooks and DNMT region fused to the derivative MLL at the PflM1 site.
+B: For transient transfections, cDNAs for the MLL-AF9 fusion protein were transfected in triplicate into CHO cells along with a Myc E box HSV TK luciferase reporter and a CMV-driven Renilla luciferase control plasmid. The expression of firefly and Renilla luciferase activity was measured using the dual luciferase reporter assay. Results are expressed as a ratio of normalized firefly luciferase activity to the activity of cells transfected with an MSCV neomycin control vector. In the presence of the dimerizer AP20187, cells transfected with MLL-FKBP showed strong dose-dependent transactivation of the Myc E box HSV TK reporter (bottom axis shows nM concentration of AP20187 in tissue culture medium). Dimerization of the MLL AT hooks alone did not transactivate.
+C: For stable transfections, Sca1 linearized expression plasmids described above were transfected in triplicate into CHO cells along with linearized PGK Hygro and Renilla luciferase control plasmid, and hygromycin-resistant cells were harvested for luciferase assay approximately three weeks later. Cells transfected with FKBP showed dose-dependent increases in expression from the stably integrated reporter construct. No transactivation was seen in the Neo control. Remarkably, the exon duplicated form of MLL also showed strong transactivation. Naturally occurring MLL fusion proteins, including MLL-AF4, MLL-AF9, and MLL-ENL typically transactivate 20- to 30-fold (data not shown), a level of transactivation observed with MLL-FKBP at approximately 50 nM of dimerizer.
+Figure options
+Dimerized MLL-FKBP resembles the exon duplicated form of MLL in that the protein complex contains increased numbers of DNA binding motifs: two AT hook clusters and 2 DNMT homology regions. To test the hypothesis that increased DNA binding motifs account for the activation shown by dimerization MLL-FKBP, we constructed MLL-DUP (Figure 3A) and tested it in transient and stable luciferase assays as above. Remarkably, MLL-DUP had potent transactivating activity equivalent to that of the dimerized MLL-FKBP in both assays, suggesting that duplication of DNA binding elements in MLL contributes to transcriptional transactivation (Figure 3C).
+
+MLL dimerization upregulates expression of endogenous Hox genes and Meis 1
+Normally, the A cluster Hox genes, including Hox a7 and a9 and the Hox cofactor Meis 1, are only expressed in cKit+Thy1lo+Lin1−/loSca11+rhodamine 123Rhlo hematopoietic stem cells (HSC), and then their expression is rapidly downregulated in more differentiated multipotential, common lymphoid, and myeloid progenitors Park et al. 2002, Pineault et al. 2002 and Akashi et al. 2003. However, MLL-FKBP and MLL-AF9 transformed cells showed persistent expression of Hox a7 and Hox a9 as well as the Hox cofactor Meis 1. These findings were identical to the pattern of expression seen in human acute lymphoid and myeloid leukemias with MLL rearrangements Rozovskaia et al. 2001, Armstrong et al. 2002 and Yeoh et al. 2002. We then assessed whether Hox a7, a9, and Meis 1 are directly or indirectly regulated by MLL fusion proteins. Levels of MLL-AF9 expression were measured in two MLL-AF9 transformed cells from independent experiments ( Figure 4D). Cells which expressed a higher level of MLL-AF9 also expressed increased levels of Hox a7, a9, and Meis 1.
+
+Full-size image (31 K)
+Figure 4. 
+Expression of MLL-AF9 and dimerization of MLL-FKBP upregulate Hox gene expression
+A: Southern blot of genomic DNA from MLL-AF9 and MLL-FKBP-transformed bone marrow cells digested with Kpn I and probed with an MLL HindIII probe, confirming the integrity of the proviral DNA in both lines. The upper band represents wild-type mouse embryonic fibroblasts (MEF), which are used as a probe control.
+B: Southern blot showing multiple viral integration sites in an MLL-AF9 line (black arrowheads) but only a single integration site in the MLL-FKBP line (white arrowhead).
+C: Expression of constructs in various lines as assessed by RT-PCR. MLL-AF9 and MLL-FKBP are only expressed in bone marrow cells transformed with the respective virus. Expression levels of MLL-FKBP remain constant in the presence (+) or absence (−) of dimerizer.
+D: Levels of MLL-AF9 expression correlate with levels of Hox gene expression. Two different MLL-AF9 transformed cell lines (MLL-AF9#3 and #6) express Hox a9, Hox a7, and Meis1 as quantified by real-time PCR. Relative expression levels of Meis1 and the Hox genes are higher in the MLL-AF9#6 line, which also correlates with higher MLL-AF9 expression levels (inset) and faster growth rate (data not shown).
+E: Endogenous Hox gene expression is upregulated by MLL-FKBP dimerization. Expression of Hox a9, Hox a7, and Meis1 was quantified using real-time PCR in cells transformed with either MLL-AF9 or MLL-FKBP. Gene expression is maintained in the MLL-FKBP line in the presence (+) of dimerizer. Removal of dimerizer for 4 days (−, 4) results in a reduction of gene expression. Within 24 hr of adding dimerizer back (+, 1) both Hox a9 and Meis1 expression return to previous levels, while Hox a7 expression is increased after 3 days (+, 3). Levels of Hox and meis1 expression are low in a dimerizer-independent cell line (ind).
+Figure options
+To more directly test the link between MLL fusion protein activity and Hox gene expression, we plated MLL-FKBP-transformed cells in the presence and absence of dimerizer for variable lengths of time and then prepared RNA from these cultures for quantitative PCR analysis. MLL-FKBP-transformed cells expressed levels of Hox a7, Hox a9, and Meis1 (Figure 4E) comparable to MLL-AF9 transformed cells. Upon dimerizer withdrawal, the levels of Hox a7, Hox a9, and Meis1 expression fell dramatically (Figure 4E). Importantly, readdition of dimerizer to cells deprived of dimerizer for four days resulted in prompt upregulation of Hox a7, Hox a9, and Meis 1 expression, with a slight decrease in Meis1 expression at day 3. These results establish that transcription of these targets is dependent on dimerization, but do not show if the MLL-FKBP binds directly to these targets, or how dimerization affects binding.
+
+Binding of amino-terminal MLL to regulatory regions of Hox genes is enhanced by dimerization
+The recent discovery that wild-type MLL binds to Hox promoters including Hox a9 and Hox c8 Milne et al. 2002 and Nakamura et al. 2002 suggests that MLL fusion proteins regulate Hox genes through direct promoter binding. To directly test this hypothesis, we used chromatin immunoprecipitation (ChIP) (Orlando, 2000) to identify MLL fusion protein binding sites in the Hox a9 locus. Chromatin was prepared from MLL-FKBP-immortalized cells grown in either the presence or absence of dimerizer, and immunoprecipitations were performed using antibodies to either FKBP12 or the C-terminal HA tag. A series of primers for quantitative PCR to the CpG-rich coding region and sequences upstream of the transcriptional start site of the murine Hox a9 gene were used to detect MLL fusion protein binding ( Figure 5A). In multiple experiments using both antibodies, we detected reproducible binding of MLL-FKBP only to the CpG rich region spanning Hox a9 exon 1 (Figures 5B and 5C). This is noteworthy because many Hox genes contain CpG islands within their first exons and also because of the recent finding that the DNMT domain of MLL preferentially binds unmethylated CpG-rich DNA in vitro (Birke et al., 2002). The binding we observed is within 1 Kb of the MLL binding site reported in a limited analysis of the human HOX A9 promoter (Nakamura et al., 2002).
+
+Full-size image (31 K)
+Figure 5. 
+Detection of MLL-FKBP binding sites in vivo using chromatin immunoprecipitation
+A: Schematic of the Hox A9 locus. Distances in kb are marked below the line. Two different transcriptional start sites are marked by arrows. Yellow boxes below the line denote AT-rich sequences, and black boxes below the line denote putative CpG islands. The TATA box is the site of a previously characterized MLL binding site (Nakamura et al., 2002). Positions of Taqman primer/probe sets used to survey for MLL-FKBP binding sites are shown above the line in red. The exon 1 primer/probe set is the only site that gave a consistent positive signal.
+B: ChIP analysis of MLL-FKBP cells grown in the presence (+) or absence (−) of dimerizer using an antibody to the C-terminal hemagglutinin tag (HA). Shown are PCR results detecting binding at the position of Hox A9 exon 1. Increased binding is seen in the presence of dimerizer (αHA,+).
+C: Quantification of ChIP results from B as a percentage of input chromatin using the Taqman primer/probe set exon 1. Increased binding is seen in the presence of dimerizer (αHA,+), but weak residual binding is still seen in the absence of dimerizer (αHA, −). Only background signal is detected in the no antibody control or at the β Actin locus.
+Figure options
+Wild-type MLL contains self-association motifs in the PHD fingers (Fair et al., 2001) and SET domain (Rozovskaia et al., 2000), suggesting that MLL normally functions as a dimer or oligomer. These domains are deleted in MLL fusion proteins, raising the possibility that MLL dimerization and redimerization of the derivative MLL by the translocation partner is required for Hox promoter binding. This suggestion is supported by our finding that exon-duplicated MLL acts as a transcriptional activator. Although increased binding was detected in the presence of dimerizer, undimerized MLL (MLL-FKBP) was still capable of weak binding, suggesting that MLL dimerization is not required for binding to the Hox a9 locus (Figure 5C). The results support the hypothesis that it is an increase in affinity of binding by dimerized MLL fusions or exon-duplicated MLL, rather than a change in specificity, that causes transformation.
+
+Is MLL fusion protein dimerization required in vivo?
+To test if dimerization is required for transformation, we used β-lactamase complementation to determine if intact MLL-AF9 was dimerized in vivo. This assay relies on the ability of two fragments of β-lactamase to reconstitute activity when heterodimerized. Coding sequences for two fragments of β-lactamase shown to complement activity when dimerized (Wehrman et al., 2002) were cloned in-frame at the PflM1 site of MLL-FKBP or MLL-AF9, which introduces the lactamase fragments immediately amino-terminal to the translocation partners (Figure 6). As a positive control, the intact β-lactamase was cloned into a control vector pBla in place of the MLL sequences. The various constructs were transfected into 293 cells, which were loaded with the CCF2/AM substrate at either 48 or 72 hr. β-lactamase activity was detected by cleavage of the fluorogenic substrate CCF2/AM. When excited by UV laser at 409 nm, the emission of the dye CCF2/AM at 520 nM is shifted to 447 nM when cleaved by enzymatically active β-lactamase. Cleaved CCF2/AM would only be present if the two complementary halves of the enzyme were brought into close proximity by dimerization. The results are shown in Figure 7. Intact CCF/AM2 emits at 520 nm (green, Figure 7C), while after cleavage it emits at 447 nm (blue, Figure 7D). Transfection of pBla resulted in a substantial shift to 447 nm emission, indicating reconstituted β-lactamase activity. An insignificant population of cells emitting at 447 nm was seen in cells singly transfected with either MLL-FKBP α or ω either with or without dimerizer (data not shown) or in cells cotransfected with MLL-FKBP α and ω in the absence of dimerizer. In contrast, a significant shift to 447 nm emission was seen in MLL-FKBP α- and ω-expressing cells cultured in the presence of dimerizer, indicating a reconstitution of β-lactamase activity reflecting dimerization of the fusion proteins molecules in vivo. No distinct population of cells showing bright 447 nm emission was observed in cells expressing MLL-AF9 α or ω or both, indicating that this fusion protein is not dimerized in vivo. Consistent with this observation, immunoprecipitation studies in cells cotransfected with epitope tagged AF9 did not show evidence of self-interaction (data not shown). These data suggest that MLL-AF9 is not dimerized in vivo and that dimerization of MLL fusions is not obligatory for transformation.
+
+Full-size image (8 K)
+Figure 6. 
+Constructs used in β-lactamase complementation assay
+Schematic of the MLL-AF9 α and ω and MLL-FKBP α and ω cDNAs under the transcriptional control of a CMV/β actin promoter used for β-lactamase complementation. The α197 or ω198 portions of the β-lactamase gene were inserted in frame into MLL at the PflM1 site as described in the Experimental Procedures (GS = glycine/serine-rich linker).
+Figure options
+Full-size image (166 K)
+Figure 7. 
+Detection of MLL dimerization in vivo by β-lactamase complementation
+A: Forward versus side scatter of transfected cells.
+B: Histogram of blue (CCF2/AM cleaved by β-lactamase) versus green (intact, uncleaved CCF2/AM) fluorescence intensity.
+C shows intact CCF2/AM fluorescence, while D shows blue fluorescence intensity. The percent of cells (P2/P1) showing blue fluorescence (cleaved CCF2/AM) indicates that cells transfected with both MLL-FKBPα and MLL-FKBPω constructs in the presence of dimerizer reconstitute β-lactamase activity, while in the absence of dimerizer, there is no cleavage of the CCF2/AM substrate, indicating that dimerization of MLL-FKBP is required for its activity. MLL-AF9ω transfected cells do not demonstrate β-lactamase activity, nor do cells cotransfected with the complementary α and ω MLL-AF9 constructs.
+Figure options
+Discussion
+Multiple mechanisms for MLL fusion protein-mediated transformation
+The molecular mechanisms by which MLL translocations transform are unclear. Previously, Ayton and Cleary suggested that alternative paths exist for MLL fusion protein-mediated transformation (Ayton and Cleary, 2001). One pathway involves common translocation partners that are nuclear proteins with transcriptional activating activity such as MLL-AF4, MLL-AF9, and MLL-ENL. Balanced translocations involving MLL have two molecular consequences. They delete the sequences involved in transcriptional activation through histone methylation Milne et al. 2002 and Nakamura et al. 2002, but also delete the PHD fingers, which may play a role in recruiting corepressors Fair et al. 2001 and Schultz et al. 2001. It is noteworthy in this regard that in some T-ALLs, the only MLL alteration is that exon 8 is deleted, resulting in deletion of 33 amino acids of the first PHD finger Chervinsky et al. 1995 and Ayton and Cleary 2001. Additionally, strongly transforming translocation partners such as ENL and AF9 likely upregulate Hox expression by recruiting transcriptional coactivators. ENL, for example, has recently been shown to be part of a SWI/SNF chromatin remodeling complex (Nie et al., 2003). Apparently, dimerization of this class of MLL fusion proteins is not required for target binding, perhaps because the translocation partner either provides domains or interacts with proteins that contribute to binding. In the case of ENL, these might be the AT hook motifs in BRG1 associated with the ENL complex that have been shown to bind DNA (Bourachot et al., 1999).
+
+The second pathway is associated with less common translocation partners, particularly cytoplasmic proteins, that tend to be associated with long latencies in experimental animal models and that are seen more commonly in adult or secondary leukemias. An increasing number of these rare cytoplasmic MLL translocation partners, including LASP, FBP17, ABI1, and GRAF, have been shown to be incapable of transforming in in vitro progenitor assays (Strehl et al., 2003). Dimerized MLL appears to be a good model for the latter group, as it inefficiently immortalizes bone marrow cells, presumably because it requires additional genetic events for complete transformation.
+
+The mechanism by which dimerization of MLL results in transcriptional activation is less clear. The finding that partially duplicated forms of MLL also had potent coactivator activity (Figure 3C) suggests that duplication of potential DNA binding elements such as the AT hooks or DNA methyltransferase homology region may play an important role in transformation. The duplicated DNA binding domains might interfere with corepressor binding to CpG repeats, or AT hook-mediated DNA bending could facilitate transcription factor binding further upstream, or increased affinity might stabilize interactions with coactivators. Determining whether MLL fusions outcompete the unrearranged form of MLL for target binding or alter corepressor or coactivator recruitment will be important for developing a coherent model for how internal tandem duplications or dimerization of MLL activate transcription.
+
+Regardless of the mechanism for transcriptional activation, increasing data suggest that Hox a7, Hox a9, and Meis1 are pivotal targets for MLL fusion protein-mediated transformation Li et al. 1999, Thorsteinsdottir et al. 2001 and Thorsteinsdottir et al. 2002. These genes are consistently expressed in leukemias with MLL rearrangements Rozovskaia et al. 2001, Armstrong et al. 2002 and Yeoh et al. 2002, and abundant experimental data suggest this combination is transforming. Hox a7 and Hox a9 are commonly overexpressed as a result of retroviral integration in BXH2 leukemias Moskow et al. 1995 and Nakamura et al. 1996, and this is almost always accompanied by overexpression of Meis1. Coexpression of Hox a9 and Meis1 is sufficient to block G-CSF-induced differentiation and permit stem cell factor-induced proliferation. Cotransduction of Hox a9 and Meis1 rapidly accelerates leukemia development in transplanted mice (Kroon et al., 1998). Most compellingly, expression of Hox a9 and Meis1 can completely replace the block in myeloid differentiation imposed by a conditional form of MLL-ENL (B. Zeisig et al., submitted).
+
+It is therefore surprising that although MLL-AF9 and MLL-FKBP had different potencies for transformation, the proteins produced comparable levels of Hox a7, Hox a9, and Meis1 expression. This suggests that the two differ in their potency through deregulation of target genes outside of the clustered Hox genes. A second surprising result was that with increasing passage, the conditionally transformed MLL rapidly became dimerizer-independent (Figure 4E). Although Hox and Meis1 expression was still dependent on dimerizer, the cells continued to grow in its absence, suggesting that additional genetic hits had occurred that rendered these cells less dependent on Hox proteins. The conditionally transformed cells therefore provide a unique model system for studying the acquisition of cooperating oncogenes in MLL-associated leukemia. Finally, these findings will have important implications for the development of therapy targeting either MLL gain-of-function activity or downstream Hox protein activity.
+
+Experimental procedures
+Cell culture and transfection
+CHO-AA8-Tet off cells (BD Biosciences Clontech, Palo Alto, CA) and 293 human embryonic kidney cells were grown in Dulbecco's modified eagle medium (DMEM) supplemented with 10% fetal bovine serum (FBS), l-glutamine, and penicillin/streptomycin (all from Gibco, Grand Island, NY).
+
+Reporter and expression plasmids
+A Mercury reporter plasmid (Clontech) containing the HSV minimal promoter and multimerized copies of MYC E box binding sites was used as an MLL-responsive reporter for cotransfection assays. RL-CMV, used as a control in all transfections, expresses Renilla luciferase under the control of the CMV immediate-early promoter (Promega, Madison, WI). The MSCV Neo retroviral vector used as a control has been previously reported (Hawley et al., 1994). The plasmid pC4Fv1E containing the 12 Kd FK506 binding protein (FKBP12) fused to a carboxy terminus hemagglutinin (HA) tag (Ariad Pharmaceuticals, Cambridge, MA) was digested with PflMI/XhoI to release the FKBP12 fragment. MSCV MLL-FKBP and MSCV MLL-AF9 were created from MSCVMLL-ENL by cloning the 377 bp PflMI/XhoI FKBP fragment into exon 7 or the 270 bp AF9 BamH1/XhoI fragment into exon 8 of MLL in place of the ENL insert. Both plasmids contained neomycin resistance genes. The β-lactamase-containing constructs were constructed by PCR amplication of the α197 β-lactamase fragment from FKBPα197, and the ω198 β lactamase fragment from FKBPω198 with primers that generate PflM1 sites flanking the insert and in-frame with the 5′ PflM1 site in MLL (Wehrman et al., 2002). Following subcloning, the inserts were recloned in the sense orientation into the PflM1 site of the CMV/β actin promoter expression vector pCXN to generate pF-MLL-FKBP and pF-MLL-AF9, and constructs were confirmed by sequencing across the insert.
+
+Transfections
+Cells were seeded at a density of 104 cells per well of 12-well cluster dishes and were transfected 24 hr later using CaPO4 precipitation. For a typical transfection, 500 ng firefly luciferase reporter, 500 ng of expression vector, and 500 ng Renilla luciferase reporter were transfected per well. Cells were harvested for dual luciferase assay (Promega) 48 hr after transfection and luciferase activity quantified using a Moonlights 3010 illuminometer (Harlingen, San Diego, CA). All values were normalized to Renilla luciferase activity, and fold activation overexpression vector alone was expressed as the average of three separate transfections. For dimerization experiments, AP20187 (Ariad) was reconstituted as a 1 mM stock in 100% ethanol and was diluted into media and added to cells immediately following transfection so that all cultures contained identical amounts of ethanol (<0.05%).
+
+Retrovirus production, transduction of murine primary bone marrow cells, and establishment of cell lines
+High titer retrovirus was produced by calcium phosphate transfection of the GP isotropic packaging cell line with MSCV-MLL-AF9, MSCV-MLL-FKBP, or MSCV Neo. Virus was harvested 48–72 hr after transfection, filtered, and stored at −80°C. Titering on NIH 3T3 cells (Pear et al., 1993) yielded viral titers in the range of 106 to 107 colony forming units/ml. Retroviral transduction of primary bone marrow cells was performed as previously described (Lavau et al., 1997). Briefly, 6-week-old female C57Bl/6 mice (Taconic Farms, Germantown, NY) were primed with intraperitoneal injections of 150 mg/kg of 5-fluorouracil. Four days later, bone marrow cells (BMCs) enriched in noncycling progenitors were harvested from the femurs and tibiae of mice and activated overnight in Iscove's modified Dulbecco's medium (IMDM) containing 15% FBS (Stem Cell Technologies, Vancouver, BC, Canada) interleukin 3 (IL-3), interleukin 6 (IL-6), and stem cell factor (SCF) (all from R&D Systems, Minneapolis, MN). BMCs were transduced by spinoculation on two consecutive days with MLL-AF9, MLL-FKBP, and MSCV Neo retroviral supernatants in the presence of polybrene. 104 and 105 cells/ml were cultured in duplicate in MethoCult M3234 methylcellulose medium (Stem Cell Technologies) in IMDM, 15% FBS, IL-3, IL-6, and granulocyte-monocyte colony stimulating factor (R&D Systems), all at 10 ng/ml, and SCF at 100 ng/ml. G418 (Gibco) was added to a final concentration of 1 mg/ml. Dimerizer was added to a final concentration of 50 nM to cells transduced with MLL-FKBP and was replaced every 3 days. Cell growth and colony morphology and numbers were assessed during the course of three rounds of serial replating of methylcellulose cultures. After the third round of plating in methylcellulose, MLL-AF9- and MLL-FKBP-transduced cells were harvested and propagated in suspension cultures containing IL3 or IL3+SCF, each at 10 ng/ml.
+
+Immunophenotyping and cell cycle analysis
+MLL-AF9 and MLL-FKBP cells were stained with either PE or FITC conjugated antibodies to Ter 119 (Ly-7G), Gr-1 (Ly-6G, clone RB6-8C5), Mac-1 (CD11B, clone M1/70), or c-Kit (clone 2B8) (BD PharMingen, San Diego, CA) and analyzed using a FACSCalibur flow cytometer and Cell Quest software (Becton-Dickinson, Mountain View, CA). Cell cycle analysis of ethanol-fixed cells labeled with propidium iodide was performed using a FACSCalibur flow cytometer and ModFitLT v.3.0 software (Verity, Topsham, ME).
+
+Southern analysis
+For analysis of proviral integrity, genomic DNA was digested with KpnI, run on 0.8% agarose gels, and probed with a randomly primed 2 kb HindIII MLL fragment as previously described (Lavau, et al., 1997). For examination of clonality, genomic DNA was digested with PflM1, which cuts once in MLL exon 7, and was probed with the MLL Hind III probe as above.
+
+Reverse transcription-polymerase chain reaction
+Total RNA was isolated using RNeasy columns (Qiagen, Valencia, CA), treated with DNase and reverse transcribed (SuperScript Synthesis System, Invitrogen, Carlsbad, CA). The resulting complimentary DNA (cDNA) (or control lacking reverse transcriptase) was used as a template for polymerase chain reaction (PCR) with 5′ primers for MLL, and 3′ primers for AF9 or FKBP (MLL forward primer 5′-CAGCACTCTCTCAATGGCAATAG; MLL reverse primer 5′-TGTGGTTTTGTCCAGCGAGC; FKBP reverse primer 5′-AAGGGCTTGTTTCTGTCC). Real-time PCR quantification of Hox gene expression was performed in triplicate using Taqman probes and an ABI Prism 7700 instrument (Applied Biosystems, Foster City, CA) using a standard curve and the relative quantitation method as described in ABI User Bulletin #2. Taqman probe sequences are as follows. Hox a9: CCCCATCGATCCCAATAACCCAGC, Meis1: ACCGGTCCACCACCTGAACCACG, Hox a7: CGCAGTTCAGGACCCGACAGGAA. Primer sequences are available upon request.
+
+Chromatin immunoprecipitation (ChIP) and PCR detection
+Chromatin immunoprecipitations were performed using the Chromatin Immunoprecipitation Assay Kit (Upstate, Lake Placid, NY) and polyclonal antibodies to the HA epitope purchased from Santa Cruz Biotechnology (Santa Cruz, CA) and to FKBP purchased from Affinity Bioreagents (Golden, CO). Immunoprecipitation conditions followed the protocol recommended by the manufacturer. The Hox a9 cDNA sequence corresponding to nucleotides 2113-2346 (GenBank accession number AB005457) was amplified using standard PCR and detected after electrophoresis in 1.8% agarose gels by staining with ethidium bromide. Bands were visualized with a Bio-Rad Gel Doc 2000. Real-Time PCR quantification of ChIP was performed in triplicate using Taqman probes and an ABI Prism 7700 (Applied Biosystems) using the quantification method of Frank et al. (2001). Primer/probe sequences are available upon request.
+
+β-lactamase assays
+293 cells were split 24 hr prior to transfection and plated at 75,000 cells/well in 12 well plates. Cells were transiently transfected with 4 μg of reporter DNA using Fugene reagent (Roche Diagnostics, Indianapolis IN) according to the manufacturer's directions. Forty-eight to 72 hr later, medium with or without 500 nM dimerizer was removed and cells were washed with serum-free medium, and 1 ml serum-free medium with or without dimerizer was added to each well. To assay β-lactamase activity, the CCF2/AM substrate (PanVera, Madison, WI) was added to each well at a final concentration of 1 μM. Cells were loaded for 1 hr at room temperature according to manufacturer's directions, mechanically dissociated, washed, and resuspended in PBS for analysis on a FACS/Diva (Becton Dickinson) with filters to detect excitation at 407 nm and emission at 450/20 nm (blue) and 550/30 nm (green).
+
+Acknowledgements
+We thank Dr. Helen Blau (Stanford University) for β-lactamase constructs and Ariad Pharmaceuticals for FKBP dimerization reagents. This work was supported by a Specialized Center of Research (SCOR) grant from the Leukemia and Lymphoma Society and by National Institutes of Health grants CA78815 and CA 92251 to J.L.H., and HL71204 to M.E.M. R.S. was supported by grants SL27/6-1 and SFB473, B10 from the Deutsche Forschunggemeinschaft. H.W.B. was supported by a grant from the Natural Sciences and Engineering Research Council of Canada, and a travel grant from the Genetics Institute of the Canadian Institute for Health Research.
+
+References
+Akashi et al. 2003
+K. Akashi, X. He, J. Chen, H. Iwasaki, C. Niu, B. Steenhard, J. Zhang, J. Haug, L. Li
+Transcriptional accessibility for genes of multiple tissues and hematopoietic lineages is hierarchically controlled during early hematopoiesis
+Blood, 101 (2003), pp. 383–389
+
+Full Text via CrossRef
+Amara et al. 1997
+J.F. Amara, T. Clackson, V.M. Rivera, T. Guo, T. Keenan, S. Natesan, R. Pollock, W. Yang, N.L. Courage, D.A. Holt, M. Gilman
+A versatile synthetic dimerizer for the regulation of protein-protein interactions
+Proc. Natl. Acad. Sci. USA, 94 (1997), pp. 10618–10623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+Appel et al. 1965
+S.H. Appel, D.H. Alpers, G.M. Tomkins
+Multiple molecular forms of β-galactosidase
+J. Mol. Biol., 11 (1965), pp. 12–22
+
+View Record in Scopus | Citing articles (10)
+Armstrong et al. 2002
+S.A. Armstrong, J.E. Staunton, L.B. Silverman, R. Pieters, M.L. den Boer, M.D. Minden, S.E. Sallan, E.S. Lander, T.R. Golub, S.J. Korsmeyer
+MLL translocations specify a distinct gene expression profile that distinguishes a unique leukemia
+Nat. Genet., 30 (2002), pp. 41–47
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1003)
+Ayton and Cleary 2001
+P.M. Ayton, M.L. Cleary
+Molecular mechanisms of leukemogenesis mediated by MLL fusion proteins
+Oncogene, 20 (2001), pp. 5695–5707
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (326)
+Birke et al. 2002
+M. Birke, S. Schreiner, M.-P. Garcia-Cuellar, K. Mahr, F. Titgemeyer, R.K. Slany
+The MT domain of the proto-oncoprotein MLL binds to CpG-containing DNA and discriminates against methylation
+Nucleic Acids Res., 30 (2002), pp. 958–965
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+Bourachot et al. 1999
+B. Bourachot, M. Yaniv, C. Muchardt
+The activity of mammalian brm/SNF2α is dependent on a high-mobility-group protein I/Y-like DNA binding domain
+Mol. Cell. Biol., 19 (1999), pp. 3931–3939
+
+View Record in Scopus | Citing articles (58)
+Buske and Humphries 2000
+C. Buske, R.K. Humphries
+Homeobox genes in leukemogenesis
+Int. J. Hematol., 71 (2000), pp. 301–308
+
+View Record in Scopus | Citing articles (95)
+Caligiuri et al. 1998
+M.A. Caligiuri, M.P. Strout, D. Lawrence, D.C. Arthur, M.R. Baer, F. Yu, S. Knuutila, K. Mrozek, A.R. Oberkircher, G. Marcucci et al.
+Rearrangement of ALL1 (MLL) in acute myeloid leukemia with normal cytogenetics
+Cancer Res., 58 (1998), pp. 55–59
+
+View Record in Scopus | Citing articles (155)
+Chaplin et al. 1995
+T. Chaplin, O. Bernard, H.B. Beverloo, V. Saha, A. Hagemeijer, R. Berger, B.D. Young
+The t(10;11) translocation in acute myeloid leukemia (M5) consistently fuses the leucine zipper motif of AF10 onto the HRX gene
+Blood, 86 (1995), pp. 2073–2076
+
+View Record in Scopus | Citing articles (93)
+Chervinsky et al. 1995
+D.S. Chervinsky, S.N. Sait, N.J. Nowak, T.B. Shows, P.D. Aplan
+Complex MLL rearrangement in a patient with T-cell acute lymphoblastic leukemia
+Genes Chromosomes Cancer, 14 (1995), pp. 76–84
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (12)
+DiMartino and Cleary 1999
+J.F. DiMartino, M.L. Cleary
+MLL rearrangements in haematological malignancies: lessons learned from clinical and biological studies
+Brit. J. Haem., 106 (1999), pp. 614–626
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (172)
+DiMartino et al. 2002
+J.F. DiMartino, P.M. Ayton, E.H. Chen, C.C. Naftzger, B.D. Young, M.L. Cleary
+The AF10 leucine zipper is required for leukemic transformation of myeloid progenitors by MLL-AF10
+Blood, 99 (2002), pp. 3780–3785
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+Dobson et al. 1999
+C.L. Dobson, A.J. Warren, R. Pannell, A. Forster, T.H. Rabbits
+Tumorigenesis in mice with a fusion of the leukaemia oncogene Mll and the bacterial lacZ gene
+EMBO J., 19 (1999), pp. 843–851
+
+Dohner et al. 2002
+K. Dohner, K. Tobis, R. Ulrich, S. Frohling, A. Benner, R.F. Schlenk, H. Dohner
+Prognostic significance of partial tandem duplications of the MLL gene in adult patients 16 to 60 years old with acute myeloid leukemia and normal cytogenetics: a study of the Acute Myeloid Leukemia Study Group Ulm
+J. Clin. Oncol., 20 (2002), pp. 3254–3261
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (182)
+Downing and Look 1996
+J.R. Downing, A.T. Look
+MLL fusion genes in the 11q23 leukemias
+Cancer Treat. Res., 84 (1996), pp. 73–92
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+Drabkin et al. 2002
+H.A. Drabkin, C. Parsy, K. Ferguson, F. Guilhot, L. Lacotte, L. Roy, C. Zeng, A. Baron, S.P. Hunger, M. Varella-Garcia et al.
+Quantitative HOX expression in chromosomally defined subsets of acute myelogenous leukemia
+Leukemia, 16 (2002), pp. 186–195
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (91)
+Ernst et al. 2001
+P. Ernst, J. Wang, M. Huang, R.H. Goodman, S.J. Korsmeyer
+MLL and CREB bind cooperatively to the nuclear coactivator CREB-binding protein
+Mol. Cell. Biol., 21 (2001), pp. 2249–2258
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+Fair et al. 2001
+K. Fair, M. Anderson, E. Bulanova, H. Mi, M. Tropschug, M.O. Diaz
+Protein interactions of the MLL PHD fingers modulate MLL target gene regulation in human cells
+Mol. Cell. Biol., 21 (2001), pp. 3589–3597
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+Frank et al. 2001
+S.R. Frank, M. Schroeder, P. Fernandez, S. Taubert, B. Amati
+Binding of c-Myc to chromatin mediates mitogen-induced acetylation of histone H4 and gene activation
+Genes Dev., 15 (2001), pp. 2069–2082
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (313)
+Fujino et al. 2001
+T. Fujino, Y. Yamazaki, D.A. Largaespada, N.A. Jenkins, N.G. Copeland, K. Hirokawa, T. Nakamura
+Inhibition of myeloid differentiation by Hoxa9, Hoxb8, and Meis homeobox genes
+Exp. Hematol., 29 (2001), pp. 856–863
+
+Article |  PDF (899 K) | View Record in Scopus | Citing articles (48)
+Galoian et al. 2000
+K. Galoian, T. Milne, H. Brock, A. Shilatifard, R. Slany, J.L. Hess
+Deregulation of c-myc by leukemogenic MLL fusion proteins
+Blood Suppl., 96 (2000), p. 457a
+
+Hawley et al. 1994
+R.G. Hawley, F.H.L. Lieu, A.Z.C. Fong, T.S. Hawley
+Versatile retroviral vectors for potential use in gene therapy
+Gene Ther., 1 (1994), pp. 136–138
+
+View Record in Scopus | Citing articles (577)
+Hess et al. 1997
+J.L. Hess, B.D. Yu, B. Li, R. Hanson, S.J. Korsmeyer
+Defects in yolk sac hematopoiesis in Mll-null embryos
+Blood, 90 (1997), pp. 1799–1806
+
+View Record in Scopus | Citing articles (157)
+Hsieh et al. 2003
+J.J. Hsieh, P. Ernst, H. Erdjument-Bromage, P. Tempst, S.J. Korsmeyer
+Proteolytic cleavage of MLL generates a complex of N- and C-terminal fragments that confers protein stability and subnuclear localization
+Mol. Cell. Biol., 23 (2003), pp. 186–194
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (120)
+Jacobson et al. 1994
+R.H. Jacobson, X.J. Zhang, R.F. DuBose, B.W. Matthews
+Three-dimensional structure of beta-galactosidase from E. coli
+Nature, 369 (1994), pp. 761–766
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (402)
+Kawagoe et al. 1999
+H. Kawagoe, R.K. Humphries, A. Blair, H.J. Sutherland, D.E. Hogge
+Expression of HOX genes, HOX cofactors, and MLL in phenotypically and functionally defined subpopulations of leukemic and normal human hematopoietic cells
+Leukemia, 13 (1999), pp. 687–698
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (125)
+Kroon et al. 1998
+E. Kroon, J. Krosl, U. Thorsteinsdottir, S. Baban, A.M. Buchberg, G. Sauvageau
+Hoxa9 transforms primary bone marrow cells through specific collaboration with Meis1a but not Pbx1b
+EMBO J., 17 (1998), pp. 3714–3725
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (345)
+Lavau, et al. 1997
+C. Lavau, S.J. Szilvassy, R. Slany, M.L. Cleary
+Immortalization and leukemic transformation of a myelomonocytic precursor by retrovirally transduced HRX-ENL
+EMBO J., 16 (1997), pp. 4226–4237
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (267)
+Lavau et al. 2000
+C. Lavau, C. Du, M. Thirman, N. Zeleznik-Le
+Chromatin-related properties of CBP fused to MLL generate a myelodysplastic-like syndrome that evolves into myeloid leukemia
+EMBO J., 17 (2000), pp. 4655–4664
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (118)
+Li et al. 1999
+J. Li, H. Shen, K.L. Himmel, A.J. Dupuy, D.A. Largaespada, T. Nakamura, J.D. Shaughnessy Jr., N.A. Jenkins, N.G. Copeland
+Leukaemia disease genes: large-scale cloning and pathway predictions
+Nat. Genet., 23 (1999), pp. 348–353
+
+View Record in Scopus | Citing articles (177)
+Linder et al. 2000
+B. Linder, R. Newman, L.K. Jones, S. Debernardi, B.D. Young, P. Freemont, C.P. Verrijzer, V. Saha
+Biochemical analyses of the AF10 protein: the extended LAP/PHD-finger mediates oligomerisation
+J. Mol. Biol., 299 (2000), pp. 369–378
+
+Article |  PDF (398 K) | View Record in Scopus | Citing articles (50)
+Milne et al. 2002
+T.A. Milne, S.D. Briggs, H.W. Brock, M.E. Martin, D. Gibbs, C.D. Allis, J.L. Hess
+MLL targets SET domain methyltransferase activity to Hox gene promoters
+Mol. Cell, 10 (2002), pp. 1107–1117
+
+Article |  PDF (422 K) | View Record in Scopus | Citing articles (531)
+Moskow et al. 1995
+J.J. Moskow, F. Bullrich, K. Huebner, I.O. Daar, A.M. Buchberg
+Meis1, a PBX1-related homeobox gene involved in myeloid leukemia in BXH-2 mice
+Mol. Cell. Biol., 10 (1995), pp. 5434–5443
+
+View Record in Scopus | Citing articles (217)
+Nakamura et al. 1996
+T. Nakamura, D.A. Largaespada, J.D. Shaughnessy Jr., N.A. Jenkins, N.G. Copeland
+Cooperative activation of Hoxa and Pbx1-related genes in murine myeloid leukaemias
+Nat. Genet., 12 (1996), pp. 149–153
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (236)
+Nakamura et al. 2002
+T. Nakamura, T. Mori, S. Tada, W. Krajewski, T. Rozovskaia, R. Wassell, G. Dubois, A. Mazo, C.M. Croce, E. Canaani
+ALL-1 is a histone methyltransferase that assembles a supercomplex of proteins involved in transcriptional regulation
+Mol. Cell, 10 (2002), pp. 1119–1128
+
+Article |  PDF (468 K) | View Record in Scopus | Citing articles (427)
+Nie et al. 2003
+Z. Nie, Z. Yan, E.H. Chen, S. Sechi, C. Ling, S. Zhou, Y. Xue, D. Yang, D. Murray, E. Kanakubo et al.
+Novel SWI/SNF chromatin- remodeling complexes contain a mixed-lineage leukemia chromosomal translocation partner
+Mol. Cell. Biol., 23 (2003), pp. 2942–2952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+Ono et al. 2002
+R. Ono, T. Taki, T. Taketani, M. Taniwaki, H. Kobayasji, Y. Hayashi
+LCX, leukemia-associated protein with a CXXC domain is fused to MLL in acute myeloid leukemia with trilineage dysplasia having t(10;11)(q22;q23)
+Cancer Res., 62 (2002), pp. 4075–4080
+
+View Record in Scopus | Citing articles (113)
+Orlando 2000
+V. Orlando
+Mapping chromosomal proteins in vivo by formaldehyde-crosslinked-chromatin immunoprecipitation
+Trends Biochem. Sci., 25 (2000), pp. 99–104
+
+Article |  PDF (312 K) | View Record in Scopus | Citing articles (297)
+Park et al. 2002
+I.K. Park, Y. He, F. Lin, O.D. Laerum, Q. Tian, R. Bumgarner, C.A. Klug, K. Li, C. Kuhr, M.J. Doyle et al.
+Differential gene expression profiling of adult murine hematopoietic stem cells
+Blood, 99 (2002), pp. 488–498
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (128)
+Pear et al. 1993
+W.S. Pear, G.P. Nolan, M.L. Scott, D. Baltimore
+Production of high-titer helper-free retroviruses by transient transfection
+Proc. Natl. Acad. Sci. USA, 90 (1993), pp. 8392–8396
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2000)
+Pegram et al. 2000
+L.D. Pegram, M.D. Megonigal, B.J. Lange, P.C. Nowell, J.D. Rowley, E.F. Rappaport, C.A. Felix
+3;11) translocation in treatment-related acute myeloid leukemia fuses MLL with the GMPS (GUANOSINE 5′ MONOPHOSPHATE SYNTHETASE) gene
+Blood, 96 (2000), pp. 4360–4362
+
+View Record in Scopus | Citing articles (18)
+Pineault et al. 2002
+N. Pineault, C.D. Helgason, H.J. Lawrence, R.K. Humphries
+Differential expression of Hox, Meis1, and Pbx1 genes in primitive cells throughout murine hematopoietic ontogeny
+Exp. Hematol., 30 (2002), pp. 49–57
+
+Article |  PDF (194 K) | View Record in Scopus | Citing articles (138)
+Prasad et al. 1994
+R. Prasad, D. Leshkowits, Y. Gu, H. Adler, T. Nakamura, H. Saito, K. Heubner, R. Berger, C.M. Croce, E. Canaani
+Leucine-zipper dimerization motif encoded by the AF17 gene fused to ALL-1 (MLL) in acute leukemia
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 8107–8111
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+Rozenblatt-Rosen et al. 1998
+O. Rozenblatt-Rosen, T. Rozovskaia, D. Burakov, Y. Sedkov, S. Tillib, J. Blechman, T. Nakamura, C.M. Croce, A. Mazo, E. Canaani
+The C-terminal SET domains of ALL-1 and TRITHORAX interact with the INI1 and SNR1 proteins, components of the SWI/SNF complex
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 4152–4157
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (192)
+Rozovskaia et al. 2000
+T. Rozovskaia, O. Rozenblatt-Rosen, Y. Sedkov, D. Burakov, T. Yano, T. Nakamura, S. Petruck, L. Ben-Simchon, C.M. Croce, A. Mazo, E. Canaani
+Self-association of the SET domains of human ALL-1 and of Drosophila TRITHORAX and ASH1 proteins
+Oncogene, 19 (2000), pp. 351–357
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+Rozovskaia et al. 2001
+T. Rozovskaia, E. Feinstein, O. Mor, R. Foa, J. Blechman, T. Nakamura, C.M. Croce, G. Cimino, E. Canaani
+Upregulation of Meis1 and HoxA9 in acute lymphocytic leukemias with the t(4: 11) abnormality
+Oncogene, 20 (2001), pp. 874–878
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (97)
+Sano 2001
+K. Sano
+Structure of AF3p21, a new member of mixed lineage leukemia (MLL) fusion partner proteins- implication for MLL-induced leukemogenesis
+Leuk. Lymph., 42 (2001), pp. 595–602
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+Schreiner et al. 1999
+S.A. Schreiner, M.P. Garcia-Cuellar, G.H. Fey, R.K. Slany
+The leukemogenic fusion of MLL with ENL creates a novel transcriptional transactivator
+Leukemia, 13 (1999), pp. 1525–1533
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (37)
+Schreiner et al. 2001
+S. Schreiner, M. Birke, M.P. Garcia-Cuellar, O. Zilles, J. Greil, R.K. Slany
+MLL-ENL causes a reversible and myc-dependent block of myelomonocytic cell differentiation
+Cancer Res., 61 (2001), pp. 6480–6486
+
+View Record in Scopus | Citing articles (33)
+Schultz et al. 2001
+D.C. Schultz, J.R. Friedman, F.J. Rauscher III.
+Targeting histone deacetylase complexes via KRAB-zinc finger proteins: the PHD and bromodomains of KAP-1 form a cooperative unit that recruits a novel isoform of the Mi-2 subunit of NuRD
+Genes Dev., 15 (2001), pp. 428–443
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (235)
+Slater et al. 2002
+D.J. Slater, E. Hilgenfeld, E.F. Rappaport, N. Shah, R.G. Meek, W.R. Williams, B.D. Lovett, N. Osheroff, R.S. Autar, T. Ried, C.A. Felix
+MLL-SEPTIN6 fusion recurs in novel translocation of chromosomes 3, X, and 11 in infant acute myelomonocytic leukaemia and in t(X;11) in infant acute myeloid leukaemia, and MLL genomic breakpoint in complex MLL-SEPTIN6 rearrangement is a DNA topoisomerase II cleavage site
+Oncogene, 21 (2002), pp. 4706–4714
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+So and Cleary 2003
+C.W. So, M.L. Cleary
+Common mechanism for oncogenic activation of MLL by forkhead family proteins
+Blood, 101 (2003), pp. 633–639
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+Sorensen et al. 1994
+P.H. Sorensen, C.S. Chen, F.O. Smith, D.C. Arthur, P.H. Domer, I.D. Bernstein, S.J. Korsmeyer, G.D. Hammond, J.H. Kersey
+Molecular rearrangements of the MLL gene are present in most cases of acute infant myeloid leukemia and are strongly correlated with monocytic or myelomonocytic phenotypes
+J. Clin. Inv., 93 (1994), pp. 429–437
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+Strehl et al. 2003
+S. Strehl, A. Borkhardt, R. Slany, U. Fuchs, M. Konig, O.A. Haas
+The human LASP1 gene is fused to MLL in an acute myeloid leukemia with t(11:17)(q23;q21)
+Oncogene, 22 (2003), pp. 157–160
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Thorsteinsdottir et al. 2001
+U. Thorsteinsdottir, E. Kroon, L. Jerome, F. Blasi, G. Sauvageau
+Defining roles for HOX and MEIS1 genes in induction of acute myeloid leukemia
+Mol. Cell. Biol., 21 (2001), pp. 224–234
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+Thorsteinsdottir et al. 2002
+U. Thorsteinsdottir, A. Mamo, E. Kroon, L. Jerome, J. Bijl, H.J. Lawrence, K. Humphries, G. Sauvageau
+Overexpression of the myeloid leukemia-associated Hoxa9 gene in bone marrow cells induces stem cell expansion
+Blood, 99 (2002), pp. 121–129
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (179)
+Wehrman et al. 2002
+T. Wehrman, B. Kleaveland, J.-H. Her, R.F. Balint, H.M. Blau
+Protein-protein interactions monitored in mammalian cells via complementation of β-lactamase enzyme fragments
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 3469–3474
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (135)
+Yeoh et al. 2002
+E.J. Yeoh, M.E. Ross, S.A. Shurtleff, W.K. Williams, D. Patel, R. Mahfouz, F.G. Behm, S.C. Raimondi, M.V. Relling, A. Patel et al.
+Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling
+Cancer Cell, 1 (2002), pp. 133–143
+
+Article |  PDF (774 K) | View Record in Scopus | Citing articles (1178)
+Yokoyama et al. 2002
+A. Yokoyama, I. Kitabayashi, P.M. Ayton, M.L. Cleary, M. Ohki
+Leukemia proto-oncoprotein MLL is proteolytically processed into 2 fragments with opposite transcriptional properties
+Blood, 100 (2002), pp. 3710–3718
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+Yu et al. 1995
+B.D. Yu, J.L. Hess, S.E. Horning, G.A. Brown, S.J. Korsmeyer
+Altered Hox expression and segmental identity in Mll-mutant mice
+Nature, 378 (1995), pp. 505–508
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (505)
+Yu et al. 1998
+B.D. Yu, R.D. Hanson, J.L. Hess, S.E. Horning, S.J. Korsmeyer
+MLL, a mammalian trithorax-group gene, functions as a transcriptional maintenance factor in morphogenesis
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 10632–10636
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (182)
+Zeisig et al. 2003
+B.B. Zeisig, S. Schreiner, M.-P. Garcia-Cuellar, R.K. Slany
+Transcriptional activation is a key function encoded by MLL fusion partners
+Leukemia, 17 (2003), pp. 359–365
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+Corresponding author contact information
+Correspondence: Jay L. Hess, 1 215 573 6530 (phone), 1 215 573 6523 (fax)
+Copyright © 2003 Cell Press. All rights reserved.

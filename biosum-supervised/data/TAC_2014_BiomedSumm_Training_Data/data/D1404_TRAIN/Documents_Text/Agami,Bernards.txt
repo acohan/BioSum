@@ -1,0 +1,392 @@
+Distinct Initiation and Maintenance Mechanisms Cooperate to Induce G1 Cell Cycle Arrest in Response to DNA Damage
+Reuven Agami1, René Bernards1, *, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S0092-8674(00)00010-6
+  Open Archive
+Abstract
+DNA damage causes stabilization of p53, leading to G1 arrest through induction of p21cip1. As this process requires transcription, several hours are needed to exert this response. We show that DNA damage causes an immediate and p53-independent G1 arrest, caused by rapid proteolysis of cyclin D1. Degradation is mediated through a previously unrecognized destruction box in cyclin D1 and leads to a release of p21cip1 from CDK4 to inhibit CDK2. Interference with cyclin D1 degradation prevents initiation of G1 arrest and renders cells more susceptible to DNA damage, indicating that cyclin D1 degradation is an essential component of the cellular response to genotoxic stress. Thus, induction of G1 arrest in response to DNA damage is minimally a two step process: a fast p53-independent initiation of G1 arrest mediated by cyclin D1 proteolysis and a slower maintenance of arrest resulting from increased p53 stability.
+
+Introduction
+Cyclins are essential components of the cell cycle machinery. They function to bind and activate their specific cyclin dependent kinase (CDK) partners. During progression through the G1 phase of the cell cycle, two major types of cyclins are required: D-type cyclins and cyclin E. Together they cause phosphorylation of the retinoblastoma family of tumor suppressor proteins (pRb, p107, and p130) in G1 and abrogate their growth-inhibitory activity (reviewed in Lipinski and Jacks 1999). The three D-type cyclins are very similar (more than 70% identity), but share very little homology with cyclin E. The D cyclins activate primarily CDK4 and 6, whereas cyclin E activates CDK2. Furthermore, during cell cycle progression, D cyclins are active at mid-G1 whereas cyclin E appears later, just prior to the G1/S transition (Sherr 1994). Therefore, progression through G1 depends initially on D cyclin–CDK4/6 protein complexes and later on cyclin E–CDK2. Given the crucial part that D-type cyclins play in progression through the cell cycle, it is perhaps not surprising that their expression is frequently deregulated in cancer.
+
+Cell cycle arrest in response to either mitogen deprivation or genotoxic stress requires CDK inhibitors (CKIs) of the CIP/KIP family, which includes p21cip1, p27kip1, and p57kip2 (Morgan 1995). Members of this family bind both CDK2 and CDK4 complexes, but act as potent inhibitors of cyclin E–CDK2 protein complexes and as positive regulators in the case of D cyclins–CDK4/6 (Sherr and Roberts 1999). D-type cyclins connect extracellular signaling pathways to the cell cycle machinery as their promoters respond to a variety of mitogenic signals, such as those transduced by the Ras and APC-β-catenin-Tcf/Lef pathways (21 and 29). Furthermore, mitogen deprivation accelerates cyclin D1 proteolysis via the PI3K-PKB/Akt-GSK3-β pathway. GSK3-β phosphorylates cyclin D1 at threonine 286, which triggers its nuclear export, ubiquitination, and degradation (6 and 7). Mitogenic signals activate the PI3K-PKB/Akt pathway, which in turn inhibit GSK3-β kinase activity and stabilize cyclin D1 protein. Expression of c-Myc also causes activation of the cyclin D1 and D2 promoters. Increased protein levels of D cyclins result in complex formation with their CDK partners, which function to sequester p21cip1 and p27kip1 away from cyclin E–CDK2 complexes, allowing G1–S progression (2 and 22).
+
+DNA damage checkpoints control the timing of cell cycle progression in response to genotoxic stress (reviewed in Weinert 1998). Arrest in G1 is thought to prevent aberrant replication of damaged DNA and arrest in G2 allows cells to avoid segregation of defective chromosomes. Primary among mammalian checkpoint genes is the tumor suppressor p53. In response to DNA damage, such as ionizing radiation (IR), p53 is required for G1 arrest (reviewed in Lakin and Jackson 1999), apoptosis (reviewed in Sionov and Haupt 1999), and to sustain arrest of cells prior to M phase (Bunz et al. 1998). In response to IR, rapid phosphorylation of p53 by the ATM-CHK2 pathway on serines 15 and 20 leads to release of Mdm2 and stabilization of p53 (Meek 1999, and references therein).
+
+Since p53 acts primarily as a transcription factor, stabilization of p53 activates transcription of target genes required for various aspects of the genotoxic stress response. In particular, p53 transactivation is required to induce an efficient G1 arrest (reviewed in Lakin and Jackson 1999). An essential transcriptional target of p53 in induction of G1 arrest is p21cip1 (Waldman et al. 1995). Accumulation of p21cip1 inhibits cyclin-E/CDK2 activity and therefore G1–S transition. However, as this p53 response depends on transcriptional activation, the time required to execute this type of cell cycle arrest is rather long and exceeds in most cases 8 hr. We show here that cells initiate a fast and efficient, p53-independent, G1 arrest after IR. We therefore searched for a p53-independent mechanism that implements an efficient G1 arrest immediately after exposure to genotoxic stress.
+
+Results
+p53-Independent Initiation of G1 Arrest Induced by IR
+Since the transcriptional response by p53 is a relatively slow process, we asked whether initiation of a G1 arrest following genotoxic stress requires p53. We generated an MCF-7 derivative that expresses the HPV16 E6 protein, which mediates degradation of p53 (Scheffner et al. 1990). In the presence of E6, p53 stabilization in response to IR was almost completely prevented in MCF-7 cells (Figure 1A). Consistent with this, no induction of p21cip1 by IR was seen in the E6-expressing MCF-7 cells (data not shown). To better visualize the cell cycle effects, we treated irradiated cells with nocodazole, which arrests cells in M phase unless they are arrested in G1 as a result of IR. Close examination of the cellular response of both parental and E6 cells to IR by FACS analysis revealed that both exhibited an approximately 15% increase in G1 10 hr after the induction of genotoxic stress (Figure 1B and Figure 1C). At 20 and 30 hr after irradiation, the fraction of parental MCF-7 cells in G1 increased steadily, whereas the E6 cells gradually lost their initial G1 arrest (Figure 1B and Figure 1C). This result suggests that cells undergo an initial G1 arrest within 10 hr after exposure to IR and that this initial response does not require p53 activity.
+
+Full-size image (142 K)
+Figure 1. 
+Initiation and Maintenance of G1 Arrest Induced by IR
+(A) Stable MCF-7 clones containing either pCDNA3.1 (Neo) or pCDNA3.1-E6 were irradiated (20 Gy), and cellular protein extracts were made 2 hr later, separated on 10% SDS PAGE, and immunoblotted to detect p53 and cyclin D1 proteins.
+(B) Cells as indicated were irradiated (10 Gy) and after 30 min, 1 μg/ml nocodazole was added. At the indicated time points after irradiation, cells were harvested and analyzed by flow activated cell sorter (FACS). Untreated cells (nt) were harvested at the 10 hr time point.
+(C) A summary of three independent experiments, as described in (B), each carried out in duplicate, is shown. The percentage increase in G1 is the difference in percent G1 content between irradiated and control cells.
+Figure options
+Specific Induction of Cyclin D1 Proteolysis by Genotoxic Stress
+In contrast to p53, we noticed that the cyclin D1 protein level is downregulated both in parental MCF-7 cells and in E6-expressing derivatives within 2 hr following irradiation (Figure 1A). Downregulation of cyclin D1 was maintained over a period of 24 hr and was not seen both with another G1 cyclin (cyclin E) and the G2/M cyclins A and B1 (Figure 2A and data not shown). To study the effects of genotoxic stress on the kinetics of cyclin D1 protein downregulation, we exposed U2-OS cells to varying amounts of IR and harvested cells at different time points. Exposure to 6 to 20 grays (Gy) resulted in a clear downregulation of cyclin D1 protein levels as early as 10 min after irradiation and a similar effect was seen with 2 Gy after 60 min (Figure 2B). Compared to the degradation of cyclin D1, the upregulation of p53 was slow following irradiation. This result shows that in U2-OS cells, rapid downregulation of cyclin D1 occurs after irradiation, which precedes p53 stabilization. Cyclin D1 downregulation occurred with similar kinetics in MCF-7 cells (data not shown).
+
+Full-size image (256 K)
+Figure 2. 
+Genotoxic Stresses Induce Rapid and Specific Degradation of Cyclin D1 Protein
+(A) MCF-7 cells were treated with radiation (20 Gy) and harvested at the indicated time points. Cyclin D1 and E protein levels were determined.
+(B) U2-OS cells were exposed to 2, 6, and 20 Gy IR, and cell lysates were analyzed at the indicated time points by immunoblotting against cyclin D1 and p53 proteins. A background band was used to demonstrate equal loading.
+(C) Northern analysis of RNA extracted from untreated MCF-7 cells or irradiated (20 Gy) cells harvested 2 and 4 hr after IR. Ribosomal RNA (rRNA) was used to show equal loading.
+(D) MCF-7 cells were transfected with 2 μg total DNA containing either vector (lanes 1 and 2) or 0.5 μg CMV promoter based cyclin D1 expression plasmid (lanes 3 and 4). Cotransfected GFP construct (0.03 μg) was used to control transfection efficiency. After 48 hr, cells were irradiated (20 Gy) and 2 hr later, cellular proteins were extracted, separated on 10% SDS PAGE, and immunoblotted to detect cyclin D1 and GFP proteins.
+(E) Endogenous cyclin D1 was immunoprecipitated from MCF-7 cells that were metabolically labeled, irradiated (20 Gy), and chased for the indicated time points (lanes 1–10). A control antibody was used to show specificity of the immunoprecipitation (lane 11).
+(F) Cyclin D1 was quantified with a PhosphoImager. The calculated half-life of cyclin D1 protein is indicated.
+(G) Increasing concentrations of the proteasome inhibitor cbz-LLL agent were added after irradiation (20 Gy) of MCF-7 cells. Two hours later, protein lysates were made, separated on 10% SDS-PAGE, and Western blotted sequentially with antibodies against cyclin D1, p53, and cyclin E proteins.
+(H) U2-OS cells were treated with 50 μM cis-platin, 20 Gy IR, and 10 μM proteasome inhibitor as indicated. The experiment was proceeded as in (G).
+Figure options
+We next examined the mechanism underlying the rapid decrease in cyclin D1 protein by genotoxic stress. At the mRNA level, cyclin D1 was slightly elevated at 2 and 4 hr after irradiation (Figure 2C). Furthermore, when expressed from a heterologous CMV promoter, cyclin D1 protein was also downregulated by IR (Figure 2D). We therefore conclude that transcriptional regulation is not responsible for the cyclin D1 downregulation following IR.
+
+We then asked whether cyclin D1 protein stability was affected in response to IR using a pulse-chase experiment. MCF-7 cells were pulse labeled with [35S]-methionine and after irradiation, chased with excess cold methionine for the indicated periods of time. Cyclin D1 protein was immunoprecipitated, separated on SDS-PAGE, and detected by PhosphorImager. Figure 2E shows that cyclin D1 was destabilized immediately after IR; its half-life decreased from 40 min to less then 20 (Figure 2F). To ask whether the IR-induced degradation of cyclin D1 is mediated by the proteasome, MCF-7 cells were exposed to IR and subsequently, the proteasome inhibitor cbz-LLL was added at increasing concentrations for 2 hr. Even though it was added after exposure to IR, 5 μM cbz-LLL was sufficient to completely block cyclin D1 downregulation without any effect on cyclin E protein levels (Figure 2G). Cyclin D1 was also rapidly degraded in response to other genotoxic agents such as cis-platin (Figure 2H). Collectively, these results indicate that accelerated proteolysis induced by genotoxic stress is the main mechanism responsible for the rapid downregulation of cyclin D1 protein.
+
+Genotoxic stress-induced cyclin D1 degradation was seen in a variety of cell lines (Figure 3A), with SaOS-2 osteosarcoma cells being the only exception to date (Figure 3B). It is at present unclear why these cells are unable to degrade cyclin D1 after irradiation, but clearly it does not involve alterations in cyclin D1 itself, as transfected cyclin D1 protein did not degrade following irradiation either (Figure 3B). Cyclin D1 degradation also occurred both in HeLa cells that do not arrest in G1 following irradiation due to the presence of the HPV E6 and E7 proteins and in U2-OS cells that were growth arrested artificially by the induction of p19ARF (Figure 3C). We therefore conclude that mechanistically, cyclin D1 degradation after genotoxic stress is uncoupled from cell cycle progression. Moreover, cyclin D1 degradation could occur in cell lines that lack functional p16INK4A, p19ARF, pRb, and p53 proteins and the ATM and SEK1 kinases, and does not depend on these proteins (Figure 3).
+
+Full-size image (259 K)
+Figure 3. 
+Cyclin D1 Degradation after Genotoxic Stress Is Common to Many Cell Types and Is Uncoupled from Cell Cycle Progression.
+(A) The following cells were subjected to treatments with 20 Gy IR and 10 μM proteasome inhibitor as in Figure 2G: HeLa, HPV16-containing cervical carcinoma; CAPAN, SEK1-mutated pancreas carcinoma; SW1417, SEK1 mutated colon carcinoma; AT-1BR, primary fibroblasts from AT patient; MEF, p19ARF−/− mouse embryo fibroblasts; T47D and ZR75-1, breast carcinoma with low and high level of cyclin D1, respectively; U2-OS, osteosarcoma.
+(B) SaOS-2 osteosarcoma cells were either mock-transfected or with 0.1 and 0.5 mg cyclin D1 construct as in Figure 2D.
+(C) A stable U2-OS clone, containing the pIND-p19ARF-inducible construct, was induced with 1 μM muristerone-A. After 20 hr, the vast majority of the cells were arrested in G1 (data not shown). Subsequently, cells were treated as in (A) and protein levels of cyclin D1, p19ARF, and p53 were detected by immunoblotting.
+Figure options
+Remarkably, exposure to IR of cells which express, apart from cyclin D1, also the closely related cyclins, D2 or D3 (Mouse Embryo Fibroblasts [MEFs] and HeLa), revealed that IR-induced degradation was unique to cyclin D1 (Figure 3A).
+
+Cyclin D1 Degradation by Genotoxic Stress Requires an RxxL Destruction Motif
+Activation of the PI3K-PKB/Akt-GSK-3β pathway leads to cyclin D1 degradation through phosphorylation of threonine 286 of cyclin D1 by GSK3-β (Diehl et al. 1998). We therefore asked whether this pathway is also activated by IR and is involved in stress-induced degradation of cyclin D1. We treated irradiated cells with Li+ ions, as Li+ has been shown to inhibit all GSK3 activity in cells (Stambolic et al. 1996). If this pathway is involved, Li+ ions should inhibit cyclin D1 degradation. Figure 4A clearly shows that Li+ ions had no detectable effect on cyclin D1 degradation by IR. Furthermore, a mutant of cyclin D1 in which the GSK3-β phosphorylation site was mutated (T286A), and is completely refractory to GSK3-β induced degradation (Diehl et al. 1998), was fully responsive to IR-induced degradation (Figure 4B). Also, when alterations were introduced at either a site in the cyclin box that is essential for activation of CDK4/6 (mutant K112E) or the pRb family binding site (LxCxE mutant), cyclin D1 degradation by IR remained (data not shown). Collectively, these results strongly suggest that cyclin D1 degradation induced by genotoxic stress is independent of the PI3K-PKB/Akt-GSK3β pathway, CDK4/6 kinase and pRb binding.
+
+Full-size image (261 K)
+Figure 4. 
+A Destruction Motif in Cyclin D1 Is Required for Degradation by Genotoxic Stress
+(A) MCF-7 cells were treated with increasing concentrations of the GSK3-β inhibitor LiCl or control KCl and subsequently irradiated (20 Gy). Lysates were prepared after 2 hr, separated on 10% SDS-PAGE, and immunoblotted sequentially with anti-cyclin D1 and anti-p53 antibodies.
+(B) MCF-7 cells were transfected with either wild-type or mutants of cyclin D1 expression plasmids at the indicated amounts and the experiment was continued as described in Figure 2D.
+(C) Sequence comparison of the cyclin D1 RxxL motif and neighboring amino acids to other G1 cyclins, Ume3p, and cyclins A and B.
+(D) MCF-7 cells were transfected by electroporation with wild-type cyclin D1 or the L32A mutant and divided into five 6 cm dishes. After 60 hr, cells were pulse labeled as described in Figure 2E.
+(E) MCF-7 cells were transfected with either wild-type or mutant cyclin D2 expression plasmids and the experiment was done as described in Figure 2D. Cyclin D2-RAMLK is a mutant in which the amino acids at positions 29–33 were changed to resemble cyclin D1 RxxL motif.
+Figure options
+In the yeast Saccharomyces cerevisiae, degradation of the cyclin C homolog Ume3p can be induced by various stress signals. This requires three regions, including a destruction box at the amino terminus (RxxL motif), the amino terminal region of the cyclin box, and a PEST domain ( Cooper et al. 1997). Close inspection of the cyclin D1 protein sequence revealed that cyclin D1, but not cyclin D2 and D3, harbors a destruction box–like motif in its N terminus ( Figure 4C). We found that point mutations within the amino terminal region of the cyclin box (amino acids 87 to 99) had no effect on the degradation by IR ( Figure 4B, E92V and R98H panels). However, two independent point mutations within the putative destruction box of cyclin D1 (either R29Q or L32A) completely abolished degradation by IR ( Figure 4B). Combining each of these mutations in the destruction box with a mutation in the GSK3-β phosphorylation site ( Figure 4B, R29Q;T286A and L32A;T286A mutants) gave rise to a higher level of protein expression in nonirradiated cells that was fully resistant to the IR effect, in sharp contrast to the T286A single mutant ( Figure 4B). These data suggest that the RxxL destruction box in cyclin D1 is the major motif that renders cyclin D1 susceptible to degradation by IR. To further investigate this, we performed a pulse-chase experiment with the cyclin D1 L32A destruction box mutant to determine its half-life in MCF-7 cells. Figure 4D shows a graphic representation of the results of this experiment, which indicates that the wild-type and L32A mutant cyclin D1 have a half-life in nonirradiated cells of about 50 min, which is comparable to that of endogenous cyclin D1 protein ( Figure 2F). Significantly, the L32A mutant cyclin D1 protein was not destabilized in response to IR, whereas the wild-type protein was ( Figure 4D). Taken together, these results define the destruction motif at amino acids 29 to 32 as necessary for cyclin D1 degradation by genotoxic stress, but not for its normal metabolic turnover.
+
+To ask whether this motif is sufficient to mediate degradation in response to IR, we transplanted it to the nonresponsive cyclin D2 protein. Remarkably, changing four amino acids in cyclin D2, thereby creating the cyclin D1 RxxL motif, converted it to a genotoxic stress degradable cyclin (Figure 4E). This result demonstrates that the RxxL motif of cyclin D1 is necessary and, when placed in the context of a D-type cyclin, also sufficient to mediate degradation in response to genotoxic stress.
+
+Specific Interaction of Cyclin-D1/CDK4 Complex with the APC
+Destruction boxes are conserved motifs (consensus: RxxL) found in mitotic cyclins subject to proteolytic cleavage by a multi-component ubiquitin protein ligase, named the anaphase-promoting complex (APC). Since cyclin D1 harbors a destruction box–like motif, we searched for an association of endogenous cyclin D1/CDK4 complexes with Cdc27, a conserved component of the APC (King et al. 1995). In nontransfected MCF-7 cells, we clearly and specifically detect both endogenous CDK4 and cyclin D1 proteins in Cdc27 immunoprecipitates (Figure 5A). Conversely, Cdc27 was present in cyclin D1 immunoprecipitates (Figure 5B). Moreover, Cdc27 was present in anti-CDK4 but not anti-CDK2 immunoprecipitates (Figure 5C). Significantly, the interaction between CDK4 and Cdc27 was not affected by IR (Figure 5C), whereas the amount of Cdc27 bound to cyclin D1 decreased, most likely due to degradation of cyclin D1 by IR (Figure 5B, compare upper and middle panels). These results suggest that the APC is constitutively associated with the cyclin D1/CDK4 complex and are consistent with a model in which the APC is responsible for cyclin D1 proteolysis in response to IR.
+
+Full-size image (130 K)
+Figure 5. 
+Specific Interaction of CyclinD1–CDK4 Complex with APC
+(A) Whole cell extracts of MCF-7 cells were immunoprecipitated with either an antiserum against the APC subunit Cdc27 or a control anti-p38 antibody. The presence of CDK4, cyclin D1, and Cdc27 proteins was detected by immunoblotting.
+(B) MCF-7 cells were irradiated (20 Gy) as indicated, and 1 hr later, cell lysates were immunoprecipitated with either anti-cyclin D1 or control antibodies and subjected to immunoblotting against the indicated proteins.
+(C) MCF-7 cells were treated with 20 Gy IR and 10 μM proteasome inhibitor cbz-LLL as indicated and harvested 1 hr later. Immunoprecipitation and immunoblotting were carried out as above.
+Figure options
+Cyclin D1 Degradation Is Required to Initiate G1 Arrest Induced by IR
+To address the role of cyclin D1 degradation in the initiation of G1 arrest by genotoxic stress, we abolished IR-induced cyclin D1 degradation by transient overexpression of the IR-nondegradable mutant (D1-L32A). In transient transfections, the cyclin D1-T286A (TA) mutant was reproducibly expressed at higher levels than wild-type cyclin D1 (see Figure 4). Therefore, to compete more efficiently with the relatively high level of endogenous cyclin D1 in MCF-7 cells, we performed most of the next experiments using the double mutant T286A;L32A as a genotoxic stress-resistant protein and the D1-T286A mutant as a degradable control. In these experiments, we used electroporation because we reproducibly obtained greater than 90% transient transfection efficiencies (Figure 6A). This allowed us to perform experiments without selection of the transfected population.
+
+Full-size image (300 K)
+Figure 6. 
+Degradation of Cyclin D1 Is Required for Initiation of G1 Arrest by IR
+(A) MCF-7 cells were transfected by electroporation with either vector or histone H2B-GFP expression construct. After 17 hr, cells were washed to clear dead cells and after an additional 48 hr, analyzed by FACS. Transfected population is indicated and reproducibility was greater than 90%.
+(B) MCF-7/E6 cells were electroporated with 1 μg of the indicated constructs as in (A). After 48 hr, cells were irradiated (10 Gy) and treated with nocodazole and 10 hr later, the cell cycle distribution was analyzed by FACS as described in Figure 1B. A summary of three independent experiments is shown.
+(C) MCF-7/E6 cells were transfected as in B and 48 hrs later were irradiated (5 Gy). After an additional 9 hr, 7.5 μg/ml BrdU was added and cells were harvested 1 hr later, fixed, stained with anti-BrdU, and FITC conjugated with goat-anti-mouse antibodies and analyzed by FACS. Bars represent two independent experiments in duplicate.
+(D) Parental MCF-7 and MCF-7/E6 cells were transfected with 1 μg of the indicated plasmids as described in (A) and the experiment was done as described in (B). A summary of two independent experiments in duplicate is shown.
+(E) Primary wild-type and cyclin D1−/− MEFs were irradiated (10 Gy) and harvested after 2 hr. Whole cell extracts were prepared and analyzed by SDS-PAGE immunobloting procedure using antibodies against cyclin D1.
+(F) Wild-type and D1−/− cells were irradiated (10 Gy) and harvested at the indicated time points. One hour before harvesting, 7.5 μg/ml BrdU was added and cells were analyzed by FACS. Bars represent two independent experiments in duplicate.
+Figure options
+To assess the ability of mutants of cyclin D1 to block the initiation of a G1 arrest, we focused first on MCF-7/E6 cells since they initiate a G1 response to IR that is indistinguishable from parental MCF-7 cells, but have no effects originating from p53. We electroporated MCF-7/E6 cells with wild-type or mutant cyclin D1 expression vectors and after 48 hr, cells were irradiated and treated with nocodazole, and 10 hr later the cell cycle distribution was analyzed by FACS. Figure 6B shows that control GFP-transfected cells initiated an efficient G1 arrest in response to IR (15% G1 increaseFigure 6B), whereas cells transiently transfected with the IR-nondegradable mutants D1-L32A and D1-T286A;L32A had only an increase of 4% and 2% in G1 phase cells in response to IR, respectively. The double mutant D1-T286A;L32A was most efficient in blocking the IR-induced G1 arrest, most likely because of its higher expression. The residual 2% G1 increase in the D1TA-L32A transfected population may be the result of the fact that we did not transfect 100% of the population (Figure 6A). Overexpression of the IR-degradable D1 and D1TA mutant proteins gave a partial effect on G1 increase (Figure 6B), probably because not all of the overexpressed protein was degraded (see Figure 7B and data not shown).
+
+Full-size image (308 K)
+Figure 7. 
+Effects of Cyclin D1 Degradation by IR on G1 CDK Complexes and Cell Survival
+(A) MCF-7/Neo and MCF-7/E6 cell clones were treated with 20 Gy IR (I) and 10 μM proteasome inhibitor cbz-LLL (P) as indicated. After 1 hr, whole cell extracts were prepared and immunoprecipitated with either anti-CDK4, anti-CDK2, or control anti-p38 antibodies. Ten percent of the total extracts (ext) and the immunoprecipitates (IP) were separated on 12% SDS-PAGE and immunoblotted (IB) sequentially with anti-p21cip1, anti-cyclin D1, anti p27kip1, and anti CDK4.
+(B) MCF-7/E6 cells were electroporated with 1 μg of the indicated constructs as described in Figure 6A. After 48 hr, cells were irradiated (20 Gy) and 1 hr later whole cell extracts were prepared and subjected to coimmunoprecipitation with anti-CDK4 and control anti-p38 antibodies. Five percent of each extract and the immunoprecipitated complexes were separated on 12% SDS-PAGE and immunoblotted against p21cip1, cyclin D1, and CDK4 as indicated.
+(C) MCF-7/E6 cells were treated as in Figure 7A except that cells were harvested 2 hr after treatment. CDK2 activity was analyzed using Histone 1 (H1) as a substrate. The same membrane was immunoblotted (IB) with anti-CDK2 antibody.
+(D) MCF-7/E6 cells were electroporated as in Figure 6A, irradiated (20 Gy), and harvested 2 hr later. CDK2 protein was immunoprecipitated and its kinase activity was examined using Histone 1 as a substrate (H1). CDK2 protein level was determined by immunoblotting (IB) of the same membrane with an antibody against CDK2.
+(E) Parental MCF-7 cells were electroporated with increasing amounts of cyclin D1TA or D1TA-L32A mutant constructs as described in Figure 6A. Cells were washed 17 hr after transfection and exposed to IR (20 Gy) after an additional 24 hr. Five days after irradiation, floating and adherent cells were harvested and analyzed for their sub-G1 content by FACS.
+(F) Immortalized MEFs of either wild type (wt), cyclin D1 knockout (D1−/−) or cyclin E knockin into the cyclin D1 locus (D1−/−-E) origins were exposed to IR (10 Gy) and harvested 6 days later for FACS analysis.
+(G) A schematic model showing the initiation and maintenance processes leading to the G1 arrest in response to IR.
+Figure options
+In a second experiment in MCF-7/E6 cells, we used BrdU incorporation to measure effects on S phase in response to IR. We observed approximately a 10% reduction of cells in S-phase 10 hr after IR (Figure 6C). Overexpression of D1TA-L32A gave complete resistance to the IR-induced S phase decrease, but did not affect the initial G2/M arrest (Figure 6C). These results suggest strongly that in the absence of a functional p53 DNA damage checkpoint, the initial G1 arrest in response to IR is the result of rapid cyclin D1 degradation.
+
+We then examined the requirement for cyclin D1 degradation in the presence of p53 activity. Similar to untreated parental MCF-7 cells, mock-transfected cells induced about 15% and 35% G1 arrest in response to 10 Gy IR after 10 and 24 hr, respectively (Figure 1 and Figure 6D). MCF-7 cells transiently transfected with cyclin D1TA-L32A were unable to efficiently initiate G1 arrest at 10 hr (4–5% G1 increase). However, between 10 and 24 hr, these cells induced a G1 arrest with comparable kinetics as the mock-transfected cells, indicating that the slow response was largely unaffected. The opposite effect was seen in the E6-expressing cells: the initiation of G1 arrest was normal but the slower response (after 10 hr) was affected (Figure 1 and Figure 6D). Transient overexpression of D1TA-L32A in MCF-7/E6 abrogated both the initial and the slower G1 arrest functions (Figure 6D). These results indicate that MCF-7 cells respond to IR by activating two distinct and independent pathways. They initiate G1 arrest through a process that depends on the ability of cells to degrade cyclin D1 and later on, they maintain and further strengthen it by stabilizing p53.
+
+In agreement with a role for cyclin D1 in the initiation of G1 arrest following irradiation, we found that the S-phase response to IR of primary MEFs lacking cyclin D1 is defective when compared to wild-type MEFs. Cyclin D1 knockout MEFs consistently had a higher fraction of S phase cells in the first hours after IR than control wild-type MEFs, whereas no effect was observed on the induction of G2/M block immediately after stress (Figure 6E and Figure 6F).
+
+Cyclin D1 Degradation by Genotoxic Stress Induces a Rapid Release of p21cip1 from CDK4 to Inhibit CDK2
+One mechanistic explanation as to how cyclin D1 degradation can cause a fast G1 cell cycle arrest is by release of CKIs from CDK4 to inhibit CDK2 complexes. To investigate this, parental MCF-7 and MCF-7/E6 cells were irradiated and harvested 1 hr later. To distinguish between mechanisms involving proteolytic cleavage and others, we examined IR effects also in the presence of the proteasome inhibitory agent cbz-LLL. Figure 7A shows that already 1 hr after exposure to IR, cyclin D1 was reduced in CDK4 immunoprecipitates, a process that could be blocked by proteasome inhibitor (Figure 7A, lanes 7–10 and 16–19). Most importantly, we could clearly detect that, along with cyclin D1, p21cip1 also rapidly dissociated from CDK4, a process that could also be blocked by both proteasome inhibitors (lanes 7–10 and 16–19) and expression of the nondegradable mutant of cyclin D1 (Figure 7B, lanes 12 and 13). In contrast to p21cip1, p27kip1 remained associated with CDK4 in irradiated cells (Figure 7A). We therefore detect an early p53-independent and cyclin D1 proteolysis-dependent release of p21cip1 from CDK4 complexes.
+
+We next determined the CDK2 activity in MCF-7/E6 cells treated with IR. Using histone H1 as a substrate we found that 2 hr after exposure to IR, CDK2 activity was markedly reduced, which again could be blocked both by treatment with proteasome inhibitor (Figure 7C) and by ectopic expression of the nondegradable mutant of cyclin D1 (Figure 7D). Identical results were obtained with parental MCF-7 cells (data not shown). Collectively, these results demonstrate that initiation of G1 arrest by irradiation is a result of the ability of cells to degrade cyclin D1. Degradation of cyclin D1 is required to inhibit CDK2 activity by redistribution of p21cip1 from CDK4 complexes to inhibit CDK2. However, we can not rule out that other processes that are influenced by cyclin D1 degradation, are involved as well.
+
+Cyclin D1 Degradation Is Required for Cellular Resistance to Genotoxic Stress
+Next, we determined the survival of cells that were rendered unable to degrade D1 in response to IR. MCF-7 cells were transiently transfected with the IR-nondegradable cyclin D1TA-L32A construct at increasing concentrations (Figure 7E). Cells were exposed to IR and apoptotic cell death was scored as the sub-G1 fraction in a FACS analysis. Figure 7E shows that expression of cyclin D1TA-L32A significantly increased cell death in response to IR in a concentration-dependent fashion (up to 22% more cell death). Consistent with a critical role for cyclin D1 in DNA damage response, immortalized MEFs derived from cyclin D1 knockout mice (D1−/−) were more sensitive to IR as compared to wild-type, immortalized MEFs (10% more cell deathFigure 7F). Significantly, immortalized MEFs derived from D1−/− mice that express cyclin E under the control of the cyclin D1 promoter (cyclin E knockin mice) ( Geng et al. 1999), were also more sensitive to IR (D1−/−-E Figure 7F). Collectively, these data indicate that cyclin D1 degradation is an essential component of the cellular response to genotoxic stress, in the absence of which the cell's ability to deal with DNA damage is compromised.
+
+Discussion
+Initiation and Maintenance of G1 Arrest by Genotoxic Stress
+Genotoxic stresses, such as IR, induce a fast and strong G1 arrest that is sustained over a prolonged period of time. We report here that this type of G1 arrest builds up in two different and mechanistically distinct phases: initiation and maintenance. The initial process is fast (accomplished in a period of less than 10 hr), strong (more than 15% increase in G1 in an asynchronous population), and is mediated by cyclin D1 degradation. p53 activity is dispensable for G1 arrest in this initial period. At a later stage, p53 activity is required to maintain and further strengthen the initial p53-independent G1 arrest. These distinct mechanisms cooperate to achieve a fast and sustained G1 arrest in response to IR (Figure 7G).
+
+Judging from the speed at which cyclin D1 is degraded by genotoxic stress (Figure 2), it appears that all factors required to mediate cyclin D1 degradation are preexisting in the cell. Such quick-acting machinery is well-suited to carry out the initial response to genotoxic stress. In contrast, the G1 arrest through activation of the p53 pathway is indirect and involves p53 protein accumulation by de novo protein synthesis, transcriptional activation of p53 target genes such as p21cip1, and accumulation of the induced proteins to sufficiently high levels that they affect the cell cycle. This p53 response depends on several time-consuming processes and is therefore inherently slow. Therefore, the p53 response appears more suited to maintain and further strengthen an already established G1 arrest, rather than to initiate it. This notion is supported by the present data, which show that p53 hardly contributes to G1 arrest in the first 10 hr after exposure to IR.
+
+Our results suggest strongly that the initial phase of G1 arrest following IR relies primarily on downregulation of cyclin D1 protein levels. Several lines of experimental evidence support the notion that induced proteolysis is the main mechanism used by irradiated cells to reduce cyclin D1 protein levels. First, treatment of cells with IR caused a significant decrease in cyclin D1 protein stability (Figure 2F). Second, treatment of cells with specific inhibitors of the proteasome completely blocked cyclin D1 downregulation by IR. Third, downregulation of cyclin D1 is mediated through a destruction box, a motif that is involved in proteolytic destruction of mitotic cyclins (Figure 4B). Fourth, mutation of the cyclin D1 destruction box rendered the protein nondegradable by IR, whereas transplantation of the cyclin D1 destruction box to the IR-nondegradable cyclin D2 protein rendered cyclin D2 unstable in response to IR (Figure 4E). Finally, in cells treated with both IR and proteasome inhibitor, cyclin D1 accumulated to higher levels than nontreated cells (Figure 2G). Together, these results indicate that exposure to IR triggers a rapid proteolysis of cyclin D1 and virtually exclude the possibility that IR also controls cyclin D1 at other levels, such as protein translation.
+
+Genotoxic Stress Versus Mitogen Deprivation
+Cyclin D1 plays a role in relaying mitogenic signals to the cell cycle machinery. When cells are deprived of mitogens, cyclin D1 is phosphorylated at threonine 286 by GSK3-β and targeted for nuclear export and proteolysis (6 and 7). Stimulation of cell cycle entry by mitogens activates the PI3K-PKB/Akt pathway, which inhibits GSK3-β activity, leading to accumulation of cyclin D1 in the nucleus. Similar to mitogen deprivation, we now show that genotoxic stresses induce cyclin D1 degradation. However, this is accomplished through a different and independent pathway. First, genotoxic stress-induced cyclin D1 degradation occurs both in cycling cells and in arrested cells with similar efficiencies (Figure 3). Second, GSK3-β is not involved in genotoxic stress-mediated cyclin D1 degradation (Figure 4). Third, both signals converge on different protein motifs in cyclin D1. Whereas the mitogenic signals are mediated by phosphorylation of cyclin D1 at threonine 286, our data indicate that genotoxic stress requires a newly identified RxxL destruction box motif (amino acids 29–32) within cyclin D1. It is noteworthy that the three D-type cyclins differ in their sensitivity to genotoxic stress-induced degradation. Proteolytic degradation by genotoxic stress was specific to cyclin D1 and was not observed with its homologs cyclin D2 or D3 (Figure 3 and Figure 4). Consistent with this, the RxxL motif is not conserved in these cyclins. This suggests that the D-type cyclin family differ in their ability to respond to external signals.
+
+Our data by no means rule out the possibility that the specific degradation machinery responsible for cyclin D1 degradation by genotoxic stress also targets other proteins that may function in other genotoxic stress responses such as apoptosis, repair, or G2-M arrest. It will therefore be important to identify the components of this stress-activated proteolytic machinery.
+
+Rapid p21cip1 Redistribution and Inhibition of CDK2 Activity
+In response to IR, CDK2 activity is inhibited within 2 hr (Figure 7). Remarkably, we find that the initial inhibition of CDK2 activity depends almost exclusively on the cellular proteolytic activity and more specifically on the ability to degrade cyclin D1. We demonstrate that cyclin D1 degradation initiates a specific release of p21cip1 from CDK4 complexes immediately after irradiation, a process that culminates in a rapid increase of p21cip1 associated with CDK2 and inhibition of its kinase activity (Figure 7) (Yuan et al. 1996). However, in the absence of p53, this effect is not sufficient to maintain cells in G1 20 to 30 hr after irradiation (Figure 1), even though low levels of cyclin D1 protein are maintained at that time (Figure 2B). The escape of cells with nonfunctional p53 from the initial G1 arrest probably stems from the fact that the reservoir of p21cip1 held by cyclin D1/CDK4 complex is quickly exhausted in response to IR. Consequently, newly synthesized CDK2/cyclin E complexes will be active and able to drive cells into S phase. In cells harboring wild type p53, activation of newly synthesized cyclin E/CDK2 will be prevented through induction of p21cip1 expression by p53.
+
+An RxxL Destruction Motif in Cyclin D1
+We demonstrate here that cyclin D1 has a functional RxxL motif, also known as a destruction box, within its amino terminus. This destruction box does not play a role in the normal metabolic turn-over of cyclin D1 protein (Figure 4), but mediates rapid cyclin D1 degradation after exposure to genotoxic stress. Destruction boxes were first identified in mitotic cyclins (Glotzer et al. 1991). The Anaphase-Promoting Complex (APC), a multimeric ubiquitin ligase complex of 1.5 MDa, is essential for destruction box-mediated degradation of mitotic cyclins (11 and 15). The specificity and timing of proteolysis by the APC is determined by phosphorylation and association with activating proteins of the fizzy protein family such as Cdc20 and Cdh1 (Visintin et al. 1997). Which components of the APC direct the specificity of binding to RxxL motifs is unknown. Interestingly, during cell cycle progression, APC carries out its major role in exit from M phase, but remains active in G1 and G0 when mitotic kinases are no longer active (Brandeis and Hunt 1996). This suggests possible roles for APC in G1 and G0 phases of the cell cycle as well. Our identification of the RxxL destruction motif as a necessary element for cyclin D1 degradation points to the involvement of APC in this process. In support of this view is our finding that the cyclin D1/CDK4 complex specifically associates with the APC in cycling cells (Figure 5). Whereas the interaction of APC with CDK4 remains intact in cells exposed to IR, the interaction with cyclin D1 decreases rapidly. Therefore, it seems that CDK4 serves as a bridging factor between cyclin D1 and the APC. This suggests a model in which the APC marks cyclin D1 for proteolysis and is subsequently free to bind another cyclin D1 molecule via CDK4. How and which proteins transmit the genotoxic stress-signal to the cyclin D1 destruction machinery remains to be determined.
+
+Induction of Cyclin D1 Degradation by Genotoxic Stress and Cancer
+The p16INK4A-cyclin D1-pRb pathway is disrupted in most, if not all, human tumors. In a substantial number of tumors cyclin D1 is over-expressed by one of several mechanisms (Hanahan and Weinberg 2000). Our finding that the genotoxic stress-induced cyclin D1 degradation pathway is intact in most tumor cells (Figure 3) may be related to the fact that disruption of this pathway does not elevate cyclin D1 protein levels in nonstressed cells (Figure 4) and therefore does not confer a selective advantage to tumor cells.
+
+Our findings also have potential relevance for treatment of cancer. Abrogation of genotoxic stress-induced cyclin D1 degradation sensitizes cells to genotoxic stress with no significant effect on survival of nonirradiated cells (Figure 7). This suggests that specific inhibition of genotoxic stress induced-cyclin D1 degradation could make radiotherapy more effective and selective as tumor cells often express much higher levels of cyclin D1 than the surrounding normal tissue.
+
+Experimental Procedures
+Materials, Antibodies, and Plasmids Construction
+Cis-platin was purchased from Teva. Histone H1 and the proteasome inhibitor cbz-LLL were purchased from Sigma. IR was done with a 2 × 415 Ci 137Cs source.
+
+The antibodies used in this study were: human p53 mAb (Do-1), mouse p53 (FL-393), cyclin D1 (H-295 and M-20), human cyclin D2 (C-17), mouse cyclin D2 (M-20), cyclin D3 (C-16), cyclin E (M-20), CDK4 (H-22), CDK2 (M-2), p21cip1 (C-19), and p38 (C-20) from Santa Cruz. Other antibodies used were: GSK3-β mAb, Kip1/p27 mAb, anti-Cdc27 mAb (all from Transduction lab.), rabbit p19ARF (ABCAM), and rabbit GFP.
+
+The plasmids pRC-CMV-cyclin D1 and D2 and the mutants K112E and LxCxE were described (Zwijsen et al. 1997). Cyclin D1 mutants, T286A, E92V, R98H, R29Q, L32A, and cyclin D2-RAMLK were generated by site directed mutagenesis using polymerase chain reactor (PCR) and were cloned in the pCDNA3.1 vector (Clontech). All mutants were verified by DNA sequence analysis.
+
+The green florescent protein (GFP) expression vector was pEGFP (Clontech). H2B-GFP was described (Kanda et al. 1998). For pIND-p19ARF construct, the mouse p19ARF cDNA tagged with HA (Quelle et al. 1995) was cloned into the pIND vector (Invitrogen).
+
+Cell Culture and Transfection
+Cells were transfected with either DOTAP (Boehringer Mannheim) or Lipofectamine (Gibco-BRL). To obtain high transfection efficiency, 3 × 105 MCF-7 cells were resuspended in 100 μl of electroporation buffer containing 2 mM HEPES (pH 7.2), 15 mM K2HPO4/KH2PO4, 250 mM manitol, and 1mM MgCl2 at a final pH of 7.2. Either 1 or 2 μg of DNA was added and the cells and DNA were transferred to a 0.1 cm electroporation cuvette (BioRad) and electroporated with Gene Pulser II apparatus and Gene Pulser II RF module (BioRad) at 140 volts, 15 times 1.5 ms burst duration and 1.5 s intervals. Five minutes after electroporation, cells were seeded in either a 10 cm dish or an equivalent area. Cells were washed 16 hr after transfection and the experiment was performed either 24 or 48 hr later.
+
+The pIND-p19ARF stable inducible U2-OS clone was generated using the Ecdysone system (Invitrogen) and will be described in more detail elsewhere. Gene induction was done with 1 mM Muristerone-A (Invitrogen) for 20 hr.
+
+Primary MEFs were immortalized using infection with a LZRS virus carrying the Bmi-1 cDNA which downregulates expression of the INK4a locus (Jacobs et al. 1999).
+
+Cell Cycle Profile Analysis
+For FACS analysis, cells were trypsinized and resuspended in 600 μl solution containing 0.6% NP-40, 50 μg/ml RNaseA, and 50 μg/ml propidium iodide in PBS. In each assay, 10,000 cells were collected by FACScan and analyzed with the CellQuest program (Becton Dickinson). For bromodeoxyuridine (BrdU) labeling, cells were incubated 1 hr prior to the harvest with 7.5 μg/ml BrdU. After harvest, cells were fixed in ethanol and stained sequentially with mouse anti-BrdU antibodies (DAKO) and FITC-conjugated goat-anti-mouse antibodies (MONOSAN).
+
+For determination of sub-G1 population, MCF-7 cells were transfected by electroporation as described above and irradiated (20 Gy) after 24 hr. Five days later, floating and adherent cells were harvested and analyzed by FACScan. Determination of sub-G1 population in wt and D1−/− MEFs was done similarly, only cells were irradiated (10 Gy) and analyzed 6 days later.
+
+Pulse-Chase Experiments
+MCF-7 cells were starved in Dulbecco's modified Eagle's medium (DMEM) without methionine and cysteine containing 5% dialyzed serum for 1 hr and then were metabolically labeled with L-[35S] methionine and L-[35S] cysteine for 2 hr. Subsequently, cells were treated with IR (20 Gy) and chased in DMEM containing 5% serum for the indicated time periods. Cells were lysed in ELB lysis buffer for 20 min at 4°C and centrifuged for 15 min at 4°C, immunoprecipitated with the anti-cyclin D1 (H-295) antibody, and resolved on 10% SDS-PAGE. The gel was fixed, dried, and quantified with a PhosphorImager (BAS-2000, Fuji).
+
+Coimmunoprecipitation Experiments
+Cells were lysed in 500 μl ELB lysis buffer, centrifuged and immunoprecipitated with 2 μg of the specific antibody preconjugated to protein A sepharose beads. The beads were washed five times and bound proteins were eluted by boiling in SDS-sample buffer and resolved by 12% SDS-PAGE.
+
+For coimmunoprecipitation of cyclin D1 and CDK4 with the APC component Cdc27, MCF-7 cells were lysed and immunoprecipitated as described previously (Agami et al. 1999). Immunoprecipitations were carried out using rabbit serum against Cdc27 (Kramer et al. 1998), anti-CDK4 (H-22), anti-cyclin D1 (M-20) and the controls anti-Abl (K-12), anti-CDK2(M-2,) and anti-p38 antibodies. Immunoblotting was done using the anti-Cdc27 mAb (Transduction lab) and rabbit polyclonals anti-cyclin D1 (H-295) and anti-CDK4 (H-22).
+
+In Vitro Immunoprecipitation-Kinase Assays
+To determine CDK2 activity, specific complexes from either MCF-7/Neo or MCF-7/E6 cells were immunoprecipitated from extracts using anti-CDK2 antibody (M-2). The beads were washed two additional times with kinase buffer (20 mM Tris HCl [pH 7.4], 4 mM MgCl2, and 0.5 mM DTT) and kinase reaction was carried out in 50 μl volume kinase buffer containing 10 μg histone-H1 as a specific substrate, 10 μCi [γ-32P]-ATP (5000 mCi/mmol, Amersham), and 30 μM ATP at 37°C for 30 min.
+
+Acknowledgements
+We thank Peter Sicinski for the gift of cyclin D1 knockout and cyclin E knockin fibroblasts; J. M. Peters for the gift of the Cdc27 antiserum; Thyn R. Brummelkamp for the gift of p19ARF-inducible U2-OS cells; Boudewijn Burgering for his help in performing the GSK3-β assays; and Daniel Peeper, Piet Borst, Anton Berns, and Maarten van Lohuizen for critical reading of the manuscript. R. A. was supported by a fellowship from the European Molecular Biology Organization (EMBO).
+
+References
+1
+R Agami, G Blandino, M Oren, Y Shaul
+Interaction of c-Abl and p73α and their collaboration to induce apoptosis
+Nature, 399 (1999), pp. 809–813
+
+2
+C Bouchard, K Thieke, A Maier, R Saffrich, J Hanley-Hyde, W Ansorge, S Reed, P Sicinski, J Bartek, M Eilers
+Direct induction of cyclin D2 by Myc contributes to cell cycle progression and sequestration of p27
+EMBO J., 18 (1999), pp. 5321–5333
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (316)
+3
+M Brandeis, T Hunt
+The proteolysis of mitotic cyclins in mammalian cells persists from the end of mitosis until the onset of S phase
+EMBO J., 15 (1996), pp. 5280–5289
+
+View Record in Scopus | Cited By in Scopus (224)
+4
+F Bunz, A Dutriaux, C Lengauer, T Waldman, S Zhou, J.P Brown, J.M Sedivy, K.W Kinzler, B Vogelstein
+Requirement for p53 and p21 to sustain G2 arrest after DNA damage
+Science, 282 (1998), pp. 1497–1501
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1751)
+5
+K.F Cooper, M.J Mallory, J.B Smith, R Strich
+Stress and developmental regulation of the yeast C-type cyclin Ume3p (Srb11p/Ssn8p)
+EMBO J., 16 (1997), pp. 4665–4675
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (67)
+6
+J.A Diehl, F Zindy, C.J Sherr
+Inhibition of cyclin D1 phosphorylation on threonine-286 prevents its rapid degradation via the ubiquitin-proteasome pathway
+Genes Dev., 11 (1997), pp. 957–972
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (499)
+7
+J.A Diehl, M Cheng, M.F Roussel, C.J Sherr
+Glycogen synthase kinase-3beta regulates cyclin D1 proteolysis and subcellular localization
+Genes Dev., 12 (1998), pp. 3499–3511
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1319)
+8
+Y Geng, W Whoriskey, M.Y Park, R.T Bronson, R.H Medema, T Li, R.A Weinberg, P Sicinski
+Rescue of cyclin D1 deficiency by knockin cyclin E
+Cell, 97 (1999), pp. 767–777
+
+Article |  PDF (461 K) | View Record in Scopus | Cited By in Scopus (247)
+9
+M Glotzer, A.W Murray, M.W Kirschner
+Cyclin is degraded by the ubiquitin pathway
+Nature, 349 (1991), pp. 132–138
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1293)
+10
+D Hanahan, R.A Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12496)
+11
+S Irniger, S Piatti, C Michaelis, K Nasmyth
+Genes involved in sister chromatid separation are needed for B-type cyclin proteolysis in budding yeast
+Cell, 81 (1995), pp. 269–278
+
+12
+J.J Jacobs, K Kieboom, S Marino, R.A DePinho, M van Lohuizen
+The oncogene and Polycomb-group gene bmi-1 regulates cell proliferation and senescence through the ink4a locus
+Nature, 397 (1999), pp. 164–168
+
+View Record in Scopus | Cited By in Scopus (915)
+13
+T Kanda, K.F Sullivan, G.M Wahl
+Histone-GFP fusion protein enables sensitive analysis of chromosome dynamics in living mammalian cells
+Curr. Biol., 8 (1998), pp. 377–385
+
+Article |  PDF (198 K) | View Record in Scopus | Cited By in Scopus (512)
+14
+R.W King, J.M Peters, S Tugendreich, M Rolfe, P Hieter, M.W Kirschner
+A 20S complex containing CDC27 and CDC16 catalyzes the mitosis-specific conjugation of ubiquitin to cyclin B
+Cell, 81 (1995), pp. 279–288
+
+Article |  PDF (2343 K) | View Record in Scopus | Cited By in Scopus (663)
+15
+R.W King, R.J Deshaies, J.M Peters, M.W Kirschner
+How proteolysis drives the cell cycle
+Science, 274 (1996), pp. 1652–1659
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (965)
+16
+E.R Kramer, C Gieffers, G Holzl, M Hengstschlager, J.M Peters
+Activation of the human anaphase-promoting complex by proteins of the CDC20/Fizzy family
+Curr. Biol., 8 (1998), pp. 1207–1210
+
+View Record in Scopus | Cited By in Scopus (140)
+17
+N.D Lakin, S.P Jackson
+Regulation of p53 in response to DNA damage
+Oncogene, 18 (1999), pp. 7644–7655
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (464)
+18
+M.M Lipinski, T Jacks
+The retinoblastoma gene family in differentiation and development
+Oncogene, 18 (1999), pp. 7873–7882
+
+View Record in Scopus | Cited By in Scopus (292)
+19
+D.W Meek
+Mechanisms of switching on p53: a role for covalent modification?
+Oncogene, 18 (1999), pp. 7666–7675
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (186)
+20
+D.O Morgan
+Principles of CDK regulation
+Nature, 374 (1995), pp. 131–134
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2371)
+21
+P.J Morin
+beta-catenin signaling and cancer
+Bioessay, 21 (1999), pp. 1021–1030
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (571)
+22
+I Perez-Roger, S.H Kim, B Griffiths, A Sewing, H Land
+Cyclins D1 and D2 mediate myc-induced proliferation via sequestration of p27(Kip1) and p21(Cip1)
+EMBO J., 18 (1999), pp. 5310–5320
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (223)
+23
+D.E Quelle, F Zindy, R.A Ashmun, C.J Sherr
+Alternative reading frames of the INK4a tumor suppressor gene encode two unrelated proteins capable of inducing cell cycle arrest
+Cell, 83 (1995), pp. 993–1000
+
+View Record in Scopus | Cited By in Scopus (1087)
+24
+M Scheffner, B.A Werness, J.M Huibregtse, A.J Levine, P.M Howley
+The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53
+Cell, 63 (1990), pp. 1129–1136
+
+Article |  PDF (1728 K) | View Record in Scopus | Cited By in Scopus (2234)
+25
+C.J Sherr
+G1 phase progression: cycling on cue
+Cell, 79 (1994), pp. 551–555
+
+Article |  PDF (640 K) | View Record in Scopus | Cited By in Scopus (2166)
+26
+C.J Sherr, J.M Roberts
+CDK inhibitors: positive and negative regulators of G1-phase progression
+Genes Dev., 13 (1999), pp. 1501–1512
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3827)
+27
+R.V Sionov, Y Haupt
+The cellular response to p53: the decision between life and death
+Oncogene, 18 (1999), pp. 6145–6157
+
+Full Text via CrossRef
+28
+V Stambolic, L Ruel, J.R Woodgett
+Lithium inhibits glycogen synthase kinase-3 activity and mimics wingless signaling in intact cells
+Curr. Biol., 6 (1996), pp. 1664–1668
+
+View Record in Scopus | Cited By in Scopus (854)
+29
+O Tetsu, F McCormick
+Beta-catenin regulates expression of cyclin D1 in colon carcinoma cells
+Nature, 398 (1999), pp. 422–426
+
+View Record in Scopus | Cited By in Scopus (2379)
+30
+R Visintin, S Prinz, A Amon
+CDC20 and CDH1: a family of substrate-specific activators of APC-dependent proteolysis
+Science, 278 (1997), pp. 460–463
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (570)
+31
+T Waldman, K.W Kinzler, B Vogelstein
+p21 is necessary for the p53-mediated G1 arrest in human cancer cells
+Cancer Res., 55 (1995), pp. 5187–5190
+
+View Record in Scopus | Cited By in Scopus (894)
+32
+T Weinert
+DNA damage and checkpoint pathways: molecular anatomy and interactions with repair
+Cell, 94 (1998), pp. 555–558
+
+Article |  PDF (315 K) | View Record in Scopus | Cited By in Scopus (210)
+33
+Z.M Yuan, Y Huang, Y Whang, C Sawyers, R Weichselbaum, S Kharbanda, D Kufe
+Role for c-Abl tyrosine kinase in growth arrest response to DNA damage
+Nature, 382 (1996), pp. 272–274
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (186)
+34
+R.M Zwijsen, E Wientjens, R Klompmaker, J van der Sman, R Bernards, R.J Michalides
+CDK-independent activation of estrogen receptor by cyclin D1
+Cell, 88 (1997), pp. 405–415
+
+Article |  PDF (1581 K) | View Record in Scopus | Cited By in Scopus (473)
+Corresponding author contact information
+Correspondence: René Bernards, 31 20 512 1952 (phone), 31 20 512 1954 (fax)
+*
+To whom correspondence should be addressed (e-mail: bernards@nki.nl).
+Copyright © 2000 Cell Press. All rights reserved.

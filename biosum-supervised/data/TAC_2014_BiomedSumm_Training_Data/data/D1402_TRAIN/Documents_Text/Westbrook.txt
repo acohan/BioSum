@@ -1,0 +1,426 @@
+
+A Genetic Screen for Candidate Tumor Suppressors Identifies REST
+Thomas F. Westbrook1, Eric S. Martin2, 7, Michael R. Schlabach1, 7, Yumei Leng1, Anthony C. Liang1, Bin Feng2, Jean J. Zhao3, Thomas M. Roberts3, Gail Mandel5, Gregory J. Hannon6, Ronald A. DePinho2, Lynda Chin2, 4, Stephen J. Elledge1, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2005.03.033
+  Open Archive
+Summary
+Tumorigenesis is a multistep process characterized by a myriad of genetic and epigenetic alterations. Identifying the causal perturbations that confer malignant transformation is a central goal in cancer biology. Here we report an RNAi-based genetic screen for genes that suppress transformation of human mammary epithelial cells. We identified genes previously implicated in proliferative control and epithelial cell function including two established tumor suppressors, TGFBR2 and PTEN. In addition, we uncovered a previously unrecognized tumor suppressor role for REST/NRSF, a transcriptional repressor of neuronal gene expression. Array-CGH analysis identified REST as a frequent target of deletion in colorectal cancer. Furthermore, we detect a frameshift mutation of the REST gene in colorectal cancer cells that encodes a dominantly acting truncation capable of transforming epithelial cells. Cells lacking REST exhibit increased PI(3)K signaling and are dependent upon this pathway for their transformed phenotype. These results implicate REST as a human tumor suppressor and provide a novel approach to identifying candidate genes that suppress the development of human cancer.
+
+Introduction
+The evolution of human cells into malignant derivatives is driven by the aberrant function of genes that positively and negatively regulate various aspects of the cancer phenotype, including altered responses to mitogenic and cytostatic signals, resistance to programmed cell death, immortalization, neoangiogenesis, and invasion and metastasis (Hanahan and Weinberg, 2000). The integrity of these gene functions is compromised by substantial genetic and epigenetic alterations observed in most cancer cell genomes. To understand the tumorigenic process, it is imperative to identify and characterize the genes that provide tumor cells with the capabilities requisite for their initiation and progression. However, the identities of those genes that contribute to the tumor phenotype are often concealed by the frequent alterations in genes that play no role in tumorigenesis.
+
+Identifying genes that restrain tumorigenesis (tumor suppressors) has proven especially challenging due to their recessive nature. Further complicating their discovery are the multifaceted mechanisms by which tumor suppressor genes are inactivated, including changes in copy number and structure, point mutations, and epigenetic alterations (Balmain et al., 2003). Moreover, the mechanisms by which tumor suppressor genes are inhibited may vary between tumors. With this in mind, a variety of molecular and cytogenetic technologies has been used to establish extensive catalogs of genetic alterations within human cancers (Albertson et al., 2003 and Futreal et al., 2004). And while it is generally accepted that highly recurrent aberrations signify changes that are important for tumor development, the causal perturbations underlying tumor genesis are often confounded by the extensive size of alterations and the large number that are incidental to the tumor phenotypes. As such, new strategies to delineate genes with functional relevance to tumor initiation and development are essential to understanding these processes.
+
+One approach to this problem involves the use of in vitro models of human cell transformation. In such models, primary cells are transformed into tumorigenic derivatives by the coexpression of cooperating oncogenes (Elenbaas et al., 2001, Hahn et al., 1999 and Zhao et al., 2004). These experimental models have been useful in delineating the minimum genetic perturbations required for transformation of various human cell types as well as evaluating the functional cooperation between a gene of interest and a defined genetic context. To date, these models of human cell transformation have incorporated genes already implicated in human tumorigenesis. However, such models also provide a potentially useful platform for the identification of new pathways that contribute to the transformed phenotype.
+
+The emergence of RNA interference (RNAi) as a mechanism to silence gene expression has enabled loss-of-function analysis in mammalian cells in a potentially genomewide manner (Berns et al., 2004 and Paddison et al., 2004). We have utilized such an RNAi-based, forward genetic approach to identify genes that suppress oncogenic transformation in a defined human mammary epithelial cell model. We identified approximately 25 potential suppressors of epithelial cell transformation (SECT) genes that represent candidate tumor suppressors. Several are associated with known cancer-relevant pathways including Ras, PI(3)K, and TGF-β signaling. In addition, we provide evidence that one of these candidates, the transcriptional repressor REST/NRSF, plays a previously unappreciated role in tumor suppression. These findings support the utility of this novel approach to the identification of cancer relevant genes.
+
+Results
+RNAi Screen for Suppressors of Epithelial Cell Transformation
+Recently, several cell culture models of human cell transformation have been described in which primary human cells are engineered to express combinations of dominantly acting cellular and viral oncogenes and subsequently measured for anchorage-independent proliferation, an in vitro hallmark of transformation (Elenbaas et al., 2001, Hahn et al., 1999 and Zhao et al., 2004). We sought to identify short-hairpin RNAs (shRNAs) that cooperate within the context of such a model. As >80% of cancers arise from epithelial tissues, we chose to examine cells derived from human mammary epithelial cells (HMECs) to increase the probability of finding genes with relevance to epithelial cancers. The cells utilized for this screen (referred to as TLM-HMECs) were created by sequentially introducing the human telomerase catalytic subunit (hTERT) and the large T-antigen (LT) of SV40 into HMECs (Zhao et al., 2003). In addition, these cells exhibit elevated expression of the endogenous c-myc gene resulting from extended culture in vitro ( Wang et al., 2000). Important to the efficacy of this screen, these cells do not proliferate in the absence of extracellular matrix (<1 colony in 104; Figure 1B, left panel) ( Zhao et al., 2003). Recent experiments have demonstrated that hyperactivation of the PI(3)K pathway by ectopic expression of a PI(3)K mutant endows these cells with the ability to proliferate in an anchorage-independent manner ( Zhao et al., 2003), suggesting that TLM-HMECs are susceptible to transformation by a single genetic event. However, since recent evidence suggests that overexpressed oncogenes can confer different biological effects than oncogenes expressed at endogenous levels ( Guerra et al., 2003 and Tuveson et al., 2004), we sought to determine whether disruption of endogenous PI(3)K regulation is sufficient to elicit transformation. To this end, an shRNA directed against the PTEN tumor suppressor was introduced into TLM-HMECs by retroviral-mediated gene transfer. PTEN catalyzes the removal of the 3-position phosphate from PtdIns(3,4,5)P3 and is a well-characterized antagonist of PI(3)K-dependent signals ( Vivanco and Sawyers, 2002). PTEN-specific shRNA significantly reduced PTEN expression ( Figure 1A). Importantly, reduced PTEN expression conferred robust anchorage-independent proliferation to a level similar to an activated mutant of PI(3)K (myr-p110α) ( Figure 1B, right panel), thereby validating that RNAi-mediated loss of function of this tumor suppressor is capable of transforming TLM-HMECs.
+
+Full-size image (117 K)
+Figure 1. 
+Identification of Suppressors of Epithelial Cell Transformation
+(A) Cell lysates from TLM-HMECs expressing control or PTEN-shRNAs were immunoblotted for expression of PTEN. The asterisk denotes a crossreacting band that serves as a loading control.
+(B) Cells from (A) were cultured in semisolid media for 3 weeks and photographed at 20× (top panels) or 1× (bottom panels) magnification. Quantitation of macroscopic colony (>0.2 mm) formation in semisolid media by TLM-HMECs transduced with empty retrovirus or virus encoding control shRNA, myr-p110α cDNA, or PTEN-shRNA.
+(C) Outline of the transformation screen. Details provided in Experimental Procedures.
+(D) TLM-HMECs transduced with empty or pSM1-shRNA library and cultured in semisolid media for 3 weeks, photographed at 20× (top panels). Bottom panel illustrates a section of a barcode microarray. Barcodes were PCR amplified from genomic DNA isolated from a pool of 100 anchorage-independent colonies. cRNA was transcribed from a total library preparation (red channel, 635 nm) or from PCR-amplified barcode (green channel, 532 nm) and hybridized to a barcode microarray. Enriched barcodes (green/yellow) are indicated by arrows.
+(E) TLM-HMECs expressing shRNAs targeting candidate genes (two independent shRNAs per gene target) were cultured in semisolid media and quantitated for formation of macroscopic colonies. Experiments were performed in triplicate.
+Figure options
+To identify endogenous suppressors of epithelial cell transformation (SECT) genes (Figure 1C), we infected TLM-HMECs with a retroviral shRNA library we previously constructed in pSM1 (Paddison et al., 2004). This library consists of 28,000 sequence-verified shRNAs targeting ∼9,000 genes, with each shRNA linked to a unique 60 nucleotide sequence (DNA “barcode”). These molecular barcodes can be used to monitor relative frequencies of individual shRNAs in complex populations via microarray technology (Hensel et al., 1995). TLM-HMECs infected with a control retrovirus or pSM1 library were assessed for anchorage-independent proliferation (Figure 1C). Only cells infected with the pSM1 library exhibited formation of macroscopic colonies in semisolid media (Figure 1D, right panels), indicating the presence of shRNAs that transform TLM-HMECs. Approximately 100 anchorage-independent clones were pooled and analyzed for the enrichment of barcodes linked to the individual shRNAs (Figure 1D, left panel). To support the results from the hybridization studies, we sequenced approximately 200 individual anchorage-independent clones isolated from pSM1 transductants (including 70 colonies used for the barcode microarray hybridization). Sequencing of the proviral shRNAs from these colonies identified 25 unique shRNAs. Importantly, these approaches yielded similar results, with 18 of the 25 genes revealed by sequencing of individual clones also identified by barcode microarray analysis (see Table S1 in the Supplemental Data available with this article online). This is the first application of the barcode approach in a mammalian screen, and the high correspondence of identities with the sequenced clones indicates that such an approach harbors promise in more complex experimental designs.
+
+Most of the shRNAs identified in this screen target genes known or predicted to function in signal transduction or transcriptional regulation (Table 1), consistent with the role of these gene classes in regulating complex cell behaviors. While the majority of these genes have not been directly examined for their relationship to cancer pathogenesis, several are implicated in the regulation of cancer-relevant pathways. Notably, we identified an shRNA targeting CAPRI (RASA4), a calcium-sensing Ras GTPase-activating protein (Ras-GAP) previously shown to inhibit Ras-dependent signaling ( Lockyer et al., 2001). This is consistent with the ability of a constitutively active Ras mutant to transform TLM-HMECs (J.J.Z. and T.R., unpublished data). δ-catenin (CTNND2) and K-cadherin (CDH6) were also isolated ( Table 1), suggesting a potential role for adherens junctions in preventing epithelial cell transformation. Strikingly, the type II receptor for transforming growth factor-β (TGF-β) was also identified, thus implicating the TGF-β tumor suppressor pathway in the control of epithelial cell transformation (see below).
+
+Table 1.
+Suppressors of Epithelial Cell Transformation
+Gene	Previously Known Functions	Validated
+CDH6*	Type II cadherin; cell-cell adhesion	+
+CTNND2*	Stabilization of adherens junctions	+
+INPP4B*	PIP2 phosphatase	ND
+RASA4*	Ras GAP; calcium-responsive inhibitor of Ras signaling	ND
+REST*	Transcriptional repression of neural genes	+
+TGFBRII*	TGF-β signaling; cytostatic and apoptotic programs in epithelial tissues	+
+VDAC2P*	None	−
+ZNF134*	None	+
+BCL9	WNT/β-catenin signaling	ND
+MAP4K4	TNFα signaling; JNK activation	ND
+PKN2	Rho signaling; Akt inhibition	ND
+BDKRB2	G protein-coupled receptor	ND
+LMO4	Transcriptional regulation; mammary gland development	ND
+HAND1	Transcriptional regulation; cardiac morphogenesis	ND
+AKT2	PI(3)K effector; survival signaling	ND
+STAG3	Meiosis cohesion	ND
+DUT	dUTP pyrophosphatase	ND
+RPP30	tRNA processing	ND
+This table lists gene targets of unique, sequence-verified shRNAs identified in 200 anchorage-independent colonies isolated from the screen. shRNAs identified in the context of double integrations (seven in total) were disregarded. Ninety percent of isolated anchorage-independent colonies encoded one of eight shRNAs (demarcated by *). For candidate validation, multiple shRNAs directed against independent sequences within a gene target were tested for transformation (ND, not determined).
+
+Table options
+The vast majority (90%) of colonies analyzed in this screen represented shRNAs directed against eight genes (demarcated in Table 1). Therefore, we focused our subsequent investigations on the gene targets of these frequently isolated and potentially more penetrant shRNAs. In order to validate putative gene targets, we assessed the transforming potential of shRNAs targeting different regions of each candidate. Parental TLM-HMECs were transduced with shRNA-encoding retroviruses and measured for anchorage-independent proliferation. Importantly, for five of six candidate genes tested, two shRNAs transformed TLM cells (Figure 1 and Figure 2, and data not shown), indicating that the observed phenotype was most likely attributable to reduced function of the intended target and not caused by off-target effects. In contrast, two independent shRNAs directed against the pseudogene VDAC2P did not recapitulate transforming potential of the library-derived VDAC2P-shRNA (data not shown), implying that these shRNAs did not alter VDAC2P expression or that the library-derived shRNA targeted the expression of other genes underlying the transformed phenotype. Consistent with the latter hypothesis, VDAC2P expression was undetectable in TLM-HMECs (data not shown).
+
+Endogenous TGF-β Signaling Suppresses Cellular Transformation
+As negative regulators of oncogenic transformation, genes isolated in this screen may represent candidate tumor suppressor genes or impinge upon pathways critical to the genesis of cancer. Notably, this approach identified the transforming growth factor-β receptor II (TGF-βRII) as a regulator of transformation (Table 1). Observations in mouse models and in human tumors indicate that TGF-βRII (as well as several components of TGF-β signaling) is a potent tumor suppressor in numerous tissues including the mammary and colonic epithelia (Derynck et al., 2001 and Siegel and Massague, 2003). The TGF-β pathway is a potent inhibitor of epithelial cell proliferation but has not been previously implicated in regulating oncogenic transformation in vitro. To verify the role of TGF-βRII in suppression of transformation, two retroviral-encoded shRNAs targeting independent sequences within TGF-βRII were introduced into TLM-HMECs. These shRNAs reduced TGF-βRII expression levels and impaired phosphorylation of SMAD2, a substrate and transducer of endogenous TGF-β receptor signaling (Figure 2A). Importantly, TGF-βRII-targeted shRNAs also elicited robust anchorage-independent proliferation in TLM cells (Figure 2B), thus validating the identification of TGF-βRII in our screen. Reduced TGF-β signaling did not alter proliferation on an adhesive cell culture surface (Figure 2C), suggesting that loss of extracellular matrix (ECM) interactions may induce TGF-β signaling or alter the threshold of endogenous TGF-β signaling necessary to elicit a cytostatic response.
+
+Full-size image (66 K)
+Figure 2. 
+TGF-β Signaling Suppresses Epithelial Cell Transformation
+(A) Cell lysates from TLM-HMECs expressing control or TGF-βRII-shRNAs were immunoblotted for expression of TGF-βRII, Ran (loading control), serine 465/467- phosphorylated SMAD2, or total SMAD2.
+(B) Cells from (A) were cultured in semisolid media for 3 weeks, photographed at 20×, and quantitated for formation of microscopic colonies.
+(C) Growth curves of cells expressing control (○), or two independent TGF-βRII-shRNAs (■ or ▴) grown in monolayer culture.
+(D) TLM-HMECs were stably transfected with empty plasmid (pcDNA3) or plasmid expressing SMAD7 or transduced with empty retrovirus (LPC) or retrovirus encoding a dominant-negative mutant of TGF-βRII (TGFβRII-ΔCYT). Resulting polyclonal cell lines were assayed for anchorage-independent proliferation.
+(E) TLM-HMECs were transduced with control (LPC) or PTEN-shRNA encoding retrovirus. PTEN-shRNA expressing cells were subsequently infected with empty retrovirus or virus expressing a constitutively active mutant of TGFβRI (TGFβRI-T204D). Each derivative cell line was assessed for proliferation in semisolid media.
+Figure options
+To further examine the role of endogenous TGF-β signaling in restraining cell transformation, we inhibited TGF-β signal transduction by alternative mechanisms and assessed the consequences on anchorage-independent proliferation. TLM-HMECs were transduced with retroviruses encoding a previously characterized dominant-negative mutant of TGF-βRII or SMAD7, a negative regulator of TGF-β receptor signaling (Siegel and Massague, 2003). Expression of either cDNA conferred growth in semisolid media (Figure 2D), indicating that the transforming capacity of TGF-βRII shRNAs is not an RNAi-specific phenomenon. Conversely, ectopic activation of TGF-β signaling by a constitutively active mutant of TGF-βRI (T204D) was able to restrain anchorage-independent proliferation elicited by PTEN knockdown (Figure 2E), suggesting a genetic interaction between PI(3)K and TGF-β signaling in the context of cell transformation. This observation is interesting in light of evidence from several systems demonstrating that TGF-β and PI(3)K signals are integrated at multiple levels to regulate survival and proliferation (Conery et al., 2004, Remy et al., 2004 and Seoane et al., 2004). Further investigation is required to determine the functional nodes through which these two pathways interact during HMEC transformation.
+
+Inactivation of REST in Human Tumors
+Consistent with a role in suppressing oncogenic transformation, four of the SECT genes we identified in the screen or initial experiments are either established tumor suppressors (TGF-βRII and PTEN) or regulators of cancer-relevant signaling machinery including the Ras protooncogene (RASA4) and cadherin complexes (CTNND2). Therefore, it is probable that other genes identified in our screen also represent candidate tumor suppressors and may be found altered in tumors. A hallmark of tumor suppressor loci is their high frequency of loss of heterozygosity (LOH) in tumors. Consequently, we examined whether our candidate genes reside in genetic loci targeted for such chromosomal aberrations in human tumors. Array-based comparative genomic hybridization (aCGH) has evolved into a high-throughput method for cataloging such copy number aberrations (CNAs) with high resolution. To this end, aCGH has been successfully utilized to characterize genomic alterations in the context of pancreatic adenocarcinoma ( Aguirre et al., 2004) and more recently used to define CNAs in a large collection of human colon tumors and cell lines (E.S.M. and R.D., unpublished data). As described ( Aguirre et al., 2004), overlapping CNAs from individual colon tumor samples and tumor-derived cell lines were used to define minimal common regions (MCRs) of loss or gain. These discrete MCRs were further prioritized based on parameters of confidence and significance including (1) recurrence in multiple independent samples, (2) high Log2 ratio of change (e.g., depth of deletion), (3) focal nature (e.g., MCR ≤2.0 Mb), and (4) MCR encompassing no more than five annotated genes ( Aguirre et al., 2004). From this analysis, nine high-confidence MCRs of recurrent focal deletions were identified within the colon cancer genome, in sum representing only 34 annotated genes ( Figure 3A). Consistent with its role in the pathogenesis of human cancers ( Ruas and Peters, 1998), the p16INK4A tumor suppressor was present within one of these focal deletions ( Figure 3A).
+
+Full-size image (111 K)
+Figure 3. 
+Deletion of REST in Human Tumors
+(A) High-confidence recurrent CNAs in colon cancer. Recurring focal CNAs in colon adenocarcinoma and tumor cell derivatives were identified and prioritized as previously described (Aguirre et al., 2004) with modifications. Each of the identified minimum common regions (MCR) consists of <2.0 Mb and ≤5 annotated genes. Peak probe values represent the minimum absolute log2 ratio detected within each MCR. Also shown are the chromosomal location, the number of NCBI annotated genes residing within the MCR, and candidate tumor suppressor genes within each MCR. SECT genes are highlighted in blue.
+(B) aCGH profiles of chromosome 4 in a primary tumor (19T) and a colon cancer cell line (LS123) showing deletion of a discrete region, with MCR defined by vertical red lines. Raw data and segmentation analysis are represented by blue circles and red horizontal lines, respectively. Peak data point for each deletion occurs at the REST probe (indicated by arrows).
+(C) Segmentation data of aCGH profiles from each of 42 primary colon tumors and 38 colon tumor-derived cell lines. Chromosomal gain or loss within a section of chromosome 4 is represented by a color gradient (red, gain; blue, loss). Gray boxes represent uninformative probe hybridizations.
+Figure options
+Remarkably, without a priori knowledge of the candidate genes listed in Table 1, this genomic approach identified high-confidence MCRs that included two highly penetrant candidates from our RNAi screen: TGFBR2 and REST ( Figure 3A). RE1-silencing transcription factor (REST)/neuron-restrictive silencing factor (NRSF) is a transcriptional regulator best characterized for its role in repressing neuronal genes including neurotrophins and cell-adhesion molecules in nonneuronal tissues ( Chong et al., 1995 and Schoenherr and Anderson, 1995). Intriguingly, a variety of human tumors including those arising in breast, ovary, and lung activate expression of neuron-specific genes. In some instances, the inappropriate expression of these neural genes elicits an autoimmune response that culminates in neurological disorders, collectively known as paraneoplastic neurologic degenerations (PND; see Discussion) ( Albert and Darnell, 2004). Such aberrant neural gene expression suggests that these cancers harbor defects in regulators of neuronal programs. Consequently, we investigated a potential role for REST in human tumor suppression. Deletions of varying size encompassing the REST locus on chromosome 4 were detected in a significant proportion of tumors, with evidence of genetic loss in 14 of 42 primary tumors and in 13 of 38 cell lines ( Figure 3C), suggesting that chromosomal deletions targeting the REST locus are a frequent event in colon cancer. Importantly, microdeletions encompassing the REST gene were detected in a primary tumor specimen (CRC_19T) and a colon cancer cell line (LS123), thus defining a minimal common region. This MCR ( Figure 3B, top panels) encompasses only five known genes, with the REST gene residing at the peak amplitude of each of these focal deletions ( Figure 3B, bottom panels). Collectively, the unbiased identification of REST as a target of recurrent microdeletions as well as frequent larger deletions strongly suggests that REST is targeted for inactivation during colon cancer pathogenesis.
+
+REST is widely expressed throughout nonneuronal tissues including the colonic epithelium (Figure S1) (Chong et al., 1995 and Schoenherr and Anderson, 1995). The above results suggest that loss of REST expression may confer a selective advantage during the evolution of tumor cells. This hypothesis predicts that cells with defective REST function may be sensitive to reconstitution of REST. We examined this prediction by ectopically expressing REST in colon cancer cells that have lost (SW1417) or retain (SW620) endogenous REST expression (Figure 4A). Exogenous REST expression elicited a mild decrease in the proliferation of SW620 colon cancer cells (Figure 4B). In contrast, ectopic REST expression significantly reduced colony formation in SW1417 cells (>50-fold; Figure 4B), indicating that these cells are highly dependent on the absence of REST for their proliferation in vitro. Coupled with the function of REST in suppressing epithelial cell transformation (Figure 1E), these data strongly support a role for REST in tumor suppression.
+
+Full-size image (69 K)
+Figure 4. 
+Aberrant REST Function in Colon Cancer
+(A) REST expression was analyzed in cell lysates from SW620 and SW1417 colon cancer cell lines by immunoblotting with antibodies recognizing the C terminus of REST.
+(B) SW620 and SW1417 cells were transduced with control or REST-expressing retrovirus, seeded at 5000 cells per dish, and cultured for 2 weeks under puromycin selection.
+(C) Single nucleotide deletion within exon 4 of the REST gene (top schematic) was observed in DLD-1 cells by sequence analysis (coding exons shown in gray). The premature termination (indicated by red x, bottom schematic) results in a protein retaining the DNA binding domain (DBD) and N-terminal SIN3 binding domain but lacking the repressor domain responsible for interaction with CoRest (CBD).
+(D) The presence of truncated REST was analyzed by immunoblotting with antibodies recognizing the N terminus of REST (top panel) or DDB1 (loading control, middle panel) against cell lystates from colon cancer cell lines. Protein lysates derived from HMECs transfected with empty vector (pcDNA3) or vector encoding the frameshift REST mutant (REST-FS) were probed with antibodies raised against the N terminus of REST (bottom panel).
+(E) TLM-HMECs transduced with control retrovirus or retroviruses encoding flag-REST or flag-REST-FS were analyzed for exogenous cDNA expression using flag-specific antibodies (top panel) or assayed for anchorage-independent proliferation (bottom panel).
+Figure options
+In order to establish a more causal relationship between disruption of REST function and tumorigenesis, we analyzed primary colon tumors and colon tumor cell lines for the presence of mutations within the REST coding region. We sequenced exons 2–4 of the REST gene in a total of 86 colon cancers (48 tumors and 38 cell lines). We identified a single-nucleotide deletion within REST exon 4 of cells derived from a colorectal adenocarcinoma (DLD-1) ( Figure 4C). This frameshift mutation results in a premature termination codon in the center of the coding sequence, yielding a protein with a predicted size of approximately 85 kDa. This frameshift mutant, referred to as REST-FS, was detected by N-terminal REST antibodies in lysates from DLD-1 cells but not those of other colon cancer cell lines ( Figure 4D, top panel). To confirm this, the frameshift mutation was engineered into a Flag-tagged REST cDNA and stably introduced into cells. Expression of an 85 kDa protein was detected using REST- ( Figure 4D, bottom panel) and FLAG-specific antibodies ( Figure 4E, top panel).
+
+Tumor cells harboring this frameshift mutation also encoded and expressed a wild-type REST allele (data not shown). Unfortunately, the primary tumor from which these cells were derived is not available, preventing analysis to determine whether the frameshift mutation occurred in vivo. However, we hypothesized if expression of REST-FS was important to the genesis of this cancer, the mutant allele should exhibit dominant-negative activity. REST-FS lacks the C-terminal repressor domain that interacts with CoREST, a corepressor molecule that mediates transcriptional repression and silencing by REST (Andres et al., 1999). To determine if REST-FS displays properties of a dominant-negative protein, we transduced the HMEC derivative (TLM cells) used in our initial screen with wild-type or mutant REST and assessed anchorage-independent proliferation. Cells expressing REST-FS but not wild-type REST exhibited robust colony formation (Figure 4E, bottom panel). The ability of REST-FS to phenocopy the transforming activity of REST shRNAs strongly suggests that this mutant interferes with the functions of endogenous REST that restrain epithelial cell transformation. Taken together, these data provide strong support for the hypothesis that REST is a tumor suppressor in human cells.
+
+REST Suppresses PI(3)K Signaling
+The implication that REST is involved in regulating the transformed state of epithelial cells led us to determine which molecular circuits might be affected by loss of REST function. Activation of PI(3)K-dependent signaling by a variety of mechanisms has been shown to confer transformation in HMECs (Zhao et al., 2003), indicating that this pathway provides a potent stimulus to the transformed phenotype. Furthermore, deregulation of PI(3)K signaling occurs in a wide spectrum of human cancers (Vivanco and Sawyers, 2002). As such, we examined the impact of disrupting REST function (Figure 5A) on the activation of the PI(3)K pathway. TLM-HMECs expressing control or REST-shRNA were deprived of growth factors, restimulated with EGF for various times, and subsequently analyzed for activating phosphorylation of Akt (serine 473), an essential effector of PI(3)K signaling. Stimulation of Akt phosphorylation by EGF was enhanced in cells expressing REST-shRNA throughout the time course (Figure 5B). Consistent with increased signaling downstream of Akt, phosphorylation of ribosomal S6 protein and translational inhibitor 4E-BP1 was also upregulated in cells expressing REST shRNA (Figure 5C). In agreement, recent experiments have demonstrated that ectopic expression of eIF-4E (the target of 4E-BP1) confers transformation to mammary epithelial cells and promotes tumor formation in vivo (Avdulov et al., 2004 and Wendel et al., 2004). These results indicate that impaired REST function confers an increase in both the intensity and duration of PI(3)K-dependent signaling. In order to investigate whether PI(3)K signaling is required for REST-shRNA-induced transformation, we utilized a dominant-negative mutant of the PI(3)K regulatory subunit p85. This mutant (referred to as Δp85) has previously been shown to abolish H-RasV12-induced and SV40 st-induced cell transformation (Rodriguez-Viciana et al., 1997 and Zhao et al., 2003). TLM-HMECs expressing control, PTEN-, or REST-shRNAs were transduced with a control or Δp85-encoding retrovirus. Expression of Δp85 (Figure 5D, top panel) did not alter growth of cells on an adhesive cell culture surface (data not shown). Consistent with the role of PTEN as an antagonist of PI(3)K signaling, Δp85 abrogated anchorage-independent growth of PTEN-shRNA cells (Figure 5D, bottom panel). Similarly, REST-shRNA-induced transformation was inhibited in the presence of Δp85 (Figure 5D, middle and bottom panels), indicating that PI(3)K signaling is required for transformation conferred by loss of REST. Coupled with the aberrant activation of PI(3)K-dependent signals in response to reduced REST expression, these results suggest that inhibition of PI(3)K signaling might be a mechanism through which REST suppresses transformation and tumorigenesis.
+
+Full-size image (78 K)
+Figure 5. 
+Loss of REST Function Stimulates PI(3)K Signaling and Requires It for HMEC Transformation
+(A) Cell lysates from TLM-HMECs expressing control or REST-shRNAs were immunoblotted for expression of Akt (loading control, bottom panel) or REST (C-terminal antibody, top panel).
+(B) TLM-HMECs expressing control or REST-shRNA were starved in basal media without growth factors for 20 hr and restimulated with 10 ng/mL EGF for indicated times. Cell lysates were immunoblotted with antibodies recognizing p-Akt (ser473) or total Akt. Akt phosphorylation was measured as a ratio of p-Akt/total Akt and represented as a percentage of phosphorylated Akt at 15 min of EGF stimulation in control-shRNA cells (control-shRNA, □; REST-shRNA, ●).
+(C) Cell lysates from (A) were probed with antibodies recognizing p-S70 of 4E-BP1, total 4E-BP1, p-S235 and p-S236 of S6, and total S6 as indicated.
+(D) REST loss requires PI3K signaling for transformation. TLM-HMECs expressing control, REST, or PTEN-shRNA were transduced with empty or Δp85-expressing retrovirus. Immunoblot analysis of endogenous p85 and exogenous Δp85 as indicated (top panel). Cells were analyzed for anchorage-independent proliferation (middle and bottom panels).
+Figure options
+Discussion
+Suppressors of Epithelial Cell Transformation
+In this study, we applied an shRNA-based genetic approach to identify genes suppressing oncogenic transformation of human epithelial cells. Within the context of this model, we have identified two previously established tumor suppressor genes (PTEN and TGFBR2) that actively restrain HMEC transformation. In addition, we have identified several genes that impinge upon pathways implicated in cancer pathogenesis. For example, we isolated the calcium-sensing Ras-GAP CAPRI (RASA4), a previously described negative regulator of the Ras protooncogene ( Lockyer et al., 2001). Consistent with a role for regulation of Ras signaling in our experimental system, activated Ras can transform TLM-HMECs. Likewise, identification of δ-catenin (CTNND2), a member of the p120 catenin family that regulates cadherin stability and trafficking ( Reynolds and Roczniak-Ferguson, 2004), implicates a role for adherens junctions in constraining transformation of HMEC. Notably, disruption of adherens junction components has been shown to alter several growth-regulatory pathways (e.g., β-catenin, PI(3)K) and has been linked to cancer progression in a variety of tissues ( Cavallaro and Christofori, 2004 and Vasioukhin et al., 2001).
+
+The novelty of this genetic approach is in the unbiased identification of new and unanticipated tumor suppressor functions. In this regard, our studies provide significant evidence for the identification of a novel tumor suppressor, the transcriptional repressor REST/NRSF (see below).
+
+Involvement of REST/NRSF in Human Cancer
+Transcription factors often coordinately control complex programs of gene expression during development and as such are logical candidates underlying the aberrant activation of developmental programs in cancer. Here, we present several lines of evidence that REST may play a role in tumor suppression in humans. First, reduced REST function (mediated by RNAi or expression of dominant-negative REST) promotes transformation of human epithelial cells. Conversely, reconstitution of REST expression elicits a dramatic proliferation defect in colon cancer cells that have lost endogenous REST function. Strikingly, an independent aCGH-based search for genomic loci characterized by recurrent microdeletions identified the REST locus as a high-confidence target in colorectal cancer. This high-confidence list includes two previously established tumor suppressors, p16INK4A and TGFβRII (Derynck et al., 2001, Ruas and Peters, 1998 and Siegel and Massague, 2003), the latter of which was also identified as a SECT gene. In addition, larger deletions encompassing the REST gene were frequent in colon tumors and tumor cell lines. Furthermore, we isolated a frameshift mutation of the REST coding region in colorectal tumor cells that displays properties of a dominant negative, transforming human epithelial cells to a level similar to REST shRNAs. Finally, we show that impaired REST function enhances the intensity and duration of PI(3)K signaling, a pathway that is aberrantly activated in many if not all human cancers (Vivanco and Sawyers, 2002). Importantly, PI(3)K activity was required for cellular transformation conferred by reduced REST function, indicating that suppression of PI(3)K signaling may be an important mechanism underlying the ability of REST to restrain the transformed state. The mechanism by which REST inhibits this oncogenic pathway is not yet clear. REST regulates a complex transcriptional program and as such may impinge on PI(3)K signaling through multiple networks. However, it should be noted that BDNF and other neurotrophins are among the transcriptional targets repressed by REST. BDNF activates the TrkB receptor and has recently been shown to suppress anoikis via PI(3)K-dependent pathways (Douma et al., 2004), providing a plausible mechanism for activation of PI(3)K signaling in the absence of REST. Taken together, these data provide compelling support for a role for REST in human tumorigenesis and further validate the genetic approach we have undertaken.
+
+Deregulation of neuronal programs has been implicated in cancer through the phenomena of paraneoplastic neurological degenerations (PNDs) (Albert and Darnell, 2004). In these diverse neurological disorders, tumors originating in nonneuronal tissues activate expression of neural peptides that elicit an immune response to the tumor as well as the host nervous system. Although the expression of some of these neural antigens is common or universal in some cancers (breast, ovarian, small-cell lung cancers) (Albert and Darnell, 2004), the occurrence of PNDs in cancer patients is rare, suggesting that other factors play a role in the autoimmune response. Nonetheless, aberrant activation of neuronal gene expression raises the possibility that regulators of neurogenesis are malfunctioning in these tumors. To investigate this possibility, we searched for previously identified PND antigens among known REST targets and discovered RE1 binding sites in several PND antigen-encoding genes. Furthermore, promoters of two of these PND antigens (synaptotagmin and glutamic acid decarboxylase) were recently shown to be directly bound by REST, and, moreover, transcription of synaptotagmin was induced upon expression of a dominant-negative REST mutant similar to the one we identified in tumors (Ballas et al., 2005). This supports the hypothesis that defects in the REST pathway are tied to PND pathology and tumorigenesis.
+
+In further support of a role in tumorigenesis, REST expression was recently shown to be absent in a subset of SCLC cells (Neumann et al., 2004). Additionally, microarray profiling also demonstrates downregulation of REST expression in prostate and small cell lung cancers, two malignancies that often display distinct neuroendocrine phenotypes (Dhanasekaran et al., 2001, Garber et al., 2001 and Rhodes et al., 2004). These findings suggest that REST may play a broader role in human malignancies in addition to colorectal cancer.
+
+Genetic Screening for Tumor Suppressor Pathways
+While further studies will be needed to determine the extent to which REST or other genes we have identified are involved in human cancer, our results point to the utility of this approach for identifying recessive cancer relevant genes. Although many of the genes isolated via this strategy may not be frequent targets of mutation in tumors, they may nonetheless reveal novel pathways relevant to tumorigenesis. While we have identified several suppressors of cellular transformation, it is clear that this screen was not saturated, and, consequently, there remains significant potential for this method in the future discovery of SECT genes. Underscoring this, the shRNA library used in our screen was designed to target only ∼9,000 genes, representing less than one-third of the annotated genes in the human genome. Furthermore, only one shRNA corresponding to any given SECT gene was isolated in this screen. For several of these genes, multiple corresponding hairpins were present within the pSM1 library. This suggests that many SECT candidates were not identified, because this library lacked a sufficiently penetrant shRNA to elicit the transformed phenotype. This is not surprising, since the pSM1 library was constructed before many of the parameters affecting siRNA efficiency had emerged. For instance, the stability of siRNA ends has been shown to bias the incorporation of sense/antisense strands into the RISC complex (Khvorova et al., 2003 and Schwarz et al., 2003). Such siRNA design “rules” improve the potency of target gene suppression and will undoubtedly be incorporated into future generations of mammalian shRNA libraries, thus providing more potent tools in identifying SECT genes.
+
+SECT candidates identified in this screen were selected for their transforming capacity in cooperation with the genetic milieu of TLM-HMECs (ectopic expression of hTERT, SV40 LT, and elevated endogenous c-myc expression). However, distinct classes of SECT genes are likely to be revealed in models incorporating alternative combinations of genetic perturbations. Additional SECT candidates may also be discovered in transformation models of alternative cell types, reflecting the different signaling requirements in cells derived from various human tissues ( Hamad et al., 2002 and Rangarajan et al., 2004) or by interrogating different cancer relevant phenotypes such as invasion, migration, or angiogenesis. Indeed, as in vitro models of human cell transformation are engineered to more accurately reflect the molecular changes and heterotypic cellular complexity found in human cancers, we anticipate that this general strategy will enable a much more complete understanding of the pathways and processes that cancer cells usurp during tumorigenesis.
+
+Experimental Procedures
+Vectors and Retroviral Production
+The shRNA library constructed in pSM1 has previously been described (Paddison et al., 2004). The PTEN shRNA-encoding pSuperRetro vector and the Smad7 expression plasmid were kindly provided by Dennis McCance and Xiao-Jing Wang, respectively. For validation experiments, shRNAs targeting ZNF134, REST, CTNND2, VDAC2P, CDH6, and TGF-βRII were designed using the RNAi design algorithm at http://katahdin.cshl.org:9331/RNAi_web/scripts/main2.pl. cDNAs encoding TGF-βRIIΔCYT and TGF-βRI(T204D) were generously provided by Joan Massague. The Flag-tagged REST-FS cDNA was made by site-directed mutagenesis using QuickChange (Stratagene). TGF-βRIIΔCYT, TGF-βRI(T204D), REST, and REST-FS cDNAs were subcloned into the LPC retroviral vector. pWZL-neo-Δp85 has been previously described (Zhao et al., 2003). Retroviral supernatants were generated by transient transfection of Phoenix cells with the indicated retroviral and VSV-G-expression plasmids and collected 48 hr posttransfection.
+
+Cell Culture
+HMECs expressing hTERT and SV40 LT (TLM-HMECs) (Zhao et al., 2003) were cultured in mammary epithelial growth medium (MEGM, Cambrex). Colon cancer cell lines were maintained in DMEM or RPMI supplemented with 10% FBS and 50 μg/mL gentamycin. Stable cell lines were generated by transduction with the indicated retroviral supernatants in the presence of 8 μg/mL polybrene, with transduced cells selected for resistance to the appropriate drug: puromycin (2.0 μg/mL), neomycin (200 μg/mL). Anchorage-independent proliferation assays were performed as described (Zhao et al., 2003), except cells were suspended in a top layer of 2.0% methylcellulose (Sigma) in MEGM. For each assay, the average of at least three experiments ±SD is shown. For growth curves, cells were seeded at a density of 5.0 × 104 per well in 6-well plates and cultured in MEGM. Cells were trypsinized and counted at the indicated time points (in triplicate with average ±SD shown). EGF restimulation experiments were performed as previously described (Zhao et al., 2003).
+
+shRNA Screen
+TLM-HMECs were infected with a retroviral shRNA library constructed in pSM1 consisting of 20,000 shRNAs directed against ∼7,500 human genes (Paddison et al., 2004) at an moi of 0.2. Transduced cells were selected for puromycin resistance, seeded into semisolid media (as described above) at a density of 1.0 × 105 cells per 100 mm plate (20 plates), and cultured for 3 weeks. Individual anchorage-independent clones were isolated and expanded on adhesive tissue culture dishes. A portion of the provirus (including shRNA cassette) from each clone was PCR amplified from genomic DNA using primers directed against sequences within the MSCV backbone and PGK promoter (forward, 5′-CTCCCTTTATCCAGCCCTCAC-3′; reverse, 5′-GAGACGTGCTACTTCCATTTGTC-3′) and sequenced using an internal primer: 5′-GAGGGCCTATTTCCCATGAT-3′. EcoRI-XhoI fragments of the PCR fragments were also subcloned into MCSV-SIN for validation experiments. In parallel, anchorage-independent clones were pooled, and genomic DNA was isolated using Qiagen DNeasy kit. PCR amplification and transcription of barcodes, hybridization of custom barcode microarrays (Agilent), and microarray analysis were performed as previously described (Paddison et al., 2004).
+
+Immunoblotting
+Cells were lysed in HLB buffer (50 mM Tris [pH 8.0], 150 mM NaCl, 1.0% Triton-X 100, 1 mM DTT, supplemented with phosphatase- and protease-inhibitor cocktails [Calbiochem]) for 30 min with sonication. Western blotting was performed with the following antibodies: αPTEN (Upstate 07-016), αTGF-βRII (Upstate 06-227 and 06-318), αRan (BD Biosciences 610340), αDDB1 (AbCam Ab9194), αFlag (Sigma A8592), αp-465/467-Smad2 (Cell Signaling 3101), αSmad2 (Cell Signaling 3102), αp473-Akt (Cell Signaling 9271), αAkt (Cell Signaling, 9272), αp70-4EBP1 (Cell Signaling, 9455), α4EBP1 (Cell Signaling, 9452), αp235/236-S6 (Cell Signaling, 2211), αS6 (Cell Signaling, 2217), and αRest-N and αRest-C (G. Mandel).
+
+Array-CGH Profiling and Mutation Analysis of REST
+Genomic DNA extracted from 42 primary colon tumors and 38 colon tumor-derived cell lines using Puregene DNA extraction (Gentra Systems) was fragmented and random-prime labeled according to published protocols (Aguirre et al., 2004, Bachoo et al., 2004 and Pollack et al., 1999) with modifications (for details, see http://genomic.dfci.harvard.edu/array_cgh.htm). Subsequently, fluorescence ratios of scanned images of the arrays were calculated. Raw array-CGH profiles were processed to identify statistically significant transitions in copy number using a segmentation algorithm which employs permutation analysis to determine the significance of change points in the raw data (Aguirre et al., 2004) (Bachoo et al., 2004). Each segment is assigned a Log2 ratio that is the median of the contained probes. Subsequently, data was imported into the dCHIP v1.3 software package for microarray analysis (http://www.dchip.org/) for visualization of the segmented data. For mutation analysis, coding exons of the REST gene were PCR amplified, purified, and sequenced using standard conditions (primers available upon request).
+
+Acknowledgments
+We are grateful to Joan Massague, Dennis McCance, Barry Thrash, and Xiao-Jing Wang for the gift of reagents. We recognize the Harvard Partners Genome Center at HPCGG for the sequencing of human tumor DNA. We thank Mamie Li, Zhenming Zhou, and Nancy Ryan for technical support and Frank Stegmeier, Guang Hu, Robert McDonald, Jennifer Hackett, and Don Nguyen for critical reading of the manuscript. We are also grateful to Joan Massague, Robert Darnell, and Matthew Meyerson and members of the Elledge and Hannon laboratories for helpful discussions. T.F.W. is a fellow of the Susan G. Komen Foundation and is supported by grant PDF0403175. This work was supported by grants from NCI 5T32CA09361 (E.S.M.), NCI MMHCC U01 CA084313 (R.A.D.), RO1CA93947 and RO1CA99041 (L.C.), 5 P50 CA090381-03 (J.J.Z.), and 5 P01 CA89021-04 and D.O.D.17-02-1-0692 (T.M.R.); grants from the NIH and DOD (G.J.H.); and a U.S. Army Innovator Award (W81XWH0410197) (to S.J.E.). R.A.D. is an American Cancer Society Research Professor. G.M. and S.J.E. are investigators with the Howard Hughes Medical Institute.
+
+Supplemental Data
+ 
+Document S1. One figure and one table.  
+Help with PDF filesOptions
+References
+Aguirre et al., 2004
+A.J. Aguirre, C. Brennan, G. Bailey, R. Sinha, B. Feng, C. Leo, Y. Zhang, J. Zhang, J.D. Gans, N. Bardeesy et al.
+High-resolution characterization of the pancreatic adenocarcinoma genome
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 9067–9072
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (165)
+Albert and Darnell, 2004
+M.L. Albert, R.B. Darnell
+Paraneoplastic neurological degenerations: keys to tumour immunity
+Nat. Rev. Cancer, 4 (2004), pp. 36–44
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (82)
+Albertson et al., 2003
+D.G. Albertson, C. Collins, F. McCormick, J.W. Gray
+Chromosome aberrations in solid tumors
+Nat. Genet., 34 (2003), pp. 369–376
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (435)
+Andres et al., 1999
+M.E. Andres, C. Burger, M.J. Peral-Rubio, E. Battaglioli, M.E. Anderson, J. Grimes, J. Dallman, N. Ballas, G. Mandel
+CoREST: a functional corepressor required for regulation of neural-specific gene expression
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 9873–9878
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (224)
+Avdulov et al., 2004
+S. Avdulov, S. Li, V. Michalek, D. Burrichter, M. Peterson, D.M. Perlman, J.C. Manivel, N. Sonenberg, D. Yee, P.B. Bitterman, V.A. Polunovsky
+Activation of translation complex eIF4F is essential for the genesis and maintenance of the malignant phenotype in human mammary epithelial cells
+Cancer Cell, 5 (2004), pp. 553–563
+
+Article |  PDF (610 K) | View Record in Scopus | Cited By in Scopus (171)
+Bachoo et al., 2004
+R.M. Bachoo, R.S. Kim, K.L. Ligon, E.A. Maher, C. Brennan, N. Billings, S. Chan, C. Li, D.H. Rowitch, W.H. Wong, R.A. DePinho
+Molecular diversity of astrocytes with implications for neurological disorders
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 8384–8389
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (106)
+Ballas et al., 2005
+N. Ballas, C. Grunseich, D.D. Lu, J.C. Speh, G. Mandel
+REST and its corepressors mediate plasticity of neuronal gene chromatin throughout neurogenesis
+Cell, 121 (2005), pp. 645–657
+
+Article |  PDF (765 K) | View Record in Scopus | Cited By in Scopus (355)
+Balmain et al., 2003
+A. Balmain, J. Gray, B. Ponder
+The genetics and genomics of cancer
+Nat. Genet., 33 (Suppl.) (2003), pp. 238–244
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (317)
+Berns et al., 2004
+K. Berns, E.M. Hijmans, J. Mullenders, T.R. Brummelkamp, A. Velds, M. Heimerikx, R.M. Kerkhoven, M. Madiredjo, W. Nijkamp, B. Weigelt et al.
+A large-scale RNAi screen in human cells identifies new components of the p53 pathway
+Nature, 428 (2004), pp. 431–437
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (700)
+Cavallaro and Christofori, 2004
+U. Cavallaro, G. Christofori
+Cell adhesion and signalling by cadherins and Ig-CAMs in cancer
+Nat. Rev. Cancer, 4 (2004), pp. 118–132
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (570)
+Chong et al., 1995
+J.A. Chong, J. Tapia-Ramirez, S. Kim, J.J. Toledo-Aral, Y. Zheng, M.C. Boutros, Y.M. Altshuller, M.A. Frohman, S.D. Kraner, G. Mandel
+REST: a mammalian silencer protein that restricts sodium channel gene expression to neurons
+Cell, 80 (1995), pp. 949–957
+
+Article |  PDF (3307 K) | View Record in Scopus | Cited By in Scopus (609)
+Conery et al., 2004
+A.R. Conery, Y. Cao, E.A. Thompson, C.M. Townsend Jr., T.C. Ko, K. Luo
+Akt interacts directly with Smad3 to regulate the sensitivity to TGF-beta induced apoptosis
+Nat. Cell Biol., 6 (2004), pp. 366–372
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (202)
+Derynck et al., 2001
+R. Derynck, R.J. Akhurst, A. Balmain
+TGF-beta signaling in tumor suppression and cancer progression
+Nat. Genet., 29 (2001), pp. 117–129
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1242)
+Dhanasekaran et al., 2001
+S.M. Dhanasekaran, T.R. Barrette, D. Ghosh, R. Shah, S. Varambally, K. Kurachi, K.J. Pienta, M.A. Rubin, A.M. Chinnaiyan
+Delineation of prognostic biomarkers in prostate cancer
+Nature, 412 (2001), pp. 822–826
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1109)
+Douma et al., 2004
+S. Douma, T. Van Laar, J. Zevenhoven, R. Meuwissen, E. Van Garderen, D.S. Peeper
+Suppression of anoikis and induction of metastasis by the neurotrophic receptor TrkB
+Nature, 430 (2004), pp. 1034–1039
+
+Full Text via CrossRef
+Elenbaas et al., 2001
+B. Elenbaas, L. Spirio, F. Koerner, M.D. Fleming, D.B. Zimonjic, J.L. Donaher, N.C. Popescu, W.C. Hahn, R.A. Weinberg
+Human breast cancer cells generated by oncogenic transformation of primary mammary epithelial cells
+Genes Dev., 15 (2001), pp. 50–65
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (428)
+Futreal et al., 2004
+P.A. Futreal, L. Coin, M. Marshall, T. Down, T. Hubbard, R. Wooster, N. Rahman, M.R. Stratton
+A census of human cancer genes
+Nat. Rev. Cancer, 4 (2004), pp. 177–183
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1006)
+Garber et al., 2001
+M.E. Garber, O.G. Troyanskaya, K. Schluens, S. Petersen, Z. Thaesler, M. Pacyna-Gengelbach, M. van de Rijn, G.D. Rosen, C.M. Perou, R.I. Whyte et al.
+Diversity of gene expression in adenocarcinoma of the lung
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 13784–13789
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (769)
+Guerra et al., 2003
+C. Guerra, N. Mijimolle, A. Dhawahir, P. Dubus, M. Barradas, M. Serrano, V. Campuzano, M. Barbacid
+Tumor induction by an endogenous K-ras oncogene is highly dependent on cellular context
+Cancer Cell, 4 (2003), pp. 111–120
+
+Article |  PDF (3088 K) | View Record in Scopus | Cited By in Scopus (257)
+Hahn et al., 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1481)
+Hamad et al., 2002
+N.M. Hamad, J.H. Elconin, A.E. Karnoub, W. Bai, J.N. Rich, R.T. Abraham, C.J. Der, C.M. Counter
+Distinct requirements for Ras oncogenesis in human versus mouse cells
+Genes Dev., 16 (2002), pp. 2045–2057
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (252)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12479)
+Hensel et al., 1995
+M. Hensel, J.E. Shea, C. Gleeson, M.D. Jones, E. Dalton, D.W. Holden
+Simultaneous identification of bacterial virulence genes by negative selection
+Science, 269 (1995), pp. 400–403
+
+View Record in Scopus | Cited By in Scopus (791)
+Khvorova et al., 2003
+A. Khvorova, A. Reynolds, S.D. Jayasena
+Functional siRNAs and miRNAs exhibit strand bias
+Cell, 115 (2003), pp. 209–216
+
+Article |  PDF (442 K) | View Record in Scopus | Cited By in Scopus (1270)
+Lockyer et al., 2001
+P.J. Lockyer, S. Kupzig, P.J. Cullen
+CAPRI regulates Ca(2+)-dependent inactivation of the Ras-MAPK pathway
+Curr. Biol., 11 (2001), pp. 981–986
+
+Article |  PDF (404 K) | View Record in Scopus | Cited By in Scopus (71)
+Neumann et al., 2004
+S.B. Neumann, R. Seitz, A. Gorzella, A. Heister, M.K. Doeberitz, C.M. Becker
+Relaxation of glycine receptor and onconeural gene transcription control in NRSF deficient small cell lung cancer cell lines
+Brain Res. Mol. Brain Res., 120 (2004), pp. 173–181
+
+Article |  PDF (516 K) | View Record in Scopus | Cited By in Scopus (19)
+Paddison et al., 2004
+P.J. Paddison, J.M. Silva, D.S. Conklin, M. Schlabach, M. Li, S. Aruleba, V. Balija, A. O’Shaughnessy, L. Gnoj, K. Scobie et al.
+A resource for large-scale RNA-interference-based screens in mammals
+Nature, 428 (2004), pp. 427–431
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (486)
+Pollack et al., 1999
+J.R. Pollack, C.M. Perou, A.A. Alizadeh, M.B. Eisen, A. Pergamenschikov, C.F. Williams, S.S. Jeffrey, D. Botstein, P.O. Brown
+Genome-wide analysis of DNA copy-number changes using cDNA microarrays
+Nat. Genet., 23 (1999), pp. 41–46
+
+View Record in Scopus | Cited By in Scopus (1013)
+Rangarajan et al., 2004
+A. Rangarajan, S.J. Hong, A. Gifford, R.A. Weinberg
+Species- and cell type-specific requirements for cellular transformation
+Cancer Cell, 6 (2004), pp. 171–183
+
+Article |  PDF (703 K) | View Record in Scopus | Cited By in Scopus (274)
+Remy et al., 2004
+I. Remy, A. Montmarquette, S.W. Michnick
+PKB/Akt modulates TGF-beta signalling through a direct interaction with Smad3
+Nat. Cell Biol., 6 (2004), pp. 358–365
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (218)
+Reynolds and Roczniak-Ferguson, 2004
+A.B. Reynolds, A. Roczniak-Ferguson
+Emerging roles for p120-catenin in cell adhesion and cancer
+Oncogene, 23 (2004), pp. 7947–7956
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (145)
+Rhodes et al., 2004
+D.R. Rhodes, J. Yu, K. Shanker, N. Deshpande, R. Varambally, D. Ghosh, T. Barrette, A. Pandey, A.M. Chinnaiyan
+ONCOMINE: a cancer microarray database and integrated data-mining platform
+Neoplasia, 6 (2004), pp. 1–6
+
+Article |  PDF (274 K) | View Record in Scopus | Cited By in Scopus (723)
+Rodriguez-Viciana et al., 1997
+P. Rodriguez-Viciana, P.H. Warne, A. Khwaja, B.M. Marte, D. Pappin, P. Das, M.D. Waterfield, A. Ridley, J. Downward
+Role of phosphoinositide 3-OH kinase in cell transformation and control of the actin cytoskeleton by Ras
+Cell, 89 (1997), pp. 457–467
+
+Article |  PDF (490 K) | View Record in Scopus | Cited By in Scopus (818)
+Ruas and Peters, 1998
+M. Ruas, G. Peters
+The p16INK4a/CDKN2A tumor suppressor and its relatives
+Biochim. Biophys. Acta, 1378 (1998), pp. F115–F177
+
+Article |  PDF (538 K) | View Record in Scopus | Cited By in Scopus (703)
+Schoenherr and Anderson, 1995
+C.J. Schoenherr, D.J. Anderson
+The neuron-restrictive silencer factor (NRSF): a coordinate repressor of multiple neuron-specific genes
+Science, 267 (1995), pp. 1360–1363
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (633)
+Schwarz et al., 2003
+D.S. Schwarz, G. Hutvagner, T. Du, Z. Xu, N. Aronin, P.D. Zamore
+Asymmetry in the assembly of the RNAi enzyme complex
+Cell, 115 (2003), pp. 199–208
+
+Article |  PDF (661 K) | View Record in Scopus | Cited By in Scopus (1442)
+Seoane et al., 2004
+J. Seoane, H.V. Le, L. Shen, S.A. Anderson, J. Massague
+Integration of Smad and forkhead pathways in the control of neuroepithelial and glioblastoma cell proliferation
+Cell, 117 (2004), pp. 211–223
+
+Article |  PDF (785 K) | View Record in Scopus | Cited By in Scopus (485)
+Siegel and Massague, 2003
+P.M. Siegel, J. Massague
+Cytostatic and apoptotic actions of TGF-beta in homeostasis and cancer
+Nat. Rev. Cancer, 3 (2003), pp. 807–821
+
+Tuveson et al., 2004
+D.A. Tuveson, A.T. Shaw, N.A. Willis, D.P. Silver, E.L. Jackson, S. Chang, K.L. Mercer, R. Grochow, H. Hock, D. Crowley et al.
+Endogenous oncogenic K-ras(G12D) stimulates proliferation and widespread neoplastic and developmental defects
+Cancer Cell, 5 (2004), pp. 375–387
+
+Article |  PDF (814 K) | View Record in Scopus | Cited By in Scopus (350)
+Vasioukhin et al., 2001
+V. Vasioukhin, C. Bauer, L. Degenstein, B. Wise, E. Fuchs
+Hyperproliferation and defects in epithelial polarity upon conditional ablation of alpha-catenin in skin
+Cell, 104 (2001), pp. 605–617
+
+Article |  PDF (2453 K) | View Record in Scopus | Cited By in Scopus (253)
+Vivanco and Sawyers, 2002
+I. Vivanco, C.L. Sawyers
+The phosphatidylinositol 3-kinase AKT pathway in human cancer
+Nat. Rev. Cancer, 2 (2002), pp. 489–501
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2907)
+Wang et al., 2000
+J. Wang, G.J. Hannon, D.H. Beach
+Risky immortalization by telomerase
+Nature, 405 (2000), pp. 755–756
+
+View Record in Scopus | Cited By in Scopus (97)
+Wendel et al., 2004
+H.G. Wendel, E. De Stanchina, J.S. Fridman, A. Malina, S. Ray, S. Kogan, C. Cordon-Cardo, J. Pelletier, S.W. Lowe
+Survival signalling by Akt and eIF4E in oncogenesis and cancer therapy
+Nature, 428 (2004), pp. 332–337
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (572)
+Zhao et al., 2003
+J.J. Zhao, O.V. Gjoerup, R.R. Subramanian, Y. Cheng, W. Chen, T.M. Roberts, W.C. Hahn
+Human mammary epithelial cell transformation through the activation of phosphatidylinositol 3-kinase
+Cancer Cell, 3 (2003), pp. 483–495
+
+Article |  PDF (492 K) | View Record in Scopus | Cited By in Scopus (162)
+Zhao et al., 2004
+J.J. Zhao, T.M. Roberts, W.C. Hahn
+Functional genetics and experimental models of human cancer
+Trends Mol. Med., 10 (2004), pp. 344–350
+
+Article |  PDF (284 K) | View Record in Scopus | Cited By in Scopus (36)
+Corresponding author contact information
+

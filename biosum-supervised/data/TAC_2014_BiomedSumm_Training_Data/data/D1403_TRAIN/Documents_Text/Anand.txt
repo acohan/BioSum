@@ -1,0 +1,473 @@
+﻿Article
+AURORA-A amplification overrides the mitotic spindle assembly checkpoint, inducing resistance to Taxol
+Shubha Anand, Sue Penrhyn-Lowe, Ashok R VenkitaramanCorresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S1535-6108(02)00235-0
+  Open Archive
+Abstract
+The serine-threonine kinase gene AURORA-A is commonly amplified in epithelial malignancies. Here we show that elevated Aurora-A expression at levels that reflect cancer-associated gene amplification overrides the checkpoint mechanism that monitors mitotic spindle assembly, inducing resistance to the chemotherapeutic agent paclitaxel (Taxol). Cells overexpressing Aurora-A inappropriately enter anaphase despite defective spindle formation, and the persistence of Mad2 at the kinetochores, marking continued activation of the spindle assembly checkpoint. Mitosis is subsequently arrested by failure to complete cytokinesis, resulting in multinucleation. This abnormality is relieved by an inhibitory mutant of BUB1, linking the mitotic abnormalities provoked by Aurora-A overexpression to spindle checkpoint activity. Consistent with this conclusion, elevated Aurora-A expression causes resistance to apoptosis induced by Taxol in a human cancer cell line.
+
+Significance
+It has been proposed that spindle checkpoint dysfunction is an important cause of aneuploidy in human epithelial malignancies. However, cancer-associated mutations affecting known checkpoint genes like BUB1 or BUBR1 are rare. We show here that AURORA-A overexpression—estimated to occur in 12%-62% of breast and colorectal cancers—constitutes an alternative mechanism for spindle checkpoint dysregulation during carcinogenesis. Our findings have important implications for cancer chemotherapy. They suggest that AURORA-A amplification will predict poor responsiveness to Taxol and other agents that target the spindle checkpoint. If so, inhibitors of Aurora-A activity may be a valuable adjunct to these agents in the treatment of cancers that overexpress AURORA-A.
+
+Introduction
+AURORA-A is one of three related genes encoding serine-threonine kinases in mammalian cells, which are homologous to genes first discovered in lower eukaryotes. A conserved kinase catalytic domain is positioned toward the carboxyl termini of the proteins encoded by mammalian members of the AURORA family, whereas a long amino-terminal region exhibits much divergence (reviewed in Giet and Prigent 1999 and Bischoff and Plowman 1999). Based on similarities in sequence between the proteins they encode, members of the AURORA family have been grouped into three classes (A, B, and C) that encompass known members in other multicellular eukaryotes (reviewed in Nigg, 2001). S. cerevesiae cells have a single AURORA gene—IPL1—that cannot readily be assigned to any one class. The Drosophila and C. elegans genomes encode one member in each of the AURORA-A and AURORA-B classes (homologs for which have also been found in Xenopus), but it is currently unclear if AURORA-C genes exist in non-mammalian species.
+
+The precise function of the proteins encoded by the AURORA family is uncertain. Mutations in yeast IPL1p Chan and Botstein 1993, Biggins et al. 1999 and Kim et al. 1999 provoke mis-segregation of chromosomes resulting in aneuploidy. Yeast Ipl1p is necessary for histone H3 phophorylation (Hsu et al., 2000), which is temporally associated with chromosome condensation, but dispensable for mitosis. It is therefore unlikely that this function could account for segregation defects in IPL1 mutants. Instead, there is growing evidence that these defects arise from functions of IPL1p in the attachment of chromosomes to the mitotic spindle during mitosis. This is mediated by the kinetochore protein complex positioned at the centromere, which must acquire bipolar attachment to spindle microtubules during metaphase, for accurate segregation during anaphase. Thus, Ipl1p localizes to kinetochores during metaphase Biggins and Murray 2001 and He et al. 2001, participates in the binding of microtubules to kinetochores Biggins et al. 1999 and Tanaka et al. 2002, and can phosphorylate proteins involved in spindle assembly (Li et al., 2002).
+
+Chromosome mis-segregation and aneuploidy also occur following perturbation of Aurora-B homologs in dividing fly Adams et al. 2000 and Giet and Glover 2001, worm (Kaitna et al., 2000), and Xenopus mitotic cells (Kallio et al., 2002). How these come about remains unclear because Aurora-B homologs have been implicated in chromosome alignment and separation (Adams et al., 2001), chromosome condensation (Giet and Glover, 2001), association of motor proteins with kinetochores (Murata-Hori and Wang, 2002), as well as cytokinesis Schumacher et al. 1998 and Terada et al. 1998 in different species.
+
+Mammalian AURORA-A has attracted intense interest following the discovery that the chromosomal region (20q13.2) in which it is located commonly undergoes amplification in epithelial cancers Kallioniemi et al. 1994, Sen et al. 1997, Bischoff et al. 1998, Zhou et al. 1998 and Tanner et al. 2000. Estimates of the frequency of amplification are currently tentative, primarily because too few samples have been analyzed. Nonetheless, it is clear that 20q13.2 amplifications involving the AURORA-A gene occur in as many as 12%–50% of breast, colorectal, and gastric cancers. Unlike other genes located within the same chromosomal region, 20q13.2 amplification is associated with elevated levels of Aurora-A protein expression in cancer cells Bischoff et al. 1998, Zhou et al. 1998, Katayama et al. 1999, Takahashi et al. 2000, Sakakura et al. 2001 and Miyoshi et al. 2001, offering strong but circumstantial evidence for a causal role in carcinogenesis. Indeed, up to 62% of breast cancers overexpress Aurora-A, even where gene amplification is not detected (Miyoshi et al., 2001). In addition, immortalized rodent cell lines transfected with Aurora-A form colonies in vitro, and tumors when injected into nude mice Bischoff et al. 1998 and Zhou et al. 1998, suggesting that Aurora-A can promote transformation in certain settings.
+
+Little information is available concerning the functions of Aurora-A that may be relevant to its role in promoting carcinogenesis. Aurora-A homologs in several species localize to mitotic structures, including the centrosomes and mitotic spindle Gopalan et al. 1997, Kimura et al. 1997, Bischoff et al. 1998 and Zhou et al. 1998. There is evidence that they regulate centrosome function in Drosophila (Giet et al., 2002), C. elegans (Hannak et al., 2001), and in mammalian cells (Meraldi et al., 2002). In mammalian cells, Aurora-A exhibits a distinct temporal pattern of expression, peaking earlier than Aurora-B or Aurora-C during G2 and early stages in metaphase Gopalan et al. 1997 and Bischoff et al. 1998. Indeed, a function in histone H3 phosphorylation has recently been proposed Scrittori et al. 2001 and Crosio et al. 2002, akin to Ipl1p in yeast cells. Interestingly, mammalian Aurora-A (but not Aurora-B) can partially complement yeast strains deficient in Ipl1p (Bischoff et al., 1998), suggestive of overlaps in function. This lends support to the view, engendered by studies on Ipl1p function (Biggins et al., 1999), that dysregulated Aurora-A expression could perturb steps in chromosome attachment to the mitotic spindle. This is of potential importance to carcinogenesis, where it has been proposed that alterations in genes encoding regulators of spindle assembly may underlie the chromosomal instability frequently observed in human epithelial tumors (Cahill et al., 1998).
+
+This reasoning has prompted us to study the effects of Aurora-A overexpression in primary cultures of mammalian cells. Here, we present evidence that elevated Aurora-A activity works to trigger mitotic abnormalities through the BUB1 gene, encoding a component of the kinetochore protein complex that governs mitotic spindle assembly. These results have implications in models to explain the biological functions of these molecules as well as their roles in carcinogenesis, and in the chemotherapy of the significant fraction of human cancers that harbor AURORA-A amplifications.
+
+Results and discussion
+Overexpression of Aurora-A in primary cell cultures
+The experimental system we have employed (previously described in Lee et al., 1999) involves retrovirus-mediated gene transfer of a bi-cistronic expression construct (in which Aurora-A expression is linked to that of a GFP reporter) into primary mouse embryonic fibroblasts (MEFs) (Figures 1A and 1B). The Aurora-A protein encoded by the construct was FLAG tagged at its C terminus to facilitate detection by Western blotting. Flow cytometric measurement shows that over 50% of cells express the GFP reporter 48 hr following gene transfer (Figure 1C), enabling a pure population of GFP-positive cells to be isolated at this time by flow sorting for further analysis. To ensure consistency, all experimental analyses were performed 48 hr after isolation (Figure 1B) except where otherwise noted.
+
+Full-size image (64 K)
+Figure 1. 
+Overexpression of AURORA-A in primary cultures of MEFs
+A shows the bi-cistronic retroviral construct encoding Aurora-A linked through an internal ribosome entry sequence (IRES) to the green fluorescent protein (GFP) reporter.
+B summarizes the experimental timeline.
+C: Flow cytometric enumeration of cells expressing the GFP reporter alone (top panel) or the Aurora-A/IRES/GFP construct (lower panel). Ten thousand cells were analyzed per sample and gated using light scatter measurements to exclude dead cells and debris. The histograms show the relative cell number (linear scale) plotted against fluorescence intensity (logarithmic scale). The percentage of GFP-positive cells is marked. The results are typical of at least three independent experiments.
+D: Western blot analysis of Aurora-A expression in cells transduced with retroviral constructs encoding GFP alone or Aurora-A (tagged with FLAG epitope). The lanes contain equal quantities of cellular protein determined by the BCA assay. The top panel, probed with anti-FLAG, shows that the FLAG epitope is expressed only in cells transduced with Aurora-A. The lower panel, probed with anti-Aurora-A, compares expression of the endogenous and transduced proteins. Protein expression was quantitated by densitometric analysis, revealing 5- to 7-fold overexpression of Aurora-A in three independent experiments.
+E: Lack of colony formation in MEFs overexpressing Aurora-A. Cells transduced with GFP alone, or with Aurora-A/IRES/GFP, were isolated by flow sorting, plated at 300,000 cells/dish, and analyzed by Crystal violet staining 23 days afterwards.
+Figure options
+Aurora-A expression in freshly isolated GFP-positive cells was determined by Western blotting. The level of expression of the transfected FLAG protein is about 5-fold greater than of endogenous Aurora-A in control cells transfected with GFP alone (Figure 1D). Such an elevation accurately reflects the protein levels previously reported in cancer cells that harbor AURORA-A gene amplifications (for example, Zhou et al., 1998).
+
+Aurora-A-overexpressing cells were tested in a colony-forming assay. No colonies were observed up to 23 days after isolation (Figure 1E). This was not the result of loss of Aurora-A expression after a prolonged period in culture because Aurora-A protein levels remain elevated, and GFP expression persists (data not shown). These data contrast with prior reports in which immortalized rodent cell lines transfected with Aurora-A form colonies in vitro, and tumors in vivo when injected into nude mice Bischoff et al. 1998 and Zhou et al. 1998. This is not unexpected because unlike the primary cells used in our work, immortalized cell lines harbor pre-existing mutations in genes that control cell growth, probably making them more vulnerable to transformation by Aurora-A overexpression. The nature of these co-operating mutations is of interest but remains to be ascertained. We note, however, that abrogation of DNA damage checkpoints by trans-dominant p53 mutants, or of the apoptotic response by expression of BCL-2, is insufficient to evoke colony formation in Aurora-A-overexpressing primary cells (data not shown).
+
+Abnormal cell cycle and anueploidy follow elevated Aurora-A activity
+It has recently been reported (Meraldi et al., 2002) that overexpression of Aurora-A in HeLa epithelial cells causes accumulation with 4N DNA content in the G2/M phases of cell cycle, and induces polyploidy with >4N DNA content. We observe similar abnormalities in primary MEF cultures (Figure 2A), but find that they depend upon the kinase activity of Aurora-A. When a previously characterized point mutant of Aurora-A in which kinase activity has been ablated by alteration of a critical Lys residue (K162) in the ATP binding site to Met (Bischoff et al., 1998) was overexpressed, it induced neither abnormal cell cycle profiles nor polyploidy (Figure 2B). Therefore, abnormalities provoked by Aurora-A overexpression are the result of increased serine-threonine kinase activity and cannot merely be attributed to alternative effects of dysregulated protein expression.
+
+Full-size image (19 K)
+Figure 2. 
+Abnormal cell cycle and polyploidy after Aurora-A overexpression
+A: Cell cycle profiles from three independent experiments, showing the percentage of cells in each phase of the cell cycle. Bars show standard errors from the mean.
+B: Cell cycle profiles from cells transduced with GFP alone or with a mutant form of Aurora-A in which a lysine to methionine change at position 162 abolishes ATP binding and kinase activity. Cell cycle profiles determined by flow cytometry are shown, with relative cell number plotted against DNA content measured by propidium iodide incorporation, both on linear scales. The G1 phase (2N DNA content), the G2/M phase (4N DNA content), and the polyploid population with >4N DNA content are marked. Ten thousand cells were analyzed per sample, with gating on the fluorescence measurements to exclude cell aggregates. The results are typical of two independent experiments.
+Figure options
+Defective microtubule-kinetochore attachment and spindle formation
+Why should elevated Aurora-A activity result in cell cycle abnormalities and chromosomal instability? The yeast ortholog of mammalian Aurora kinases, IPL1p, has been implicated in the mechanisms that regulate the attachment of chromosomes to the mitotic spindle during the metaphase-anaphase transition during mitosis. Several data suggest that IPL1p may work at a proximal position in these mechanisms to regulate steps in the capture of microtubules by kinetochores Biggins et al. 1999 and Li et al. 2002, and after capture, to stabilize correctly attached kinetochores by sensing the tension exerted via bipolar microtubule attachment (Biggins and Murray, 2001). These functions are apparently dependent upon the kinase activity of IPL1p (Biggins et al., 1999).
+
+To ask if Aurora-A overexpression in mammalian cells dysregulates these processes, we examined the localization of the checkpoint proteins BubR1/Mad3L and Mad2 Hoffman et al. 2001, Skoufias et al. 2001 and Zhou et al. 2002, which are components of the mechanism that monitors spindle assembly at the metaphase-anaphase transition. During normal cell division, these proteins localize to the kinetochores in pro-metaphase. Upon chromosome alignment, Mad2 becomes undetectable at kinetochores (130- to 150-fold reduction in staining intensity); and BubR1 staining also diminishes, but only by about 4-fold Skoufias et al. 2001 and Zhou et al. 2002. Failure to correctly regulate the attachment of chromosomes to the mitotic spindle is expected to result in abnormalities in the pattern and/or persistence of Mad2 or BubR1 staining, reflecting activation of the spindle assembly checkpoint.
+
+Indeed, differences to the norm are observed in HeLa cells overexpressing Aurora-A (Figure 3), which were used here because it is not feasible to visually enumerate a large number of mitoses in primary MEFs. In Figures 3A–3C, bright, punctate BubR1 staining on the kinetochores of metaphase chromosomes is observed in both control and Aurora-A-overexpressing cells. In control cells, all metaphase chromosomes show accurate bipolar attachment to the spindle (Figure 3A). However, in the majority of mitoses (59%, 118 out of 200) in Aurora-A-overexpressing cells, even when a bipolar spindle is formed, chromosomes fail to align correctly at the metaphase plate and remain lagging or apparently unattached to the spindle microtubules (Figures 3B and 3C). Such abnormalities occur in no more than 5% of control metaphases (of 100 counted).
+
+Full-size image (121 K)
+Figure 3. 
+Defective microtubule-kinetochore attachment following Aurora-A overexpression
+A and D show the typical appearance of cells transfected with GFP alone, and B, C, and E show appearance of cells transfected with Aurora-A. The first column shows staining of kinetochores with BubR1 (red), the second, microtubule staining with anti-α-tubulin (green), the third, staining of DNA with PI (blue), while the fourth panel is a merged image. Arrows in B and C mark unaligned chromosomes. Abnormalities were seen in 118 (59%) of 200 bipolar Aurora-A-overexpressing metaphases, but no more than 5 of 100 controls. In D and E, the kinetochores are stained with CREST antiserum (red), the ends of microtubules with anti-EB1 antibody (green), while DNA is shown in blue. Merged images are in the second and third columns. Insets in the fourth column magnify the rectangles marked in the third. The CREST/EB1 staining overlaps to give a yellow signal in control metaphases (D) but not when cells overexpress Aurora-A (E).
+Figure options
+To firmly establish these conclusions, we co-stained mitoses with anti-EB1 (which highlights the end of growing microtubules) (Vaughan et al., 2002) and CREST antiserum (which labels kinetochores). These double-labeling experiments clearly resolve the failure of kinetochore-microtubule attachment in cells overexpressing Aurora-A as compared to controls (Figures 3D and 3E).
+
+Staining of the spindle microtubules in Aurora-A-overexpressing cells (Figures 4B–4D) further confirms that 11% of metaphases (n = 200) contain abnormally assembled spindles (often multipolar), to which many chromosomes lack attachment. Moreover, unequal distribution of chromosomes between daughters through the formation of tripolar and tetrapolar spindles occurs, resulting in mis-segregation and aneuploidy.
+
+Full-size image (54 K)
+Figure 4. 
+Defective spindle formation following Aurora-A overexpression
+A shows the typical appearance of control cells transfected with GFP alone, and B, C, and D, of cells transfected with Aurora-A. The first column shows staining of microtubules with anti-α-tubulin (green), the second column is DNA staining with PI (red), while the third column is a merged image.
+Figure options
+Striking and specific abnormalities in the pattern of Mad2 staining are observed in cells overexpressing Aurora-A. During pro-metaphase, both control and Aurora-A-overexpressing cells showed normal Mad2 staining at the kinetochores (Figures 5A and 5C). However, Aurora-A-overexpressing cells inappropriately entered anaphase despite the persistence of Mad2 staining, which is not normally present during anaphase (compare Figures 5B and 5D). Quantitatively, we find that 25 (80%) of 31 Aurora-A-overexpressing anaphases exhibit this abnormality, while it was never detected in any of 50 control anaphases.
+
+Full-size image (71 K)
+Figure 5. 
+Mis-localization of Mad2 during anaphase in Aurora-A-overexpressing cells
+A and B show control cells transfected with GFP alone and C and D, cells transfected with Aurora-A, in pro-metaphase (A and C) or anaphase (B and D). The first column shows Mad2 staining (green), the second shows DNA staining with PI (red), and the third column is a merged image. In anaphase (D), Mad2 is still at the kinetochores whereas in B, it is already cytoplasmic. Abnormal Mad2 staining was detected in 25/31 anaphases from Aurora-A-overexpressing cells, but in 0/50 from controls.
+Figure options
+We infer from these collective findings that Aurora-A overexpression provokes abnormalities in spindle formation, and the failure to complete spindle-microtubule attachment. Mad2 remains attached to the kinetochores, marking persistent activation of the checkpoint mechanism that monitors spindle assembly. However, elevated Aurora-A expression overrides the activated spindle assembly checkpoint, permitting cells to inappropriately enter anaphase despite the presence of these abnormalities.
+
+Nuclear division but not cytokinesis
+How do the aberrations in spindle assembly induced by Aurora-A overexpression subsequently affect progression through mitosis? To address this issue, we followed cell division by timelapse DIC microscopy. Single cells about to enter mitosis were photographed every 2.5 min. No major differences are apparent between control and Aurora-A-overexpressing MEFs for the first 15 min (Figure 6A). Evidence of mis-segregation becomes more and more apparent as the unequally sized daughter nuclei in the Aurora-A-overexpressing cell take shape (15′ onward). Control cells complete division by 22.5 min. In sharp contrast, the Aurora-A-overexpressing cell fails to complete division for over 60 min. Eventually, the cell flattens out, with two nuclei clearly visible within a single cytoplasm, indicating failure to undergo cytokinesis even after 135 min (Figure 6A). Indeed, although the Aurora-A-overexpressing cell creates a cleavage furrow (15 min), the furrow is never pinched off and cytokinesis is never completed. These abnormalities were typical of multiple mitoses. They are reflected in the abnormal formation of structures such as cytokinetic mid-bodies revealed by α-tubulin staining (data not shown).
+
+Full-size image (68 K)
+Figure 6. 
+Defective cytokinesis in Aurora-A-overexpressing cells
+A: Mock-transfected primary MEFs (upper two rows) and Aurora-A-overexpressing MEFs (bottom rows) were followed through mitosis by timelapse microscopy, and DIC images were captured every 2.5 min. Only some are shown. At 135′, the Aurora-A-overexpressing cell has two nuclei (marked by arrows) in a single cytoplasm.
+B: MEFS transfected with GFP, Aurora-A, dnBub1, or Aurora-A + dnBub1 were tracked over a number of cell divisions. The fluorescent cell-tracking dye PKH26 was incorporated into cell membranes at time 0, and the median fluorescence intensity of PKH26 staining determined every 2 days by flow cytometry. Cells transfected with GFP alone (open diamond) or dnBub1 alone (closed circle) showed the normal decrease in median fluorescence intensity over time. In contrast, cells transfected with Aurora-A (open square) showed only a very slight decrease, an abnormality which was ameliorated in cells transfected with Aurora-A + dnBub1 (open triangle).
+C: Enumeration of abnormal multi-nucleated cells exhibiting nuclear division but not cytokinesis. For each sample, 300 cells were examined by microscopy. Results are typical of three independent repeats. Bars show standard errors from the mean.
+Figure options
+To further substantiate mitotic arrest at the population level (as opposed to single cells), we followed the cell division rate of Aurora-A-overexpressing cells using the fluorescent aliphatic cell linker compound PKH26, commonly used for in vivo cell tracking applications (Hugo et al., 1992). PKH26 is covalently incorporated into cell membranes, and the intensity of fluorescence decreases with each cell division. Control and Aurora-A-expressing MEFs were coupled to PKH26 soon after isolation by cell sorting (Figure 1B), and the decrease in the fluorescence intensity of the dye was monitored every 2 days by flow cytometry. The cell cycle length was determined by plotting the median fluorescent dye intensity over time. As shown in Figure 6B, the peak fluorescence of PKH26 decreased to 50% in 4 days in mock transfected cells. In contrast, the fluorescence of Aurora-A-overexpressing cells barely declined over the same period, remaining at 93% of the initial value. When taken together with the images shown in Figure 6A, these results provide compelling evidence that Aurora-A overexpression results in failure of cell division through arrested cytokinesis.
+
+We do not think that these findings necessarily imply that Aurora-A has a direct function in cytokinesis that is disturbed when the protein is overexpressed. We discount this possibility on the grounds that Aurora-A expression normally peaks during G2 and metaphase, and it is not known to localize at or near the cleavage furrow during mitosis Bischoff et al. 1998 and Zhou et al. 1998. By these criteria, Aurora-B homologs are more likely to participate directly in cytokinesis Schumacher et al. 1998 and Terada et al. 1998. Instead, we suggest that the cytokinetic defects noted here are a delayed consequence of the ability of elevated Aurora-A expression to override the spindle assembly checkpoint, enabling inappropriate anaphase onset despite spindle checkpoint activation.
+
+Mitotic abnormalities and chromosomal instability are suppressed by mutant BUB1
+To test this proposal, we asked if mitotic abnormalities in Aurora-A-overexpressing cells could be relieved by inactivation of the spindle assembly checkpoint. We introduced by retrovirus-mediated gene transfer a truncated version of BUB1 known to work as a transdominant inhibitor Taylor and McKeon 1997 and Lee et al. 1999 into MEFs overexpressing Aurora-A. The truncated protein spans the N-terminal 330 residues, encompassing the kinetochore localization domain, but excluding the kinase catalytic domain (Lee et al., 1999). Mutant BUB1 expression was selected using puromycin, while Aurora-A overexpression was marked as before by the GFP reporter, using bi-cistronic retroviral constructs. Puromycin-resistant green cells coexpressing Aurora-A and mutant BUB1 were isolated by flow sorting for further analyses 72 hr after gene transfer.
+
+Consistent with our proposal, mutant Bub1 markedly suppresses G2/M accumulation when coexpressed with Aurora-A (data not shown). Moreover, the number of multi-nucleate cells, exhibiting nuclear division but not cytokinesis, is also strikingly decreased when enumerated by microscopy (Figure 6C), indicating that mutant Bub1 ameliorates cytokinetic abnormalities induced by Aurora-A overexpression. This is further substantiated by the PKH26 cell tracking experiment (Figure 6B), which also shows that mutant Bub1 relieves mitotic arrest in Aurora-A-overexpressing MEFs.
+
+Chromosomal instability marked by the appearance of polyploid cells with >4N DNA content induced by elevated Aurora-A expression is markedly attenuated by mutant Bub1. A simple explanation for this observation is that polypoidy is a direct consequence of defective cytokinesis, with “bi-nucleate” cells re-entering a cell cycle to generate “quadri-nucleate” progeny, and so on. Indeed, cells containing four nuclei are detected after Aurora-A overexpression. Therefore, since we have shown mutant Bub1 to suppress defective cytokinesis, it would also be expected to decrease the extent of polyploidy.
+
+It is important to note that, when expressed in human cell lines or primary MEFs, the truncated mutant form of Bub1 we have used in our work does not by itself delay progression through cell cycle, or cause the appearance of polyploid cells. Abnormalities of this kind only occur when cells expressing the mutant Bub1 are challenged with nocodazole Taylor and McKeon 1997 and Lee et al. 1999, a spindle poison that depolymerizes microtubules and thereby prevents correct attachment to the kinetochore from being achieved. Despite the fact that Aurora-A-overexpressing cells have defective microtubule-kinetochore attachment, we do not see an increase in polyploidy in the presence of dnBub1. Therefore, our work distinguishes the effects of Aurora-A overexpression on the spindle assembly checkpoint from those induced by nocodazole. Consistent with this idea, it has recently been demonstrated (Biggins and Murray, 2001) that the yeast Aurora-A homolog Ipl1p is not required for mitotic arrest induced by spindle depolymerization, but works in pathways that help to stabilize bipolar attachment of microtubules to kinetochores by sensing tension. If mammalian Aurora-A has a similar role in microtubule-kinetochore dynamics, our work raises the possibility that it will be dependent upon Bub1. However, the mechanism through which such a functional interaction between mitotic events and checkpoint control may occur is not clear from our work, and warrants future investigation.
+
+AURORA-A overexpression and paclitaxel (Taxol) sensitivity
+Collectively, our findings clearly demonstrate that Aurora-A overexpression triggers chromosomal instability by dysregulating mitotic processes such as kinetochore-microtubule dynamics monitored by the spindle assembly checkpoint. Since many common epithelial cancers exhibit AURORA-A gene amplification, we tested its effects on sensitivity to chemotherapeutic agents that target these processes. Such agents include paclitaxel (Taxol) and related taxanes, widely used in the treatment of refractory ovarian cancer, breast cancer, and other types of epithelial cancer (Rowinsky and Donehower, 1991). Taxol binds microtubules and causes kinetic suppression of microtubule dynamics by enhancing their polymerization. In this way, it inhibits cell cycle progression, arresting cells at the metaphase-anaphase transition and subsequently leading to apoptosis (Wang et al., 2000).
+
+We chose to use HeLa cells to test if perturbation of the spindle checkpoint induced by Aurora-A overexpression affects sensitivity to Taxol because they are highly sensitive to Taxol-induced apoptosis. Mock transfected and Aurora-A-overexpressing HeLa cells were treated with different concentrations of Taxol for 72 hr. The percentage of apoptotic cells was then measured using propidium iodide staining and flow cytometry to enumerate the sub G1 (<2N DNA content) population. As shown in Figure 7, Aurora-A overexpression induces a striking increase in resistance to Taxol-induced apoptosis, raising the possibility that AURORA-A gene amplification could contribute to drug resistance in the clinical setting of cancer chemotherapy. Moreover, these data suggest that Aurora-A's primary role could be in regulating the kinetochore-microtubule dynamics targeted by Taxol and other taxanes, with downstream effects mediated through the spindle assembly checkpoint.
+
+Full-size image (10 K)
+Figure 7. 
+Taxol resistance induced by Aurora-A overexpression
+The percentage of apoptotic cells enumerated by flow cytometry as described is plotted on the Y axis, against the dose of Taxol, on the X. The graph compares mock-transfected HeLa cells (closed triangle) against HeLa cells transfected with Aurora-A (closed square). Curves best fitted to the data points by a polynomial equation are shown. Bars depict standard errors from the mean at each data point. Results are typical of two independent repeats.
+Figure options
+Implications for cancer pathogenesis and treatment
+Here, we have addressed the hypothesis, stemming from work on the yeast Aurora homolog Ipl1p, that AURORA-A amplification may trigger genomic instability through interference with normal steps during mitosis that regulate kinetochore attachment to spindle microtubules. Consistent with this model, we demonstrate that elevated Aurora-A expression causes abnormalities in mitosis and chromosome segregation, which are suppressed by a truncated form of the Bub1 protein, known to inactivate the checkpoint mechanism that monitors microtubule attachment in mammalian cells. Therefore, Aurora-A overexpression works to perturb processes that are normally carried out or scrutinized by Bub1, culminating in instability of chromosome number during cell division.
+
+It has been appreciated for some time that a high proportion of epithelial malignancies in humans, including many of the most common cancers that occur in Europe and the United States, exhibit losses or gains in euploid chromosome number. The discovery that this phenotype in colorectal tumors could be the result of a loss-of-function mutation affecting the mitotic checkpoint gene, BUBR1, has underpinned the idea that mitotic checkpoint dysfunction promotes carcinogenesis by inducing chromosomal instability (Cahill et al., 1998). However, a significant challenge has been posed by subsequent studies (for example, Cahill et al. 1999, Yamaguchi et al. 1999, Myrie et al. 2000 and Haruki et al. 2001), which demonstrate that mutations affecting BUB1, BUBR1, and a number of other known mitotic checkpoint genes occur only very rarely in human epithelial malignancies.
+
+Our work suggests that AURORA-A amplification may constitute an alternative—and more commonly taken—route to mitotic checkpoint dysfunction during carcinogenesis. Unlike mutations affecting BUB1 or BUBR1, amplification of the 20q13.2 region containing the AURORA-A gene occurs in a high proportion of epithelial cancers, with estimates ranging from 20%–60% for breast and colorectal tumors, accompanied, where tested, by elevated Aurora-A expression. The levels of Aurora-A overexpression achieved in our experiments parallel those noted in human cancers and suggest that cancer-associated amplification of the gene will suffice to give rise to the biological effects noted here. Indeed, an association between Aurora-A overexpression and chromosomal instability in breast cancers has recently been reported (Miyoshi et al., 2001).
+
+Agents such as paclitaxel (Taxol) used widely in cancer chemotherapy work to arrest cell division by perturbing mitotic spindle assembly, a process that is monitored by the spindle assembly checkpoint. Consistent with the idea that Aurora-A overexpression dysregulates this checkpoint mechanism, we find that it confers increased resistance to Taxol in a human epithelial cancer cell line. Further detailed studies to assess the relevance of this observation to the clinical setting are warranted by the frequent occurrence of AURORA-A gene amplifications in common cancers that are treated with taxanes.
+
+Experimental procedures
+Mouse embryonic fibroblasts (MEFs)
+We used previously reported methods (Patel et al., 1998) to isolate and culture MEFs from 13.5–14.5 day embryos. Freshly initiated cultures were grown for 24–48 hr before use in experiments, or alternatively, before freezing for future experiments.
+
+Bi-cistronic retroviral constructs
+The bi-cistronic vector incorporating a picornaviral IRES preceding an E-GFP reporter has previously been described (Lee et al., 1999). A cDNA encoding Aurora-A was isolated by RT-PCR using oligonucleotide primers that incorporate appropriate restriction sites as well as a 3′ FLAG epitope tag, and cloned between the MluI and BamHI sites of the vector. Primers used were: BTAKDO, 5′-GTA CAC GCG TAC CAT GGA CCG ATC TAA AGA AAA CTG C-3′ and BTAKFLUP, 5′-CTA GCT CGA GGA TCC TAC TTG TCA TCG TCG TCC TTG TAG TCT GCC CCA GAC TGT TTG CTA GCT GAT TC-3′. The empty vector control encodes E-GFP alone. Site-directed mutagenesis to create the Lys162Met (kinase-dead) mutant of Aurora-A was performed with the Quickchange XL kit (Stratagene) using the primers: A2K162M-1, 5′-ATT CTG GCT CTT ATG GTG TTA TTC AAA GCT CAG CTG-3′ and A2K162M-2, 5′-GGC TTT CTC CAG CTG AGC TTT GAA TAA CAC CAT AAG-3′. All constructs were sequenced to verify their authenticity. The previously described cDNA encoding a truncated form of Bub1 with dominant-negative activity (Lee et al., 1999) was subcloned into the pBABEpuro retroviral vector to enable selection of transduced cells with puromycin.
+
+Retroviral gene transfer
+Infectious virions were packaged using the ecotropic Phoenix system (kind gift of Dr. G. Nolan, Stanford University, Stanford, California) as previously described (Lee et al., 1999). Target MEFs plated at 8 × 105 per 90 mm dish were infected with virions in culture supernatants supplemented with 8 μg/ml polybrene. GFP-expressing cells were isolated for further analyses by flow sorting 48 hr after transduction on a MoFlo cell sorter (Cytomation GmBH, Germany). For double transfer of Aurora-A/IRES/GFP and dnBub1/pBABEpuro, cells infected with both virions were selected in 1 μg/ml puromycin (Cayla, Toulouse, France) for 72 hr before flow sorting for viable, GFP-expressing cells.
+
+Transfection in HeLa
+Two × 105 cells in complete growth medium were plated in a 35 mm dish before transfection using the Gene Juice transfection reagent (Novagen, United Kingdom) according to the manufacturer's protocol. GFP-expressing cells were flow sorted as before, 48 hr after transfection.
+
+Immunoblot analysis
+MEFs transduced with control or AURORA-A encoding virions were harvested 48 hr post-infection, washed in ice-cold PBS, and resuspended in lysis buffer (50 mM Hepes [pH 7.4], 100 mMNaCl, 1% NP-40, 10 mM EDTA, 20 mM β-glycerophosphate, 1 mM sodium orthovanadate, 1 mM DTT, 1 mM phenylmethylsulfonyl fluoride, and protease inhibitors). After 30 min on ice, lysates were cleared by centrifugation at 13K rpm for 10 min at 4°C. Protein concentrations were estimated by the BCA method (Sigma Chemical Co., Poole, Dorset, United Kingdom). Twenty micrograms of total protein resolved by 10% SDS-PAGE was transferred to an Immobilon-P membrane (Millipore, Watford, United Kingdom) before Western blot detection using either anti-Flag M2 monoclonal antibody (Sigma) at 1 μg/ml or anti-IAK1 monoclonal antibody against Aurora-A (BD Transduction Laboratories, United Kingdom) at 1:500 dilution. Visualization was with horseradish peroxidase coupled secondary antibody and an enhanced chemiluminescence kit (Amersham, Amersham, United Kingdom).
+
+Colony formation
+Relative cell growth in plated cultures was measured as previously described (Serrano et al., 1997). Briefly, 3 × 105 cells were plated on 90 mm dishes 9 days after isolation by flow sorting and cultured for a total of 23 days. Plates were then fixed in cold 0.2% glutaraldehyde/0.5% formaldehyde, stained with 1% crystal violet in methanol, and washed extensively with water before photography.
+
+Cell cycle analysis
+Cells collected at the indicated time points were centrifuged at 1000 rpm for 5 min at room temperature. One × 106 cells were resuspended in 0.5 ml PBS, fixed by adding 4.5 ml of ice-cold 70% ethanol, and incubated overnight in fixative at 4°C. Before analysis, fixed cells were washed in PBS and incubated with propidium iodide staining solution (0.1% Triton X-100 in PBS; 0.02 mg/ml propidium iodide; 0. 2 mg/ml RnaseA) for 30 min at room temperature. Analysis was on a FACSCalibur cytometer (Becton-Dickinson, California) using CellQuest software, with appropriate gating on the FL2-A and FL2-W channels to exclude cell aggregates. Ten thousand events were analyzed per sample.
+
+Taxol sensitivity assay
+Equal numbers of flow sorted mock-transfected or Aurora-A-transfected HeLa cell were plated on 6 well plates in DMEM (Life Technologies, Grand Island, New York) containing 10% FBS. Taxol (Sigma Chemical Co.) at different concentrations was added fresh from a stock prepared in DMSO. The cells were exposed to the drug for 72 hr after which they were analyzed by propidium iodide staining and flow cytometry as described earlier.
+
+Immunofluorescence
+HeLa cells were plated on chamber slides at 50% confluency, washed with ice-cold PBS, and fixed with 1% paraformaldehyde-PBS for 20 min, then permeabilized in PBS containing 0.2% Triton X-100 as previously described (Skoufias et al., 2001). The following primary antibodies were used: monoclonal anti-α-tubulin (Clone B-5-1-2) (Sigma) at 1:1000 dilution; rabbit Mad2 antiserum (Babco, Richmond, California) at 1:100; anti-BubR1 antibody (a kind gift from F. McKeon, Harvard Medical School, Boston, Massachusetts) at 1:500 dilution; monoclonal anti-EB1 antibody (BD Transduction Laboratories) at 1:100 dilution; CREST antiserum (Cortex Biochem) at 1:1000 dilution. Fixed cells were stained with primary antibodies overnight at 4°C before development with Alexa Fluor 488 or Alexa Fluor 633 F(ab')2 fragment of goat anti-mouse IgG, Alexa Fluor 488 goat anti-rabbit IgG (Molecular Probes, Inc.), or Cy3 anti-human IgG (Jackson Immunoresearch Laboratories). All secondary antibodies were used at 1:1000 dilution. After extensive washing, slides were stained with propidium iodide for 5 min at room temperature. In some cases, TOTO-3 (Molecular Probes, Inc) was used for DNA staining at 1:1000 dilution, with added Rnase A (0.1μg/ml). Slides were mounted with Anti-Fade mounting medium (Vectashield). Images were collected on a Zeiss Axioplan 2 imaging confocal microscope. Where required, the images were processed using a deconvolution algorithm (Improvision Scientific, United Kingdom) to improve resolution.
+
+Cell division tracking
+Flow sorted primary MEFs expressing either GFP, Aurora-A, dnBub1, or Aurora-A + dnBub1 were harvested 72 hr after transduction and labeled with the cell trafficking dye PKH26 (Sigma, Cat. No. MINI-26), following manufacturer's instructions. After labeling, one-third of each sample was analyzed by flow cytometry (Becton Dickinson; 1 × 105 cells per sample) to determine the fluorescent intensity of the cells at time 0. The remaining cells were resuspended in complete medium and re-plated into 10 cm dishes. The cells were harvested every two days and the PKH intensity was measured as before. Flow cytometry data were analyzed using Cell QUEST Software to determine the median fluorescence intensity of PKH26 staining.
+
+Timelapse imaging and analysis
+Flow sorted GFP or Aurora-A-expressing MEFs were plated in ΔT 0.15 mm dishes (Bioptechs). For observation, culture medium was replaced with CO2-independent medium as described (Furuno et al., 1999). The cells were overlaid with mineral oil and were maintained at 37°C. DIC images were captured every two and a half minutes using a 40× objective on a Zeiss Axiovert 200 M microscope. Images were converted to TIFF format and exported to Adobe PhotoShop.
+
+Acknowledgements
+We thank Andrew Riddell for indispensable assistance with flow sorting and analysis, David Winder for generating the mutant construct, Anthony Mills and Mikhail Lomonosov for help with timelapse microscopy, Louise Armstrong from Improvision UK for help with deconvolution, Linda Ko Ferrrigno, and members of our laboratory for constructive criticism. This work was funded by grants to A.R.V. from Cancer Research UK and the Medical Research Council.
+
+References
+Adams et al. 2000
+R.R Adams, S.P Wheatleya, A.M Gouldsworthy, S.E Kandels-Lewis, M Carmena, C Smythe, D.L Gerloff, W.C Earnshaw
+INCENP binds the Aurora-related kinase AIRK2 and is required to target it to chromosomes, the central spindle and cleavage furrow
+Curr. Biol., 10 (2000), pp. 1075–1078
+
+Article |  PDF (194 K) | View Record in Scopus | Cited By in Scopus (196)
+Adams et al. 2001
+R.R Adams, H Maiato, W.C Earnshaw, M Carmena
+Essential roles of Drosophila inner centromere protein (INCENP) and aurora B in histone H3 phosphorylation, metaphase chromosome alignment, kinetochore disjunction, and chromosome segregation
+J. Cell Biol., 153 (2001), pp. 865–880
+
+Full Text via CrossRef
+Biggins and Murray 2001
+S Biggins, A.W Murray
+The budding yeast protein kinase Ipl1/Aurora allows the absence of tension to activate the spindle checkpoint
+Genes Dev., 15 (2001), pp. 3118–3129
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (246)
+Biggins et al. 1999
+S Biggins, F.F Severin, N Bhalla, I Sassoon, A.A Hyman, A.W Murray
+The conserved protein kinase Ipl1 regulates microtubule binding to kinetochores in budding yeast
+Genes Dev., 13 (1999), pp. 532–544
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (257)
+Bischoff and Plowman 1999
+J.R Bischoff, G.D Plowman
+The Aurora/Ipl1p kinase family: regulators of chromosome segregation and cytokinesis
+Trends Cell Biol., 9 (1999), pp. 454–459
+
+Article |  PDF (184 K) | View Record in Scopus | Cited By in Scopus (252)
+Bischoff et al. 1998
+J.R Bischoff, L Anderson, Y Zhu, K Mossie, L Ng, B Souza, B Schryver, P Flanagan, F Clairvoyant, C Ginther et al.
+A homologue of Drosophila aurora kinase is oncogenic and amplified in human colorectal cancers
+EMBO J., 17 (1998), pp. 3052–3065
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (790)
+Cahill et al. 1998
+D.P Cahill, C Lengauer, J Yu, G.J Riggins, J.K Willson, S.D Markowitz, K.W Kinzler, B Vogelstein
+Mutations of mitotic checkpoint genes in human cancers
+Nature, 392 (1998), pp. 300–303
+
+View Record in Scopus | Cited By in Scopus (1107)
+Cahill et al. 1999
+D.P Cahill, L.T da Costa, E.B Carson-Walter, K.W Kinzler, B Vogelstein, C Lengauer
+Characterization of MAD2B and other mitotic spindle checkpoint genes
+Genomics, 58 (1999), pp. 181–187
+
+Article |  PDF (138 K) | View Record in Scopus | Cited By in Scopus (142)
+Chan and Botstein 1993
+C.S Chan, D Botstein
+Isolation and characterization of chromosome-gain and increase-in-ploidy mutants in yeast
+Genetics, 135 (1993), pp. 677–691
+
+View Record in Scopus | Cited By in Scopus (180)
+Crosio et al. 2002
+C Crosio, G.M Fimia, R Loury, M Kimura, Y Okano, H Zhou, S Sen, C.D Allis, P Sassone-Corsi
+Mitotic phosphorylation of histone H3: spatio-temporal regulation by mammalian Aurora kinases
+Mol. Cell. Biol., 22 (2002), pp. 874–885
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (326)
+Furuno et al. 1999
+N Furuno, N den Elzen, J Pines
+Human cyclin A is required for mitosis until mid prophase
+J. Cell Biol., 147 (1999), pp. 295–306
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (156)
+Giet and Prigent 1999
+R Giet, C Prigent
+Aurora/Ipl1p-related kinases, a new oncogenic family of mitotic serine-threonine kinases
+J. Cell Sci., 112 (1999), pp. 3591–3601
+
+View Record in Scopus | Cited By in Scopus (164)
+Giet and Glover 2001
+R Giet, D.M Glover
+Drosophila aurora B kinase is required for histone H3 phosphorylation and condensin recruitment during chromosome condensation and to organize the central spindle during cytokinesis
+J. Cell Biol., 152 (2001), pp. 669–682
+
+Full Text via CrossRef
+Giet et al. 2002
+R Giet, D McLean, S Descamps, M.J Lee, J.W Raff, C Prigent, D.M Glover
+Drosophila Aurora A kinase is required to localize D-TACC to centrosomes and to regulate astral microtubules
+J. Cell Biol., 156 (2002), pp. 437–451
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (210)
+Gopalan et al. 1997
+G Gopalan, C.S Chan, P.J Donovan
+A novel mammalian, mitotic spindle-associated kinase is related to yeast and fly chromosome segregation regulators
+J. Cell Biol., 138 (1997), pp. 643–656
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (92)
+Hannak et al. 2001
+E Hannak, M Kirkham, A.A Hyman, K Oegema
+Aurora-A kinase is required for centrosome maturation in Caenorhabditis elegans
+J. Cell Biol., 155 (2001), pp. 1109–1116
+
+Full Text via CrossRef
+Haruki et al. 2001
+N Haruki, H Saito, T Harano, S Nomoto, T Takahashi, H Osada, Y Fujii
+Molecular analysis of the mitotic checkpoint genes BUB1, BUBR1 and BUB3 in human lung cancers
+Cancer Lett., 162 (2001), pp. 201–205
+
+Article |  PDF (157 K) | View Record in Scopus | Cited By in Scopus (43)
+He et al. 2001
+X He, D.R Rines, C.W Espelin, P.K Sorger
+Molecular analysis of kinetochore-microtubule attachment in budding yeast
+Cell, 106 (2001), pp. 195–206
+
+Article |  PDF (695 K) | View Record in Scopus | Cited By in Scopus (181)
+Hoffman et al. 2001
+D.B Hoffman, C.G Pearson, T.J Yen, B.J Howell, E.D Salmon
+Microtubule-dependent changes in assembly of microtubule motor proteins and mitotic spindle checkpoint proteins at PtK1 kinetochores
+Mol. Biol. Cell, 12 (2001), pp. 1995–2009
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (167)
+Hsu et al. 2000
+J.Y Hsu, Z.W Sun, X Li, M Reuben, K Tatchell, D.K Bishop, J.M Grushcow, C.J Brame, J.A Caldwell, D.F Hunt et al.
+Mitotic phosphorylation of histone H3 is governed by Ipl1/aurora kinase and Glc7/PP1 phosphatase in budding yeast and nematodes
+Cell, 102 (2000), pp. 279–291
+
+Article |  PDF (468 K) | View Record in Scopus | Cited By in Scopus (529)
+Hugo et al. 1992
+P Hugo, J.W Kappler, D.I Godfrey, P.C Marrack
+A cell line that can induce thymocyte positive selection
+Nature, 360 (1992), pp. 679–682
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (59)
+Kaitna et al. 2000
+S Kaitna, M Mendoza, V Jantsch-Plunger, M Glotzer
+Incenp and an aurora-like kinase form a complex essential for chromosome segregation and efficient completion of cytokinesis
+Curr. Biol., 10 (2000), pp. 1172–1181
+
+Article |  PDF (940 K) | View Record in Scopus | Cited By in Scopus (209)
+Kallio et al. 2002
+M.J Kallio, M.L McCleland, P.T Stukenberg, G.J Gorbsky
+Inhibition of aurora B kinase blocks chromosome segregation, overrides the spindle checkpoint, and perturbs microtubule dynamics in mitosis
+Curr. Biol., 12 (2002), pp. 900–905
+
+Article |  PDF (474 K) | View Record in Scopus | Cited By in Scopus (204)
+Kallioniemi et al. 1994
+A Kallioniemi, O.P Kallioniemi, J Piper, M Tanner, T Stokke, L Chen, H.S Smith, D Pinkel, J.W Gray, F.M Waldman
+Detection and mapping of amplified DNA sequences in breast cancer by comparative genomic hybridization
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 2156–2160
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (582)
+Katayama et al. 1999
+H Katayama, T Ota, F Jisaki, Y Ueda, T Tanaka, S Odashima, F Suzuki, Y Terada, M Tatsuka
+Mitotic kinase expression and colorectal cancer progression
+J. Natl. Cancer Inst., 91 (1999), pp. 1160–1162
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (133)
+Kim et al. 1999
+J.H Kim, J.S Kang, C.S Chan
+Sli15 associates with the ipl1 protein kinase to promote proper chromosome segregation in Saccharomyces cerevisiae
+J. Cell Biol., 145 (1999), pp. 1381–1394
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (102)
+Kimura et al. 1997
+M Kimura, S Kotani, T Hattori, N Sumi, T Yoshioka, K Todokoro, Y Okano
+Cell cycle-dependent expression and spindle pole localization of a novel human protein kinase, Aik, related to Aurora of Drosophila and yeast Ipl1
+J. Biol. Chem., 272 (1997), pp. 13766–13771
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (199)
+Lee et al. 1999
+H Lee, A.H Trainer, L.S Friedman, F.C Thistlethwaite, M.J Evans, B.A Ponder, A.R Venkitaraman
+Mitotic checkpoint inactivation fosters transformation in cells lacking the breast cancer susceptibility gene, Brca2
+Mol. Cell, 4 (1999), pp. 1–10
+
+Article |  PDF (274 K) | View Record in Scopus | Cited By in Scopus (125)
+Li et al. 2002
+Y Li, J Bachant, A.A Alcasabas, Y Wang, J Qin, S.J Elledge
+The mitotic spindle is required for loading of the DASH complex onto the kinetochore
+Genes Dev., 16 (2002), pp. 183–197
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (115)
+Meraldi et al. 2002
+P Meraldi, R Honda, E.A Nigg
+Aurora-A overexpression reveals tetraploidization as a major route to centrosome amplification in p53−/− cells
+EMBO J., 21 (2002), pp. 483–492
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (440)
+Miyoshi et al. 2001
+Y Miyoshi, K Iwao, C Egawa, S Noguchi
+Association of centrosomal kinase STK15/BTAK mRNA expression with chromosomal instability in human breast cancers
+Int. J. Cancer, 92 (2001), pp. 370–373
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (189)
+Murata-Hori and Wang 2002
+M Murata-Hori, Y Wang
+The kinase activity of Aurora B is required for kinetochore-microtubule interactions during mitosis
+Curr. Biol., 12 (2002), pp. 894–899
+
+Article |  PDF (215 K) | View Record in Scopus | Cited By in Scopus (152)
+Myrie et al. 2000
+K.A Myrie, M.J Percy, J.N Azim, C.K Neeley, E.M Petty
+Mutation and expression analysis of human BUB1 and BUB1B in aneuploid breast cancer cell lines
+Cancer Lett., 152 (2000), pp. 193–199
+
+Article |  PDF (136 K) | View Record in Scopus | Cited By in Scopus (53)
+Nigg 2001
+E.A Nigg
+Mitotic kinases as regulators of cell division and its checkpoints
+Nat. Rev. Mol. Cell Biol., 2 (2001), pp. 21–32
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (838)
+Patel et al. 1998
+K.J Patel, V.P Yu, H Lee, A Corcoran, F.C Thistlethwaite, M.J Evans, W.H Colledge, L.S Friedman, B.A Ponder, A.R Venkitaraman
+Involvement of Brca2 in DNA repair
+Mol. Cell, 1 (1998), pp. 347–357
+
+Article |  PDF (436 K) | View Record in Scopus | Cited By in Scopus (415)
+Rowinsky and Donehower 1991
+E.K Rowinsky, R.C Donehower
+The clinical pharmacology and use of antimicrotubule agents in cancer chemotherapeutics
+Pharmacol. Ther., 52 (1991), pp. 35–84
+
+Article |  PDF (5498 K) | View Record in Scopus | Cited By in Scopus (195)
+Sakakura et al. 2001
+C Sakakura, A Hagiwara, R Yasuoka, Y Fujita, M Nakanishi, K Masuda, K Shimomura, Y Nakamura, J Inazawa, T Abe, H Yamagishi
+Tumour-amplified kinase BTAK is amplified and overexpressed in gastric cancers with possible involvement in aneuploid formation
+Br. J. Cancer, 84 (2001), pp. 824–831
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (159)
+Schumacher et al. 1998
+J.M Schumacher, A Golden, P.J Donovan
+AIR-2: An aurora/ipl1-related protein kinase associated with chromosomes and midbody microtubules is required for polar body extrusion and cytokinesis in caenorhabditis elegans embryos
+J. Cell Biol., 143 (1998), pp. 1635–1646
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (206)
+Scrittori et al. 2001
+L Scrittori, F Hans, D Angelov, M Charra, C Prigent, S Dimitrov
+pEg2 aurora-A kinase, histone H3 phosphorylation, and chromosome assembly in Xenopus egg extract
+J. Biol. Chem., 276 (2001), pp. 30002–30010
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (45)
+Sen et al. 1997
+S Sen, H Zhou, R.A White
+A putative serine/threonine kinase encoding gene BTAK on chromosome 20q13 is amplified and overexpressed in human breast cancer cell lines
+Oncogene, 14 (1997), pp. 2195–2200
+
+View Record in Scopus | Cited By in Scopus (333)
+Serrano et al. 1997
+M Serrano, A.W Lin, M.E McCurrach, D Beach, S.W Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Skoufias et al. 2001
+D.A Skoufias, P.R Andreassen, F.B Lacroix, L Wilson, R.L Margolis
+Mammalian mad2 and bub1/bubR1 recognize distinct spindle-attachment and kinetochore-tension checkpoints
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 4492–4497
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (198)
+Takahashi et al. 2000
+T Takahashi, M Futamura, N Yoshimi, J Sano, M Katada, Y Takagi, M Kimura, T Yoshioka, Y Okano, S Saji
+Centrosomal kinases, HsAIRK1 and HsAIRK3, are overexpressed in primary colorectal cancers
+Jpn. J. Cancer Res., 91 (2000), pp. 1007–1014
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (88)
+Tanaka et al. 2002
+T.U Tanaka, N Rachidi, C Janke, G Pereira, M Galova, E Schiebel, M.J.R Stark, K Nasmyth
+Evidence that the Ipl1-Sli15 (Aurora kinase-INCENP) complex promotes chromosome bi-orientation by altering kinetochore-spindle pole connections
+Cell, 108 (2002), pp. 317–329
+
+Article |  PDF (843 K) | View Record in Scopus | Cited By in Scopus (401)
+Tanner et al. 2000
+M.M Tanner, S Grenman, A Koul, O Johannsson, P Meltzer, T Pejovic, A Borg, J.J Isola
+Frequent amplification of chromosomal region 20q12-q13 in ovarian cancer
+Clin. Cancer Res., 6 (2000), pp. 1833–1839
+
+View Record in Scopus | Cited By in Scopus (219)
+Taylor and McKeon 1997
+S.S Taylor, F McKeon
+Kinetochore localization of murine Bub1 is required for normal mitotic timing and checkpoint response to spindle damage
+Cell, 89 (1997), pp. 727–735
+
+Article |  PDF (3222 K) | View Record in Scopus | Cited By in Scopus (422)
+Terada et al. 1998
+Y Terada, M Tatsuka, F Suzuki, Y Yasuda, S Fujita, M Otsu
+AIM-1: a mammalian midbody-associated protein required for cytokinesis
+EMBO J., 17 (1998), pp. 667–676
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (305)
+Vaughan et al. 2002
+P.S Vaughan, P Miura, M Henderson, B Byrne, K.T Vaughan
+A role for regulated binding of p150(Glued) to microtubule plus ends in organelle transport
+J. Cell Biol., 158 (2002), pp. 305–319
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (145)
+Wang et al. 2000
+T.H Wang, H.S Wang, Y.K Soong
+Paclitaxel-induced cell death: where the cell cycle and apoptosis come together
+Cancer, 88 (2000), pp. 2619–2628
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (321)
+Yamaguchi et al. 1999
+K Yamaguchi, K Okami, K Hibi, S.L Wehage, J Jen, D Sidransky
+Mutation analysis of hBUB1 in aneuploid HNSCC and lung cancer cell lines
+Cancer Lett., 139 (1999), pp. 183–187
+
+Article |  PDF (117 K) | View Record in Scopus | Cited By in Scopus (53)
+Zhou et al. 1998
+H Zhou, J Kuang, L Zhong, W.L Kuo, J.W Gray, A Sahin, B.R Brinkley, S Sen
+Tumour amplified kinase STK15/BTAK induces centrosome amplification, aneuploidy and transformation
+Nat. Genet., 20 (1998), pp. 189–193
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (866)
+Zhou et al. 2002
+J Zhou, D Panda, J.W Landen, L Wilson, H.C Joshi
+Minor alteration of microtubule dynamics causes loss of tension across kinetochore pairs and activates the spindle checkpoint
+J. Biol. Chem., 277 (2002), pp. 17200–17208
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (87)

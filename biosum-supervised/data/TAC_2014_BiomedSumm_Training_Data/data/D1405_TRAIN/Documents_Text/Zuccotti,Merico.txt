@@ -1,0 +1,299 @@
+BMC Dev Biol. 2008; 8: 97.
+Published online Oct 6, 2008. doi:  10.1186/1471-213X-8-97
+PMCID: PMC2576189
+Maternal Oct-4 is a potential key regulator of the developmental competence of mouse oocytes
+Maurizio Zuccotti,corresponding author1 Valeria Merico,2 Lucia Sacchi,3 Michele Bellone,2 Thore C Brink,4 Riccardo Bellazzi,3 Mario Stefanelli,3 Carlo Alberto Redi,5 Silvia Garagna,2 and James Adjayecorresponding author4
+Author information ► Article notes ► Copyright and License information ►
+This article has been cited by other articles in PMC.
+Go to:
+Abstract
+Background
+
+The maternal contribution of transcripts and proteins supplied to the zygote is crucial for the progression from a gametic to an embryonic control of preimplantation development. Here we compared the transcriptional profiles of two types of mouse MII oocytes, one which is developmentally competent (MIISN oocyte), the other that ceases development at the 2-cell stage (MIINSN oocyte), with the aim of identifying genes and gene expression networks whose misregulated expression would contribute to a reduced developmental competence.
+
+Results
+
+We report that: 1) the transcription factor Oct-4 is absent in MIINSN oocytes, accounting for 2) the down-regulation of Stella, a maternal-effect factor required for the oocyte-to-embryo transition and of which Oct-4 is a positive regulator; 3) eighteen Oct-4-regulated genes are up-regulated in MIINSN oocytes and are part of gene expression networks implicated in the activation of adverse biochemical pathways such as oxidative phosphorylation, mitochondrial dysfunction and apoptosis.
+
+Conclusion
+
+The down-regulation of Oct-4 plays a crucial function in a sequence of molecular processes that leads to the developmental arrest of MIINSN oocytes. The use of a model study in which the MII oocyte ceases development consistently at the 2-cell stage has allowed to attribute a role to the maternal Oct-4 that has never been described before. Oct-4 emerges as a key regulator of the molecular events that govern the establishment of the developmental competence of mouse oocytes.
+
+Go to:
+Background
+The early stages of mammalian development are sustained by the presence of transcripts and proteins that have been produced and stored in the oocyte during folliculogenesis. This supply is used by the morula stage in sheep and rabbit preimplantation embryos; the 4- to 8-cell stage in humans and the 2-cell stage in the mouse, at which time zygotic gene activation (ZGA) occurs and novel transcripts and proteins are expressed by the embryonic genome [reviewed in [1,2]]. What is the exact maternal contribution during this period of transition from a maternal to an embryonic control of development, and how the maternal legacy of transcripts and proteins is orchestrated through the first mitotic divisions prior to ZGA, remains unclear. An altered maternal contribution to a correct expression of zygotic genes leads to a developmental block at the time of ZGA [1,2].
+
+This developmental block is a feature of a group of fully grown antral oocytes present in the mammalian ovary. Based on their chromatin organisation, antral oocytes can be classified in SN (surrounded nucleolus) oocytes, with a ring of chromatin surrounding the nucleolus and in NSN (not surrounded nucleolus) oocytes, with a more dispersed chromatin not surrounding the nucleolus [reviewed [3]]. These two types of gametes are present in the ovaries of all the mammalian species studied including rat [4], monkey [5], pig [6], mouse [7] and human [8]. They have been extensively studied in the mouse and a number of morphological and functional differences have been described. For example, in SN oocytes most of the centromeres localise around the compact nucleolus, whereas in NSN oocytes only the centromeres of chromosomes carrying the nucleolus organising regions are associated with the nucleolus [9,10]. Microtubule organising centres form around the nucleus of SN oocytes, but not around that of NSN oocytes [11,12]. These morphological differences have a biological relevance as they have been correlated with changes in transcription [13-15]. NSN antral oocytes are transcriptionally active and synthesise all classes of RNA, whereas SN antral oocytes are transcriptionally inactive [14].
+
+The most striking difference between the two types of oocytes is their developmental competence. When isolated from the mouse ovary, matured to metaphase II (MII) and fertilised in vitro, both types of oocytes (MIINSN derived from antral NSN oocytes and MIISN derived from SN oocytes) are capable of developing to the 2-cell stage, but only MIISN oocytes are developmentally competent beyond the 2-cell stage [16,17] and capable of reaching full term development [18].
+
+In this study we have compared the gene expression profile of developmentally incompetent MIINSN oocytes with that of developmentally competent MIISN oocytes, with the aim of identifying genes and gene expression networks whose misregulated expression would contribute to a reduced developmental competence. To this end, fully grown NSN and SN antral oocytes were isolated from the ovaries, cultured in vitro to the MII stage and their profiles of gene expression compared. We first focused our investigation on a group of maternal-effect genes whose altered expression leads to preimplantation developmental arrest. Then, using microarrays analysis and bioinformatic resources, we identified major groups of genes, gene expression networks and biochemical pathways characteristic of the developmentally incompetent MIINSN oocytes.
+
+Go to:
+Results
+Stella, a maternal-effect protein required for the oocyte-to-embryo transition, is not detected in developmentally incompetent MIINSN oocytes
+
+Our study was first focused on a specific group of gene transcripts and proteins accumulated during the oocyte growth to become necessary, after fertilisation, for successful embryogenesis. These gene products and their effects are well documented in organisms such as Drosophila melanogaster or Xenopus laevis [19,20], but in recent years, increasing evidence has been produced that maternal-effect genes are crucial in pre- [21-29] and post-implantation [28,30,31] development.
+
+We analysed the profile of expression of the following five genes, known for playing a role during the oocyte-to-embryo transition: Zar1, Npm2, Stella (Dppa3), Smarca4 (Brg1) and Prei3 [22,26,27,29].
+
+The relative number of transcripts of the genes analysed resulted equally represented in the two types of MII oocytes, with the exception of Stella that was 1.4-fold down-regulated (p < 0.05) in MIINSN oocytes (Figure ​(Figure1).1). Consistently with the down-regulation of gene expression, immunostaining with an antibody against Stella did not detect the presence of the protein either in NSN antral or MIINSN oocytes (Figure 2D, J), whilst in SN antral oocytes Stella co-localised around the nucleolus (Figure ​(Figure2A)2A) and in MIISN oocytes was dispersed within the whole ooplasm (Figure ​(Figure2G),2G), as already shown in ovulated MII oocytes [22].
+
+Figure 1
+Figure 1
+Down-regulation of Stella gene expression in MIINSN oocytes. The gel electrophoresis is representative of the relative number of transcripts for each of the five maternal-effect genes analysed. When comparing MIINSN with MIISN oocytes, of the five genes ...
+Figure 2
+Figure 2
+Stella and Oct-4 proteins are not detected in antral NSN and MIINSN oocytes. (A-C) An SN antral oocyte nucleus which shows the binding of the antibody against Stella (A) around its nucleolus (n); (B) the characteristic ring of DAPI-positive chromatin ...
+Stella down-regulation is a good candidate to explain the developmental block at the 2-cell stage that MIINSN oocytes encounter following fertilisation [22]. For this reason,, we wondered what induces the down-regulation of Stella in MIINSN oocytes and whether other genes could be involved in its regulation.
+
+Stella is positively regulated by Oct-4 and Nanog based on mouse Oct-4 ChiP-pet data [32], and it is also down-regulated upon RNAi-mediated Oct-4 knockdown in human embryonic stem (ES) and embryo carcinoma (EC) cells [33,34]. A recent study has demonstrated a strong link between Stella and Oct-4, showing that the expression of Stella in mouse ES cells is regulated by Oct-4 which is necessary for maintaining a specific chromatin structure within the locus containing Stella [35]. The authors observed collapse of higher order chromatin structure throughout the locus and down-regulation of Stella expression following depletion of the Oct-4 gene. Additional studies using microarray analysis of gene transcription in ES cells, have described Oct-4 involvement in the regulation of chromatin modelling and chromatin-mediated transcription regulation [36].
+
+Next in our investigation, we addressed the question whether the pattern of Oct-4 gene and protein expression in developmentally incompetent MIINSN and competent MIISN oocytes, in concert with the knowledge already acquired on this gene, could establish Oct-4 as a key regulator of Stella expression during the late phases of oocyte maturation.
+
+Oct-4, a chromatin-mediated regulator of Stella transcription, is down-regulated in developmentally incompetent MIINSN oocytes
+
+Oct-4 (Pou5f1), a nuclear transcription factor that belongs to the POU family, is involved in the regulation of the expression of a number of developmental genes and is required for the maintenance of cell pluripotency [for a review see [37]]. Oct-4 is expressed throughout folliculogenesis [38]; following fertilisation, it remains of maternal origin until the 2-cell embryo, then at the 4- to 8-cell stage is first expressed by the embryonic genome [40-42].
+
+In an earlier study, we identified a 2-fold down-regulated expression of Oct-4 in NSN antral oocytes compared to SN antral oocytes [39]. In the present work, we found that down-regulation of Oct-4 expression in MIINSN oocytes correlated with a down-regulated expression of its encoded protein as revealed by immunocytochemistry. Figure 2M–2R illustrates the immunostaining pattern of the Oct-4 protein in fully grown antral SN and NSN oocytes. While in SN oocytes the protein was intensely present and mostly localised around the nucleolus (Figure ​(Figure2M),2M), in NSN antral oocytes it was undetectable (Figure ​(Figure2P).2P). Following in vitro maturation to the MII phase, Oct-4 continued to be absent in MIINSN oocytes (Figure 2V–2X), whereas MIISN oocytes maintained the presence of the transcription factor localised around the MII plate and partially within the cytoplasm (Figure 2S–2U).
+
+In summary, since a sound experimental evidence has demonstrated that Oct-4 regulates the expression of Stella, Oct-4 and Stella down-regulation in MIINSN oocytes may contribute to the inability of these gametes to develop beyond the 2-cell stage. Our results suggest a novel role of maternal Oct-4 in the regulation of the developmental competence of the female gamete.
+
+Oct-4-dependent transcriptional networks have been described regulating self-renewal and pluripotency in human [33,34,43,44] and mouse [32,36] ES and EC cells and in human mesenchymal cells [44]. These studies demonstrate that Oct-4 may interact with other genes to regulate specific biological process.
+
+We next asked the question, is Oct-4 a key regulator of genes associated with or implicated in establishing developmental competence on oocytes? To address this, we first analysed by microarrays, global differences in gene expression between the two types of oocytes, and then searched for genes known to be regulated by Oct-4 (based on ChiP-on-chip and ChiP-Pet) in the array-derived list of regulated genes.
+
+Microarray-based analysis of the transcription profiles of developmentally competent and incompetent MII oocytes
+
+The microarray platform that we used allowed the analysis of a total of 39,450 genes and gene sequences (from now on they will be all referred to as genes). Of these, 1,421 genes were expressed only in MIINSN oocytes; 1,967 genes were expressed specifically in MIISN oocytes and 5,646 genes were expressed in both types of oocytes. A fold-change cut-off of at least 1.5 and a p value < 0.05 was set to filter the genes whose expression was differentially regulated. In the comparison between MIINSN and MIISN oocytes, we identified a total of 380 regulated genes, of these 303 were up-regulated in MIINSN oocytes, and 77 down-regulated (Additional file 1, see the 'MII-NSN vs. MII-SN' data sheet). Using the Gene Ontology (GO) annotations implemented in the Illumina platform (Illumina®, 2007) and also by DAVID (Database for Annotation, Visualization and Integrated Discovery) [45], we identified 12 major biological themes that characterised the group of regulated and annotated genes (Figure ​(Figure3A):3A): transcription regulation (18%, mainly negative regulation), protein biosynthesis (18%), cellular transport (16%), metabolism (11%), development (8%), signal transduction (8%), cell cycle (5%, mainly negative regulation), carbohydrate metabolism (4%), DNA metabolism (3%), cytoskeleton organisation (3%), apoptosis (3%), chromatin/nuclear organisation (2%) and various GO (1%); also, some genes fell into a group with undetermined GO (162 unannotated genes). An inherent weakness of the bioinformatic programs available to analyse the patterns of gene expression obtained following microarrays analysis is that they are limited to those genes with assigned annotations or published relationships, and depend on the accuracy of these annotations. The number of down-regulated and up-regulated genes in each of the 12 categories and the list of these genes are shown in Figure ​Figure3B3B and Additional file 2, respectively.
+
+Figure 3
+Figure 3
+Microarray-based analysis of the transcription profiles of MIINSN and MIISN oocytes. (A) Twelve major biological processes that characterise the group of regulated and annotated genes. (B) The number of down-regulated and up-regulated genes in each of ...
+To determine whether and how individual genes are inter-related or interact with each other and to search for biological pathways and the inter-relationships between network genes, we used the Ingenuity Pathways Analysis (IPA) version 5.5 analysis tool (Ingenuity® Systems, http://www.ingenuity.com). The genes of each gene group (called focus genes) were uploaded as tab-delimited text files and IPA queried the Ingenuity Pathways Knowledge Base for interactions between focus genes and all other objects stored in the knowledge base and generated a set of networks. Those networks with a score ≥ 2 were considered for further analyses (see Additional File 3 for details).
+
+Genes up-regulated in MIINSN oocytes
+
+The great majority (79.7%) of the regulated genes was up-regulated. When IPA was performed on the up-regulated focus genes, it generated 10 networks (Table ​(Table1)1) with a score of 2 or higher, of these, 9 had 10 or more focus genes (35 is the highest number of genes allowed in each network). Because a score of 2 or higher has a confidence of at least 99% of not being generated by chance, the high confidence level obtained, particularly in the top nine networks, reveals the strong interrelation and interaction among the genes that are up-regulated in MIINSN oocytes. Figure in Additional file 4 shows the top 9 gene expression networks obtained. The specificity of these networks to the biology of the ovary was confirmed using IPA to enquire public ovarian gene expression data sets. Network 1 has 23 focus genes and of these 21 (91.3%) are known to be expressed in ovarian tissue. In networks 2–9, the percentage of ovarian genes decreased from 85.7% (network 4) to 50% (network 7). Comparison with data sets of somatic tissues, namely liver, kidney, heart, lung and spleen gave a lower matching (data not shown).
+
+Table 1
+Table 1
+Networks generated from IPA for focus genes that are up-regulated in MIINSN oocytes when compared to MIISN oocytes.*
+The gene expression networks described were associated to top functions such as gene expression, protein synthesis, cancer, immunological disease, genetic disorder, dermatological disease and reproductive system disease, highlighting the complexity of the different transcriptional profile between developmentally incompetent MIINSN and competent MIISN oocytes.
+
+IPA was then interrogated to obtain a list of biochemical pathways that are representative of the functions in which the genes are involved. The genes up-regulated in MIINSN oocytes were assigned to more than 80 pathways; 11 of these were considered statistically significant (see Additional file 3) and the top six, together with the gene expression networks they belong to, are shown in Table ​Table2.2. These six pathways included a total of 15 different genes, the majority of which belonged to network 1 (4 genes), network 2 (4 genes) and network 4 (7 genes), and were associated with oxidative phosphorylation, mitochondrial dysfunction, galactose metabolism, purine metabolism, protein ubiquitination and GABA receptor signalling. Some of these genes are expressed within different pathways.
+
+Table 2
+Table 2
+Top six pathways generated from IPA for focus genes that are up-regulated in MIINSN oocytes and assigned to their respective gene networks.
+Genes down-regulated in MIINSN oocytes
+
+IPA analysis of the focus genes down-regulated in MIINSN oocytes generated 7 networks (Additional file 5 and Additional file 6) with a score ≥ 2 (the first three networks with a score of 10 or higher are represented in Additional file 7). The top functions associated with these gene expression networks include cell cycle, cell death, embryonic development and cancer. When IPA was interrogated to generate the biochemical pathways that were most representative of the functions attributed to the genes involved in the 7 networks, it created ten major pathways represented by 7 genes, 5 of which are associated with network 1 (2 genes) and network 2 (3 genes) (Additional file 8). Of these 5 genes, Atm and Mdm2 (a kinase and a transcription regulator, respectively) are involved in the G2/M DNA damage checkpoint regulation. The protein encoded by the Prdx6 gene is a member of the thiol-specific antioxidant protein family, involved in the regulation of phospholipids turnover as well as in the protection against oxidative injury.
+
+To identify the inter-relationship among up- and down-regulated genes, we next carried out an IPA analysis of all the regulated genes.
+
+Genes regulated in MIINSN oocytes
+
+The IPA of all the regulated genes, documented 25 gene expression networks with a score ≥ 2, of these 12 showed a score ≥ 12 (Additional file 9 and Additional file 10). Since most of the regulated genes are up-regulated (79.7%), as expected, the top functions represented by these networks are those already identified with the separated analysis of the up- and down-regulated genes (e.g., cell cycle, cellular compromise, cell death, cancer, cellular growth and proliferation found in networks 1–3), but it also revealed new categories (e.g., post-translational modification, connective tissue development, found in networks 2 and 3). In network 1, NF-kB is one of the principal nodes, together with insulin, calmodulin and protein phosphatase 2A (PP2A). Correct expression of NF-kB is required for the development of the mouse preimplantation embryo, as inhibition of its expression blocks development at the 2-cell stage [46]. PPA2 is one of the four major Ser/Thr phosphatases implicated in the negative control of cell growth and division.
+
+Further analysis of the most representative biochemical pathways identified nine top pathways, 6 of which are shown in Additional file 11. The most representative pathways were those assigned to protein ubiquitination, oxidative phosphorylation, ubiquinone biosynthesis, G2/M DNA damage checkpoint regulation, fructose and mannose metabolism, valine, leucine and isoleucine degradation, attributed mainly to network 1 (8 genes), network 3 (6 genes) and network 6 (5 genes).
+
+Genes expressed solely in MIINSN or MIISN oocytes
+
+The comparison of the expression profiles of MIINSN with that of MIISN oocytes, resulted in the identification of a small number of focus genes transcribed exclusively by MIINSN oocytes (29 genes, 8 annotated) (Additional file 1, see the 'Only in MII-NSN' data sheet) or MIISN oocytes (7 genes, 3 annotated) (Additional file 1, see the 'Only in MII-SN' data sheet). Three of the MIINSN oocyte-specific genes have an assigned GO function as negative regulators of cell proliferation (Ogfr and Mll1) or apoptosis (Spata4), whereas two annotated MIISN oocyte-specific genes are involved in processes of positive regulation of the cell cycle (Crebbp and Fank1). Out of 29 focus genes expressed only in MIINSN oocytes, 10 were assigned to a single gene expression network (Additional file 12, genes in bold; Additional file 13), with top functions that included hair and skin development and function, organ morphology and cellular development. The number of MIISN-specific genes was so low that it was not considered for further analysis.
+
+RT-PCR analysis of the relative number of transcripts of two MIINSN oocyte-specific genes (Jam2 and Ogfr) and two MIISN oocyte-specific genes (Crebbp and Fnip1) confirmed the microarrays data and the presence of a different number of transcripts in the two types of oocytes; however, whilst Jam2 and Ogfr were shown to be expressed only in MIINSN oocytes (Additional file 14); Crebbp and Fnip1 were not exclusive to MIISN oocytes, but instead showed respectively a 1.4-fold and 1.9-fold, higher number of transcripts in these gametes (Additional file 14). The presence of transcripts of Crebbp and Fnip1 genes in MIINSN oocytes is due to the overt single-cell sensitive of nested-PCR that amplified the low number of transcripts that were not detected by the less sensitive microarray analysis. When the number of the second PCR cycles was reduced to 22 (Crebbp) and 20 (Fnip1), expression was not detected in the MIINSN oocyte samples.
+
+In summary, the results of the microarray analysis as a whole, indicate that developmentally incompetent MIINSN oocytes have activated, among others, gene expression networks implicated in the regulation of biochemical pathways representative of the adverse biological status of these oocytes. These pathways include, oxidative phosphorylation, mitochondrial dysfunction and apoptosis.
+
+To identify Oct-4 target genes among the list of regulated genes, we compared our list with the published mouse and human Chip datasets of Oct-4-regulated genes [32,43].
+
+Eighteen Oct-4-regulated genes are associated with adverse gene expression networks in developmentally incompetent MIINSN oocytes
+
+This analysis identified a total of 25 target genes. When comparing MIINSN with MIISN oocytes, all these genes, with the exception of Odz2 and Zfp36l1 (down-regulated 1.6 and 2.3-fold, respectively), were up-regulated in MIINSN oocytes with fold changes ranging from 1.7 (Iqgap1) to 62.4 (Pgm2) (Figure ​(Figure4A).4A). Eighteen of these genes were part of gene expression networks 1 to 8 generated from the IPA of up-regulated genes in MIINSN oocytes (Table ​(Table1,1, genes highlighted in green), and thus involved in the activation of the same biochemical pathways described above. When IPA was specifically interrogated with the list of these 25 genes, including Oct-4, it generated 6 networks (Table ​(Table3)3) with a score ≥ 2, of these, the first two contained 12 and 7 (including Oct-4 itself) focus genes respectively, and had top functions centred around biological themes such as gene expression, cell death, cancer and reproductive system disease. Oct-4 was part of network 2 (Figure ​(Figure4B),4B), which included the TNF (tumor necrosis factor) pathway, a multifunctional proinflammatory cytokine that acts on several different signalling pathways to regulate apoptosis (directly activating the caspase cascade or through a mitochondria-mediated apoptosis [for a review see [47]]), NF-kB activation of inflammation, and activation of stress-activated protein kinases (SAPKs).
+
+Table 3
+Table 3
+Networks generated from IPA for Oct-4-regulated genes.*
+Figure 4
+Figure 4
+Down-regulation of Oct-4 expression in MIINSN oocytes induces the up-regulation of a group of Oct-4-regulated genes associated with gene expression networks involved in the activation of adverse pathways. (A) Twenty-five Oct-4-regulated genes present ...
+Interestingly, Zfp36l1 (Zinc finger protein 36), one of the two Oct-4-regulated genes that was down-regulated in MIINSN oocytes, is a member of the Tis11 family of early response genes, of which Zfp36l2, another maternal-effect gene crucial for early embryonic development, is also a member [48]. Perhaps, Zfp36l1 is a novel maternal-effect gene whose expression is regulated by Oct-4 and whose down-regulation may affect the developmental competence of MIINSN oocytes.
+
+The microarray analysis revealed a 1.8-fold down-regulation of Oct-4 expression in MIINSN oocytes. However, this data was not included in the list of regulated genes (Additional file 1) because its p value was equal to 0.051, thus just slightly above the set cut-off limit of p < 0.05. To understand how the expression of the Oct-4 gene was related with the adverse gene expression networks that we found activated in MIINSN oocytes, we next included the expression data for Oct-4 obtained by microarray analysis (despite its p value was 0.051) into the list of up-regulated or down-regulated genes and performed an IPA analysis. With the group of down-regulated genes, Oct-4 was included in network 1 (which has top functions as gene expression, cancer and cell cycle; see Additional file 5); with the up-regulated genes, Oct-4 was integrated into network 2, which has top functions as post-translational modification, cancer, genetic disorder and activates adverse pathways such as oxidative phosphorylation and mitochondrial dysfunction, see Table ​Table11 and Table ​Table2).2). In both cases the gene fell into the two top networks highlighting the central role it plays.
+
+In summary, down-regulation of Oct-4 expression in MIINSN oocytes induces the up-regulation of a group of 18 Oct-4-regulated genes that are part of the top gene expression networks involved in the activation of adverse pathways, i.e., oxidative phosphorylation, mitochondrial dysfunction and apoptosis.
+
+Go to:
+Discussion
+The maternal contribution of transcripts and proteins supplied to the zygote is crucial for the successful progression of preimplantation development. An aberrant oocyte inheritance leads to developmental arrest, mostly at the time of ZGA. To gain a better understanding of the genes, gene expression networks and biochemical pathways that may be activated/inactivated to compromise the developmental competence of MII oocytes, we compared two types of mouse MII oocytes, one which is developmentally competent and reaches full term development (MIISN oocyte), the other that ceases development at the 2-cell stage (MIINSN oocyte).
+
+Our study began with the analysis of the profile of expression of five maternal-effect genes. We showed that of these, only the expression of Stella was mis-regulated and its protein absent in MIINSN oocytes. The maternal inheritance of Stella is needed for correct preimplantation development [22]. When oocytes from Stella-/- females are inseminated with wild-type sperm, while fertilisation proceeds normally, development is severely altered resulting in a progressive decline in the number of blastocysts, with the majority of embryos that do not develop beyond the 2-cell stage. Stella encodes for a basic protein with a SAP-like domain and a splicing factor-like motif thought to have a role in chromosomal organisation or RNA metabolism. Stella binds both RNA and DNA in vitro, supporting its involvement in linking chromatin with RNA-related processes, as it is the case for other SAP-domain proteins [49]. A recent study has shown that Stella protects against inappropriate DNA demethylation in the maternal genome and at certain imprinted loci during epigenetic reprogramming after fertilisation [50]. Down-regulation of Stella, is likely to be partly causal of the developmental arrest at the 2-cell stage of MIINSN oocytes. Lack of Stella protein in MIINSN oocytes is a consequence of the down-regulation of Oct-4, which is known to regulate Stella expression in ES and EC cells. This implies a pivotal role for maternal Oct-4 in the establishment of the developmental legacy of female gametes. The down-regulation of Oct-4/Stella in NSN GV oocytes compromises their developmental competence.
+
+In favour of the hypothesis- "factors present in MIISN oocytes, but absent in MIINSN oocytes, govern their developmental competence", Inoue and collaborators [18] have micromanipulated fully grown SN and NSN antral oocytes to demonstrate that the developmental competence of SN oocytes is dependent on unknown cytoplasmic factor(s) that are released from the germinal vesicle at the time of MII formation and that these ooplasmic factors are not contained in the GV of NSN oocytes. Both Stella and Oct-4 proteins localise within the germinal vesicle of the SN antral oocytes; following meiosis resumption and germinal vesicle break-down, Oct-4 is circumscribed mainly around the MII-plate area, while Stella is released within the ooplasm. The association of Oct-4 (and Stella) with the nucleolus in antral SN oocytes may have a functional significance. It was previously shown that Oct-4 is closely associated with RNA polymerase II in the nucleolus of oocytes (nucleolus-like bodies, NLBs) [51]; since NLBs are the only coilin-containing structures at the end of pre-ovulatory stages of oogenesis, they may represent sites for the storage of the transcriptional machinery needed after fertilisation and of which Oct-4 may be a key component [51]. This association of Oct-4 with the NLBs may secure a transfer of the maternally inherited protein through the NLB to the zygote [51,52], where Oct-4 perhaps continues to be necessary as a regulator of the molecular events leading to ZGA.
+
+Our microarray analysis indicate that the role of Oct-4 as a regulator of gene expression in MII oocytes extends beyond the regulation of Stella expression and has an inhibitory effect on the expression of Oct-4-regulated genes in developmentally competent MIISN oocytes. Down-regulation of Oct-4 in MIINSN oocytes correlates with the up-regulation of 23 Oct-4-regulated genes involved in the activation of gene expression networks and biochemical pathways that most represent the negative legacy of MIINSN oocytes. These pathways include oxidative phosphorylation, mitochondrial dysfunction and cell death. Following fertilisation, these negative features might be passed on to the zygote and constitute a detrimental maternal legacy that affects further development.
+
+Oxidative phosphorylation and mitochondrial dysfunction are biochemical pathways principal to the first two top gene expression networks described for the group of up-regulated genes (these represent the majority of the regulated genes, 79.7%), which emphasises the central role that these genes and mitochondria play in the biochemistry of the developmentally incompetent MIINSN oocytes. In addition to producing most of the cell's ATP, recent studies have demonstrated that mitochondria have a central role in cellular processes such as the regulation of intracellular redox potential and control of apoptosis in oocytes and preimplantation embryos [for a review see [53]]. Accumulation of reactive oxygen species (ROS) induces apoptosis in mouse zygotes, and mitochondria are involved in the early phase of oxidative stress-induced apoptosis [54], that leads to developmental arrest and alterations of the ZGA [55,56]. Also, changes in the levels of ROS regulate a number of transcription factors critical in early development, these include PEBP2, AP-1, p53 and NF-kB [57-59]. The two-fold role for mitochondria, to maintain life or to commit to cell death, may represent a quality control system in the female gamete and in the early embryo that will determine whether the embryo proceeds further into development or is quickly eliminated [53].
+
+If down-regulation of Oct-4 activates these negative pathways, what does upstream of Oct-4 regulate its expression? We have previously shown an effect of PMSG (a gonadotropin which mimics an FSH action) on Oct-4 gene expression during folliculogenesis, demonstrating a hormonal regulation of oocyte-specific gene expression [39]. PMSG, which was used in this study to prime females before oocytes isolation, may enter the gamete with the involvement of a FSH-R signaling pathway that, through the modulation of c-kit on the surface of oocytes [60], conveys the gonadotropin signal into the nucleus and then act upon the transcription of several genes. One candidate could be GCNF (germ cell nuclear factor), a member of the nuclear receptor family, critical in controlling basal activities or hormonal responsiveness of numerous target genes and known to repress Oct-4 expression [37]. GCNF may be a target of PMSG action that leads to the down-regulation of Oct-4 expression in MIINSN oocytes. This hypothesis needs to be tested, however, it is interesting that in our microarray analysis, GCNF was 1.6-fold up-regulated in MIINSN, although, because of its p value > 0.05, it was excluded from the list of regulated genes.
+
+Go to:
+Conclusion
+In summary, our study of developmentally competent and incompetent mouse MII oocytes has identified a small number of genes, gene expression networks and biochemical pathways whose activation is critical for the correct progression of the early stages of preimplantation development and regulate the 2-cell block in MIINSN oocytes. Our data constitute a framework for further exploration of the genes and related transcriptional networks dedicated to establishing and preservating the developmental competence of mammalian oocytes. Based on our results, we have drawn a working hypothesis that assigns a role to some of the molecular players that have been described in this and other studies. The use of a model study in which the MII oocyte ceases development consistently at the 2-cell stage has allowed to illustrate a role for the maternal Oct-4 that has never been described before. Oct-4 emerges as a key regulator of the molecular processes that govern the establishment of the maternal legacy of MII oocytes required for the transition from a gametic to an embryonic control of development. A sound knowledge of the orchestrating molecules and the biochemical pathways entailed during the very early stages of development will allow a better understanding of the molecular mechanism(s) that determine the block of development at the time of ZGA, which in humans is the cause of a loss of a high percentage of embryos obtained by in vitro fertilisation. A thorough functional analysis of these genes in preimplantation embryos derived from MIINSN and MIISN oocytes is our next challenge.
+
+Go to:
+Methods
+Oocytes isolation and maturation
+
+Four to six week-old B6C3F1 female mice (Charles River, Como, Italy) were injected with 3.5 I.U. PMSG (Pregnant Mare Serum Gonadotropin, Folligon, Intervet Srl, Italy) and sacrificed 48 hr later. Ovaries were isolated and antral oocytes with a diameter > 70 nm were collected in M2 medium by puncturing the ovarian surface with a sterile needle, they were transferred into subsequent washes of M2 medium, until they appeared, under an inverted microscope, completely free of cumulus cells. Then, they were classified into NSN and SN oocytes and matured to the MII stage (for details, see Additional file 3 and [61]). The majority of SN (85%) and NSN (65%) antral oocytes matured to the MII stage. Approximately 50 MIINSN or MIISN oocytes were transferred in single 0.2 ml eppendorf tubes containing 50 μl Trizol Reagent (Invitrogen), for microarray analysis. For RT-PCR (Retro Transcription-Polymerase Chain Reaction) analysis, individual MII oocytes were transferred in 0.5 μl medium to 0.2 ml eppendorf tubes containing 1.5 μl lysis buffer [17].
+
+RNA isolation and RT-PCR amplification
+
+Relative amounts of transcripts of the five maternal-effect genes (Zar1, Stella, Smarca4, Npm2, and Prei3) and of the MIINSN-specific (Jam2 and Ogfr) and MIISN-specific (Crebbp and Fnip1) genes were determined by using a semi-quantitative RT-PCR assay (for a detailed description of the assay, see Additional file 3 and ref. 39). For each experiment, at least 5 single MIINSN or MIISN oocytes were analysed. Statistical analysis was done using the SigmaStat 3.0 software and comparing samples with the t-test. Differences were considered significant when p < 0.05.
+
+Immunocytochemistry
+
+Oocytes were fixed with freshly prepared 4% paraformaldehyde for 30 min and then permeabilised with 0.5% Triton X-100 for 15 min at 4°C. To suppress non-specific binding of antibodies, the gametes were incubated with 0.5% blocking reagent (Roche, Boston, MA) in TNT buffer (0.1 M Tris-HCl, pH 7.5, 0.15 M NaCl, 0.05% Tween-20) for 20 min at 4°C. Immunostaining was performed with rabbit anti-Oct-4 polyclonal antibody (Stanta Cruz Biotechnology; sc 9081, 1:500 dilution) or mouse anti-Stella monoclonal antibody (Millipore; MAB 4388, 1:1000 dilution). Oocytes were incubated with primary antibodies for 1 h at 37°C. The primary antibodies were detected using appropriated secondary antibodies diluted in TNT for 1 h at 37°C: Alexa Fluor488-goat anti-rabbit IgG (Molecular Probes; 1:6000 dilution) for Oct-4 detection and Alexa Fluor488-goat anti-mouse IgG (1:10000 dilution) for Stella detection. After immunostaining, oocytes were washed in three changes of TNT for 15 min at 4°C, and then counterstained with DAPI (0.2 μg/ml in PBS for 5 min) and mounted in Vectashield (Vector).
+
+Illumina bead chip hybridisations
+
+Two independent pools of MIINSN or MIINSN oocytes consisting of approximately 50 oocytes per pool were used as the basis of our study. Messenger RNA was isolated using Oligo-dT-linked magnetic beads as described in Adjaye et al. [62,63]. In order to generate enough RNA for the subsequent microarray analysis, a two-round linear amplification protocol was adopted to generate biotin-labelled cRNA employing a linear amplification kit (Ambion, Austin, TX, United States). 1.5 μg of cRNA was used for the hybridisation reaction. Washing, Cy3-streptavidin staining, and scanning were performed on the Illumina BeadStation 500 (Illumina, San Diego, CA, United States) platform using reagents and following protocols supplied by the manufacturer. cRNA samples were hybridised onto Illumina mouse-6 BeadChips.
+
+Bioinformatic analysis
+
+All basic expression data analysis was carried out using the manufacturer's software BeadStudio 1.0. Raw data were background-subtracted and normalised using the "rank invariant" algorithm. Normalised data were then filtered for significant expression on the basis of negative control beads. Selection for differentially expressed genes was performed on the basis of arbitrary thresholds for fold changes plus statistical significance according to the Illumina t-test error model.
+
+Gene annotation was first performed with the BeadStudio software, combined with DAVID annotation tool [45]. File management, automated annotation and other statistical analyses not reported in the paper were performed with Matlab® Bioinformatics Toolbox. The networks and pathways were generated with Ingenuity Pathways Analysis (Ingenuity® Systems, http://www.ingenuity.com; for details see Additional file 3).
+
+Go to:
+Authors' contributions
+ZC conceived the study, participated in its design and coordination, participated to the bioinformatic analyses and worked to the drafting of the manuscript; VM did the immunocytochemistry analyses; LS, RB and MS did the bioinformatic analyses; MB did the RT-PCR analyses; TCB did the microarrays analysis; CAR worked to the elaboration of the study; SG conceived the study, participated in its design and coordination and worked to the drafting of the manuscript; JA conceived the study, participated in its design and coordination, did the microarrays analyses and worked to the drafting of the manuscript.
+
+Go to:
+Supplementary Material
+Additional file 1:
+List of regulated genes in the comparison between MIINSN vs. MIISN.
+
+Click here for file(320K, xls)
+Additional file 2:
+Based on their gene ontology, genes that were up-regulated or down-regulated in MIINSN oocytes were assigned to twelve biological categories most representative of their function.
+
+Click here for file(31K, doc)
+Additional file 3:
+Additional Methods.
+
+Click here for file(57K, doc)
+Additional file 4:
+Top nine gene expression networks generated by IPA with the list of genes up-regulated in MIINSN oocytes. Grey symbols are focus genes (use the zoom in tool to enlarge the networks). See Additional file 6 for the symbols legend.
+
+Click here for file(10M, tiff)
+Additional file 5:
+Networks generated by IPA for focus genes that are down-regulated in MIINSN oocytes when compared to MIISN oocytes.
+
+Click here for file(29K, doc)
+Additional file 6:
+Legend of symbols used in the figures shown in Additional files 4, 7, 10 and 13.
+
+Click here for file(1.6M, tiff)
+Additional file 7:
+Top three gene expression networks generated by IPA with the list of genes down-regulated in MIINSN oocytes. Grey symbols are focus genes (use the zoom in tool to enlarge the networks).
+
+Click here for file(4.8M, tiff)
+Additional file 8:
+Pathways generated by IPA for focus genes that are down-regulated in MIINSN oocytes.
+
+Click here for file(42K, doc)
+Additional file 9:
+Networks generated by IPA for all the focus genes that are regulated in MIINSN oocytes when compared to MIISN oocytes.
+
+Click here for file(36K, doc)
+Additional file 10:
+Top twelve gene expression networks generated by IPA with the list of genes regulated in MIINSN oocytes. Green symbols, genes up-regulated; red symbols, genes down-regulated (the intensity of the colour indicates the level of regulation) (use the zoom in tool to enlarge the networks).
+
+Click here for file(13M, tiff)
+Additional file 11:
+Pathways generated by IPA for focus genes that are regulated in MIINSN oocytes.
+
+Click here for file(38K, doc)
+Additional file 12:
+Networks generated by IPA for focus genes that are expressed exclusively MIINSN and not in MIISN oocytes.
+
+Click here for file(24K, doc)
+Additional file 13:
+Gene expression network 1 generated by IPA with the list of genes expressed solely in MIINSN oocytes. Grey symbols are focus genes (use the zoom in tool to enlarge the networks).
+
+Click here for file(6.2M, tiff)
+Additional file 14:
+The gel electrophoresis shows the product of amplification of two genes expressed solely in MIINSN oocytes (Ogfr and Jam2) and two genes expressed more abundantly in MIISN oocytes (Crebbp and Fnip1). Gapdh, endogenous control whose transcripts are present equally in the two types of oocytes; 1–3, three different single MIINN oocytes; 4–6, three different single MIINSN oocytes. [empty]1, RT blank; [empty]2, first PCR blank; [empty]3, second PCR blank; M, low mass ladder marker.
+
+Click here for file(6.5M, tiff)
+Go to:
+Acknowledgements
+We thank Pamela Kepper for carrying out the microarray hybridisations. Funding for this study was provided by: FIRB 2005 (Project N. RBIP06FH7J), Fondazione CARIPLO 2006, UNIPV-Regione Lombardia Project on Material Science and Biomedicine, Fondazione I.R.C.C.S. Policlinico San Matteo, Millipore, Olympus Foundation Science for Life, the Max Planck Society.
+
+Go to:
+References
+Schultz RM. The molecular foundations of the maternal to zygotic transition in the preimplantation embryo. Hum Reprod Update. 2002;8:323–331. doi: 10.1093/humupd/8.4.323. [PubMed] [Cross Ref]
+Minami N, Suzuki T, Tsukamoto S. Zygotic gene activation and maternal factors in mammals. J Reprod Dev. 2007;53:707–15. doi: 10.1262/jrd.19029. [PubMed] [Cross Ref]
+Zuccotti M, Garagna S, Merico V, Monti M, Redi CA. Chromatin organisation and nuclear architecture in growing mouse oocytes. Mol Cell Endocrinol. 2005;234:11–17. doi: 10.1016/j.mce.2004.08.014. [PubMed] [Cross Ref]
+Mandl AM. Preovulatory changes in the oocyte of the adult rat. Proc R Soc Lond (Biol) 1962;158:105–118.
+Lefevre B, Gougeon A, Nome F, Testart J. In vivo changes in oocyte germinal vesicle related to follicular quality and size at midfollicular phase during stimulated cycles in the cynomolgus monkey. Reprod Nutr Dev. 1989;29:523–532. doi: 10.1051/rnd:19890501. [PubMed] [Cross Ref]
+Crozet N, Motlik J, Szollosi D. Nucleolar fine structure and RNA synthesis in porcine oocytes during early stages of antrum formation. Biol Cell. 1981;41:35–42.
+Mattson BA, Albertini DF. Oogenesis: Chromatin and microtubule dynamics during meiotic prophase. Mol Reprod Dev. 1990;25:374–383. doi: 10.1002/mrd.1080250411. [PubMed] [Cross Ref]
+Parfenov V, Potchukalina G, Dudina L, Kostyuchek D, Gruzova M. Oocyte nucleus and the karyosphere formation (electron microscopic and autoradiographic data) Gamete Res. 1989;22:219–231. doi: 10.1002/mrd.1120220209. [PubMed] [Cross Ref]
+Debey P, Szollosi MS, Szollosi D, Vautier D, Girousse A, Besombes D. Competent mouse oocytes isolated from antral follicles exhibit different chromatin organization and follow different maturation dynamics. Mol Reprod Dev. 1993;36:59–74. doi: 10.1002/mrd.1080360110. [PubMed] [Cross Ref]
+Longo F, Garagna S, Merico V, Orlandini G, Gatti R, Scandroglio R, Redi CA, Zuccotti M. Nuclear localization of NORs and centromeres in mouse oocytes during folliculogenesis. Mol Reprod Dev. 2003;66:279–90. doi: 10.1002/mrd.10354. [PubMed] [Cross Ref]
+Wickramasinghe D, Ebert KM, Albertini DF. Meiotic competence acquisition is associated with the appearance of M-phase characteristics in growing mouse oocytes. Dev Biol. 1991;143:162–172. doi: 10.1016/0012-1606(91)90063-9. [PubMed] [Cross Ref]
+Can A, Semiz O, Cinar O. Centrosome and microtubule dynamics during early stages of meiosis in mouse oocytes. Mol Hum Reprod. 2003;9:749–756. doi: 10.1093/molehr/gag093. [PubMed] [Cross Ref]
+Christians E, Boiani M, Garagna S, Dessy C, Redi CA, Renard JP, Zuccotti M. Gene expression and chromatin organisation during mouse oocyte growth. Dev Biol. 1999;207:76–85. doi: 10.1006/dbio.1998.9157. [PubMed] [Cross Ref]
+Bouniol-Baly C, Hamraoui L, Guibert J, Beaujean N, Szollosi MS, Debey P. Differential transcriptional activity associated to chromatin configuration in fully grown germinal vesicle mouse oocytes. Biol Reprod. 1999;60:580–587. doi: 10.1095/biolreprod60.3.580. [PubMed] [Cross Ref]
+Miyara F, Migne C, Dumont-Hassan M, Le Meur A, Cohen-Bacrie P, Aubriot FX, Glissant A, Nathan C, Douard S, Stanovici A, Debey P. Chromatin configuration and transcriptional control in human and mouse oocytes. Mol Reprod Dev. 2003;64:458–470. doi: 10.1002/mrd.10233. [PubMed] [Cross Ref]
+Zuccotti M, Giorgi Rossi P, Martinez A, Garagna S, Forabosco A, Redi CA. Meiotic and developmental competence of mouse antral oocytes. Biol Reprod. 1998;58:700–704. doi: 10.1095/biolreprod58.3.700. [PubMed] [Cross Ref]
+Zuccotti M, Ponce RH, Boiani M, Guizzardi S, Govoni P, Scandroglio R, Garagna S, Redi CA. The analysis of chromatin organisation allows selection of mouse antral oocytes competent for development to blastocyst. Zygote. 2002;10:73–78. doi: 10.1017/S0967199402002101. [PubMed] [Cross Ref]
+Inoue A, Nakajima R, Nagata M, Aoki F. Contribution of the oocyte nucleus and cytoplasm to the determination of meiotic and developmental competence in mice. Hum Reprod. 2008 [PubMed]
+Morisato D, Anderson KV. Signaling pathways that establish the dorsal-ventral pattern of the Drosophila embryo. Annu Rev Genet. 1995;29:371–399. doi: 10.1146/annurev.genet.29.1.371. [PubMed] [Cross Ref]
+Newport J, Kirschner M. A major developmental transition in early Xenopus embryos: I. characterization and timing of cellular changes at the midblastula stage. Cell. 1982;30:675–686. doi: 10.1016/0092-8674(82)90272-0. [PubMed] [Cross Ref]
+Tong ZB, Gold L, Pfeifer KE, Dorward H, Lee E, Bondy CA, Dean J, Nelson LM. Mater, a maternal effect gene required for early embryonic development in mice. Nat Genet. 2000;26:267–268. doi: 10.1038/81547. [PubMed] [Cross Ref]
+Payer B, Saitou M, Barton SC, Thresher R, Dixon JP, Zahn D, Colledge WH, Carlton MB, Nakano T, Surani MA. Stella is a maternal effect gene required for normal early development in mice. Curr Biol. 2003;13:2110–7. doi: 10.1016/j.cub.2003.11.026. [PubMed] [Cross Ref]
+Bortvin A, Goodheart M, Liao M, Page DC. Dppa3/Pgc7/stella is a maternal factor and is not required for germ cell specification in mice. BMC Dev Biol. 2004;4:2. doi: 10.1186/1471-213X-4-2. [PMC free article] [PubMed] [Cross Ref]
+Christians E, Davis AA, Thomas SD, Benjamin IJ. Maternal effect of Hsf1 on reproductive success. Nature. 2000;407:693–694. doi: 10.1038/35037669. [PubMed] [Cross Ref]
+Gurtu VE, Verma S, Grossmann AH, Liskay RM, Skarnes WC, Baker SM. Maternal effect for DNA mismatch repair in the mouse. Genetics. 2002;160:271–277. [PMC free article] [PubMed]
+Wu X, Viveiros MM, Eppig JJ, Bai Y, Fitzpatrick SL, Matzuk MM. Zygote arrest 1 (Zar1) is a novel maternal-effect gene critical for the oocyte-to-embryo transition. Nat Genet. 2003;33:187–191. doi: 10.1038/ng1079. [PubMed] [Cross Ref]
+Burns KH, Viveiros MM, Ren Y, Wang P, DeMayo FJ, Frail DE, Eppig JJ, Matzuk MM. Roles of NPM2 in chromatin and nucleolar organization in oocytes and embryos. Science. 2003;300:633–636. doi: 10.1126/science.1081813. [PubMed] [Cross Ref]
+De Vries WN, Evsikov AV, Haac BE, Fancher KS, Holbrook AE, Kemler R, Solter D, Knowles BB. Maternal beta-catenin and E-cadherin in mouse development. Development. 2004;131:4435–4445. doi: 10.1242/dev.01316. [PubMed] [Cross Ref]
+Bultman SJ, Gebuhr TC, Pan H, Svoboda P, Schultz RM, Magnuson T. Maternal BRG1 regulates zygotic genome activation in the mouse. Genes Dev. 2006;20:1744–1754. doi: 10.1101/gad.1435106. [PMC free article] [PubMed] [Cross Ref]
+Bourc'his D, Xu GL, Lin CS, Bollman B, Bestor TH. Dnmt3L and the establishment of maternal genomic imprints. Science. 2001;294:2536–2539. doi: 10.1126/science.1065848. [PubMed] [Cross Ref]
+Leader B, Lim H, Carabatsos MJ, Harrington A, Ecsedy J, Pellman D, Maas R, Leder P. Formin-2, polyploidy, hypofertility and positioning of the meiotic spindle in mouse oocytes. Nat Cell Biol. 2002;4:921–928. doi: 10.1038/ncb880. [PubMed] [Cross Ref]
+Loh YH, Wu Q, Chew JL, Vega VB, Zhang W, Chen X, Bourque G, George J, Leong B, Liu J, Wong KY, Sung KW, Lee CW, Zhao XD, Chiu KP, Lipovich L, Kuznetsov VA, Robson P, Stanton LW, Wei CL, Ruan Y, Lim B, Ng HH. The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells. Nat Genet. 2006;38:431–40. doi: 10.1038/ng1760. [PubMed] [Cross Ref]
+Babaie Y, Herwig R, Greber B, Brink TC, Wruck W, Groth D, Lehrach H, Burdon T, Adjaye J. Analysis of Oct4-dependent transcriptional networks regulating self-renewal and pluripotency in human embryonic stem cells. Stem Cells. 2007;25:500–510. doi: 10.1634/stemcells.2006-0426. [PubMed] [Cross Ref]
+Greber B, Lehrach H, Adjaye J. Silencing of core transcription factors in human EC cells highlights the importance of autocrine FGF signaling for self-renewal. BMC Dev Biol. 2007;7:46. doi: 10.1186/1471-213X-7-46. [PMC free article] [PubMed] [Cross Ref]
+Levasseur DN, Wang J, Dorschner MO, Stamatoyannopoulos JA, Orkin SH. Oct4 dependence of chromatin structure within the extended Nanog locus in ES cells. Genes Dev. 2008;22:575–80. doi: 10.1101/gad.1606308. [PMC free article] [PubMed] [Cross Ref]
+Campbell PA, Perez-Iratxeta C, Andrade-Navarro MA, Rudnicki MA. Oct4 targets regulatory nodes to modulate stem cell function. PLoS ONE. 2007;2:e553. doi: 10.1371/journal.pone.0000553. [PMC free article] [PubMed] [Cross Ref]
+Cavalieri F, Scholer H. Molecular facets of pluripotency. In: Lanza R, Gearhart J, Hogan B, Melton D, Pedersen R, Thompson J, West M, editor. Stem cells. Amsterdam: Elsevier Academic Press; 2005. pp. 27–44.
+Pesce M, Schöler HR. Oct-4, control of totipotency and germline determination. Mol Reprod Dev. 2000;55:452–457. doi: 10.1002/(SICI)1098-2795(200004)55:4<452::AID-MRD14>3.0.CO;2-S. [PubMed] [Cross Ref]
+Monti M, Garagna S, Redi CA, Zuccotti M. Gonadotropins affect Oct-4 gene expression during mouse oocyte growth. Mol Reprod Dev. 2006;73:685–691. doi: 10.1002/mrd.20471. [PubMed] [Cross Ref]
+Rosner MH, Vigano MA, Ozato K, Timmons PM, Poirier F, Rigby PW, Staudt LM. A POU-domain transcription factor in early stem cells and germ cells of the mammalian embryo. Nature. 1990;345:686–92. doi: 10.1038/345686a0. [PubMed] [Cross Ref]
+Yeom YI, Fuhrmann G, Ovitt CE, Brehm A, Ohbo K, Gross M, Hübner K, Schöler HR. Germline regulatory element of Oct-4 specific for the totipotent cycle of embryonal cells. Development. 1996;122:881–894. [PubMed]
+Stewart CL. Oct-4, scene 1: the drama of mouse development. Nat Genet. 2000;24:328–330. doi: 10.1038/74129. [PubMed] [Cross Ref]
+Boyer LA, Lee TI, Cole MF, Johnstone SE, Levine SS, Zucker JP, Guenther MG, Kumar RM, Murray HL, Jenner RG, Gifford DK, Melton DA, Jaenisch R, Young RA. Core transcriptional regulatory circuitry in human embryonic stem cells. Cell. 2005;122:947–956. doi: 10.1016/j.cell.2005.08.020. [PMC free article] [PubMed] [Cross Ref]
+Greco SJ, Liu K, Rameshwar P. Functional similarities among genes regulated by OCT4 in human mesenchymal and embryonic stemcells. Stem Cells. 2007;25:3143–3154. doi: 10.1634/stemcells.2007-0351. [PubMed] [Cross Ref]
+Dennis G, Jr, Sherman BT, Hosack DA, Yang J, Gao W, Lane HC, Lempicki RA. DAVID: Database for Annotation, Visualization, and Integrated Discovery. Genome Biology. 2003;4:P3. doi: 10.1186/gb-2003-4-5-p3. [PubMed] [Cross Ref]
+Nishikimi A, Mukai J, Yamada M. Nuclear translocation of nuclear factor kappa B in early 1-cell mouse embryos. Biol Reprod. 1999;60:1536–1541. doi: 10.1095/biolreprod60.6.1536. [PubMed] [Cross Ref]
+Bertazza L, Mocellin S. Tumor necrosis factor (TNF) biology and cell death. Front Biosci. 2008;13:2736–43. doi: 10.2741/2881. [PubMed] [Cross Ref]
+Ramos SB, Stumpo DJ, Kennington EA, Phillips RS, Bock CB, Ribeiro-Neto F, Blackshear PJ. The CCCH tandem zinc-finger protein Zfp36l2 is crucial for female fertility and early embryonic development. Development. 2004;131:4883–4893. doi: 10.1242/dev.01336. [PubMed] [Cross Ref]
+Aravind L, Koonin EV. SAP – a putative DNA-binding motif involved in chromosomal organization. Trends Biochem Sci. 2000;25:112–114. doi: 10.1016/S0968-0004(99)01537-6. [PubMed] [Cross Ref]
+Nakamura T, Arai Y, Umehara H, Masuhara M, Kimura T, Taniguchi H, Sekimoto T, Ikawa M, Yoneda Y, Okabe M, Tanaka S, Shiota K, Nakano T. PGC7/Stella protects against DNA demethylation in early embryogenesis. Nat Cell Biol. 2007;9:64–71. doi: 10.1038/ncb1519. [PubMed] [Cross Ref]
+Parfenov VN, Pochukalina GN, Davis DS, Reinbold R, Schöler HR, Murti KG. Nuclear distribution of Oct-4 transcription factor in transcriptionally active and inactive mouse oocytes and its relation to RNA polymerase II and splicing factors. J Cell Biochem. 2003;89:720–732. doi: 10.1002/jcb.10545. [PubMed] [Cross Ref]
+Kinlosh RA, Wassarman PM. Specific gene expression during oogenesis in mice. In: Gwatkin RBL, editor. Genes in mammalian reproduction. New York: NY: Wiley-Liss, Inc; 1993. pp. 27–43.
+Dumollard R, Duchen M, Carroll J. The role of mitochondrial function in the oocyte and embryo. Curr Top Dev Biol. 2007;77:21–49. doi: 10.1016/S0070-2153(06)77002-8. [PubMed] [Cross Ref]
+Liu L, Trimarchi JR, Keefe DL. Involvement of mitochondria in oxidative stress-induced cell death in mouse zygotes. Biol Reprod. 2000;62:1745–53. doi: 10.1095/biolreprod62.6.1745. [PubMed] [Cross Ref]
+Quinn P, Harlow GM. The effect of oxygen on the development of preimplantation mouse embryos in vitro. J Exp Zool. 1978;206:73–80. doi: 10.1002/jez.1402060108. [PubMed] [Cross Ref]
+Natsuyama S, Noda Y, Narimoto K, Umaoka Y, Mori T. Release of two-cell block by reduction of protein disulfide with thioredoxin from Escherichia coli in mice. J Reprod Fertil. 1992;95:649–656. [PubMed]
+Funato Y, Michiue T, Asashima M, Miki H. The thioredoxin-related redox-regulating protein nucleoredoxin inhibits Wnt-beta-catenin signalling through dishevelled. Nat Cell Biol. 2006;8:501–508. doi: 10.1038/ncb1405. [PubMed] [Cross Ref]
+Imai S, Johnson FB, Marciniak RA, McVey M, Park PU, Guarente L. Sir2: an NAD-dependent histone deacetylase that connects chromatin silencing, metabolism, and aging. Cold Spring Harb Symp Quant Biol. 2000;65:297–302. doi: 10.1101/sqb.2000.65.297. [PubMed] [Cross Ref]
+Liu H, Colavitti R, Rovira II, Finkel T. Redox-dependent transcriptional regulation. Circ Res. 2005;97:967–974. doi: 10.1161/01.RES.0000188210.72062.10. [PubMed] [Cross Ref]
+Thomas FH, Ethier JF, Shimasaki S, Vanderhyden BC. Follicle-stimulating hormone regulates oocyte growth by modulation of expression of oocyte and granulosa cell factors. Endocrinology. 2005;146:941–949. doi: 10.1210/en.2004-0826. [PubMed] [Cross Ref]
+Zuccotti M, Piccinelli A, Rossi PG, Garagna S, Redi CA. Chromatin organization during mouse oocyte growth. Mol Reprod Dev. 1995;41:479–485. doi: 10.1002/mrd.1080410410. [PubMed] [Cross Ref]
+Adjaye J, Bolton V, Monk M. Developmental expression of specific genes detected in high quality cDNA libraries from single human preimplantation embryos. Gene. 1999;237:373–383. doi: 10.1016/S0378-1119(99)00329-7. [PubMed] [Cross Ref]
+Adjaye J, Huntriss J, Herwig R, BenKahla A, Brink TC, Wierling C, Hultschig C, Groth D, Yaspo ML, Picton HM, Lanzendorf SE, Gosden RG, Lehrach H. Primary differentiation in the human blastocyst: Comparative molecular portraits of inner cell mass and trophectoderm cells. Stem Cells. 2005;23:1513–1524. doi: 10.1634/stemcells.2005-0113. [PubMed] [Cross Ref]

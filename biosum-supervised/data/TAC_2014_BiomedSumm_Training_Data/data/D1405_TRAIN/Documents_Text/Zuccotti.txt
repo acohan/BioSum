@@ -1,0 +1,310 @@
+BMC Genomics. 2011; 12: 345.
+Published online Jul 5, 2011. doi:  10.1186/1471-2164-12-345
+PMCID: PMC3154874
+Gatekeeper of pluripotency: A common Oct4 transcriptional network operates in mouse eggs and embryonic stem cells
+Maurizio Zuccotti,corresponding author1 Valeria Merico,2 Michele Bellone,3 Francesca Mulas,4 Lucia Sacchi,5 Paola Rebuzzini,3 Alessandro Prigione,6 Carlo A Redi,2 Riccardo Bellazzi,4,5 James Adjaye,6 and Silvia Garagnacorresponding author3,4,7
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+Background
+
+Oct4 is a key factor of an expanded transcriptional network (Oct4-TN) that governs pluripotency and self-renewal in embryonic stem cells (ESCs) and in the inner cell mass from which ESCs are derived. A pending question is whether the establishment of the Oct4-TN initiates during oogenesis or after fertilisation. To this regard, recent evidence has shown that Oct4 controls a poorly known Oct4-TN central to the acquisition of the mouse egg developmental competence. The aim of this study was to investigate the identity and extension of this maternal Oct4-TN, as much as whether its presence is circumscribed to the egg or maintained beyond fertilisation.
+
+Results
+
+By comparing the genome-wide transcriptional profile of developmentally competent eggs that express the OCT4 protein to that of developmentally incompetent eggs in which OCT4 is down-regulated, we unveiled a maternal Oct4-TN of 182 genes. Eighty of these transcripts escape post-fertilisation degradation and represent the maternal Oct4-TN inheritance that is passed on to the 2-cell embryo. Most of these 80 genes are expressed in cancer cells and 37 are notable companions of the Oct4 transcriptome in ESCs.
+
+Conclusions
+
+These results provide, for the first time, a developmental link between eggs, early preimplantation embryos and ESCs, indicating that the molecular signature that characterises the ESCs identity is rooted in oogenesis. Also, they contribute a useful resource to further study the mechanisms of Oct4 function and regulation during the maternal-to-embryo transition and to explore the link between the regulation of pluripotency and the acquisition of de-differentiation in cancer cells.
+
+Go to:
+Background
+The first cell divisions of the preimplantation embryo rely on a number of maternal-effect factors that have been stored in the egg throughout folliculogenesis and that guide early development during the maternal-to-embryo transition, when embryonic genome activation (EGA) occurs and novel transcripts and proteins are produced as a requirement for further development [1]. If the expression of single maternal-effect genes is experimentally altered during mouse oogenesis or in the zygote, most of the embryos arrest development at the 2-cell stage or a few cell divisions later in preimplantation [2]. A question that remains unanswered is concerned with the nature of the transcriptional networks (TN) in which maternal-effect genes operate. This knowledge would further our understanding of the molecular identity of a developmentally competent egg (metaphase II, MII, oocyte) and would allow to investigate how this identity is modified during the switch to an embryonic control of development.
+
+Oct4 (Pou5f1, POU domain, class 5, transcription factor 1) is one of the 27 maternal-effect genes reported so far [2] whose transcripts inherited by the zygote are necessary for development beyond the 2-cell stage [3]. Most of our knowledge on Oct4 functions comes from studies that describe its key role in the control of transcriptional regulatory circuits that maintain pluripotency in the inner cell mass (ICM) of the blastocyst [4] and in embryonic stem cells (ESCs) [5-10]. Furthermore, OCT4 is recognised for its capacity, when ectopically expressed in combination with other transcription factors (i.e., NANOG, SOX2, cMYC, KLF4 or ESRRB), to reprogram differentiated cells into pluripotent cells (induced pluripotent stem cells, iPS cells) [11-15].
+
+Recent studies have also shown a role for OCT4 in the acquisition of the egg developmental competence [16,17]. During oocyte growth the OCT4 protein is first detected at the time of follicle recruitment, only in one of two major classes of oocytes present in the mouse ovary, named surrounded nucleolus (SN) oocytes and recognisable for the presence of a ring of heterochromatin surrounding their nucleolus; on the contrary, OCT4 expression is comparativelly down-regulated in NSN (not surrounded nucleolus) oocytes that lack of a ring of heterochromatin around the nucleolus [18-22]. This distinct pattern of expression is maintained throughout oocyte growth, in fully matured antral SN and NSN oocytes and in their derived MIISN and MIINSN oocytes, respectively [17]. The most striking difference between these two categories of oocytes is that only MIISN oocytes may develop beyond the 2-cell stage and reach full term development [23-25]. OCT4 down-regulation in MIINSN oocytes correlates with the down-regulation of the maternal-effect factor STELLA [26] and with the up-regulation of eighteen OCT4-regulated genes that are part of a gene expression network implicated in mitochondrial dysfunction and apoptosis [16], explaining the developmental block encountered by 2-cell embryos obtained from MIINSN oocytes (2-cellNSN). This data indicate that Oct4 is an important component of a maternal regulatory TN that influences positively (when Oct4 is expressed) or negatively (when Oct4 is down-regulated) the oocyte developmental competence. The molecular identity and extension of this TN, as much as whether its presence is circumscribed to the egg or, after fertilisation, is maintained beyond the first mitotic division, remains to be understood.
+
+In the present study, by comparing the genome-wide transcriptional profile of ovulated MII oocytes that express the OCT4 protein (MII control, MIIctrl) to that of MII oocytes in which OCT4 is comparativelly down-regulated (MIINSN), we unveiled an expanded maternal Oct4-TN made of 182 genes. Then, by comparing the transcriptional profile of 2-cell embryos derived from MIIctrl oocytes (2-cellctrl) to that of embryos derived from MIINSN oocytes (2-cellNSN), we showed that the Oct4-TN has a core group of 80 genes that remains expressed beyond fertilisation and the first segmentation division. Of these 80 genes, 37 are notable companions of the Oct4 transcriptome in ESCs and the majority is expressed in cancer cells.
+
+Go to:
+Results
+Gene expression profiles of developmentally incompetent and competent MII oocytes or 2-cell embryos
+
+To highlight genes with altered expression (up- or down-regulated) in developmentally incompetent MIINSN oocytes, we first compared their transcription profile with that of MIIctrl oocytes using microarray data from our previous work [17]. The data lists obtained earlier were revised since the data banks from which information was recovered are constantly updated.
+
+A list of regulated and annotated genes or gene sequences (from now on named genes) was retrieved after setting a 1.5 fold-change threshold and a detection p value ≤ 0.01. Using the Gene Ontology (GO) enrichment analysis tool provided by the data mining and bioinformatics software Orange http://www.ailab.si/orange, 3102 (Additional file 1) out of 8354 regulated genes were assigned to seven major biological processes (Figure ​(Figure1A),1A), including development, cellular and macromolecule localisation, apoptosis, transcription, intracellular signalling, cell cycle and translation. This analysis showed that the great majority of these genes were up-regulated in MIINSN oocytes (Figure ​(Figure1A1A).
+
+Figure 1
+Figure 1
+Microarray-based analysis of the transcription profile of developmentally incompetent and competent MII oocytes and 2-cell embryos. (A) Major biological processes and functions found when comparing the transcription profile of MIINSN vs. MIIctrl oocytes ...
+Next, using the same fold-change and p value thresholds, we generated another list of regulated genes by comparing the transcription profile of 2-cellNSN vs. 2-cellctrl embryos. Out of 3599 regulated genes, 1887 (Additional file 2) were assigned to thirteen major biological processes. Figure ​Figure1B1B shows the number of up- and down-regulated genes in each of these processes.
+
+In summary, we retrieved two lists of regulated genes that highlight the changes occurring to the transcriptional signature of developmentally competent eggs or 2-cell embryos, when compared to their incompetent counterparts. Our next step was aimed at the identification of known Oct4-regulated genes within each of these two lists.
+
+A maternal Oct4 transcriptional network is constituent of the molecular identity of both MII oocytes and 2-cell embryos
+
+Using mouse and human chip datasets of OCT4-regulated genes in ESCs [5,27,28], we singled out a group of 32 OCT4-regulated genes whose transcripts were detected in both the MII oocyte and 2-cell embryo microarray lists. When compared to MIIctrl samples, the great majority of these genes were up-regulated in developmentally incompetent MIINSN oocytes in which the OCT4 protein is markedly down-regulated (Figure ​(Figure2),2), suggesting a down-regulatory function of this transcription factor over these genes. By comparing 2-cellNSN with 2-cellctrl embryos, we found that the expression of the majority of this group of 32 genes was higher in the latter (Figure ​(Figure2),2), indicating that the down-regulatory function of OCT4 had been released. In fact, following fertilisation, the maternal OCT4 protein present in MIIctrl oocytes is carried over into the zygote and by the 2-cell stage becomes undetectable [29], to reappear again, expressed from the embryonic genome, at the 8-cell stage [30].
+
+Figure 2
+Figure 2
+List of OCT-4-regulated genes expressed in both MII oocytes and 2-cell embryos. Comparison of gene expression is made between MIINSN vs. MIIctrl or 2-cellNSN vs. 2-cellctrl. Red box, up-regulated; green box, down-regulated; blank box, not differentially ...
+The hypergeometric test confirmed that the up- and down-regulated pattern of expression of 20 of these OCT4-regulated genes in MIINSN oocytes and 2-cellNSN embryos (Figure ​(Figure2),2), respectively, was not a stochastic event, but instead a specific characteristic of this group of genes at these two developmental stages (p = 0.0039). The results of the microarray analysis for five of these genes were confirmed by qRT-PCR (Additional file 3).
+
+Of these 20 OCT4-regulated genes, we analysed the expression profile of those proteins for which an antibody was commercially available, i.e., DNMT3L1, RPS20 and MCL1 (MCL1 antibody did not give consistent results and therefore was not used further, data not shown). DNMT3L is a crucial factor for the establishment of genomic imprinting in oocytes and the expression of Dnmt3l increases during preimplantation in both mouse and rhesus monkey, suggesting a developmental role [31]. RPS20 is a ribosomal protein involved in translation and its role in preimplantation as never been investigated before. Immunolabeling of DNMT3L and RPS20 antibodies was positive in MIINSN oocytes (Figure ​(Figure3A)3A) and 2-cellctrl (Figure ​(Figure3B),3B), whereas it was negative in MIIctrl (Figure ​(Figure3A)3A) and 2-cellNSN embryos (Figure ​(Figure3B),3B), confirming the reversal pattern of expression described for their transcripts during the passage from the egg to the 2-cell stage.
+
+Figure 3
+Figure 3
+Immuno detection of the RPS20 and DNMT3L proteins in MII oocytes and 2-cell embryos. (A) MIIctrl and MIINSN oocytes and in (B) 2-cellctrl and 2-cellNSN embryos. (a, c, e, g and a', c', e', g'), antibodies staining; (b, d, f, h and b', d', f', h'), merge ...
+Our next step was aimed at determining whether the Oct4-TN could be further expanded and better characterised.
+
+Numerous genes of the maternal Oct4 transcriptional network are known members of the Oct4 interactome in ESCs
+
+Using the Network Explorer module provided by the Orange software (see Methods for details), we explored public databases for links (based on GO and MeSH, Medical Subject Headings, terms) between the group of 32 OCT4-regulated genes used as bait (with the addition of Oct4), and all the annotated mouse gene sequences. This search retrieved an annotation network made of a total of 312 genes (Additional file 4), 197 of which were components (i.e., expressed) of our MII oocyte and/or 2-cell embryo list of regulated genes. This network was combined with the results of gene expression differential analysis to infer transcriptional relationships among the genes of an expanded Oct4-TN. The expanded Oct4-TN, made of 197 genes (Figure ​(Figure4),4), comprised 102 genes expressed exclusively in MII oocytes (Additional file 5), 15 genes solely in 2-cell embryos (Additional file 6) and 80 genes in both MII oocytes and 2-cell embryos (from now onwards named Oct4-OETN, Oocyte-to-Embryo Transcriptional Network; Figure ​Figure5).5). The Oct4-OETN contained all the 32 OCT4-regulated genes, except 4 that were not annotated and thus excluded; most (20) of the remaining 28 genes were up-regulated in MIINSN oocytes but down-regulated in 2-cellNSN embryos. Besides these 28 OCT4-regulated genes, the Oct4-OETN included 8 more genes of a recently published list of OCT4-correlated transcripts expressed in ESCs [32] (Figure ​(Figure5)5) and 44 genes for which a direct or indirect action of OCT4 on their expression will need to be further investigated.
+
+Figure 4
+Figure 4
+Venn diagram illustrating distinct and overlapping gene expression patterns in MII oocytes and 2-cell embryos. Boxes, list of genes belonging to each specific group; genes in bold, OCT4-regulated genes.
+Figure 5
+Figure 5
+Oct4 transcriptional network. Genes expressed in both MII oocytes and 2-cell embryos. Green box, down-regulated; red box, up-regulated; blue font, OCT4-regulated gene; highlighted in grey, OCT4-correlated gene (Campbell et al., 2007).
+When compared to their respective control samples, more than half of the Oct4-OETN genes (51 out of 80) were up-regulated in MIINSN oocytes but down-regulated (59 genes) in 2-cellNSN embryos; 7 genes were down-regulated in oocytes and up-regulated in embryos, whereas 22 and 14 genes where down- and up-regulated, respectively, in both oocytes and embryos (Figure ​(Figure55).
+
+Among the 15 newly expressed genes, Dppa5 (Developmental pluripotency associated gene 5), Gata1 and Zeb1 are the best known and their main functions will be described in the section below.
+
+In summary, this analysis brought to light in MII oocytes, a maternal Oct4-TN made of 182 genes. Within this circuitry, we could identify a restricted Oct4-OETN made of 80 genes as core component common to the molecular identity of both eggs and 2-cell embryos. Almost half (37] of the Oct4-OETN genes are known Oct4 companions in ESCs, as their expression is directly regulated by [5,27,28] or correlated with [32]Oct4. Our next step was aimed at investigating the main functional characteristics of the genes and gene networks of the expanded Oct4-TN.
+
+Dissecting the expanded Oct4 transcriptional network identifies nineteen gene clusters
+
+The Oct4-TN was further analysed with the Network Explorer module limiting to < 3 the number of sequential connections between one of the 28 OCT4-regulated genes and the annotated neighbours. We identified 19 distinct gene clusters (Figure ​(Figure6),6), each containing at least one of the 80 Oct4-OETN genes. Based on GO annotations and on a literature catalogues search, 18 of the 19 clusters could be ascribed to a major biological function. A description of the main characteristics of each gene cluster and of those Oct4-OETN genes for which functional details were retrieved is given in Additional file 7[33-92]. In summary, those Oct4-OETN genes for which we could retrieve solid information fell into three main categories with > 3 genes: 1) cancer, 18 genes (i.e., Rab39b, Rab35, Rab31, Rab21, Rab14, Rps15, Rps20, Rps2, Atox1, Plagl1/Zac1, Foxp1, Foxm1, Nfat5, Cdt1, Ring1B, Phc1, Tle1 and Atad3a); 2) preimplantation development-pluripotency, 14 genes (i.e., Dppa4, Sall4, Dnmt3b, Dnmt1, Dnmt3l, Dnmt3a, Ring1B, Scl4a8, Plagl1/Zac1, Zhx1, Commd1/U2af1-rs1, Ooep, Filia and Tle6); 3) cell division, 4 genes (i.e., Gpsm3, Cdt1, Skp1a and Tipin). Among the poorly known genes remaining, there is a group made of 7 genes (Bag4, Bat3, Bcl2l12, Bcl2l13, Bcl2l2, Mcl1 and Relt) with apoptotic/anti-apoptotic functions, whereas all the others could not be grouped as they fell into several different categories, each with less than three genes. This information improves our understanding of the maternal Oct4-TN composition, but also will serve as basic knowledge for further dissection and future studies of its role in oogenesis and preimplantation development.
+
+Figure 6
+Figure 6
+Gene clusters singled out in the expanded Oct4-TN. Green lines, MeSH annotations; orange lines, MeSH and GO annotations; grey lines, GO annotations. Increasing line width indicates stronger annotation relationship.
+Most genes of the maternal Oct4 transcriptional network are also expressed in cancer cells
+
+Since one of the most abundant categories singled out when dissecting the expanded Oct4-TN correlated with cancer, we interrogated a more specific repository of cancer-related genes, i.e., genes that, compared to controls, are significantly up- or down-regulated in a wide variety of solid and non-solid tumours (EBI Gene Expression Atlas; http://www.ebi.ac.uk/gxa/). Strikingly, the great majority, 157 out of 197 (79,7%) (Additional file 8) of the expanded Oct4-TN and 65 out of 80 Oct4-OETN genes (81.2%) (Additional file 9), were recognised as cancer-related genes. The non-stochastic nature of these frequencies was confirmed by the hypergeometric test (p = 0.0031).
+
+Go to:
+Discussion
+Each cell type in our body has its own molecular identity defined by a number of transcriptional networks that operate and cooperate to maintain the cell integrity and a specific undifferentiated/differentiated status. During cell differentiation some transcriptional network die out or fade one into another while guiding the cell towards the acquisition of a specific phenotype. Transcriptional inheritance is the load of transcripts and active genes that are passed to the subsequent step of differentiation. Likewise, the mammalian egg reaches the fertilisation encounter with a transcriptional inheritance representative of its developmental legacy. As part of this molecular identity, in this study we brought to light an Oct4-TN of maternal origin that is present during the developmental period comprised between the MII oocyte and the 2-cell embryo (Figure ​(Figure7).7). As hereafter described, these results allowed the generation of novel hypotheses on the developmental role of a maternal Oct4 transcriptional inheritance during the early stages of mouse preimplantation development.
+
+Figure 7
+Figure 7
+The Oct4-TN genes expressed in MII oocytes and in 2-cell embryos. Black frame, 80 Oct4-OETN genes expressed in both MII oocytes and 2-cell embryos; highlighted in yellow, Oct4.
+One marked phenomenon that occurs during the developmental interval comprised between ovulation and EGA is the inactivation or degradation of a considerable number of transcripts mainly by processes of deadenylation [93], but also through the association with RNA-binding proteins [94,95] and elimination by small silencing RNAs that degrade mRNAs or repress their translation [96]. The maternal Oct4-TN that we identified has its maximum expansion in MII oocytes, comprising 182 genes, then, following fertilisation, more than half (102) of these transcripts are markedly down-regulated, to become almost undetectable in 2-cell embryos, suggesting their prompt degradation or deadenylation at the beginning of development (our microarrays data were obtained following oligo-dT retrotranscription that amplified only polyadenylated transcripts, see M&M). Interestingly, this group of genes includes Oct4, Sox2 (whose marked down-regulation in 2-cellctrl embryos has already been described before) [97,98] and Klf4. Oct4, Sox2 and Klf4 are central to the maintenance and promotion of cell pluripotency [99]. Their down-regulation after fertilisation may signal the execution of the egg developmental programme (perhaps carried out by those Oct4-OETN genes that survive degradation, see below), then, at later stages of development, they are re-expressed, but only in some blastomeres, namely those that will contribute to the ICM, to induce their pluripotent status; on the contrary, they are kept down-regulated in those cells that will contribute to the trophectoderm. In support of this hypothesis, a recent paper has demonstrated that Oct4 re-expression occurs at the 8-cell stage embryo [30] and is dissimilar in single blastomeres [100], suggesting a possible different developmental commitment. The developmental block encountered by 2-cellNSN embryos could be associated (besides the up-regulation of apoptosis-related genes, as reported before [16,17]), to abnormal expression or distribution of transcripts or proteins following the first segmentation [101]. To this regard, our analysis of DNMT3L and RPS20, whilst demonstrating a differential expression of both transcripts and proteins in 2-cellctrl vs. 2-cellNSN embryos, it did not evidence a differential distribution in the two blastomeres (Figure ​(Figure3),3), although, at this stage, we cannot role out this hypothesis because of the low sensitivity power of an immunocytochemistry analysis.
+
+The 80 Oct4-OETN gene transcripts that survive the massive post-fertilisation degradation represent the maternal Oct4-TN inheritance that is passed from the MII oocyte to the 2-cell embryo. Following fertilisation some of the transcripts of these genes might be translated (as shown for the up-regulation of DNMT3L and RPS20) and their proteins, together with those of the group of 15 newly activated genes, may play a role during the following stages of development. This core Oct4-TN, that shares 37 genes with an OCT4 regulatory network active in ESCs, might represent the molecular signature of maternal origin on which the ESCs molecular identity is built up and tailored, thus providing a link between eggs, early preimplantation embryos and ESCs (Figure ​(Figure88).
+
+Figure 8
+Figure 8
+OCT4-regulated genes expressed in eggs, 2-cell embryos and ESCs. This core Oct4-TN may provide a link between eggs, early preimplantation embryos and ESCs.
+The expression of the OCT4 protein during oogenesis first occurs at the time of follicle recruitment [17], when oocytes have reached a size of approximately 30-40 μm in diameter, suggesting that the beginning of the Oct4-TN establishment might occur at this stage of oocyte growth.
+
+The significant presence of cancer-associated genes as part of the Oct4 transcriptome is a theme shared with ESCs [10,102], suggesting that an Oct4 circuitry may be operating also in cancer cells and providing a molecular link between the regulation of pluripotency and the acquisition of dedifferentiation in cancer cells [103-107]. Furthermore, in view of the cancer stem cell hypothesis [108], the presence of an Oct4-TN in cancer cells may help the identification and characterisation of the stem cell population within the tumor.
+
+Go to:
+Conclusions
+In this study we identified an Oct4-TN that is established during oogenesis and that partially survives the wide transcriptional erasure that occurs soon after fertilisation. Its core Oct4-OETN circuitry of 80 genes is maintained up to the 2-cell stage of development and may represent part of the transcriptional signature that is conveyed to the ICM. The Oct4-TN that we described provides a useful resource to 1) further study the mechanisms of Oct4 function and regulation during the maternal-to-embryo transition; 2) explore the link between the regulation of pluripotency and the acquisition of dedifferentiation in cancer cells; 3) improve our understanding of the molecular factors that contribute to the mammalian egg developmental competence and give opportunities for testing new prognostic molecular markers of oocyte quality in animal and human assisted reproduction.
+
+Go to:
+Methods
+Oocytes isolation, culture to the MII stage and to the 2-cell embryo
+
+Research on mice has been performed after the approval of the Animal Ethics Committee of the University of Pavia. Animals were maintained according to the Guide for Care and Use of Laboratory Animals. Fully matured antral oocytes were isolated from the ovaries of 4-6 week-old B6C3F1 female mice (Charles River, Come, Italy) injected with 3.5 I.U. PMSG (Folligon, Intervet Srl, Italy) and those that had an NSN type of chromatin organisation [16] were cultured to the MII stage [17]. MIINSN and MIIctrl oocytes were inseminated with sperm isolated from the epidydymes of 5 month-old B6C3F1 male mice [24] and those that reached the 2-cell stage, 26 hr after insemination, were further treated for microarray or qRT-PCR analyses.
+
+Microarray-based global gene expression analysis
+
+Total messenger RNA (mRNA) was isolated using the RNeasy mini kit (Qiagen, USA) and quality-checked by Nanodrop analysis (Nanodrop Technologies, Wilmington, DE, USA). 400ng of mRNA was used as input for generating biotin-labelled cRNA. Two rounds of mRNA amplification were performed using the Illumina TotalPrep RNA Amplification Kit (Ambion, Austin, TX, United States), which is a complete system for generating biotinylated, amplified RNA for hybridisation with Illumina Sentrix arrays. cRNA samples were then hybridised onto Illumina mouse-8 BeadChips version 3. Hybridizations, washing, Cy3-streptavidin staining and scanning were performed on the Illumina BeadStation 500 platform (Illumina, San Diego, CA, USA), according to the manufacturer's instruction. The following samples were hybridised: one 2-cellctrl and two 2-cellNSN (2-cellNSN-a and 2-cellNSN-b). Expression data analysis was carried out using the BeadStudio software 3.0 (Illumina, San Diego, CA, USA). The raw microarrays data have been deposited in Gene Expression Omnibus (GEO) with the following GEO accession number, GSE28704.
+
+Bioinformatic analysis
+
+Raw data were background-subtracted, normalized using the "rank invariant" algorithm and filtered for significant expression on the basis of negative control beads. Genes were considered significantly expressed with detection p values ≤ 0.01. Differential expression analysis was performed with a fold change threshold of 1.5 (Additional file 10).
+
+GO enrichment analysis, file management, network generation and other statistical analysis were performed with Python scripts that integrates several functions provided by the Bioinformatics extension of the Orange Data Mining Suite http://www.ailab.si/orange/.
+
+The enriched GO biological terms were determined using the entire mouse genome as a reference set. A threshold of 0.01 on the enrichment p values was set as a measure of statistical significance. The enriched GO processes were further automatically classified into a set of macro categories defined by the domain experts.
+
+The annotation network that was used to infer transcriptional relationships within the Oct4-TN was generated through a literature-based search strategy. This methodology retrieved all the PubMed publications related to the genes in the mouse genome and assigned to each gene a set of MeSH and GO annotation terms. A text-mining method based on the annotation terms was used to calculate the similarity between genes [109]. For each pair of genes in the TN, a connecting link was created if the annotation similarity exceeded a cut-off value of 0.7.
+
+Cancer-related genes were identified from experiments in EBI Atlas database by setting a p value threshold of 0.05.
+
+Real-time polymerase chain reaction
+
+Total RNA was extracted separately from 10 embryos in 3 μl of Lysis Buffer [110]. Retrotranscription was performed in a 20 μl reaction mixture containing: 3 μl of RNA, 1× PCR buffer, 5 mM MgCl2, 4 mM of each dNTP, 0.625 μM oligo d(T)16, 1.875 μM Random Hexamers, 20 U RNase Inhibitor, 50 U MuLV reverse transcriptase (Applera). The reverse transcription was performed at 25°C for 10 min, 42°C for 60 min, 99°C for 5 min. A mixture of the cDNA products from the 10 embryos was generated and one twentieth of the resulting cDNA was amplified in duplicate by Real-Time PCR in 20 μl reaction mixture with 200 nM of each specific primer (Additional file 11) and the MESA GREEN qPCR MasterMix Plus for SYBR assay no ROX sample (Eurogentec) at 1× as final concentration. The amplification reaction was performed in a Rotorgene 6000 (Corbett Life Science) as follows: 95°C for 5 min, followed by 40 cycles at 95°C for 10 sec, 60°C for 15 sec, 72°C for 20 sec. The Rotorgene 6000 Series Software 1.7 was used for the comparative concentration analysis. Htatsf1 gene expression was used for the normalisation of the samples.
+
+Immunofluorescence analysis
+
+Oocytes and embryos were fixed with freshly prepared 4% paraformaldehyde for 20 min, permeabilised with 0.5% Triton X-100 for 20 min at 4°C and treated with 0.5% blocking reagent (Roche, Boston, MA) in TNT (0.1 M, Tris-HCl, pH 7.5, 0.15 M NaCl, 0.05% Tween-20) buffer for 20 min at 4°C. Immunostaining was performed with rabbit anti-RPS20 polyclonal antibody (Abcam; ab74700, 1:2000), rabbit anti-DNMT3L polyclonal antibody (Abcam; ab3493, 1:500) or rabbit anti-MCL1 monoclonal antibody (Abcam; ab32087, 1:20) for 1 h at 37°C. Primary antibodies were detected using a secondary Alexa Fluor488-goat anti-rabbit IgG (Molecular Probes; 1:400 diluted in PBT: 1× PBS plus 0.1% Tween 20) antibody for 1 h at 37°C. Samples were then washed in PBT (three times) for 15 min at 4°C, counterstained with DAPI (0.2 μg/ml in PBS for 5 min) and mounted in Vectashield (Vector).
+
+Go to:
+Competing interests
+The authors declare that they have no competing interests.
+
+Go to:
+Authors' contributions
+MZ conceived the study, participated in its design and coordination, participated in the bioinformatic analyses and worked on drafting the manuscript; VM did the immunocytochemistry analyses; MB isolated the embryos; LS, FM and RB did the bioinformatic analyses; PR, did the RT-PCR analyses; AP, did the microarrays analysis; CAR worked on the elaboration of the study; JA conceived the study, participated in its design and coordination, did the microarrays analyses and worked on drafting the manuscript; SG conceived the study, participated in its design and coordination and worked on drafting the manuscript. All authors read and approved the final manuscript.
+
+Go to:
+Supplementary Material
+Additional file 1:
+GO enrichment. List of regulated genes (MIINSN vs. MIIctrl).
+
+Click here for file(319K, XLS)
+Additional file 2:
+GO enrichment. List of regulated genes (2-cellNSN vs. 2-cellctrl)
+
+Click here for file(195K, XLS)
+Additional file 3:
+qRT-PCR expression profile of Oct4 and five Oct4-regulated genes. This analysis confirmed the down-regulated pattern of expression detected by microarray analysis when comparing 2-cellNSN vs. 2-cellctrl embryos.
+
+Click here for file(176K, JPEG)
+Additional file 4:
+Gene annotation similarity network. Gene annotation similarity network made of 312 genes retrieved when exploring the public databases for GO and MeSH links between the group of 32 Oct4-regulated genes and all the annotated mouse gene sequences. Green lines, MeSH annotations; orange lines, MeSH and GO annotations; grey lines, GO annotations. Increasing line width indicates stronger annotation relationship. Red dot, Oct4 gene.
+
+Click here for file(1.4M, JPEG)
+Additional file 5:
+Oct4 transcriptional network in MII oocytes. Genes expressed exclusivelly in MII oocytes. Green box, down-regulated; red box, up-regulated.
+
+Click here for file(24K, XLS)
+Additional file 6:
+Oct4 transcriptional network in 2-cell embryos. Genes expressed exclusivelly in 2-cell embryos. Green box, down-regulated; red box, up-regulated.
+
+Click here for file(19K, XLS)
+Additional file 7:
+Main characteristics of the Oct4-OETN genes. Main characteristics of the genes found in each of the 18 gene clusters.
+
+Click here for file(49K, DOC)
+Additional file 8:
+List of cancer-related genes present in the expanded Oct4-TN. The majority of the genes belonging to the expanded Oct4-TN were recognised as cancer-related genes.
+
+Click here for file(15K, XLS)
+Additionalfile 9:
+List of cancer-related genes present in the Oct4-OETN. The majority of the genes belonging to the Oct4-OETN were recognised as cancer-related genes.
+
+Click here for file(18K, XLS)
+Additional file 10:
+Microarray analysis. Microarray analysis of 2-cell embryos.
+
+Click here for file(7.9M, XLS)
+Additional file 11:
+RT-PCR primers. List of primers used for the real time RT-PCR analysis.
+
+Click here for file(31K, DOC)
+Go to:
+Acknowledgements and Fundings
+We thank the following organisations for supporting this research: UNIPV-Regione Lombardia, Fondazione Alma Mater Ticinensis, Fondazione I.R.C.C.S. Policlinico San Matteo, Fondazione Cariplo and 'Bando Giovani Ricercatori 2007' to C.A.R.. We thank prof. Blaz Zupan for his invaluable help in the derivation of the Oct4 transcriptional network.
+
+Go to:
+References
+Schultz R. The molecular foundations of the maternal to zygotic transition in the preimplantation embryo. Hum Reprod Update. 2002;8(4):323–331. doi: 10.1093/humupd/8.4.323. [PubMed] [Cross Ref]
+Li L, Zheng P, Dean J. Maternal control of early mouse development. Development. 2010;137(6):859–870. doi: 10.1242/dev.039487. [PMC free article] [PubMed] [Cross Ref]
+Foygel K, Choi B, Jun S, Leong D, Lee A, Wong C, Zuo E, Eckart M, Reijo Pera R, Wong W. et al. A novel and critical role for Oct4 as a regulator of the maternal-embryonic transition. PLoS One. 2008;3(12):e4109. doi: 10.1371/journal.pone.0004109. [PMC free article] [PubMed] [Cross Ref]
+Cavaleri F, Scholer H. In: Stem Cells. Lanza R, Gearhart J, Hogan B, Melton D, Pedersen R, Thompson J, West M, editor. Amsterdam: Elsevier Academic Press; 2005. Molecular facets of pluripotency; pp. 27–44.
+Boyer L, Lee T, Cole M, Johnstone S, Levine S, Zucker J, Guenther M, Kumar R, Murray H, Jenner R. et al. Core transcriptional regulatory circuitry in human embryonic stem cells. Cell. 2005;122(6):947–956. doi: 10.1016/j.cell.2005.08.020. [PMC free article] [PubMed] [Cross Ref]
+Chew J, Loh Y, Zhang W, Chen X, Tam W, Yeap L, Li P, Ang Y, Lim B, Robson P. et al. Reciprocal transcriptional regulation of Pou5f1 and Sox2 via the Oct4/Sox2 complex in embryonic stem cells. Mol Cell Biol. 2005;25(14):6031–6046. doi: 10.1128/MCB.25.14.6031-6046.2005. [PMC free article] [PubMed] [Cross Ref]
+Pan G, Li J, Zhou Y, Zheng H, Pei D. A negative feedback loop of transcription factors that controls stem cell pluripotency and self-renewal. FASEB J. 2006;20(10):1730–1732. doi: 10.1096/fj.05-5543fje. [PubMed] [Cross Ref]
+Kim J, Chu J, Shen X, Wang J, Orkin S. An extended transcriptional network for pluripotency of embryonic stem cells. Cell. 2008;132(6):1049–1061. doi: 10.1016/j.cell.2008.02.039. [PubMed] [Cross Ref]
+Orkin SH, Wang J, Kim J, Chu J, Rao S, Theunissen TW, Shen X, Levasseur DN. The Transcriptional Network Controlling Pluripotency in ES Cells. Cold Spring Harb Symp Quant Biol. 2008. [PubMed]
+Pardo M, Lang B, Yu L, Prosser H, Bradley A, Babu MM, Choudhary J. An expanded Oct4 interaction network: implications for stem cell biology, development, and disease. Cell Stem Cell. 2010;6(4):382–395. doi: 10.1016/j.stem.2010.03.004. [PMC free article] [PubMed] [Cross Ref]
+Kaji K, Norrby K, Paca A, Mileikovsky M, Mohseni P, Woltjen K. Virus-free induction of pluripotency and subsequent excision of reprogramming factors. Nature. 2009;458(7239):771–775. doi: 10.1038/nature07864. [PMC free article] [PubMed] [Cross Ref]
+Okita K, Ichisaka T, Yamanaka S. Generation of germline-competent induced pluripotent stem cells. Nature. 2007;448(7151):313–317. doi: 10.1038/nature05934. [PubMed] [Cross Ref]
+Takahashi K, Tanabe K, Ohnuki M, Narita M, Ichisaka T, Tomoda K, Yamanaka S. Induction of pluripotent stem cells from adult human fibroblasts by defined factors. Cell. 2007;131(5):861–872. doi: 10.1016/j.cell.2007.11.019. [PubMed] [Cross Ref]
+Takahashi K, Yamanaka S. Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. Cell. 2006;126(4):663–676. doi: 10.1016/j.cell.2006.07.024. [PubMed] [Cross Ref]
+Woltjen K, Michael I, Mohseni P, Desai R, Mileikovsky M, Hämäläinen R, Cowling R, Wang W, Liu P, Gertsenstein M. et al. piggyBac transposition reprograms fibroblasts to induced pluripotent stem cells. Nature. 2009;458(7239):766–770. doi: 10.1038/nature07863. [PubMed] [Cross Ref]
+Zuccotti M, Merico V, Sacchi L, Bellone M, Brink T, Bellazzi R, Stefanelli M, Redi C, Garagna S, Adjaye J. Maternal Oct-4 is a potential key regulator of the developmental competence of mouse oocytes. BMC Dev Biol. 2008;8:97. doi: 10.1186/1471-213X-8-97. [PMC free article] [PubMed] [Cross Ref]
+Zuccotti M, Merico V, Sacchi L, Bellone M, Brink T, Stefanelli M, Redi C, Bellazzi R, Adjaye J, Garagna S. Oct-4 regulates the expression of Stella and Foxj2 at the Nanog locus: implications for the developmental competence of mouse oocytes. Hum Reprod. 2009. [PubMed]
+Mattson BA, Albertini DF. Oogenesis: chromatin and microtubule dynamics during meiotic prophase. Mol Reprod Dev. 1990;25(4):374–383. doi: 10.1002/mrd.1080250411. [PubMed] [Cross Ref]
+Debey P, Szöllösi MS, Szöllösi D, Vautier D, Girousse A, Besombes D. Competent mouse oocytes isolated from antral follicles exhibit different chromatin organization and follow different maturation dynamics. Mol Reprod Dev. 1993;36(1):59–74. doi: 10.1002/mrd.1080360110. [PubMed] [Cross Ref]
+Zuccotti M, Piccinelli A, Giorgi Rossi P, Garagna S, Redi C. Chromatin organization during mouse oocyte growth. Mol Reprod Dev. 1995;41(4):479–485. doi: 10.1002/mrd.1080410410. [PubMed] [Cross Ref]
+Zuccotti M, Garagna S, Merico V, Monti M, Alberto Redi C. Chromatin organisation and nuclear architecture in growing mouse oocytes. Mol Cell Endocrinol. 2005;234(1-2):11–17. doi: 10.1016/j.mce.2004.08.014. [PubMed] [Cross Ref]
+Tan J, Wang H, Sun X, Liu Y, Sui H, Zhang J. Chromatin configurations in the germinal vesicle of mammalian oocytes. Mol Hum Reprod. 2009;15(1):1–9. doi: 10.1093/molehr/gan069. [PubMed] [Cross Ref]
+Zuccotti M, Giorgi Rossi P, Martinez A, Garagna S, Forabosco A, Redi C. Meiotic and developmental competence of mouse antral oocytes. Biol Reprod. 1998;58(3):700–704. doi: 10.1095/biolreprod58.3.700. [PubMed] [Cross Ref]
+Zuccotti M, Ponce R, Boiani M, Guizzardi S, Govoni P, Scandroglio R, Garagna S, Redi C. The analysis of chromatin organisation allows selection of mouse antral oocytes competent for development to blastocyst. Zygote. 2002;10(1):73–78. [PubMed]
+Inoue A, Nakajima R, Nagata M, Aoki F. Contribution of the oocyte nucleus and cytoplasm to the determination of meiotic and developmental competence in mice. Hum Reprod. 2008;23(6):1377–1384. doi: 10.1093/humrep/den096. [PubMed] [Cross Ref]
+Payer B, Saitou M, Barton SC, Thresher R, Dixon JP, Zahn D, Colledge WH, Carlton MB, Nakano T, Surani MA. Stella is a maternal effect gene required for normal early development in mice. Curr Biol. 2003;13(23):2110–2117. doi: 10.1016/j.cub.2003.11.026. [PubMed] [Cross Ref]
+Loh Y, Wu Q, Chew J, Vega V, Zhang W, Chen X, Bourque G, George J, Leong B, Liu J. et al. The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells. Nat Genet. 2006;38(4):431–440. doi: 10.1038/ng1760. [PubMed] [Cross Ref]
+Babaie Y, Herwig R, Greber B, Brink T, Wruck W, Groth D, Lehrach H, Burdon T, Adjaye J. Analysis of Oct4-dependent transcriptional networks regulating self-renewal and pluripotency in human embryonic stem cells. Stem Cells. 2007;25(2):500–510. doi: 10.1634/stemcells.2006-0426. [PubMed] [Cross Ref]
+Palmieri SL, Peter W, Hess H, Schöler HR. Oct-4 transcription factor is differentially expressed in the mouse embryo during establishment of the first two extraembryonic cell lineages involved in implantation. Dev Biol. 1994;166(1):259–267. doi: 10.1006/dbio.1994.1312. [PubMed] [Cross Ref]
+Liu L, Czerwiec E, Keefe D. Effect of ploidy and parental genome composition on expression of Oct-4 protein in mouse embryos. Gene Expr Patterns. 2004;4(4):433–441. doi: 10.1016/j.modgep.2004.01.004. [PubMed] [Cross Ref]
+Vassena R, Dee Schramm R, Latham KE. Species-dependent expression patterns of DNA methyltransferase genes in mammalian oocytes and preimplantation embryos. Mol Reprod Dev. 2005;72(4):430–436. doi: 10.1002/mrd.20375. [PubMed] [Cross Ref]
+Campbell P, Perez-Iratxeta C, Andrade-Navarro M, Rudnicki M. Oct4 targets regulatory nodes to modulate stem cell function. PLoS One. 2007;2(6):e553. doi: 10.1371/journal.pone.0000553. [PMC free article] [PubMed] [Cross Ref]
+Geuijen C, Bijl N, Smit R, Cox F, Throsby M, Visser T, Jongeneelen M, Bakker A, Kruisbeek A, Goudsmit J. et al. A proteomic approach to tumour target identification using phage display, affinity purification and mass spectrometry. Eur J Cancer. 2005;41(1):178–187. doi: 10.1016/j.ejca.2004.10.008. [PubMed] [Cross Ref]
+Maldonado-Saldivia J, van den Bergen J, Krouskos M, Gilchrist M, Lee C, Li R, Sinclair A, Surani M, Western P. Dppa2 and Dppa4 are closely linked SAP motif genes restricted to pluripotent cells and the germ line. Stem Cells. 2007;25(1):19–28. doi: 10.1634/stemcells.2006-0269. [PubMed] [Cross Ref]
+Madan B, Madan V, Weber O, Tropel P, Blum C, Kieffer E, Viville S, Fehling H. The pluripotency-associated gene Dppa4 is dispensable for embryonic stem cell identity and germ cell development but essential for embryogenesis. Mol Cell Biol. 2009;29(11):3186–3203. doi: 10.1128/MCB.01970-08. [PMC free article] [PubMed] [Cross Ref]
+Hu J, Wang F, Zhu X, Yuan Y, Ding M, Gao S. Mouse ZAR1-like (XM_359149) colocalizes with mRNA processing components and its dominant-negative mutant caused two-cell-stage embryonic arrest. Dev Dyn. 2010;239(2):407–424. doi: 10.1002/dvdy.22170. [PubMed] [Cross Ref]
+Zhang J, Tam W, Tong G, Wu Q, Chan H, Soh B, Lou Y, Yang J, Ma Y, Chai L. et al. Sall4 modulates embryonic stem cell pluripotency and early embryonic development by the transcriptional regulation of Pou5f1. Nat Cell Biol. 2006;8(10):1114–1123. doi: 10.1038/ncb1481. [PubMed] [Cross Ref]
+Elling U, Klasen C, Eisenberger T, Anlag K, Treier M. Murine inner cell mass-derived lineages depend on Sall4 function. Proc Natl Acad Sci USA. 2006;103(44):16319–16324. doi: 10.1073/pnas.0607884103. [PMC free article] [PubMed] [Cross Ref]
+Yang J, Gao C, Chai L, Ma Y. A novel SALL4/OCT4 transcriptional feedback network for pluripotency of embryonic stem cells. PLoS One. 2010;5(5):e10766. doi: 10.1371/journal.pone.0010766. [PMC free article] [PubMed] [Cross Ref]
+Choi Y, Qin Y, Berger M, Ballow D, Bulyk M, Rajkovic A. Microarray analyses of newborn mouse ovaries lacking Nobox. Biol Reprod. 2007;77(2):312–319. doi: 10.1095/biolreprod.107.060459. [PubMed] [Cross Ref]
+Pesce M, Wang X, Wolgemuth D, Schöler H. Differential expression of the Oct-4 transcription factor during mouse germ cell differentiation. Mech Dev. 1998;71(1-2):89–98. doi: 10.1016/S0925-4773(98)00002-1. [PubMed] [Cross Ref]
+Ali S, Zaidi S, Dobson J, Shakoori A, Lian J, Stein J, van Wijnen A, Stein G. Transcriptional corepressor TLE1 functions with Runx2 in epigenetic repression of ribosomal RNA genes. Proc Natl Acad Sci USA. 2010;107(9):4165–4169. doi: 10.1073/pnas.1000620107. [PMC free article] [PubMed] [Cross Ref]
+Knösel T, Heretsch S, Altendorf-Hofmann A, Richter P, Katenkamp K, Katenkamp D, Berndt A, Petersen I. TLE1 is a robust diagnostic biomarker for synovial sarcomas and correlates with t(X;18): analysis of 319 cases. Eur J Cancer. 2010;46(6):1170–1176. doi: 10.1016/j.ejca.2010.01.032. [PubMed] [Cross Ref]
+Tanaka T, Kunath T, Kimber W, Jaradat S, Stagg C, Usuda M, Yokota T, Niwa H, Rossant J, Ko M. Gene expression profiling of embryo-derived stem cells reveals candidate genes associated with pluripotency and lineage specificity. Genome Res. 2002;12(12):1921–1928. doi: 10.1101/gr.670002. [PMC free article] [PubMed] [Cross Ref]
+Kim S, Suh M, Yoon H, Lee J, Oh S, Moon S, Moon S, Lee J, Hwang J, Cho W. et al. Identification of developmental pluripotency associated 5 expression in human pluripotent stem cells. Stem Cells. 2005;23(4):458–462. doi: 10.1634/stemcells.2004-0245. [PubMed] [Cross Ref]
+Amano H, Itakura K, Maruyama M, Ichisaka T, Nakagawa M, Yamanaka S. Identification and targeted disruption of the mouse gene encoding ESG1 (PH34/ECAT2/DPPA5) BMC Dev Biol. 2006;6:11. doi: 10.1186/1471-213X-6-11. [PMC free article] [PubMed] [Cross Ref]
+Wellner U, Schubert J, Burk U, Schmalhofer O, Zhu F, Sonntag A, Waldvogel B, Vannier C, Darling D, zur Hausen A. et al. The EMT-activator ZEB1 promotes tumorigenicity by repressing stemness-inhibiting microRNAs. Nat Cell Biol. 2009;11(12):1487–1495. doi: 10.1038/ncb1998. [PubMed] [Cross Ref]
+Vandewalle C, Van Roy F, Berx G. The role of the ZEB family of transcription factors in development and disease. Cell Mol Life Sci. 2009;66(5):773–787. doi: 10.1007/s00018-008-8465-8. [PubMed] [Cross Ref]
+Hata K, Okano M, Lei H, Li E. Dnmt3L cooperates with the Dnmt3 family of de novo DNA methyltransferases to establish maternal imprints in mice. Development. 2002;129(8):1983–1993. [PubMed]
+Cirio M, Ratnam S, Ding F, Reinhart B, Navara C, Chaillet J. Preimplantation expression of the somatic form of Dnmt1 suggests a role in the inheritance of genomic imprints. BMC Dev Biol. 2008;8:9. doi: 10.1186/1471-213X-8-9. [PMC free article] [PubMed] [Cross Ref]
+Hirasawa R, Chiba H, Kaneda M, Tajima S, Li E, Jaenisch R, Sasaki H. Maternal and zygotic Dnmt1 are necessary and sufficient for the maintenance of DNA methylation imprints during preimplantation development. Genes Dev. 2008;22(12):1607–1616. doi: 10.1101/gad.1667008. [PMC free article] [PubMed] [Cross Ref]
+Chen T, Ueda Y, Dodge J, Wang Z, Li E. Establishment and maintenance of genomic methylation patterns in mouse embryonic stem cells by Dnmt3a and Dnmt3b. Mol Cell Biol. 2003;23(16):5594–5605. doi: 10.1128/MCB.23.16.5594-5605.2003. [PMC free article] [PubMed] [Cross Ref]
+Shovlin T, Bourc'his D, La Salle S, O'Doherty A, Trasler J, Bestor T, Walsh C. Sex-specific promoters regulate Dnmt3L expression in mouse germ cells. Hum Reprod. 2007;22(2):457–467. [PubMed]
+Bourc'his D, Xu G, Lin C, Bollman B, Bestor T. Dnmt3L and the establishment of maternal genomic imprints. Science. 2001;294(5551):2536–2539. doi: 10.1126/science.1065848. [PubMed] [Cross Ref]
+Vidal M. Role of polycomb proteins Ring1A and Ring1B in the epigenetic regulation of gene expression. Int J Dev Biol. 2009;53(2-3):355–370. doi: 10.1387/ijdb.082690mv. [PubMed] [Cross Ref]
+Leeb M, Wutz A. Ring1B is crucial for the regulation of developmental control genes and PRC1 proteins but not X inactivation in embryonic cells. J Cell Biol. 2007;178(2):219–229. doi: 10.1083/jcb.200612127. [PMC free article] [PubMed] [Cross Ref]
+Endoh M, Endo T, Endoh T, Fujimura Y, Ohara O, Toyoda T, Otte A, Okano M, Brockdorff N, Vidal M. et al. Polycomb group proteins Ring1A/B are functionally linked to the core transcriptional regulatory circuitry to maintain ES cell identity. Development. 2008;135(8):1513–1524. doi: 10.1242/dev.014340. [PubMed] [Cross Ref]
+van der Stoop P, Boutsma E, Hulsman D, Noback S, Heimerikx M, Kerkhoven R, Voncken J, Wessels L, van Lohuizen M. Ubiquitin E3 ligase Ring1b/Rnf2 of polycomb repressive complex 1 contributes to stable maintenance of mouse embryonic stem cells. PLoS One. 2008;3(5):e2235. doi: 10.1371/journal.pone.0002235. [PMC free article] [PubMed] [Cross Ref]
+Miyagishima H, Isono K, Fujimura Y, Iyo M, Takihara Y, Masumoto H, Vidal M, Koseki H. Dissociation of mammalian Polycomb-group proteins, Ring1B and Rae28/Ph1, from the chromatin correlates with configuration changes of the chromatin in mitotic and meiotic prophase. Histochem Cell Biol. 2003;120(2):111–119. doi: 10.1007/s00418-003-0551-2. [PubMed] [Cross Ref]
+Puschendorf M, Terranova R, Boutsma E, Mao X, Isono K, Brykczynska U, Kolb C, Otte A, Koseki H, Orkin S. et al. PRC1 and Suv39h specify parental asymmetry at constitutive heterochromatin in early mouse embryos. Nat Genet. 2008;40(4):411–420. doi: 10.1038/ng.99. [PubMed] [Cross Ref]
+Voncken J, Roelen B, Roefs M, de Vries S, Verhoeven E, Marino S, Deschamps J, van Lohuizen M. Rnf2 (Ring1b) deficiency causes gastrulation arrest and cell cycle inhibition. Proc Natl Acad Sci USA. 2003;100(5):2468–2473. doi: 10.1073/pnas.0434312100. [PMC free article] [PubMed] [Cross Ref]
+Nicolson G, Nawa A, Toh Y, Taniguchi S, Nishimori K, Moustafa A. Tumor metastasis-associated human MTA1 gene and its MTA1 protein product: role in epithelial cancer cell invasion, proliferation and nuclear regulation. Clin Exp Metastasis. 2003;20(1):19–24. doi: 10.1023/A:1022534217769. [PubMed] [Cross Ref]
+Kim S, Park J, Choi M, Kim H, Park J, Jung Y, Lee J, Oh D, Im S, Bang Y. et al. Zinc-fingers and homeoboxes 1 (ZHX1) binds DNA methyltransferase (DNMT) 3B to enhance DNMT3B-mediated transcriptional repression. Biochem Biophys Res Commun. 2007;355(2):318–323. doi: 10.1016/j.bbrc.2007.01.187. [PubMed] [Cross Ref]
+Palis J, Malik J, McGrath K, Kingsley P. Primitive erythropoiesis in the mammalian embryo. Int J Dev Biol. 2010;54(6-7):1011–1018. doi: 10.1387/ijdb.093056jp. [PubMed] [Cross Ref]
+Tokuzawa Y, Kaiho E, Maruyama M, Takahashi K, Mitsui K, Maeda M, Niwa H, Yamanaka S. Fbx15 is a novel target of Oct3/4 but is dispensable for embryonic stem cell self-renewal and mouse development. Mol Cell Biol. 2003;23(8):2699–2708. doi: 10.1128/MCB.23.8.2699-2708.2003. [PMC free article] [PubMed] [Cross Ref]
+Tan M, Davis S, Saunders T, Zhu Y, Sun Y. RBX1/ROC1 disruption results in early embryonic lethality due to proliferation failure, partially rescued by simultaneous loss of p27. Proc Natl Acad Sci USA. 2009;106(15):6203–6208. doi: 10.1073/pnas.0812425106. [PMC free article] [PubMed] [Cross Ref]
+Phillips K, Petrunewich M, Collins J, Baltz J. The intracellular pH-regulatory HCO3-/Cl- exchanger in the mouse oocyte is inactivated during first meiotic metaphase and reactivated after egg activation via the MAP kinase pathway. Mol Biol Cell. 2002;13(11):3800–3810. doi: 10.1091/mbc.E02-04-0242. [PMC free article] [PubMed] [Cross Ref]
+Zhao Y, Baltz J. Bicarbonate/chloride exchange and intracellular pH throughout preimplantation mouse embryo development. Am J Physiol. 1996;271(5 Pt 1):C1512–1520. [PubMed]
+Nguyen P, Bar-Sela G, Sun L, Bisht K, Cui H, Kohn E, Feinberg A, Gius D. BAT3 and SET1A form a complex with CTCFL/BORIS to modulate H3K4 histone dimethylation and gene expression. Mol Cell Biol. 2008;28(21):6720–6729. doi: 10.1128/MCB.00568-08. [PMC free article] [PubMed] [Cross Ref]
+Jauliac S, López-Rodriguez C, Shaw L, Brown L, Rao A, Toker A. The role of NFAT transcription factors in integrin-mediated carcinoma invasion. Nat Cell Biol. 2002;4(7):540–544. doi: 10.1038/ncb816. [PubMed] [Cross Ref]
+Katoh M. Human FOX gene family (Review) Int J Oncol. 2004;25(5):1495–1500. [PubMed]
+Bilanges B, Varrault A, Basyuk E, Rodriguez C, Mazumdar A, Pantaloni C, Bockaert J, Theillet C, Spengler D, Journot L. Loss of expression of the candidate tumor suppressor gene ZAC in breast cancer cell lines and primary tumors. Oncogene. 1999;18(27):3979–3988. doi: 10.1038/sj.onc.1202933. [PubMed] [Cross Ref]
+Cvetkovic D, Pisarcik D, Lee C, Hamilton T, Abdollahi A. Altered expression and loss of heterozygosity of the LOT1 gene in ovarian cancer. Gynecol Oncol. 2004;95(3):449–455. doi: 10.1016/j.ygyno.2004.08.051. [PubMed] [Cross Ref]
+Basyuk E, Coulon V, Le Digarcher A, Coisy-Quivy M, Moles J, Gandarillas A, Journot L. The candidate tumor suppressor gene ZAC is involved in keratinocyte differentiation and its expression is lost in basal cell carcinomas. Mol Cancer Res. 2005;3(9):483–492. doi: 10.1158/1541-7786.MCR-05-0019. [PubMed] [Cross Ref]
+Varrault A, Gueydan C, Delalbre A, Bellmann A, Houssami S, Aknin C, Severac D, Chotard L, Kahli M, Le Digarcher A. et al. Zac1 regulates an imprinted gene network critically involved in the control of embryonic growth. Dev Cell. 2006;11(5):711–722. doi: 10.1016/j.devcel.2006.09.003. [PubMed] [Cross Ref]
+Choong L, Lim S, Chong P, Wong C, Shah N, Lim Y. Proteome-wide profiling of the MCF10AT breast cancer progression model. PLoS One. 2010;5(6):e11030. doi: 10.1371/journal.pone.0011030. [PMC free article] [PubMed] [Cross Ref]
+Shibata H, Ueda T, Kamiya M, Yoshiki A, Kusakabe M, Plass C, Held W, Sunahara S, Katsuki M, Muramatsu M. et al. An oocyte-specific methylation imprint center in the mouse U2afbp-rs/U2af1-rs1 gene marks the establishment of allele-specific methylation during preimplantation development. Genomics. 1997;44(2):171–178. doi: 10.1006/geno.1997.4877. [PubMed] [Cross Ref]
+Zhang Z, Joh K, Yatsuki H, Wang Y, Arai Y, Soejima H, Higashimoto K, Iwasaka T, Mukai T. Comparative analyses of genomic imprinting and CpG island-methylation in mouse Murr1 and human MURR1 loci revealed a putative imprinting control region in mice. Gene. 2006;366(1):77–86. doi: 10.1016/j.gene.2005.08.020. [PubMed] [Cross Ref]
+Dean W, Bowden L, Aitchison A, Klose J, Moore T, Meneses J, Reik W, Feil R. Altered imprinted gene methylation and expression in completely ES cell-derived mouse fetuses: association with aberrant phenotypes. Development. 1998;125(12):2273–2282. [PubMed]
+Wang M, Hu Y, Stearns M. RPS2: a novel therapeutic target in prostate cancer. J Exp Clin Cancer Res. 2009;28:6. doi: 10.1186/1756-9966-28-6. [PMC free article] [PubMed] [Cross Ref]
+De Bortoli M, Castellino R, Lu X, Deyo J, Sturla L, Adesina A, Perlaky L, Pomeroy S, Lau C, Man T. et al. Medulloblastoma outcome is adversely associated with overexpression of EEF1D, RPL30, and RPS20 on the long arm of chromosome 8. BMC Cancer. 2006;6:223. doi: 10.1186/1471-2407-6-223. [PMC free article] [PubMed] [Cross Ref]
+Yoon S, Kim J, Oh J, Jeon Y, Lee D, Kim J, Choi J, Ahn B, Kim S, Yoo H. et al. Gene expression profiling of human HBV- and/or HCV-associated hepatocellular carcinoma cells using expressed sequence tags. Int J Oncol. 2006;29(2):315–327. [PubMed]
+Li L, Baibakov B, Dean J. A subcortical maternal complex essential for preimplantation mouse embryogenesis. Dev Cell. 2008;15(3):416–425. doi: 10.1016/j.devcel.2008.07.010. [PMC free article] [PubMed] [Cross Ref]
+Ohsugi M, Zheng P, Baibakov B, Li L, Dean J. Maternally derived FILIA-MATER complex localizes asymmetrically in cleavage-stage mouse embryos. Development. 2008;135(2):259–269. [PubMed]
+Cheng K, Agarwal R, Mills G. Ras-superfamily GTP-ases in ovarian cancer. Cancer Treat Res. 2009;149:229–240. doi: 10.1007/978-0-387-98094-2_11. [PubMed] [Cross Ref]
+Kimple R, Willard F, Hains M, Jones M, Nweke G, Siderovski D. Guanine nucleotide dissociation inhibitor activity of the triple GoLoco motif protein G18: alanine-to-aspartate mutation restores function to an inactive second GoLoco motif. Biochem J. 2004;378(Pt 3):801–808. [PubMed]
+Van Wesenbeeck L, Odgren P, Coxon F, Frattini A, Moens P, Perdu B, MacKay C, Van Hul E, Timmermans J, Vanhoenacker F. et al. Involvement of PLEKHM1 in osteoclastic vesicular transport and osteopetrosis in incisors absent rats and humans. J Clin Invest. 2007;117(4):919–930. doi: 10.1172/JCI30328. [PMC free article] [PubMed] [Cross Ref]
+Kajiho H, Saito K, Tsujita K, Kontani K, Araki Y, Kurosu H, Katada T. RIN3: a novel Rab5 GEF interacting with amphiphysin II involved in the early endocytic pathway. J Cell Sci. 2003;116(Pt 20):4159–4168. [PubMed]
+Markljung E, Jiang L, Jaffe J, Mikkelsen T, Wallerman O, Larhammar M, Zhang X, Wang L, Saenz-Vash V, Gnirke A. et al. ZBED6, a novel transcription factor derived from a domesticated DNA transposon regulates IGF2 expression and muscle growth. PLoS Biol. 2009;7(12):e1000256. doi: 10.1371/journal.pbio.1000256. [PMC free article] [PubMed] [Cross Ref]
+Farrar M, Johnston H, Grattan-Smith P, Turner A, Kiernan M. Spinal muscular atrophy: molecular mechanisms. Curr Mol Med. 2009;9(7):851–862. doi: 10.2174/156652409789105516. [PubMed] [Cross Ref]
+Petropoulou C, Kotantaki P, Karamitros D, Taraviras S. Cdt1 and Geminin in cancer: markers or triggers of malignant transformation? Front Biosci. 2008;13:4485–4494. [PubMed]
+Gotter A. Tipin, a novel timeless-interacting protein, is developmentally co-expressed with timeless and disrupts its self-association. J Mol Biol. 2003;331(1):167–176. doi: 10.1016/S0022-2836(03)00633-8. [PubMed] [Cross Ref]
+Huarte J, Stutz A, O'Connell M, Gubler P, Belin D, Darrow A, Strickland S, Vassalli J. Transient translational silencing by reversible mRNA deadenylation. Cell. 1992;69(6):1021–1030. doi: 10.1016/0092-8674(92)90620-R. [PubMed] [Cross Ref]
+Gu W, Tekur S, Reinbold R, Eppig J, Choi Y, Zheng J, Murray M, Hecht N. Mammalian male and female germ cells express a germ cell-specific Y-Box protein, MSY2. Biol Reprod. 1998;59(5):1266–1274. doi: 10.1095/biolreprod59.5.1266. [PubMed] [Cross Ref]
+Davies H, Giorgini F, Fajardo M, Braun R. A sequence-specific RNA binding complex expressed in murine germ cells contains MSY2 and MSY4. Dev Biol. 2000;221(1):87–100. doi: 10.1006/dbio.2000.9658. [PubMed] [Cross Ref]
+Rana T. Illuminating the silence: understanding the structure and function of small RNAs. Nat Rev Mol Cell Biol. 2007;8(1):23–36. [PubMed]
+Sebastiano V, Gentile L, Garagna S, Redi C, Zuccotti M. Cloned pre-implantation mouse embryos show correct timing but altered levels of gene expression. Mol Reprod Dev. 2005;70(2):146–154. doi: 10.1002/mrd.20144. [PubMed] [Cross Ref]
+Li X, Kato Y, Tsunoda Y. Comparative analysis of development-related gene expression in mouse preimplantation embryos with different developmental potential. Mol Reprod Dev. 2005;72(2):152–160. doi: 10.1002/mrd.20346. [PubMed] [Cross Ref]
+Wei Z, Yang Y, Zhang P, Andrianakos R, Hasegawa K, Lyu J, Chen X, Bai G, Liu C, Pera M. et al. Klf4 interacts directly with Oct4 and Sox2 to promote reprogramming. Stem Cells. 2009;27(12):2969–2978. [PubMed]
+Hartshorn C, Eckert J, Hartung O, Wangh L. Single-cell duplex RT-LATE-PCR reveals Oct4 and Xist RNA gradients in 8-cell embryos. BMC Biotechnol. 2007;7:87. doi: 10.1186/1472-6750-7-87. [PMC free article] [PubMed] [Cross Ref]
+Zernicka-Goetz M, Morris S, Bruce A. Making a firm decision: multifaceted regulation of cell fate in the early mouse embryo. Nat Rev Genet. 2009;10(7):467–477. [PubMed]
+Jung M, Peterson H, Chavez L, Kahlem P, Lehrach H, Vilo J, Adjaye J. A data integration approach to mapping OCT4 gene regulatory networks operative in embryonic stem cells and embryonal carcinoma cells. PLoS One. 2010;5(5):e10709. doi: 10.1371/journal.pone.0010709. [PMC free article] [PubMed] [Cross Ref]
+Adhikary S, Eilers M. Transcriptional regulation and transformation by Myc proteins. Nat Rev Mol Cell Biol. 2005;6(8):635–645. doi: 10.1038/nrm1703. [PubMed] [Cross Ref]
+Monk M, Holding C. Human embryonic genes re-expressed in cancer cells. Oncogene. 2001;20(56):8085–8091. doi: 10.1038/sj.onc.1205088. [PubMed] [Cross Ref]
+Rowland B, Peeper D. KLF4, p21 and context-dependent opposing forces in cancer. Nat Rev Cancer. 2006;6(1):11–23. doi: 10.1038/nrc1780. [PubMed] [Cross Ref]
+Tsukamoto T, Mizoshita T, Mihara M, Tanaka H, Takenaka Y, Yamamura Y, Nakamura S, Ushijima T, Tatematsu M. Sox2 expression in human stomach adenocarcinomas with gastric and gastric-and-intestinal-mixed phenotypes. Histopathology. 2005;46(6):649–658. doi: 10.1111/j.1365-2559.2005.02170.x. [PubMed] [Cross Ref]
+Perry A. Induced pluripotency and cellular alchemy. Nat Biotechnol. 2006;24(11):1363–1364. doi: 10.1038/nbt1106-1363. [PubMed] [Cross Ref]
+Sengupta A, Cancelas J. Cancer stem cells: a stride towards cancer cure? J Cell Physiol. 2010;225(1):7–14. doi: 10.1002/jcp.22213. [PubMed] [Cross Ref]
+Nuzzo A, Mulas F, Gabetta M, Arbustini E, Zupan B, Larizza C, Bellazzi R. Text Mining approaches for automated literature knowledge extraction and representation. Stud Health Technol Inform. 2010;160(Pt 2):954–958. [PubMed]
+Zuccotti M, Boiani M, Ponce R, Guizzardi S, Scandroglio R, Garagna S, Redi CA. Mouse Xist expression begins at zygotic genome activation and is timed by a zygotic clock. Mol Reprod Dev. 2002;61(1):14–20. doi: 10.1002/mrd.1126. [PubMed] [Cross Ref]

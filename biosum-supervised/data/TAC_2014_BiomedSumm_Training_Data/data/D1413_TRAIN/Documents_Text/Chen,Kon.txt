@@ -1,0 +1,419 @@
+Differential Effects on ARF Stability by Normal versus Oncogenic Levels of c-Myc Expression
+Delin Chen1, Ning Kon1, Jiayun Zhong1, Pingzhao Zhang1, 2, Long Yu2, Wei Gu1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molcel.2013.05.006
+Get rights and content
+Highlights
+•
+ARF stability is differentially regulated by c-Myc levels
+•
+ARF is degraded upon DNA damage by ULF
+•
+Myc overexpression prevents DNA damage-induced ARF degradation
+•
+ARF stabilization is critical for p53-mediated apoptosis upon Myc overexpression
+Summary
+ARF suppresses aberrant cell growth upon c-Myc overexpression by activating p53 responses. Nevertheless, the precise mechanism by which ARF specifically restrains the oncogenic potential of c-Myc without affecting its normal physiological function is not well understood. Here, we show that low levels of c-Myc expression stimulate cell proliferation, whereas high levels inhibit by activating the ARF/p53 response. Although the mRNA levels of ARF are induced in both scenarios, the accumulation of ARF protein occurs only when ULF-mediated degradation of ARF is inhibited by c-Myc overexpression. Moreover, the levels of ARF are reduced through ULF-mediated ubiquitination upon DNA damage. Blocking ARF degradation by c-Myc overexpression dramatically stimulates the apoptotic responses. Our study reveals that ARF stability control is crucial for differentiating normal (low) versus oncogenic (high) levels of c-Myc expression and suggests that differential effects on ULF- mediated ARF ubiquitination by c-Myc levels act as a barrier in oncogene-induced stress responses.
+
+Introduction
+ARF (known as p14ARF in human and p19ARF in mouse) was identified initially as the product of an alternative reading frame of the Ink4a/ARF tumor suppressor locus (Sherr 2001; Sharpless and DePinho 2004). One of the major functions of ARF is to activate the p53 pathway by inhibiting the E3 ligase activity of either Mdm2 or ARF-BP1 to degrade p53 (Pomerantz et al., 1998; Kamijo et al., 1997; Zhang et al., 1998; Chen et al., 2005; Kon et al., 2012). ARF does, however, also function to inhibit cell growth in a p53-independent manner (Kuo et al., 2003; Chen et al., 2005). The molecular dissection of ARF regulation was focused on its transcriptional levels. As reported in numerous studies, transcription of ARF is induced by oncogenes, such as Myc, Ras, E2F1, and E1A, and repressed upon overexpression of Rb-E2F complexes, Twist, Bim1, and certain T-box factors ( Sherr, 2006). Recent studies indicate that ARF polypeptides are degraded by the ubiquitination pathway ( Kuo et al., 2004); subsequently, ULF has been identified as the specific E3 ubiquitin ligase for ARF turnover ( Chen et al., 2010a). Interestingly, several cellular factors, such as c-Myc and NPM or the potential tumor suppressor TRADD, have been found to play critical roles in tumorigenesis, at least in part by regulating ULF-mediated ARF ubiquitination ( Chen et al., 2010a; Chio et al., 2012).
+
+c-Myc is a basic helix-loop-helix leucine zipper transcription factor driving a range of cellular responses depending on the cellular context (Dang et al., 2006; Zeller et al., 2003). In normal cells, both messenger RNA (mRNA) level and protein expression of c-Myc are low, whereas cells stimulated by growth factor can have a relatively high amount of c-Myc (Liu and Levens, 2006; Rabbitts et al., 1985; Ramsay et al., 1984). In most human cancers, however, c-Myc expression is deregulated and/or significantly increased. c-Myc was first identified as an oncogene, since supraphysiological levels of Myc promote cell proliferation, tumorigenesis, and cell transformation. Notably, inactivation of the c-myc gene leads to embryonic lethality and significantly impairs normal development and cell growth, implicating a normal physiological role for c-Myc in vivo ( Mateyak et al., 1997; Baudino et al., 2002). On the other hand, overexpression of Myc engages the ARF/p53 tumor suppressor pathway and apoptosis, which inhibit cell growth and restrict Myc’s oncogenic potential. Myc’s paradoxical properties have been further supported in recent studies ( Murphy et al., 2008; Tran et al., 2008), reporting that low-level deregulated c-Myc may be a more efficient initiator of oncogenesis than overexpressed c-Myc, since the latter can be bypassed only in the cells where the ARF/p53 pathways are disabled. Indeed, high initial levels of Myc can prolong the mean latency and delay tumor onset in a transgenic RasG12D lung tumor model ( Tran et al., 2008). Thus, the precise mechanism by which ARF specifically restrains the oncogenic potential of c-Myc without affecting its normal physiological function is a critical issue that needs to be further elucidated. Here, we show that low levels of c-Myc expression can promote cell growth and only induce ARF transcription without significantly elevating its protein levels. In contrast, high levels of c-Myc overexpression not only induce ARF transcription, but also stabilize ARF by inhibiting ULF activity, which subsequently leads to p53 activation and suppression of c-Myc oncogenic activity. Moreover, ARF is degraded by ULF upon DNA damage; this degradation can be inhibited by c-Myc overexpression, which dramatically sensitizes the cells to p53-mediated apoptosis.
+
+Results
+Different Levels of c-Myc Expression Have Opposite Effects on Cell Growth Due To its Distinct Effects on the Interaction between ULF and ARF
+Previous studies suggest that low levels of deregulated c-Myc may be a more efficient initiator of oncogenesis, since overexpressed c-Myc may breach the ARF/apoptotic threshold and engage intrinsic tumor suppression (Murphy et al., 2008; Tran et al., 2008). Accordingly, we infected normal human fibroblast cells (NHF-1) with c-Myc recombinant adenovirus at different multiplicities of infection (moi) for 36 hr. NHF-1 cells infected by low levels of adenovirus (Ad)-Myc (moi 10) grew faster than those infected with Ad-control, while a slower growth was observed at high levels of Ad-Myc (moi 50) (Figure 1A). By monitoring 5-bromo-2′-deoxyuridine (BrdU) incorporation (Figure 1B), we confirmed that low levels of c-Myc promote, whereas high levels of c-Myc inhibit, the growth of NHF-1 cells. To further analyze the relationship between cell growth and c-Myc expression in NHF-1 cells, we first examined the ARF mRNA level as well as protein expression in those cells. As shown in Figure 1C, a low amount of c-Myc significantly induced ARF mRNA level but did not result in accumulation of ARF protein (lane 2 versus lane 1; also see Figure S1 available online), which only increased in the presence of high Myc expression (lane 3 versus lane 1). Consistently, p53 and its downstream targets p21, PUMA, and Bax were activated by high expression of c-Myc ( Figure 1C, lane 3 versus lane 1) but not by a low level of c-Myc (lane 2 versus lane 1). Thus, it appears that ARF protein elevation is mainly due to posttranslational modification. To examine whether the cell growth inhibition induced by high levels of Myc expression is ARF dependent, we treated the cells (NHF-1) with either control RNAi or ARF-RNAi and then infected them with high levels of Ad-Myc (moi 50). As shown in Figure 1D, inactivation of ARF expression by RNAi-mediated knockdown completely reversed the cell growth repression induced by high levels of c-Myc expression.
+
+Full-size image (59 K)
+Figure 1. 
+Different Levels of c-Myc Overexpression Have Opposite Cellular Growth Effects Dependent on ARF
+(A) Growth curve of NHF-1 cells. The NHF-1 cells were infected with low (Ad-Myc [moi 10] plus control virus [moi 40]) and high levels of Ad-Myc (moi 50) versus control virus (moi 50) for 36 hr and replated in normal medium (day 1). Error bars represent SD (n = 3).
+(B) The BrdU incorporation of the NHF-1 cells treated with low and high levels of Ad-Myc versus control virus.
+(C) Western blot analysis of cell extracts from NHF-1 cells infected with different levels of Ad-Myc (lane 3 versus lane 2) as well as control adenovirus (lane 1) by anti-Myc, -ARF, -p53, -p21, -nucleolin, -PUMA, and -Bax antibodies. ARF, nucleolin, and GAPDH mRNA expression levels by RT-PCR are shown in lower panels.
+(D) Growth curve of NHF-1 cells treated with ARF RNAi versus control RNAi. The RNAi-treated NHF-1 cells were infected with high levels of Ad-Myc (moi 50) versus control virus (moi 50) for 36 hr and replated in normal medium (day 1). Error bars represent SD (n = 3). See also Figure S1.
+Figure options
+We showed previously that overexpression of c-Myc can block the interaction between ARF and ULF and mediates transcription-independent ARF upregulation (Chen et al., 2010a). It is reasonable to speculate that Myc levels have to reach the certain threshold to efficiently block the interaction between ARF and ULF. To test this hypothesis, we transfected the expression vectors of ARF, ULF, and Myc in 293T cells. As expected, higher expression of c-Myc blocked the ULF and ARF interaction (Figure 2A, lane 8 versus lane 6), but lower levels of Myc failed to do so (lane 7 versus lane 6). Furthermore, higher, but not lower, expression of Myc prevented ARF ubiquitination mediated by ULF (Figure 2B, lane 4 versus lane 3). Together, these results indicate that in contrast to high levels of Myc expression, low levels of Myc (below the threshold) are not capable of abrogating the interaction between ULF and ARF, inhibiting ARF ubiquitination by ULF and stabilizing ARF.
+
+Full-size image (47 K)
+Figure 2. 
+Distinct Effects of Different c-Myc Expression Levels on ULF and ARF
+(A) Higher, but not lower, levels of c-Myc block the interaction between ULF and ARF. In order to better monitor the binding affinity, cells were pretreated with proteasome inhibitors. Western blot analysis of crude cell extracts and M2 immunoprecipitates from human 293T cells transfected with expression vectors of ARF, FH-ULF (FH, Flag- and HA-tagged), and low to high amounts of c-Myc (1:5 ratio) in the presence of proteasome inhibitor epoxomycin by anti-HA for ULF, anti-ARF, and -Myc antibodies.
+(B) Higher, but not lower, overexpression of c-Myc inhibits ARF ubiquitination mediated by ULF. Human 293T cells were cotransfected with vectors encoding HA-tagged ubiquitin, ARF, ULF, and low to high amounts of Myc (1:5 ratio) as indicated. Lysates were immunoprecipitated with anti-ARF antibody (Ab-4, Lab Vision), and proteins were blotted with antibodies to the HA-tag (top) or ARF (middle). Ectopic Myc in crude lysates was analyzed by western blot with 9E10 antibody (bottom).
+(C) Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for the Ad-Myc-infected NHF cells as well as those cells with additional 0.2 mg/ml doxorubicin treatment by FACS. Error bars represent SD (n = 3).
+(D) Apoptotic response mediated by DNA damage in high-Myc overexpression NHF-1 cells is ARF dependent. Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for ARF RNAi-treated NHF-1 cells followed by 36 hr of Ad-Myc virus (moi 50) infection and, subsequently, 24 hr of 0.2 mg/ml doxorubicin treatment by FACS. Error bars represent SD (n = 3). See also Figure S2.
+Figure options
+ARF Is Degraded upon DNA Damage in Normal Human Fibroblast Cells
+p53-mediated apoptosis is well documented in most of the cells expressing wild-type p53; nevertheless, normal human fibroblasts are not sensitive to DNA damage-induced apoptosis unless in the presence of high levels of c-Myc expression. To further ascertain the functional outcomes at different levels of Myc expression under cellular stress, we treated the normal human fibroblast cells with doxorubicin for 24 hr after adenovirus infection of c-Myc. As shown in Figure 2C, high levels of c-Myc expression dramatically induced apoptosis after DNA damage (83%), while control virus or low levels of Myc showed much less DNA damage-induced apoptosis (about 20% or less) (also see Figure S2A). Notably, there was a modest increase in cell death observed in the cells with high levels of Myc expression in the absence of doxorubicin treatment; however, the apoptotic response was much weaker compared to the same cells under the DNA damage condition (Figure 2C). Thus, the cell growth repression induced by high levels of Myc is probably caused by both inhibition of cell proliferation and low levels of apoptosis. Moreover, we examined whether the apoptotic response of these cells under DNA damage conditions is ARF dependent. As shown in Figure 2D, RNAi-mediated knockdown of ARF significantly abrogated the apoptotic response induced by high levels of c-Myc expression upon DNA damage (also see Figure S2B). Thus, these data demonstrate that both cell growth repression and DNA damage-induced apoptosis enhanced by high levels of c-Myc expression are ARF dependent.
+
+Our studies consistently show that c-Myc-mediated upregulation of ARF acts through both transcription-dependent and transcription-independent mechanisms (Chen et al., 2010a). It is very likely that ARF stabilization induced by high levels of Myc modulates the sensitivity of these cells to p53-mediated apoptosis. Although p53 activation is well documented in DNA damage responses, the role of ARF in p53 regulation upon DNA damage is not well understood in normal cells (Lo and Lu, 2010; Kovi et al., 2010; di Tommaso et al., 2009; Itahana et al., 2008; Tompkins et al., 2007).
+
+In this regard, we treated the normal human fibroblast cells with doxorubicin and harvested the cells at different time points. As expected, p53 was stabilized upon the doxorubicin treatment and p21 was activated through p53-mediated transcriptional upregulation (Figure 3A, lanes 1–6). Interestingly, the levels of ARF protein gradually decreased at each time point and almost disappeared at 24 hr. Notably, the mRNA levels of ARF were only slightly reduced, possibly due to repression by p53 activation (also see Figure S3A) ( Zeng et al., 2011). Those results indicate that the reduced total ARF proteins were mainly caused by degradation, which was completely inhibited in the presence of a proteasome inhibitor, epoxomycin ( Figure 3A, lanes 7 and 8). Similar results were also obtained when the cells were treated with other DNA damaging agents such as etoposide or ionizing irradiation ( Figure 3B). In addition, the decreased half-life of ARF was observed after doxorubicin treatment ( Figures 3C and S3B). To further confirm these observations, we performed the same treatment in IMR-90, another normal human fibroblast cell line. Again, in contrast to p53, the levels of ARF were dramatically reduced in these cells upon the treatment of doxorubicin ( Figure 3D). Together, these data demonstrate that ARF is degraded upon DNA damage in normal human fibroblast cells.
+
+Full-size image (68 K)
+Figure 3. 
+DNA Damage Induces a Ubiquitination-Dependent Human ARF Degradation
+(A) Western blot analysis of cell extracts from NHF-1 cells harvested at indicated time points after 0.2 mg/ml doxorubicin and/or 100 nm epoxomycin treatment by anti-ARF, -p53, -p21, -p16, -ULF, and -NPM antibodies. ARF and GAPDH mRNA expression levels, determined by RT-PCR, are shown in lower panels.
+(B) Western blot analysis of cell extracts from NHF-1 cells treated with 20 μm etoposide (lane 2) for 24 hr or 5 Gy ionizing radiation (irradiation; lane 3) versus control (lane 1).
+(C) Western blot analysis of cell extracts by an anti-ARF antibody from control (lanes 1–4) or NHF-1 cells treated with doxorubicin for 20 hr (lanes 5–8) followed by cyclohexamide (CHX) treatment (min).
+(D) Western blot analysis of cell extracts from normal human IMR-90 cells treated with 0.2 mg/ml doxorubicin (lane 2) together with 100 nm epoxomycin (lane 3) or control (lane 1) by anti-ARF, -p53, -p21, and -p16 antibodies. ARF and GAPDH mRNA expression levels, determined by RT-PCR, are shown in lower panels. See also Figure S3.
+Figure options
+ULF Plays an Important Role in DNA Damage-Mediated Apoptotic Responses in Normal Human Cells
+To examine the role of ULF in ARF degradation mediated by DNA damage, we tested whether knockdown of ULF can affect ARF levels. As shown in Figure 4A, ULF knockdown significantly increased the levels of ARF and enhanced the steady-state levels of p53 and its targets p21 and PUMA (Figure 4A, lanes 5–8 versus lanes 1–4; also see Figure S4A). To avoid potential off-target effects by RNAi-mediated knockdown, we used two additional RNAi oligos against ULF in the same assays and obtained similar results (Figures S4B and S4C). These data suggest that ULF, at least in part, contributes to ARF degradation during the cellular response to the doxorubicin treatment. To further investigate the functional consequence of ULF-mediated degradation of ARF in DNA damage responses, we examined the effects of ULF knockdown in p53-mediated apoptosis. Although p53-mediated apoptosis is well demonstrated in many cell types, it is commonly observed that most of the normal cells, such as normal human fibroblasts, are resistant to p53-mediated apoptosis upon DNA damage. As expected, ULF knockdown elevated the levels of p53, but this regulation was diminished upon codepletion of both ULF and ARF (Figure 4B). Moreover, only a very small portion of apoptotic cells was detected in these NHF-1 cells after doxorubicin treatment; however, ULF knockdown cells showed dramatically elevated levels of apoptosis (Figure 4C). To further elucidate whether DNA damage-induced apoptosis mediated by ARF stabilization is both ARF and p53 dependent, we examined the apoptotic responses in ARF-depleted or p53-depleted cells. As shown in Figure 4C, in contrast to high levels of DNA damage-induced apoptosis by ULF knockdown, the apoptosis activities were markedly diminished in NHF-1 cells upon small interfering RNA (siRNA)-mediated depletion of both ULF and ARF or codepletion of ULF and p53. Taken together, these data suggest that ARF stabilization by ULF knockdown significantly sensitizes the cells to DNA damage-induced apoptosis and that the apoptotic responses are both ARF and p53 dependent. Interestingly, the levels of cell death induced by c-Myc overexpression (Figure 2D) are much higher than the levels in ULF knockdown cells (Figure 4C), raising an interesting issue: the apoptotic effect of c-Myc overexpression may also act through other unknown mechanisms that need future investigation.
+
+Full-size image (66 K)
+Figure 4. 
+Blocking ARF Degradation by ULF Knockdown Induces DNA Damage-Mediated Apoptosis in Normal Human Fibroblast Cells
+(A) Western blot analysis of cell extracts with anti-ARF, -ULF, -p53, -p21, -c-Myc, and -PUMA antibodies from ULF-depleted NHF-1 cells (lanes 5–8) versus control (lanes 1–4), followed by additional 0.2 mg/ml doxorubicin treatment for the indicated time (hr).
+(B) Western blot analysis of cell extracts from NHF-1 cells treated with ULF RNAi (lanes 2 and 7), ULF plus ARF RNAi (lanes 3 and 8), ULF plus p53 RNAi (lanes 4 and 9), and ARF RNAi (lanes 5 and 10) versus control RNAi (lanes 1 and 6), followed by 0.2 mg/ml doxorubicin treatment (lanes 6–10).
+(C) Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for NHF-1 cells treated with ULF RNAi, ULF plus ARF RNAi, ULF plus p53 RNAi, and ARF RNAi versus control RNAi, followed by 0.2 mg/ml doxorubicin treatment by FACS. Error bars represent SD (n = 3). See also Figure S4.
+Figure options
+ARF Stabilization Is Crucial for Apoptotic Responses in MEFs
+To further elucidate the role of ULF-mediated degradation of ARF in DNA damage responses, we tested whether ULF was also involved in the degradation of mouse ARF protein (p19) in primary mouse embryonic fibroblast (MEF) cells. As shown in Figure 5A, the levels of p19 were indeed increased upon ULF knockdown, suggesting that ULF is also responsible for ARF degradation in these primary MEFs. Notably, the ARF level also decreased significantly in response to the treatment of doxorubicin (Figure 5B).
+
+Full-size image (60 K)
+Figure 5. 
+Loss of ULF Stabilizes ARF and Promotes p53-Dependent Apoptosis Mediated by DNA Damage in MEFs
+(A) Western blot analysis of cell extracts with anti-ARF, -ULF, and -actin antibodies from ULF knockdown primary MEFs by shRNA (lanes 2 and 3) versus control primary MEFs (lane 1).
+(B) Western blot analysis of cell extracts from primary MEFs harvested at indicated time points after 0.2 mg/ml doxorubicin treatment by anti-ARF, -p53, -NPM and -p16 antibodies. ARF and GAPDH mRNA expression levels by RT-PCR are shown in lower panels.
+(C) Western blot analysis of cell extracts with anti-ULF, -ARF, -p53, -p21, -cleaved caspase-3, -Bax and -PUMA antibodies from ULF-deleted primary MEFfl/fl cells by Ad-CMV-Cre- (lanes 3 and 4) versus Ad-CMV-GFP-infected primary MEFfl/fl cells (lanes 1 and 2), followed by doxorubicin treatment (lanes 2 and 4) or without treatment (lanes 1 and 3).
+(D) Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for the same cells in Figure 5C. Error bars represent SD (n = 3).
+(E) ULF depletion sensitizing DNA damage-mediated apoptosis in primary MEF cells is ARF and p53 dependent. Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for primary wild-type, p53−/−, and ARF−/− MEFs infected with ULF shRNA versus control shRNA lentivirus, subjected to puromycin selection, and followed by 0.2 mg/ml doxorubicin treatment by FACS. Error bars represent SD (n = 3). See also Figure S5.
+Figure options
+To explore the role of ULF in the regulation of ARF stability under more physiological settings, we generated ULF knockout cells. To circumvent the embryonic lethality of ulf conventional knockout mice ( Kajiro et al., 2011), we designed a conditional knockout allele of ulf, in which exon 5 (total of 41 exons, ensemble) is flanked by LoxP sites (floxed) to permit deletion of exon 5 upon Cre expression ( Figure S5A). Deletion of exon 5 causes a reading frameshift and results in loss of the majority of ULF protein. A total of 34 targeted clones were obtained from 200 embryonic stem cell (ESC) clones screened by Southern blot ( Figure S5B). Two independent clones were injected into blastocysts to achieve germline transmission of the conditional knockout allele. The ulffl/+ mice were intercrossed to generate ulf conditional knockout homozygous mice (ulffl/fl), and their progenies were genotyped by PCR ( Figure S5C). Both ulffl/+ and ulffl/fl were indistinguishable from wild-type littermates, suggesting that floxing exon 5 of ulf did not cause any noticeable changes in ulf expression. In order to undergo Cre-mediated deletion of the floxed ulf allele, ulf conditional knockout MEFs from embryonic day 13.5 (E13.5) embryos were transduced with Ad-CMV-Cre (moi 200, Vector BioLabs) for 2 days. As shown in Figure 5C, ULF protein was nearly depleted in ulffl/fl after Ad-Cre virus infection (lane 3 versus lane 1). Significantly, ARF was accumulated in ulf knockout MEFs, which led to activation of p53 and its target (p21) and apoptotic genes Bax and caspase-3. Notably, after additional doxorubicin treatment for 16 hr, ARF degradation was significantly attenuated in ulf knockout MEFs, which resulted in more sensitive responses of p53 and its targets upon DNA damage ( Figure 5C, lane 4 versus lane 2). These data strongly support the notion that ULF contributes to ARF degradation in response to DNA damage. Furthermore, we examined the effects of p53-mediated apoptosis under DNA damage. As expected, no significant number of apoptotic cells was observed in these MEFs infected with Ad-GFP virus after doxorubicin treatment, whereas a high percentage of apoptotic cells was found in ulf knockout MEFs with the same treatment ( Figure 5D). Finally, we examined the apoptotic responses in wild-type MEFs, ARF null MEFs, and p53 null MEFs. As shown in Figure 5E, RNAi-mediated ULF knockdown induced high levels of the apoptotic responses in wild-type MEFs upon DNA damage. However, the apoptotic activities were largely abolished in either ARF null MEFs or p53 null MEFs under the same conditions. Taken together, these data further support the notion that ARF stabilization is critical for DNA damage-mediated apoptotic responses and that the apoptotic responses observed here are both ARF and p53 dependent.
+
+Suppression of ULF-Mediated ARF Degradation by Myc Overexpression Is Critical for DNA Damage-Induced Apoptosis in MEFs
+We previously identified a transcription-defective mutant, MycΔBR, that can still interact with ULF and inhibit its ability to degrade ARF (Figure 6A). To further examine whether Myc-mediated ARF stabilization contributes to p53-dependent apoptosis, we infected primary MEFs with the adenovirus expressing the MycΔBR protein or control virus for 48 hr, followed by doxorubicin treatment for 24 hr. As expected ARF levels were higher in MEFs infected with Ad-MycΔBR than in the control cells (Figure 6B, lane 3 versus lane 1). Moreover, ARF remained higher in Ad-MycΔBR-infected MEFs, whereas it decreased in the control cells upon doxorubicin treatment (Figure 6B, lane 4 versus lane 2). It is well known that p53-mediated cell-cycle arrest is easily detected in primary MEFs, but these cells are resistant to p53-mediated apoptosis upon DNA damage. Notably, upon overexpression of oncoproteins such c-Myc, the oncogene-transformed MEFs are highly sensitive to p53-induced apoptosis (Eischen et al., 1999; Zindy et al., 1998; Naik et al., 2007; Khan et al., 2000; Saporita et al., 2007). We then counted the apoptotic cells for the above MEFs by fluorescence-activated cell sorting (FACS) according to sub-G1 peaks on a DNA content histogram. As shown in Figure 6C, no significant apoptosis was found in control virus-infected cells after doxorubicin treatment. However, a large portion of the Ad-MycΔBR-infected MEFs became apoptotic upon the same treatment (47%), very close to the levels in the Ad-Myc (WT)-infected MEFs (∼65%). Together, these data demonstrated that ARF stabilization by c-Myc plays a key role in sensitizing the c-Myc transformed cells to DNA damage-induced apoptosis.
+
+Full-size image (39 K)
+Figure 6. 
+Downregulation of ULF-Mediated ARF Degradation by Myc Expression Is Critical for DNA Damage-Induced Apoptosis in Primary MEFs
+(A) Schematic representation of wild-type c-Myc and c-Myc-ΔBR protein.
+(B) Western blot analysis of cell extracts from adenoviral-infected primary MEFs, followed by additional 0.2 mg/ml doxorubicin treatment for 24 hr by anti-ARF, -Myc, -p53, -p21 and -PUMA antibodies.
+(C) Apoptotic cells (Sub-G1), according to DNA contents (PI staining), were counted for the adenoviral-infected primary MEFs for wild-type Myc and MycΔBR, followed by additional 0.2 mg/ml doxorubicin treatment by FACS. Error bars indicate SD calculated from three independent experiments.
+Figure options
+Discussion
+Cell proliferation and cell death are the opposite cellular fates; however, the two are linked and interdependent processes (Lowe et al., 2004). This phenomenon is exemplified by the Myc protein (Evan and Vousden, 2001). Besides its growth-promoting ability, Myc was found to be a powerful trigger of apoptosis, mainly through the ARF/p53 pathway and particularly under conditions of stress, genotoxic damage, or depleted survival factors. How different threshold levels of Myc might favorably induce proliferation or apoptosis is still unknown. Our studies uncover an important mechanism of different thresholds to determine Myc’s distinctive biological outcomes. Low levels of Myc can promote cell proliferation and activate ARF transcription but do not cause accumulation of ARF protein or activation of p53 activity. High expression of Myc not only activates ARF transcription but also stabilizes ARF protein by disrupting the binding between ARF and its E3 ligase, ULF, activates the p53 pathway, and induces cell apoptosis.
+
+Deciphering the intercorrelations between the ARF/p53 pathway and DNA damage signaling pathways is very important (Sherr, 2006; Vousden and Lane, 2007). A general view is that ARF is not directly induced by DNA damage such as genotoxic drugs, radiation, and hypoxia (Ozenne et al., 2010). Rather, ARF is repressed by the activated p53 upon DNA damage in normal cells (Zeng et al., 2011). In addition to transcription regulation, our results demonstrate that ARF becomes more unstable upon DNA damage due to ULF-mediated degradation. Interestingly, we revealed that blocking ARF degradation by ULF inactivation or Myc expression dramatically stimulates the apoptotic responses (Figure 7). Our findings uncover a unique aspect of DNA damage-induced regulation of the ARF/p53 pathway. More importantly, we found that modulation of ARF stability clearly affects p53-dependent apoptosis function and potentially regulates its tumor suppressor activity in vivo. The molecular mechanism by which the ARF-ULF interplay is regulated during DNA damage responses is very important and warrants future investigations. Protein modifications of p53 and Mdm2, such as phosphorylation, are well accepted as the key mechanisms for p53 stability control during DNA damage responses. Interestingly, a phosphorylated peptide-derived ULF was identified as an ATM/ATR substrate (in the supplemental data of Matsuoka et al., 2007). Thus, it is possible that ULF is phosphorylated by ATM/ATR and functionally regulated by phosphorylation during the DNA damage response.
+
+Full-size image (51 K)
+Figure 7. 
+A Model for the Unified Mechanism of the Interplay between ARF, c-Myc, ULF, and DNA Damage
+Low c-Myc, low levels (normal levels) of c-Myc expression; High c-Myc, high levels (oncogenic levels) of c-Myc expression; Normal, cells are under unstressed conditions; DNA damage, cells are under DNA damage conditions; Ub, ubiquitin.
+Figure options
+Restoration of p53 activity remains an important goal in the quest for more effective cancer therapies. For example, since Mdm2 is overexpressed in human tumors that retain wild-type p53, reactivating wild-type p53 functionality by targeting Mdm2 holds promise to reinstate the p53 tumor suppressor pathway. Indeed Nutlin-3, a small-molecule inhibitor of Mdm2, is able to activate p53 and exhibits antitumor efficacy in cancer cells that express high levels of Mdm2 (Vassilev, 2007). Interestingly, although p53 is mutated in more than 50% of human tumors, such as colon cancer and lung cancer, p53 gene mutations are found in less than 10% of de novo AML (acute myeloid leukemia); deletion or mutation of the ARF gene in AML is also very rare, suggesting that the p53/ARF pathway may be inactivated through different mechanisms (Renneville et al., 2008; Zhao et al., 2010; Andersson et al., 2007; Chen et al., 2010b). Indeed, according to the data deposited in the AML gene expression profile database from Oncomine Research, the mRNA levels of ULF are significantly high in human AML cancer samples (Figueroa et al., 2010). It is likely that high levels of ULF expression are involved in inactivation of the ARF/p53 pathway in human AML. Our study demonstrates that blocking ARF degradation can significantly enhance p53 activation and induce p53-mediated apoptosis. Thus, targeting ULF with small-molecule inhibitors might offer a unique cancer therapy in certain types of human tumors that retain wild-type of p53 and ARF, such as AML.
+
+Although the role of c-Myc in tumorigenesis is well accepted, the molecular mechanism by which c-Myc promotes normal cell growth and transformation in normal versus tumor cells is not well understood. c-Myc−/− mice die by E10.5, with defects in growth and in cardiac and neural development ( Baudino et al., 2002). By using gene-targeted disruption approaches, rat fibroblast cell lines with somatic c-Myc gene knockout were found viable ( Mateyak et al., 1997), but loss of c-Myc expression had profound effects on growth rate, cellular morphology, and cell cycle progression. These data demonstrate that c-Myc is absolutely required for cells to retain normal physiological activities. Thus, the precise mechanism by which the cell specifically restrains the oncogenic potential of c-Myc, without affecting its normal physiological function, is extremely important. Based on our results, the levels of Myc expression are critical to trigger ARF stabilization, and only high levels of c-Myc suppress cell proliferation and sensitize the cells to apoptosis upon DNA damage ( Figure 7) and, potentially, other types of stress. Thus, ARF stability control is crucial for differentiating normal (low) versus oncogenic (high) levels of Myc expression. It is very likely that Myc-mediated ARF stabilization acts as a barrier in oncogene-induced stress responses.
+
+Experimental Procedures
+siRNA-Mediated Ablation of ULF, ARF, and p53
+Depletion of ULF was done by transfection of the NHF-1 cells with siRNA duplex oligonucleotides (ULF-RNAi-#1 [5′-GGUAGUGACUCCACCCAUUUU-3′], ULF-RNAi-#2 [5′-GAACACAGAUGGUGCGAUAUU-3′], ULF-RNAi-#3 [5′-GACAAAGACUCAUACAAUAUU-3′]) synthesized by Dharmacon. ULF RNAi oligo#1 was always used unless specified. p14ARF RNAi (5′-GAUCAUCAGUCACCGAAGGUU-3′; Dharmacon), p53 RNAi (ON-TARGETplus SMARTpool L-003329-00; Dharmacon), and control RNAi (ON-TARGETplus siControl nontargeting pool D-001810-10-20; Dharmacon) were used for transfection. RNAi transfections were performed at 24–48 hr intervals with Oligofectamine or Lipofectamine 2000 (Invitrogen) following the manufacturer’s protocol.
+
+Lentiviral Infections
+GIPZ Lentiviral shRNAmir vectors for ULF and control were from Open Biosystems. Lentiviral solution was produced by cotransfecting the lentiviral vectors, the packaging vector Delta 8.9, and the pMD.G plasmid as previously described (Chen et al., 2010b). For infection, primary MEFs were incubated with viral supernatants and supplemented with 5 μg/ml polybrene overnight. The lentiviral-infected primary MEFs were selected with puromycin.
+
+Adenovirus Infection
+The construct for Ad-c-Myc and c-Myc-ΔBR was described previously (Chen et al., 2010a). Adenoviruses were produced following the manual of the AdEasy Adenoviral Vector System (Stratagene). After one round of amplification in Ad-293T cells, the viruses were used to infect NHF-1 cells or p1 primary MEFs at 70% confluence.
+
+Generation of ULF-Deficient MEFs
+The mouse ulf gene contains 41 exons spanning a 100 kb genomic DNA region. To avoid potential lethality in ulf conventional knockout mice, a conditional knockout strategy was designed to delete exon 5 (ensemble) by flanking exon 5 with LoxP sites (floxing exon 5). Deletion of exon 5 causes translational reading frameshift, resulting in C-terminal truncation of the protein, including the HECT domain. Briefly, the genomic DNA of the targeting region was cloned from BAC bMQ-374G10 (Geneservice) using recombination-mediated genetic engineering (recombineering). The first loxP site, along with an NcoI site, was inserted into intron 4, and a neomycin (neo) cassette and the second LoxP cassette were inserted into intron 5. The targeting vector was electroporated into ESCs. The targeted ESC clones were screened by Southern blot using a 5′ external probe outside the 5′ targeting region. The targeted ESC clones have an additional 12 kb mutant NcoI band, compared to wild-type ESC clones, which have only the 21 kb NcoI band. A total of 34 targeted clones were obtained from 200 ESC clones screened. Two of the clones were injected into blastocysts to embryonically derive chimera, from which the germline transmission of the conditional knockout allele was accomplished. Genotyping was done by PCR using primer 1 (GCCTTTGTCTATTGTCTATGTTTG) and primer 2 (CCCTCTGAAAGTAG TACATGTATG) to detect the wild-type allele and primer 2 and primer 3 (GGAACTTCATCAGTCAGGTAC) for the floxed allele simultaneously to identify wild-type, heterozygous, and homozygous mice. The ulffl/+ mice were intercrossed to generate ulf conditional knockout homozygote mice (ulffl/fl). Both ulffl/+ and ulffl/fl are indistinguishable from wild-type littermate, suggesting that floxing exon 5 of ulf did not cause noticeable effects on ulf expression. Subsequently, ulf conditional knockout MEFs from E13.5 embryos were transduced with Ad-CMV-Cre (Vector BioLabs) for 3 days in order to undergo Cre-mediated deletion of the floxed ulf allele. The elimination of ULF protein in MEFs was confirmed by immunoblotting as described above. All animal experiments were approved by the IACUC (Institutional Animal Care and Use Committee) at Columbia University Health Sciences Center under the supervision of the Institute of Comparative Medicine.
+
+Preparation of MEFs
+ARF null mice were kindly provide by Dr. Charles J. Sherr’s lab (St. Jude Children’s Research Hospital, Memphis, TN), and p53 null mice were purchased from the Jackson Laboratory. All MEFs of wild-type or knockout mice were prepared from E13.5 embryos and cultured in DMEM containing 10% FBS.
+
+Antibodies
+To prepare the ULF antiserum, DNA sequences corresponding to 150 amino acids of ULF (residues 609–834) were amplified by PCR and subcloned into pGEX-2T (5). α-ULF antiserum was raised in rabbits against the purified GST-ULF (651–800) fusion protein (Covance) and further affinity purified on the antigen column. Rabbit polyclonal p14ARF (A300–340A) was from Bethyl Laboratories. Human p53-specific monoclonal (DO-1), anti-NPM (H106) polyclonal, anti-p21 (C-19) polyclonal, anti-nucleolin (C-23), anti-p16 (C-20) polyclonal and (F4) monoclonal, and rat anti-ARF (5-C3-1) monoclonal antibodies were purchased from Santa Cruz. Anti-mouse p53 (CM5) polyclonal was from Leica Microsystems. Anti-PUMA polyclonal antibody was from Cell Signaling Technology.
+
+Cell Culture
+NHF-1 and IMR-90 cells were cultured in minimum essential medium (MEM) supplemented with 10% fetal bovine serum. H1299 cells were cultured in Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10% FBS.
+
+RT-PCR analysis
+TRIzol reagents (Invitrogen) were used to isolate total RNA from cells. By using the SuperScript First-Strand Synthesis System (Invitrogen) with the oligo-dT primer, first-strand complementary DNA (cDNA) was synthesized from 1 μg of total RNA. To amplify and analyze the prepared cDNA samples by PCR, the following primers were used in the PCR reaction: human p14ARF (forward): 5′GTGCGCAGGTTCTTGGTGACC; human p14ARF (reverse): 5′CTGCCCGTGGACCTGGCTGA; mouse p19ARF (forward): 5′ATGGG-TCGCAGGTTCTTGGTCACTGTGAGG; mouse p19ARF (reverse): 5′CTATGCCCCTCGGTCTGGGCGACGTTCCCA; human ULF (forward): GAAGTTTACCTCATTCCCACA; ULF (reverse): AACCGAGAGGAGCTGCTGAAA; human Nucleolin (forward): GGTGACCCCAAGAAAATGGCTCC; Nucleolin (reverse): GCTTCTTCTTCAGAGTCATCTTC; GAPDH (forward): 5′GAAGGTGAAGGTCGGAGT; GAPDH (reverse): 5′GAAGATGGTGATGGGATTTC.
+
+Quantitative Real-Time PCR
+Extracted RNAs were treated with DNA-free (Ambion) as per the manufacturer’s protocol before reverse transcription. The resulting cDNAs were diluted 1:10 and served as templates for quantitative real-time PCR reactions using the Power SYBR Green PCR Master Mix (Applied Biosystems). The PCR reaction mixtures were preincubated at 50°C for 2 min followed by denaturation at 95°C for 10 min, 40 cycles of 95°C for 15 s, and 60°C for 1 min using TaqMan real-time PCR system (Applied Biosystems). Data were analyzed using the SDS software provided by Applied Biosystems. Primer sequences were as follows: p14ARF-fwd: 5′GCAGCCGCTTCCTAGAAG-3′; p14ARF-rev: 5′CACGGGTCGGGTGAGAGT-3′; p19ARF-fwd: 5′AGGCTAGAGAGGATCTTGAG3′; p19ARF-rev: 5′TCCTCGCAGTTCGAATCTGC′. Each sample was assessed in triplicate. Relative mRNA levels were normalized to the actin gene and calculated using the 2-ΔΔCT method.
+
+Western Blot
+Cells were lysed in RIPA buffer with fresh protease inhibitors (protease inhibitor mixture [Sigma] and 1 mM phenylmethylsulfonyl fluoride [PMSF]). Aliquots (20 μg) of cell extracts were resolved in Norvex 4%–20% Tris-Glycine Gel (invitrogen) and then transferred to nitrocellulose membranes in 20 mM Tris-HCl [pH 8.0], 150 mM glycine, 20% (v/v) methanol. Membranes were blocked with 5% (v/v) nonfat dry milk in Tris-buffered saline with Tween 20 (TBST; 20 mM Tris-HCl [pH 7.6], 0.1% Tween 20,137 mM NaCl), incubated with primary antibodies, then secondary antibodies, and detected with ECL reagents (Amersham Biosciences).
+
+Flow Cytometry
+After ULF-depleted NHF-1 cells or adenovirus-infected primary MEFs with 0.2 mg/ml doxorubicin treatment for 24 hr, the cells were seeded in fresh medium for an additional 24 hr. Cells were trypsinized and fixed in 70% ethanol, and DNA was then stained with propidium iodide (PI). Samples of 20,000 cells were acquired using a FACSCalibur flow cytometer (Becton Dickinson), and the DNA histogram data were analyzed using CellQuest Software (Becton Dickinson) according to the manufacturer’s instruction. The FACS analysis data depict mean of three experiments with SD indicated.
+
+BrdU Labeling
+The BrdU incorporation assay was performed as previously described with some modification (Chen et al., 2010a). NHF-1 cells were replaced with normal medium for 36 hr of additional culture after 36 hr of Ad-Myc infection. After being replated in the coverslips for 24 hr, NHF-1 cells were grown in medium containing 20 μM BrdU (Calbiochem) for 3 hr and then fixed in 70% ethanol at 4°C for 30 min. After being permeabilized in 2 N HCl, 0.5% Triton X-100 (Sigma), the cells were neutralized in 0.1 M Na2B4O7 (pH 8.5) and then blocked with 1% BSA in PBS. BrdU antibody was added following the manufacture’s protocol (Roche). After washing with 1% BSA/PBS four times, the cells were incubated with Alexa Fluor 568 Conjugated Anti-Mouse IgG (Molecular Probes). Lastly, cells were counterstained with DAPI to visualize the nuclei.
+
+Acknowledgments
+Research reported in this publication was supported by the National Cancer Institute of the National Institutes of Health (R01CA169246, 2PO1 CA080058, and 2PO1 CA097403 to W. Gu). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. This work was also supported in part by grants from the leukemia and lymphoma society. P.Z. and Y.L. were supported by the National Natural Science Foundation of China (31071193). We thank Dr. D. Dominguez-Sola D for valuable advice and Dr. Charles J. Sherr (St. Jude Children’s Research Hospital, Memphis, TN) for providing ARF mutant mice. The authors declare no competing financial interests.
+
+Supplemental Information
+ 
+Document S1. Figures S1–S5.  
+Help with PDF filesOptions
+References
+Andersson et al., 2007
+A. Andersson, C. Ritz, D. Lindgren, P. Edén, C. Lassen, J. Heldrup, T. Olofsson, J. Råde, M. Fontes, A. Porwit-Macdonald et al.
+Microarray-based classification of a consecutive series of 121 childhood acute leukemias: prediction of leukemic and genetic subtype as well as of minimal residual disease status
+Leukemia, 21 (2007), pp. 1198–1203
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+Baudino et al., 2002
+T.A. Baudino, C. McKay, H. Pendeville-Samain, J.A. Nilsson, K.H. Maclean, E.L. White, A.C. Davis, J.N. Ihle, J.L. Cleveland
+c-Myc is essential for vasculogenesis and angiogenesis during development and tumor progression
+Genes Dev., 16 (2002), pp. 2530–2543
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (193)
+Chen et al., 2005
+D. Chen, N. Kon, M. Li, W. Zhang, J. Qin, W. Gu
+ARF-BP1/Mule is a critical mediator of the ARF tumor suppressor
+Cell, 121 (2005), pp. 1071–1083
+
+Article |  PDF (1296 K) | View Record in Scopus | Citing articles (287)
+Chen et al., 2010a
+D. Chen, J. Shan, W.G. Zhu, J. Qin, W. Gu
+Transcription-independent ARF regulation in oncogenic stress-mediated p53 responses
+Nature, 464 (2010), pp. 624–627
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+Chen et al., 2010b
+D. Chen, J.B. Yoon, W. Gu
+Reactivating the ARF-p53 axis in AML cells by targeting ULF
+Cell Cycle, 9 (2010), pp. 2946–2951
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3)
+Chio et al., 2012
+I.I. Chio, M. Sasaki, D. Ghazarian, J. Moreno, S. Done, T. Ueda, S. Inoue, Y.L. Chang, N.J. Chen, T.W. Mak
+TRADD contributes to tumour suppression by regulating ULF-dependent p19Arf ubiquitylation
+Nat. Cell Biol., 14 (2012), pp. 625–633
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5)
+Dang et al., 2006
+C.V. Dang, K.A. O’Donnell, K.I. Zeller, T. Nguyen, R.C. Osthus, F. Li
+The c-Myc target gene network
+Semin. Cancer Biol., 16 (2006), pp. 253–264
+
+Article |  PDF (345 K) | View Record in Scopus | Citing articles (346)
+di Tommaso et al., 2009
+A. di Tommaso, J. Hagen, V. Tompkins, V. Muniz, A. Dudakovic, A. Kitzis, V. Ladeveze, D.E. Quelle
+Residues in the alternative reading frame tumor suppressor that influence its stability and p53-independent activities
+Exp. Cell Res., 315 (2009), pp. 1326–1335
+
+Article |  PDF (662 K) | View Record in Scopus | Citing articles (10)
+Eischen et al., 1999
+C.M. Eischen, J.D. Weber, M.F. Roussel, C.J. Sherr, J.L. Cleveland
+Disruption of the ARF-Mdm2-p53 tumor suppressor pathway in Myc-induced lymphomagenesis
+Genes Dev., 13 (1999), pp. 2658–2669
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (513)
+Evan and Vousden, 2001
+G.I. Evan, K.H. Vousden
+Proliferation, cell cycle and apoptosis in cancer
+Nature, 411 (2001), pp. 342–348
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1372)
+Figueroa et al., 2010
+M.E. Figueroa, O. Abdel-Wahab, C. Lu, P.S. Ward, J. Patel, A. Shih, Y. Li, N. Bhagwat, A. Vasanthakumar, H.F. Fernandez et al.
+Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation
+Cancer Cell, 18 (2010), pp. 553–567
+
+Article |  PDF (2150 K) | View Record in Scopus | Citing articles (506)
+Itahana et al., 2008
+K. Itahana, H.V. Clegg, Y. Zhang
+ARF in the mitochondria: the last frontier?
+Cell Cycle, 7 (2008), pp. 3641–3646
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+Kajiro et al., 2011
+M. Kajiro, M. Tsuchiya, Y. Kawabe, R. Furumai, N. Iwasaki, Y. Hayashi, M. Katano, Y. Nakajima, N. Goto, T. Watanabe et al.
+The E3 ubiquitin ligase activity of Trip12 is essential for mouse embryogenesis
+PLoS ONE, 6 (2011), p. e25871
+
+Full Text via CrossRef
+Kamijo et al., 1997
+T. Kamijo, F. Zindy, M.F. Roussel, D.E. Quelle, J.R. Downing, R.A. Ashmun, G. Grosveld, C.J. Sherr
+Tumor suppression at the mouse INK4a locus mediated by the alternative reading frame product p19ARF
+Cell, 91 (1997), pp. 649–659
+
+Article |  PDF (364 K) | View Record in Scopus | Citing articles (1125)
+Khan et al., 2000
+S.H. Khan, J. Moritsugu, G.M. Wahl
+Differential requirement for p19ARF in the p53-dependent arrest induced by DNA damage, microtubule disruption, and ribonucleotide depletion
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 3266–3271
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+Kon et al., 2012
+N. Kon, J. Zhong, L. Qiang, D. Accili, W. Gu
+Inactivation of arf-bp1 induces p53 activation and diabetic phenotypes in mice
+J. Biol. Chem., 287 (2012), pp. 5102–5111
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+Kovi et al., 2010
+R.C. Kovi, S. Paliwal, S. Pande, S.R. Grossman
+An ARF/CtBP2 complex regulates BH3-only gene expression and p53-independent apoptosis
+Cell Death Differ., 17 (2010), pp. 513–521
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Kuo et al., 2003
+M.L. Kuo, E.J. Duncavage, R. Mathew, W. den Besten, D. Pei, D. Naeve, T. Yamamoto, C. Cheng, C.J. Sherr, M.F. Roussel
+Arf induces p53-dependent and -independent antiproliferative genes
+Cancer Res., 63 (2003), pp. 1046–1053
+
+View Record in Scopus | Citing articles (85)
+Kuo et al., 2004
+M.L. Kuo, W. den Besten, D. Bertwistle, M.F. Roussel, C.J. Sherr
+N-terminal polyubiquitination and degradation of the Arf tumor suppressor
+Genes Dev., 18 (2004), pp. 1862–1874
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (124)
+Liu and Levens, 2006
+J. Liu, D. Levens
+Making myc
+Curr. Top. Microbiol. Immunol., 302 (2006), pp. 1–32
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Lo and Lu, 2010
+D. Lo, H. Lu
+Nucleostemin: Another nucleolar “Twister” of the p53-MDM2 loop
+Cell Cycle, 9 (2010), pp. 3227–3232
+
+View Record in Scopus | Citing articles (14)
+Lowe et al., 2004
+S.W. Lowe, E. Cepero, G. Evan
+Intrinsic tumour suppression
+Nature, 432 (2004), pp. 307–315
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (655)
+Mateyak et al., 1997
+M.K. Mateyak, A.J. Obaya, S. Adachi, J.M. Sedivy
+Phenotypes of c-Myc-deficient rat fibroblasts isolated by targeted homologous recombination
+Cell Growth Differ., 8 (1997), pp. 1039–1048
+
+View Record in Scopus | Citing articles (327)
+Matsuoka et al., 2007
+S. Matsuoka, B.A. Ballif, A. Smogorzewska, E.R. McDonald 3rd, K.E. Hurov, J. Luo, C.E. Bakalarski, Z. Zhao, N. Solimini, Y. Lerenthal et al.
+ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage
+Science, 316 (2007), pp. 1160–1166
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1126)
+Murphy et al., 2008
+D.J. Murphy, M.R. Junttila, L. Pouyet, A. Karnezis, K. Shchors, D.A. Bui, L. Brown-Swigart, L. Johnson, G.I. Evan
+Distinct thresholds govern Myc’s biological output in vivo
+Cancer Cell, 14 (2008), pp. 447–457
+
+Article |  PDF (1909 K) | View Record in Scopus | Citing articles (149)
+Naik et al., 2007
+E. Naik, E.M. Michalak, A. Villunger, J.M. Adams, A. Strasser
+Ultraviolet radiation triggers apoptosis of fibroblasts and skin keratinocytes mainly via the BH3-only protein Noxa
+J. Cell Biol., 176 (2007), pp. 415–424
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (61)
+Ozenne et al., 2010
+P. Ozenne, B. Eymin, E. Brambilla, S. Gazzeri
+The ARF tumor suppressor: structure, functions and status in cancer
+Int. J. Cancer, 127 (2010), pp. 2239–2247
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+Pomerantz et al., 1998
+J. Pomerantz, N. Schreiber-Agus, N.J. Liégeois, A. Silverman, L. Alland, L. Chin, J. Potes, K. Chen, I. Orlow, H.W. Lee et al.
+The Ink4a tumor suppressor gene product, p19Arf, interacts with MDM2 and neutralizes MDM2’s inhibition of p53
+Cell, 92 (1998), pp. 713–723
+
+Article |  PDF (1859 K) | View Record in Scopus | Citing articles (1119)
+Rabbitts et al., 1985
+P.H. Rabbitts, J.V. Watson, A. Lamond, A. Forster, M.A. Stinson, G. Evan, W. Fischer, E. Atherton, R. Sheppard, T.H. Rabbitts
+Metabolism of c-myc gene products: c-myc mRNA and protein expression in the cell cycle
+EMBO J., 4 (1985), pp. 2009–2015
+
+View Record in Scopus | Citing articles (73)
+Ramsay et al., 1984
+G. Ramsay, G.I. Evan, J.M. Bishop
+The protein encoded by the human proto-oncogene c-myc
+Proc. Natl. Acad. Sci. USA, 81 (1984), pp. 7742–7746
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+Renneville et al., 2008
+A. Renneville, C. Roumier, V. Biggio, O. Nibourel, N. Boissel, P. Fenaux, C. Preudhomme
+Cooperating gene mutations in acute myeloid leukemia: a review of the literature
+Leukemia, 22 (2008), pp. 915–931
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Saporita et al., 2007
+A.J. Saporita, L.B. Maggi Jr., A.J. Apicelli, J.D. Weber
+Therapeutic targets in the ARF tumor suppressor pathway
+Curr. Med. Chem., 14 (2007), pp. 1815–1827
+
+View Record in Scopus | Citing articles (25)
+Sharpless and DePinho, 2004
+N.E. Sharpless, R.A. DePinho
+Telomeres, stem cells, senescence, and cancer
+J. Clin. Invest., 113 (2004), pp. 160–168
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (290)
+Sherr, 2001
+C.J. Sherr
+The INK4a/ARF network in tumour suppression
+Nat. Rev. Mol. Cell Biol., 2 (2001), pp. 731–737
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (631)
+Sherr, 2006
+C.J. Sherr
+Divorcing ARF and p53: an unsettled case
+Nat. Rev. Cancer, 6 (2006), pp. 663–673
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (272)
+Tompkins et al., 2007
+V.S. Tompkins, J. Hagen, A.A. Frazier, T. Lushnikova, M.P. Fitzgerald, A. di Tommaso, V. Ladeveze, F.E. Domann, C.M. Eischen, D.E. Quelle
+A novel nuclear interactor of ARF and MDM2 (NIAM) that maintains chromosomal stability
+J. Biol. Chem., 282 (2007), pp. 1322–1333
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Tran et al., 2008
+P.T. Tran, A.C. Fan, P.K. Bendapudi, S. Koh, K. Komatsubara, J. Chen, G. Horng, D.I. Bellovin, S. Giuriato, C.S. Wang et al.
+Combined Inactivation of MYC and K-Ras oncogenes reverses tumorigenesis in lung adenocarcinomas and lymphomas
+PLoS ONE, 3 (2008), p. e2125
+
+Full Text via CrossRef
+Vassilev, 2007
+L.T. Vassilev
+MDM2 inhibitors for cancer therapy
+Trends Mol. Med., 13 (2007), pp. 23–31
+
+Article |  PDF (802 K) | View Record in Scopus | Citing articles (278)
+Vousden and Lane, 2007
+K.H. Vousden, D.P. Lane
+p53 in health and disease
+Nat. Rev. Mol. Cell Biol., 8 (2007), pp. 275–283
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (856)
+Zeller et al., 2003
+K.I. Zeller, A.G. Jegga, B.J. Aronow, K.A. O’Donnell, C.V. Dang
+An integrated database of genes responsive to the Myc oncogenic transcription factor: identification of direct genomic targets
+Genome Biol., 4 (2003), p. R69
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (207)
+Zeng et al., 2011
+Y. Zeng, Y. Kotake, X.H. Pei, M.D. Smith, Y. Xiong
+p53 binds to and is required for the repression of Arf tumor suppressor by HDAC and polycomb
+Cancer Res., 71 (2011), pp. 2781–2792
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+Zhang et al., 1998
+Y. Zhang, Y. Xiong, W.G. Yarbrough
+ARF promotes MDM2 degradation and stabilizes p53: ARF-INK4a locus deletion impairs both the Rb and p53 tumor suppression pathways
+Cell, 92 (1998), pp. 725–734
+
+Article |  PDF (400 K) | View Record in Scopus | Citing articles (1109)
+Zhao et al., 2010
+Z. Zhao, J. Zuber, E. Diaz-Flores, L. Lintault, S.C. Kogan, K. Shannon, S.W. Lowe
+p53 loss promotes acute myeloid leukemia by enabling aberrant self-renewal
+Genes Dev., 24 (2010), pp. 1389–1402
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Zindy et al., 1998
+F. Zindy, C.M. Eischen, D.H. Randle, T. Kamijo, J.L. Cleveland, C.J. Sherr, M.F. Roussel
+Myc signaling via the ARF tumor suppressor regulates p53-dependent apoptosis and immortalization
+Genes Dev., 12 (1998), pp. 2424–2433
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (882)
+Corresponding author contact information
+Corresponding author
+Copyright © 2013 Elsevier Inc. All rights reserved.

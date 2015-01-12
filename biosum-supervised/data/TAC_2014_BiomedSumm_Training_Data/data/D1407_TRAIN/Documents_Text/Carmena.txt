@@ -1,0 +1,928 @@
+Making the Auroras glow: regulation of Aurora A and B kinase function by interacting proteins
+Mar Carmena E-mail the corresponding author, Sandrine Ruchaud E-mail the corresponding author, William C Earnshaw E-mail the corresponding author
+  Show more
+DOI: 10.1016/j.ceb.2009.09.008
+Open Access funded by Wellcome Trust
+  Open Access
+The conserved Aurora family of protein kinases have emerged as crucial regulators of mitosis and cytokinesis. Despite their high degree of homology, Aurora A and B have very distinctive localisations and functions: Aurora A associates with the spindle poles to regulate entry into mitosis, centrosome maturation and spindle assembly; Aurora B is a member of the Chromosomal Passenger Complex (CPC) that transfers from the inner centromere in early mitosis to the spindle midzone, equatorial cortex and midbody in late mitosis and cytokinesis. Aurora B functions include regulation of chromosome–microtubule interactions, cohesion, spindle stability and cytokinesis. This review will focus on how interacting proteins make this functional diversity possible by targeting the kinases to different subcellular locations and regulating their activity.
+
+Introduction
+Successful cell division depends upon the function of key regulatory protein kinases. The best known of these, Cyclin dependent kinases (CDKs), Polo-like kinases (PLKs) and Aurora kinases control mitotic entry and ensure the accurate coordination of chromosomal and cytoskeletal events, leading to the correct partition of the genetic material into two daughter cells. Defects in the function and expression of these kinases result in aneuploidy and have been linked to tumorigenesis [1], making them attractive targets for the development of new anti-cancer treatments [2]. The study of their functions and regulation is revealing a network of interactions between the pathways controlled by each kinase. Many recent studies of these kinases have focused on the development and characterisation of Aurora-specific and Aurora-selective inhibitors. These have been recently reviewed [3] and will not be covered here.
+
+The Aurora family of Ser/Thr kinases has emerged as crucial regulators of essential processes ranging from mitotic entry to cytokinesis. The number of family members varies depending on the species: fungi have one Aurora gene, whereas in most higher eukaryotes the family has branched, with Auroras A and B adopting different subcellular localisations and functions (see below). In mammals, a third member — Aurora C — that most closely resembles Aurora B, is normally expressed primarily in testis.
+
+Aurora A and B are very similar proteins in sequence and structure, sharing 70% identity in the catalytic domain. However despite their similarities they have quite distinct localisations and functions during mitosis (Figure 1). Aurora A associates with the spindle poles and functions in mitotic entry, centrosome maturation and separation and spindle bipolarity [4 and 5]. Aurora B is the enzymatically active member of the Chromosomal Passenger Complex (CPC), which includes the scaffolding protein INCENP and the targeting subunits Survivin and Borealin/Dasra B. The CPC associates with the inner centromere until metaphase and then transfers to the spindle midzone, equatorial cell cortex and midbody in late mitosis and cytokinesis [5 and 6]. Aurora B functions include regulation of chromosome interactions with microtubules, chromatid cohesion, spindle stability and cytokinesis [6]. How such similar proteins can occupy these diverse functional cellular niches is partly explained by their association with specific cofactors (Figure 2) that act as targeting and activating subunits (see below).
+
+Full-size image (75 K)
+Figure 1. 
+Distribution of Aurora A and Aurora B in mitotic HeLa cells.
+Figure options
+Full-size image (64 K)
+Figure 2. 
+The major regulators of (A) Aurora A and (B) Aurora B kinases. Protein kinases are indicated in red and phosphorylation events by red arrows. Protein phosphatases are indicated in blue.
+Figure options
+Surprisingly, most of these cofactors associate with highly conserved residues in the Aurora catalytic domain rather than the more variable N-terminus. Structural mutagenesis analysis revealed that a single amino acid difference (G198 in human Aurora A/N142 in human Aurora B) is responsible for the differences in basal kinase activity [7] and allows TPX2 to discriminate between Aurora A and B [7 and 8]. An Aurora A G198N mutant shows classical Aurora B localisation, partially rescues Aurora B loss of function and associates with the CPC subunits INCENP and Survivin [9 and 10]. Interestingly, despite showing several ‘Aurora B-like’ features, the yeast enzymes have a Glycine in the equivalent residue, like Aurora A [7].
+
+Indeed, Aurora A and B normally exhibit limited functional interchangeability. Aurora A can phosphorylate some Aurora B substrates in vitro (i.e. Histone 3, CENP-A, INCENP, Survivin) and both kinases act upon common substrates at different times during mitosis (i.e. MCAK, Kif2, RASSF1A). This partial overlap in substrate specificity could have important implications when the kinases are misexpressed or mislocalised. Nonetheless, the two kinases are fundamentally distinct, and Aurora A, but not Aurora B can function as a classical oncogene when overexpressed [ 11].
+
+Regulation of Aurora kinases occurs at the levels of gene expression, targeting, local activation and degradation. Degradation of Aurora kinases depends mainly on the Anaphase Promoting Complex/Cyclosome (APC/C) with its auxiliary subunit Cdh1 [12, 13, 14 and 15]. It has been claimed that degradation of Aurora A is the main contribution of Cdh1 to the regulation of mitotic exit [16••]. When stabilised by depletion of Cdh1 Aurora A accumulates on the spindle poles and microtubule asters persist until G1. In these cells there is an increased accumulation of Aurora B in the equatorial cortex [16••]. Removal of Aurora B from the chromosome arms in early mitosis and subsequent transfer to the central spindle involve a distinct CUL3-containing SCF ubiquitin ligase [17].
+
+Degradation of Aurora A is regulated by phosphorylation in two different ways. Firstly, its degradation requires dephosphorylation of a serine residue in the A-Box (Ser53 in Xenopus, Ser 51 in human Aurora A), probably by PP2A [ 18•]. An alternative pathway for Aurora A degradation involves phosphorylation of AIP1 by GSK3beta [ 19]. AIP1 localises at the centrosome where it binds and downregulates Aurora A early in mitosis [ 20].
+
+Full activation of both Auroras requires binding to specific protein cofactors. These frequently induce a conformational change in the kinase domain, leading to auto-phosphorylation of a Threonine residue in the T-loop (T288 in human Aurora A, T232 in Aurora B). Most importantly, kinase activation at specific cellular locations during mitosis requires timely association with interacting proteins. In the following sections we will focus on these interactors and the way in which they modulate the function of Aurora kinases.
+
+Aurora A functions
+Aurora A was discovered in a screen for Drosophila mutations affecting the poles of the mitotic spindle (hence the name referring to the Aurora Borealis [ 21]), and many Aurora A functions are related to its ability to bind microtubules coupled with its location at spindle poles. Aurora A microtubule binding and centrosomal targeting depends on numerous auxiliary proteins (see next section).
+
+Mitotic entry
+Aurora A phosphorylation of CDC25B on Ser353, promotes the activation of this critical phosphatase [22 and 23], leading to the activation of centrosome-associated CyclinB–CDK1 [24]. Activation of PLK1 by Aurora A in complex with its auxiliary cofactor Bora in G2 also contributes to the final activation of CyclinB–CDK1 [25•• and 26••] as PLK1 promotes degradation of the CDK1 inhibitor Wee1 [27].
+
+Centrosome maturation
+Centrosomes increase both in size and in microtubule-nucleating capacity just before mitotic entry [28]. Aurora A contributes to this by recruiting pericentriolar material (PCM) proteins including Centrosomin [29], LATS2, TACC and NDEL1 [30, 31 and 32]. The Ser/Thr kinase LATS2 is required for recruitment of gamma-tubulin, a key step in increasing the microtubule-nucleating capacity of the centrosome. NDEL1 is required for the recruitment of the microtubule-severing protein katanin p60, promoting microtubule remodelling. Interestingly, NDEL1 also contributes to the centrosomal targeting of TACC [32], which, when phosphorylated, forms a complex with XMAP215/Msps and promotes microtubule growth.
+
+Bipolar spindle formation
+Centrosome separation and bipolar spindle formation require both sliding forces between anti-parallel microtubules and cortical forces that act on the asters. Integrity of the astral microtubules connecting the centrosomes with the cell cortex depends on Aurora A [33]. The bipolar kinesin Eg5 can slide anti-parallel microtubules and is involved in centrosome separation [34]. Eg5 is an Aurora A substrate, however, there is no direct evidence for a function of this phosphorylation in centrosome separation.
+
+Chromosomal pathway of spindle formation
+This pathway, which is particularly important in cells lacking centrosomes, depends on a Ran-GTP gradient that locally activates MAPs involved in bipolar spindle assembly. In Xenopus extracts, Aurora A drives this Ran-GTP-dependent bipolar spindle formation by a mechanism involving gamma-tubulin and TPX2 [ 35]. Aurora A promotes the formation and function of a complex containing TPX2, Eg5, HURP (a microtubule bundling factor) and XMAP215 (a microtubule stabiliser) that is essential for spindle bipolarity [ 36]. Aurora A phosphorylation blocks binding of the HURP C-terminus to its own N-terminus, thereby allowing its interaction with microtubules [ 37]. Aurora A phosphorylation of the microtubule-destabilising kinesin 13 MCAK promotes its localisation to spindle poles [ 38] and also controls the stability of Aster Associated Protein (ASAP) [ 39]. Both MCAK and ASAP are required for bipolar spindle assembly [ 38 and 39].
+
+Regulation by Aurora A interacting proteins
+The best studied protein cofactor for Aurora A is TPX2, a MAP that targets the kinase to the mitotic spindle (but not the centrosome) and activates it [40 and 41]. TPX2 has a dual role in Aurora A activation. Its N-terminus binds the kinase, inducing a conformational change that facilitates auto-phosphorylation of Thr288 in the T-loop [42 and 43]. Bound TPX2 then shields this residue from dephosphorylation by PP1 on entry into mitosis [42 and 43].
+
+Ajuba is a multifunctional protein that interacts with the N-terminus of Aurora A at the centrosome. Ajuba phosphorylation by Aurora A promotes kinase auto-phosphorylation and its full activation [24]. Ajuba is a MAP that tracks on assembling MTs from the centrosome to the kinetochore, where it partially colocalises with Aurora B and BubRI [44]. Although Ajuba binds these proteins in vitro it is unclear whether this binding has a role at centromeres in vivo.
+
+Bora was originally identified due to its role in Drosophila asymmetric cell division [ 45]. Bora binding and phosphorylation by Aurora A is also required for full kinase activation. In addition, both Bora and Aurora A are required for PLK1 activation at the centrosome in G2 [ 25••]. Bora binding to PLK1 controls Aurora A access to the PLK1 T-loop, where Aurora A phosphorylates Thr210, leading to full PLK1 activation [ 26••]. Interestingly, Bora degradation appears to involve a negative feedback loop: PLK1 phosphorylation of Bora creates a recognition site for the E3 ubiquitin ligase SCF-betaTrCP [ 46].
+
+Inhibitor 2 is a PP1 regulatory subunit that binds and activates Aurora A in vitro [ 47]. During mitosis it localises to the mitotic spindle, midzone and midbody, where it has been suggested to balance the activities of PP1 and Aurora B [ 48].
+
+Curiously, three proteins with previously well-defined roles at focal adhesions also colocalise with, and appear to regulate, Aurora A at the centrosome and/or microtubule asters. HEF-1 binding and activation of Aurora-A is required for phosphorylation and activation of HDAC6, a tubulin deacetylase that promotes ciliary disassembly at the basal body [49•]. This is the only non-mitotic function of Aurora A thus far described in vertebrates.
+
+The other two focal adhesion components that regulate Aurora A are both protein kinases. Inhibition or depletion of ILK (Integrin-like kinase) causes mitotic spindle defects by disrupting interactions between Aurora A and TACC3/ch-TOG [50]. PAK1 is a member of the PAK–PIX–GIT complex that targets and regulates focal adhesions. This complex is also required for centrosome maturation [51]. PAK1 becomes activated at the centrosome and promotes activation of Aurora A by phosphorylation on Thr288 and Ser342 [51].
+
+Not all Aurora A interacting factors activate the kinase. Two protein phosphatases bind and inhibit Aurora A. PP1 dephosphorylation of T288 keeps Aurora A inactive in interphase. At NEB TPX2 alleviates this inhibition by binding to Aurora A and blocking PP1 access [42 and 43]. PP2A can bind Aurora A in vivo and the two are mutually dependent for their centrosomal localisation [ 18]. PP2A promotes Aurora A inactivation by dephosphorylating the kinase directly [ 42] and also by stabilising PTTG1 (pituitary tumor transforming gene 1), a mammalian securin protein that inhibits Aurora A in vivo and in vitro [ 52•].
+
+Amongst its multitudinous other activities, p53 regulates transcription of GADD45a, a protein that binds and strongly inhibits Aurora A [53]. p53 also colocalises with Aurora A at the centrosome, where it may inhibit the kinase directly. TPX2 binding shields the Aurora A T-loop from p53 inhibition [54]. This could explain why the transforming capability of Aurora A in human cells is detected mainly when the p53 pathway is compromised.
+
+Regulation of Aurora B by interacting proteins
+The core CPC
+Aurora B localisation and activation requires the three regulatory subunits of the CPC: INCENP, Survivin and Borealin/Dasra B [55, 56, 57, 58, 59, 60 and 61]. INCENP, Borealin and Survivin form a 1:1:1 complex through a three-helix bundle involving the N-termini of INCENP and Borealin, and the C-terminus of Survivin [62••]. This core subcomplex is stable and can target to centromeres in vivo (Z Xu et al., unpublished data), and association with Aurora B occurs via contacts with the INCENP IN-Box [ 57].
+
+INCENP binding to Aurora B increases basal activation of the kinase, which then achieves full activity via a feedback loop following phosphorylation of the bound INCENP at a TSS motif proximal to the C-terminus [63 and 64]. Borealin/Dasra B is suggested to promote local clustering that leads to Aurora B auto-activation at the centromere [64 and 65]. Phosphorylation of Borealin by the checkpoint kinase Mps1 leads to increased activation of the kinase at the centromere [66•] by an as yet unknown mechanism. Survivin appears to be involved in targeting the CPC to centromeres [67], however its role, if any, in regulating Aurora B activity remains controversial [68, 69, 70 and 71]. There is a vast literature examining the roles of Survivin in apoptosis regulation, inspired largely by its having a BIR domain resembling that found in other IAP (inhibitor of apoptosis) proteins. However, analysis of Survivin knockout mice, which are early-embryonic lethals [58] and detailed analysis of a conditional knockout of Survivin in DT40 cells [71] have failed to confirm any role for this protein in the regulation of apoptosis. As one possible solution to this paradox, it has been suggested that Survivin, when present in the cytoplasm as a dimer, may exert anti-apoptotic functions under certain circumstances, whereas when present as a monomer in the CPC, its anti-apoptotic functions (if any) may be abrogated [72].
+
+The recent discovery of CPC paralogues has posed a conundrum that remains to be solved. As stated above, mammals, which have single genes for INCENP, Borealin and Survivin, have a third Aurora kinase, Aurora C, whose only known activities in non-transformed cells are found in testis [73, 74, 75, 76 and 77]. Immunostaining reveals that this kinase exhibits a CPC-like distribution similar to Aurora B during meiosis [77], and Aurora C knockout mice were viable, though sterile [76]. Paradoxically, a number of model organisms, including Drosophila, Xenopus, chicken and zebra fish, have paralogues of other CPC components, including Survivin, Borealin and INCENP, but only the canonical Aurora A and Aurora B. These have been little studied, but the Borealin paralogues Dasra A and Australin appear, like Aurora C to be meiosis-specific [ 61 and 78]. Survivin2 has been reported to have a role in haematopoiesis [ 79], but is not expressed in chicken DT40 cells (J. Bergmann, K. Samejima and WCE, unpublished results). INCENP2 has thus far only been described in chicken, where it is expressed in somatic cells and is unable to substitute for the canonical INCENP (Z Xu et al., unpublished data).
+
+Other Aurora B regulators
+Two kinases are involved directly in the activation of Aurora B. C. elegans Tousled-like kinase (TLK-1) is a substrate activator that increases Aurora B activity in an INCENP-dependent manner [ 80]. The checkpoint kinase Chk1 phosphorylates Aurora B and increases its activity at the centromere [ 81]. The mechanisms by which these kinases increase Aurora B activity remain to be determined.
+
+The little-studied fifth chromosomal passenger TD-60 (telophase disc-60 kD) was first discovered as the target of a human auto-antibody [82]. When TD-60 was cloned, its cDNA was shown to encode a sequence that could be modelled as an RCC1-like GTPase exchange factor (GEF) [83]. Depletion of the protein by RNAi led to a penetrant prometaphase mitotic arrest. A more recent study has shown that full activation of Aurora B kinase in vitro requires both TD-60 and microtubules [ 84••]. In this assay TD-60 apparently did not function as a GEF, and the significance of its structural similarity to RCC1 remains uncertain. TD-60 binds INCENP and is also required for the centromeric localisation of the CPC and Haspin kinase. The involvement of microtubules in Aurora B activation was further supported by studies in vivo in Xenopus S3 cells during anaphase using a proximity-ligation in situ assay [ 85••].
+
+The protein phosphatases PP1 and PP2A bind and inhibit Aurora B [86 and 87]. In anaphase, binding of the microtubule plus-end-binding protein EB1 shields the kinase T-loop from PP2A dephosphorylation [87]. The checkpoint protein BubR1 inhibits Aurora B activity (as detected by CENP-A phosphorylation) at the kinetochore. This may promote the formation of stable microtubule–kinetochore attachments (see below) [88].
+
+Aurora B functions
+Spindle assembly
+Aurora B and the CPC are required for stability of the bipolar mitotic spindle [60 and 89]. In X. laevis egg extracts, Aurora B phosphorylates and inhibits two proteins involved in the chromatin-driven spindle assembly pathway, the microtubule-destabilising protein Stathmin/Op18 and the kinesin-13 microtubule depolymerase MCAK [ 90 and 91]. However, bipolar spindles can form when CPC components are depleted (Z Xu et al., unpublished data) [ 60, 71 and 89]. The role of the CPC in maintaining bipolar spindle stability remains unknown.
+
+Promoting chromosome bi-orientation by correcting mis-attachments
+One of the best-described functions of Aurora B is in promoting chromosome bi-orientation. This was first proposed as a result of studies in budding yeast suggesting that Aurora activity was required for kinetochores to release bound microtubules [92]. Those authors suggested a physical model in which Aurora B in the centromere would continually promote disruption of kinetochore–microtubule attachments until the bi-oriented chromosome came under tension, stretching the kinetochores away from the inner centromere and removing them from the ‘zone of influence’ of the Aurora B. This was proposed to lead to stabilisation of the attachments. Two subsequent studies provided evidence consistent with this hypothesis by looking at the distribution of the microtubule depolymerising kinesin-13 MCAK phosphorylated by Aurora B on kinetochores that were or were not under tension [93 and 94].
+
+This very prescient model has recently been confirmed in a particularly elegant manner by tethering Aurora B at differing locations within the centromere [95••]. If tethered in the inner centromere, Aurora B is active, but does not efficiently promote detachment of microtubules from the kinetochore. In contrast, if tethered within the kinetochore itself, the kinase efficiently promotes microtubule detachment, thereby interfering with stable bi-orientation of the chromosomes on the spindle. These observations provided clear support for the hypothesis that Aurora B activity can be regulated by adjusting its physical separation from its substrates [95••].
+
+How does Aurora B promote microtubule release by kinetochores? The formation of incorrect attachments of vertebrate chromosomes to the spindle appears to be relatively common in early mitosis, and cells employ redundant mechanisms to correct these errors. Aurora B phosphorylation of the N-terminal region of Hec1/Ndc80 decreases its affinity for microtubules [96 and 97]. Since Hec1/Ndc80 is a key microtubule-binding component of the KMN network [97], this is predicted to promote microtubule release. Aurora B also promotes the correction of microtubule mis-attachments by regulating the activity of MCAK [93, 94, 98 and 99] and by regulating the recruitment of Kif2b to outer kinetochores [100].
+
+Spindle assembly checkpoint
+The spindle assembly checkpoint (SAC) is a surveillance mechanism that delays anaphase onset until all chromosomes are bi-oriented and under tension (for a comprehensive review of the SAC signalling and the possible roles of Aurora B see the review by Nezi and Musacchio in this issue [101]). There has been an energetic argument over the years regarding whether the SAC senses only kinetochore occupancy with microtubules or can also sense decreased tension at microtubule–kinetochore attachments. Part of the reason for the complexity of this argument is that tension regulates the stability of microtubule attachments (see above), and therefore treatments that lower spindle tension would also favour sporadic detachment of microtubules from bi-oriented chromosomes.
+
+The budding yeast Aurora kinase, Ipl1 is required for SAC function in response to a lack of tension [102 and 103]. In vertebrates, the use of small molecule inhibitors or inhibitory antibodies revealed a similar requirement for Aurora B in the checkpoint response to microtubule stabilising agents that induce a lack of tension [104, 105 and 106]. Thus, Aurora B activity was required for maintenance of a stable checkpoint response to taxol, but not when microtubules were completely disassembled with agents such as nocodazole (although see [104]).
+
+Similar defects were observed in the checkpoint response to taxol when Survivin levels were lowered by RNAi [107 and 108], but a more recent study has shown that the situation is slightly more complex. In DT40 cells with a conditional knockout of Survivin, the checkpoint response to microtubule depolymerisation is normal, but so is the response to high doses of taxol [71]. Defects in the checkpoint were observed only at low doses of taxol, possibly suggesting that Aurora B activity is required primarily to amplify weak checkpoint signals, for example when the occasional bi-oriented kinetochore briefly releases its microtubules due to defective tension. DT40 cells have only four microtubules per kinetochore [109], and they may therefore represent a sensitised system where detachment occurs more readily and Aurora B activity is less important to stimulate the formation of completely unattached kinetochores.
+
+Sister chromatid and centromeric cohesion
+Once chromosome bi-orientation is complete and the SAC is satisfied, cells start the destruction of cyclins and other APC/C substrates, and culminating in the onset of anaphase with the release of sister chromatid cohesion. Several studies have shown that Aurora B participates in the control of sister chromatid cohesion [110 and 111]. In vertebrates, this cohesion is released during two different stages of mitosis [112]. In prophase, Aurora B together with Plk1 controls the dissolution of cohesion between chromosome arms [110 and 113]. Centromeric cohesion is maintained/protected until anaphase onset and requires the presence of the Shugoshin protein SGO1 whose localisation depends on PP2A phosphatase, Aurora B and BUB1 [114, 115, 116 and 117].
+
+The release of sister chromatid cohesion is triggered by separase after the degradation of securin through the APC/C (anaphase promoting complex/cyclosome). Recently Aurora B was shown to be involved in regulating the association of separase with mitotic chromosomes [118].
+
+Cleavage furrow ingression and cytokinesis
+During anaphase, Aurora B concentrates at the spindle midzone and equatorial cortex, accumulating ultimately at the midbody. This localisation of the protein is essential for late mitotic events. Indeed, Aurora B and all of the CPC components have essential roles in cytokinesis in a wide range of organisms [5, 6, 56, 119 and 120]. In anaphase, the position of the cleavage furrow is dictated by the location of a microtubule-dependent zone of local RhoA activity within the spindle midzone [121 and 122]. Using a FRET-based reporter for Aurora B activity, an anaphase Aurora B gradient has been observed on the spindle midzone. Aurora B activity across this gradient is maintained through interaction with midzone microtubules and signals the positioning of the cleavage furrow [85••]. The chain of events leading to the activation of RhoA and therefore to the contraction of the acto-myosin ring is regulated by Aurora B through phosphorylation of the centralspindlin complex composed of the kinesin MKLP1/ZEN4 and the Rac GTPase activating protein 1 (MgcRacGAP) [123 and 124].
+
+Aurora B is also a key regulator of abscission timing if unsegregated chromatin is trapped at the furrow ingression site in human cells. In cells with chromatin bridges between daughter nuclei, active Aurora B persists in the intercellular bridge together with phosphorylated MKLP1 [125•]. How this stabilises the bridge is not known, but small molecule inhibition of Aurora B advances the time of abscission in otherwise unperturbed mitosis. The persistence of the Aurora B and stabilisation of the bridge depends on chromatin, as severing the chromatin of the bridge with a laser leads to subsequent abscission.
+
+Similarly, in S. cerevisiae, Aurora/Ipl1 is required for the NoCut checkpoint, which can detect either spindle damage leading to failures in chromosome segregation or other problems (e.g. topoisomerase II mutants or uncleavable cohesin) that prevent the complete segregation of the sister chromatids [ 126 and 127•]. Ipl1 activity on the central spindle is required for the location of the proteins Boi1 and Boi2 to the bud neck, where they inhibit abscission.
+
+Conclusions
+Since first discovered more than a decade ago [128 and 21] the Aurora kinase family has emerged as a major controller of the cell cycle and mitosis. As discussed here, regulation of the two major branches of the family is quite different, with Aurora B functioning within the confines of the CPC, whereas Aurora A interacts with many different partners at different times and places. These highly versatile kinases will no doubt continue to reward further detailed study for years to come.
+
+References and recommended reading
+Papers of particular interest, published within the period of review, have been highlighted as:
+
+• of special interest
+•• of outstanding interest
+Acknowledgment
+Experiments in the WCE lab are supported by The Wellcome Trust, of which WCE is a Principal Research Fellow.
+
+References
+1
+M. Malumbres, M. Barbacid
+Cell cycle kinases in cancer
+Curr Opin Genet Dev, 17 (2007), pp. 60–65
+
+Article |  PDF (247 K) | View Record in Scopus | Citing articles (157)
+2
+G. de Carcer, I. Perez de Castro, M. Malumbres
+Targeting cell cycle kinases for cancer therapy
+Curr Med Chem, 14 (2007), pp. 969–985
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+3
+S. Taylor, J.M. Peters
+Polo and Aurora kinases: lessons derived from chemical biology
+Curr Opin Cell Biol, 20 (2008), pp. 77–84
+
+Article |  PDF (344 K) | View Record in Scopus | Citing articles (88)
+4
+A.R. Barr, F. Gergely
+Aurora-A: the maker and breaker of spindle poles
+J Cell Sci, 120 (2007), pp. 2987–2996
+
+View Record in Scopus | Citing articles (169)
+5
+G. Vader, S.M. Lens
+The Aurora kinase family in cell division and cancer
+Biochim Biophys Acta, 1786 (2008), pp. 60–72
+
+Article |  PDF (835 K) | View Record in Scopus | Citing articles (162)
+6
+S. Ruchaud, M. Carmena, W.C. Earnshaw
+Chromosomal passengers: conducting cell division
+Nat Rev Mol Cell Biol, 8 (2007), pp. 798–812
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (465)
+7
+P.A. Eyers, M.E. Churchill, J.L. Maller
+The Aurora A and Aurora B protein kinases: a single amino acid difference controls intrinsic activity and activation by TPX2
+Cell Cycle, 4 (2005), pp. 784–789
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+8
+R. Bayliss, T. Sardon, J. Ebert, D. Lindner, I. Vernos, E. Conti
+Determinants for Aurora-A activation and Aurora-B discrimination by TPX2
+Cell Cycle, 3 (2004), pp. 404–407
+
+View Record in Scopus | Citing articles (31)
+9
+J. Fu, M. Bian, J. Liu, Q. Jiang, C. Zhang
+A single amino acid change converts Aurora-A into Aurora-B-like kinase in terms of partner specificity and cellular function
+Proc Natl Acad Sci U S A, 106 (2009), pp. 6939–6944
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+10
+F. Hans, D.A. Skoufias, S. Dimitrov, R.L. Margolis
+Molecular distinctions between Aurora A and B: a single residue change transforms Aurora A into correctly localized and functional Aurora B
+Mol Biol Cell, 20 (2009), pp. 3491–3502
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+11
+J.R. Bischoff, L. Anderson, Y. Zhu, K. Mossie, L. Ng, B. Souza, B. Schryver, P. Flanagan, F. Clairvoyant, C. Ginther et al.
+A homologue of Drosophila Aurora kinase is oncogenic and amplified in human colorectal cancers
+EMBO J, 17 (1998), pp. 3052–3065
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (796)
+12
+Y. Arlot-Bonnemains, A. Klotzbucher, R. Giet, R. Uzbekov, R. Bihan, C. Prigent
+Identification of a functional destruction box in the Xenopus laevis Aurora-A kinase pEg2
+FEBS Lett, 508 (2001), pp. 149–152
+
+Article |  PDF (219 K) | View Record in Scopus | Citing articles (37)
+13
+L.E. Littlepage, J.V. Ruderman
+Identification of a new APC/C recognition domain, the A box, which is required for the Cdh1-dependent destruction of the kinase Aurora-A during mitotic exit
+Genes Dev, 16 (2002), pp. 2274–2285
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (169)
+14
+S. Taguchi, K. Honda, K. Sugiura, A. Yamaguchi, K. Furukawa, T. Urano
+Degradation of human Aurora-A protein kinase is mediated by hCdh1
+FEBS Lett, 519 (2002), pp. 59–65
+
+Article |  PDF (329 K) | View Record in Scopus | Citing articles (63)
+15
+R. Crane, A. Kloepfer, J.V. Ruderman
+Requirements for the destruction of human Aurora-A
+J Cell Sci, 117 (2004), pp. 5975–5983
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+16••
+S. Floyd, J. Pines, C. Lindon
+APC/C Cdh1 targets Aurora kinase to control reorganization of the mitotic spindle at anaphase
+Curr Biol, 18 (2008), pp. 1649–1658
+
+Article |  PDF (730 K) | View Record in Scopus | Citing articles (44)
+16••
+Reducing mitotic levels of the APC/C co-activator Cdh1 specifically stabilises Aurora kinases affecting mitotic exit and cytokinesis.
+
+17
+I. Sumara, M. Quadroni, C. Frei, M.H. Olma, G. Sumara, R. Ricci, M. Peter
+A Cul3-based E3 ligase removes Aurora B from mitotic chromosomes, regulating mitotic progression and completion of cytokinesis in human cells
+Dev Cell, 12 (2007), pp. 887–900
+
+Article |  PDF (2008 K) | View Record in Scopus | Citing articles (84)
+18•
+V. Horn, J. Thelu, A. Garcia, C. Albiges-Rizo, M.R. Block, J. Viallet
+Functional interaction of Aurora-A and PP2A during mitosis
+Mol Biol Cell, 18 (2007), pp. 1233–1241
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+18•
+PP2A at spindle poles promotes Aurora A degradation by dephosphorylating serine 51 in the A-box.
+
+19
+S.K. Lim, G. Gopalan
+Antizyme1 mediates AURKAIP1-dependent degradation of Aurora-A
+Oncogene, 26 (2007), pp. 6593–6603
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (30)
+20
+K. Fumoto, P.C. Lee, H. Saya, A. Kikuchi
+AIP regulates stability of Aurora-A at early mitotic phase coordinately with GSK-3beta
+Oncogene, 27 (2008), pp. 4478–4487
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (12)
+21
+D.M. Glover, M.H. Leibowitz, D.A. McLean, H. Parry
+Mutations in Aurora prevent centrosome separation leading to the formation of monopolar spindles
+Cell, 81 (1995), pp. 95–105
+
+Article |  PDF (5219 K) | View Record in Scopus | Citing articles (498)
+22
+S. Dutertre, M. Cazales, M. Quaranta, C. Froment, V. Trabut, C. Dozier, G. Mirey, J.P. Bouche, N. Theis-Febvre, E. Schmitt et al.
+Phosphorylation of CDC25B by Aurora-A at the centrosome contributes to the G2-M transition
+J Cell Sci, 117 (2004), pp. 2523–2531
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (145)
+23
+M. Cazales, E. Schmitt, E. Montembault, C. Dozier, C. Prigent, B. Ducommun
+CDC25B phosphorylation by Aurora-A occurs at the G2/M transition and is inhibited by DNA damage
+Cell Cycle, 4 (2005), pp. 1233–1238
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+24
+T. Hirota, N. Kunitoku, T. Sasayama, T. Marumoto, D. Zhang, M. Nitta, K. Hatakeyama, H. Saya
+Aurora-A and an interacting activator, the LIM protein Ajuba, are required for mitotic commitment in human cells
+Cell, 114 (2003), pp. 585–598
+
+Article |  PDF (842 K) | View Record in Scopus | Citing articles (360)
+25••
+L. Macurek, A. Lindqvist, D. Lim, M.A. Lampson, R. Klompmaker, R. Freire, C. Clouin, S.S. Taylor, M.B. Yaffe, R.H. Medema
+Polo-like kinase-1 is activated by Aurora A to promote checkpoint recovery
+Nature, 455 (2008), pp. 119–123
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (206)
+25••
+Aurora A/Bora activates Plk1 to promote mitotic entry after a checkpoint-dependent arrest.
+
+26••
+A. Seki, J.A. Coppinger, C.Y. Jang, J.R. Yates, G. Fang
+Bora and the kinase Aurora a cooperatively activate the kinase Plk1 and control mitotic entry
+Science, 320 (2008), pp. 1655–1658
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (175)
+26••
+Bora/Aurora A activation of PLK1 controls G2/M transition.
+
+27
+M.A. van Vugt, A. Bras, R.H. Medema
+Polo-like kinase-1 controls recovery from a G2 DNA damage-induced arrest in mammalian cells
+Mol Cell, 15 (2004), pp. 799–811
+
+Article |  PDF (690 K) | View Record in Scopus | Citing articles (168)
+28
+J.A. Snyder, J.R. McIntosh
+Initiation and growth of microtubules from mitotic centers in lysed mammalian cells
+J Cell Biol, 67 (1975), pp. 744–760
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+29
+E. Hannak, M. Kirkham, A.A. Hyman, K. Oegema
+Aurora-A kinase is required for centrosome maturation in Caenorhabditis elegans
+J Cell Biol, 155 (2001), pp. 1109–1116
+
+Full Text via CrossRef
+30
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+31
+Y. Abe, M. Ohsugi, K. Haraguchi, J. Fujimoto, T. Yamamoto
+LATS2-Ajuba complex regulates gamma-tubulin recruitment to centrosomes and spindle organization during mitosis
+FEBS Lett, 580 (2006), pp. 782–788
+
+Article |  PDF (450 K) | View Record in Scopus | Citing articles (41)
+32
+D. Mori, Y. Yano, K. Toyo-oka, N. Yoshida, M. Yamada, M. Muramatsu, D. Zhang, H. Saya, Y.Y. Toyoshima, K. Kinoshita et al.
+NDEL1 phosphorylation by Aurora-A kinase is essential for centrosomal maturation, separation, and TACC3 recruitment
+Mol Cell Biol, 27 (2007), pp. 352–367
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (73)
+33
+R. Giet, D. McLean, S. Descamps, M.J. Lee, J.W. Raff, C. Prigent, D.M. Glover
+Drosophila Aurora A kinase is required to localize D-TACC to centrosomes and to regulate astral microtubules
+J Cell Biol, 156 (2002), pp. 437–451
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (210)
+34
+L.C. Kapitein, E.J. Peterman, B.H. Kwok, J.H. Kim, T.M. Kapoor, C.F. Schmidt
+The bipolar mitotic kinesin Eg5 moves on both microtubules that it crosslinks
+Nature, 435 (2005), pp. 114–118
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (227)
+35
+M.Y. Tsai, Y. Zheng
+Aurora A kinase-coated beads function as microtubule-organizing centers and enhance RanGTP-induced spindle assembly
+Curr Biol, 15 (2005), pp. 2156–2163
+
+Article |  PDF (588 K) | View Record in Scopus | Citing articles (50)
+36
+M.D. Koffa, C.M. Casanova, R. Santarella, T. Kocher, M. Wilm, I.W. Mattaj
+HURP is part of a Ran-dependent complex involved in spindle formation
+Curr Biol, 16 (2006), pp. 743–754
+
+Article |  PDF (785 K) | View Record in Scopus | Citing articles (121)
+37
+J. Wong, R. Lerrigo, C.Y. Jang, G. Fang
+Aurora A regulates the activity of HURP by controlling the accessibility of its microtubule-binding domain
+Mol Biol Cell, 19 (2008), pp. 2083–2091
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (34)
+38
+X. Zhang, S.C. Ems-McClung, C.E. Walczak
+Aurora A phosphorylates MCAK to control ran-dependent spindle bipolarity
+Mol Biol Cell, 19 (2008), pp. 2752–2765
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+39
+M. Venoux, J. Basbous, C. Berthenet, C. Prigent, A. Fernandez, N.J. Lamb, S. Rouquier
+ASAP is a novel substrate of the oncogenic mitotic kinase Aurora-A: phosphorylation on Ser625 is essential to spindle formation and mitosis
+Hum Mol Genet, 17 (2008), pp. 215–224
+
+View Record in Scopus | Citing articles (24)
+40
+T. Wittmann, M. Wilm, E. Karsenti, I. Vernos
+TPX2, A novel Xenopus MAP involved in spindle pole organization
+J Cell Biol, 149 (2000), pp. 1405–1418
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (200)
+41
+T.A. Kufer, H.H. Sillje, R. Korner, O.J. Gruss, P. Meraldi, E.A. Nigg
+Human TPX2 is required for targeting Aurora-A kinase to the spindle
+J Cell Biol, 158 (2002), pp. 617–623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (256)
+42
+P.A. Eyers, E. Erikson, L.G. Chen, J.L. Maller
+A novel mechanism for activation of the protein kinase Aurora A
+Curr Biol, 13 (2003), pp. 691–697
+
+Article |  PDF (289 K) | View Record in Scopus | Citing articles (172)
+43
+R. Bayliss, T. Sardon, I. Vernos, E. Conti
+Structural basis of Aurora-A activation by TPX2 at the mitotic spindle
+Mol Cell, 12 (2003), pp. 851–862
+
+Article |  PDF (1425 K) | View Record in Scopus | Citing articles (247)
+44
+A. Ferrand, V. Chevrier, J.P. Chauvin, D. Birnbaum
+Ajuba: a new microtubule-associated protein that interacts with BUBR1 and Aurora B at kinetochores in metaphase
+Biol Cell, 101 (2009), pp. 221–235
+
+View Record in Scopus | Citing articles (9)
+45
+A. Hutterer, D. Berdnik, F. Wirtz-Peitz, M. Zigman, A. Schleiffer, J.A. Knoblich
+Mitotic activation of the kinase Aurora-A requires its binding partner Bora
+Dev Cell, 11 (2006), pp. 147–157
+
+Article |  PDF (764 K) | View Record in Scopus | Citing articles (72)
+46
+E.H. Chan, A. Santamaria, H.H. Sillje, E.A. Nigg
+Plk1 regulates mitotic Aurora A function through betaTrCP-dependent degradation of hBora
+Chromosoma, 117 (2008), pp. 457–469
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+47
+D.L. Satinover, C.A. Leach, P.T. Stukenberg, D.L. Brautigan
+Activation of Aurora-A kinase by protein phosphatase inhibitor-2, a bifunctional signaling protein
+Proc Natl Acad Sci U S A, 101 (2004), pp. 8625–8630
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+48
+W. Wang, P.T. Stukenberg, D.L. Brautigan
+Phosphatase inhibitor-2 balances protein phosphatase 1 and Aurora B kinase for chromosome segregation and cytokinesis in human retinal epithelial cells
+Mol Biol Cell, 19 (2008), pp. 4852–4862
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+49•
+E.N. Pugacheva, S.A. Jablonski, T.R. Hartman, E.P. Henske, E.A. Golemis
+HEF1-dependent Aurora A activation induces disassembly of the primary cilium
+Cell, 129 (2007), pp. 1351–1363
+
+Article |  PDF (1837 K) | View Record in Scopus | Citing articles (231)
+49•
+Aurora A interaction with HEF1 at the basal body of cilia causes phosphorylation and activation of the tubulin deacetylase HDAC6, promoting ciliary disassembly.
+
+50
+A.B. Fielding, I. Dobreva, P.C. McDonald, L.J. Foster, S. Dedhar
+Integrin-linked kinase localizes to the centrosome and regulates mitotic spindle organization
+J Cell Biol, 180 (2008), pp. 681–689
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (65)
+51
+Z.S. Zhao, J.P. Lim, Y.W. Ng, L. Lim, E. Manser
+The GIT-associated kinase PAK targets to the centrosome and regulates Aurora-A
+Mol Cell, 20 (2005), pp. 237–249
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (112)
+52•
+Y. Tong, A. Ben-Shlomo, C. Zhou, K. Wawrowsky, S. Melmed
+Pituitary tumor transforming gene 1 regulates Aurora kinase A activity
+Oncogene, 27 (2008), pp. 6385–6395
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+52•
+The mammalian securin PTTG1, which is overexpressed in most cancers, binds and inhibits Aurora A.
+
+53
+S. Shao, Y. Wang, S. Jin, Y. Song, X. Wang, W. Fan, Z. Zhao, M. Fu, T. Tong, L. Dong et al.
+Gadd45a interacts with Aurora-A and inhibits its kinase activity
+J Biol Chem, 281 (2006), pp. 28943–28950
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+54
+P.A. Eyers, J.L. Maller
+Regulation of Xenopus Aurora A activation by TPX2
+J Biol Chem, 279 (2004), pp. 9008–9015
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+55
+C.A. Cooke, M.M. Heck, W.C. Earnshaw
+The inner centromere protein (INCENP) antigens: movement from inner centromere to midbody during mitosis
+J Cell Biol, 105 (1987), pp. 2053–2067
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (197)
+56
+Y. Terada, M. Tatsuka, F. Suzuki, Y. Yasuda, S. Fujita, M. Otsu
+AIM-1: a mammalian midbody-associated protein required for cytokinesis
+EMBO J, 17 (1998), pp. 667–676
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (305)
+57
+R.R. Adams, S.P. Wheatley, A.M. Gouldsworthy, S.E. Kandels-Lewis, M. Carmena, C. Smythe, D.L. Gerloff, W.C. Earnshaw
+INCENP binds the Aurora-related kinase AIRK2 and is required to target it to chromosomes, the central spindle and cleavage furrow
+Curr Biol, 10 (2000), pp. 1075–1078
+
+Article |  PDF (194 K) | View Record in Scopus | Citing articles (196)
+58
+A.G. Uren, L. Wong, M. Pakusch, K.J. Fowler, F.J. Burrows, D.L. Vaux, K.H. Choo
+Survivin and the inner centromere protein INCENP show similar cell-cycle localization and gene knockout phenotype
+Curr Biol, 10 (2000), pp. 1319–1328
+
+Article |  PDF (806 K) | View Record in Scopus | Citing articles (381)
+59
+S.P. Wheatley, A. Carvalho, P. Vagnarelli, W.C. Earnshaw
+INCENP is required for proper targeting of Survivin to the centromeres and the anaphase spindle during mitosis
+Curr Biol, 11 (2001), pp. 886–890
+
+Article |  PDF (407 K) | View Record in Scopus | Citing articles (207)
+60
+R. Gassmann, A. Carvalho, A.J. Henzing, S. Ruchaud, D.F. Hudson, R. Honda, E.A. Nigg, D.L. Gerloff, W.C. Earnshaw
+Borealin: a novel chromosomal passenger required for stability of the bipolar mitotic spindle
+J Cell Biol, 166 (2004), pp. 179–191
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (240)
+61
+S.C. Sampath, R. Ohi, O. Leismann, A. Salic, A. Pozniakovski, H. Funabiki
+The chromosomal passenger complex is required for chromatin-induced microtubule stabilization and spindle assembly
+Cell, 118 (2004), pp. 187–202
+
+Article |  PDF (1037 K) | View Record in Scopus | Citing articles (219)
+62••
+A.A. Jeyaprakash, U.R. Klein, D. Lindner, J. Ebert, E.A. Nigg, E. Conti
+Structure of a Survivin–Borealin–INCENP core complex reveals how chromosomal passengers travel together
+Cell, 131 (2007), pp. 271–285
+
+Article |  PDF (2505 K) | View Record in Scopus | Citing articles (137)
+62••
+Using a 1.4-Å resolution crystal structure, the authors show that the N-termini of INCENP, Borealin and Survivin form a 1:1:1 complex through a three-helix bundle. This core subcomplex is stable and targets to centromeres.
+
+63
+J.D. Bishop, J.M. Schumacher
+Phosphorylation of the carboxyl terminus of inner centromere protein (INCENP) by the Aurora B kinase stimulates Aurora B kinase activity
+J Biol Chem, 277 (2002), pp. 27577–27580
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+64
+F. Sessa, M. Mapelli, C. Ciferri, C. Tarricone, L.B. Areces, T.R. Schneider, P.T. Stukenberg, A. Musacchio
+Mechanism of Aurora B activation by INCENP and inhibition by hesperadin
+Mol Cell, 18 (2005), pp. 379–391
+
+Article |  PDF (851 K) | View Record in Scopus | Citing articles (197)
+65
+A.E. Kelly, S.C. Sampath, T.A. Maniar, E.M. Woo, B.T. Chait, H. Funabiki
+Chromosomal enrichment and activation of the Aurora B pathway are coupled to spatially regulate spindle assembly
+Dev Cell, 12 (2007), pp. 31–43
+
+Article |  PDF (1495 K) | View Record in Scopus | Citing articles (83)
+66•
+N. Jelluma, A.B. Brenkman, N.J. van den Broek, C.W. Cruijsen, M.H. van Osch, S.M. Lens, R.H. Medema, G.J. Kops
+Mps1 phosphorylates Borealin to control Aurora B activity and chromosome alignment
+Cell, 132 (2008), pp. 233–246
+
+Article |  PDF (2544 K) | View Record in Scopus | Citing articles (126)
+66•
+Here the authors showed that the spindle checkpoint kinase Mps1 is required for chromosome alignment in an Aurora B activity-dependent manner through phosphorylation of the CPC member Borealin.
+
+67
+G. Vader, J.J. Kauw, R.H. Medema, S.M. Lens
+Survivin mediates targeting of the chromosomal passenger complex to the centromere and midbody
+EMBO Rep, 7 (2006), pp. 85–92
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (71)
+68
+M.A. Bolton, W. Lan, S.E. Powers, M.L. McCleland, J. Kuang, P.T. Stukenberg
+Aurora B kinase exists in a complex with survivin and INCENP and its kinase activity is stimulated by survivin binding and phosphorylation
+Mol Biol Cell, 13 (2002), pp. 3064–3077
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (215)
+69
+J. Chen, S. Jin, S.K. Tahir, H. Zhang, X. Liu, A.V. Sarthy, T.P. McGonigal, Z. Liu, S.H. Rosenberg, S.C. Ng
+Survivin enhances Aurora-B kinase activity and localizes Aurora-B in human cells
+J Biol Chem, 278 (2003), pp. 486–490
+
+View Record in Scopus | Citing articles (102)
+70
+R. Honda, R. Korner, E.A. Nigg
+Exploring the functional interactions between Aurora B, INCENP, and survivin in mitosis
+Mol Biol Cell, 14 (2003), pp. 3325–3341
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (281)
+71
+Z. Yue, A. Carvalho, Z. Xu, X. Yuan, S. Cardinale, S. Ribeiro, F. Lai, H. Ogawa, E. Gudmundsdottir, R. Gassmann et al.
+Deconstructing Survivin: comprehensive genetic analysis of Survivin function by conditional knockout in a vertebrate cell line
+J Cell Biol, 183 (2008), pp. 279–296
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+72
+S. Ruchaud, M. Carmena, W.C. Earnshaw
+The chromosomal passenger complex: one for all and all for one
+Cell, 131 (2007), pp. 230–231
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (48)
+73
+A. Yanai, E. Arama, G. Kilfin, B. Motro
+ayk1, a novel mammalian gene related to Drosophila Aurora centrosome separation kinase, is specifically expressed during meiosis
+Oncogene, 14 (1997), pp. 2943–2950
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+74
+T.C. Tseng, S.H. Chen, Y.P. Hsu, T.K. Tang
+Protein kinase profile of sperm and eggs: cloning and characterization of two novel testis-specific protein kinases (AIE1, AIE2) related to yeast and fly chromosome segregation regulators
+DNA Cell Biol, 17 (1998), pp. 823–833
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (91)
+75
+M. Kimura, Y. Matsuda, T. Yoshioka, Y. Okano
+Cell cycle-dependent expression and centrosome localization of a third human Aurora/Ipl1-related protein kinase, AIK3
+J Biol Chem, 274 (1999), pp. 7334–7340
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (177)
+76
+S. Kimmins, C. Crosio, N. Kotaja, J. Hirayama, L. Monaco, C. Hoog, M. van Duin, J.A. Gossen, P. Sassone-Corsi
+Differential functions of the Aurora-B and Aurora-C kinases in mammalian spermatogenesis
+Mol Endocrinol, 21 (2007), pp. 726–739
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+77
+C.J. Tang, C.Y. Lin, T.K. Tang
+Dynamic localization and functional implications of Aurora-C kinase during male mouse meiosis
+Dev Biol, 290 (2006), pp. 398–410
+
+Article |  PDF (858 K) | View Record in Scopus | Citing articles (88)
+78
+S. Gao, M.G. Giansanti, G.J. Buttrick, S. Ramasubramanyan, A. Auton, M. Gatti, J.G. Wakefield
+Australin: a chromosomal passenger protein required specifically for Drosophila melanogaster male meiosis
+J Cell Biol, 180 (2008), pp. 521–535
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+79
+A.C. Ma, M.I. Chung, R. Liang, A.Y. Leung
+The role of survivin2 in primitive hematopoiesis during zebrafish development
+Leukemia, 23 (2009), pp. 712–720
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+80
+Z. Han, G.M. Riefler, J.R. Saam, S.E. Mango, J.M. Schumacher
+The C. elegans Tousled-like kinase contributes to chromosome segregation as a substrate and regulator of the Aurora B kinase
+Curr Biol, 15 (2005), pp. 894–904
+
+Article |  PDF (656 K) | View Record in Scopus | Citing articles (38)
+81
+G. Zachos, E.J. Black, M. Walker, M.T. Scott, P. Vagnarelli, W.C. Earnshaw, D.A. Gillespie
+Chk1 is required for spindle checkpoint function
+Dev Cell, 12 (2007), pp. 247–260
+
+Article |  PDF (1746 K) | View Record in Scopus | Citing articles (124)
+82
+P.R. Andreassen, D.K. Palmer, M.H. Wener, R.L. Margolis
+Telophase disk: a new mammalian mitotic organelle that bisects telophase cells with a possible function in cytokinesis
+J Cell Sci, 99 (1991), pp. 523–534
+
+View Record in Scopus | Citing articles (81)
+83
+C. Mollinari, C. Reynaud, S. Martineau-Thuillier, S. Monier, S. Kieffer, J. Garin, P.R. Andreassen, A. Boulet, B. Goud, J.P. Kleman et al.
+The mammalian passenger protein TD-60 is an RCC1 family member with an essential role in prometaphase to metaphase progression
+Dev Cell, 5 (2003), pp. 295–307
+
+Article |  PDF (680 K) | View Record in Scopus | Citing articles (60)
+84••
+S.E. Rosasco-Nitcher, W. Lan, S. Khorasanizadeh, P.T. Stukenberg
+Centromeric Aurora-B activation requires TD-60, microtubules, and substrate priming phosphorylation
+Science, 319 (2008), pp. 469–472
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+84••
+In this study the authors showed that activation of Aurora B at centromere requires the presence of both TD-60 and microtubules. TD-60 binds INCENP and is also required for the centromeric localisation of the CPC and Haspin kinase.
+
+85••
+B.G. Fuller, M.A. Lampson, E.A. Foley, S. Rosasco-Nitcher, K.V. Le, P. Tobelmann, D.L. Brautigan, P.T. Stukenberg, T.M. Kapoor
+Midzone activation of Aurora B in anaphase produces an intracellular phosphorylation gradient
+Nature, 453 (2008), pp. 1132–1136
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+85••
+By generating a FRET Aurora B activity sensor, the authors revealed a phosphorylation gradient in anaphase cells between the poles and the spindle midzone where it culminates. Furthermore, they showed that the maintenance of Aurora B activity through microtubules interaction at the midzone is required for the establishment of the gradient from which the cleavage furrow position can be predicted.
+
+86
+K. Sugiyama, K. Sugiura, T. Hara, K. Sugimoto, H. Shima, K. Honda, K. Furukawa, S. Yamashita, T. Urano
+Aurora-B associated protein phosphatases as negative regulators of kinase activation
+Oncogene, 21 (2002), pp. 3103–3111
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+87
+L. Sun, J. Gao, X. Dong, M. Liu, D. Li, X. Shi, J.T. Dong, X. Lu, C. Liu, J. Zhou
+EB1 promotes Aurora-B kinase activity through blocking its inactivation by protein phosphatase 2A
+Proc Natl Acad Sci U S A, 105 (2008), pp. 7153–7158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+88
+M.A. Lampson, T.M. Kapoor
+The human mitotic checkpoint protein BubR1 regulates chromosome-spindle attachments
+Nat Cell Biol, 7 (2005), pp. 93–98
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (166)
+89
+R.R. Adams, H. Maiato, W.C. Earnshaw, M. Carmena
+Essential roles of Drosophila inner centromere protein (INCENP) and Aurora-B in histone H3 phosphorylation, metaphase chromosome alignment, kinetochore disjunction, and chromosome segregation
+J Cell Biol, 153 (2001), pp. 865–880
+
+Full Text via CrossRef
+90
+R. Ohi, T. Sapra, J. Howard, T.J. Mitchison
+Differentiation of cytoplasmic and meiotic spindle assembly MCAK functions by Aurora B-dependent phosphorylation
+Mol Biol Cell, 2 (2004) [epub]
+
+91
+B.B. Gadea, J.V. Ruderman
+Aurora B is required for mitotic chromatin-induced phosphorylation of Op18/Stathmin
+Proc Natl Acad Sci U S A, 103 (2006), pp. 4493–4498
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (63)
+92
+T.U. Tanaka, N. Rachidi, C. Janke, G. Pereira, M. Galova, E. Schiebel, M.J. Stark, K. Nasmyth
+Evidence that the Ipl1-Sli15 (Aurora kinase-INCENP) complex promotes chromosome bi-orientation by altering kinetochore-spindle pole connections
+Cell, 108 (2002), pp. 317–329
+
+Article |  PDF (843 K) | View Record in Scopus | Citing articles (403)
+93
+P.D. Andrews, Y. Ovechkina, N. Morrice, M. Wagenbach, K. Duncan, L. Wordeman, J.R. Swedlow
+Aurora B regulates MCAK at the mitotic centromere
+Dev Cell, 6 (2004), pp. 253–268
+
+Article |  PDF (947 K) | View Record in Scopus | Citing articles (285)
+94
+W. Lan, X. Zhang, S.L. Kline-Smith, S.E. Rosasco, G.A. Barrett-Wilt, J. Shabanowitz, D.F. Hunt, C.E. Walczak, P.T. Stukenberg
+Aurora B phosphorylates centromeric MCAK and regulates its localization and microtubule depolymerization activity
+Curr Biol, 14 (2004), pp. 273–286
+
+Article |  PDF (1815 K) | View Record in Scopus | Citing articles (263)
+95••
+D. Liu, G. Vader, M.J. Vromans, M.A. Lampson, S.M. Lens
+Sensing chromosome bi-orientation by spatial separation of Aurora B kinase from kinetochore substrates
+Science, 323 (2009), pp. 1350–1353
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (203)
+95••
+A clear demonstration that the physical separation between centromeric Aurora B and kinetochore upon establishment of tension stabilises kinetochore–microtubule attachment.
+
+96
+J.G. Deluca, W.E. Gall, C. Ciferri, D. Cimini, A. Musacchio, E.D. Salmon
+Kinetochore microtubule dynamics and attachment stability are regulated by hec1
+Cell, 127 (2006), pp. 969–982
+
+Article |  PDF (2084 K) | View Record in Scopus | Citing articles (288)
+97
+I.M. Cheeseman, J.S. Chappie, E.M. Wilson-Kubalek, A. Desai
+The conserved KMN network constitutes the core microtubule-binding site of the kinetochore
+Cell, 127 (2006), pp. 983–997
+
+Article |  PDF (2979 K) | View Record in Scopus | Citing articles (352)
+98
+S.L. Kline-Smith, A. Khodjakov, P. Hergert, C.E. Walczak
+Depletion of centromeric MCAK leads to chromosome congression and segregation defects due to improper kinetochore attachments
+Mol Biol Cell, 15 (2004), pp. 1146–1159
+
+View Record in Scopus | Citing articles (152)
+99
+X. Zhang, W. Lan, S.C. Ems-McClung, P.T. Stukenberg, C.E. Walczak
+Aurora B phosphorylates multiple sites on mitotic centromere-associated kinesin to spatially and temporally regulate its function
+Mol Biol Cell, 18 (2007), pp. 3264–3276
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+100
+S.F. Bakhoum, S.L. Thompson, A.L. Manning, D.A. Compton
+Genome stability is ensured by temporal control of kinetochore–microtubule dynamics
+Nat Cell Biol, 11 (2009), pp. 27–35
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+101
+L. Nezi, A. Musacchio
+Sister chromatid tension and the spindle assembly checkpoint
+Curr Opin Cell Biol, 21 (2009), pp. 785–795
+
+Article |  PDF (613 K) | View Record in Scopus | Citing articles (71)
+102
+S. Biggins, A.W. Murray
+The budding yeast protein kinase Ipl1/Aurora allows the absence of tension to activate the spindle checkpoint
+Genes Dev, 15 (2001), pp. 3118–3129
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (247)
+103
+B.A. Pinsky, C.V. Kotwaliwale, S.Y. Tatsutani, C.A. Breed, S. Biggins
+Glc7/protein phosphatase 1 regulatory subunits can oppose the Ipl1/Aurora protein kinase by redistributing Glc7
+Mol Cell Biol, 26 (2006), pp. 2648–2660
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+104
+M.J. Kallio, M.L. McCleland, P.T. Stukenberg, G.J. Gorbsky
+Inhibition of Aurora B kinase blocks chromosome segregation, overrides the spindle checkpoint, and perturbs microtubule dynamics in mitosis
+Curr Biol, 12 (2002), pp. 900–905
+
+Article |  PDF (474 K) | View Record in Scopus | Citing articles (204)
+105
+C. Ditchfield, V.L. Johnson, A. Tighe, R.C.H. Ellston, T. Johnson, A. Mortlock, N. Keen, S.S. Taylor
+Aurora B couples chromosome alignment with anaphase by targeting bubR1, Mad2 and CENP-E to kinetochores
+J Cell Biol, 161 (2003), pp. 267–280
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (732)
+106
+S. Hauf, R.W. Cole, S. LaTerra, C. Zimmer, G. Schnapp, R. Walter, A. Heckel, J. Van Meel, C.L. Rieder, J.M. Peters
+The small molecule Hesperadin reveals a role for Aurora B in correcting kinetochore–microtubule attachment and in maintaining the spindle assembly checkpoint
+J Cell Biol, 161 (2003), pp. 281–294
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (682)
+107
+A. Carvalho, M. Carmena, C. Sambade, W.C. Earnshaw, S.P. Wheatley
+Survivin is required for stable checkpoint activation in taxol-treated HeLa cells
+J Cell Sci, 116 (2003), pp. 2987–2998
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (231)
+108
+S.M.A. Lens, R.M.F. Wolthuis, R. Klompmaker, J. Kauw, R. Agami, T. Brummelkamp, G. Kops, R.H. Medema
+Survivin is required for a sustained spindle checkpoint arrest in response to lack of tension
+EMBO J, 22 (2003), pp. 2934–2947
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (218)
+109
+S.A. Ribeiro, J.C. Gatlin, Y. Dong, A. Joglekar, L. Cameron, D.F. Hudson, C.J. Farr, B.F. McEwen, E.D. Salmon, W.C. Earnshaw et al.
+Condensin regulates the stiffness of vertebrate centromeres
+Mol Biol Cell, 20 (2009), pp. 2371–2380
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+110
+A. Losada, M. Hirano, T. Hirano
+Cohesin release is required for sister chromatid resolution, but not for condensin-mediated compaction, at the onset of mitosis
+Genes Dev, 16 (2002), pp. 3004–3016
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (217)
+111
+J.F. Gimenez-Abian, I. Sumara, T. Hirota, S. Hauf, D. Gerlich, C. de la Torre, J. Ellenberg, J.M. Peters
+Regulation of sister chromatid cohesion between chromosome arms
+Curr Biol, 14 (2004), pp. 1187–1193
+
+Article |  PDF (353 K) | View Record in Scopus | Citing articles (138)
+112
+I.C. Waizenegger, S. Hauf, A. Meinke, J.M. Peters
+Two distinct pathways remove mammalian cohesin from chromosome arms in prophase and from centromeres in anaphase
+Cell, 103 (2000), pp. 399–410
+
+Article |  PDF (847 K) | View Record in Scopus | Citing articles (406)
+113
+I. Sumara, E. Vorlaufer, P.T. Stukenberg, O. Kelm, N. Redemann, E.A. Nigg, J.M. Peters
+The dissociation of cohesin from chromosomes in prophase is regulated by Polo-like kinase
+Mol Cell, 9 (2002), pp. 515–525
+
+Article |  PDF (559 K) | View Record in Scopus | Citing articles (275)
+114
+T.S. Kitajima, S. Hauf, M. Ohsugi, T. Yamamoto, Y. Watanabe
+Human Bub1 defines the persistent cohesion site along the mitotic chromosome by affecting Shugoshin localization
+Curr Biol, 15 (2005), pp. 353–359
+
+Article |  PDF (447 K) | View Record in Scopus | Citing articles (145)
+115
+T.S. Kitajima, T. Sakuno, K. Ishiguro, S. Iemura, T. Natsume, S.A. Kawashima, Y. Watanabe
+Shugoshin collaborates with protein phosphatase 2A to protect cohesin
+Nature, 441 (2006), pp. 46–52
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (237)
+116
+Z. Tang, H. Shu, W. Qi, N.A. Mahmood, M.C. Mumby, H. Yu
+PP2A is required for centromeric localization of Sgo1 and proper chromosome segregation
+Dev Cell, 10 (2006), pp. 575–585
+
+Article |  PDF (843 K) | View Record in Scopus | Citing articles (163)
+117
+J. Dai, B.A. Sullivan, J.M. Higgins
+Regulation of mitotic chromosome cohesion by Haspin and Aurora B
+Dev Cell, 11 (2006), pp. 741–750
+
+Article |  PDF (1472 K) | View Record in Scopus | Citing articles (90)
+118
+K. Yuan, N. Li, Y. Huo, F. Yan, Y. Yang, T. Ward, C. Jin, X. Yao
+Recruitment of separase to mitotic chromosomes is regulated by Aurora B
+Cell Cycle, 8 (2009), pp. 1433–1443
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (12)
+119
+M. Carmena, W.C. Earnshaw
+The cellular geography of Aurora kinases
+Nat Rev Mol Cell Biol, 4 (2003), pp. 842–854
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (597)
+120
+P. Vagnarelli, W.C. Earnshaw
+Chromosomal passengers: the four-dimensional regulation of mitotic events
+Chromosoma, 113 (2004), pp. 211–222
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (237)
+121
+W.M. Bement, H.A. Benink, G. von Dassow
+A microtubule-dependent zone of active RhoA during cleavage plane specification
+J Cell Biol, 170 (2005), pp. 91–101
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (149)
+122
+P. Wadsworth
+Cytokinesis: Rho marks the spot
+Curr Biol, 15 (2005), pp. R871–R874
+
+Article |  PDF (108 K) | View Record in Scopus | Citing articles (19)
+123
+M. Mishima, S. Kaitna, M. Glotzer
+Central spindle assembly and cytokinesis require a kinesin-like protein/RhoGAP complex with microtubule bundling activity
+Dev Cell, 2 (2002), pp. 41–54
+
+Article |  PDF (754 K) | View Record in Scopus | Citing articles (279)
+124
+Y. Minoshima, T. Kawashima, K. Hirose, Y. Tonozuka, A. Kawajiri, Y.C. Bao, X. Deng, M. Tatsuka, S. Narumiya, W.S. May et al.
+Phosphorylation by Aurora B Converts MgcRacGAP to a RhoGAP during cytokinesis
+Dev Cell, 4 (2003), pp. 549–560
+
+Article |  PDF (678 K) | View Record in Scopus | Citing articles (187)
+125•
+P. Steigemann, C. Wurzenberger, M.H. Schmitz, M. Held, J. Guizetti, S. Maar, D.W. Gerlich
+Aurora B-mediated abscission checkpoint protects against tetraploidization
+Cell, 136 (2009), pp. 473–484
+
+Article |  PDF (2821 K) | View Record in Scopus | Citing articles (190)
+125•
+The authors showed that Aurora B is part of a sensor that detects unsegregated chromatin at the cleavage furrow. Therefore, Aurora B inactivation at the midbody is required for abscission.
+
+126
+C. Norden, M. Mendoza, J. Dobbelaere, C.V. Kotwaliwale, S. Biggins, Y. Barral
+The NoCut pathway links completion of cytokinesis to spindle midzone function to prevent chromosome breakage
+Cell, 125 (2006), pp. 85–98
+
+Article |  PDF (1074 K) | View Record in Scopus | Citing articles (119)
+127•
+M. Mendoza, C. Norden, K. Durrer, H. Rauter, F. Uhlmann, Y. Barral
+A mechanism for chromosome segregation sensing by the NoCut checkpoint
+Nat Cell Biol, 11 (2009), pp. 477–483
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+127•
+In S. cerevisiae Aurora B acts as a sensor that activates the NoCut checkpoint when chromatin is present at the spindle midzone.
+
+128
+C.S. Chan, D. Botstein
+Isolation and characterization of chromosome-gain and increase-in-ploidy mutants in yeast
+Genetics, 135 (1993), pp. 677–691
+
+View Record in Scopus | Citing articles (180)

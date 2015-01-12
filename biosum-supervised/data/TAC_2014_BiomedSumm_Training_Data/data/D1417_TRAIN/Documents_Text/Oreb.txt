@@ -1,0 +1,575 @@
+﻿Policing Tic ‘n’ Toc, the doorway to chloroplasts
+Mislav Oreb1, 2, Ivo Tews3, Enrico Schleiff1, 2, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.tcb.2007.10.002
+Get rights and content
+The organization of eukaryotic cells into different membrane-enclosed compartments requires an ordered and regulated system for targeting and translocating proteins synthesized in the cytosol across organellar membranes. Protein translocation through integral membrane proteinaceous complexes shares common principles in different organelles, whereas molecular mechanisms and energy requirements are diverse. Translocation into mitochondria and plastids requires most proteins to cross two membranes, and translocation must be regulated to accommodate environmental or metabolic changes. In the last decade, the first ideas were formulated about the regulation of protein translocation into chloroplasts, thereby laying the foundation for this field. Here, we describe recent models for the regulation of translocation by precursor protein phosphorylation, receptor dimerization, redox sensing and calcium signaling. We suggest how these mechanisms might fit within the regulatory framework for the entry of proteins into chloroplasts.
+
+The gospel of protein import
+Subdivision of cells into different compartments paralleled the development of eukaryotes [1], but at the same time necessitated exchange of solutes and proteins between the cellular compartments. Thus, the development of specific mechanisms was required for protein transport in the cytosol and across membranes. Despite the structural and functional diversity of the proteinaceous translocation complexes, some basic principles apply to the recognition of proteins by the organellar membranes and to transport of proteins into mitochondria and chloroplasts [2]. Import pathways require: (i) cytosolic synthesis of a precursor protein containing an organelle-specific signal, (ii) transport to the targeted membrane in an import-competent form, (iii) recognition by receptors at the organellar surface, (iv) threading through a translocation channel and (v) maturation of the imported protein at the trans side of the membrane [2]. Membrane receptors either interact with precursor proteins or recognize the ‘cytosolic transporters’ involved in precursor protein delivery, for example the chaperones. For some receptors this functionality is overlapping. However, targeting to the membrane and recognizing the precursor proteins are always dependent on specific signals, which are essential and sufficient for discrimination and translocation.
+
+Many of the components involved in protein translocation into plastids (see Glossary) were identified in chloroplasts. Chloroplasts are surrounded by two envelope membranes (as are plastids in general) but are specialized in terms of morphology by containing a thylakoid membrane system and by performing photosynthesis. The regulation of photosynthetic processes is known to require communication between the plastid and the nucleus [3], and there is a fine tuning of protein translocation to adapt to rapid environmental changes. Furthermore, modulation of protein import might also be required during plastid-type transitions, which are accompanied by rapid and massive proteomic changes (see Ref. [3] and references therein). Direct experimental evidence for the regulation of protein import into the chloroplast is sparse and only recently emerging. For example, the mode of translocation for protochlorophyllide oxidoreductase A changes from substrate dependence in cotyledons to substrate independence in mature leaves [4]. This finding implies the presence of a regulatory mechanism that is dependent on development. The molecular details and physiological significance of the proposed regulatory circuits are, however, still controversial. Here, we describe recent models for the regulation of protein import into chloroplasts and present a hypothesis to link protein import to the metabolic function of plastids.
+
+Targeting of precursor proteins to plastids
+Most proteins required for plastid function are encoded in the nucleus and translated on cytosolic ribosomes as precursors with an N-terminal transit peptide 5 and 6. The transit peptide bears the information for targeting to the organelle and is cleaved after the precursor is imported into the organelle. Some proteins are not synthesized with an N-terminal transit peptide and are either directly targeted to the chloroplast outer membrane (for example, see Ref. [7]) or transported by alternative routes, for example by the secretory pathway [8]. For the last two precursor species, the nature of the signal defining the route to chloroplasts awaits discovery.
+
+The understanding of the cytosolic transport of all precursor proteins is rather limited. Here, we focus our discussion on transit-peptide-dependent transport, often referred to as the general import pathway. For this mode of protein import, it has been proposed that cHsp70 proteins associate with the cytosolic precursor form to keep it in an unfolded conformation [2], whereas other (largely unknown) components are thought to mediate recognition by the membrane-localized protein complex. Some precursor proteins can be phosphorylated within the transit peptide by a family of cytosolic kinases [9] and are subsequently recognized by 14-3-3 10 and 11, forming the so-called ‘guidance complex’ together with cHsp70. A second class of precursor proteins containing a transit peptide, which is not phosphorylated, associate with cHsp90 in addition to cHsp70 [12]. However, the relative importance of the various pathways, the broadness of the substrates targeted by them and the signals leading to the different complexes remain to be explored. For instance, phosphorylation of precursor proteins and subsequent association with the ‘guidance complex’ is thought to accelerate translocation; at the same time it is not essential [13]. The same holds true for the cHsp90-mediated pathway because the inactivation of the recognizing receptor Toc64 in vivo causes only minor, if any, physiological defects to the chloroplasts 14 and 15. Transport of precursor proteins towards the organelle, therefore, is diverse and currently without a clear consensus.
+
+The Toc translocon at the outer envelope membrane
+Chloroplast membranes contain two complexes termed Toc and Tic, which reside on the outer and inner chloroplast membrane, respectively (for example, see Refs 5 and 6). The Toc complex consists of five proteins: Toc159, Toc75, Toc64, Toc34 and Toc12, named according to their approximate molecular weights (Figure 1, Box 1). Toc34 and Toc159 are associated in the Toc core complex with the β-barrel-shaped channel Toc75 16, 17 and 18. Both, Toc34 and Toc159 belong to the class of translation-factor-related GTPases that also includes the Ras-like superfamily [19]. Toc34 is anchored to the membrane by a C-terminal extension, whereas Toc159 exhibits a tripartite structure containing an N-terminal acidic (A) domain, a central GTPase (G) domain, highly similar to the G domain of Toc34, and a large transmembrane (M) domain. Although the A domain varies in length among the members of the Toc159 family in Arabidopsis thaliana and might possess a regulatory function, truncated forms lacking the A domain – partly or fully – are sufficiently functional for import of precursor proteins in vitro and in vivo 20 and 21. The interplay of Toc34 and Toc159 and their exact order of action are still controversial (see Figure 2). Two alternative models exist which consider either one of the two GTPases as the initial receptor for incoming precursor proteins. The model considering Toc34 as initial receptor is based on (i) a mapped precursor protein interaction with the GTPase (for example, see Refs 22, 23, 24 and 25, (ii) the higher abundance of Toc34 in the translocon and in the outer envelope membrane of chloroplasts 16, 17 and 18, (iii) the interaction observed in vitro with the ‘guidance complex’ component 14-3-3 [12] and (iv) the direct influence of Toc159, but not of Toc34, on precursor translocation across the membrane by Toc75 [21], placing Toc34 further upstream in the cascade of transfer events. The model is also consistent with the observed dynamic association of Toc64 with the translocon initiated by the interaction with Toc34 [12]. A second model considers Toc159 as the initial receptor, on the basis of crosslinking studies with isolated chloroplasts (for example, see Ref. [26]). Toc34 would then act as a receptor for Toc159 (for example, see Ref. [27]) and as a modulator of Toc159 function. Putting the controversy about their order of action aside, it is widely accepted that both receptors recognize precursor proteins 22, 23 and 28 ( Figure 2) and cooperation between the GTPase domains and the precursor peptide occurs during the translocation process [6]. It is currently being debated whether the core complex can receive proteins containing an N-terminal transit peptide directly or through the ‘guidance complex’ (for example, see Ref. [5]).
+
+Full-size image (65 K)
+Figure 1. 
+The translocon at the chloroplast envelopes. The translocation of precursor proteins across the envelope membranes depends on chaperones (yellow) or processing peptidases (pale yellow), proteins in the outer envelope membrane (orange), proteins in the inner envelope membrane (blue) and stromal modulators (green; for nomenclature see Box 1). The complex localized to the outer membrane can be dissected into a ‘core complex’ composed of the two GTPases Toc159 and Toc34, which are proposed to be regulated by phosphorylation in vitro and the translocation channel Toc75. It is proposed that Toc34 recognizes the 14-3-3 protein participating in the formation of the cytosolic guidance complex but that it also recognizes precursor proteins ( Figure 2). Toc64 and Toc12 form a complex that is involved in perception of Hsp90-delivered precursor proteins and, together with Tic22 and imsHsp70 in the assembly of an intermembrane space (IMS) complex for the transfer across the intermembrane space. In the inner membrane, Tic110 or/and Tic20 form the translocation pore, which together with Tic40 and the stromal stHsp93 form the translocating unit (Translocator). We describe a model whereby the iron–sulfur cluster containing Tic55, the NAD(P)H and ferredoxin–NADP–oxidoreductase (FNR) binding Tic62 and the NADP(H) and calmodulin (CAL) binding Tic32 form a Tic110 associated complex regulating the activity of the translocator (Regulator, Figure 3). The processing peptidase SPP cleaves the transit peptides in the stroma, whereas Plsp1 cleaves the transit peptide of Toc75 in the intermembrane space [69]. The model represents a scheme of participating components but does not consider any stoichiometric relations or organ-specific distributions.
+Figure options
+Box 1. 
+Nomenclature for protein translocation into chloroplasts
+
+Proteins involved in translocation across the chloroplast membranes
+Toc: Translocon at the outer envelope of chloroplasts.
+
+Tic: Translocon at the inner envelope of chloroplasts.
+
+TocXX/TicXX: Toc (Tic) subunit of ‘XX’ molecular weight (denominated after the first identified isoform).
+
+yyTo(i)cXX: yy indicates the species from which the isoform originates (given in two letter
+
+code, e.g. Arabidopsis thaliana: at).
+
+yyTo(i)cXX-A: A indicates the number of the chromosome in roman numerals encoding the protein, if more than one isoform of the subunit To(i)XX is present in the species yy.
+
+Components assisting targeting or translocation
+Components are named according to the protein class to which they belong (e.g. 14-3-3, Hsp70, Hsp90, Hsp93).
+
+c/ims/st: prefix to indicate localization in cytosol, intermembrane space or stroma.
+
+Precursor protein
+transit sequence: the most N-terminal section of the precursor protein, which is essential and sufficient to target the protein, and which is cleaved by a stromal peptidase.
+
+bipartite transit sequence: the N-terminal section of the precursor protein targeted to a further compartment after transfer into the stroma. The N-terminal portion of the sequences drives translocation across the envelope system and is cleaved by the stromal peptidase. The C-terminal portion is needed for intra-organellar targeting and is cleaved upon arrival at the final destination.
+
+m(name): mature form of the precursor protein (the active form of the protein after cleavage of the signal).
+
+p(name): precursor form of the protein (cytosolic form before translocation composed of the transit sequence and the mature protein).
+
+Full-size image (47 K)
+Figure 2. 
+The model of the protein translocon across the chloroplast envelopes. The isolated Toc complex is composed of four Toc75, four (to five) Toc34 and one Toc159 [16]. For simplicity, only half of the translocon is shown. Precursor proteins (white bar, transit sequence (Box 1) shown in blue) are recognized by GTP-charged receptors (step 1). According to the two models described in the text, the precursor protein might be recognized by either Toc34 (step 1a) or Toc159 (step 1b). The precursor recognition induces heterodimerization between Toc34 and Toc159 ([22], step 2). Both, dimerization (for example, see Refs 30 and 33) and precursor recognition (for example, see Ref. [23] might serve as activators of GTP hydrolysis, initiating the translocation process (step 3). Recharging of the receptors with GTP is required for the next round of translocation (at step 1). Phosphorylation of Toc34 in the GDP-loaded state (at step 3) causes the inhibition of GTP loading in vitro, which in turn would inactivate the complex (step 4). The complex can be reactivated by dephosphorylation of Toc34 (for example, see Ref. [5] and references therein).
+Figure options
+Because Toc64 and Toc12 do not co-purify with the core complex [16], it has been proposed that they are dynamically associated components of the translocon. Toc64 has a cytosolically exposed tetratrico-peptide repeat motif (TPR domain, see Glossary) that recognizes precursor proteins associated with cHsp90 chaperones [12]. Upon release of the cytosolic chaperones, the precursor is transferred to Toc34, on which all pathways of the translocation across the outer envelope utilizing the Toc core complex converge [12].
+
+Triggering Toc – dimerization as a GAP ersatz?
+Recent reports point to a connection between homo- and/or hetero-dimerization of the G domains of Toc34 and Toc159 and their function 23, 24, 27, 29, 30, 31, 32 and 33. It is thought that GTPase interaction is required for the de novo assembly of the Toc translocon [27]. Furthermore, concentration-dependent homodimerization of atToc33 [24] – the Toc34 isoform found in A. thaliana with similar properties to psToc34 – and of psToc159 [33] has a moderate stimulatory effect on GTPase activity. Consistently, for proteins with point mutations in the G domains resulting in reduced affinity for homodimerization (i.e. psToc34R128A [30], psToc34R133A [24] and atToc33R130A [33], Box 2), the concentration-dependent increase of GTP hydrolysis is shifted to require a higher concentration of G domains so that the increase could not be determined experimentally. Hence, a current hypothesis argues for mutual stimulation of GTP hydrolysis by dimerization, a mechanism found, for example, in heterodimers of the SRP/SR GTPases involved in co-translational translocation of proteins across the bacterial plasma membrane 34 and 35.
+
+Box 2. 
+Mapping the functional sites of psToc34/atToc33
+
+Most of the work described on the molecular architecture of the import receptor was conducted for the smallest GTPase of the Toc system. At present, research has focused on two aspects, namely homo- or hetero-dimerization and GTP binding/hydrolysis, using site- directed mutagenesis. However, not all mutants are systematically screened for the two effects, and little is known about their capacity to interact with precursor proteins. Figure I shows the structure of psToc34, which is a dimer in the crystal structure (1H65, [30]). One subunit is shown as a ribbon representation with bound GDP and magnesium, whereas the second subunit is omitted and only GDP and magnesium ion are shown. Helices are shown in blue, β-strands in orange and loops in yellow. The five G elements involved in nucleotide binding, G1 to G5, are shown in green. Some amino acids are shown as sticks and are specified by labels (text in color for psToc34, grey outline for atToc33).
+
+Full-size image (129 K)
+Figure I. 
+Structure of the small GTPase Toc34 from Pisum sativum.
+Figure options
+Homodimerization is affected by the mutation of the putative arginine finger (R130A) 24, 31 and 33 and an arginine close by also at the homodimerization interface (R125A) [30]. The mutation of the putative arginine finger also affects heterodimerization with Toc159 [31]. In psToc34, the corresponding mutation also impairs GTP hydrolysis 24 and 33. For R125A, a reduction of the hydrolysis rate is also reported. A triple mutant, G45R, K49N, S50R of the G1 motif (for example, see Ref. [75]) shows a fivefold reduction of hydrolysis. Single mutations (D219N) and double mutations (D217N/D219N, D219N/E220Q) of the (N)KNDxDE motif conducted before knowledge of the three-dimensional structure to define functional residues did not show a reduction of GTP hydrolysis [76], whereas the double mutation (N216K/D217L) reduced the hydrolysis rate [75]. For D217N, there are controversial reports with respect to the influence on the GTP hydrolysis rate 25 and 76. The mutation of E208Q [76] involved in GTP binding [30] was not found to reduce hydrolysis. The deletion of the first 13 amino acids of psToc34 (grey) also reduces the hydrolytic capacity for GTP [25]. Phosphorylation sites have been mapped and are shown in Figure I, they are residues S113 in psToc34 and S181 in atToc33 (the equivalent residue shown is A184 in psToc34).
+
+From the crystallographic Toc34 homodimer structure [30], an ‘arginine finger’ was proposed to serve a GTPase-activating (GAP) function by stabilizing the transition state (for a recent review, see Ref. [36]) (Box 2). However, this observation is difficult to meld into a model since dimerization is preferentially observed in the GDP, not in the GTP, state (for example, see Ref. [29]), which is not typical for a GAP function [36]. Moreover, the stimulatory effect on GTP hydrolysis by dimerization is only twofold at pH 8.0 [24], far below that described for typical GAP reactions [36]; stimulation by the transit peptide of precursor proteins is equally moderate 23 and 24. However, individual receptor function always has to be seen in the context of the entire Toc complex. Here, interactions of the G domains in the Toc complex are not limited to dimerization of the GTPases. For example Toc34 interacts with components of the guidance complex [12] and with Toc75 (for example, see Refs 12 and 37), which might also influence the GTPase cycle. In turn, dimerization might affect other interactions within the Toc complex in vivo. Hence, homo- and/or hetero-dimerization of the G-domain-containing receptors might still be important for GTPase function in the Toc complex (for example, see Ref. [6]) ( Figure 2), but the consequences of the dimerization on the GTPase cycle and on Toc function in general are unknown. A further regulatory circuit might involve inhibition of the transition from GDP- to GTP-loaded states by phosphorylation observed in vitro (for example, see Ref. [23]). Although the in vivo relevance for this finding is currently unclear (there is no associated phenotype [38]), identification of the Toc34-phosphorylating kinase [39] might be helpful in elucidating the physiological circumstances of phosphorylation.
+
+Reaching the Tic translocon
+After targeting to the Toc translocon, the precursor protein is transferred through the translocation pore Toc75 and then emerges into the intermembrane space (IMS). To proceed into the plastid stroma, the precursor protein must next be localized to the Tic complex. Contact sites between the envelopes [40] were initially discussed to allow for the interaction of Toc and Tic complexes, enabling a direct precursor transfer (for example, see Ref. [41]). Recent findings compromise this idea, because Toc–Tic complexes can be obtained only when precursor proteins are arrested in the complexes (for example, see Refs 17 and 18). Therefore, components present in the intermembrane space such as Tic22, which was initially identified as a protein peripherally associated with the inner chloroplast envelope membrane [42], are envisioned to initiate the first contact of the precursor protein with the Tic translocon 43 and 44.
+
+An IMS complex composed of Toc64, Toc12, Tic22 and an imsHsp70 might serve as a receptor for a subset of incoming precursor proteins at the trans side of the outer envelope membrane 12, 43 and 44. Binding of imsHsp70 chaperones to the precursor would keep it in an unfolded state, competent for further processing by the Tic translocon. The release of chaperones might be mediated by Toc12, a DnaJ homolog stimulating the imsHsp70 ATPase activity and the association of imsHsp70 with precursor proteins in vitro [44]. Similar mechanisms involving DnaJ and Hsp70 proteins are known from other systems (e.g. Pam18/mtHsp70 in the mitochondrial matrix [45]), but the identity of the chloroplast imsHsp70 is still elusive.
+
+The Tic translocon
+The structure and function of the Tic complex are not well understood, and even the identity of the translocation pore is controversial as at least two candidates have been proposed for this function – the inner membrane proteins Tic20 and Tic110 42 and 46. The newly discovered protein named Tic21 was discussed as another candidate [47]. However, this protein was also simultaneously described as an iron-transporting permease, designated as PIC1 [48]. Hence, the link of Tic21 to protein translocation and its assignment as the translocation channel requires further confirmation. The assignment of Tic20 as a translocation pore is based on its sequence similarity to mitochondrial Tim translocation channels [42]. However, the electrophysiological activity of Tic110 in vitro [46] is also in line with its function as a pore. At present, it must be speculated that Tic110 and Tic20 both contribute to channel formation; alternatively, two independent pores of distinct import pathways could coexist and assemble in different complexes. Another function described for Tic110 is the formation of a scaffold for the interaction of the incoming precursor protein with the stromal chaperones [49]. The stromal domain of Tic110 interacts with the transit peptide of translocated precursor proteins, and release of the transit peptide into the stroma is then triggered by an interaction of Tic110 with Tic40 [50]. Tic40 exposes a domain into the stroma that serves as a scaffold for the interaction of the incoming precursor with stromal chaperons. The association between Tic110 and Tic40 subsequently causes the Tic110-bound stHsp93 to hydrolyze ATP, which leads to the dissociation of the precursor protein from the chaperone for further processing [51].
+
+It has been proposed that the function of the Tic translocon is modulated by three associated subunits: (i) Tic55, an iron–sulfur protein [52], (ii) Tic62, a membrane-associated protein containing sites for binding NAD and ferredoxin–NADP–oxidoreductase (FNR) [53] and (iii) Tic32, a protein with similarity to short-chain dehydrogenases [54]. Once within the chloroplast, precursor proteins are processed by a stromal processing peptidase to either reach their mature or active form or to expose a signal for translocation into thylakoids (for example, see Ref. [5]). In the remainder of the article we describe these models of translocon regulation and propose how they might form a regulatory framework for import of protein into chloroplasts.
+
+Tic32 – a global player for regulation of the Tic
+The interaction of Tic32 with Tic110 could be a mechanism for regulating the activity of the Tic complex [54]. The gene encoding Tic32 in A. thaliana is equally expressed in green and non-green tissues [55], and this implies that Tic32 has a function in all plastid types. Its function seems to be modulated by calmodulin and NADPH binding [56]. The interaction of Tic32 with calmodulin is compromised by the depletion of calcium or by binding of NADPH to the receptor [56]. In line with a physiological role, specific inhibitors of calmodulin are able to modulate the translocation efficiency at the Tic complex [57]. The importance of this protein is further manifested by the lethality of gene knockouts [54]. But how could Tic32, and with it protein translocation, be integrated into the regulatory network of plastids? Free calcium concentrations in the stroma can rise from 0.2 μM in the light to 5–10 μM after transfer to the dark [58]. The dissociation constant of free calmodulin for calcium is in a similar range but is decreased when calmodulin is complexed with other proteins [59]. Dissociation of calmodulin from Tic32 induced by calcium removal in vitro [56] might thus be less important in vivo than the competition for calmodulin by other stromal calmodulin-binding proteins ( Figure 3). Such a competitor could be the stromal NAD kinase (NADK2) – which is crucial for photosynthetic reduction by providing NADP, and which interacts with calmodulin and acts in a calcium-dependent manner 60 and 61. In addition, the stromal NADPH level is a general indicator of the photosynthetic and metabolic activities of chloroplasts [62], because it provides reducing equivalents for chlorophyll synthesis and the Calvin cycle. An excessive level of NADPH dissociates calmodulin from Tic32 [56]. Hence, Tic32 could sense the photosynthetic and metabolic activities of plastids in both green and non-green tissues, causing a manipulation of protein import ( Figure 3). The mechanism by which Tic32 transfers signals to the translocation complex is, however, unknown. It might be speculated that Tic32 regulates the opening and closing of the channel or the assembly of other complex components, for example stHsp93, which are essential for the translocation process. Tic32, therefore, has the capacity to serve as a global regulator of the Tic translocon, but this requires further analysis.
+
+Full-size image (107 K)
+Figure 3. 
+A model for redox regulation of the Tic translocon. (a) It is hypothesized that the Tic translocon (Figure 1) is regulated by products related to photosynthesis and chloroplast metabolism. Products of photosynthesis including reduced or oxidized glutathione (GSH/GSSG), thioredoxin in the reduced/oxidized form (Trxred/Trxox), NADPH or stromal-localized ferredoxin–NADP–oxidoreductase (FNR) influence the redox state of the stroma. Under oxidizing conditions, FNR assembles with Tic62 activating the translocon. GSSG and thioredoxin possibly influence the iron–sulfur cluster of Tic55. Under reducing conditions, NADPH induces the release of calmodulin (Cal) from Tic32 and the release of Tic32 and possibly Tic62 from the translocating complex. This dissociation causes an inactivation of the translocon. Under reducing conditions, FNR is associated with thylakoids and thereby sequestered away from the Tic complex. (b) The ubiquitous Tic32 could regulate the translocon by also sensing the NADPH level in other plastid types, where Tic55 and Tic62 appear not to be present. Additionally, the calcium level and/or other calmodulin-binding proteins enhance the release of calmodulin from Tic32 and thereby the inactivation of the translocon. The red cross indicates inactive complexes and the question mark indicates putative competitors for calmodulin.
+Figure options
+Tic55 and Tic62 – coupling protein translocation and photosynthesis
+Tic55 and Tic62 were found to be associated with Tic110 52, 53, 54 and 56. The association of Tic55 is either weak or involves only a subpopulation of Tic110 because Tic110 was detected by immunoprecipitation with Tic55 antibodies [53] but not vice versa [42]. An indication that Tic55 and Tic62 might modulate translocation efficiency of the Tic complex came from the following observations: First, precursor import was inhibited by addition of diethylpyrocarbonate, which modifies (ethoxyformylates) histidine residues involved in Rieske iron–sulfur cluster formation, such as those in Tic55 [52]. Second, the translocation of the precursor of the FNR isoform 1 (pFNR-1) was stimulated by deamino-NAD, a substrate for NAD-binding proteins, such as Tic62 [53]. Interestingly, import of the second isoform (pFNR-2) was not affected by addition of deamino-NAD [53]. This finding parallels the substrate-specific light-regulated translocation of ferredoxin isoforms, in which ferredoxin I (predominantly expressed in light) was imported equally under light or dark conditions, whereas ferredoxin II (constitutively expressed) was imported in the dark, but mis-sorted to the intermembrane space in the light [63]. In line with a light-dependent function of Tic62 and Tic55, genes coding for both proteins are highly expressed in photosynthetic tissues [55].
+
+But how could the function of these two proteins possibly be linked to photosynthesis? We propose the following model, which in the future must be challenged experimentally. The iron–sulfur cluster containing Tic55 might serve as a sensor for photosynthesis-coupled redox-active compounds present in the chloroplast, for example glutathione or thioredoxin (Figure 3), similar to the regulation of a stromal-localized endoribonuclease and a stromal-localized plastid transcription kinase [64]. The FNR interacting with Tic62 could also act as a sensor for the redox state of the stroma (Figure 3), because FNR is found to dissociate from the thylakoid system and to accumulate in the stroma under oxidative stress [65], acting as an NADPH consumer. Its recruitment to the inner membrane would stabilize the interaction of Tic62/Tic32 with Tic110, which was demonstrated to be NADPH sensitive by substrate competition [56]. Recently, it was proposed that Tic62 is associated with, but not inserted into, the inner envelope membrane [66]. NADPH-modulated dissociation of Tic62 from Tic110 [56] might thus cause a release of Tic62 into the stroma (Figure 3). There it would compete with thylakoids for association with FNR to modulate the stromal NADPH level. The regulatory model proposed shows a translocon that is active only under oxidizing conditions. This regulation would modulate the level of proteins involved in the protection of the photosynthetic activity and thereby maintain chloroplast function.
+
+Concluding remarks
+Protein translocation across chloroplast membranes is not yet understood at the molecular level. Our knowledge of important interactions and their sequence is incomplete. In addition, elucidation of the energetic requirements for discernable translocation steps is required for a full understanding of recognition and translocation. So far, we know that the GTPases regulate complex assembly, precursor protein recognition and transfer (for example, see Refs 18, 19, 20, 21 and 26), possibly involving G-domain dimerization. However, the GTPase activators (GAP) and nucleotide exchange factors (GEF) required await identification. Furthermore, the term ’the Toc complex’ requires revision, because alternatives could be formed by a variety of Toc component isoforms (summarized, for example in Ref. [67]). The current view holds that these alternative complexes might be specialized for distinct classes of precursor protein (for example, see Refs 23, 49 and 68). This heterogeneity adds an additional layer of complexity, which requires further investigation.
+
+The regulation of the translocon at the inner envelope membrane is envisioned to be linked to metabolic processes within the organelle. Some of the factors involved are known, but the molecular mechanisms of translocation and of its regulation remain largely elusive. The molecular identity and architecture of the translocation channel(s) and their specificity and regulation have to be experimentally investigated. One pressing issue is to determine whether the regulator complex (Figure 1) as such dissociates from Tic110 and/or the membrane or whether and which of the individual components might remain associated. One proposed regulatory circuit is Tic32, which can modulate the activity of the translocon, possibly in all plastid types. Even though calcium and calmodulin inhibitors also modulate translocation efficiency in chloroplasts, analysis should be extended to other plastid types. The nature of the calcium-mediated regulation must also be established.
+
+The doorway to chloroplasts is built of many components present in the outer and inner envelope membranes and is policed by several mechanisms during the translocation process. Recent observations have added several layers of complexity. It becomes important to understand the various steps as the precursor protein unlocks the entry to plastids.
+
+Glossary
+
+Plastid: a plant-specific family of organelles, which originated by endosymbiosis of a host with a cyanobacteria and which differentiate depending on the plant organ and plant development (for example, see Ref. [70]).
+Chloroplast: a specific type of plastid containing the thylakoid membrane system with proteinaceous complexes involved in oxygenic photosynthesis (for example, see Ref. [70]).
+Calvin cycle: a metabolic cycle hosted in plastids, which converts inorganic CO2 to organic compounds.
+Hsp family: heat shock proteins with a molecular chaperone function (for example, see Ref. [71]); of relevance here are Hsp70, Hsp90 and Hsp93 of 70 kDa, 90 kDa or 93 kDa, respectively.
+14-3-3 proteins: a family of ubiquitous regulatory molecules, which function via protein–protein interaction specifically recognizing phosphorylated proteins and peptides (for example, see Ref. [72]).
+Tetratrico-peptide motif: a loosely conserved domain of thirty-four amino acids involved in intra- and intermolecular interactions. Three motifs together with a solvation helix define a TPR domain (for example, see Ref. [73]).
+Iron–sulfur cluster: iron ions complexed by inorganic sulfur and the amino acid cystein of proteins functioning as redox elements in electron-transfer reactions (for example, see Ref. [74]).
+Guidance complex: a complex composed of 14-3-3, Hsp70 and possibly other cytosolic components associated with the precursor form of the small subunit of RubisCO (pSSU) involved in the transport of the precursor protein through the cytosol (for example, see Ref. [5]).
+Translocon: a complex of membrane-inserted or membrane-associated proteins involved in the transfer of precursor proteins across a membrane.
+Acknowledgement
+Special thanks to Patrick Koenig and Anja Höfle for critical discussions. We also thank B.B. Buchanan for critical editing of the manuscript. Financial support from the Deutsche Forschungsgemeinschaft (DFG, SFB594) and the Volkswagenstiftung to E.S. is acknowledged.
+
+References
+1
+T.M. Embley, W. Martin
+Eukaryotic evolution, changes and challenges
+Nature, 440 (2006), pp. 623–630
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (402)
+2
+W. Wickner, R. Schekman
+Protein translocation across biological membranes
+Science, 310 (2005), pp. 1452–1456
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (197)
+3
+H. Zer, I. Ohad
+Light, redox state, thylakoid-protein phosphorylation and signaling gene expression
+Trends Biochem. Sci., 28 (2003), pp. 467–470
+
+Article |  PDF (94 K) | View Record in Scopus | Citing articles (31)
+4
+C. Kim, K. Apel
+Substrate-dependent and organ-specific chloroplast protein import in planta
+Plant Cell, 16 (2004), pp. 88–98
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+5
+J. Soll, E. Schleiff
+Protein import into chloroplasts
+Nat. Rev. Mol. Cell Biol., 5 (2004), pp. 198–208
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (253)
+6
+F. Kessler, D.J. Schnell
+Chloroplast protein import: solve the GTPase riddle for entry
+Trends Cell Biol., 14 (2004), pp. 334–338
+
+Article |  PDF (326 K) | View Record in Scopus | Citing articles (45)
+7
+E. Schleiff, R.B. Klösgen
+Without a little help from ‘my’ friends: direct insertion of proteins into chloroplast membranes?
+Biochim. Biophys. Acta, 1541 (2001), pp. 22–33
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (62)
+8
+R.N. Radhamony, S.M. Theg
+Evidence for an ER to Golgi to chloroplast protein transport pathway
+Trends Cell Biol., 16 (2006), pp. 385–387
+
+Article |  PDF (218 K) | View Record in Scopus | Citing articles (45)
+9
+T. Martin et al.
+A protein kinase family in Arabidopsis phosphorylates chloroplast precursor proteins
+J. Biol. Chem., 281 (2007), pp. 40216–40223
+
+10
+T. May, J. Soll
+14-3-3 proteins form a guidance complex with chloroplast precursor proteins in plants
+Plant Cell, 12 (2000), pp. 53–64
+
+Full Text via CrossRef
+11
+A. Schemenewitz et al.
+A substrate-independent, 14:3:3 protein-mediated plastid import pathway of NADPH:protochlorophyllide oxidoreductase A
+Proc. Natl. Acad. Sci. U. S. A., 104 (2007), pp. 8538–8543
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+12
+S. Qbadou et al.
+The molecular chaperone Hsp90 delivers precursor proteins to the chloroplast import receptor Toc64
+EMBO J., 25 (2006), pp. 1836–1847
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+13
+K.A. Nakrieko et al.
+Fidelity of targeting to chloroplasts is not affected by removal of the phosphorylation site from the transit peptide
+Eur. J. Biochem., 271 (2004), pp. 509–516
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+14
+N. Rosenbaum-Hofmann, S.M. Theg
+Toc64 is not required for import of proteins into chloroplasts in the moss Physcomitrella patens
+Plant J., 43 (2005), pp. 675–687
+
+15
+H. Aronsson et al.
+Toc64/OEP64 is not essential for the efficient import of proteins into chloroplasts in Arabidopsis thaliana
+Plant J., 52 (2007), pp. 53–68
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+16
+E. Schleiff et al.
+Characterization of the translocon of the outer envelope of chloroplasts
+J. Cell Biol., 160 (2003), pp. 541–551
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (133)
+17
+S. Kikuchi et al.
+Characterization of the preprotein translocon at the outer envelope membrane of chloroplasts by blue native PAGE
+Plant Cell Physiol., 47 (2006), pp. 363–371
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+18
+K.Y. Chen, H.M. Li
+Precursor binding to an 880-kDa Toc complex as an early step during active import of protein into chloroplasts
+Plant J., 49 (2007), pp. 149–158
+
+View Record in Scopus | Citing articles (31)
+19
+D.D. Leipe et al.
+Classification and evolution of P-loop GTPases and related ATPases
+J. Mol. Biol., 317 (2002), pp. 41–72
+
+Article |  PDF (1648 K) | View Record in Scopus | Citing articles (490)
+20
+K.H. Lee et al.
+The M domain of atToc159 plays an essential role in the import of proteins into chloroplasts and chloroplast biogenesis
+J. Biol. Chem., 278 (2003), pp. 36794–36805
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+21
+E. Schleiff et al.
+A GTP-driven motor moves proteins across the outer envelope of chloroplasts
+Proc. Natl Acad. Sci. USA, 100 (2003), pp. 4604–4609
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (91)
+22
+T. Becker et al.
+Preprotein recognition by the Toc complex
+EMBO J., 23 (2004), pp. 520–530
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (87)
+23
+M. Jelic et al.
+Two Toc34 homologues with different properties
+Biochemistry, 42 (2003), pp. 5906–5916
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+24
+L.E. Reddick et al.
+In vitro comparative kinetic analysis of the chloroplast toc GTPases
+J. Biol. Chem., 282 (2007), pp. 11410–11426
+
+View Record in Scopus | Citing articles (29)
+25
+M. Jelic et al.
+The chloroplast import receptor Toc34 functions as preprotein-regulated GTPase
+Biol. Chem., 383 (2002), pp. 1875–1883
+
+View Record in Scopus | Citing articles (51)
+26
+A. Kouranov, D.J. Schnell
+Analysis of the interactions of preproteins with the import machinery over the course of protein import into chloroplasts
+J. Cell Biol., 139 (1997), pp. 1677–1685
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+27
+T.R. Wallas et al.
+The roles of toc34 and toc75 in targeting the toc159 preprotein receptor to chloroplasts
+J. Biol. Chem., 278 (2003), pp. 44289–44297
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+28
+M.D. Smith et al.
+atToc159 is a selective transit peptide receptor for the import of nucleus-encoded chloroplast proteins
+J. Cell Biol., 165 (2004), pp. 323–334
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (74)
+29
+M.D. Smith et al.
+The targeting of the atToc159 preprotein receptor to the chloroplast outer membrane is mediated by its GTPase domain and is regulated by GTP
+J. Cell Biol., 159 (2002), pp. 833–843
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+30
+Y.J. Sun et al.
+Crystal structure of pea Toc34, a novel GTPase of the chloroplast protein translocon
+Nat. Struct. Biol., 9 (2002), pp. 95–100
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (79)
+31
+P. Weibel et al.
+Dimerization of Toc-GTPases at the chloroplast protein import machinery
+J. Biol. Chem., 278 (2003), pp. 37321–37329
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+32
+Y. Ivanova et al.
+Members of the Toc159 import receptor family represent distinct pathways for protein targeting to plastids
+Mol. Biol. Cell, 15 (2004), pp. 3379–3392
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+33
+Y.H. Yeh et al.
+Dimerization is important for the GTPase activity of chloroplast translocon components atToc33 and psToc159
+J. Biol. Chem., 282 (2007), pp. 13845–13853
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+34
+P.J. Focia et al.
+Heterodimeric GTPase core of the SRP targeting complex
+Science, 303 (2004), pp. 373–377
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (156)
+35
+P.F. Egea et al.
+Substrate twinning activates the signal recognition particle and its receptor
+Nature, 427 (2004), pp. 215–221
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (172)
+36
+J.L. Bos et al.
+GEFs and GAPs: critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+37
+F. Ertel et al.
+The evolutionarily related beta-barrel polypeptide transporters from Pisum sativum and Nostoc PCC7120 contain two distinct functional domains
+J. Biol. Chem., 280 (2005), pp. 28281–28289
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+38
+H. Aronsson et al.
+In vivo assessment of the significance of phosphorylation of the Arabidopsis chloroplast protein import receptor, atToc33
+FEBS Lett., 580 (2006), pp. 649–655
+
+Article |  PDF (1029 K) | View Record in Scopus | Citing articles (25)
+39
+H. Fulgosi, J. Soll
+The chloroplast protein import receptors Toc34 and Toc159 are phosphorylated by distinct protein kinases
+J. Biol. Chem., 277 (2002), pp. 8934–8940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+40
+K. Cline et al.
+Freeze-fracture electron microscopic analysis of ultrarapidly frozen envelope membranes on intact chloroplasts and after purification
+Protoplasma, 125 (1985), pp. 111–123
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (11)
+41
+D.J. Schnell, G. Blobel
+Identification of intermediates in the pathway of protein import into chloroplasts and their localization to envelope contact sites
+J. Cell Biol., 120 (1993), pp. 103–115
+
+Full Text via CrossRef
+42
+A. Kouranov et al.
+Tic20 and Tic22 are new components of the protein import apparatus at the chloroplast inner envelope membrane
+J. Cell Biol., 143 (1998), pp. 991–1002
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (153)
+43
+S. Qbadou et al.
+Toc64 – A Preprotein-receptor at the outer membrane with bipartide function
+J. Mol. Biol., 367 (2007), pp. 1330–1346
+
+Article |  PDF (1583 K) | View Record in Scopus | Citing articles (52)
+44
+T. Becker et al.
+Toc12, a novel subunit of the intermembrane space preprotein translocon of chloroplasts
+Mol. Biol. Cell, 15 (2004), pp. 5130–5144
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (76)
+45
+M. Bohnert et al.
+A dynamic machinery for import of mitochondrial precursor proteins
+FEBS Lett., 581 (2007), pp. 2802–2810
+
+Article |  PDF (753 K) | View Record in Scopus | Citing articles (49)
+46
+L. Heins et al.
+The preprotein conducting channel at the inner envelope membrane of plastids
+EMBO J., 21 (2002), pp. 2616–2625
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+47
+Y.S. Teng et al.
+Tic21 is an essential translocon component for protein translocation across the chloroplast inner envelope membrane
+Plant Cell, 18 (2006), pp. 2247–2257
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+48
+D. Duy et al.
+PIC1, an ancient permease in Arabidopsis chloroplasts, mediates iron transport
+Plant Cell, 19 (2007), pp. 986–1006
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+49
+T. Inaba et al.
+atTic110 functions as a scaffold for coordinating the stromal events of protein import into chloroplasts
+J. Biol. Chem., 278 (2003), pp. 38617–38627
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+50
+M.L. Chou et al.
+Stimulation of transit-peptide release and ATP hydrolysis by a cochaperone during protein import into chloroplasts
+J. Cell Biol., 175 (2006), pp. 893–900
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+51
+S. Kovacheva et al.
+Further in vivo studies on the role of the molecular chaperone, Hsp93, in plastid protein import
+Plant J., 50 (2007), pp. 364–379
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+52
+A. Caliebe et al.
+The chloroplastic protein import machinery contains a Rieske-type iron-sulfur cluster and a mononuclear iron-binding protein
+EMBO J., 16 (1997), pp. 7342–7350
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (118)
+53
+M. Küchler et al.
+Protein import into chloroplasts involves redox-regulated proteins
+EMBO J., 21 (2002), pp. 6136–6145
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+54
+F. Hörmann et al.
+Tic32, an essential component in chloroplast biogenesis
+J. Biol. Chem., 279 (2004), pp. 34756–34762
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (60)
+55
+A. Vojta et al.
+The protein translocon of the plastid envelopes
+J. Biol. Chem., 279 (2004), pp. 21401–21405
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+56
+F. Chigri et al.
+Calcium regulation of chloroplast protein translocation is mediated by calmodulin binding to Tic32
+Proc. Natl Acad. Sci. USA, 103 (2006), pp. 16051–16056
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+57
+F. Chigri et al.
+Calcium regulation of chloroplast protein import
+Plant J., 42 (2005), pp. 821–831
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+58
+J. Sai, C.H. Johnson
+Dark-stimulated calcium ion fluxes in the chloroplast stroma and cytosol
+Plant Cell, 14 (2002), pp. 1279–1291
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+59
+Y. Saimi, C. Kung
+Calmodulin as an ion channel subunit
+Annu. Rev. Physiol., 64 (2002), pp. 289–311
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (193)
+60
+M.F. Chai et al.
+NADK2, an Arabidopsis chloroplastic NAD kinase, plays a vital role in both chlorophyll synthesis and chloroplast protection
+Plant Mol. Biol., 59 (2005), pp. 553–564
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+61
+W.L. Turner et al.
+Cloning and characterization of two NAD kinases from Arabidopsis: identification of a calmodulin binding isoform
+Plant Physiol., 135 (2004), pp. 1243–1255
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+62
+P. Geigenberger et al.
+Redox regulation of carbon storage and partitioning in response to light and sugars
+J. Exp. Bot., 56 (2005), pp. 1469–1479
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (101)
+63
+T. Hirohashi et al.
+Maize non-photosynthetic ferredoxin precursor is mis-sorted to the intermembrane space of chloroplasts in the presence of light
+Plant Physiol., 125 (2001), pp. 2154–2163
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+64
+T. Pfannschmidt
+Chloroplast redox signals: how photosynthesis controls its own genes
+Trends Plant Sci., 8 (2003), pp. 33–41
+
+Article |  PDF (428 K) | View Record in Scopus | Citing articles (230)
+65
+J.F. Palatnik et al.
+Oxidative stress causes ferredoxin-NADP+ reductase solubilization from the thylakoid membranes in methyl viologen-treated plants
+Plant Physiol., 115 (1997), pp. 1721–1727
+
+View Record in Scopus | Citing articles (47)
+66
+M. Balsera et al.
+Tic62: a protein family from metabolism to protein translocation
+BMC Evol. Biol., 7 (2007), p. 43
+
+Full Text via CrossRef
+67
+M. Oreb et al.
+Chloroplast protein import: reverse genetic approaches
+Curr. Genomics, 7 (2006), pp. 235–244
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (7)
+68
+B. Hust, M. Gutensohn
+Deletion of core components of the plastid protein import machinery causes differential arrest of embryo development in Arabidopsis thaliana
+Plant Biol. (Stuttg), 8 (2006), pp. 18–30
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+69
+K. Inoue et al.
+Complete maturation of the plastid protein translocation channel requires a type I signal peptidase
+J. Cell Biol., 171 (2005), pp. 425–430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+70
+E. Lopez-Juez, K.A. Pyke
+Plastids unleashed: their development and their integration in plant development
+Int. J. Dev. Biol., 49 (2005), pp. 557–577
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (136)
+71
+J.C. Young et al.
+Pathways of chaperone-mediated protein folding in the cytosol
+Nat. Rev. Mol. Cell Biol., 5 (2004), pp. 781–791
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (643)
+72
+M.R. Roberts
+14-3-3 proteins find new partners in plant cell signalling
+Trends Plant Sci., 8 (2003), pp. 218–223
+
+Article |  PDF (308 K) | View Record in Scopus | Citing articles (118)
+73
+L.D. D’Andrea, L. Regan
+TPR proteins: the versatile helix
+Trends Biochem. Sci., 28 (2003), pp. 655–662
+
+Article |  PDF (805 K) | View Record in Scopus | Citing articles (495)
+74
+T.A. Rouault, W.H. Tong
+Iron-sulphur cluster biogenesis and mitochondrial iron homeostasis
+Nat. Rev. Mol. Cell Biol., 6 (2005), pp. 345–351
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (184)
+75
+D. Chen, D.J. Schnell
+Insertion of the 34-kDa chloroplast protein import component, IAP34, into the chloroplast outer membrane is dependent on its intrinsic GTP-binding capacity
+J. Biol. Chem., 272 (1997), pp. 6614–6620
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+76
+H. Aronsson et al.
+Unusual nucleotide-binding properties of the chloroplast protein import receptor, atToc33
+FEBS Lett., 544 (2003), pp. 79–85
+
+Article |  PDF (317 K) | View Record in Scopus | Citing articles (20)
+Copyright © 2007 Elsevier Ltd. All rights reserved.

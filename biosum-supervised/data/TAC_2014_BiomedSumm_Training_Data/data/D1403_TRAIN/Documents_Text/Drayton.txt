@@ -1,0 +1,494 @@
+Tumor suppressor p16INK4a determines sensitivity of human cells to transformation by cooperating cellular oncogenes
+Sarah Drayton1, Janice Rowe1, Rebecca Jones1, Radost Vatcheva2, Darren Cuthbert-Heavens3, John Marshall4, Mike Fried5, Gordon PetersCorresponding author contact information, 1, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S1535-6108(03)00242-3
+  Open Archive
+Abstract
+The Ink4a/Arf locus encodes two distinct proteins, both of which may contribute to senescence and tumor suppression. We find that human diploid fibroblasts (HDFs) that are specifically deficient for p16INK4a achieve anchorage independence when transduced with retroviruses encoding telomerase (hTERT) and either Ras or Myc. Significantly, Ras and Myc together enable the cells to form tumors in nude mice but at a frequency that suggests additional genetic changes. All five tumors analyzed expressed high levels of Ras and retained functional p53, although two showed downregulation of Arf. Cytogenetic analyses identified clonal chromosomal alterations that may have contributed to tumorigenesis, but the tumor cells were essentially diploid.
+
+Significance
+Human cells, including fibroblast strains that have been immortalized by telomerase, are generally resistant to transformation by pairs of viral and/or cellular oncogenes that cooperatively transform primary rodent cells. However, neoplastic transformation has recently been achieved using SV40 large and small tumor antigens in combination with hTERT and Ras. By starting with p16INK4a-deficient HDFs, we have avoided the use of viral proteins and deliberate disruption of the p53 pathway so that the resulting tumors are not aneuploid. As well as underscoring significant differences in the regulation of the Ink4a/Arf locus in human and rodent fibroblasts, our data suggest that alterations in ≥ four cellular genes can convert a primary human cell to a tumorigenic clone.
+
+Introduction
+The concept of oncogene cooperation was first developed from studies on neoplastic transformation of primary rodent fibroblasts Land et al. 1983 and Ruley 1983. Thus, whereas activated Ras will transform established lines, such as NIH3T3 cells, it causes a senescence-like growth arrest in primary cells Newbold and Overell 1983 and Serrano et al. 1997. Provision of a second oncogene, classically cellular Myc or adenovirus E1A, rescues cells from this arrest and enables Ras to induce morphological transformation, anchorage independence, and tumorigenesis in immuno-compromised mice. These observations can now be rationalized in terms of effects on Ink4a/Arf.
+
+This unusual locus encodes two products, p16INK4a and p19ARF (p14ARF in human cells) that act upstream of the retinoblastoma (pRb) and p53 tumor suppressors, respectively Drayton and Peters 2002, Sharpless and DePinho 1999 and Sherr 2001. As p16INK4a blocks the inactivation of pRb by cyclin-dependent kinases, and Arf blocks the inactivation of p53 by Mdm2-mediated proteolysis, both have the capacity to cause cell cycle arrest. Interestingly, although both are upregulated by Ras in primary mouse embryo fibroblasts (MEFs) Palmero et al. 1998 and Serrano et al. 1997, it is clear that p19ARF is the critical determinant of the ensuing growth arrest. Thus, MEFs from animals in which Arf has been specifically ablated by targeting of exon 1β are sensitive to transformation by Ras alone, a phenotype reminiscent of p53 nullizygous MEFs Kamijo et al. 1997 and Tanaka et al. 1994. Moreover, Arf null or p53 null MEFs are immortal, and most established mouse cell lines have defects in one or other of these components. In contrast, Ink4a-deficient MEFs are mortal and are arrested by Ras Krimpenfort et al. 2001 and Sharpless et al. 2001. Oncogene cooperation by E1A can therefore be rationalized by its ability to negate the pRb family of proteins and render cells insensitive to p21CIP1, the likely executor of the Arf/p53-mediated arrest, whereas Myc has a number of activities that would be compatible with a bypass of p21CIP1effects Bouchard et al. 1999, Claassen and Hann 2000, Coller et al. 2000, Hermeking et al. 2000, Herold et al. 2002, Perez-Roger et al. 1999, Seoane et al. 2002 and Vlach et al. 1996. An alternative view is that by activating Arf and p53, Myc imposes a potent selection for cells that escape apoptosis through loss of this defense pathway (Zindy et al., 1998).
+
+With rare exceptions, attempts to reproduce oncogene cooperation in human cells have been largely frustrated by their propensity to undergo telomere-based senescence Bischoff et al. 1991, Hurlin et al. 1989, O'Brien et al. 1986 and Stevenson and Volsky 1986, a property not shared by MEFs Greenberg et al. 1998 and Martı́n-Rivera et al. 1998. However, the ability to overcome telomere erosion by ectopic expression of the catalytic component of telomerase (hTERT) has provided an opportunity to re-evaluate oncogene cooperation in HDFs Bodnar et al. 1998 and Vaziri and Benchimol 1998. The general impression that has emerged is that transformation of human cells by Ras requires the inactivation of both the pRb and p53 pathways, typically achieved by introducing DNA tumor virus oncoproteins such as SV40 large tumor antigen (T-Ag) or human papillomavirus E6 and E7 proteins Elenbaas et al. 2001, Hahn et al. 1999, Morales et al. 1999 and Serrano et al. 1997. However, full neoplastic transformation additionally requires SV40 small tumor antigen (Hahn et al., 2002). Although the influence of small t is not fully understood, the need to disrupt both pRb and p53 could again reflect a pivotal role for Ink4a/Arf.
+
+To address this question, we have been investigating the behavior of primary dermal fibroblasts from melanoma-prone individuals that have germline mutations in both alleles of Ink4a/Arf Brookes et al. 2002 and Huot et al. 2002. In one case, a homozygous deletion in exon 2 has created two novel frameshift proteins that can be detected with monoclonal antibodies that discriminate between the amino- and carboxy-terminal halves of p16INK4a (Brookes et al., 2002). Importantly, these so-called Leiden HDFs are specifically defective for p16INK4a and retain the known functions of Arf. We previously demonstrated that Leiden HDFs are resistant to Ras-induced arrest and, if rescued from telomere-based senescence by ectopic hTERT, the Ras-expressing cells will form anchorage-independent colonies. They do not, however, grow as tumors in immuno-compromised mice. To try to achieve tumorigenic conversion using cellular rather than viral gene products, we have now expressed Myc and Myc+Ras in Leiden cells. Interestingly, Myc also elicited anchorage-independent growth of Leiden HDFs, but arrested normal HDFs accompanied by upregulation of p16INK4a. In normal HDFs, the Myc-induced arrest could be rescued using short hairpin RNA (shRNA) against p16INK4a. The combination of hTERT, Ras, and Myc enabled the p16INK4a-deficient cells to form macroscopic colonies in soft agar and tumors in nude mice, but the latency and frequency of tumorigenesis suggested a need for additional genetic alterations. Significantly, the resultant tumor cells had near normal karyotypes and retained wild-type and functional p53.
+
+Results
+Myc causes anchorage independence in p16INK4a-deficient HDFs
+In a previous report (Brookes et al., 2002), we showed that Leiden cells immortalized by hTERT (designated LT cells) do not grow as anchorage-independent colonies but acquire this ability when infected with a retrovirus encoding an activated (G12V) form of H-Ras (designated LTR cells). In contrast, control Hs68 fibroblasts underwent a senescence-like arrest in response to Ras as predicted by other studies Morales et al. 1999, Serrano et al. 1997 and Wei et al. 1999. Although multicellular agar colonies occurred at a relatively high frequency with LTR cells, they remained small and were only visible by microscopy. To determine whether Myc would cooperate with Ras and enhance the phenotype, the LTR cells were infected with a pBABEpuro-based retrovirus encoding human c-Myc to generate so-called LTRM cells. Alternatively, the LT cells were infected sequentially with retroviruses encoding Myc and Ras (designated LTM amd LTMR) in each case accompanied by control cells infected with the corresponding empty vector. Pools of drug-resistant cells were then analyzed for expression of relevant proteins by immunoblotting (Figure 1). Although Myc was clearly expressed in the infected cell pools, the signal was consistently lower in cells expressing ectopic Ras. However, Myc activity seemed to be comparable in the different backgrounds as judged by the obvious induction of Arf, p53, and p21CIP1. The Leiden deletion results in a frameshift protein (β-ARF/p16) in which the amino-terminal 88 residues of Arf are fused to the carboxy-terminal 76 residues of p16INK4a(Brookes et al., 2002). This protein, which is readily detected with an antibody against the carboxyl terminus of p16INK4a, retains all known Arf functions, including the ability to stabilize p53 and hence to activate p53 target genes. The ability of Myc to activate Arf is in line with previous findings in MEFs (Zindy et al., 1998), but there was no additive effect of coexpressing Myc+Ras (Figure 1). Although Ras induces Arf in MEFs Groth et al. 2000 and Palmero et al. 1998, it does not appear to do so in HDFs Brookes et al. 2002 and Wei et al. 2001. Note that Ras is clearly active in LTR cells as evidenced by the increased phosphorylation of Mek with no concomitant change in total Mek levels.
+
+Full-size image (17 K)
+Figure 1. 
+Expression of Myc and Ras in Leiden HDFs
+Leiden HDFs immortalized with hTERT (LT cells) were infected with retroviruses encoding Myc, Myc+Ras, or empty vector controls. After drug selection, the cell pools were analyzed by immunoblotting for the indicated proteins. Note that Myc induces expression of the β-ARF/p16 fusion protein (detected with a p16INK4a-specific antibody), as well as p53 and p21CIP1. Analogous data for LT cells infected with the Ras retrovirus were reported elsewhere (Brookes et al., 2002).
+Figure options
+Despite increased levels of β-ARF/p16, p53, and p21CIP1, the Leiden cells expressing hTERT and Myc (LTM) continued to proliferate and unexpectedly proved able to form colonies in 0.2% agarose (Table 1), implying that Myc can both override the Arf/p53 checkpoint and promote anchorage independence. Although the ability of Myc to override effects of Cdk inhibitors has been well documented Alevizopoulos et al. 1997, Bouchard et al. 1999, Perez-Roger et al. 1999 and Vlach et al. 1996, others have suggested that this causes Myc to arrest normal HDFs in G2 (Felsher et al., 2000). Control Hs68 cells containing wild-type p16INK4a did not form anchorage-independent colonies when infected with the Myc retrovirus (Table 1).
+
+Table 1.
+Leiden cells expressing Myc and Ras form anchorage-independent colonies
+Vec	Myc	Vec	Ras	Vec	Myc + Ras
+Leiden + hTERT	0	32	3	42	0	35
+Hs68 + hTERT	0	0	0	0	0	0
+Leiden and control (Hs68) fibroblasts expressing hTERT were infected with retroviruses encoding Myc, Ras, or both, with corresponding vector only controls. Duplicate wells were seeded with 104 cells and colonies were counted after 3 weeks. At least three fields of ≥100 cells were counted per well and the number of multicellular colonies calculated as a percentage of the total number of cells.
+
+Table options
+Myc arrests normal HDFs by upregulating p16INK4a
+The different response of Leiden and Hs68 cells suggested that p16INK4a is involved downstream of Myc. To investigate this further, we used retroviruses encoding shRNAs to selectively reduce the expression of INK4a or ARF (Voorhoeve and Agami, 2003). The shRNA retroviruses and empty vector controls were introduced into Hs68 and Leiden cells (without hTERT), and the resultant pools of hygromycin-resistant cells were subsequently infected with the Myc retrovirus (pBABEpuro) or the corresponding empty vector. At 12 days post-selection, the cells were labeled with BrdU and lysates were prepared for immunoblotting. In Hs68 cells, Myc caused a substantial upregulation of p16INK4a(Figure 2A) accompanied by reduced incorporation of BrdU into DNA (Figure 2C). Significantly, the cells were rescued from this growth arrest by shRNA against p16INK4a but not by shRNA against p14ARF(Figure 2C). In Leiden cells, which lack functional p16INK4a, Myc had no effect on BrdU incorporation, irrespective of shRNA expression (Figure 2D). These data are consistent with the notion that, in primary HDFs, p16INK4a is the principal determinant of the growth arrest elicited by Myc.
+
+Full-size image (44 K)
+Figure 2. 
+Myc arrests HDFs by upregulating p16INK4a
+Normal (Hs68) and Leiden HDFs were infected with pRetroSuper encoding shRNA against either Arf or Ink4a (Voorhoeve and Agami, 2003), along with the empty vector control, and selected in hygromycin. The cell pools were subsequently infected with a retrovirus encoding Myc, and corresponding control, and selected in puromycin.
+A and B: Cell lysates were analyzed by immunoblotting with antibodies against Myc, Mek, and p16INK4a. The p16INK4a in Hs68 cells was detected using the JC8 monoclonal antibody, and the β-ARF/p16 fusion protein in Leiden cells was detected using DCS50 (Brookes et al., 2002).
+C and D: Cell proliferation was assessed by pulse labeling with BrdU and measuring the proportion of BrdU-positive cells by immunohistochemistry.
+Figure options
+The abilities of Myc to induce p16INK4a and of shRNA to suppress this effect were readily demonstrated in Hs68 cells (Figure 2A). In contrast, it is very difficult to visualize the endogenous levels of Arf in primary HDFs and therefore to document suppression by shRNA. However, as the β-ARF/p16 fusion protein in Leiden cells can be visualized using a monoclonal antibody against p16INK4a(Brookes et al., 2002), we were able to confirm the efficacy of the shRNA in reducing basal levels of Arf and its induction by Myc (Figure 2B). Moreover, shRNA against Arf had a positive, albeit modest impact on BrdU incorporation in both Leiden and Hs68 cells (Figures 2C and 2D), consistent with knockdown of functional Arf in both cell types.
+
+Myc cooperates with Ras in morphological and neoplastic transformation of p16INK4a-deficient HDFs
+When plated in 0.2% agarose, Leiden cells expressing hTERT and Myc (LTM), Ras (LTR), or both oncogenes (LTRM) were all able to form anchorage-independent colonies and at generally similar frequencies (Table 1). However, there was a dramatic increase in the average size of the colonies obtained with LTRM cells so that many of them were macroscopically visible (Figure 3A). Moreover, by infecting LTM monolayers with appropriate dilutions of Ras retrovirus, or LTR cells with Myc retrovirus, effects reminiscent of focus formation were observed (Figure 3B and data not shown). The LTRM cells also appeared smaller and more rounded, typical facets of morphological transformation (Figure 3C).
+
+Full-size image (66 K)
+Figure 3. 
+Myc and Ras cause anchorage independence and morphological transformation of LT cells
+A: Appearance of anchorage-independent colonies approximately three weeks after seeding 104 cells in 0.2% agarose. Note that colonies induced by Ras (LTR cells) were visible by microscopy (see Table 1 and Brookes et al., 2002).
+B and C: Low and high power photomicrographs, respectively, of LTM cells infected with a 1:100 dilution of the Ras retrovirus or vector control (pBABEbleo). Cells were stained with Geimsa for 20 min and washed with water.
+Figure options
+To determine whether the more exuberant growth of the LTRM colonies equated with tumorigenicity, the various cell pools were injected subcutaneously into nude mice. No tumors were observed with LTR or LTM cells in two separate experiments (Table 2). However, with LTRM cells, 5 out of 16 innoculations gave rise to tumors with a latency of between 59 and 98 days. For comparison, the positive control, the RDES Ewings sarcoma cell line, formed tumors in 14/16 injections with a latency of 23 to 28 days (Table 2). We therefore suspected that a further alteration may have been required for the LTRM cells to grow as tumors.
+
+Table 2.
+Formation of tumors in immunodeficient nude mice
+Cells injected	Number of tumors	Time (days)	Mouse	Tumor
+LT	0/8			
+LTR	0/8			
+LTM	0/8			
+LTRM	2/8	98	#9	T1
+77	#12	T2
+RDES	6/8	28		
+LTR	0/8			
+LTM	0/8			
+LTRM	3/8	59	#C9R	T3
+59	#C9L	T4
+98	#C10	T5
+RDES	8/8	23		
+Leiden cells expressing combinations of hTERT, Ras, and Myc (LT, LTM, LTR, and LTRM) were tested for tumorigenicity by injection into nude mice. The LTRM cells formed tumors at 5/16 inoculation sites in the indicated mice after 59–98 days. Tumors designated T1–T5 as indicated were explanted and grown in tissue culture.
+
+Table options
+Phenotypic characteristics of LTRM tumor cells
+When replated in tissue culture, the tumor cells retained all the drug-resistant markers used for retroviral infections and grew at approximately the same rate as the LTRM cells prior to innoculation, albeit more rapidly than parental Leiden cells. The most obvious characteristic was reduced adhesion, with a high proportion of floating but otherwise viable cells. Integrin profiling revealed consistent reductions in α1β1, α4β1, αvβ5, and αvβ3 relative to parental Leiden cells (Figure 4A and additional data not shown). However, most of the effects were already apparent in the LTR, LTM, and LTRM cell pools (Figure 4B), suggesting that they may contribute to anchorage independence rather than being a characteristic acquired during tumor formation. It will be interesting to explore whether Ras and Myc affect surface integrin expression by similar mechanisms. We also noted that the tumor cells were able to proliferate in low serum, suggesting the production of autocrine growth factors. When conditioned medium from tumors T1 through T5 was added to serum-deprived Hs68 cells, it was able to promote re-entry into the cell cycle as judged by incorporation of BrdU (Figure 4C, right panel). Again, this property was not peculiar to the tumor cells as we noted similar effects with conditioned medium from pools of LTR, LTM, and LTRM cells (Figure 4C, left panel).
+
+Full-size image (39 K)
+Figure 4. 
+LTRM cells are less adhesive and release autocrine growth factors
+A: Levels of the indicated integrins in LTRM cells and tumors T1–T5 are shown relative to those in parental LT cells.
+B: A similar analysis comparing the LT, LTR, LTM, and LTRM pools.
+C: Ability of LTRM cells to produce autocrine growth factors. The indicated cells were placed in medium containing 0.2% FCS for 48 hr, at which point conditioned medium was recovered and added to Hs68 cells that had been rendered quiescent in 0.2% FCS. The cells were then labeled with BrdU for 16 hr and the proportion of BrdU-positive cells estimated by immunohistochemistry. Medium containing either 0.2% or 10% serum represented negative and positive controls, respectively. The left and right panels show results from separate experiments.
+Figure options
+Whereas Myc levels in the tumor cells were similar to those in the LTRM cells, all of the tumors expressed elevated levels of Ras (Figure 5A). Southern blotting analyses did not reveal abnormally high copy numbers of the Ras retrovirus (not shown), but there may have been selection for integration sites that favor high expression or for other epigenetic events that we have not fully investigated. The tumors also had very high levels of p53, accompanied by increased expression of two p53 target genes, Cip1 and Mdm2, albeit to variable but essentially parallel extents (Figure 5A). There was some concordance between cyclin E and Mdm2 levels, being highest in tumors T1 and T2, but the significance remains unclear as there was no apparent relationship to the expression of Myc or Ras. Similarly, neither cyclin D1, a known Ras target (Filmus et al., 1994), nor cyclin D2, a known Myc target Bouchard et al. 1999 and Coller et al. 2000, appeared to be significantly overexpressed in the tumor cells ( Figure 5A and data not shown).
+
+Full-size image (35 K)
+Figure 5. 
+Gene expression patterns in LTRM cells and tumors
+A: Immunoblotting for the indicated proteins in LT and LTRM cell pools and the LTRM tumors T1–T5. Mek signals confirmed equal loading.
+B: Induction of p53 and p21CIP1 in LTRM and tumor cells 18 hr after UV irradation (15J/m2) as described (Brookes et al., 2002).
+C: Reverse transcription-PCR detection of Arf (540 bp product) and Cdk4 (936 bp product) in LTRM cells and tumors T1–T5.
+Figure options
+As high basal levels of p53 can be indicative of stabilizing mutations, we analyzed the p53 gene in each of the tumors by performing SSCP and DNA sequence analyses on all 11 exons (not shown). No mutations were detected. We also checked p53 function by demonstrating the accumulation of p53 and upregulation of p21CIP1 when the tumor cells were exposed to UV irradiation (Figure 5B). Given the precedents in MEFs, retention of wild-type p53 could also reflect loss of Arf (Kamijo et al., 1997), and we previously demonstrated the functionality of the β-ARF/p16 fusion protein in Leiden HDFs (Brookes et al., 2002). Although the fusion protein was readily detected in LTRM cells and in three of the tumors, it was undetectable in tumors T1 and T5 (Figure 5A). Southern blotting confirmed that the Ink4a/Arf locus was intact in all the tumors (not shown), but we did not detect an Arf transcript in T1 and T5 by RT-PCR (Figure 5C). Such a situation is often indicative of de novo methylation, but we have been unable to reactivate Arf expression in these cells by addition of 5′-aza-deoxycytidine under conditions that will induce Arf expression in U20S cells (not shown). Sequencing of the PCR products confirmed that the β-ARF/p16 expressed in tumors T2, T3, and T4 had not sustained inactivating mutations (not shown). Although we presently have no evidence that the p53 pathway is defective in the other tumors, at this level of analysis we cannot exclude alterations in specific upstream regulators or downstream effectors of p53.
+
+Cytogenetic analyses of LTRM tumor cells
+We were interested to know whether maintenance of functional p53 had enabled the LTRM tumor cells to avoid aneuploidy and to determine whether additional genetic alterations had occurred that were karyotypically visible. The LTRM tumor cells and the parental LTRM cell pools were therefore analyzed by using multicolor chromosome paints (M-FISH) on metaphase spreads (Eils et al., 1998) and by comparative genome hybridization (CGH) on gridded arrays of bacterial artificial chromosomes (BACs) containing human genomic DNA (Pinkel et al., 1998). While the LTRM cells were diploid and showed no evidence of chromosomal abnormality (not shown), two consistent changes were observed in the tumors. The first was iso18q (see Figure 6A), which in CGH showed as a loss of the p and gain of the q arm of chromosome 18 (Figure 6B). Further confirmation was subsequently obtained using FISH with a probe for the telomere-proximal region of chromosome 18 (not shown). The second abnormality was a gain of material on chromosome 20q and its translocation to chromosome 14 (Figure 6C). In CGH, this scored simply as a gain on 20q, but the sharp step in the hybridization signal showed that the discontinuity occurred precisely at BACs corresponding to 20q1.2 (Figure 6D). Surprisingly, while tumors T1, T2, and T5 appeared to represent clonal populations, tumors T3 and T4 were mixed populations, including some cells that had neither abnormality (Figure 6E). The tumors with the iso18q abnormality corresponded to those in which Arf had been downregulated and were also the tumors with the longest latency (Table 2). However, it is impossible to tell at this stage whether the chromosome alterations were causal in tumorigenesis or represented clonal markers of cells bearing more subtle alterations that are undetectable at the karyotypic level.
+
+Full-size image (74 K)
+Figure 6. 
+Genome integrity of LTRM tumor cells
+A and C: Examples of M-FISH analyses on individual tumor cells revealing the iso18q and t(14;20) abnormalities, respectively.
+B and D: Detection of the corresponding abnormalities in tumors T1 and T2 by CGH on gridded BAC arrays. Only the relevant chromosomes are displayed.
+E: Proportions of cells with the indicated karyotypes in each tumor.
+Figure options
+Discussion
+The availability of cells with a specific genetic defect in Ink4a and the capacity to immortalize these cells with hTERT have provided an unprecedented opportunity to investigate oncogene cooperation in human cells. In this genetic context, we find that Ras and Myc, dominant oncogenes that are frequently implicated in human cancers, collaborate to induce anchorage independence and tumorigenicity in otherwise normal HDFs. However, our findings with Leiden cells have to be set against an extensive literature on the neoplastic transformation of primary MEFs, as well as recent advances in transformation of human cells (Drayton and Peters, 2002). In primary MEFs, which are not subject to telomere-based senescence, it appears that two genetic alterations are sufficient for all facets of transformation, including anchorage independence and tumorigenicity. In addition to the classical Ras+Myc pairing (Land et al., 1983), specific disruption of either p53 or Arf creates a situation in which primary MEFs can be transformed by Ras alone Kamijo et al. 1997 and Tanaka et al. 1994. Conversely, MEFs in which Ink4a has been ablated remain sensitive to Ras-induced arrest Krimpenfort et al. 2001 and Sharpless et al. 2001, in stark contrast to our findings with p16INK4a-deficient HDFs Brookes et al. 2002 and Huot et al. 2002. As Ras activates Arf in MEFs but not in HDFs Brookes et al. 2002, Groth et al. 2000, Palmero et al. 1998 and Wei et al. 2001 whereas Myc has a more substantial effect on p16INK4a in HDFs than in MEFs ( Mateyak et al. 1999 and Zindy et al. 1998; data not shown), we surmise that the mechanisms underpinning oncogene cooperation may differ in these settings.
+
+The dominance of rodent models in transformation studies can in part be explained by the difficulties involved in culturing human cells. Ectopic delivery of hTERT has removed one of the obstacles, effectively equalizing the telomere status of HDFs and MEFs, but p16INK4a provides a second barrier to the continued propagation of human cells (Drayton and Peters, 2002). The stress of growing cells under normal culture conditions is enough to activate p16INK4a, albeit to different extents in different contexts Sherr and DePinho 2000 and Wright and Shay 2002, and oncogenic challenge with Myc and Ras can clearly exacerbate the effects. This could in part explain why the classical Myc+Ras focus formation assay has been difficult to reproduce in human cells, even if they have been immortalized by hTERT. Here we have bypassed the problem using cells that are specifically deficient for p16INK4a, whereas most other studies have relied on using DNA tumor virus oncoproteins to render cells insensitive to p16INK4a Bischoff et al. 1991, Elenbaas et al. 2001, Hahn et al. 1999, Hahn et al. 2002, Morales et al. 1999, O'Brien et al. 1986, Rich et al. 2001 and Zimonjic et al. 2001. The disadvantage of the latter approach is that ablation of pRb inevitably leads to activation of the Arf/p53 pathway, making it necessary to disable p53 as well Drayton and Peters 2002, Sharpless and DePinho 1999 and Sherr 2001. By preserving both pRb and p53, we have avoided the pleitropic consequences and aneuploidy associated with disruption of these pathways. It is nevertheless intriguing that tumors T1 and T5 have downregulated Arf, reinforcing our belief that the β-ARF/p16 fusion protein in Leiden cells is functional (Brookes et al., 2002). Moreover, ablation of Arf with shRNA consistently resulted in increased proliferation, as judged by BrdU incorporation (Figures 2B and 2C). Conversely, the knockdown of β-ARF/p16 expression with shRNA did not suppress the formation of anchorage-independent colonies (data not shown).
+
+Based on precedents in other systems, one might expect Myc to provide selective pressure against the Arf/p53 pathway in order to avoid apoptosis or cell cycle arrest Eischen et al. 1999, Evan et al. 1992 and Zindy et al. 1998. With HDFs, growing in 10% serum, we have not observed extensive apoptosis upon expression of Myc despite obvious upregulation of Arf and p53 (Figure 1 and additional data not shown). In the case of Leiden cells, they may have been protected from apoptosis by the production of autocrine growth or survival factors, and it will be important to establish the identity of these factors and that the phenomenon is not unique to Leiden cells (Figure 4B). This seems unlikely given the precedents for autocrine signaling in Ras-transformed cells (McCarthy et al., 1995); we are not aware of previous reports that Myc can enable cells to condition the medium. In terms of overcoming a p53/p21-mediated growth arrest, there are many potential explanations in the literature, including the ability of Myc to upregulate cyclin D2, Cdk4, Cul1, and Cdc25A and to suppress transcription of p21CIP1Bouchard et al. 1999, Claassen and Hann 2000, Coller et al. 2000, Galaktionov et al. 1996, Hermeking et al. 2000, Herold et al. 2002, O'Hagan et al. 2000, Perez-Roger et al. 1999 and Seoane et al. 2002. Based on the analyses conducted thus far, we are unable to implicate or exclude any of these mechanisms. The ability of Myc to repress the expression of p21CIP1 is only apparent in cells that have defects in the Arf/p53 pathway Herold et al. 2002 and Seoane et al. 2002 and does not apply here. Moreover, as the tumor cells have probably adapted to a new steady state, differences in the expression levels of various components could be relatively subtle.
+
+The notion of adaptation may be relevant in considering whether our findings with Leiden cells are universally applicable or reflect some unique property of this strain of HDFs. As we previously reported (Brookes et al., 2002), infection of LT cells with a Ras retrovirus elicits a transient phase of reduced proliferation which we interpret as the emergence of a subpopulation of cells that tolerate the sustained Ras signaling. There presumably has to be a balance between the dose of exogenous Ras and the efficiency of the cellular defense mechanisms, which in the absence of functional p16INK4a may be largely determined by the p53 pathway. As our functional assessment of the β-ARF/p16 fusion protein suggests that it may be hyperactive relative to normal Arf (Brookes et al., 2002), it is conceivable that this has resulted in some compensatory attenuation of the p53 pathway that has thus far eluded detection. On the other hand, so-called normal HDFs derived from different individuals are likely to have different basal and induced levels of p53, just as they have widely different levels of p16INK4a (Itahana et al., 2003 and J.R. and G.P., unpublished observations). It will therefore be important to reevaluate the requirements for transformation in a variety of different HDF strains.
+
+At face value, the data we describe imply that functional alterations in four cellular genes are necessary for neoplastic conversion of primary HDFs but may not be sufficient. The frequency and latency of tumor incidence suggest at least one additional change, but at present we can neither rule in nor rule out the significance of the specific chromosomal alterations observed in the tumors analyzed thus far. It will of course be interesting to determine whether other oncogenes can substitute for Myc and/or Ras in the transformation of Leiden cells and whether deliberate ablation of p53 influences the latency and frequency with which tumors develop. Although the original LTRM pool gave rise to tumors at only 30% of the innoculation sites, reinjection of the explanted tumor cells gave frequencies approaching 100% (not shown), emulating the results achieved with viral oncoproteins (Hahn et al., 1999). An intriguing question is whether additional genetic changes in the LTRM tumors mimic the role of SV40 small t antigen in tumor cell systems based on using the SV40 early region to ablate pRb and p53 Elenbaas et al. 2001 and Hahn et al. 2002. The fact that the LTRM tumors have simple and stable karyotypes opens up the possibility of identifying these changes, for example, by a combination of cytogenetics and gene expression profiling on microarrays. Moreover, the availability of shRNA against p16INK4a should enable these ideas to be tested in a selection of otherwise normal HDFs as well as in cell lineages that may have different requirements for tumorigenesis Elenbaas et al. 2001, Lazarov et al. 2002, Rich et al. 2001, Watnick et al. 2003 and Zimonjic et al. 2001.
+
+Experimental procedures
+Cells, agar colony, and tumorigenicity assays
+Leiden and Hs68 cells expressing the ecotropic receptor were immortalized with a retrovirus encoding hTERT (in pBABEhygro) at approximately 30 PD and 50 PDs, respectively, as described previously (Brookes et al., 2002). At approximately 50 PD and 90 PD, respectively, the cells were infected sequentially with retroviruses encoding H-RasV12 (pBABEbleo) or Myc (pBABEpuro) along with empty vector controls. For the shRNA experiments, Leiden and Hs68 cells (without hTERT) were infected with pRetroSuper-hygro vectors encoding short RNA hairpins directed against Ink4a or Arf (Voorhoeve and Agami, 2003). Pools of infected cells were selected in medium containing 50 μg/ml hygromycin, 200 μg/ml zeocin, or 1.25 mg/ml puromycin as appropriate, with each infection requiring the equivalent of approximately 8 PDs.
+
+For anchorage independence assays, approximately 104 cells were seeded in Dulbecco-modified Eagles medium (without phenol red) containing 0.2% agarose and 10% fetal calf serum (FCS) and overlayed on medium containing 1% agarose. Cells were incubated at 37°C and multicellular colonies were counted after approximately three weeks. Results were calculated as the percentage of visible cells that had formed multicellular colonies. Duplicate wells were seeded in each assay and at least three fields of ≥100 cells were counted per well.
+
+For each cell type, aliquots of 107 cells (in 0.2 ml) were injected subcutaneously on both flanks of four YA female nu/nu mice. This entailed growing the various immortalized cell pools for a further 25–30 PDs. The RDES Ewings sarcoma cell line was used as a positive control. Mice were observed for tumor development, and injection sites were measured twice weekly until tumors reached approximately 1 cm in diameter or until no observable mass of cells was left at the injection site. After dissection, tumor explants were dispersed with trypsin and replated in standard tissue culture conditions.
+
+Protein analyses
+Samples (50 μg protein) of total cell lysate were fractionated by electrophoresis in 10% or 15% polyacrylamide gels, transferred to PVDF membrane, and immunoblotted under standard conditions for enhanced chemiluminescence. A variety of polyclonal and monoclonal antibodies were used to detect the following proteins: cyclin D1 (287.3), cyclin D2 (DCS3.1), β-ARF/p16 (DCS50), p16INK4a (JC8), Myc (9E10); Cdk4 (sc-601), p53 (sc-26/D0-1 and sc-6243/FL-393), and p21CIP1 (sc-397) from Santa Cruz; Mdm2 (OP115/2A10) and Ras (OP41) from Oncogene Science; Mek1 and 2 (9122) and phospho-Mek (9121S) from Cell Signaling Technology; p21CIP1 (554228) from PharMingen 554228; and cyclin E (HE12) from NeoMarkers.
+
+BrdU incorporation and autocrine signaling assays
+Cells were grown on 35 mm glass-bottomed cell culture dishes, labeled with 5 mM BrdU for 16 hr, and stained for BrdU incorporation using the Boehringer Mannheim BrdU labeling and detection kit. BrdU incorporation was measured by counting the proportion of positively stained cells.
+
+To investigate autocrine signaling, Hs68 were trypsinized, washed in PBS, and plated at subconfluent density in 35 mm glass-bottomed dishes in Dulbecco-modified Eagles medium contaning 0.2% FCS. The medium was replaced after 24 hr and the cells became quiescent by 48 hr. Pools of LT, LTR, LTM, and LTRM cells and the T1–T5 tumor cells were treated in the same way, and medium collected from these cultures at 48 hr was centrifuged to remove debris. The conditioned medium was placed directly on the quiescent Hs68 cells. Parallel dishes received medium containing either 0.2% FCS (negative control) or 10% FCS (positive control). BrdU incorporation was measured as above.
+
+Integrin profiling
+The LTRM and tumor cells (T1–T5) were analyzed for changes in the levels of surface integrins using monoclonal antibodies specific for α1, α2, α3, α4, α5, α6, α9, αv, αvβ3, αvβ5, αvβ6, β1, β3, β4, αIIb. Bound antibodies were detected with FITC-conjugated anti-mouse secondary antibody (Alexa 488) with the exception of α6, which was detected with FITC-conjugated anti-rat secondary antibody. Cells were then analyzed by FACS. Secondary antibody alone served as a negative control. Integrin αIIb (which is platelet specific) and β4 (which is epithelial specific) also gave negligible staining. The HT1080 fibrosarcoma cell line served as a positive control. The results for each integrin were normalized relative to parental LT cells.
+
+Reverse transcription, PCR, and sequencing
+Total RNA was extracted from cultures of the tumor-derived cells T1–T5 using the QIAGEN RNeasy mini kit and reverse-transcribed using TaqMan reverse transcription reagents (Applied Biosystems) under conditions recommended by the suppliers. Products corresponding to β-ARF/p16 cDNA were amplified by PCR using the following primers: CGGTGCGTGGATCCCAGTCTGCAGTTAAG (forward) and CTGTAGGACCTTCGG-TGACTG (reverse). The primers for Cdk4 were CCGGATCCACCATGGCTACCTCTC-GATATGA (forward) and CTGGAATTCGAATCACTCCGGATTACCTTCATC (reverse). PCR products were separated on a 1% agarose gel containing 0.5 μg/ml ethidium bromide and visualized under UV light. 100 bp ladder markers (Amersham Pharmacia Biotech Inc.) were used to check the size of the PCR products.
+
+The β-ARF/p16 products were gel-purified (using QIAGEN QIAquick gel extraction kit), and 20 ng of product was sequenced using 5 pM of the primers given above and the ABI PRISM BigDye Terminator cycle sequencing.
+
+Cytogenetic analyses
+Metaphases were analyzed by multiplex fluorescence in situ hybridization (M-FISH) using 24 combinatorially labeled probes with five fluorophores to identify individual chromosomes as recommended by the supplier (Vysis). Image processing was performed using Vysis Quips Spectravysion software. Genomic DNA was extracted from one 80 cm2 flask each of LTRM and T1–T5 cells using Invitrogen Easy-DNA extraction kit and used for CGH on gridded BAC arrays (Pinkel et al., 1998).
+
+Acknowledgements
+We are particularly indebted to Mathijs Voorhoeve and Reuven Agami for providing us with shRNA vectors prior to publication and to Sharon Brookes for establishing the cell system. We are also grateful to Ian Hart, Denise Sheer, Maggie Knowles, Richard Seraves, Donna Albertson, and the CR-UK Animal Unit for their generous support and advice and to Alison Sinclair, Doreen Cantrell, and Julian Downward for comments on the manuscript.
+
+References
+Alevizopoulos et al. 1997
+K Alevizopoulos, J Vlach, S Hennecke, B Amati
+Cyclin E and c-Myc promote cell proliferation in the presence of p16INK4a and of hypophosphorylated retinoblastoma family proteins
+EMBO J., 16 (1997), pp. 5322–5333
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (170)
+Bischoff et al. 1991
+F.Z Bischoff, L.C Strong, S.O Yim, D.R Pratt, M.J Siciliano, B.C Giovanella, M.A Tainsky
+Tumorigenic transformation of spontaneously immortalized fibroblasts from patients with a familial cancer syndrome
+Oncogene, 6 (1991), pp. 183–186
+
+View Record in Scopus | Cited By in Scopus (24)
+Bodnar et al. 1998
+A.G Bodnar, M Ouellette, M Frolkis, S.E Holt, C.-P Chiu, G.B Morin, C.B Harley, J.W Shay, S Lichsteiner, W.E Wright
+Extension of life-span by introduction of telomerase into normal human cells
+Science, 279 (1998), pp. 349–352
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2965)
+Bouchard et al. 1999
+C Bouchard, K Thieke, A Maier, R Saffrich, J Hanley-Hyde, W Ansorge, S Reed, P Sicinski, J Bartek, M Eilers
+Direct induction of cyclin D2 by Myc contributes to cell cycle progression and sequestration of p27
+EMBO J., 18 (1999), pp. 5321–5333
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (316)
+Brookes et al. 2002
+S Brookes, J Rowe, M Ruas, S Llanos, P.A Clark, M Lomax, M.C James, R Vatcheva, S Bates, K.H Vousden et al.
+INK4a-deficient human diploid fibroblasts are resistant to RAS-induced senescence
+EMBO J., 21 (2002), pp. 2936–2945
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (157)
+Claassen and Hann 2000
+G.F Claassen, S.R Hann
+A role for transcriptional repression of p21CIP1by c-Myc in overcoming transforming growth factor β-induced cell-cycle arrest
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 9498–9503
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (167)
+Coller et al. 2000
+H.A Coller, C Grandori, P Tamayo, T Colbert, E.S Lander, R.N Eisenman, T.R Golub
+Expression analysis with oligonucleotide microarrays reveals that MYC regulates genes involved in growth, cell cycle, signaling, and adhesion
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 3260–3265
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (554)
+Drayton and Peters 2002
+S Drayton, G Peters
+Immortalisation and transformation revisited
+Curr. Opin. Genet. Dev., 12 (2002), pp. 98–104
+
+Article |  PDF (137 K) | View Record in Scopus | Cited By in Scopus (100)
+Eils et al. 1998
+R Eils, S Uhrig, K Saracoglu, K Satzler, I Petersen, J.M Chassery, M Ganser, M.R Speicher
+An optimized, fully automated system for fast and accurate identification of chromosomal rearrangements by multiplex-FISH (M-FISH)
+Cytogenet. Cell Genet., 82 (1998), pp. 160–171
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (92)
+Eischen et al. 1999
+C.M Eischen, J.D Weber, M.F Roussel, C.J Sherr, J.L Cleveland
+Disruption of the ARF-Mdm2-p53 tumor suppressor pathway in Myc-induced lymphomagenesis
+Genes Dev., 13 (1999), pp. 2658–2669
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (505)
+Elenbaas et al. 2001
+B Elenbaas, L Spirio, F Koerner, M.D Fleming, D.B Zimonjic, J.L Donaher, N.C Popescu, W.C Hahn, R.A Weinberg
+Human breast cancer cells generated by oncogenic transformation of primary mammary epithelial cells
+Genes Dev., 15 (2001), pp. 50–65
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (429)
+Evan et al. 1992
+G.I Evan, A.H Wyllie, C.S Gilbert, T.D Littlewood, H Land, M Brooks, C.M Waters, L.Z Penn, D.C Hancock
+Induction of apoptosis in fibroblasts by c-myc protein
+Cell, 69 (1992), pp. 119–128
+
+Article |  PDF (2612 K) | View Record in Scopus | Cited By in Scopus (2011)
+Felsher et al. 2000
+D.W Felsher, A Zetterberg, J Zhu, T Tlsty, J.M Bishop
+Overexpression of MYC causes p53-dependent G2 arrest of normal fibroblasts
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 10544–10548
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (88)
+Filmus et al. 1994
+J Filmus, A.I Robles, W Shi, M.J Wong, L.L Colombo, C.J Conti
+Induction of cyclin D1 overexpression by activated ras
+Oncogene, 9 (1994), pp. 3627–3633
+
+View Record in Scopus | Cited By in Scopus (228)
+Galaktionov et al. 1996
+K Galaktionov, X Chen, D Beach
+Cdc25 cell-cycle phosphatse as a target of c-myc
+Nature, 382 (1996), pp. 511–517
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (571)
+Greenberg et al. 1998
+R.A Greenberg, R.C Allsopp, L Chin, G.B Morin, R.A DePinho
+Expression of mouse telomerase reverse transcriptase during development, differentiation and proliferation
+Oncogene, 16 (1998), pp. 1723–1730
+
+View Record in Scopus | Cited By in Scopus (235)
+Groth et al. 2000
+A Groth, J.D Weber, B.M Willumsen, C.J Sherr, M.F Roussel
+Oncogenic Ras induces p19ARF and growth arrest in mouse embryo fibroblasts lacking p21Cip1 and p27Kip1 without activating cyclin D-dependent kinases
+J. Biol. Chem., 275 (2000), pp. 27473–27480
+
+View Record in Scopus | Cited By in Scopus (72)
+Hahn et al. 1999
+W.C Hahn, C.M Counter, A.S Lundberg, R.L Beijersbergen, M.W Brooks, R.A Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1481)
+Hahn et al. 2002
+W.C Hahn, S.K Dessain, M.W Brooks, J.E King, B Elenbaas, D.M Sabatini, J.A DeCaprio, R.A Weinberg
+Enumeration of the simian virus 40 early region elements necessary for human cell transformation
+Mol. Cell. Biol., 22 (2002), pp. 2111–2123
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (335)
+Hermeking et al. 2000
+H Hermeking, C Rago, M Schumacher, Q Li, J.F Barrett, A.J Obaya, B.C O'Connell, M.K Mateyak, W Tam, F Kohlhuber et al.
+Identification of CDK4 as a target of c-MYC
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 2229–2234
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (251)
+Herold et al. 2002
+S Herold, M Wanzel, V Beuger, C Frohme, D Beul, T Hillukkala, J Syvaoja, H.-P Saluz, F Haenel, M Eilers
+Negative regulation of the mammalian UV response by Myc through association with Miz-1
+Mol. Cell, 10 (2002), pp. 509–521
+
+Article |  PDF (772 K) | View Record in Scopus | Cited By in Scopus (181)
+Huot et al. 2002
+T.J Huot, J Rowe, M Harland, S Drayton, S Brookes, C Goopta, P Purkis, M Fried, V Bataille, E Hara et al.
+Biallelic mutations in p16INK4a confer resistance to Ras- and Ets-induced senescence in human diploid fibroblasts
+Mol. Cell. Biol., 22 (2002), pp. 8135–8143
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (88)
+Hurlin et al. 1989
+P.J Hurlin, V.M Maher, J.J McCormick
+Malignant transformation of human fibroblasts caused by expression of a transfected T24 HRAS oncogene
+Proc. Natl. Acad. Sci. USA, 86 (1989), pp. 187–191
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (31)
+Itahana et al. 2003
+K Itahana, Y Zou, Y Itahana, J.-L Martinez, C Beausejour, J.J.L Jacobs, M van Lohuizen, V Band, J Campisi, G.P Dimri
+Control of the replicative life span of human fibroblasts by p16 and the polycomb protein Bmi-1
+Mol. Cell. Biol., 23 (2003), pp. 389–401
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (245)
+Kamijo et al. 1997
+T Kamijo, F Zindy, M.F Roussel, D.E Quelle, J.R Downing, R.A Ashmun, G Grosveld, C.J Sherr
+Tumor suppression at the mouse INK4a locus mediated by the alternative reading frame product p19ARF
+Cell, 91 (1997), pp. 649–659
+
+Article |  PDF (364 K) | View Record in Scopus | Cited By in Scopus (1110)
+Krimpenfort et al. 2001
+P Krimpenfort, K.C Quon, W.J Mool, A Loonstra, A Berns
+Loss of p16Ink4a confers susceptibility to metastatic melanoma in mice
+Nature, 413 (2001), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (370)
+Land et al. 1983
+H Land, L.F Parada, R.A Weinberg
+Tumorigenic conversion of primary embryo fibroblasts requires at least two cooperating oncogenes
+Nature, 304 (1983), pp. 596–602
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (732)
+Lazarov et al. 2002
+M Lazarov, Y Kubo, T Cai, M Dajee, M Tarutani, Q Lin, M Fang, S Tao, C.L Green, P.A Khavari
+CDK4 coexpression with Ras generates malignant human epidermal tumorigenesis
+Nat. Med., 8 (2002), pp. 1105–1114
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (115)
+Martı́n-Rivera et al. 1998
+L Martı́n-Rivera, E Herrera, J.P Albar, M.A Blasco
+Expression of mouse telomerase catalytic subunit in embryos and adult tissues
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 10471–10476
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (168)
+Mateyak et al. 1999
+M.K Mateyak, A.J Obaya, J.M Sedivy
+c-Myc regulates cyclin D-Cdk4 and -Cdk6 activity but affects cell cycle progression at multiple independent points
+Mol. Cell. Biol., 19 (1999), pp. 4672–4683
+
+View Record in Scopus | Cited By in Scopus (179)
+McCarthy et al. 1995
+S.A McCarthy, M.L Samuels, C.A Pritchard, J.A Abraham, M McMahon
+Rapid induction of heparin binding epidermal growth factor/diptheria toxin receptor by Ras and Raf oncogenes
+Genes Dev., 9 (1995), pp. 1953–1964
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (140)
+Morales et al. 1999
+C.P Morales, S.E Holt, M Ouellette, K.J Kaur, Y Yan, K.S Wilson, M.A White, W.E Wright, J.W Shay
+Absence of cancer-associated changes in human fibroblasts immortalized with telomerase
+Nat. Genet., 21 (1999), pp. 115–118
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (550)
+Newbold and Overell 1983
+R.F Newbold, R.W Overell
+Fibroblast immortality is a prerequisite for transformation by EJ c-Ha-ras oncogene
+Nature, 304 (1983), pp. 648–651
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (102)
+O'Brien et al. 1986
+W O'Brien, G Stenman, R Sager
+Suppression of tumor growth by senescence in virally transformed human fibroblasts
+Proc. Natl. Acad. Sci. USA, 83 (1986), pp. 8659–8663
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (48)
+O'Hagan et al. 2000
+R.C O'Hagan, M Ohh, G David, I Moreno de Alboran, F.W Alt, W.G Kaelin Jr., R.A DePinho
+Myc-enhamced expression of Cul1 promotes ubiquitin-dependent proteolysis and cell cycle progression
+Genes Dev., 14 (2000), pp. 2185–2191
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (139)
+Palmero et al. 1998
+I Palmero, C Pantoja, M Serrano
+p19ARF links the tumour suppressor p53 to Ras
+Nature, 395 (1998), pp. 125–126
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (458)
+Perez-Roger et al. 1999
+I Perez-Roger, S.-H Kim, B Griffiths, A Sewing, H Land
+Cyclins D1 and D2 mediate Myc-induced proliferation via sequestration of p27Kip1 and p21Cip1
+EMBO J., 18 (1999), pp. 5310–5320
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (223)
+Pinkel et al. 1998
+D Pinkel, R Segraves, D Sudar, D Clark, I Poole, D Kowbel, C Collins, W.-L Kuo, C Chen, Y Zhai et al.
+High resolution analysis of DNA copy number variation using comparative genomic hybridization to microarrays
+Nat. Genet., 20 (1998), pp. 207–211
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1463)
+Rich et al. 2001
+J.N Rich, C Guo, R.E McLendon, D.D Bigner, X.-F Wang, C.M Counter
+A genetically tractable model of human glioma formation
+Cancer Res., 61 (2001), pp. 3556–3560
+
+View Record in Scopus | Cited By in Scopus (98)
+Ruley 1983
+H.E Ruley
+Adenovirus early region 1A enables viral and cellular transforming genes to transform primary cells in culture
+Nature, 304 (1983), pp. 602–606
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (246)
+Seoane et al. 2002
+J Seoane, H.-V Le, J Massagué
+Myc suppression of the p21Cip1 Cdk inhibitor influences the outcome of the p53 response to DNA damage
+Nature, 419 (2002), pp. 729–734
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (399)
+Serrano et al. 1997
+M Serrano, A.W Lin, M.E McCurrach, D Beach, S.W Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Sharpless and DePinho 1999
+N.E Sharpless, R.A DePinho
+The INK4A/ARF locus and its two gene products
+Curr. Opin. Genet. Dev., 9 (1999), pp. 22–30
+
+Article |  PDF (129 K) | View Record in Scopus | Cited By in Scopus (368)
+Sharpless et al. 2001
+N.E Sharpless, N Bardeesy, K.-H Lee, D Carrasco, D.H Castrillon, A.J Aguirre, E.A Wu, J.W Horner, R.A DePinho
+Loss of p16Ink4a with retention of p19Arf predisposes mice to tumorigenesis
+Nature, 413 (2001), pp. 86–91
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (504)
+Sherr 2001
+C.J Sherr
+The INK4a/ARF network in tumour suppression
+Nat. Rev. Mol. Cell. Biol., 2 (2001), pp. 731–737
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (623)
+Sherr and DePinho 2000
+C.J Sherr, R.A DePinho
+Cellular senescence: mitotic clock or culture shock?
+Cell, 102 (2000), pp. 407–410
+
+Article |  PDF (78 K) | View Record in Scopus | Cited By in Scopus (492)
+Stevenson and Volsky 1986
+M Stevenson, D.J Volsky
+Activated v-myc and v-ras oncogenes do not transform normal human lymphocytes
+Mol. Cell. Biol., 6 (1986), pp. 3410–3417
+
+View Record in Scopus | Cited By in Scopus (26)
+Tanaka et al. 1994
+N Tanaka, M Ishihara, M Kitagawa, H Harada, T Kimura, T Matsuyama, M.S Lamphier, S Aizawa, T.W Mak, T Taniguchi
+Cellular commitment to oncogene-induced transformation or apoptosis is dependent on the transcription factor IRF-1
+Cell, 77 (1994), pp. 829–839
+
+Article |  PDF (3556 K) | View Record in Scopus | Cited By in Scopus (390)
+Vaziri and Benchimol 1998
+H Vaziri, S Benchimol
+Reconstitution of telomerase activity in normal human cells leads to elongation of telomeres and extended replicative lifespan
+Curr. Biol., 8 (1998), pp. 279–282
+
+Article |  PDF (107 K) | View Record in Scopus | Cited By in Scopus (725)
+Voorhoeve and Agami 2003
+P.M Voorhoeve, R Agami
+The tumor suppressive functions of the human INK4a locus
+Cancer Cell, 4 (2003), pp. 301–310
+
+Vlach et al. 1996
+J Vlach, S Hennecke, K Alevizopoulos, D Conti, B Amati
+Growth arrest by the cyclin-dependent kinase inhibitor p27Kip1 is abrogated by c-Myc
+EMBO J., 15 (1996), pp. 6595–6604
+
+View Record in Scopus | Cited By in Scopus (261)
+Watnick et al. 2003
+R.S Watnick, Y.-N Cheng, A Rangarajan, T.A Ince, R.A Weinberg
+Ras modulates Myc activity to repress thrombospondin-1 expression and increase tumor angiogenesis
+Cancer Cell, 3 (2003), pp. 219–231
+
+Article |  PDF (839 K) | View Record in Scopus | Cited By in Scopus (247)
+Wei et al. 1999
+S Wei, W Wei, J.M Sedivy
+Expression of catalytically active telomerase does not prevent premature senescence caused by overexpression of oncogenic Ha-Ras in normal human fibroblasts
+Cancer Res., 59 (1999), pp. 1539–1543
+
+View Record in Scopus | Cited By in Scopus (111)
+Wei et al. 2001
+W Wei, R.M Hemmer, J.M Sedivy
+The role of p14ARF in replicative and induced senescence of human fibroblasts
+Mol. Cell. Biol., 21 (2001), pp. 6748–6757
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (157)
+Wright and Shay 2002
+W.E Wright, J.W Shay
+Historical claims and current interpretations of replicative aging
+Nat. Biotechnol., 20 (2002), pp. 682–688
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (244)
+Zimonjic et al. 2001
+D Zimonjic, M.W Brooks, N Popescu, R.A Weinberg, W.C Hahn
+Derivation of human tumor cells in vitro without widespread genomic instability
+Cancer Res., 61 (2001), pp. 8838–8844
+
+View Record in Scopus | Cited By in Scopus (79)
+Zindy et al. 1998
+F Zindy, C.M Eischen, D.H Randle, T Kamijo, J.L Cleveland, C.J Sherr, M.F Roussel
+Myc signaling via the ARF tumor suppressor regulates p53-dependent apoptosis and immortalization
+Genes Dev., 12 (1998), pp. 2424–2433
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (869)

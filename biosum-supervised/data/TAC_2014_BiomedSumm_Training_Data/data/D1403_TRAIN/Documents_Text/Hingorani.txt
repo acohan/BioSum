@@ -1,0 +1,561 @@
+﻿Cancer Cell
+Volume 4, Issue 6, December 2003, Pages 437–450
+ Cover image
+Article
+Preinvasive and invasive ductal pancreatic cancer and its early detection in the mouse
+Sunil R. Hingorani1, 2, Emanuel F. Petricoin III3, Anirban Maitra4, Vinodh Rajapakse5, Catrina King2, Michael A. Jacobetz2, Sally Ross5, Thomas P. Conrads6, Timothy D. Veenstra6, Ben A. Hitt7, Yoshiya Kawaguchi8, Don Johann5, Lance A. Liotta5, Howard C. Crawford9, Mary E. Putt10, Tyler Jacks11, Christopher V.E. Wright8, Ralph H. Hruban4, Andrew M. Lowy12, David A. TuvesonCorresponding author contact information, 1, 2, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S1535-6108(03)00309-X
+Referred to by
+Sunil R. Hingorani, Emanuel F. Petricoin III, Anirban Maitra, Vinodh Rajapakse, Catrina King, Michael A. Jacobetz, Sally Ross, Thomas P. Conrads, Timothy D. Veenstra, Ben A. Hitt, Yoshiya Kawaguchi, Don Johann, Lance A. Liotta, Howard C. Crawford, Mary E. Putt, Tyler Jacks, Christopher V.E. Wright, Ralph H. Hruban, Andrew M. Lowy, David A. Tuveson
+Preinvasive and invasive ductal pancreatic cancer and its early detection in the mouse
+Cancer Cell, Volume 5, Issue 1, January 2004, Page 103
+ PDF (29 K)         
+  Open Archive
+Abstract
+To evaluate the role of oncogenic RAS mutations in pancreatic tumorigenesis, we directed endogenous expression of KRASG12D to progenitor cells of the mouse pancreas. We find that physiological levels of KrasG12D induce ductal lesions that recapitulate the full spectrum of human pancreatic intraepithelial neoplasias (PanINs), putative precursors to invasive pancreatic cancer. The PanINs are highly proliferative, show evidence of histological progression, and activate signaling pathways normally quiescent in ductal epithelium, suggesting potential therapeutic and chemopreventive targets for the cognate human condition. At low frequency, these lesions also progress spontaneously to invasive and metastatic adenocarcinomas, establishing PanINs as definitive precursors to the invasive disease. Finally, mice with PanINs have an identifiable serum proteomic signature, suggesting a means of detecting the preinvasive state in patients.
+
+Significance
+It is axiomatic in clinical oncology that early detection of cancers increases the likelihood of cure. This is particularly true for pancreatic ductal adenocarcinoma, in which complete resection at even the earliest stage of invasive disease results in dismal long-term prognosis. Understanding the pathogenesis of the preinvasive lesions, termed pancreatic intraepithelial neoplasias (PanINs), and developing the means to detect them, therefore represent urgent needs. We have generated a mouse model of PanIN and find that the lesions progress histologically, culminating in fully invasive and metastatic disease. Moreover, we demonstrate a highly reliable means of detecting PanINs in the serum proteome of mutant animals. These results illustrate the potential of genetically engineered mice to accurately model the earliest stages of human neoplasias.
+
+Introduction
+Infiltrating ductal adenocarcinoma of the pancreas (PDA) accounts for over 95% of all exocrine pancreatic malignancies and is the fifth-leading cause of cancer-related deaths in the United States. Infiltrating PDA is almost uniformly fatal, with a five-year survival of less than 5% (Warshaw and Fernandez-del Castillo, 1992). The essential incurability of this disease is reflected in virtually identical annual incidence and mortality figures, projected to number 30,300 and 29,700 cases, respectively, for 2003 (Jemal et al., 2003). The median survival for patients with PDA is 4–6 months, in part because the disease usually only becomes clinically apparent at late stages, and because it resists all forms of conventional chemotherapy and radiotherapy. Several factors conspire to obscure the diagnosis of early pancreatic ductal cancer, including the retroperitoneal location of the pancreas and the small size of most of the precursor lesions, which renders them below the detection threshold of current imaging modalities. Even when serendipitously discovered at its earliest stages, and therefore amenable to complete surgical resection, long-term survival is exceedingly rare. The vast majority of even highly selected patients, possessing small primary lesions (less than 2 cm), disease-free resection margins, and negative lymph nodes, inevitably succumb to recurrent or metastatic disease Allison et al. 1998 and Yeo et al. 2002a. Thus, unlike other epithelial malignancies, it appears that from its very inception, PDA is already a micrometastatic disease. Understanding the pathogenesis of the preinvasive state, and developing effective strategies to detect preinvasive pancreatic neoplasms, are therefore of paramount importance.
+
+Similar to long-established models for other epithelial malignancies, such as breast, colon, and prostate, a progression model for the precursor lesions of PDA has been elaborated Cubilla and Fitzgerald 1975, Cubilla and Fitzgerald 1976, Hruban et al. 2000a and Klimstra and Longnecker 1994. These lesions, recently codified under the collective term pancreatic intraepithelial neoplasia (PanIN), are grouped into three histologic stages based on increasing degrees of architectural and nuclear atypia (Kern et al., 2001). A genetic progression model is also emerging which serves to substantiate and illuminate the histological description (Hruban et al., 2000b). Activating mutations in the KRAS proto-oncogene are found in over 90% of invasive PDA and are thought to represent an initiating event. Genetic and epigenetic inactivations of a number of tumor suppressor genes, including p16INK4a, p53, DPC4 and BRCA2, increase in frequency in progressively higher PanIN stages, and culminate in incidences of approximately 90%, 50%–70%, 55%, and 10%, respectively, in invasive PDA. A few heritable predispositions to the disease have been described, involving kindreds with germline mutations in the tumor suppressor genes p16INK4a, BRCA2, LKB1, and MLH1 (Jaffee et al., 2002). Interestingly, the median age at presentation in these kindreds is not significantly different from sporadic cases, suggesting that these mutations identify genes involved in the progression, and not initiation, of a multigenic process.
+
+A number of tumor suppressor gene knockout and oncogene transgenic mouse models have been developed in recent years incorporating strategies informed by the genetic studies cited above; to date, however, none have recapitulated the features of invasive human PDA or of its noninvasive precursor state. We hypothesized that physiological levels of oncogenic KRAS would serve to initiate pancreatic cancer. We report here that endogenous expression of KRASG12D in progenitor cells of the mouse pancreas induces the entire progression of pancreatic ductal adenocarcinoma from preinvasive neoplasias to invasive and metastatic disease. Furthermore, mice with preinvasive disease have a diagnostic serum proteomic profile that could serve as the basis for detecting the cognate human condition.
+
+Results
+Targeting expression of KRASG12D to the mouse pancreas
+The ability to target gene expression to different compartments of the mouse pancreas has been aided greatly by recent advances in our understanding of the developmental program of this vital organ. These studies have identified several transcription factors critical to cellular fate decisions in the developing pancreas (reviewed in Kim and MacDonald, 2002) (Figure 1A). The first identifiable pancreatic progenitor cells arise in the dorsal and ventral endoderm at embryonic day 8 in the fetal mouse. Expression of PDX-1/IPF1 occurs around E8.5, and its homozygous deletion is an embryonic lethal event (Offield et al., 1996). P48/PTF1 is expressed slightly later and is required to commit cells to a pancreatic fate; when it is absent, cells of the developing pancreatic bud instead differentiate into duodenal epithelium (Kawaguchi et al., 2002) and into endocrine cells that migrate to the spleen (Krapp et al., 1998). P48−/− animals lack a discernible pancreas and succumb shortly after birth. The PDX-1 and P48 double-positive progenitor cells give rise to all the mature cells of the pancreas (Figure 1A). In the adult mouse, PDX-1 expression is essentially confined to the islet cells, while P48 is restricted to acinar cells.
+
+Full-size image (58 K)
+Figure 1. 
+Targeting endogenous KRASG12D expression to the mouse pancreas
+A: Simplified schematic diagram of the program of transcription factor expression in the developing mouse pancreas. PDX-1 expression (blue) is apparent by embryonic day 8.5 (E8.5), while P48 expression (red) begins on approximately E9.5. The resultant PDX-1 and P48 double-positive cells give rise to all of the cells of the mature organ.
+B: Conditional LSL-KRASG12D allele and generation of expressed KRASG12D allele after Cre-mediated excision-recombination. Arrows indicate relative position of PCR primers used to detect alleles. PCR distinguishes presence of recombined allele from WT allele by addition of 40 bp (34 bp for LoxP site plus 6 bp added SalI restriction site). A separate reaction is used to detect the presence of the unrecombined conditional allele (not shown).
+C: PCR of tail (T) and pancreatic (P) DNA from 2- and 5-month-old control, PDX-1-Cre; LSL-KRASG12D and P48+/Cre; LSL-KRASG12D mice. The recombined allele is present in the pancreata but not the tails of compound mutant mice.
+D: Pancreata from young (2 months, top panels) and older (5 months, bottom panels) PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D animals are larger than those of the respective control animals. Arrows indicate pancreatic nodules.
+E: KrasG12D, Ras-GTP, and total Ras levels in whole pancreatic lysates of 2-month-old PDX-1-Cre;LSL-KRASG12D, P48+/Cre;LSL-KRASG12D, and control animals. Detectable levels of KrasG12D and Ras-GTP are seen in compound mutant animals but not in controls.
+Figure options
+To target expression of oncogenic KRAS to pancreatic progenitor cells, a conditionally expressed allele was first constructed as previously described (Jackson et al., 2001) (Figure 1B). The targeting vector contains genetic elements that inhibit transcription and translation flanked by functional LoxP sites. This Lox-STOP-Lox (LSL) construct was inserted into the mouse genomic KRAS locus upstream of a modified exon 1 engineered to contain a G → A transition in codon 12. This mutation, commonly found in human PDA, results in a glycine to aspartic acid substitution in the expressed protein, compromising both its intrinsic and extrinsic GTPase activities and resulting in constitutive downstream signaling of Ras effector pathways. Expression of the mutated allele is achieved by interbreeding LSL-KRASG12D mice with animals that express Cre recombinase from the pancreatic-specific promoters, PDX-1 or P48. Lineage tracing studies demonstrate a stochastic pattern of Cre expression in the pancreas of the transgenically derived PDX-1-Cre animals, while the knockin strategy used to generate the P48+/Cre strain (Kawaguchi et al., 2002) results in uniform expression throughout the organ (Supplemental Figure S1 at http://www.cancercell.org/cgi/content/full/4/6/437/DC1). Prior to breeding with Cre-expressing animals, LSL-KRASG12D mice are functionally heterozygous for the wild-type allele (KRAS+/−). Excision of the silencing cassette and subsequent recombination allows for expression of the mutant allele, resulting in a heterozygous mutant condition (KRAS+/G12D). The excision-recombination event leaves behind a single LoxP site, evidence of which can be demonstrated by PCR (Figure 1C). Note that only DNA isolated from the pancreata of these mice, and not from the tails, reveals evidence of recombination.
+
+The pancreata from compound mutant mice are larger than their littermate controls and, particularly in older mice, often have focally nodular parenchyma (Figure 1D). Consistent with expression of the KRASG12D allele, total protein lysates from the pancreata of compound mutant mice contain mutant protein and reveal increased levels of activated, or GTP-bound, Ras (Figure 1E). The slightly higher levels of KrasG12D and Ras-GTP in P48+/Cre;LSL-KRASG12D pancreatic lysates are consistent with expression of the mutant allele throughout the organ. These studies do not, of course, identify the specific cellular compartment(s) within the pancreas that express the KRASG12D allele. Nevertheless, they do establish that the conditional KRASG12D allele is efficiently recombined in the pancreata of PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D compound mutant mice, resulting in expression of the oncogenic protein and elevated Ras-GTP levels.
+
+Endogenous KRASG12D expression induces pancreatic intraepithelial neoplasias (PanINs)
+The pancreata of compound mutant mice developed ductal lesions with complete penetrance (33 of 33 animals) that were identical to all three stages of human PanINs. Representative examples of the types of lesions seen in these animals are shown (Figure 2). The normal pancreas is characterized by an abundance of acinar tissue with scattered islets and rarely-seen ducts (Figure 2A). Normal ductal epithelium is comprised of cuboidal cells with uniform round nuclei. Occasionally, so-called reactive ducts, which are thought to reflect injured epithelium, are seen. These ducts are characterized by slightly larger nuclei with less condensed chromatin, but only minimally increased cytoplasm, and are not thought to represent preinvasive lesions (Figure 2B). PanIN-1A lesions are characterized by a transition from the normal cuboidal morphology to a columnar phenotype with abundant supranuclear, mucin-containing cytoplasm (Figures 2C and 2D). The polarity of these cells is still maintained with basally located nuclei, and nuclear atypia, when seen at all, is minimal. Such lesions were observed in compound mutant mice as young as two weeks old. We note that the development of these lesions was restricted to the small, intralobular ducts of the pancreas, just as in the human condition; the larger interlobular ducts appeared unaffected (Figure 2C). The development of papillary or micropapillary ductal lesions without significant loss of polarity or nuclear atypia identifies them as PanIN-1B (Figures 2E and 2F). Importantly, the pancreata of affected animals retained their overall organotypic architecture with abundant normal-appearing acini and islets.
+
+Full-size image (255 K)
+Figure 2. 
+Endogenous KRASG12D expression induces both early- (top panels) and advanced- (bottom panels) stage pancreatic intraepithelial neoplasias (PanINs)
+A: Wild-type pancreas revealing normal cuboidal ductal epithelium in cross-section (arrowhead), islet (is), and surrounding acinar tissue (400×).
+B: Reactive duct (arrow) showing enlarged nuclei and normal duct (arrowhead) in adjacent lobule (400×).
+C: PanIN-1A in small intralobular duct (arrow) and adjacent normal interlobular duct (delimited by arrowheads). Note the relative sizes of the two ductal structures (200×).
+D: PanIN-1A (arrow) and adjacent normal duct (arrowhead) and islet (is) (400×).
+E: PanIN-1B (arrow) showing papillary architecture and an adjacent PanIN-1A (arrowhead) (400×).
+F: Papillary architecture of PanIN-1B lesion at abrupt transition from more normal appearing ductal epithelium (arrowheads) (1000×).
+G and H: Higher-grade PanIN-2 lesions (arrows) reveal more significant loss of polarity and moderate nuclear atypia. In (G), an adjacent lesion within the same duct has features more consistent with PanIN-1B (arrowhead, 400×).
+I–L: High-grade PanIN-3 lesions reveal complete loss of cellular polarity, significant nuclear atypia, and budding of cell clusters into the ductal lumen. Goblet cells (arrows) are also seen with increasing frequency, as is the surrounding fibroinflammatory reaction (asterisk) (1000×).
+Figure options
+As the mice aged, higher-grade PanINs were observed with increasing frequency. Moderate nuclear atypia and a loss of polarity, manifested by movement away from a strictly basal location of nuclei, herald the transition to PanIN-2 lesions (Figures 2G and 2H). In PanIN-3 lesions, significant nuclear atypia and complete loss of polarity are observed, such that it is often not possible within the center of one of these lesions to discern luminal from basal boundaries (Figures 2I–2L). Goblet cells, mucus-producing cells normally restricted to respiratory and intestinal epithelia, were seen in PanINs of various stages, but most frequently in PanIN-3 lesions. Though not part of the formal diagnostic criteria for PanINs, they are an associated hallmark of human PanINs and are consistent with the notion of an undifferentiated or inappropriately differentiated pancreatic ductal epithelium toward a more intestinal phenotype. In the PanIN-3 lesions shown here, nuclear enlargement and pleomorphism are apparent; in addition, clusters of cells can be seen which appear to have “budded off” into the lumen. These represent cardinal features of human PanIN-3 lesions, also referred to as carcinoma-in-situ.
+
+In many of the older mice, the pancreata contained extensive ductal lesions, and the acinar parenchyma was largely replaced by an intense stromal, or desmoplastic, reaction comprised of inflammatory cells, fibroblasts, and collagen deposition (Figures 2I–2K). This fibroinflammatory reaction is highly reminiscent of that seen in human pancreatic cancers and may be secondary to luminal obstruction from the intraductal proliferations. A similar spectrum of ductal lesions was seen with both PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D mice. We conclude, therefore, that the targeted recombination of a conditional KRASG12D allele in pancreatic progenitor cells induces the full spectrum of pancreatic intraepithelial neoplasias, and substantiates the KRASG12D mutation as an initiating event in pancreatic cancer.
+
+PDX-1-Cre;LSL-KRASG12D animals did occasionally develop additional tumors with varying penetrance (Supplemental Table S1), including mucocutaneous papillomas (not shown), intestinal metaplasia of the gastric epithelium (Supplemental Figures S2A and S2B), and hyperplastic polyps of the duodenum (Supplemental Figures S2C and S2D). The occurrence of these lesions of the gastrointestinal epithelium likely reflects the expression of PDX-1 in foregut endothelium progenitor cells during development (Offield et al., 1996). Consistent with this expression pattern, recombination of the conditional allele was detected in the stomach and small bowel, in addition to the pancreas, of PDX-1-Cre;LSL-KRASG12D mice, as well as in cutaneous papillomas but not normal adjacent skin (Supplemental Figure S2E). With one exception, full necropsies of P48+/Cre;LSL-KRASG12D animals did not reveal extrapancreatic pathology (Supplemental Table S2). One animal displayed evidence of duodenal hyperplasia (not shown), perhaps a result of haploinsufficiency of P48 in P48+/Cre mice. In lineage-tracing studies in P48+/lacZ mice, rare P48-expressing cells were retained in the duodenum, the presumed result of insufficient levels of p48 to secure the pancreatic specification of this region of the developing foregut endoderm (Kawaguchi et al., 2002). The relative infrequency of such events is also reflected in the lack of detectable recombination of the LSL-KRASG12D allele in the duodena of most P48+/Cre;LSLG12D animals (Supplemental Figure S2F).
+
+Characterization of PanINs
+The proliferative index of PanINs was assessed by expression of PCNA. In wild-type animals, the basal level of PCNA expression was low, measuring 0.55 ± 0.05% in ducts, 0.94 ± 0.14% in acini, and 0% in islets. By comparison, in PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D animals, 16% ± 1.8% and 22% ± 3.0%, respectively, of ductal cells in PanINs expressed PCNA ( Figure 3A). The proliferative index of acinar cells in compound mutant animals was also increased, though to a much lesser degree than PanINs: 3.0 ± 0.6% of acinar cells in PDX-1-Cre;LSL-KRASG12D mice were PCNA-positive, while 6.7 ± 0.8% PCNA-positive acinar cells were observed in P48+/Cre;LSL-KRASG12D animals. Neither the normal ductal cells nor islet cells in either cohort of compound mutant animals showed any increase in PCNA expression (Figure 3B). Importantly, pancreata from compound mutant animals did not express detectable levels of p21CIP/WAF, a cell cycle inhibitor and p53 target gene (Figure 3C), arguing against the possibility that the decreased proliferative rates of acinar and islet cells compared with PanINs were due to Ras-induced senescence in the former cell compartments (Serrano et al., 1997).
+
+Full-size image (191 K)
+Figure 3. 
+Characterization of PanINs
+A: High levels of PCNA expression (arrows) seen in numerous PanINs of a PDX-1-Cre;LSL-KRASG12D mouse but not in surrounding acinar tissue (400×).
+B: Absence of PCNA expression in normal pancreatic ducts (arrowheads) from the same compound mutant animal as in (A) (400×).
+C: Absence of p21 immunoreactivity in a normal duct (arrowhead), acini, and islet (is) of a PDX-1-Cre;LSL-KRASG12D mouse (400×).
+D: Intense expression of epithelial cell marker, cytokeratin-19 (CK-19), in numerous PanINs (examples indicated by arrows) of a compound mutant animal (400×).
+E: Alcian blue stain reveals abundant mucin content of a PanIN-1A (arrow) which is absent from islets (is), acini (ac), and an adjacent reactive duct (arrowhead) (400×).
+F: Immunoreactivity to mucin-specific protein, Muc5, is seen in PanINs (arrows), but not in adjacent acini (ac) (400×).
+G–I: Immunohistochemical detection of PDX-1 expression in pancreata from PDX-1-Cre; LSL-KRASG12D (G and H) and control mice (I). G: Intense nuclear PDX-1 expression is seen in islets (arrowhead), high-level expression in intestinal crypts (open arrowheads), and faint expression in Pan-INs (arrows, 200×). H: Higher-power view of G (400×). I: High-level expression in islets (is) but not in ducts (arrowhead) (400×).
+Figure options
+The epithelial nature of the observed PanINs was confirmed by intense expression of cytokeratin-19 (CK-19), an epithelial cell marker (Figures 3D). Consistent with human PanINs, and with their presumptive status as precursors of adenocarcinomas, an abundant mucin content of PanINs in compound mutant animals was demonstrated by intense Alcian blue staining (Figure 3E) and by immunoreactivity to the mucin-specific protein, Muc5 (Figure 3F). Finally, we note that PanINs expressed only low levels of PDX-1, which can nevertheless be discerned when compared to the lack of expression in surrounding acini (Figures 2G and 2H) and to normal ducts in control animals (Figure 2I). Moderate expression of PDX-1 was observed in duodenal crypts, again consistent with the observation of allelic recombination in the small bowel noted earlier, while high levels of PDX-1 expression were restricted to the endocrine cells of both control and compound mutant adult animals, as expected (Figures 3G–3I).
+
+PanINs show evidence of histologic progression
+To determine more rigorously if the PanINs progress histologically, the total number of ductal lesions and their grade were scored in representative pancreatic sections of cohorts of PDX-1-Cre;LSL-KRASG12D mice of varying age ( Figure 4). To decrease the likelihood of scoring the same potentially serpentine duct more than once, only the highest-grade lesion per pancreatic lobule was evaluated. Reactive ducts were not counted as true PanINs. Only lesions that satisfied the accepted criteria for PanIN grades 1–3 were scored as such. It should be noted that a fair degree of variability exists in total tumor burden among mice of the same age, even among littermates. This variability may reflect the inherently unpredictable nature of transgenic expression of the Cre enzyme in PDX-1-Cre mice. This caveat notwithstanding, several points were readily apparent. Both the total number of PanINs and their grade clearly increased with advancing age of the mice (Figure 4). In animals 5 months of age or less, the vast majority of ducts were normal. When observed, ductal lesions were largely PanIN-1A. Specifically, at 2.25 months, >80% of ducts were normal; this percentage decreased to 68% at 4–5 months (p < .089, using Poisson regression). By 7–10 months, however, more neoplastic (82% of total) than normal ducts were observed (p < 1 × 10−8 compared with 2 months, p < 1.5 × 10−4 compared with 4.5 months). Although the neoplastic ducts still largely consisted of low-grade (1A and 1B) lesions (65%), a substantial number of grade 2 lesions (16%) and the first PanIN-3 lesions could now be seen. Relative to the total number of ducts, the incidence of high-grade (2 and 3) PanINs in the oldest cohort was significantly increased when compared with both young (p < 7 × 10−5) and intermediate-aged mice (p < 4 × 10−4), largely because high-grade lesions were rarely if ever observed in mice younger than 5 months. Similar overall findings were noted in cohorts of P48+/Cre;LSL-KRASG12D mice.
+
+Full-size image (18 K)
+Figure 4. 
+Histologic progression of PanINs in PDX-1-Cre;LSL-KRASG12D mice
+Percentages (± SEM) of normal (nl) and neoplastic ducts by grade (1A, 1B, 2, 3) in mice of average age 2.25 months (n = 6), 4.5 months (n = 4), and 9 months (n = 4). p values: *, < 1 × 10−8; **, < 1.5 × 10−4; Δ, < 7 × 10−5; ΔΔ, < 4 × 10−4.
+Figure options
+PanINs activate normally quiescent pathways
+We next sought to examine these lesions with specific regard to pathways that offer potential therapeutic and/or chemopreventive targets. The Notch signaling pathway is involved in determining cellular fate in the embryonic development of a variety of tissues (Artavanis-Tsakonas et al., 1999), as well as in the pathological state associated with Alzheimer's disease (Fortini, 2002). Although apparently necessary for the early development of the pancreas, Notch signaling is normally suppressed in the adult organ Apelqvist et al. 1999 and Jensen et al. 2000. Very recently, this pathway has been identified as inappropriately upregulated in human pancreatic cancer specimens (Miyamoto et al., 2003). Activation of this pathway can be assessed by nuclear expression of one of its downstream target genes, the transcription factor Hes1. PanIN lesions demonstrated strong nuclear expression and faint cytoplasmic expression of Hes1 ( Figure 5A). Nuclear expression was not seen in the normal ducts or islet cells of compound mutant animals, or in these compartments in control animals (Figure 5B); expression in rare centroacinar cells was occasionally seen (not shown) as has been described previously (Miyamoto et al., 2003).
+
+Full-size image (108 K)
+Figure 5. 
+Signaling pathways in PanINs
+A and B: Nuclear expression of Hes1 (arrows) is seen in PanINs (A, arrows) but not in normal ducts (B, arrowheads) (1000×).
+C and D: Cytoplasmic expression of COX-2 is high in PanINs (C, arrows), markedly lower in surrounding acini, and absent in control ducts (D, arrowhead) (400×).
+E and F: Focal expression of MMP-7 is found in PanINs (E, arrows). No MMP-7 expression was observed in the ductal epithelium (F, arrowheads) or other structures of control animals (400×).
+Figure options
+PanINs also expressed increased levels of cyclooxygenase 2, a component of the prostaglandin pathway involved in the inflammatory response. Elevated COX2 expression has been described in both human PanINs (Maitra et al., 2002) and invasive PDA Maitra et al. 2002 and Tucker et al. 1999. Intense immunohistochemical labeling for Cox-2 was observed in the cytoplasm of PanINs, but not in the ductal cells of control animals (Figures 5C and 5D). Acini and islets revealed varying, but substantially decreased, levels of COX2 expression.
+
+Finally, we investigated the expression of matrix metalloproteinase-7 (MMP-7), a member of the family of zinc-dependent extracellular proteases (Brinckerhoff and Matrisian, 2002). Homozygous deletion of MMP-7 has been shown to inhibit tumorigenesis (Wilson et al., 1997), while transgenic overexpression can promote it (Rudolph-Owen et al., 1998). Inappropriate MMP-7 expression has also been identified in preinvasive and invasive human pancreatic cancer specimens (Crawford et al., 2002). We found focally elevated expression of MMP-7 in a subset of PanIN lesions, but not in the normal ducts or other cells of the pancreas (Figures 5E and 5F), similar to the pattern of expression seen in human specimens. Interestingly, and again as noted in human pancreata, MMP-7 expression did not appear to correlate with PanIN grade.
+
+Progression to invasive and metastatic ductal adenocarcinoma
+In a cohort of animals (n = 29) being followed longitudinally for evidence of disease progression, two mice, one PDX-1-Cre;LSL-KRASG12D (aged 6.25 months) and one P48+/Cre;LSL-KRASG12D (aged 8.25 months), have thus far developed and succumbed to invasive and metastatic pancreatic ductal adenocarcioma. Both mice developed locally invasive disease and metastases to the liver. The PDX-1-Cre;LSL-KRASG12D animal developed additional sites of metastatic disease and will be described in greater detail.
+
+At necropsy, a profuse hemorrhagic ascites was noted. The pancreas was large, firm, and fibrotic, and appeared to be encasing the small bowel (Figure 6A). Nodular densities were observed on the liver, diaphragm, and pleural surfaces. Histologic assessment of the pancreas revealed a diffusely infiltrative adenocarcinoma with scattered low and high grade PanINs (Figures 6B–6D). A predominantly glandular pattern of differentiation was noted (Figures 6E and 6F), although there were significant areas of more poorly differentiated carcinoma as well (Figure 6G). The regions manifesting glandular differentiation, in particular, expressed high levels of CK-19, confirming their epithelial nature (Figure 6H). These more well-differentiated regions of the tumor also reacted with Alcian blue and with mucicarmine, a mucin-specific stain, establishing their designation as a glandular mucin-producing carcinoma, or adenocarcinoma (not shown).
+
+Full-size image (263 K)
+Figure 6. 
+Invasive (top panels) and metastatic (bottom panels) pancreatic ductal adenocarcinoma (PDA) in PDX-1-Cre; LSL-KRASG12D mouse
+A: Gross photograph of abdominal organs. Arrow indicates dramatically enlarged and nodular pancreas seen encasing the small bowel. Note the multiple smaller (open arrowheads) and single large (closed arrowhead) liver metastases.
+B: PanINs (boxes) at the junction between normal acini above and invasive PDA below (100×).
+C and D: Higher magnifications of PanINs at the border of invasive cancer (400×).
+E and F: Well-differentiated regions of invasive PDA revealing prominent glandular architecture (400×).
+G: Region of poorly differentiated PDA within same tumor (400×).
+H: CK-19 expression in well-differentiated region of PDA (400×).
+I–K: Several distinct liver metastases are indicated (I [dotted lines, 40×] and J [asterisk, 200×]). K: serial section of J demonstrating immunoreactivity to the epithelial marker CK-19 in metastasis but not adjacent normal hepatic parenchyma (200×).
+L: Lung metastasis (arrow, 200×).
+M and N: Pleural nodules (M) (arrows, 100×) showing immunoreactivity to CK-19 (N) (400× of boxed region).
+O: Peripancreatic lymph node metastasis (asterisk, 200×).
+P: Diaphragmatic invasion by tumor cells (asterisk) in finger-like projections (200×).
+Q: Neural plexus (np) and associated nerve fibers (arrows) invaded by PDA. The nerve fibers are encased by tumor cells (asterisks, 400×).
+Figure options
+The liver contained numerous scattered metastatic lesions which clearly revealed glandular differentiation (Figures 6I and 6J) and which also were CK-19-positive (Figure 6K). A similar histologic appearance and epithelial character was demonstrated by metastases to the lung parenchyma (Figure 6L) and pleural surfaces (Figures 6M and 6N). Several identified peripancreatic lymph nodes had been infiltrated by tumor cells (Figure 6O), and finger-like projections of tumor cells had invaded into the diaphragm (Figure 6P). A metastatic lesion to the adrenal cortex was also noted (not shown).
+
+The presence of neural and vascular invasion in human pancreatic ductal cancer portends an especially poor prognosis, and invasion of nervous plexi is a major source of patient morbidity, resulting in severe and often intractable pain. Invasion of a nervous plexus and encasement of the nerve fibers by tumor cells was observed in this animal as well (Figure 6Q). Cancer cells can be seen completely encasing the nerve fibers and infiltrating the plexus of neuronal cell bodies. Not surprisingly, vascular invasion manifested by infiltration of a vein was also noted (not shown). The sites of metastases observed in this animal are precisely those found in human pancreatic ductal adenocarcinoma and further underscore the accuracy of this mouse model in recapitulating the path to the human disease.
+
+Identification of a proteomic signature in mice with PanIN
+Serum proteomic analysis has recently been shown to be an effective means to detect early or recurrent malignancy in patients with ovarian (Petricoin et al., 2002b), breast (Li et al., 2002), and prostate cancer Adam et al. 2002 and Petricoin et al. 2002a. These studies coupled a high-throughput mass spectrometric method, surfaced enhanced laser desorption ionization time-of-flight (SELDI-TOF), with pattern recognition algorithms to detect significant differences that exist between patients and healthy subjects in the low molecular weight range (less than 20,000 MW) of the serum proteome. We wondered whether the serum from PanIN-afflicted animals contained an identifiable proteomic profile that distinguished diseased from normal animals. We note that unfractionated serum was used for these analyses, as it has recently been shown that retention of albumin is essential to the diagnostic power of sera from ovarian and prostate cancer patients, presumably because albumin avidly binds the low MW proteins and concentrates them over time by preventing their otherwise inevitable renal excretion (Liotta et al., 2003).
+
+In a small pilot study designed to establish proof-of-principle, we used a cohort of mice of average age 9.0 ± 0.2 months, which would be expected to have a very high burden of PanINs: based on our previous analyses of histologic progression (Figure 4), we would expect the vast majority (>80%) of the ducts to contain PanIN lesions. We performed terminal bleeds on a cohort (n = 12) of PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D animals and prepared multiple serum samples from each animal ( Table 1). Each animal had extensive, histologically confirmed PanIN, but no evidence of invasive or metastatic disease. Twenty-five age-matched littermate controls (a mix of wild-type, PDX-1-Cre, and P48+/Cre mice) were similarly bled and sacrificed, and were confirmed to have normal pancreata without histologic evidence of PanIN. A total of 25 PanIN serum samples and 40 samples from littermate controls were subjected to SELDI-TOF mass spectrometry to generate an unblinded training set for our bioinformatics algorithm. The resultant model was highly predictive, with a sensitivity of 90.5% (95% CI of 68.3–98.8%) and a specificity of 97.7% (95% CI of 87.7%–99.9%). These results suggested, in principle, that the serum proteome of compound mutant mice with preinvasive pancreatic ductal disease is distinguishable from that of healthy littermate controls.
+
+Table 1.
+Serum proteomic analysis of murine PanIN: Pilot study
+Cohort	Age (months)	# mice	# serum samples	Failed QA/QC	# Training samples	# Test samples	Sensitivity	Specificity
+PanIN	9.4 ± 0.3	12	48	2	25	21	90.5% (95% CI	97.7% (95% CI of
+Control	9.0 ± 0.2	25	100	17	40	43	of 68.3– 98.8%)	87.7–99.9%)
+Table options
+Having established the potential feasibility of detecting preinvasive pancreatic disease in this small study, we next endeavored to perform a prospective study on a larger set of serially collected samples and subject them to higher resolution mass spectrometry. For these analyses, we used a younger cohort of animals of average age 5.5 ± 0.25 months. The use of younger mice increases the stringency of the test in several ways. First, these animals have a lower total burden of PanINs and a shift toward earlier stage lesions (see Figure 4). Compound mutant mice at this age have a vast majority of normal (67%) as compared with diseased ducts (33%). Second, and as a direct consequence, such animals are much less likely to have developed invasive ductal cancer. Third, and perhaps most importantly, they have substantially less chronic injury and fibrosis than the older cohort. It is formally possible that the signature identified in the initial pilot study represented the presence of pancreatic fibrosis and not PanIN. Thus, we used this cohort of animals to determine if it was possible to detect very early preinvasive disease and to do so in the relative absence of the underlying fibrosis that accompanies the greater PanIN burden found in older animals.
+
+Independent, serial serum collections were performed on a cohort of 39 compound mutant animals of average age 5.5 ± 0.25 months and 40 aged-matched littermate controls to generate a total of 80 PanIN and 111 control serum samples. All animals were followed for a minimum of three additional weeks after the final serum collection without manifesting overt signs of illness, further decreasing the likelihood that they had developed invasive disease. Training on a subset of 46 PanIN samples and 51 control samples generated a model comprised of 10 specific molecular ions whose vectorially combined relative intensities were able to accurately distinguish samples from the two populations (Table 2). When tested on a separate blinded set of 34 PanIN samples and 60 controls, the model was able to distinguish cases and controls in this relatively young cohort of mice with a sensitivity of 90% (95% CI of 82.5%–99.9%) and a specificity of 87% (95% CI of 81.6%–99.9%). In addition, we note that samples from PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D mice were detected with equal fidelity, suggesting that the identified proteomic signature was most likely related to the presence of PanIN and not to the minor extrapancreatic pathology in these animals, which differs between the two cohorts. Thus, these results demonstrate that it is possible to detect even very early preinvasive disease in the serum proteome.
+
+Table 2.
+Serum proteomic analysis of murine PanIN: Prospective study
+A: Parameters of sample populations
+Cohort	Average age (months)	# mice	# serum samples	Failed QA/QC	# Training samples	# Test samples	Sensitivity	Specificity
+PanIN	5.5 ± 0.25	39	95	15	46	34	90% (95% CI	87% (95% CI of
+Control	6.5 ± 0.2	40	125	14	51	60	of 82.5– 99.9%)	81.6– 99.9%)
+B: Parameters of model						
+Key ions	m/z							
+1	802.8846							
+2	2886.9487							
+3	4653.8955							
+4	7409.861							
+5	7849.1104							
+6	8284.527							
+7	8371.117							
+8	9415.561							
+9	11495.136							
+10	11499.733							
+Table options
+Discussion
+The generation of an animal model that incorporates the genetic events and faithfully recapitulates the cardinal features of invasive pancreatic ductal adenocarcinoma, or of the precursor lesions collectively termed pancreatic intraepithelial neoplasias (PanINs), has remained elusive to date. Targeted disruption of a number of tumor suppressor genes believed to be important in human pancreatic oncogenesis, including p53 Donehower et al. 1992 and Jacks et al. 1994, p16INK4a (Serrano et al., 1996), DPC4 (Sirard et al., 1998), and BRCA2 (Suzuki et al., 1997), has not yielded any form of pancreatic pathology. The development of oncogenic mutations thought to act as initiating events may therefore represent the rate-limiting step. Two interesting and distinct transgenic mouse models, each expressing a KRAS oncogene from a different heterologous pancreatic-specific promoter, were recently described Brembeck et al. 2003 and Grippo et al. 2003. Although these mice did exhibit varying degrees and types of pancreatic pathology, they too failed to recapitulate the signature features of PDA or of PanIN. We, too, have previously engineered a mouse to overexpress KRASG12D from the acinar cell-specific MIST-1 promoter. These mice exhibit widespread acinar metaplasia and develop a mixed exocrine pancreatic cancer with cystic, acinar, and ductal features (D.A.T., N. Willis, C. Pin, S. Konieczny, J. Glickman, and T.J., unpublished data). Finally, transgenic overexpression of TGFα in acinar cells also results in acinar-to-ductal metaplasia Sandgren et al. 1990 and Wagner et al. 1998. When placed in a p53-deficient background, these mice develop an invasive disease that recapitulates some important genetic features of human pancreatic cancer; however, this progression does not occur through histologically defined PanIN lesions, and the relationship of this model to human pancreatic carcinogenesis remains unclear (Wagner et al., 2001). We have demonstrated here that targeted endogenous expression of an oncogenic KRAS allele in the mouse pancreas initiates the development of PanINs identical to all three stages found in the cognate human condition. At low frequency, mice with PanIN spontaneously develop both locally invasive adenocarcinoma and metastatic disease, with sites of spread exactly as found in human pancreatic cancer, underscoring both the relevance of this model and establishing PanINs as bona fide precursors to pancreatic ductal adenocarcinoma.
+
+Transgenic animal models differ from those targeting endogenous gene expression in several important ways. First, the random nature of transgene insertion into the host genome results in unpredictable positional effects on levels of expression. Second, in constructs driven by heterologous promoters, the normal physiological regulation of gene expression governed by the endogenous promoter is lost. The cellular effects of oncogenic RAS have been shown to be exquisitely dependent upon both the levels and context of RAS expression in a number of experimental systems (reviewed in Shields et al., 2000). In a variety of cell types, ectopic overexpression of RAS induces cell cycle arrest and senescence in the absence of cooperating tumor suppressor or oncogenic mutations Land et al. 1983, Ruley 1983 and Serrano et al. 1997. Conversely, endogenous expression of KRASG12D in mouse embryo fibroblasts (MEFs) stimulates proliferation and induces focus formation in culture without evidence of additional karyotypic events (D.A.T. et al., submitted). Moreover, targeted expression of this allele in the mouse lung causes hyperproliferative lesions that progress from adenomas to adenocarcinomas (Jackson et al., 2001). These findings are consistent with the presumptive role of activating RAS mutations as initiating events in a number of malignancies.
+
+During the preparation of this manuscript, the description of a model involving conditional endogenous expression of another oncogenic KRAS allele (KRASG12V ) was reported. This model employed a bicistronic allele (KRASG12V-IRES-β-geo) created by targeting a fused IRES-β-geo cassette to the 3′ untranslated region of a mutated KRAS locus (Guerra et al., 2003). Interestingly, when bred with transgenic CMV-Cre animals, expression of activated KRAS from this modified allele failed to induce pancreatic lesions or gastric epithelial hyperplasias in mice even up to 8 months of age, despite demonstrated translation of the bicistronic transcript by X-gal staining. Low-grade pancreatic lesions, described by the authors as ductal metaplasia, were seen only in the context of an additional mutation in a cyclin-dependent kinase, CDK4R24C (Cdk4R24C has a markedly decreased binding affinity for p16INK4a and thereby resists its tumor suppressor affects). On the other hand, the transgenic ectopic expression of KRASG12V from an epithelial-specific CK-19 promoter induces the formation of gastric mucous neck cell hyperplasias, and some pancreatic ductal hyperplasias, but fails to recapitulate the true spectrum of PanINs (Brembeck et al., 2003). Together with the findings reported here, these studies confirm that both the levels of RAS expression and the cellular context conspire to determine biological outcome. It may be that the biological consequences of KRASG12V and KRASG12D oncogenes are distinct or, alternatively, that strain-specific effects are responsible for some of the differences discussed here. However, it is also possible that the unusual configuration of the bicistronic allele affects the expression and/or terminal splicing of the KRAS transcript, thereby decreasing the overall levels of oncogenic RAS, or changing the relative ratio of the alternatively spliced KRAS-4A and KRAS-4B transcripts. Indeed, it has been shown that introduction into the mouse genome of a bicistronic construct, directing expression from a single promoter of genes separated by an IRES, results in markedly decreased expression levels of both transcripts compared with separate constructs driven by independent promoters (Jankowsky et al., 2001).
+
+In our system, excision of the silencing cassette upstream of an introduced KRASG12D mutation can occur in pancreatic progenitor cells early in development, and in the islet cells (for PDX-1-Cre crosses) or acinar cells (for P48-Cre crosses) of the adult mouse. Thus, the model accounts for the possibility that the initiation of tumorigenesis occurs in tissue stem cell compartments while not precluding the study of such events in differentiated cells (Reya et al., 2001). As noted above, an alternate theory of the genesis of ductal adenocarcinoma in the pancreas involves the metaplastic transdifferentiation of acinar to ductal cells. The robust expression of Hes1 and low, but detectable, levels of PDX-1 expression in the PanINs described here are consistent with the notion of a relatively undifferentiated or inappropriately differentiated population of cells; of course, such cells could result from progenitor cells gone awry, or from the dedifferentiation of mature ductal or acinar cells. While we cannot formally exclude the possibility that transdifferentiation of acinar to ductal cells occurs in our model system, several points would at least seem to argue against it being the preferred route to PanINs. First, the overall PanIN burden and progression, cellular histology, activated signaling pathways, and serum proteomic signatures found in PDX-1-Cre;LSL-KRASG12D and P48+/Cre;LSL-KRASG12D compound mutant mice are highly congruous despite different modes of transmission of the Cre allele and consequent expression in adult pancreatic cells. Thus, we see essentially normal acinar and islet compartments, respectively, in each of these model systems. In addition, the knockin of Cre behind the P48 promoter means that, in principle, every cell of the adult pancreas in compound mutant mice has potentially rearranged the oncogenic KRAS allele to permit expression. Nevertheless, we see the slowly progressive acquisition of ductal lesions similar to that seen in the transgenic, and hence stochastic, PDX-1-Cre-associated model. It may be that acinar-to-ductal transdifferentiation is a relatively slow process that requires weeks to months in vivo after the activation of oncogenic KRAS expression. However, at least in explants of developing pancreatic buds transfected in vitro with Notch, the observed transdifferentiation of acinar-like cells occurred within 3–4 days (Miyamoto et al., 2003).
+
+We favor an alternate scheme for the development of PanINs seen here. Pancreatic stem cells periodically undergo either cell division to replenish themselves or enter into a differentiation pathway to replace an end-stage cell. We propose that the periodic diversion of a progenitor cell that expresses the rearranged KRASG12D allele toward differentiation along a ductal pathway provides the basis for the evolution of a PanIN. Differentiation along acinar or islet cell pathways does not provide the proper context for KRASG12D to induce true PanINs. Cellular injury, such as that which accompanies ductal obstruction and associated acute and chronic pancreatitis, stimulates increased entry of progenitor cells into the differentiation pathway and increased numbers of PanINs, which in turn cause further obstruction and injury. This scenario is consistent with the increased associated risk of developing pancreatic cancer in patients with chronic pancreatitis (Lowenfels et al., 1993). Experiments are currently underway to formally address whether mature or progenitor cell compartments of the pancreas give rise to PanINs by breeding LSL-KRASG12D mice to mice that express Cre recombinase from the Elastase or Cytokeratin-19 promoters, active in mature acinar and ductal cells, respectively.
+
+The findings of activated Notch signaling, as manifested by Hes1 expression, and increased expression of COX-2 and MMP-7 in PanINs each provide a basis for therapeutic and/or chemoprevention strategies. Agents that interfere with each of these activities are already in approved or investigational use in the clinic. For example, inhibitors of γ-secretase, one of the required proteases in transducing Notch receptor signaling, are currently in clinical trials for Alzheimer's disease (Josien, 2002). The use of nonsteroidal anti-inflammatory drugs has been associated with a decreased incidence in pancreatic cancer (Anderson et al., 2002), which together with the increased expression of Cox-2 observed here in ductal lesions suggests that Cox-2 activity may represent an important part of the program of events initiated by oncogenic KRAS. Finally, matrix metalloproteinases have traditionally been thought to be important for late stages of tumorigenesis involving invasion and metastasis and, accordingly, MMP inhibitors have been used in a number of trials encompassing a variety of metastatic malignancies (Coussens et al., 2002). Unfortunately, these trials were largely unsuccessful. Given the expression of MMP-7 in early-stage PanINs, it may be that these agents would be more efficacious in earlier stages of disease or as chemopreventive agents.
+
+There are currently no non-invasive tests with sufficient sensitivity and specificity to detect pancreatic cancer early enough to effect cures Hingorani and Tuveson 2003 and Rosty and Goggins 2002. The most commonly used biomarker of invasive pancreatic cancer, CA (carbohydrate antigen) 19-9, is useful only for following disease progression or response to therapy (Yeo et al., 2002b). Indeed, in a recent prospective study of patients with clinically suspected pancreatic malignancy but without a radiographically evident mass, the sensitivity and specificity of CA 19-9 to detect the invasive cancer were only 67% and 88%, respectively (Urgell et al., 2000). The very notion of early detection requires reassessment for pancreatic cancer, however, as even resection of stage I invasive disease affords negligible 10-year survival (Allison et al., 1998). In the absence of therapies that kill metastatic pancreatic cancer cells, which apparently arise from the inception of malignant transformation, the only hope for cures lies in the detection and eradication of the preinvasive state. It is, of course, currently impossible to develop a serologic test for PanIN in patients because of the conundrum of being unable to distinguish those that harbor the lesions from those who do not. The risks and difficulties of pancreatic needle biopsy preclude its routine use to establish a histologic diagnosis. We have shown here in an animal model of PanIN that a defining serum proteomic signature exists. Remarkably, this signature was detectable even in mice with very early-stage preinvasive lesions and low overall burden of disease. Further analyses of the key molecular ions identified in the mass spectra may reveal proteins that could form the basis of specific serologic assays. In principle, it may even be possible to use the proteomic patterns derived from this mouse model to identify similar patterns in patients with PanIN.
+
+Finally, we believe that this model of PanIN represents a suitable platform upon which to build more accurate models of invasive pancreatic adenocarcinoma. In addition to impeding the development of diagnostic tests as noted above, the inability to routinely sample pancreatic tissue has also hampered the elaboration of histologic and genetic progression models for human PDA. Thus, it has not been possible to directly chronicle the evolution of ductal pancreatic cancer with serial biopsies, as has been done with colorectal cancer, for example (Fearon and Vogelstein, 1990). A large body of evidence, accumulated over several decades from resected and autopsy specimens, has led to a very useful conceptual model of preinvasive disease involving progression through discrete stages. Though compelling, the model is per force circumstantial. The development, described here, of invasive and metastatic pancreatic ductal adenocarcinoma in older mice harboring PanINs demonstrates unequivocally that these lesions predispose to fully invasive disease. Moreover, the slow progression and low frequency of invasive ductal cancers in these animals would appear to mimic the development of such cancers in humans and presumably reflects the stepwise acquisition of additional mutations in the setting of an expanded pool of proliferating cells. The favorable kinetics of this natural progression should afford the opportunity to dissect the molecular events involved. On the other hand, we would anticipate that establishing endogenous KRASG12D expression in the background of conditionally deleted or mutated alleles of tumor suppressor genes known to be important in human pancreatic oncogenesis would hasten the development of invasive PDA. Indeed, using the LSL-KRASG12D mice described here, it has recently been shown that pancreatic expression of oncogenic KRAS in the context of INK4a/ARF deficiency results in PDA with very short latency and high penetrance (Aguirre et al., 2003). The relative contributions of each of the associated tumor suppressor gene mutations can be systematically evaluated in like manner.
+
+In summary, we have developed an accurate model of human PanIN in the mouse that faithfully recapitulates the cardinal features of this precursor state to invasive pancreatic cancer. The presence of PanINs can be detected accurately in the serum proteome of mutant mice. The fidelity of the model is affirmed by the spontaneous development of fully invasive and metastatic ductal adenocarcinomas. Thus, the model provides a unique platform to study mechanisms of disease pathogenesis, to develop detection and therapeutic strategies for preinvasive disease in high-risk patient populations, and to systematically evaluate multigenic models of invasive and metastatic pancreatic cancer.
+
+Experimental procedures
+Mouse strains
+The conditional LSL-KRASG12D mice (Jackson et al., 2001) and P48+/Cre mice (Kawaguchi et al., 2002) were previously described. PDX-1-Cre transgenic mice were generated by injecting fertilized FVB/N oocytes with the PDX-1-Cre transgene, and founder mice were identified that expressed Cre in a mosaic pattern in the pancreas, as assessed in the background of a r26 Cre reporter.
+
+KRASG12D allele recombination and Ras-GTP assays
+The recombined KRASG12D allele was identified by PCR as previously described (Jackson et al., 2001). Ras-GTP was precipitated with Raf-GST and detected by immunoblotting per the manufacturer's instructions (UBI). KrasG12D protein was detected by specific antiserum (Johnson et al., 2001).
+
+Histology and immunohistochemistry
+Paraffin embedded murine tissues were processed by standard methods. Details for immunohistochemistry are provided in the Supplemental Data at http://www.cancercell.org/cgi/content/full/4/6/437/DC1.
+
+Statistical analyses
+Statistical analyses were carried out using Splus version 6.0 and Stata 8.0. See the Supplemental Data for details.
+
+Serum proteomics
+Serum preparation, mass spectroscopy, and pattern recognition data analyses were performed as previously described (Petricoin et al., 2002b). Further details are supplied in the Supplemental Data.
+
+Supplementary data
+ 
+Supplementary data.  
+Help with PDF filesOptions
+Acknowledgements
+We acknowledge the assistance of Michael Ray in producing the Pdx-1 antibody; Dr. Q.C. Yu and the AFCRI histology core; and Dr. Deborah Silberg, Dr. Gary Swain, and the NIH/NIDDK Center for Molecular studies in Digestive and Liver Diseases (P30 DK050306) and its Morphology Core and Cell Culture facilities. We thank Dr. N. Volkan Adsy (Wayne State University) for performing Muc5 immunohistochemistry and Dr. Tetsuo Sudo for providing the anti-Hes1 antibody. Supported in part by NCI R25-CA87812 (S.R.H.); Johns Hopkins University Clinical Scientist Award (A.M.); NIDDK (C.V.E.W.); NCI-P50-CA-62924 (R.H.H.); and McCabe Foundation, Abramson Cancer Center of the University of Pennsylvania Pilot Projects Program, American Cancer Society IRG-78-002-26 and AACR-PanCAN Career Development Award (D.A.T.).
+
+References
+Adam et al. 2002
+B.L. Adam, Y. Qu, J.W. Davis, M.D. Ward, M.A. Clements, L.H. Cazares, O.J. Semmes, P.F. Schellhammer, Y. Yasui, Z. Feng, G.L. Wright Jr.
+Serum protein fingerprinting coupled with a pattern-matching algorithm distinguishes prostate cancer from benign prostate hyperplasia and healthy men
+Cancer Res., 62 (2002), pp. 3609–3614
+
+View Record in Scopus | Cited By in Scopus (747)
+Aguirre et al. 2003
+A.J. Aguirre, N. Bardeesy, M. Sinha, L. Lopez, D.A. Tuveson, J. Horner, M.S. Redston, R.A. DePinho
+Activated Kras and Ink4a/Arf deficiency cooperate to produce metastatic pancreatic ductal adenocarcinoma in the mouse
+Genes Dev., in press (2003)
+
+Allison et al. 1998
+D.C. Allison, S. Piantadosi, R.H. Hruban, W.C. Dooley, E.K. Fishman, C.J. Yeo, K.D. Lillemoe, H.A. Pitt, P. Lin, J.L. Cameron
+DNA content and other factors associated with ten-year survival after resection of pancreatic carcinoma
+J. Surg. Oncol., 67 (1998), pp. 151–159
+
+View Record in Scopus | Cited By in Scopus (88)
+Anderson et al. 2002
+K.E. Anderson, T.W. Johnson, D. Lazovich, A.R. Folsom
+Association between nonsteroidal anti-inflammatory drug use and the incidence of pancreatic cancer
+J. Natl. Cancer Inst., 94 (2002), pp. 1168–1171
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (106)
+Apelqvist et al. 1999
+A. Apelqvist, H. Li, L. Sommer, P. Beatus, D.J. Anderson, T. Honjo, M. Hrabe de Angelis, U. Lendahl, H. Edlund
+Notch signalling controls pancreatic cell differentiation
+Nature, 400 (1999), pp. 877–881
+
+View Record in Scopus | Cited By in Scopus (695)
+Artavanis-Tsakonas et al. 1999
+S. Artavanis-Tsakonas, M.D. Rand, R.J. Lake
+Notch signaling: Cell fate control and signal integration in development
+Science, 284 (1999), pp. 770–776
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3195)
+Brembeck et al. 2003
+F.H. Brembeck, F.S. Schreiber, T.B. Deramaudt, L. Craig, B. Rhoades, G. Swain, P. Grippo, D.A. Stoffers, D.G. Silberg, A.K. Rustgi
+The mutant K-ras oncogene causes pancreatic periductal lymphocytic infiltration and gastric mucous neck cell hyperplasia in transgenic mice
+Cancer Res., 63 (2003), pp. 2005–2009
+
+View Record in Scopus | Cited By in Scopus (87)
+Brinckerhoff and Matrisian 2002
+C.E. Brinckerhoff, L.M. Matrisian
+Matrix metalloproteinases: A tail of a frog that became a prince
+Nat. Rev. Mol. Cell Biol., 3 (2002), pp. 207–214
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (627)
+Coussens et al. 2002
+L.M. Coussens, B. Fingleton, L.M. Matrisian
+Matrix metalloproteinase inhibitors and cancer: trials and tribulations
+Science, 295 (2002), pp. 2387–2392
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1498)
+Crawford et al. 2002
+H.C. Crawford, C.R. Scoggins, M.K. Washington, L.M. Matrisian, S.D. Leach
+Matrix metalloproteinase-7 is expressed by pancreatic cancer precursors and regulates acinar-to-ductal metaplasia in exocrine pancreas
+J. Clin. Invest., 109 (2002), pp. 1437–1444
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (123)
+Cubilla and Fitzgerald 1975
+A.L. Cubilla, P.J. Fitzgerald
+Morphological patterns of primary nonendocrine human pancreas carcinoma
+Cancer Res., 35 (1975), pp. 2234–2248
+
+View Record in Scopus | Cited By in Scopus (73)
+Cubilla and Fitzgerald 1976
+A.L. Cubilla, P.J. Fitzgerald
+Morphological lesions associated with human primary invasive nonendocrine pancreas cancer
+Cancer Res., 36 (1976), pp. 2690–2698
+
+View Record in Scopus | Cited By in Scopus (193)
+Donehower et al. 1992
+L.A. Donehower, M. Harvey, B.L. Slagle, M.J. McArthur, C.A. Montgomery Jr., J.S. Butel, A. Bradley
+Mice deficient for p53 are developmentally normal but susceptible to spontaneous tumours
+Nature, 356 (1992), pp. 215–221
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2784)
+Fearon and Vogelstein 1990
+E.R. Fearon, B. Vogelstein
+A genetic model for colorectal tumorigenesis
+Cell, 61 (1990), pp. 759–767
+
+Article |  PDF (1115 K) | View Record in Scopus | Cited By in Scopus (5685)
+Fortini 2002
+M.E. Fortini
+Gamma-secretase-mediated proteolysis in cell-surface-receptor signalling
+Nat. Rev. Mol. Cell Biol., 3 (2002), pp. 673–684
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (257)
+Grippo et al. 2003
+P.J. Grippo, P.S. Nowlin, M.J. Demeure, D.S. Longnecker, E.P. Sandgren
+Preinvasive pancreatic neoplasia of ductal phenotype induced by acinar cell targeting of mutant Kras in transgenic mice
+Cancer Res., 63 (2003), pp. 2016–2019
+
+View Record in Scopus | Cited By in Scopus (94)
+Guerra et al. 2003
+C. Guerra, N. Mijimolle, A. Dhawahir, P. Dubus, M. Barradas, M. Serrano, V. Campuzano, M. Barbacid
+Tumor induction by an endogenous K-ras oncogene is highly dependent on cellular context
+Cancer Cell, 4 (2003), pp. 111–120
+
+Article |  PDF (3088 K) | View Record in Scopus | Cited By in Scopus (254)
+Hingorani and Tuveson 2003
+S.R. Hingorani, D.A. Tuveson
+In search of an early warning system for pancreatic cancer
+Cancer Biol. Ther., 2 (2003), pp. 84–86
+
+View Record in Scopus | Cited By in Scopus (5)
+Hruban et al. 2000a
+R.H. Hruban, M. Goggins, J. Parsons, S.E. Kern
+Progression model for pancreatic cancer
+Clin. Cancer Res., 6 (2000), pp. 2969–2972 a
+
+View Record in Scopus | Cited By in Scopus (392)
+Hruban et al. 2000b
+R.H. Hruban, R.E. Wilentz, S.E. Kern
+Genetic progression in the pancreatic ducts
+Am. J. Pathol., 156 (2000), pp. 1821–1825 b
+
+Article |  PDF (244 K) | View Record in Scopus | Cited By in Scopus (254)
+Jacks et al. 1994
+T. Jacks, L. Remington, B.O. Williams, E.M. Schmitt, S. Halachmi, R.T. Bronson, R.A. Weinberg
+Tumor spectrum analysis in p53-mutant mice
+Curr. Biol., 4 (1994), pp. 1–7
+
+Article |  PDF (1010 K) | View Record in Scopus | Cited By in Scopus (1220)
+Jackson et al. 2001
+E.L. Jackson, N. Willis, K. Mercer, R.T. Bronson, D. Crowley, R. Montoya, T. Jacks, D.A. Tuveson
+Analysis of lung tumor initiation and progression using conditional expression of oncogenic K-ras
+Genes Dev., 15 (2001), pp. 3243–3248
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (564)
+Jaffee et al. 2002
+E.M. Jaffee, R.H. Hruban, M. Canto, S.E. Kern
+Focus on pancreas cancer
+Cancer Cell, 2 (2002), pp. 25–28
+
+Article |  PDF (201 K) | View Record in Scopus | Cited By in Scopus (136)
+Jankowsky et al. 2001
+J.L. Jankowsky, H.H. Slunt, T. Ratovitski, N.A. Jenkins, N.G. Copeland, D.R. Borchelt
+Co-expression of multiple transgenes in mouse CNS: A comparison of strategies
+Biomol. Eng., 17 (2001), pp. 157–165
+
+Article |  PDF (823 K) | View Record in Scopus | Cited By in Scopus (231)
+Jemal et al. 2003
+A. Jemal, T. Murray, A. Samuels, A. Ghafoor, E. Ward, M.J. Thun
+Cancer statistics, 2003
+CA Cancer J. Clin., 53 (2003), pp. 5–26
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2922)
+Jensen et al. 2000
+J. Jensen, E.E. Pedersen, P. Galante, J. Hald, R.S. Heller, M. Ishibashi, R. Kageyama, F. Guillemot, P. Serup, O.D. Madsen
+Control of endodermal endocrine development by Hes-1
+Nat. Genet., 24 (2000), pp. 36–44
+
+View Record in Scopus | Cited By in Scopus (674)
+Johnson et al. 2001
+L. Johnson, K. Mercer, D. Greenbaum, R.T. Bronson, D. Crowley, D.A. Tuveson, T. Jacks
+Somatic activation of the K-ras oncogene causes early onset lung cancer in mice
+Nature, 410 (2001), pp. 1111–1116
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (538)
+Josien 2002
+H. Josien
+Recent advances in the development of gamma-secretase inhibitors
+Curr. Opin. Drug Discov. Dev., 5 (2002), pp. 513–525
+
+View Record in Scopus | Cited By in Scopus (46)
+Kawaguchi et al. 2002
+Y. Kawaguchi, B. Cooper, M. Gannon, M. Ray, R.J. MacDonald, C.V. Wright
+The role of the transcriptional regulator Ptf1a in converting intestinal to pancreatic progenitors
+Nat. Genet., 32 (2002), pp. 128–134
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (426)
+Kern et al. 2001
+S. Kern, R. Hruban, M.A. Hollingsworth, R. Brand, T.E. Adrian, E. Jaffee, M.A. Tempero
+A white paper: The product of a pancreas cancer think tank
+Cancer Res., 61 (2001), pp. 4923–4932
+
+View Record in Scopus | Cited By in Scopus (92)
+Kim and MacDonald 2002
+S.K. Kim, R.J. MacDonald
+Signaling and transcriptional control of pancreatic organogenesis
+Curr. Opin. Genet. Dev., 12 (2002), pp. 540–547
+
+Article |  PDF (170 K) | View Record in Scopus | Cited By in Scopus (152)
+Klimstra and Longnecker 1994
+D.S. Klimstra, D.S. Longnecker
+K-ras mutations in pancreatic ductal proliferative lesions
+Am. J. Pathol., 145 (1994), pp. 1547–1550
+
+View Record in Scopus | Cited By in Scopus (117)
+Krapp et al. 1998
+A. Krapp, M. Knofler, B. Ledermann, K. Burki, C. Berney, N. Zoerkler, O. Hagenbuchle, P.K. Wellauer
+The bHLH protein PTF1-p48 is essential for the formation of the exocrine and the correct spatial organization of the endocrine pancreas
+Genes Dev., 12 (1998), pp. 3752–3763
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (316)
+Land et al. 1983
+H. Land, L.F. Parada, R.A. Weinberg
+Tumorigenic conversion of primary embryo fibroblasts requires at least two cooperating oncogenes
+Nature, 304 (1983), pp. 596–602
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (730)
+Li et al. 2002
+J. Li, Z. Zhang, J. Rosenzweig, Y.Y. Wang, D.W. Chan
+Proteomics and bioinformatics approaches for identification of serum biomarkers to detect breast cancer
+Clin. Chem., 48 (2002), pp. 1296–1304
+
+View Record in Scopus | Cited By in Scopus (703)
+Liotta et al. 2003
+L.A. Liotta, M. Ferrari, E. Petricoin
+Clinical proteomics: Written in blood
+Nature, 425 (2003), p. 905
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (153)
+Lowenfels et al. 1993
+A.B. Lowenfels, P. Maisonneuve, G. Cavallini, R.W. Ammann, P.G. Lankisch, J.R. Andersen, E.P. Dimagno, A. Andren-Sandberg, L. Domellof
+Pancreatitis and the risk of pancreatic cancer. International Pancreatitis Study Group
+N. Engl. J. Med., 328 (1993), pp. 1433–1437
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (934)
+Maitra et al. 2002
+A. Maitra, R. Ashfaq, C.R. Gunn, A. Rahman, C.J. Yeo, T.A. Sohn, J.L. Cameron, R.H. Hruban, R.E. Wilentz
+Cyclooxygenase 2 expression in pancreatic adenocarcinoma and pancreatic intraepithelial neoplasia: an immunohistochemical analysis with automated cellular imaging
+Am. J. Clin. Pathol., 118 (2002), pp. 194–201
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (105)
+Miyamoto et al. 2003
+Y. Miyamoto, A. Maitra, B. Ghosh, U. Zechner, P. Argani, C.A. Iacobuzio-Donahue, V. Sriuranpong, T. Iso, I.M. Meszoely, M.S. Wolfe et al.
+Notch mediates TGF alpha-induced changes in epithelial differentiation during pancreatic tumorigenesis
+Cancer Cell, 3 (2003), pp. 565–576
+
+Article |  PDF (772 K) | View Record in Scopus | Cited By in Scopus (366)
+Offield et al. 1996
+M.F. Offield, T.L. Jetton, P.A. Labosky, M. Ray, R.W. Stein, M.A. Magnuson, B.L. Hogan, C.V. Wright
+PDX-1 is required for pancreatic outgrowth and differentiation of the rostral duodenum
+Development, 122 (1996), pp. 983–995
+
+View Record in Scopus | Cited By in Scopus (959)
+Petricoin et al. 2002a
+E.F. Petricoin 3rd, D.K. Ornstein, C.P. Paweletz, A. Ardekani, P.S. Hackett, B.A. Hitt, A. Velassco, C. Trucco, L. Wiegand, K. Wood et al.
+Serum proteomic patterns for detection of prostate cancer
+J. Natl. Cancer Inst., 94 (2002), pp. 1576–1578 a
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (556)
+Petricoin et al. 2002b
+E.F. Petricoin, A.M. Ardekani, B.A. Hitt, P.J. Levine, V.A. Fusaro, S.M. Steinberg, G.B. Mills, C. Simone, D.A. Fishman, E.C. Kohn, L.A. Liotta
+Use of proteomic patterns in serum to identify ovarian cancer
+Lancet, 359 (2002), pp. 572–577 b
+
+Article |  PDF (180 K) | View Record in Scopus | Cited By in Scopus (2286)
+Reya et al. 2001
+T. Reya, S.J. Morrison, M.F. Clarke, I.L. Weissman
+Stem cells, cancer, and cancer stem cells
+Nature, 414 (2001), pp. 105–111
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3814)
+Rosty and Goggins 2002
+C. Rosty, M. Goggins
+Early detection of pancreatic carcinoma
+Hematol. Oncol. Clin. North Am., 16 (2002), pp. 37–52
+
+Article |  PDF (172 K) | View Record in Scopus | Cited By in Scopus (81)
+Rudolph-Owen et al. 1998
+L.A. Rudolph-Owen, R. Chan, W.J. Muller, L.M. Matrisian
+The matrix metalloproteinase matrilysin influences early-stage mammary tumorigenesis
+Cancer Res., 58 (1998), pp. 5500–5506
+
+View Record in Scopus | Cited By in Scopus (125)
+Ruley 1983
+H.E. Ruley
+Adenovirus early region 1A enables viral and cellular transforming genes to transform primary cells in culture
+Nature, 304 (1983), pp. 602–606
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (245)
+Sandgren et al. 1990
+E.P. Sandgren, N.C. Luetteke, R.D. Palmiter, R.L. Brinster, D.C. Lee
+Overexpression of TGF alpha in transgenic mice: induction of epithelial hyperplasia, pancreatic metaplasia, and carcinoma of the breast
+Cell, 61 (1990), pp. 1121–1135
+
+Article |  PDF (9155 K) | View Record in Scopus | Cited By in Scopus (364)
+Serrano et al. 1996
+M. Serrano, H. Lee, L. Chin, C. Cordon-Cardo, D. Beach, R.A. DePinho
+Role of the INK4a locus in tumor suppression and cell mortality
+Cell, 85 (1996), pp. 27–37
+
+Article |  PDF (469 K) | View Record in Scopus | Cited By in Scopus (1111)
+Serrano et al. 1997
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2454)
+Shields et al. 2000
+J.M. Shields, K. Pruitt, A. McFall, A. Shaub, C.J. Der
+Understanding Ras: 'it ain't over 'til it's over'
+Trends Cell Biol., 10 (2000), pp. 147–154
+
+Article |  PDF (328 K) | View Record in Scopus | Cited By in Scopus (527)
+Sirard et al. 1998
+C. Sirard, J.L. de la Pompa, A. Elia, A. Itie, C. Mirtsos, A. Cheung, S. Hahn, A. Wakeham, L. Schwartz, S.E. Kern et al.
+The tumor suppressor gene Smad4/Dpc4 is required for gastrulation and later for anterior development of the mouse embryo
+Genes Dev., 12 (1998), pp. 107–119
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (319)
+Suzuki et al. 1997
+A. Suzuki, J.L. de la Pompa, R. Hakem, A. Elia, R. Yoshida, R. Mo, H. Nishina, T. Chuang, A. Wakeham, A. Itie et al.
+Brca2 is required for embryonic cellular proliferation in the mouse
+Genes Dev., 11 (1997), pp. 1242–1252
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (182)
+Tucker et al. 1999
+O.N. Tucker, A.J. Dannenberg, E.K. Yang, F. Zhang, L. Teng, J.M. Daly, R.A. Soslow, J.L. Masferrer, B.M. Woerner, A.T. Koki, T.J. Fahey 3rd.
+Cyclooxygenase-2 expression is up-regulated in human pancreatic cancer
+Cancer Res., 59 (1999), pp. 987–990
+
+View Record in Scopus | Cited By in Scopus (569)
+Urgell et al. 2000
+E. Urgell, P. Puig, J. Boadas, G. Capella, J.M. Queralto, R. Boluda, A. Antonijuan, A. Farre, F. Lluis, F. Gonzalez-Sastre, J. Mora
+Prospective evaluation of the contribution of K-ras mutational analysis and CA 19.9 measurement to cytological diagnosis in patients with clinical suspicion of pancreatic cancer
+Eur. J. Cancer, 36 (2000), pp. 2069–2075
+
+Article |  PDF (157 K) | View Record in Scopus | Cited By in Scopus (18)
+Wagner et al. 1998
+M. Wagner, H. Luhrs, G. Kloppel, G. Adler, R.M. Schmid
+Malignant transformation of duct-like cells originating from acini in transforming growth factor transgenic mice
+Gastroenterology, 115 (1998), pp. 1254–1262
+
+Article |  PDF (6914 K) | View Record in Scopus | Cited By in Scopus (126)
+Wagner et al. 2001
+M. Wagner, F.R. Greten, C.K. Weber, S. Koschnick, T. Mattfeldt, W. Deppert, H. Kern, G. Adler, R.M. Schmid
+A murine tumor progression model for pancreatic cancer recapitulating the genetic alterations of the human disease
+Genes Dev., 15 (2001), pp. 286–293
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (146)
+Warshaw and Fernandez-del Castillo 1992
+A.L. Warshaw, C. Fernandez-del Castillo
+Pancreatic carcinoma
+N. Engl. J. Med., 326 (1992), pp. 455–465
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1178)
+Wilson et al. 1997
+C.L. Wilson, K.J. Heppner, P.A. Labosky, B.L. Hogan, L.M. Matrisian
+Intestinal tumorigenesis is suppressed in mice lacking the metalloproteinase matrilysin
+Proc. Natl. Acad. Sci. USA, 94 (1997), pp. 1402–1407
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (469)
+Yeo et al. 2002a
+C.J. Yeo, J.L. Cameron, K.D. Lillemoe, T.A. Sohn, K.A. Campbell, P.K. Sauter, J. Coleman, R.A. Abrams, R.H. Hruban
+Pancreaticoduodenectomy with or without distal gastrectomy and extended retroperitoneal lymphadenectomy for periampullary adenocarcinoma, part 2: Randomized controlled trial evaluating survival, morbidity, and mortality
+Ann. Surg., 236 (2002), pp. 355–366 a
+
+Yeo et al. 2002b
+T.P. Yeo, R.H. Hruban, S.D. Leach, R.E. Wilentz, T.A. Sohn, S.E. Kern, C.A. Iacobuzio-Donahue, A. Maitra, M. Goggins, M.I. Canto et al.
+Pancreatic cancer
+Curr. Probl. Cancer, 26 (2002), pp. 176–275 b

@@ -1,0 +1,255 @@
+LATS2–Ajuba complex regulates γ-tubulin recruitment to centrosomes and spindle organization during mitosis
+Edited by Angel Nebreda
+Yoshinori Abea, 1, Miho Ohsugia, Keiko Haraguchia, Jiro Fujimotob, Tadashi Yamamotoa, Corresponding author contact information, E-mail the corresponding author
+  Show more
+DOI: 10.1016/j.febslet.2005.12.096
+Under an Elsevier user license
+  Open Archive
+Abstract
+LATS2 is a human homolog of Drosophila tumor suppressor lats/warts, and encodes a mitotic kinase whose physiological roles remain to be elucidated. We performed yeast two-hybrid screening and identified a LIM protein Ajuba, as a binding partner of LATS2. LATS2 was localized to the centrosomes throughout the cell cycle and was associated with Ajuba during mitosis, contributing to latter’s mitotic phosphorylation. Depletion of LATS2 or Ajuba impaired centrosomal accumulation of γ-tubulin and spindle formation at the onset of mitosis, suggesting that the LATS2–Ajuba complex regulates organization of the spindle apparatus through recruitment of γ-tubulin to the centrosome.
+
+Abbreviations
+CIAP, calf intestine alkaline phosphatase; GST, glutathione-S-transferase; MEF, mouse embryonic fibroblast; RNAi, RNA interference; siRNA, short interference RNA; γ-TuRC, γ-tubulin ring complex
+Keywords
+Mitosis; LATS2; Ajuba; Centrosome; Spindle organization
+1. Introduction
+Centrosomes and spindle microtubules control mitotic events such as alignment of chromosomes on the metaphase plate and chromosome segregation. At the beginning of mitosis, microtubules are nucleated at the centrosomes. Microtubule nucleation requires γ-tubulin, which is found as part of a large protein complex called γ-tubulin ring complex (γ-TuRC) [1]. However, microtubule nucleation and reorganization at the onset of mitosis are not fully understood.
+
+The warts/lats gene was originally isolated as a tumor suppressor in Drosophila by mosaic screening [2] and [3] and two mammalian homologs LATS1 [4] and LATS2 (also known as kpm) [5], have been identified. LATS1 interacts with a LIM protein, Zyxin, during mitosis and is localized to the mitotic apparatus [6]. With respect to LATS2, it has been reported that LATS2 induces G2/M arrest and subsequent apoptotic cell death [7] and [8]. Furthermore, transiently expressed exogenous LATS2 is localized to centrosomes [8] and [9] and LATS2−/− mouse embryonic fibroblasts (MEFs) show centrosome amplification and genomic instability [9]. However, the function of LATS2 at the mitotic centrosome remains to be elucidated.
+
+LIM domains comprise a unique double zinc-finger structure [10]. Recently, several LIM domain-containing proteins were found to be localized to the mitotic apparatus [6] and [11], suggesting that LIM proteins may regulate mitotic progression. Ajuba is identified as a cytosolic LIM protein that promotes meiotic maturation of Xenopus oocytes [12]. In mammalian cells, Ajuba is necessary for G2/M transition through activation of Aurora-A [13].
+
+In the present study, we identified Ajuba as a binding partner of LATS2. Both LATS2 and Ajuba were localized to centrosomes during mitosis, and LATS2 was involved in the mitotic phosphorylation of Ajuba. Depletion of LATS2 and Ajuba from HeLa cells by RNA interference (RNAi) disrupted accumulation of γ-tubulin at and spindle organization from the centrosome at the onset of mitosis. Our results strongly suggest that the LATS2–Ajuba complex regulates spindle organization through recruitment of γ-tubulin to centrosomes.
+
+2. Materials and methods
+2.1. Yeast two-hybrid screening
+Yeast strain PJ69-4A was used as a host for the two-hybrid screening [14]. A PJ69-4A strain carrying pGBT7-LATS2 (amino acids 376–624) was transformed with a HeLa cDNA library constructed in pGAD-GH (BD Clontech). Transformants were screened for growth on synthetic complete media lacking tryptophan, leucine, histidine, and adenine. Ade+ colonies were subjected to β-galactosidase assay. pGAD-GH plasmids were recovered from positive colonies and following the confirmation of its LacZ+ phenotype on PJ69-4A containing pGBT7-LATS2, nucleotide sequences of the insert cDNAs were determined.
+
+2.2. Cell culture and synchronization and transfection
+HeLa and HEK293T cells were cultured in Dulbecco’s modified eagle medium supplemented with 10% fetal bovine serum. For transfection, Lipofectamine Plus (Invitrogen) reagent and calcium-phosphate method was used for HeLa cells and HEK293T cells, respectively. For G2/M synchronization, 24 h after transfection cells were treated with 100 nM taxol for 24 h and then collected for immunoprecipitation. In some experiments, cells were synchronized by double thymidine blocks as described previously [15].
+
+2.3. Antibodies, immunoprecipitation and in vitro kinase assay
+Rabbit polyclonal anti-LATS2 and anti-Ajuba antibodies were raised against bacterially expressed glutathione-S-transferase (GST)-fusions of human LATS2 and Ajuba protein, respectively. GST-tagged LATS2-M (376–510), LATS2-C (825–1067), or Ajuba (15–115) immobilized on glutathione 4B beads (Amersham Bioscience) was used for affinity purification of antibodies ( Fig. S1). Anti-α-tubulin (Sigma), anti-γ-tubulin (Sigma), and anti-FLAG (M2) (Sigma) monoclonal antibodies and anti-ERK1 (Santa Cruz Biotechnology), anti-phospho-Aurora-A (Thr288) (Abcam) and anti-Aurora-A (NOVUS Biologicals) polyclonal antibodies were also used.
+
+Immunoprecipitation, immunoblotting and in vitro kinase assay were carried out as described previously [16].
+
+2.4. Indirect immunofluorescence and imaging
+To detect endogenous LATS2 or Ajuba, we used one of two fixation protocols. For visualizing endogenous LATS2 and endogenous Ajuba, unless otherwise noted, HeLa cells were treated with methanol at −20 °C for 30 min followed by 4% paraformaldehyde for 15 min at 37 °C. For visualizing endogenous LATS2 in Fig. 3C and D, HeLa cells were treated with microtubule stabilization buffer (100 mM PIPES, pH 6.8, 5 mM EGTA, 5 mM MgCl2) for 1 min, preextracted with 0.5% Triton X-100 for 2 min, and then incubated with methanol at −20 °C for 5 min. After fixation, cells were permeabilized in 0.5% Triton X-100 for 10 min followed by blocking with 1% bovine serum albumin containing 0.1 mg/ml RNaseA for 20 min. Cells were then incubated for 30 min with anti-LATS2-M, anti-LATS2-C (1:50), anti-Ajuba-N (1:100), anti-α-tubulin (1:800) or anti-γ-tubulin (1:500) as primary antibody. Cells were then washed and incubated for 30 min with TOTO-3 (Molecular Probes) or Hoechst 33342 (Molecular Probes) for DNA stain and Cy3-conjugated (KPN) or anti-rabbit or Alexa-488 conjugated (Molecular Probes) anti-mouse secondary antibody. Cells were visualized by confocal laser scanning microscopy (Radiance 2000, Bio-Rad Laboratories) or fluorescence microscopy (Biozero, Keyence) and processed with Adobe Photoshop software version 7 (Adobe Systems).
+
+2.5. RNAi
+RNAi was carried out with short interference RNA (siRNA) as described [17]. The cDNAs sequences of LATS2 and Ajuba targeted for siRNAs were AAAGCAGATTCAGACCTCTCC and AACCAAGTATACTGTGTCACC, respectively. Control siRNAs were derived from Euglena gracilis chloroplast genome DNA.
+
+3. Results
+3.1. Identification of Ajuba as a LATS2-interacting protein
+To identify cellular proteins that interact with LATS2, yeast two-hybrid screening was performed using a LATS2 sequence (amino acids 376–624) as a bait (Fig. 1A). Screening of 1 × 107 transformants yielded 57 positive clones, including clones that encoded a protein fragment derived from Ajuba (Fig. 1B). To examine whether Ajuba associates with LATS2 in mammalian cells, endogenous Ajuba was immunoprecipitated from either S phase or mitotic HeLa cell lysates and analyzed by SDS–PAGE followed by immunoblotting with anti-LATS2-M antibody. Endogenous LATS2 was co-immunoprecipitated with Ajuba predominantly from mitotic lysates, suggesting that interaction between LATS2 and Ajuba is prominent during mitosis (Fig. 1C). We also examined the regions required for interaction between LATS2 and Ajuba. The association between LATS2 and Ajuba required two regions within the N-terminal half of LATS2 (amino acids 376–392 and 629–644) and the second LIM domain of Ajuba (Fig. 1D–F).
+
+Full-size image (81 K)
+Fig. 1. 
+Interaction between LATS2 and Ajuba and binding regions within LATS2 and Ajuba for their interaction. (A) Schematic structures of LATS2 deletion mutants used in (D). (B) Schematic structures of partial Ajuba fragments used in (E) and (F). In (A) and (B), the bold bar below the schematic of LATS2 Full indicates the region used as bait, and the bold bar below schematic of Ajuba Full indicates the partial clone of Ajuba that was isolated by two-hybrid screening. (C) Cell cycle was synchronized by double thymidine block. Interphase (I: lanes 1 and 3) and mitotic (M: lanes 2 and 4) HeLa cell lysates were subjected to immunoprecipitation with control rabbit IgG (lanes 1 and 2) or anti-Ajuba antibody (lanes 3 and 4) and LATS2 and Ajuba proteins were detected by immunoblotting. (D) Expression vectors for FLAG-tagged LATS2 proteins and Ajuba (without tag) were transfected into HEK293T cells. After 48 h, cells were harvested, and subjected to immunoprecipitation with anti-FLAG antibody. Bound proteins were analyzed by immunoblotting with anti-Ajuba-N antibody. (E) Expression vectors for FLAG-tagged Ajuba proteins and LATS2 (without tag) were transfected into HEK293T cells. After 48 h, cells were harvested, and subjected to immunoprecipitation with anti-LATS2-M antibody followed by immunoblotting with anti-FLAG antibody. (F) GST–Ajuba proteins purified from bacteria were incubated with HEK293T cell lysates expressing FLAG–LATS2 and then precipitated with glutathione–Sepharose 4B beads. The bound proteins were analyzed by immunoblotting with anti-FLAG antibody.
+Figure options
+3.2. LATS2 contributes to phosphorylation of Ajuba in mitosis
+Western blot analysis of synchronized HeLa cell lysates revealed that the electrophoretic mobility shift of Ajuba was detected in correlation with entry into mitosis. The slow-migrating form of Ajuba appeared in cells at 9 h after release from double thymidine block, when considerable numbers of cells were in mitosis as monitored by levels of Cyclin B (Fig. 2A). The slow-migrating form of Ajuba was also detected in the lysate of HeLa cells arrested at mitosis by taxol treatment (Fig. 2B, lane 2). The slow-migrating form of Ajuba was converted to the fast-migrating form after incubation with calf intestine alkaline phosphatase (CIAP; Fig. 2B, lane 3). These results indicate that Ajuba is phosphorylated specifically during mitosis. The mitosis-specific interaction between LATS2 and Ajuba raised the possibility that LATS2 is involved in phosphorylation of Ajuba during mitosis. To investigate this hypothesis, we expressed FLAG-tagged wild-type or kinase-inactive LATS2 (LATS2–K695R) with Ajuba in HEK293T cells. Forty-eight hours after transfection, LATS2–FLAG was immunoprecipitated from cell lysate of either asynchronous or taxol-treated cells. The slow-migrating form of Ajuba was detected when Ajuba was co-expressed with wild-type LATS2 in mitosis-arrested cell (Fig. 2C, lane 2). The slow-migrating form of Ajuba was barely detectable when the cells were not synchronized (Fig. 2C, lane 1), or LATS2-K695R was co-expressed (Fig. 2C, lanes 3 and 4). We obtained the same results when cells were arrested with nocodazole (data not shown). Furthermore, to examine whether LATS2 can directly phosphorylate Ajuba, we performed immunoprecipitation of LATS2–Ajuba complex followed by in vitro kinase assay. Phosphorylated Ajuba was readily detected when Ajuba was co-immunoprecipitated with wild-type LATS2 from mitotic-arrested cells, while LATS2–K695R showed a very low, if any, phosphorylation activity on Ajuba (Fig. 2D). These results strongly suggest that LATS2 contributes to phosphorylation of Ajuba during mitosis.
+
+Full-size image (51 K)
+Fig. 2. 
+LATS2 contributions to phosphorylation of Ajuba. (A) HeLa cells were synchronized at the beginning of S phase by double thymidine block and then harvested every 3 h after release from the block. Each sample was subjected to immunoblotting. Arrowhead denotes slow-migrating band of Ajuba. (B) HeLa cells were arrested at mitosis by addition of taxol (lanes 2–4). Twenty-four hours after addition of 100 nM taxol, cells were harvested and the following drugs were added to the cell lysates: 5U CIAP (lanes 3 and 4), CIAP and 0.1 mM orthovanadate (lane 4). Each sample was subjected to immunoblotting. (C) FLAG–LATS2 and Ajuba expression vectors were transfected into HEK293T cells. Twenty-four hours after transfection, 100 nM taxol was added (lanes 2 and 4). FLAG-tagged LATS2 immunoprecipitates were analyzed by immunoblotting. Phosphorylated Ajuba (p-Ajuba) was detected as an up-shifted band (upper panel). (D) FLAG–LATS2 and Ajuba expression vectors were transfected into HEK293T cells. Twenty-four hours after transfection, 100 nM taxol was added. LATS2–Ajuba complex is immunoprecipitated with anti-FLAG antibody. Then immunocomplex was subjected to an in vitro kinase assay. Phosphorylated Ajuba was detected by autoradiography. The amount of LATS2 and Ajuba were detected by immunoblotting.
+Figure options
+3.3. LATS2 is localized to centrosomes
+To determine the subcellular localization of endogenous LATS2, we performed immunofluorescent staining of HeLa cells. Immunofluorescent staining with anti-LATS2-M revealed that LATS2 was distributed diffusely throughout the cytoplasm (Fig. 3A and B). With careful observation, a weak signal was also visible at the centrosomes (Fig. 3B, arrowheads). To confirm the centrosomal localization of LATS2, cells were subjected to a detergent-preextraction protocol that washes out the cytoplasmic proteins prior to fixation. After detergent-preextraction, LATS2 signals were clearly visible at the centrosomes throughout the cell cycle and the signals were increased during prophase to metaphase (Fig. 3C), while control IgG did not give rise to a signal at the centrosome (Fig. 3D). Subcellular localization of LATS2 was confirmed by immunostaining with another anti-LATS2 antibody, anti-LATS2-C (data not shown).
+
+Full-size image (87 K)
+Fig. 3. 
+Subcellular localization of LATS2 through the cell cycle. Endogenous LATS2 (red) was detected with anti-LATS2-M antibody and centrosomes (green) were visualized with anti-γ-tubulin antibody. DNA (blue) was stained with TOTO-3 (C) or Hoechst 33342 (D). (C) Instead of anti-LATS2 antibody, rabbit IgG was used as a control. A representative interphase cell is shown in (A) and (C), and a mitotic cell is shown in (B), (C) and (D). Bars, 10 μm.
+Figure options
+3.4. Silencing of LATS2 and Ajuba results in failure of centrosome maturation and spindle microtubule organization
+To investigate the physiological role of LATS2 and Ajuba, we disrupted production of endogenous LATS2 or Ajuba by RNAi using synthetic siRNA. Specifically to address their roles in mitosis, thymidine was added to the culture medium 4 h after the transfection of siRNA for LATS2 or Ajuba. Then, after 24 h of thymidine treatment, cells were released from the S phase block to resume the cell cycle. In the first mitosis after release from S phase block, expression of LATS2 and Ajuba were remarkably reduced in response to the respective siRNAs (Fig. 4A and B).
+
+Full-size image (125 K)
+Fig. 4. 
+Disorganization of spindle microtubules induced by LATS2 or Ajuba RNAi. (A,B) LATS2 or Ajuba siRNA was transfected into HeLa cells. Four hours after transfection, 2.5 mM thymidine was added and incubated for 24 h to arrest cell cycle at S phase. Ten hours after release from S phase block, cells were harvested, and LATS2 or Ajuba were detected by immunoblotting. (C,D) LATS2 or Ajuba (red) was stained with anti-LATS2-M antibody or anti-Ajuba-N antibody. Microtubules (green) were stained with anti-α-tubulin antibody and DNA (blue) was stained with TOTO-3. Bars, 10 μm. (E) Fifty LATS2 or Ajuba-depleted metaphase cells were observed and scored in each three experiments. The percentage of cells showing the indicated aberrant spindle organization is presented. Error bars represent the standard deviation.
+Figure options
+We observed a common defect in LATS2-depleted mitotic cells and in Ajuba-depleted mitotic cells. In approximately 40% of LATS2- or Ajuba-depleted metaphase cells, anti-α-tubulin antibody staining showed weak signals for spindle microtubules compared to the microtubule networks in adjacent interphase cells or spindle microtubules in control cells (Fig. 4C–E). We also observed that in some LATS2- or Ajuba-depleted cells, two asters were only faintly formed during prometaphase (data not shown). These results suggest immature spindle formation in LATS2- or Ajuba-depleted cells and that LATS2 and Ajuba may contribute to spindle formation early in mitosis.
+
+Because γ-TuRC provides the nucleation sites for spindle microtubules [1], we also examined γ-tubulin localization in LATS2- and Ajuba-depleted cells. Approximately 40% of LATS2- or Ajuba-depleted prometaphase and metaphase cells exhibited reduction of γ-tubulin signal from the centrosomes early in mitosis (Fig. 5). On the other hand, we never observed the abnormal localization or reduction of centriolar protein centrin (data not shown). From these results, we propose that LATS2 and Ajuba act together to regulate spindle microtubule organization at the centrosomes by recruiting γ-tubulin to the centrosomes at the onset of mitosis.
+
+Full-size image (75 K)
+Fig. 5. 
+Loss of γ-tubulin accumulation at centrosomes in LATS2 or Ajuba-depleted cells. LATS2 (A) or Ajuba (B) (red) was stained with anti-LATS2-M or anti-Ajuba-N antibody. γ-tubulin (green) was stained with monoclonal anti-γ-tubulin antibody and DNA (blue) was stained with TOTO-3. (C) The percentage of cells showing the indicated reduction of γ-tubulin staining at the centrosome is presented. Fifty LATS2 or Ajuba-depleted metaphase cells were observed and scored in each three experiments. The percentage of cells showing the indicated reduction of γ-tubulin staining at the centrosome is presented. Error bars represent the standard deviation.
+Figure options
+4. Discussion
+At the onset of mitosis, LATS2 is activated by phosphorylation and plays important roles in G2/M transition in cultured cells [7] and [8]. However, how LATS2 contributes to mitotic progression has been unclear. To address the molecular mechanisms by which LATS2 is involved in G2/M transition, we performed yeast two-hybrid screening and identified Ajuba, as a LATS2-interacting protein. We demonstrated that endogenous LATS2 and Ajuba were localized to centrosomes and associated with each other specifically during mitosis, suggesting LATS2–Ajuba complex formation at mitotic centrosomes.
+
+We also showed that co-expression of Ajuba and wild-type LATS2 yielded phosphorylated Ajuba only when cells were arrested at prometaphase. Our data that immunopurecipitated wild-type LATS2 but not LATS2–K695R phosphorylates Ajuba strongly suggest the direct phosphorylation of Ajuba by LATS2 during mitosis. However we cannot rule out the contribution of a kinase other than LATS2. It may be worthy to note that a very low level of phosphorylated Ajuba was detected in LATS2–K695R and Ajuba expressing cells (Fig. 2D) or in LATS2-depleted mitotic cells (data not shown). As shown in Fig. 2C, LATS2–K695R interacts with Ajuba irrelevantly to the cell cycle, or rather strongly at the interphase. In contrast, the interaction between wild-type LATS2 and Ajuba shows cell cycle dependency with a maximum association during mitosis. Therefore, LATS2 kinase activity may positively regulate the interaction between LATS2 and Ajuba. Furthermore, because it was reported that Ajuba binds to and activates Aurora-A kinase at the onset of mitosis [13], we also tested the effect of LATS2 depletion on Aurora-A kinase activity. We found no obvious effect of LATS2-depletion on the Aurora-A kinase activity when monitored by phosphorylation state of Thr288 on Aurora-A [18] (Fig. S2), suggesting that LATS2 may be a downstream of Aurora-A as mentioned in a previous report [8]. The data also suggest that LATS2-mediated phosphorylation of Ajuba does not affect Ajuba-dependent activation of Aurora-A kinase.
+
+γ-Tubulin is believed to be important for spindle microtubule organization from the centrosome. The amount of γ-tubulin associated with centrosomes increases 3–5-fold during prophase and then decreases to the interphase level as the cell exits M phase [19], which is consistent with the increase in the size of centrosomal aster [20]. However, in LATS2 and Ajuba-depleted cells, centrosomal recruitment of γ-tubulin was disrupted and relatively small numbers of spindle microtubules were nucleated from the centrosomes (Fig. 4 and Fig. 5). Earlier studies revealed that several mitotic kinases contribute to γ-tubulin recruitment to the centrosomes and spindle organization [21], [22] and [23]. Our finding of decreased level of γ-tubulin at centrosomes in LATS2 knockdown cells contradicts those of previous data with MEF derived from LATS2 knockout mouse [9]. In LATS2−/− MEFs, amplification of centrosomes and normal level of γ-tubulin were detected. The contradiction may be due to the difference between primary cultured cells and carcinoma derived cell line. In addition, the following points need to be considered: we performed RNAi of LATS2 in combination with cell cycle synchronization, and we observed the effect of LATS2 depletion only in G2/M phase. In LATS2−/− MEFs, progression of the G1 and S phases without LATS2 might cause distinct phenotypes. Furthermore, it has been reported that FAK knockdown HeLa cells and FAK−/− MEFs exhibited several different phenotypes, because of the ectopic induction of Pyk2 gene expression in FAK−/− MEFs [24] and [25]. By analogy, in LATS2−/− MEFs, the expression of another kinase with redundant function with LATS2 might have been induced to recover the γ-tubulin recruitment to the centrosomes.
+
+Our present findings indicate that there is a novel pathway in which LATS2 modulates centrosome maturation: namely LATS2, by interacting with Ajuba, appears to promote the γ-tubulin accumulation and the following spindle organization. It will be interesting to investigate how LATS2 and these other proteins coordinately regulate centrosome maturation.
+
+Acknowledgments
+We thank T. Akiyama for PJ69-4A strain, J. Gohda for help in yeast two-hybrid screening, J. Inoue for help in confocal laser scanning microscopy observation, and T. Tezuka and S. Kawa for helpful discussions. M. Ohsugi was supported by grants-in-aid from the Japan Society for the Promotion of Science and from the Ministry of Education, Cultures, Sports, Science and technology, Japan. T. Yamamoto was supported by a Grant for Advanced Cancer Research from the Ministry of Education Science, Sports, and Culture of Japan.
+
+Appendix A. Supplementary data
+
+Full-size image (36 K)
+Figure S1. 
+Specificities of anti-LATS2 and anti-Ajuba antibodies. Immunoblots of lysate from HeLa cells (lane a) and 293T cells expressing LATS2 (A and B; lane b) or Ajuba (C; lane b) using Anti-LATS2-M (A), Anti-LATS2-C (B), and anti-Ajuba-N (C) antibodies.
+Figure options
+Full-size image (22 K)
+Figure S2. 
+Aurora-A activity in LATS2 silencing cells. LATS2 or Ajuba siRNA was transfected into HeLa cells followed by synchronization at S phase by thymidine treatment. Ten hours after the release from S phase block, when cells were enriched at G2-M phase, cells were harvested, and subjected to immunoblotting. Activation of Aurora-A was detected by anti phospho-Aurora-A (Thr288) antibody.
+Figure options
+References
+[1]
+T. Stearns, M. Kirschner
+In vitro reconstitution of centrosome assembly and function: the central role of gamma-tubulin
+Cell, 76 (1994), pp. 623–637
+
+Article |  PDF (10751 K) | View Record in Scopus | Citing articles (311)
+[2]
+T. Xu, W. Wang, S. Zhang, R.A. Stewart, W. Yu
+Identifying tumor suppressors in genetic mosaics: the Drosophila lats gene encodes a putative protein kinase
+Development, 121 (1995), pp. 1053–1063
+
+View Record in Scopus | Citing articles (318)
+[3]
+R.W. Justice, O. Zilian, D.F. Woods, M. Noll, P.J. Bryant
+The Drosophila tumor suppressor gene warts encodes a homolog of human myotonic dystrophy kinase and is required for the control of cell shape and proliferation
+Genes Dev., 9 (1995), pp. 534–546
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (326)
+[4]
+X. Yang, D. Li, T. Xu
+Human homologue of Drosophila lats, LATS1, negatively regulate growth by inducing G2/M arrest or apoptosis
+Oncogene, 20 (2001), pp. 6516–6523
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (67)
+[5]
+T. Hori, A. Takaori-Kondo, Y. Kamikubo, T. Uchiyama
+Molecular cloning of a novel human protein kinase, kpm, that is homologous to warts/lats, a Drosophila tumor suppressor
+Oncogene, 19 (2000), pp. 3101–3109
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+[6]
+T. Hirota, T. Morisaki, Y. Nishiyama, T. Marumoto, K. Tada, T. Hara, N. Masuko, M. Inagaki, K. Hatakeyama, H. Saya
+Zyxin, a regulator of actin filament assembly, targets the mitotic apparatus by interacting with h-warts/LATS1 tumor suppressor
+J. Cell Biol., 149 (2000), pp. 1073–1086
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (131)
+[7]
+Y. Kamikubo, A. Takaori-Kondo, T. Uchiyama, T. Hori
+Inhibition of cell growth by conditional expression of kpm, a human homologue of Drosophila warts/lats tumor suppressor
+J. Biol Chem., 278 (2003), pp. 17609–17614
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (47)
+[8]
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+[9]
+J.P. McPherson, L. Tamblyn, A. Elia, E. Migon, A. Shehabeldin, E. Matysiak-Zablocki, B. Lemmers, L. Salmena, A. Hakem, J. Fish, F. Kassam, J. Squire, B.G. Bruneau, M.P. Hande, R. Hakem
+Lats2/Kpm is required for embryonic development, proliferation control and genomic integrity
+EMBO J., 23 (2004), pp. 3677–3688
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+[10]
+I.B. Dawid, J.J. Breen, R. Toyama
+LIM domains: multiple roles as adapters and functional modifiers in protein interactions
+Trends Genet., 14 (1998), pp. 156–162
+
+Article |  PDF (232 K) | View Record in Scopus | Citing articles (438)
+[11]
+L. Herreros, J.L. Rodriguez-Fernandez, M.C. Brown, J.L. Alonso-Lebrero, C. Cabanas, F. Sanchez-Madrid, N. Longo, C.E. Turner, P. Sanchez-Mateos
+Paxillin localizes to the lymphocyte microtubule organizing center and associates with the microtubule cytoskeleton
+J. Biol. Chem., 275 (2000), pp. 26436–26440
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+[12]
+R.K. Goyal, P. Lin, J. Kanungo, A.S. Payne, A.J. Muslin, G.D. Longmore
+Ajuba, a novel LIM protein, interacts with Grb2, augments mitogen-activated protein kinase activity in fibroblasts, and promotes meiotic maturation of Xenopus oocytes in a Grb2- and Ras-dependent manner
+Mol. Cell Biol., 6 (1999), pp. 4379–4389
+
+View Record in Scopus | Citing articles (52)
+[13]
+T. Hirota, N. Kunitoku, T. Sasayama, T. Marumoto, D. Zhang, M. Nitta, K. Hatakeyama, H. Saya
+Aurora-A and interacting activator, the LIM protein Ajuba, are required for mitotic commitment in human cells
+Cell, 114 (2003), pp. 585–598
+
+Article |  PDF (842 K) | View Record in Scopus | Citing articles (360)
+[14]
+P. James, J. Halladay, E.A. Craig
+Genomic libraries and a host strain designed for highly efficient two-hybrid selection in yeast
+Genetics, 144 (1996), pp. 1425–1436
+
+View Record in Scopus | Citing articles (1692)
+[15]
+P.N. Rao, R.T. Johnson
+Mammalian cell fusion: studies on the regulation of DNA synthesis and mitosis
+Nature, 225 (1970), pp. 159–164
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (233)
+[16]
+M. Ohsugi, N. Tokai-Nishizumi, K. Shiroguchi, Y. Toyoshima, J. Inoue, T. Yamamoto
+Cdc2-mediated phosphorylation of Kid controls its distribution to spindle and chromosomes
+EMBO J., 22 (2003), pp. 2091–2103
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+[17]
+S.M. Elbashir, J. Harborth, W. Lendeckel, A. Yalcin, K. Weber, T. Tuschl
+Duplex of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells
+Nature, 411 (2001), pp. 494–498
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6066)
+[18]
+A.O. Walter, W. Seghezzi, W. Korver, J. Sheung, E. Lees
+The mitotic serine/threonine kinase Aurora2/AIK is regulated by phosphorylation and degradation
+Oncogene, 19 (2000), pp. 4906–4916
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (147)
+[19]
+A. Khodjakov, C.L. Rieder
+The sudden recruitment of γ-tubulin to the centrosome at the onset of mitosis and its dynamic exchange throughout the cell cycle, do not require microtubules
+J. Cell Biol., 146 (1999), pp. 585–596
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (219)
+[20]
+R.E. Palazzo, J.M. Vogel, B.J. Schnackenberg, D.R. Hull, X. Wu
+Centrosome maturation
+Curr. Top. Dev. Biol., 49 (2000), pp. 449–470
+
+[21]
+E. Hannak, M. Kirkham, A.A. Hyman, K. Oegema
+Aurora-A kinase is required for centrosome maturation in Caenorhabditis elegans
+J. Cell Biol., 155 (2001), pp. 1109–1116
+
+Full Text via CrossRef
+[22]
+D. Berdnik, J.A. Knoblich
+Drosophila Aurora-A is required for centrosome maturation and actin-dependent asymmetric protein localization during mitosis
+Curr. Biol., 12 (2002), pp. 640–647
+
+Article |  PDF (1025 K) | View Record in Scopus | Citing articles (159)
+[23]
+M. Casenghi, P. Meraldi, U. Weinhart, P.I. Duncan, R. Korner, E.A. Nigg
+Polo-like kinase 1 regulates Nlp, a centrosome protein involved in microtubule nucleation
+Dev. Cell., 5 (2003), pp. 113–125
+
+Article |  PDF (603 K) | View Record in Scopus | Citing articles (121)
+[24]
+H. Yano, Y. Mazaki, K. Kurokawa, S.K. Hanks, M. Matsuda, H. Sabe
+Roles played by a subset of integrin signaling molecules in cadherin-based cell–cell adhesion
+J. Cell Biol., 166 (2004), pp. 283–295
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (149)
+[25]
+D.J. Sieg, D. Ilic, K.C. Jones, C.H. Damsky, T. Hunter, D.D. Schlaepfer
+Pyk2 and Src-family protein-tyrosine kinases compensate for the loss of FAK in fibronectin-stimulated signaling events but Pyk2 does not fully function to enhance FAK− cell migration
+EMBO J., 17 (1998), pp. 5933–5947
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (250)
+Corresponding author contact information
+Corresponding author.
+1
+Present address: Division of Molecular Oncology, Institute of Gerontology, Nippon Medical School, 1-396, Kosugi-cho, Nakahara-ku, Kawasaki, Kanagawa 211-8533, Japan.
+Copyright © 2006 Published by Elsevier B.V.

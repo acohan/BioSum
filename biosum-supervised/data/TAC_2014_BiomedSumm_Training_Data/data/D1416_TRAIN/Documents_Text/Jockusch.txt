@@ -1,0 +1,502 @@
+Tracking down the different forms of nuclear actin
+Brigitte M. Jockusch1, E-mail the corresponding author, Cora-Ann Schoenenberger2, Jörg Stetefeld2, Ueli Aebi2
+ Show more
+DOI: 10.1016/j.tcb.2006.06.006
+Get rights and content
+Actin is a rather uncommitted protein with a high degree of structural plasticity: it can adopt a variety of structural states, depending on the specific ionic conditions or the interaction with ligand proteins. These interactions lock actin into a distinct conformation, which specifies the oligomeric or polymeric form it can assume. The interplay between monomeric, oligomeric and polymeric forms is used by the cell to execute an enormous variety of motility processes, such as lamellipodium formation during locomotion or intracellular transport of vesicles. In these cytoplasmic events, monomeric G-actin and filamentous F-actin are the prevalent forms. However, there might be other structural states of actin in cells that have so far not received the attention they deserve. Here, we propose that specific, ‘unconventional’ actin conformations might contribute especially to the multitude of functions executed by actin in the nucleus. We present evidence for the existence of different forms of nuclear actin, taken from studies with selected antibodies.
+
+Nuclear actin – facts and fancy
+Actin, a small (43 kDa), compactly folded protein, is a major, essential constituent of eukaryotic cells. Since its original discovery in muscle, scientists have accumulated a wealth of data on its properties. Protein biochemistry and later biophysics, molecular biology and electron microscopy revealed that the actin polypeptide binds nucleotides and can form polymers, for example the double stranded, polar F-actin filaments [1] that make up approximately half of the total cellular actin. F-actin filaments, which form readily from ATP-charged actin monomers (ATP–G-actin) in physiological buffers, are highly dynamic and in equilibrium with a nonpolymeric actin pool in the cell.
+
+Monomeric and filamentous actin can interact with an extensive catalog of proteins, and this property is used for the constant formation of new arrangements in different regions of the cell [2]. Historically, the catalog of actin-binding proteins has been divided into different groups according to their effect on actin. Proteins that bind to G-actin, such as profilins and thymosins, facilitate the nucleation and formation of F-actin filaments; capping proteins, gelsolin and cofilin cover either the fast or the slow growing end of F-actin filaments and regulate their length by restricting filament growth or by fragmentation, respectively; actin-related proteins (ARPs) are implicated in branching and thus network formation; and α-actinins and filamins organize the F-actin filaments into various kinds of crosslinked bundles [3].
+
+Although actin was described as a protein confined to the cytoplasm, there have been numerous reports of actin in the nucleus (Table 1), many of which were previously either discounted as artefactual or at least confronted with skepticism. Cytoplasmic F-actin can be identified by its binding with high affinity and specificity to the toxin phalloidin. However, the filamentous structures seen in the nucleus usually lacked phalloidin staining and were thus considered not to represent the conventional F-actin filaments that were so abundantly seen in the cytoplasm. Furthermore, doubters stressed the possibility of cytoplasmic contamination of nuclear fractions with such an abundant protein or questioned the validity of the methods applied to reveal nuclear actin in situ. Nuclear actin had been visualized previously in cells that were manipulated, for example subjected to stress, such as toxins or heat, transfected with constructs coding for exogenous actin labeled with various tags, or fixed and extracted to render them amenable to antibody labeling in immunofluorescence or immuno-electron microscopy.
+
+Table 1.
+Functional activities ascribed to nuclear actin by selected reports
+Proposed function	Cells	Refs
+Protection of the nucleus against various kinds of stress (exposure to heat shock, toxins or membrane-active compounds)	Xenopus oocytes	[43]
+Dictyostelium	44 and 45
+HeLa cells	[45]
+Fibroblasts	[48]
+Epithelial cells	46, 47, 48 and 49
+Assembly and maintenance of the nuclear envelope	Slime mold Physarum	[50]
+Human carcinoma cells	[22]
+Drosophila	[24]
+Nematodes	[24]
+Mouse myotubes	[23]
+Xenopus oocytes	32 and 51
+Nucleocytoplasmic transport	Rat liver	[52]
+Xenopus oocytes	[33]
+Chromatin remodeling	Rat oocytes	[53]
+Lymphocytes	[25]
+Drosophila	[54]
+Yeast	[55]
+HeLa cells	[56]
+Fibroblasts	[56]
+Activity of RNA polymerase I, II or III	Slime mold Physarum	[57]
+HeLa cells	[58]
+Salamander oocytes	[59]
+Chironomus	[60]
+HeLa cells	26, 61, 62, 63, 64, 65 and 66
+Structure and stability of the nucleus	Xenopus oocytes	20, 28, 30 and 35
+Bovine lymphocytes	[67]
+Rana oocytes	[68]
+Table options
+The identification of actin in the nucleus after subjecting cells to stress or crude fixation can certainly not be taken as unequivocal evidence for its presence there before treatment. Today, however, the existence of nuclear actin seems to be firmly established 4, 5, 6, 7, 8, 9 and 10. This is mostly the result of the recent refinement of the methods used, for example confocal and video microscopy, but there is also now a willingness to accept older reports on nuclear actin that were previously dismissed. It is only recently that we have learned that numerous proteins can occur in more than one cellular compartment (‘multiple compartment proteins’) and are engaged in quite different, compartment-related activities (‘moonlighting proteins’). Hence, actin in the nucleus does not seem to be such an exceptional case as was thought previously.
+
+“Actin can assume a variety of oligomeric or polymeric forms”
+
+The cellular processes that have been connected with nuclear actin include mechanical support of a nuclear matrix, stabilization of the nuclear lamina, chromatin remodeling, complex formation with hnRNP particles, and activity of all three types of RNA polymerase 7 and 8 (Table 1), but how and in what form actin participates in these events is largely unknown. Structural studies focusing on the properties of the actin molecule itself demonstrated that it is a highly polymorphic protein, in the sense that it can adopt different states depending on the ionic conditions. At least in vitro, actin can assume a variety of oligomeric or polymeric forms, including filaments clearly distinct from the conventional, phalloidin-binding F-actin filaments [11] and 2D crystalline arrays that can form double-layered sheets or wrap into tubes [12]. These studies, although of interest to structural biology, had little impact on our view on the putative role of actin in cells [13]. Here, however, we would like to propose that the variety of functions of actin in the nucleus could be rooted in the plasticity of the actin molecule and the formation of ‘unconventional’ conformations, and we present some evidence for this hypothesis.
+
+“The variety of functions of actin in the nucleus could be rooted in the plasticity of the actin molecule”
+
+Actin-binding proteins might trigger the formation of different forms of actin
+In cells, the large catalog of actin-binding proteins mentioned above make the likelihood of free (and thus uncommitted) actin minimal. The majority of actin molecules are bound to individual partners, which in turn lock actin in a specific conformation. These induced conformational states of actin eventually lead to distinct forms of monomeric, oligomeric or polymeric actin. Although the actin-binding proteins thus govern the dynamics of actin filaments and the equilibrium between monomeric and polymerized forms as well as the organization of supramolecular structures, the exact conformation of actin bound to these proteins is only known in a few cases. For example, cofilin, which binds both actin monomers and filaments, induces, at least in vitro, a slight compaction in the actin molecule that slows down the nucleotide exchange from ADP to ATP 14 and 15. Profilin, on the other hand, when binding to G-actin, yields a slightly less compact, more ‘open’ structure [16], facilitating nucleotide exchange, which in the ATP-rich cytoplasm creates polymerization-competent ATP–actin [17]. Intriguingly, both cofilin and profilin seem to be involved in transporting actin actively to and from the nucleus 18, 19 and 20, suggesting that they regulate actin function in the nucleus as well as in the cytoplasm. It is conceivable that such subtle differences in the fold of the actin molecule might also affect the selectivity and affinity for other actin-binding proteins in both compartments, in conventional as well as in unconventional actin forms.
+
+Many of the proteins reacting with conventional actin forms in the cytoplasm are also found in the nucleus. These include F-actin-binding proteins such as gelsolin, CapG, myopodin and cofilin, as well as the G-actin-binding proteins profilin and thymosin β4 4 and 21. Because similar interactions between actin and a given binding partner could take place in both compartments, a specific nuclear form of actin distinct from that in the cytoplasm, but bound to a partner present in both compartments, might not exist per se. However, there are also several actin-binding proteins specific for the nuclear compartment. These include proteins that are bound to nuclear structures, such as proteins of the nuclear lamina, and the ATPases and nuclear ARPs of the chromatin remodeling and transcription complexes. The nuclear lamina proteins lamin A [22], emerin [23] and nesprin [24] form complexes with actin in the nucleus. Biochemical evidence demonstrates that G-actin is the binding partner, but the situation in vivo is less clear. Similarly, there is probably only one actin molecule required in the large chromatin remodeling complexes that activate transcription in mammals after receptor stimulation [25], suggesting that here actin is in its monomeric state. In vitro, monomeric actin interacts with hnRNP U, one of the ribonucleoproteins involved in pre-mRNA processing, transport and stability [26]. All three RNA polymerases require actin for optimal transcriptional activity [8] ( Table 1), but the molecular basis of this is unclear and the state of actin in these complexes is unknown. The actin-binding domain of RNA polymerase II is not present in RNA polymerase I or III, and the actin-binding motifs in these enzymes differ from that of RNA polymerase II.
+
+Notably, there are also soluble actin-binding proteins, such as ‘nuclear actin-binding’ protein (NAB) or the 31/35 kDa actin-binding protein (ABP; see [4] for references and further examples), that are probably not immobilized in larger structures. Such proteins would be good candidates for inducing and stabilizing distinct nuclear forms of monomeric or oligomeric actin, and their putative mobility within the nucleus should allow them to participate in nuclear functions of actin yet to be specified.
+
+Although proteins such as cofilin, which contains a nuclear localization signal, can transport actin in a complex (‘piggy-back’ it) into the nucleus [18], actin can also enter the nucleus by diffusion. Nuclear pores are sufficiently wide to allow an influx of actin monomers or small particles from the cytoplasm. Hence, one might expect an intranuclear actin concentration in the same range as in the cytoplasm. However, there is solid evidence that the amount of actin in the nucleus is maintained at low level, with the exception of the large amphibian oocyte nucleus. It is mainly proteins that bind to actin in a nonfilamentous form that seem to be involved in the active export of actin from the nucleus. The actin polypeptide has two nuclear export sequences, which in yeast were shown to be functional and used by the export receptor CRM1 (chromosome region maintenance) to remove actin rapidly from the nucleus [27]. In mammalian somatic nuclei, by contrast, another export receptor (exportin 6) recognizes and specifically removes actin from the nucleus. Intriguingly, exportin 6 recognizes and efficiently transports actin complexed to nuclear profilin 19 and 20. Such discrepancies might reflect differences in the form of actin presented to CRM1 in one case and to exportin 6 in the other case, possibly including differences between species.
+
+Filamentous and filament-associated actin in the nucleus
+Conventional (phalloidin-binding) F-actin filaments have been detected primarily in the nucleus of somatic cells, after these had been subjected to various kinds of stress (Table 1). In addition, they have been described in the large amphibian oocyte nuclei 20, 28, 29 and 30 (Table 1), albeit so far not in unfixed oocyte nuclei in situ [31]. Considering the giant size of the amphibian oocyte nucleus (∼50 times the diameter of somatic nuclei) and its very high concentration of actin (∼2 mg/ml), it seems plausible that a meshwork of classical F-actin filaments, possibly together with other nucleoskeletal fibers, might provide some extra mechanical support. In accordance with this assumption, removal of nuclear actin by microinjection of the actin-specific transport receptor exportin 6 makes oocyte nuclei very fragile [20]. Given that exportin 6, as already mentioned, specifically removes actin–profilin complexes, this result elegantly proves the existence of actin and profilin in the oocyte nucleus, but it cannot be taken as evidence for the existence of F-actin filaments in the untreated nucleus. However, filaments that contain actin have been seen to traverse the oocyte nucleus and to connect several intranuclear particles with each other and with the nuclear pore complex (NPC) [32]. Actin is also associated with the nucleoplasmic filaments of the NPC itself, which are engaged in nuclear export processes [33]. In both cases, these filaments can be decorated by actin antibodies but do not bind phalloidin, suggesting that they contain actin but not in the form of F-actin filaments.
+
+“Different antibodies reveal different patterns of nuclear and cytoplasmic actin in the same cells”
+
+Notably, in a recent report the presence of a polymeric actin pool was shown in living mammalian cells that were stably transfected with GFP–β-actin [34]. The polymeric species was calculated to represent ∼20% of the total nuclear actin at any given time point and to turn over rapidly. The gross morphology and dynamic behavior of this polymeric species are reminiscent of F-actin filaments, but the fine structure of these filaments is unknown at present. In addition, there is solid evidence that in the living oocyte nucleus, left in situ, only a small portion of the actin is indeed filamentous [31]. Most is nonfilamentous and ‘diffusible’ [35] and might exist in monomeric or oligomeric, unconventional forms, engaged in processes distinct from supporting the structural integrity of the oocyte nucleus.
+
+Evidence for unconventional forms of actin
+Assuming that different forms of actin occur in the cell, it should be possible to discriminate them by their surface-exposed epitopes. Consistent with this hypothesis are findings in which different antibodies reveal different patterns of nuclear and cytoplasmic actin in the same cells, after mild fixation or after microinjection into living cells 36 and 37. An example of this is shown in Figure 1. A monoclonal antibody raised against a profilin–actin complex (2G2 36 and 37) recognizes actin particles in the nucleus (Figure 1a), in the submembraneous actin web and also in the tips of filopodia of cultured cells (Figure 1a’–e). The tripartite 2G2 epitope was identified in a region of the actin monomer that is not exposed on the surface in the subunit of F-actin filaments but is accessible in the actin molecule when complexed with profilin [36]. Another monoclonal actin antibody (1C7), raised against a chemically cross-linked dimer of actin, the ‘lower dimer’ (LD; see later and Figure 2), also stains actin in the nucleus, but the pattern is quite different from that seen with 2G2 and there is no specific reaction with the submembraneous actin network [37]. The 1C7 epitope is exposed on the surface of the dimeric LD actin (see Figure 2) used as antigen, but not in F-actin filaments [37]. These two antibodies do not therefore react with F-actin filaments in the cytoplasm of mildly fixed cells.
+
+Full-size image (135 K)
+Figure 1. 
+A distinct form of actin is detected in the nucleus and the cytoplasm by an antibody (2G2) raised against a profilin–actin complex 36 and 37. The immunofluorescence images show antibody labeling (green) and phalloidin staining (red) in confocal sections of (a–c,e) cultured rat fibroblasts and (d) epithelial (HeLa) cells. (a,a’) Sections through the nucleus ((a) and (a’) show different optical section planes); (a’–e) sections showing the submembraneous region and filopodia of various cells. There is very little colocalization with phalloidin-positive structures in any image. In (d), the tips of the filopodial extensions connecting epithelial cells are also enriched in the form of actin recognized by the 2G2 antibody; it could thus have a role in the generation and/or stabilization of filopodia or in cell–cell adhesion. The scale bars represent (a,b,d) 10 μm and (c,e) 5 μm.
+Figure options
+Full-size image (61 K)
+Figure 2. 
+A comparison of the structural arrangement of actin in different oligomeric and polymeric forms. The subunits of actin, shown as a surface representation of the crystal structure, are denoted A, B and C, and the actin subdomains 1, 2, 3 and 4 are colored blue, yellow, red and green, respectively. The main intersubunit contacts involving different actin subdomains are indicated. (a) Monomeric G-actin can follow two polymerization pathways in vitro. It either rapidly forms a transient, antiparallel dimer with a G-actin-like conformation (lower dimer, LD) at the onset of polymerization (bottom) or, in a slower reaction, oligomerizes into a double-stranded F-actin trimer (top). Both forms have been isolated. In the trimer, which represents a minimal F-actin filament seed, all intersubunit contacts that occur in a polar F-actin filament at steady state are established so that adjacent subunits A, B and C along the ‘genetic’ helix (the shallow ‘one-start’ helix going from an actin subunit on one strand to the nearest subunit in the adjacent strand, and so on) are related to one another by a rotation of −166° about the filament axis and a translation of 2.75 nm along it. The F-actin trimer acts as a nucleus for the assembly of polar F-actin filaments; the fast growing, barbed-end is at the bottom and the slow growing, pointed end at the top of the upper diagram. The intersubunit contacts are clearly distinct from those in the LD conformation, in which the two antiparallel packed subunits A and B are related by a twofold axis of symmetry. LD can be induced to assemble into bipolar, ribbon-like polymers, so-called LD filaments, whose diameter is similar to that of the polar F-actin filaments. The scale bar represents 100 nm. (b) An actin–profilin ribbon trimer, in which the adjacent actin subunits A, B and C are related by a 21 screw axis (a 21 screw axis describes a symmetry axis, or operation, whereby two adjacent subunits are related to one another by a 180° rotation followed by a fixed axial rise along this axis). The polypeptide backbone of the profilin moiety is in black.
+Figure options
+A straightforward interpretation of the results 36 and 37 is that these antibodies recognize two different forms of nonpolymeric, unconventional actin. One form, detected by the antibody 1C7, is present in the nucleus, indicating that LD-like actin forms occur in this compartment. The other actin form, recognized by 2G2, is also seen in membrane-apposed cellular regions, where one would expect profilin–actin complexes to be enriched because they participate in the membrane-apposed polymerization of actin filaments [2]. Such results support our hypothesis that different forms of actin exist, some but not all of which are specific for the nucleus.
+
+What kind of unconventional actin forms might be relevant for nuclear activities?
+The images shown in Figure 1 suggest that the less compact, ‘open’ form of an actin monomer might exist in the nucleus and in specific regions of the cytoplasm. It is conceivable that not only profilin, but also other actin-binding proteins might stabilize such distinct forms of unpolymerized actin, which then could participate in specific nuclear activities, such as chromatin remodeling or RNA synthesis. Furthermore, structural studies on 3D crystals containing profilin–actin complexes in the form of ribbons have shown that such complexes enable subtle movements of the actin subdomains (Figure 2a) at ‘hinge points’, similar to those found in hexokinase, a protein with a polypeptide fold related to actin 38 and 39. Admittedly, such actin ribbons (Figure 2b) have been demonstrated only in vitro; in fact they so far have been observed only in these 3D profilin–actin cocrystals. However, one should not dismiss the possibility that slight shifts in subdomain orientation might also occur in vivo. If they happened, they would invariably alter the affinity for particular ligand proteins and would thus be of physiological relevance.
+
+During polymerization of G-actin into F-actin filaments, actin can also adopt different dimeric forms. One of them is the LD (Figure 2a). This bipolar complex, in which two actin molecules are retained in a G-actin-like conformation but interact in an antiparallel fashion and are related to each other by a twofold axis of symmetry, has been identified in vitro as a species prevalent at the onset of polymerization. However, it is transient and thus absent in mature F-actin filaments 11, 13, 40, 41 and 42. As illustrated in Figure 2a, in the antiparallel LD the interactions between the subdomains of the two actin subunits involved are distinct from those in the F-actin trimer, which represents the ‘minimal nucleus’ of conventional F-actin filaments. In vitro, the LD can be polymerized into filaments that, depending on the orientation of the LD within the filament, can be apolar or polar. At first glance, LD filaments appear similar in morphology and diameter to the polar F-actin filaments, but the subunit arrangements are different ( Figure 2a). Clearly, the intersubunit interactions that occur along and between the two helical strands of a polar F-actin filament are distinct from those holding together the two subunits within an LD. Notably, the LD does not show any significant binding affinity for phalloidin, which requires at least an F-actin trimer for strong and stable actin binding. It is therefore conceivable that LD-like forms of actin do exist in cells, in particular in the cell nucleus, both in soluble and in polymeric form. LD-like contacts do also form in supramolecular actin assemblies induced in vitro, such as crystalline sheets, folded ribbons and paracrystalline actin filament bundles 11 and 13. Last but not least, some of the actin filament capping proteins can stabilize LD-like actin–actin contacts and might thus produce LD-related forms of actin at specific sites in the cell.
+
+Concluding remarks
+Although the existence of actin in the nucleus is now well accepted, the variety of functions ascribed to it is puzzling. Whereas our present view on the function of actin in the cytoplasm is still mainly confined to the many forms of motility, from locomotion and intracellular transport to ‘inverse motility’ such as adhesion and structural stability, nuclear actin has been associated with a panel of seemingly unrelated functions, from a role in gene expression and nucleocytoplasmic transport to a supporter of the structural integrity of the nucleus itself. A possible explanation for this amazing catalog is based on the assumption that there are several forms of actin involved. Specifically, complexes of actin with actin-binding proteins that alter the conformation of the actin polypeptide by slight shifting of subdomains, and dimeric forms of actin that include subunit–subunit contacts that are not present in the classical F-actin filament but might result in ‘unconventional’ actin filaments, should be considered. So far, ‘unconventional’ forms of actin have been investigated mainly in vitro, but evidence is accumulating that also in cells there are different forms of actin, at least some of which are present in the nucleus. Specific antibodies could provide tools to identify such forms in cells.
+
+Acknowledgements
+We apologize to the authors of relevant articles that are not cited because of space limitations. Our work was supported by the German Research Council (BMJ), the Fonds of the Chemical Industry (BMJ), the Swiss National Foundation, the M.E. Müller Foundation (CAS, JS and UA), and the Kanton Basel-Stadt (UA and JS).
+
+References
+1
+M. Lorenz et al.
+Refinement of the F-actin model against X-ray fiber diffraction data by the use of a directed mutation algorithm
+J. Mol. Biol., 234 (1993), pp. 826–836
+
+Article |  PDF (1296 K) | View Record in Scopus | Citing articles (377)
+2
+T.D. Pollard, G.G. Borisy
+Cellular motility driven by assembly and disassembly of actin filaments
+Cell, 113 (2003), pp. 453–465
+
+Article |  PDF (538 K) | View Record in Scopus | Citing articles (2036)
+3
+S.J. Winder, K.R. Ayscough
+Actin-binding proteins
+J. Cell Sci., 118 (2005), pp. 651–654
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (125)
+4
+O.J. Rando et al.
+Searching for a function for nuclear actin
+Trends Cell Biol., 10 (2000), pp. 92–97
+
+Article |  PDF (215 K) | View Record in Scopus | Citing articles (201)
+5
+I.A. Olave et al.
+Nuclear actin and actin-related proteins in chromatin remodeling
+Annu. Rev. Biochem., 71 (2002), pp. 755–781
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (292)
+6
+T. Pederson, U. Aebi
+Actin in the nucleus: what form and what for?
+J. Struct. Biol., 140 (2002), pp. 3–9
+
+Article |  PDF (136 K) | View Record in Scopus | Citing articles (145)
+7
+B.T. Bettinger et al.
+Actin up in the nucleus
+Nat. Rev. Mol. Cell Biol., 5 (2004), pp. 410–415
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (174)
+8
+W.W. Franke
+Actin's many actions start at the genes
+Nat. Cell Biol., 6 (2004), pp. 1013–1014
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+9
+T. Pederson, U. Aebi
+Nuclear actin extends, with no contraction in sight
+Mol. Biol. Cell, 16 (2005), pp. 5055–5060
+
+View Record in Scopus | Citing articles (106)
+10
+D.K. Shumaker et al.
+The nucleoskeleton: lamins and actin are major players in essential nuclear functions
+Curr. Opin. Cell Biol., 15 (2003), pp. 358–366
+
+Article |  PDF (349 K) | View Record in Scopus | Citing articles (138)
+11
+R. Millonig et al.
+Probing actin polymerization by intermolecular cross-linking
+J. Cell Biol., 106 (1988), pp. 785–796
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+12
+U. Aebi et al.
+Crystalline actin sheets: their structure and polymorphism
+J. Cell Biol., 91 (1981), pp. 340–351
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+13
+C.A. Schoenenberger et al.
+Actin's propensity for dynamic filament patterning
+FEBS Lett., 529 (2002), pp. 27–33
+
+Article |  PDF (623 K) | View Record in Scopus | Citing articles (26)
+14
+L. Blondin et al.
+The second ADF/cofilin actin-binding site exists in F-actin, the cofilin-G-actin complex, but not in G-actin
+Eur. J. Biochem., 268 (2001), pp. 6426–6434
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (21)
+15
+A. McGough et al.
+Cofilin changes the twist of F-actin: implications for actin filament dynamics and cellular function
+J. Cell Biol., 138 (1997), pp. 771–781
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (391)
+16
+C.E. Schutt et al.
+The structure of crystalline profilin-beta-actin
+Nature, 365 (1993), pp. 810–816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (430)
+17
+I. Perelroizen et al.
+Binding of divalent cation and nucleotide to G-actin in the presence of profilin
+J. Biol. Chem., 270 (1995), pp. 1501–1508
+
+View Record in Scopus | Citing articles (35)
+18
+I. Yahara et al.
+A role of cofilin/destrin in reorganization of actin cytoskeleton in response to stresses and cell stimuli
+Cell Struct. Funct., 21 (1996), pp. 421–424
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+19
+T. Stüven et al.
+Exportin 6: a novel nuclear export receptor that is specific for profilin-actin complexes
+EMBO J., 22 (2003), pp. 5928–5940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+20
+M.T. Bohnsack et al.
+A selective block of nuclear actin export stabilizes the giant nuclei of Xenopus oocytes
+Nat. Cell Biol., 8 (2006), pp. 257–263
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+21
+J. Gettemans et al.
+Nuclear actin-binding proteins as modulators of gene transcription
+Traffic, 6 (2005), pp. 847–857
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+22
+A.M. Sasseville, Y. Langelier
+In vitro interaction of the carboxy-terminal domain of lamin A with actin
+FEBS Lett., 425 (1998), pp. 485–489
+
+Article |  PDF (285 K) | View Record in Scopus | Citing articles (54)
+23
+G. Lattanzi et al.
+Association of emerin with nuclear and cytoplasmic actin is regulated in differentiating myoblasts
+Biochem. Biophys. Res. Commun., 303 (2003), pp. 764–770
+
+Article |  PDF (239 K) | View Record in Scopus | Citing articles (53)
+24
+Q. Zhang et al.
+The nesprins are giant actin-binding proteins, orthologous to Drosophila melanogaster muscle protein MSP-300
+Genomics, 80 (2002), pp. 473–481
+
+Article |  PDF (720 K) | View Record in Scopus | Citing articles (14)
+25
+K. Zhao et al.
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+26
+A. Kukalev et al.
+Actin and hnRNP U cooperate for productive transcription by RNA polymerase II
+Nat. Struct. Mol. Biol., 12 (2005), pp. 238–244
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+27
+A. Wada et al.
+Nuclear export of actin: a novel mechanism regulating the subcellular localization of a major cytoskeletal protein
+EMBO J., 17 (1998), pp. 1635–1641
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (181)
+28
+T.G. Clark, J.L. Rosenbaum
+An actin filament matrix in hand-isolated nuclei of X. laevis oocytes
+Cell, 18 (1979), pp. 1101–1108
+
+Article |  PDF (7283 K) | View Record in Scopus | Citing articles (57)
+29
+A.D. Roeder, D.L. Gard
+Confocal microscopy of F-actin distribution in Xenopus oocytes
+Zygote, 2 (1994), pp. 111–124
+
+View Record in Scopus | Citing articles (30)
+30
+D.L. Gard
+Confocal microscopy and 3-D reconstruction of the cytoskeleton of Xenopus oocytes
+Microsc. Res. Tech., 44 (1999), pp. 388–414
+
+View Record in Scopus | Citing articles (41)
+31
+J.G. Gall
+Exporting actin
+Nat. Cell Biol., 8 (2006), pp. 205–207
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+32
+E. Kiseleva et al.
+Actin- and protein-4.1-containing filaments link nuclear pore complexes to subnuclear organelles in Xenopus oocyte nuclei
+J. Cell Sci., 117 (2004), pp. 2481–2490
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+33
+W. Hofmann et al.
+Cofactor requirements for nuclear export of Rev Response Element (RRE)- and constitutive transport element (CTE)-containing retroviral RNAs: an unexpected role for actin
+J. Cell Biol., 152 (2001), pp. 895–910
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (154)
+34
+D. McDonald et al.
+Nucleoplasmic {beta}-actin exists in a dynamic equilibrium between low-mobility polymeric species and rapidly diffusing populations
+J. Cell Biol., 172 (2006), pp. 541–552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (146)
+35
+T.G. Clark, R.W. Merriam
+Diffusible and bound actin nuclei of Xenopus laevis oocytes
+Cell, 12 (1977), pp. 883–891
+
+Article |  PDF (2744 K) | View Record in Scopus | Citing articles (63)
+36
+S.M. Gonsior et al.
+Conformational difference between nuclear and cytoplasmic actin as detected by a monoclonal antibody
+J. Cell Sci., 112 (1999), pp. 797–809
+
+View Record in Scopus | Citing articles (121)
+37
+C.A. Schoenenberger et al.
+Conformation-specific antibodies reveal distinct actin structures in the nucleus and the cytoplasm
+J. Struct. Biol., 152 (2005), pp. 157–168
+
+Article |  PDF (708 K) | View Record in Scopus | Citing articles (75)
+38
+C.E. Schutt et al.
+Molecular packing in profilin: actin crystals and its implications
+J. Mol. Biol., 209 (1989), pp. 735–746
+
+Article |  PDF (8959 K) | View Record in Scopus | Citing articles (32)
+39
+C.E. Schutt et al.
+Structural studies on the ribbon-to-helix transition in profilin: actin crystals
+Biophys. J., 68 (1995), pp. 12S–17S
+
+40
+M.O. Steinmetz et al.
+A correlative analysis of actin filament assembly, structure, and dynamics
+J. Cell Biol., 138 (1997), pp. 559–574
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (89)
+41
+M.R. Bubb et al.
+Polylysine induces an antiparallel actin dimer that nucleates filament assembly: crystal structure at 3.5-A resolution
+J. Biol. Chem., 277 (2002), pp. 20999–21006
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+42
+R. Reutzel et al.
+Actin crystal dynamics: structural implications for F-actin nucleation, polymerization, and branching mediated by the anti-parallel dimer
+J. Struct. Biol., 146 (2004), pp. 291–301
+
+Article |  PDF (669 K) | View Record in Scopus | Citing articles (17)
+43
+N.J. Lane
+Intranuclear fibrillar bodies in actinomycin D-treated oocytes
+J. Cell Biol., 40 (1969), pp. 286–291
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+44
+Y. Fukui
+Intranuclear actin bundles induced by dimethyl sulfoxide in interphase nucleus of Dictyostelium
+J. Cell Biol., 76 (1978), pp. 146–157
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (37)
+45
+Y. Fukui, H. Katsumaru
+Nuclear actin bundles in Amoeba, Dictyostelium and human HeLa cells induced by dimethyl sulfoxide
+Exp. Cell Res., 120 (1979), pp. 451–455
+
+Article |  PDF (2620 K) | View Record in Scopus | Citing articles (33)
+46
+J.W. Sanger et al.
+Reversible translocation of cytoplasmic actin into the nucleus caused by dimethyl sulfoxide
+Proc. Natl. Acad. Sci. U. S. A., 77 (1980), pp. 5268–5272
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+47
+M. Osborn, K. Weber
+Dimethylsulfoxide and the ionophore A23187 affect the arrangement of actin and induce nuclear actin paracrystals in PtK2 cells
+Exp. Cell Res., 129 (1980), pp. 103–114
+
+Article |  PDF (12668 K) | View Record in Scopus | Citing articles (20)
+48
+K. Iida et al.
+Heat shock induction of intranuclear actin rods in cultured mammalian cells
+Exp. Cell Res., 165 (1986), pp. 207–215
+
+Article |  PDF (4233 K) | View Record in Scopus | Citing articles (39)
+49
+V.M. Kushnaryov et al.
+Actin and lamin comprised filaments in the nuclei of Chinese hamster ovary cells affected with Clostridium difficile enterotoxin A
+Cytobios, 64 (1990), pp. 181–196
+
+View Record in Scopus | Citing articles (5)
+50
+B.M. Jockusch et al.
+Slime mould actin: Homology to vertebrate actin and presence in the nucleus
+Exp. Cell Res., 89 (1974), pp. 241–246
+
+Article |  PDF (2364 K) | View Record in Scopus | Citing articles (20)
+51
+S.W. Krauss et al.
+Nuclear actin and protein 4.1: essential interactions during nuclear assembly in vitro
+Proc. Natl. Acad. Sci. U. S. A., 100 (2003), pp. 10752–10757
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+52
+M. Schindler, L.W. Jiang
+Nuclear actin and myosin as control elements in nucleocytoplasmic transport
+J. Cell Biol., 102 (1986), pp. 859–862
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+53
+K. Funaki et al.
+Immunocytochemical localization of actin in the nucleolus of rat oocytes
+Biol. Cell., 84 (1995), pp. 139–146
+
+Article |  PDF (1953 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+54
+O. Papoulas et al.
+The Drosophila trithorax group proteins BRM, ASH1 and ASH2 are subunits of distinct protein complexes
+Development, 125 (1998), pp. 3955–3966
+
+View Record in Scopus | Citing articles (219)
+55
+X. Shen et al.
+A chromatin remodelling complex involved in transcription and DNA processing
+Nature, 406 (2000), pp. 541–544
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (441)
+56
+O.J. Rando et al.
+Phosphatidylinositol-dependent actin filament binding by the SWI/SNF-like BAF chromatin remodeling complex
+Proc. Natl. Acad. Sci. U. S. A., 99 (2002), pp. 2824–2829
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+57
+S.S. Smith et al.
+Actin co-purifies with RNA polymerase II
+Biochem. Biophys. Res. Commun., 86 (1979), pp. 161–166
+
+Article |  PDF (1709 K) | View Record in Scopus | Citing articles (19)
+58
+J.M. Egly et al.
+Is actin a transcription initiation factor for RNA polymerase B?
+EMBO J., 3 (1984), pp. 2363–2371
+
+View Record in Scopus | Citing articles (77)
+59
+U. Scheer et al.
+Microinjection of actin-binding proteins and actin antibodies demonstrates involvement of nuclear actin in transcription of lampbrush chromosomes
+Cell, 39 (1984), pp. 111–122
+
+Article |  PDF (13905 K) | View Record in Scopus | Citing articles (135)
+60
+P. Percipalle et al.
+Actin bound to the heterogeneous nuclear ribonucleoprotein hrp36 is associated with Balbiani ring mRNA from the gene to polysomes
+J. Cell Biol., 153 (2001), pp. 229–236
+
+Full Text via CrossRef
+61
+P. Percipalle et al.
+An actin-ribonucleoprotein interaction is involved in transcription by RNA polymerase II
+Proc. Natl. Acad. Sci. U. S. A., 100 (2003), pp. 6475–6480
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+62
+F. Miralles et al.
+Actin dynamics control SRF activity by regulation of its coactivator MAL
+Cell, 113 (2003), pp. 329–342
+
+Article |  PDF (912 K) | View Record in Scopus | Citing articles (550)
+63
+W.A. Hofmann et al.
+Actin is part of pre-initiation complexes and is necessary for transcription by RNA polymerase II
+Nat. Cell Biol., 6 (2004), pp. 1094–1101
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (183)
+64
+V.V. Philimonenko et al.
+Nuclear actin and myosin I are required for RNA polymerase I transcription
+Nat. Cell Biol., 6 (2004), pp. 1165–1172
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+65
+N. Fomproix, P. Percipalle
+An actin-myosin complex on actively transcribing genes
+Exp. Cell Res., 294 (2004), pp. 140–148
+
+Article |  PDF (2141 K) | View Record in Scopus | Citing articles (108)
+66
+P. Hu et al.
+A role for beta-actin in RNA polymerase III transcription
+Genes Dev., 18 (2004), pp. 3010–3015
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (103)
+67
+H. Nakayasu, K. Ueda
+Association of actin with the nuclear matrix from bovine lymphocytes
+Exp. Cell Res., 143 (1983), pp. 55–62
+
+Article |  PDF (3767 K) | View Record in Scopus | Citing articles (31)
+68
+V.N. Parfenov et al.
+Nuclear actin filaments and their topological changes in frog oocytes
+Exp. Cell Res., 217 (1995), pp. 385–394
+
+Article |  PDF (1639 K) | View Record in Scopus | Citing articles (53)
+Copyright © 2006 Elsevier Ltd. All rights reserved.

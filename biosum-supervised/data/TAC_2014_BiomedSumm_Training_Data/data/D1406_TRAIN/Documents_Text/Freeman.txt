@@ -1,0 +1,511 @@
+PTEN tumor suppressor regulates p53 protein levels and activity through phosphatase-dependent and -independent mechanisms
+Daniel J. Freeman1, 5, Andrew G. Li3, 5, Gang Wei3, Heng-Hong Li3, Nathalie Kertesz1, Ralf Lesche1, 6, Andrew D. Whale3, Hilda Martinez-Diaz1, Nora Rozengurt2, Robert D. Cardiff4, Xuan LiuCorresponding author contact information, 3, E-mail the corresponding author, Hong WuCorresponding author contact information, 1, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/S1535-6108(03)00021-7
+  Open Archive
+Abstract
+We show in this study that PTEN regulates p53 protein levels and transcriptional activity through both phosphatase-dependent and -independent mechanisms. The onset of tumor development in p53+/−;Pten+/− mice is similar to p53−/− animals, and p53 protein levels are dramatically reduced in Pten−/− cells and tissues. Reintroducing wild-type or phosphatase-dead PTEN mutants leads to a significant increase in p53 stability. PTEN also physically associates with endogenous p53. Finally, PTEN regulates the transcriptional activity of p53 by modulating its DNA binding activity. This study provides a novel mechanism by which the loss of PTEN can functionally control “two” hits in the course of tumor development by concurrently modulating p53 activity.
+
+Significance
+It has been shown by many groups, including our own, that the major function of the PTEN tumor suppressor relies on its phosphatase activity by antagonizing the PI3K/AKT pathway. This study provides evidence that PTEN can modulate p53 function independently of its phosphatase activity, and that a physical interaction between PTEN and p53 is important for this modulation in vivo. We also provide in vivo evidence for PTEN's function inside of the nucleus. Consequently, our study provides a novel mechanism by which PTEN regulates p53 levels and activities, and possibly provides an avenue for targeted therapy for cancers caused by PTEN or p53 loss.
+
+Introduction
+PTEN (phosphatase and tensin homolog deleted on chromosome 10) tumor suppressor gene was the first phosphatase identified to be frequently mutated/deleted somatically in various human cancers Li et al. 1997, Li et al. 1998 and Steck et al. 1997. In addition, germline mutations in the PTEN gene have been associated with Cowden syndrome and related diseases in which patients develop hyperplastic lesions (harmatomas) in multiple organs with increased risks of malignant transformation Liaw et al. 1997, Marsh et al. 1998 and Nelen et al. 1997. PTEN contains a sequence motif that is highly conserved in the members of the protein tyrosine phosphatase family. PTEN has been shown to possess phosphatase activity on phosphotyrosyl and phosphothreonyl-containing substrates Li et al. 1998 and Myers and Tonks 1997 in vitro and on phosphatidylinositol (3,4,5) trisphosphate, a product of phosphatidylinositol 3-kinase (PI3K), both in vitro and in vivo Lee et al. 1999, Maehama and Dixon 1998, Myers et al. 1998, Stambolic et al. 1998 and Sun et al. 1999. Many cancer-related mutations have been mapped within the conserved catalytic domain of PTEN, suggesting that the phosphatase activity of PTEN is required for its tumor suppressor function. In addition to its phosphatase domain, PTEN also contains a putative C2 regulatory domain, a PIP2 binding motif, two PEST homology regions, and a consensus PDZ binding site. The functions of these structural domains include regulating the phosphatase activity and controlling the stability or subcellular localization of PTEN (Maehama et al., 2001). Disruption of the murine Pten locus further supports the importance of PTEN as a bona fide tumor suppressor Di Cristofano et al. 1998, Podsypanina et al. 1999 and Suzuki et al. 1998. Homozygous deletion of Pten results in early embryonic lethality. Pten heterozygous mice develop hyperplastic/neoplastic changes in multiple organs as early as 4 weeks, with a bias toward incidence in lymphoid, endometrial, mammary, gastrointestinal, and adrenal gland tissues Podsypanina et al. 1999 and Suzuki et al. 1998.
+
+The major function of the tumor suppressor PTEN relies on its phosphatase activity and subsequent antagonism of the PI3K/AKT pathway Di Cristofano and Pandolfi 2000, Maehama et al. 2001 and Simpson and Parsons 2001. Loss of PTEN function, either in murine embryonic stem cells or in human cancer cell lines, results in accumulation of PIP3 and activation of its downstream effectors, such as AKT/PKB Franke et al. 1997, Stambolic et al. 1998, Sun et al. 1999 and Wu et al. 1998. As a serine/threonine protein kinase, AKT functions by phosphorylating key intermediate signaling molecules, leading to increased cell metabolism, cell growth, cell survival, and cell invasiveness—all hallmarks of cancer (for review, see Downward 1998, Hanahan and Weinberg 2000 and Hill and Hemmings 2002). Genetic studies also indicate that AKT plays an essential role in PTEN-controlled signal transduction and tumorigenesis Stiles et al. 2002 and Stocker et al. 2002.
+
+Recent studies suggest that there is a tight link between PTEN and p53, another major tumor suppressor. Both PTEN and p53 regulate cell proliferation and cell death (for review, see Bargonetti and Manfredi 2002 and Yamada and Araki 2001). Even though PTEN and p53 are frequently mutated in both inherited and spontaneous tumors in humans, concomitant mutations in both p53 and PTEN loci are not common Kurose et al. 2002, Fujisawa et al. 2000, Kato et al. 2000, Koul et al. 2002 and Rasheed et al. 1997. Several commonly used human PTEN null tumor cell lines, such as U87 MG, 786-O, MCF-7, and LNCap, are wild-type for p53. These genetic observations suggest that loss of PTEN may reduce the selective pressure on tumors during cancer progression to lose p53. Mechanistically, several lines of evidence suggest that PTEN-controlled AKT activation plays an essential role in modulating MDM2-dependent p53 degradation (for review, see Mayo and Donner 2002 and Zhou and Hung 2002). p53 is a short-lived protein and stabilization of p53 is crucial for its tumor suppressor function. The p53 protein is maintained at low levels in normal cells by MDM2-mediated ubiquitination and subsequent proteolysis. AKT physically associates with MDM2 and phosphorylates MDM2 on serine residues, a key step involved in MDM2 nuclear translocation and MDM2-mediated p53 degradation Mayo and Donner 2001, Ogawara et al. 2002 and Zhou et al. 2001. Therefore, it is conceivable that activation of AKT in PTEN-deficient cells may cause more rapid p53 degradation, which could contribute to tumorigenesis caused by PTEN loss. Furthermore, p53 can bind to the PTEN promoter region and activate PTEN transcriptionally (Stambolic et al., 2001), although there is a debate about the significance of such regulation (Sheng et al., 2002).
+
+To test the functional significance of the crosstalk between PTEN and p53 in vivo, we employed a genetic approach to study tumorigenesis in Pten+/−;p53+/− compound heterozygous mice on a 129/Balb/c genetic background. We found that the onset of lymphoma development in p53+/−;Pten+/− mice is similar to that seen in p53−/− animals. To further investigate the link between PTEN and p53, we demonstrated that p53 protein levels are dramatically reduced in Pten−/− cells and that PTEN stabilizes p53 by increasing its half-life. Furthermore, ectopic expression of PTEN phosphatase-dead mutants also leads to a significant increase in p53 protein levels, and PTEN can stabilize p53, even in the absence of MDM2, suggesting that PTEN can regulate p53 levels in a phosphatase-independent and MDM2-independent manner. Significantly, we observe that PTEN physically associates with endogenous p53, and PTEN regulates the transcriptional activity of p53 by modulating its DNA binding. Thus, PTEN-p53 may represent a self-reinforced circuit important for maintaining normal cellular functions, and disruption of this circuit may lead to cancer formation.
+
+Results
+PTEN and p53: A genetic study
+We have generated a Pten-deficient mouse line by homologous recombination via embryonic stem cells (ES cells). Similar to previous reports, mice lacking PTEN died early during embryogenesis, and mice with heterozygous Pten deletion developed tumors in various tissues (Figure 1A). However, the consequences of Pten inactivation on a 129/Balb/c genetic background are quite different from what was reported on a 129/C57 background (R. Lesche et al., submitted). In particular, most of the heterozygous mice are tumor free for the first six months of their postnatal life: 10% of Pten+/− animals developed focal lymphoid hyperplasia in the thymus and enlarged lymph nodes near the neck and axilla ( Figure 1A, left). Among aged animals (7–14 months), 25% of them developed lymphoid hyperplasia/dysplasia ( Figure 1A, right) and 10% of those progressed to early lymphoblastic lymphoma of T cell origin, similar to previous reports Podsypanina et al. 1999 and Suzuki et al. 1998.
+
+Full-size image (109 K)
+Figure 1. 
+Tumor development in Pten+/− and compound heterozygous p53+/−;Pten+/− mice
+A: Tumor onset curve (left panel) and spectra (right panel) show the tumor susceptibility in Pten+/− mice on the 129/Balb/c background.
+B: Tumor onset curve shows that the tumor susceptibility in p53+/−;Pten+/− mice is greatly enhanced over p53 or Pten heterozygous mice but similar to p53−/− mice (left panel); the incidence of lymphoma formation in the compound heterozygous animals is also similar to that of the p53 null mice (right panel).
+C: Low magnification images showing an early lymphoblastic lymphoma in a lymph node; left, H/E staining showing the architecture; middle, B220-positive staining B cells; and right, CD3-positive stained T cells. Note that the central mass of the immature cells is most positive for CD3. Bar = 200 μM.
+Figure options
+This prolonged latency in tumor development provided us with a unique opportunity to genetically evaluate the possible interaction between PTEN and p53. We generated mice heterozygous for both p53 and Pten (compound heterozygous, p53+/−;Pten+/−) on the 129/Balb/c background and followed a cohort of compound heterozygous animals (n = 33; male:female = 14:19) for six months. Seven p53+/−;Pten+/− mice died between 2–6 months of age. The rest of the animals were subjected to pathological analysis upon tumor development from as early as 1 month of age. As shown in Figure 1B, the onset (left panel) and lymphoma (right panel) development in the p53+/−;Pten+/− mice are very similar to those of p53−/− (n = 23) mice, but differ significantly from mice heterozygous for p53 (Macleod and Jacks, 1999) and for Pten (Figure 1A). Similarly to what was reported in p53−/− animals, p53+/−;Pten+/− mice develop lymphomas preferentially in the lymph nodes. As shown in Figure 1C, the enlarged lymph nodes are tightly packed with a dense population of homogeneous small lymphocytes with a few scattered germinal centers. Immunohistochemical staining using anti-CD3 antibody reveals nodules of uniform, atypical, immature T cells in the peri-follicular zones, suggesting early lymphoblastic lymphoma of T cell origin. The majority of these samples have well-defined cortex and medullary with some highly vascularized areas. In 40% of cases, neoplastic lymphocytes are packed in the vessels and have infiltrated the surrounding tissues (data not shown).
+
+To ensure that the initiation of tumor development in p53+/−;Pten+/− mice is not due to the loss of the second allele of either the Pten or p53 gene (loss of heterozygosity, LOH), immunohistochemical (IHC) analysis was performed on the tumors derived from the compound heterozygous (p53+/−;Pten+/−) mice. Figure 2A shows that PTEN protein is present in these tumors (lower left) at levels similar to adjacent normal tissues (lower right) and comparable to those of Pten+/− mice (upper left). However, p53 is expressed at basal levels in most of the tissues and tumor samples and cannot be detected by conventional IHC analysis (data not shown). Thus, we conducted PCR and Western blot analysis. The second alleles of Pten and p53 are retained in the tumor samples (Figure 2B), and a substantial amount of p53 protein can also be detected in these tumors using an antibody that recognizes both WT and mutated form of p53 (Pab-240, Figure 2C, upper panel). To ensure that WT p53 is present in the mutant sample, we conducted IP-Western blot analysis using an antibody that only reacts with WT p53 (Pab-246, Figure 2C, lower panel). It appears, from this study, that WT p53 is present in the tumor samples. These results lead to our conclusion that LOH is not required for the initiation of tumor development in these compound heterozygous mice. However, we cannot exclude (1) loss of function mutations in either the p53 or Pten genes which cannot be detected by our assay systems; (2) localized or single cell-based allelic deletion or gene silencing events; and (3) that LOH is involved in or associated with tumor progression and local invasion.
+
+Full-size image (110 K)
+Figure 2. 
+The presence of PTEN and p53 in lymphomas generated from compound heterozygous p53+/−;Pten+/− mice
+A: Immunohistochemical detection of PTEN protein. Positive signal can be detected in the brain tissue of Pten+/− heterozygous mice (upper left), the lymphoma sample of p53+/−;Pten+/− compound heterozygous mice (lower left), the normal mammary gland adjacent to the lymphoma seen in the lower left (lower right), but not in the brain tissues from brain-specific Pten deletion mice (Groszer et al., 2001).
+B: PCR analysis of tail DNA and tumor DNA from representative p53+/−;Pten+/− compound heterozygous mice, indicating the presence of the WT alleles of both p53 and Pten genes.
+C: Upper panel, Western blot analysis using anti-p53 antibody (Pab 240, Santa Cruz technology). p53 proteins are present in the representative tumor samples of p53+/−;Pten+/− compound heterozygous mice; lower panel, cell lysate from the tumor tissue was immunoprecipitated with an anti-p53 antibody which specifically reacts to the WT p53 protein (Pab 246, Santa Cruz Biotechnology) and immunoblotted with Pab 240 antibody.
+Figure options
+PTEN modulates p53 protein stability
+To investigate whether PTEN indeed controls p53 function in vivo, we first measured endogenous p53 mRNA and protein levels in isogenic Pten+/+, Pten+/−, and Pten−/− ES cells. p53 protein levels are significantly reduced in Pten heterozygous ES cells and almost completely lost in Pten null ES cells ( Figure 3A, upper panel), while these ES cells do express similar levels of p53 mRNA ( Figure 3A, lower panel), suggesting that PTEN modulates p53 at the posttranscriptional level. To confirm that PTEN is capable of controlling p53 protein levels in vivo and to prove that this regulation is a common mechanism rather than a cell type-specific event, we measured p53 levels in brain tissues derived from Pten conditional knockout mice (Groszer et al., 2001). Similarly to ES cell studies, p53 levels are reduced in heterozygous animals and almost completely lost in Pten null brains (Figure 3B). To develop a system that is amenable to biochemical analysis, we generated several isogenic mouse embryonic fibroblast (MEF) lines, which are wild-type for p53 but differ in their Pten status, first by immortalizing MEF cells from Pten conditional knockout mice (Lesche et al., 2002), Ptenloxp/loxp (functional equivalent to WT [L/L]), and then by confirming PTEN and p53 expression by Northern and Western blot analyses (data not shown). Immortalized Ptenloxp/loxp lines, which contain both p53 and PTEN protein products, were treated transiently with Cre recombinase. Three independent clones, which carry a homozygous Pten deletion ( Figure 3C, upper panel; PtenΔloxp/Δloxp, functional equivalent to null mutant [Δ/Δ]) but are wild-type for p53, were generated and used for studies described below. Similar to our analysis using ES cells and brain tissues, p53 protein levels, but not mRNA levels, were significantly reduced in PtenΔloxp/Δloxp MEF cells (Figure 3C).
+
+Full-size image (50 K)
+Figure 3. 
+PTEN controls p53 protein stability
+p53 protein levels in (A) ES cells and (B) brain tissues with different Pten status, indicating that PTEN regulates p53 protein posttranscriptionally.
+C: PTEN regulates p53 protein levels in isogenic MEF cell lines (upper panel). The absence of Pten gene expression and presence of p53 mRNA in PtenΔloxp/Δloxp MEFs are demonstrated by Northern blot analysis (lower panel).
+D: PTEN controls p53 half-life. Ptenloxp/loxp and PtenΔloxp/Δloxp MEF cells were cultured to 70% confluence before being transferred to serum free medium containing 50 μg/ml cyclohexamide. Cells were directly lysed at the indicated time points and p53 proteins were detected by Western blot analysis. The half-life of p53 protein in the presence (first row) and absence (second row) of endogenous PTEN proteins were calculated using Quantity One (Bio-Rad).
+Figure options
+To determine the cause of the reduced p53 protein levels in Pten null cells and tissues, we measured the half-life of p53 in Ptenloxp/loxp and PtenΔloxp/Δloxp MEF cells. Notably, the half-life of p53 in Ptenloxp/loxp MEF cells was significantly longer than in PtenΔloxp/Δloxp MEF (17 min versus 6 min, Figure 3D), providing genetic evidence that PTEN controls endogenous p53 protein levels by modulating its protein stability. Interestingly, the half-life of p53 falls in between WT and Pten null cells (12 min) when PtenΔloxp/Δloxp MEF cells are pre-treated with wortmannin, a PI3 kinase inhibitor (see Supplemental Data at http://www.cancercell.org/cgi/content/full/3/2/117/DC1), suggesting that PTEN may control p53 protein levels via both PI3 kinase/AKT-dependent and -independent mechanisms.
+
+PTEN affects p53 protein stability: phosphatase and MDM2-independent mechanisms
+In order to determine whether reduced p53 stability in Pten null cells and tissues is due to a PTEN phosphatase-independent activity, we reintroduced either wild-type or PTEN phosphatase-dead mutants into the PtenΔloxp/Δloxp MEF cells. As shown in Figure 4A, reintroducing WT PTEN led to a significant increase in p53 protein levels (comparing lanes 2 and 3). Interestingly, two phosphatase-dead mutants, PTEN-CS and PTEN-GR, as well as the PTEN-C2 domain alone, were also able to increase p53 protein levels, even though they did not affect AKT phosphorylation, a hallmark of PTEN's phosphatase activity ( Figure 4A, comparing lane 3 with lanes 4–6). We further tested the abilities of wild–type or PTEN-CS to modulate human p53 protein levels using p53 null human osteosarcoma SAOS2 cells. Again, both the WT and PTEN-CS mutants led to a 5- to 6-fold increase in transfected p53 protein levels but not its mRNA levels (Figure 4B). These data suggest that (1) PTEN controls p53 protein levels in both human and murine cells; and (2) PTEN controls p53, at least in part, by a mechanism independent of its phosphatase activity.
+
+Full-size image (64 K)
+Figure 4. 
+PTEN controls p53 protein levels through phosphatase and MDM2-dependent and –independent mechanisms
+A: Wild-type and phosphatase-dead PTEN mutants can rescue p53 protein levels in PtenΔloxp/Δloxp MEF cells. Cell lysates were analyzed by immunoblotting with Pab-240 p53 antibody, phospho-Akt (Ser473) antibody, and Akt antibody, respectively.
+B: Co-transfection of p53 with either PTEN-WT or PTEN-CS mutant in p53 null human SAOS2 leads to increased p53 protein levels. Western blot was immunoblotted with p53 antibody (D0-1, upper panel); lower panel, RT-PCR analysis indicates no difference in p53 mRNA levels.
+C: PTEN controls p53 protein levels by an MDM2-independent mechanism. p53−/−;MDM2−/− MEF cells were transfected with vectors expressing: p53 alone (lane 1), p53 and PTEN (lane 2), p53 and MDM2 (lane 3), or p53/MDM2/PTEN (lane 4). Cell lysates were analyzed by immunoblotting with p53, PTEN, and MDM2 antibodies, respectively. The Western blots were quantified (Quantity One, Bio-Rad) and the fold of increase is presented on the top of each row as compared to the first lane.
+D: PTEN controls p53′s half-life by an MDM2-independent mechanism. p53−/−;MDM2−/− MEF cells were transfected with a control or PTEN expression vector. Twenty-four hours post transfection, the cells were transferred to serum free medium containing 50 μg/ml cyclohexamide. Cells were directly lysed at the indicated time points.
+Figure options
+The control of p53 protein levels is orchestrated by multiple factors with MDM2 being one of the major players. Thus, it is not surprising that increased AKT activity in Pten-deficient cells will lead to increased MDM2 phosphorylation and nuclear translocation, resulting in p53 degradation. Similar to previous reports, MDM2 nuclear translocation is indeed increased in our PtenΔloxp/Δloxp cells (see Supplemental Data on Cancer Cell website). However, the MDM2-dependent pathway is probably not the only mechanism by which PTEN can control p53. The fact that the PTEN phosphatase-dead mutants could regulate p53 levels (Figures 4A and 4B) suggests that PTEN can control p53 by multiple mechanisms, one of which does not require its phosphatase activity and thus may be MDM2 independent. To genetically prove that PTEN can control p53 in a MDM2-independent manner, we took advantage of a p53−/−;Mdm2−/− MEF cell line. As illustrated in Figure 4C, the expression of PTEN led to a near 7-fold increase in p53 protein levels in the absence of MDM2 ( Figure 4C, lanes 1 and 2). Furthermore, PTEN expression could partially prevent p53 degradation caused by overexpression of MDM2 ( Figure 4C, lanes 3 and 4). To further investigate the mechanism involved in MDM2-independent p53 stabilization by PTEN, we measured the half-life of p53 in p53−/−;Mdm2−/− MEF cells by transfecting p53 with and without PTEN. The half-life of p53 is significantly prolonged in the PTEN co-transfected cells (15 hr; Figure 4D, +PTEN), as compared to p53 alone (10 hr; Figure 4D, −PTEN). Again, PTEN-CS mutant had similar effect on p53 protein levels (see Supplemental Data at http://www.cancercell.org/cgi/content/full/3/2/117/DC1). How PTEN modulates p53 half-life in the absence of MDM2 is currently unknown and is worth further investigation. Taken together, the data indicate that PTEN can control p53 stability by both phosphatase and MDM2-dependent and -independent mechanisms.
+
+PTEN physically interacts with p53 and forms a PTEN/p53 complex in the absence of MDM2
+We then tested whether PTEN controls p53 by physically associating with p53. Cell lysates from Ptenloxp/loxp (L/L) or PtenΔloxp/Δloxp (Δ/Δ) lines were immunoprecipitated and Western blotted with either an anti-PTEN or an anti-p53 antibody, respectively. Endogenous PTEN and p53 can reciprocally co-immunoprecipitate each other in vivo in the Ptenloxp/loxp cells while no PTEN/p53 complex formation could be detected in PtenΔloxp/Δloxp cells ( Figure 5A, left panels). To determine whether PTEN, p53, and MDM2 were in the same complex, we re-probed the blots with anti-MDM2 antibody and found that MDM2 is not in the PTEN/p53 complex ( Figure 5A, upper right panel). Cell fractionation studies indicate that the majority of the PTEN/p53 complex is present in the nucleus ( Figure 5A, lower right panel). Similarly, endogenous PTEN can physically associate with p53 in U2OS cells (Figure 5B). Using various GST fusion proteins, we further mapped regions crucial for PTEN-p53 interaction to the carboxy-terminal regulatory domain of p53 (R domain, amino acids 363–393; Figure 6A) and to the C2 domain of PTEN, which does not include any part of the PTEN phosphatase domain (Figure 6B).
+
+Full-size image (50 K)
+Figure 5. 
+Endogenous PTEN and p53 can physically form a complex in vivo
+A: Left panels, PTEN and p53 reciprocally immunoprecipitate each other in the Ptenloxp/loxp WT MEF cells (first lanes), but not in PtenΔloxp/Δloxp null MEFs (second lanes). Since anti-PTEN antibody used here is a polyclonal antibody and PTEN migrates close to the IgG band, there is a trace amount of background signal present in the Δ/Δ lane as well as IgG lane; right upper panel, Immunoblot from left panels was re-probed with MDM2 antibody and indicate that MDM2 is not in the PTEN/p53 complex. Right lower panel shows the PTEN/p53 complex formation in the nucleus. Nuclear (N) but not cytoplasmic (C) fractions. The cell lysates from the Ptenloxp/loxp (first two lanes) and PtenΔloxp/Δloxp null MEFs (last two lanes) were immunoprecipitated with anti-PTEN antibody and Western blot was probed with anti-p53 antibody. A portion of each fraction before immunoprecipitation was run on an SDS-PAGE, and resulting Western blot was probed with anti-HDAC and anti-Actin antibodies as a controls.
+B: Endogenous PTEN complexes with human p53 in U2OS cells. Untreated sub-confluent U2OS whole-cell lysates were used for immunoprecipitation (left panel). The supernatant is shown as a control (right panel).
+Figure options
+Full-size image (87 K)
+Figure 6. 
+Mapping PTEN-p53 association domains
+A: The WT as well as p53 N-terminal and C-terminal deletion mutants (shown in middle left panel) were in vitro translated and tested for binding to GST-PTEN-WT (lanes 7 to 9) or GST-PTEN-CS (lanes 10 to 12).
+B: The WT and PTEN deletion mutants (shown in middle right panel) were expressed as GST fusion proteins and binding of p53 was measured by incubation with in vitro translated p53 or p53-ΔC mutant proteins. The interaction data were quantified, relative to the 10% input shown in the first lane, for both p53 (A) and PTEN (B).
+Figure options
+PTEN controls the transcriptional activity of p53
+To test the functional significance of the PTEN and p53 association, we investigated whether PTEN could influence p53 transcriptional activity. p53 transcriptional activity is reduced by at least 50% in PtenΔloxp/Δloxp cells ( Figure 7A, left panel). To separate PTEN's role in enhancing p53 stability from increasing p53 transcriptional activity, PtenΔloxp/Δloxp (Δ/Δ) and Ptenloxp/loxp (L/L) cells were treated without or with leptomycin B (LMB), a nuclear export inhibitor that can prevent p53 from degradation (Freedman and Levine, 1998). LMB treatment rescued p53 protein in PtenΔloxp/Δloxp (Δ/Δ) cells to a level comparable to the control cells ( Figure 7A, right panel), providing additional evidence that PTEN controls p53 protein levels by preventing p53 from degradation. However, LMB treatment could not restore the transcriptional activity of p53 in PtenΔloxp/Δloxp cells ( Figure 7A, left panel), indicating that the physical interaction between PTEN and p53 is essential for maximizing p53′s transcriptional activity. Overexpression of WT PTEN in either Ptenloxp/loxp (L/L) or PtenΔloxp/Δloxp (Δ/Δ) cells led to comparable increases in p53 transcriptional activity (Figure 7B), demonstrating that the reduced p53 transcriptional activity in Pten null cells is not due to mutations in the p53 gene. Interestingly, expression of either PTEN-CS phosphatase-dead mutant or the C2 domain alone, which is important for p53 association, also leads to an increase, though to a lesser extent, of p53 transcriptional activity (Figure 7B). However, no further increase in p53 transcriptional activity could be observed when we co-transfected WT PTEN with p53ΔC, an active form of p53 that lacks the PTEN binding domain, into p53-deficient SAOS2 cells (Figure 7C). These results suggest that the regions responsible for the physical association between PTEN and p53 are crucial for PTEN's function in controlling p53 protein stability (Figure 4A) as well as its transcriptional activity (Figures 7B and 7C).
+
+Full-size image (75 K)
+Figure 7. 
+PTEN controls p53 transcriptional activity
+For comparison, luciferase activity from each experiment was normalized to that of WT cells and presented as a percentage of increase. Three independent tests were performed for each experiment and the mean ± SD was presented here.
+A: p53 transcriptional activity is reduced in PtenΔloxp/Δloxp null MEF cells. LMB treatment can restore p53 protein levels (right panel) but not its transcriptional activity (left panel) in PtenΔloxp/Δloxp null MEF cells. Cells were transfected with pRGCE4Luc and p53 transcriptional activity was measured 24 hr post transfection. For LMB treatment, cells were treated with 10 μM LMB for 12 hr prior to each experiment.
+B: p53 transcriptional activity can be restored by reintroducing the wild-type (W), CS mutant (CS), or C2 fragment (C2) of PTEN into the PtenΔloxp/Δloxp MEF cells.
+C: PTEN has no effects on the transcriptional activity of the C-terminal deleted p53-ΔC, which lacks PTEN binding domain.
+D: p21 transcriptional activation by the endogenous p53 in response to UV irradiation is partially impaired in PtenΔloxp/Δloxp null MEF cells. Sub-confluent MEF cells were irradiated with 50 J/m2 of UV. Twelve hours post irradiation, p21 mRNA levels were measured by Northern blot analysis (left panel) and the fold-of-increase after UV treatment was quantified and presented (right panel).
+Figure options
+Since PTEN controls G1-S transition and cell death through pathways overlapping with those controlled by p53, we are limited by the measurable biological effects that are solely dependent on p53 function and not influenced by PTEN status. To demonstrate the biological consequence of Pten deletion on p53 functions, we measured the endogenous p21 mRNA levels in response to DNA damage. p21 is an immediate downstream target gene for p53 transcriptional activity although p21 mRNA levels can be regulated by both p53-dependent and -independent mechanisms. Importantly, no literature has indicated that p21 transcriptional activation in response to UV treatment is controlled by the PTEN/PI3K/AKT pathway. As shown in Figure 7D, in response to UV irradiation, p21 mRNA levels are significantly increased in the WT MEFs; p53+/− cells are less responsive and p53 null cells are completely nonresponsive. Even though the basal mRNA level of p21 is not influenced by Pten status, its response to UV irradiation is impaired in Pten null cells ( Figure 7D, right). Note the fold p21 mRNA increase in Pten null cells falls between p53+/−;Pten+/+ and p53−/−;Pten+/+ cells, which fits well with the endogenous p53 function. These results indicate that the endogenous p53 transcriptional activity is indeed controlled by the PTEN tumor suppressor.
+
+PTEN controls p53 transcription activity by modulating its DNA binding
+Several proteins have been shown to interact with the p53 C-terminal domain and enhance p53 DNA binding by relieving the C-terminal inhibitory effect Jayaraman et al. 1997a and Nie et al. 2000. This prompted us to measure the possible effect of PTEN on p53 DNA binding activity. Both WT PTEN and the PTEN-C2 (PTEN-C) fragment markedly enhanced the DNA binding activity of WT p53 (Figure 8A, left panel, comparing lane 2 and lanes 3–6), similar to activation of p53 by c-Abl (lanes 14 and 15). Consistent with our domain mapping studies, the PTEN-CT domain, which has weaker binding affinity to p53 (Figure 6B), also has less effect on p53 DNA binding activity (lanes 7 and 8). Furthermore, PTEN had no effect on the DNA binding activity of the C-terminal truncated form of p53 (p53-ΔC), which lacks the PTEN association domain (Figure 8A, right panel, comparing lane 4 and lanes 5–7).
+
+Full-size image (55 K)
+Figure 8. 
+PTEN controls p53 transcriptional activity by modulating its DNA binding activity
+A: Electrophoretic mobility shift assay shows that PTEN enhances p53 DNA binding activity. Left panel, p53 DNA binding activity can be significantly enhanced by wild-type PTEN (PTEN, lanes 3 and 4) and PTEN-C2 fragment (PTEN-C, lanes 5 and 6). PTEN-C2 domain with the C-terminal tail (PTEN-CT, lanes 7 and 8) also stimulates p53 DNA binding but to a lesser extent. As a positive control, c-Abl can significantly increase the p53 DNA binding activity (Lane 14). Right panel, DNA binding activity of p53ΔC, which lacks PTEN association domain, is not affected by the presence of PTEN (comparing lanes 4 and 5–7).
+B: ChIP analysis. Both WT PTEN and PTEN-CS activate endogenous p53 DNA binding on the p21 promoter. PCR analyses (using primers to p21) on input DNA or α-p53 immunoprecipitated DNA are shown.
+C: PTEN enhances DNA binding activity of WT p53, but not mutated p53ΔC in SAOS2 cells. Cells were transfected with the plasmid combination listed below. The DNA binding activity of p53 and p53ΔC on the p21 promoter was analyzed using a ChIP assay. The fold-of-increase in the present of PTEN was quantified and presented in the Supplemental Figure S3 (see Cancer Cell website).
+Figure options
+To show that PTEN can bind to p53 and enhance its DNA binding activity in vivo, we performed a chromatin immunoprecipitation analysis (ChIP) using the p21 promoter as a target. Both WT PTEN and PTEN-CS increase the binding activity of the endogenous p53 to the p21 promoter by 2.5-fold (Figure 8B). To further test the significance of the PTEN-p53 interaction on this activation, we performed the ChIP assay by co-transfecting PTEN with either WT p53 or p53-ΔC mutant that is defective in PTEN interaction (Figure 6B). Similar to their effects on the endogenous p53, WT PTEN and PTEN-CS were able to increase the DNA binding activity of transfected p53 to the p21 promoter by 2.5-fold (Figure 8C). In contrast, neither WT PTEN nor PTEN-CS had any significant effect on the binding activity of p53-ΔC (Figure 8C). These data suggest that PTEN regulates p53 transcriptional activity, at least in part, by modulating its DNA binding activity. This modulation depends on the physical interaction of PTEN and p53.
+
+Discussion
+A major portion of the PTEN literature focuses on the function of PTEN as a lipid phosphatase, and its antagonism of the PI3 kinase pathway. AKT phosphorylation/activation is generally regarded as the hallmark for PTEN mutation. In this study, we define a novel role of PTEN as a tumor suppressor: PTEN controls p53 protein levels and transcriptional activity in vivo, and PTEN exerts its role through both phosphatase-dependent and -independent mechanisms. We also provide in vivo evidence for PTEN function inside of the nucleus, which has not been demonstrated before.
+
+Our initial studies rely on mice carrying mutations in the endogenous gene encoding either p53 or Pten to avoid potential side effects caused by overpression of mutant proteins in a tissue culture system. We hypothesized, based on the genetic data from p53+/−;Pten+/− heterozygous mice, that PTEN may control p53 protein levels. This hypothesis was confirmed by measuring the endogenous p53 protein levels in isogenic Pten+/+ and Pten−/− ES cells, MEF cells, and brain tissues, as well as by measuring the half-life of p53 in the presence and absence of the endogenous PTEN proteins. These results provide genetic proof for PTEN's role in controlling p53 function. Our study, together with those of others Mayo et al. 2002, Mayo and Donner 2001, Ogawara et al. 2002 and Zhou et al. 2001, may also help to explain why concomitant mutations in both p53 and PTEN loci are not common. PTEN plays an important role in regulating p53 protein levels and activity; loss of PTEN may decrease the selective pressure on tumors to lose p53 during cancer progression.
+
+In an attempt to further delineate the functional domains responsible for PTEN-mediated p53 stabilization, we discovered a critical role of phosphatase-independent activity of PTEN in regulating p53 protein levels and transcriptional activity. This conclusion is based on (1) reintroduction of PTEN phosphatase-dead mutants as well as the PTEN-C2 region, which lack the phosphatase domain, into PtenΔloxp/Δloxp cells partially rescues the endogenous p53 protein levels (Figure 4A) and transcriptional activity (Figure 7B); (2) PTEN increases p53 protein levels and prolongs the half-life of p53 in the absence of MDM2 (Figures 4C and 4D). Since MDM2 is a key mediator for PI3K/AKT-controlled p53 degradation, as suggested by previous studies, this result indicates that PTEN can control p53 half-life independently of PI3K/AKT/MDM2 via a currently unknown mechanism; (3) physical interaction of PTEN and p53 is crucial for maximum p53 transcriptional activity (Figure 7), especially for its DNA binding activity (Figure 8).
+
+We by no means imply that the regulation of the PI3K/AKT pathway is not an important part of PTEN's function in controlling tumor formation. The fact that naturally occurring mutations in the PTEN phosphatase domain (such as PTEN-C124S and PTEN-G129E mutants) are tumor causing indicates that the effects of PTEN's phosphatase-independent activity in tumorigenesis may be more tissue specific or associated with a more aggressive phenotype upon loss of PTEN function. However, our data argue strongly that phosphatase-independent mechanisms are important parts of PTEN's biological functions. Notably, some recent studies suggest that activation of AKT alone, such as overexpression of a constitutively activated form of AKT in transgenic mice, cannot account for all of the phenotypes related to PTEN loss Ackler et al. 2002, Malstrom et al. 2001 and Schwertfeger et al. 2001. In Drosophila, phenotypes caused by dPTEN mutation are not completely covered by Dp110 or insulin-signaling mutants (Goberdhan et al., 1999), suggesting PTEN may have a broader role than only antagonizing PIP3. Similarly, mutating the putative PIP2 motif in the N-terminal region of PTEN led to loss of PTEN membrane association and failure to rescue the PTEN null phenotype in a chemoattractive response in Dictyostelium discoideum (Iijima and Devreotes, 2002).
+
+Several important issues raised by the current study are worth further investigation. First, we have defined the C2 domain as a critical region involved in PTEN/p53 association and PTEN-controlled p53 function. However, since a PTEN mutant that lacks the PTEN-C2 domain is unstable Maehama et al. 2001 and Simpson and Parsons 2001, we cannot rule out that other regions of the PTEN molecule may contribute to PTEN/p53 complex formation. Second, it would be interesting to provide a mechanistic explanation as to why we cannot observe the PTEN/p53/MDM2 triple complex in vivo (Figure 5A) or MDM2 competing with PTEN in forming complex with p53 in vitro (see Supplemental Figure S2 on Cancer Cell website). We hypothesize that the association of PTEN with the C-terminal negative-regulatory domain of p53 may trigger a conformational change in the p53 molecule, thereby preventing MDM2 binding, although we have not yet obtained any conclusive results (data not shown). We also noted that PTEN does not affect p53-DNA complex migration significantly (Figure 8A). The PTEN-stimulated p53-DNA complex could be supershifted by the addition of anti-p53 antibody but not by the addition of anti-PTEN antibody, suggesting that PTEN may not be a part of the p53-DNA complex (data not shown). Similar results were also reported with other proteins, such as c-Abl (Nie et al., 2000) and Ref-1 (Jayaraman et al., 1997b), which interact with the C terminus of p53 and enhance p53 DNA binding. Two explanations may account for this result: first, PTEN may dissociate from the p53-DNA complex during the electrophoresis; second, PTEN may induce a conformational change of latent p53 and dissociate from p53 once bound to DNA. Nevertheless, the ability of PTEN to interact with p53 correlates well with its ability to enhances p53 DNA binding in vitro (Figure 8A) and in vivo (Figures 8C), which supports the view that the interaction plays an important role in p53 activation. Additionally, further in vivo investigation is required to understand how the dynamics and stoichiometry of the PTEN/p53 complex formation are controlled and altered in cancers.
+
+Similar genetic approaches have been taken by others to address the potential interaction between PTEN and other tumor suppressor genes and oncogenes. Pten heterozygous mice have been crossed to Ink4a/ARF (You et al., 2002) and p27 (Di Cristofano et al., 2001) deficient mice, as well as transgenic mice expressing Wnt-1 (Li et al., 2001) or T121, a truncated SV40 T antigen which specifically inactivates the pRb family (Xiao et al., 2002). By removing one functional allele of Pten, the latencies of tumor formation are significantly reduced in these animals. These compound heterozygous mice, together with the one we have generated in this study, also provide opportunities to investigate the interplay between different signaling pathways in tumor initiation, progression, and metastasis.
+
+Taken together, our study provides both genetic and biochemical evidence that the PTEN tumor suppressor regulates the function of p53 by both phosphatase-dependent and -independent mechanisms. Our study may reveal a novel mechanism by which the loss of PTEN can functionally control “two” hits in the course of tumor development by concurrently modulating PI3K and p53 activities. Thus, p53 may play an important role in the initiation of tumorigenesis by mutations in the PTEN tumor suppressor gene, and therapies designed to target both PTEN and p53 or their controlled pathways may be beneficial for those cancers genetically marked as PTEN null and p53 WT.
+
+Experimental procedures
+Immortalization of MEF cells
+Primary MEF cells were harvested from embryonic day 14 embryos with indicated genotype. Independent immortalized MEF lines were established using the 3T9 protocol (Kamijo et al., 1997). To derive PtenΔloxp/Δloxp (Δ/Δ) cells, immortalized Ptenloxp/loxp (L/L) cells, which were positive for Pten and p53 expressions, were transiently transfected with pTurbo-Cre (ES Cell Center, Washington University, St Louis, Missouri) using Effectene transfection reagent (Qiagen) following recommended protocols. Individual colonies were expanded and tested for Pten deletion by both PCR and Western blot analysis (Lesche et al., 2002), and approximately 30% of these clones had the exon 5 of the Pten gene deleted.
+
+Cell culture and transfection
+MEF and SAOS2 cells were cultured in Dulbecco's modified Eagle's medium (DMEM Gibco) supplemented with 10% fetal calf serum (FCS Hyclone), 100 U/ml penicillin and streptomycin (Gibco). To reintroduce PTEN-WT, CS, and GR mutants, or PTEN-C2 domain into PtenΔ/Δ cells, the above plasmids were cotransfected with a CMV-EGFP vector. GFP-positive cells were then FACS sorted and analyzed as described. U2OS cells were cultured in McMoy's 5A supplemented with 10% FCS. Cell transfection was performed using lipofectAMINE (Invitrogen) or calcium phosphate method. Cells were lysed 28 hr post transfection for protein and luciferase activity measurements.
+
+Western blot analysis and immunoprecipitation
+Whole-cell extract was prepared by lysing the cells in a buffer containing 50 mM Tris-HCl (pH 8.0), 120 mM NaCl, 0.5% NP-40, 0.25% Na Deoxycholate, 1 mM DTT, 2 μg/ml aprotinin, and 2 μg/ml leupeptin. Brain tissue was disrupted using a Sonic Dismembrator in buffer containing 50 mM Tris-HCl (pH 8.0), 120 mM NaCl, 0.5% NP-40, 0.25% Na Deoxycholate, 1 mM DTT, 2 μg/ml aprotinin, and 2 μg/ml leupeptin. Cell lysates from each transfection were subjected to SDS-PAGE followed by Western blot analysis using anti-p53 (DO.1, Pab-240, Santa Cruz, FL-393-G, Santa Cruz), PTEN (9552, Cell Signaling Technologies), MDM2 (SMp14, Santa Cruz, Ab-2, Oncogene Research Products), or Vinculin (VIN-11-5, Sigma) or Actin (A 4700, Sigma) antibodies, respectively.
+
+For immunoprecipitation experiments, 500 μg of cell lysate was incubated 12 hr at 4°C with 1 μg antibody (p53 Ab-4, Oncogene Research products; or PTEN antibody 9552, Cell Signaling Technology) plus 50 μl Protein A agarose beads (Immobilized Protein A, Pierce). Beads were washed three times with lysis buffer and centrifuged for 5 min at 5000 g between each wash. Protein was eluted from the beads with 50 μl of 2× Laemmli sample buffer (Bio-Rad). Lysates were separated on a 10% SDS-PAGE gel and transferred onto nitrocellulose (Bio-Rad) using a Semi-Dry TransBlot blotter (Bio-Rad).
+
+For half-life experiments, PtenΔloxp/Δloxp cells and Ptenloxp/loxp cells were grown to 70% confluence and transferred to serum-free medium containing 50 μg/ml cyclohexamide (Cyclohexamide, high purity, Calbiochem). For p53−/−;Mdm2 MEF cells, p53 or p53 and PTEN were transfected 24 hr prior to the addition of 50 ug/ml cyclohexamide in serum free medium. Cells were then lysed at indicated time points and further analyzed by Western blot. To evaluate the role of PI3 kinase pathway in PTEN controlled p53 protein levels, cells were pre-treated with 50 nM wortmannin for 10 min and then proceeded to half-life study in the presence of wortmannin as described above.
+
+Northern blot analysis
+Total RNA was purified from 1 × 106 of PtenΔloxp/Δloxp or Ptenloxp/loxp cells using an RNeasy kit (Qiagen). Fifteen micrograms of total RNA was loaded onto a 1% agarose gel containing 5.4% formaldehyde. RNA was transferred to Hybond-N+ nitrocellulose membrane (Amersham) and probed using standard methods. Quantitation was performed with Image Quant (Molecular Dynamics).
+
+Immunohistochemistry
+Immunohistochemical analysis was performed on formalin-fixed paraffin sections following antigen retrieval (BioGenex). PTEN antibody (26H9, Cell Signaling Technology), VECTASTAIN ABC Kit (Mouse IgG, 1:200, Vector Laboratories), and AEC (3-amino-9-ethylcarbazole) substrate (BioGenex) were used for detection according to the recommended protocol.
+
+Transcriptional activation assay
+The transcriptional activity of p53 was measured using pRGCE4Luc which contains one copy of the RGC p53 binding site cloned upstream of the adenovirus E4 TATA box and luciferase gene. Cells were lysed 24 hr post transfection in passive lysis buffer in accordance with the Dual-Glo Luciferase Assay System (Promega). Samples were normalized using Renilla Luciferase. Cells treated with LMB (10 μM) were lysed 12 hr post LMB addition.
+
+Electrophoretic mobility shift assay (EMSA)
+EMSA was carried out as described (Nie et al., 2000). Briefly, the RGC p53 binding site probe (5′-AGCTTGCCTCGAGCTTGCCTGGACTTGCCTGGTCGACGC-3′) was 32P-labeled with the Klenow fragment. Binding reactions contained 200 cpm of 32P-labeled probe, 75 ng of wild-type p53, or 10 ng of p53ΔC (Δ363), in the presence of 50 or 100 ng of GST-PTEN, GST-PTEN-C, GST-PTEN-CT, GST, or GST-c-Abl, in a total volume of 12.5 μl of reaction buffer (60 mM KCl, 12% glycerol, 5 mM MgCl2, 1 mM EDTA, 1 μg BSA, 0.1 μg poly [d(GC)]). Reactions were incubated at 30°C for 30 min, and then analyzed on a 5% polyacrylamide gel containing 0.5 × TBE (0.045 mM Tris-borate, 0.045 mM sodium borate, 0.001 mM EDTA [pH 8.0]). DNA-protein complexes were visualized with a PhosphorImager using Adobe Photoshop software.
+
+GST pulldown assay
+The p53 N-terminal and C-terminal deletion mutants were synthesized according to conditions recommended by the manufacturer (Promega). The mRNAs were translated in vitro for 1.5 hr at 30°C in rabbit reticulocyte lysate in the presence of 35S-methionine. Bacterially expressed GST-PTEN or PTEN-CS was incubated for 60 min with Glutathione-Sepharose (Pharmacia) in lysis buffer (20 mM Tris-borate [pH 8.0], 150 mM NaCl, 1% Triton X-100, 10% Glycerol, 2 mM EDTA, 2 mM DTT, 2 μg/ml Aproptinin, 2 μg/ml Leupeptin. 0.5 mM PMSF). Beads were then incubated for 60 min with the 35S-methionine labeled p53 mutants in incubation buffer (20 mM HEPES [pH 7.4], 150 mM KCl, 0.1% Triton X-100, 10% Glycerol, 0.1 mg/ml BSA, 5 mM EDTA, 5 mM DTT, 4 μg/ml Aproptinin, 4 μg/ml Leupeptin, 1 mM PMSF) with constant mixing. After incubation, the beads were washed three times with incubation buffer and boiled in 15 μl of 2× SDS sample buffer. The bound proteins were analyzed by SDS-PAGE and 35S-labeled proteins were visualized by autoradiography. The PTEN deletion mutants were constructed by PCR amplification and expressed as GST fusion proteins. Binding to p53 was measured by incubation with in vitro translated p53 or p53-ΔC363 in the conditions as described above.
+
+Chromatin-immunoprecipitation (ChIP) analysis
+ChIP analysis was carried out as described (Ma et al., 2001), except that the anti-p53 (FL-393-G, Santa Cruz) antibody was used for immunoprecipitation. After reversing the formaldehyde crosslinking by heating at 65°C overnight, DNA was extracted with phenol/chloroform, precipitated with ethanol, and dissolved in a total of 50 μl TE buffer. PCR amplifications were performed with 2 μl of DNA, using 25 and 30 cycles for SAOS2 and U2OS cells, respectively. Primers used in PCR were 5′-GTGGCTCTGATTGGCTTTCTG-3′ (forward) and 5′-CTGAAAACAGGCAGCCCAAG-3′ (reverse). PCR products were resolved by agarose-gel electrophoresis and visualized by ethidium bromide staining.
+
+The amounts of plasmids transfected into U2OS cells by lipofectAMINE (Invitrogen) were as follows: 4 μg of pMX-IES-gfp-PTEN, 4 μg of pMX-IES-gfp-PTEN-CS. The amounts of plasmids transfected into SAOS2 cells by Effectene (Qiagen) were as follows: 0.4 μg of pCDNA-p53, 0.4 μg of pCDNA-p53ΔC, 2 μg of p21p (a gift from Dr. Xiao-Fan Wang), 4 μg of pMX-IES-gfp-PTEN, 4 μg of pMX-IES-gfp-PTEN-CS.
+
+Supplementary data
+ 
+Supplementary data.  
+Help with PDF filesOptions
+Acknowledgements
+We thank Drs. Harvey Herschman, Charles Sawyers, Junying Yuan, Yue Xiong, Hong Sun, and members of our laboratories for helpful comments on the manuscript; Dr. Hong Sun for providing PTEN-GST fusion protein; Dr Yue Xiong for p53−/−;Mdm2−/− MEF cells; and Dr. Eva Lee for p53 knockout mice. H.W. is an Assistant Investigator of the Howard Hughes Medical Institute (HHMI). D.F. is supported by the Pre-doctoral Research Training Grant in Pharmacological Sciences and CapCURE foundation. R.L. was partially supported by HHMI and the Deutsche Forschungsgemeinschaft. H.M-D. is supported by the grant from DOD: PC991538. This work was supported by the following grants from the NIH: CA98013, CA-86306, CA75180, and grant from DOD: PC991538.
+
+References
+Ackler et al. 2002
+S. Ackler, S. Ahmad, C. Tobias, M.D. Johnson, R.I. Glazer
+Delayed mammary gland involution in MMTV-AKT1 transgenic mice
+Oncogene, 21 (2002), pp. 198–206
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (63)
+Bargonetti and Manfredi 2002
+J. Bargonetti, J.J. Manfredi
+Multiple roles of the tumor suppressor p53
+Curr. Opin. Oncol., 14 (2002), pp. 86–91
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (241)
+Di Cristofano and Pandolfi 2000
+A. Di Cristofano, P.P. Pandolfi
+The multiple roles of PTEN in tumor suppression
+Cell, 100 (2000), pp. 387–390
+
+Article |  PDF (90 K) | View Record in Scopus | Cited By in Scopus (714)
+Di Cristofano et al. 1998
+A. Di Cristofano, B. Pesce, C. Cordon-Cardo, P.P. Pandolfi
+Pten is essential for embryonic development and tumour suppression
+Nat. Genet., 19 (1998), pp. 348–355
+
+View Record in Scopus | Cited By in Scopus (897)
+Di Cristofano et al. 2001
+A. Di Cristofano, M. De Acetis, A. Koff, C. Cordon-Cardo, P.P. Pandolfi
+Pten and p27KIP1 cooperate in prostate cancer tumor suppression in the mouse
+Nat. Genet., 27 (2001), pp. 222–224
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (293)
+Downward 1998
+J. Downward
+Mechanisms and consequences of activation of protein kinase B/Akt
+Curr. Opin. Cell Biol., 10 (1998), pp. 262–267
+
+Article |  PDF (587 K) | View Record in Scopus | Cited By in Scopus (995)
+Franke et al. 1997
+T.F. Franke, D.R. Kaplan, L.C. Cantley, A. Toker
+Direct regulation of the Akt proto-oncogene product by phosphatidylinositol-3,4-bisphosphate
+Science, 275 (1997), pp. 665–668
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1032)
+Freedman and Levine 1998
+D.A. Freedman, A.J. Levine
+Nuclear export is required for degradation of endogenous p53 by MDM2 and human papillomavirus E6
+Mol. Cell. Biol., 18 (1998), pp. 7288–7293
+
+View Record in Scopus | Cited By in Scopus (352)
+Fujisawa et al. 2000
+H. Fujisawa, R.M. Reis, M. Nakamura, S. Colella, Y. Yonekawa, P. Kleihues, H. Ohgaki
+Loss of heterozygosity on chromosome 10 is more extensive in primary (de novo) than in secondary glioblastomas
+Lab. Invest., 80 (2000), pp. 65–72
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (111)
+Goberdhan et al. 1999
+D.C. Goberdhan, N. Paricio, E.C. Goodman, M. Mlodzik, C. Wilson
+Drosophila tumor suppressor PTEN controls cell size and number by antagonizing the Chico/PI3-kinase signaling pathway
+Genes Dev., 13 (1999), pp. 3244–3258
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (212)
+Groszer et al. 2001
+M. Groszer, R. Erickson, D.D. Scripture-Adams, R. Lesche, A. Trumpp, J.A. Zack, H.I. Kornblum, X. Liu, H. Wu
+Negative regulation of neural stem/progenitor cell proliferation by the Pten tumor suppressor gene in vivo
+Science, 294 (2001), pp. 2186–2189
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (448)
+Hanahan and Weinberg 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12553)
+Hill and Hemmings 2002
+M. Hill, B. Hemmings
+Inhibition of protein kinase B/Akt. Implications for cancer therapy
+Pharmacol. Ther., 93 (2002), pp. 243–251
+
+Article |  PDF (263 K) | View Record in Scopus | Cited By in Scopus (163)
+Iijima and Devreotes 2002
+M. Iijima, P. Devreotes
+Tumor suppressor PTEN mediates sensing of chemoattractant gradients
+Cell, 109 (2002), pp. 599–610
+
+Article |  PDF (595 K) | View Record in Scopus | Cited By in Scopus (407)
+Jayaraman et al. 1997a
+L. Jayaraman, E. Freulich, C. Prives
+Functional dissection of p53 tumor suppressor protein
+Methods Enzymol., 283 (1997), pp. 245–256 a
+
+Article |  PDF (2148 K) | View Record in Scopus | Cited By in Scopus (25)
+Jayaraman et al. 1997b
+L. Jayaraman, K.G. Murthy, C. Zhu, T. Curran, S. Xanthoudakis, C. Prives
+Identification of redox/repair protein Ref-1as a potent activator of p53
+Genes Dev., 11 (1997), pp. 558–570 b
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (380)
+Kamijo et al. 1997
+T. Kamijo, F. Zindy, M.F. Roussel, D.E. Quelle, J.R. Downing, R.A. Ashmun, G. Grosveld, C.J. Sherr
+Tumor suppression at the mouse INK4a locus mediated by the alternative reading frame product p19ARF
+Cell, 91 (1997), pp. 649–659
+
+Article |  PDF (364 K) | View Record in Scopus | Cited By in Scopus (1114)
+Kato et al. 2000
+H. Kato, S. Kato, T. Kumabe, Y. Sonoda, T. Yoshimoto, S.Y. Han, T. Suzuki, H. Shibata, R. Kanamaru, C. Ishioka
+Functional evaluation of p53 and PTEN gene mutations in gliomas
+Clin. Cancer Res., 6 (2000), pp. 3937–3943
+
+View Record in Scopus | Cited By in Scopus (64)
+Koul et al. 2002
+A. Koul, R. Willen, P.O. Bendahl, M. Nilbert, A. Borg
+Distinct sets of gene alterations in endometrial carcinoma implicate alternate modes of tumorigenesis
+Cancer, 94 (2002), pp. 2369–2379
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (69)
+Kurose et al. 2002
+K. Kurose, K. Gilley, S. Matsumoto, P. Watson, X.-P. Zhou, C. Eng
+Frequent somatic mutations in PTEN and TP53 are mutually exclusive in the stroma of breast carcinomas
+Nat. Genet., 32 (2002), pp. 355–357
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (247)
+Lee et al. 1999
+J.O. Lee, H. Yang, M.M. Georgescu, A. Di Cristofano, T. Maehama, Y. Shi, J.E. Dixon, P. Pandolfi, N.P. Pavletich
+Crystal structure of the PTEN tumor suppressor: implications for its phosphoinositide phosphatase activity and membrane association
+Cell, 99 (1999), pp. 323–334
+
+Article |  PDF (738 K) | View Record in Scopus | Cited By in Scopus (516)
+Lesche et al. 2002
+R. Lesche, M. Groszer, J. Gao, Y. Wang, A. Messing, H. Sun, X. Liu, H. Wu
+Cre/loxP-mediated inactivation of the murine Pten tumor suppressor gene
+Genesis, 32 (2002), pp. 148–149
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (135)
+Li et al. 1997
+J. Li, C. Yen, D. Liaw, K. Podsypanina, S. Bose, S.I. Wang, J. Puc, C. Miliaresis, L. Rodgers, R. McCombie et al.
+PTEN, a putative protein tyrosine phosphatase gene mutated in human brain, breast, and prostate cancer
+Science, 275 (1997), pp. 1943–1947
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2939)
+Li et al. 1998
+J. Li, L. Simpson, M. Takahashi, C. Miliaresis, M.P. Myers, N. Tonks, R. Parsons
+The PTEN/MMAC1 tumor suppressor induces cell death that is rescued by the AKT/protein kinase B oncogene
+Cancer Res., 58 (1998), pp. 5667–5672
+
+View Record in Scopus | Cited By in Scopus (230)
+Li et al. 2001
+Y. Li, K. Podsypanina, X. Liu, A. Crane, L.K. Tan, R. Parsons, H.E. Varmus
+Deficiency of Pten accelerates mammary oncogenesis in MMTV-Wnt-1 transgenic mice
+BMC Mol. Biol., 2 (2001), p. 2
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1)
+Liaw et al. 1997
+D. Liaw, D.J. Marsh, J. Li, P.L. Dahia, S.I. Wang, Z. Zheng, S. Bose, K.M. Call, H.C. Tsou, M. Peacocke et al.
+Germline mutations of the PTEN gene in Cowden disease, an inherited breast and thyroid cancer syndrome
+Nat. Genet., 16 (1997), pp. 64–67
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1194)
+Ma et al. 2001
+H. Ma, C.T. Baumann, H. Li, B.D. Strahl, R. Rice, M.A. Jelinek, D.W. Aswad, C.D. Allis, G.L. Hager, M.R. Stallcup
+Hormone-dependent, CARM1-directed, arginine-specific methylation of histone H3 on a steroid-regulated promoter
+Curr. Biol., 11 (2001), pp. 1981–1985
+
+Article |  PDF (207 K) | View Record in Scopus | Cited By in Scopus (143)
+Macleod and Jacks 1999
+K.F. Macleod, T. Jacks
+Insights into cancer from transgenic mouse models
+J. Pathol., 187 (1999), pp. 43–60
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (95)
+Maehama and Dixon 1998
+T. Maehama, J.E. Dixon
+The tumor suppressor, PTEN/MMAC1, dephosphorylates the lipid second messenger, phosphatidylinositol 3,4,5-trisphosphate
+J. Biol. Chem., 273 (1998), pp. 13375–13378
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1702)
+Maehama et al. 2001
+T. Maehama, G.S. Taylor, J.E. Dixon
+PTEN and myotubularin: Novel phosphoinositide phosphatases
+Annu. Rev. Biochem., 70 (2001), pp. 247–279
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (292)
+Malstrom et al. 2001
+S. Malstrom, E. Tili, D. Kappes, J.D. Ceci, P.N. Tsichlis
+Tumor induction by an Lck-MyrAkt transgene is delayed by mechanisms controlling the size of the thymus
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 14967–14972
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (72)
+Marsh et al. 1998
+D.J. Marsh, P.L. Dahia, V. Coulon, Z. Zheng, F. Dorion-Bonnet, K.M. Call, R. Little, A.Y. Lin, R.A. Eeles, A.M. Goldstein et al.
+Allelic imbalance, including deletion of PTEN/MMACI, at the Cowden disease locus on 10q22–23, in hamartomas from patients with Cowden syndrome and germline PTEN mutation
+Genes Chromosomes Cancer, 21 (1998), pp. 61–69
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (79)
+Mayo and Donner 2001
+L.D. Mayo, D.B. Donner
+A phosphatidylinositol 3-kinase/Akt pathway promotes translocation of Mdm2 from the cytoplasm to the nucleus
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 11598–11603
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (618)
+Mayo and Donner 2002
+L. Mayo, D. Donner
+The PTEN, Mdm2, p53 tumor suppressor-oncoprotein network
+Trends Biochem. Sci., 27 (2002), pp. 462–467
+
+Article |  PDF (225 K) | View Record in Scopus | Cited By in Scopus (221)
+Mayo et al. 2002
+L.D. Mayo, J.E. Dixon, D.L. Durden, N.K. Tonks, D.B. Donner
+PTEN protects p53 from Mdm2 and sensitizes cancer cells to chemotherapy
+J. Biol. Chem., 277 (2002), pp. 5484–5489
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (190)
+Myers and Tonks 1997
+M.P. Myers, N.K. Tonks
+Pten: sometimes taking it off can be better than putting it on
+Am. J. Hum. Genet., 61 (1997), pp. 1234–1238
+
+Article |  PDF (245 K) | View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (65)
+Myers et al. 1998
+M.P. Myers, I. Pass, I.H. Batty, J. Van der Kaay, J.P. Stolarov, B.A. Hemmings, M.H. Wigler, C.P. Downes, N.K. Tonks
+The lipid phosphatase activity of PTEN is critical for its tumor supressor function
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 13513–13518
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (706)
+Nelen et al. 1997
+M.R. Nelen, W.C. van Staveren, E.A. Peeters, M.B. Hassel, R.J. Gorlin, H. Hamm, C.F. Lindboe, J.P. Fryns, R.H. Sijmons, D.G. Woods et al.
+Germline mutations in the PTEN/MMAC1 gene in patients with Cowden disease
+Hum. Mol. Genet., 6 (1997), pp. 1383–1387
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (318)
+Nie et al. 2000
+Y. Nie, H.H. Li, C.M. Bula, X. Liu
+Stimulation of p53 DNA binding by c-Abl requires the p53 C terminus and tetramerization
+Mol. Cell. Biol., 20 (2000), pp. 741–748
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (50)
+Ogawara et al. 2002
+Y. Ogawara, S. Kishishita, T. Obata, Y. Isazawa, T. Suzuki, K. Tanaka, N. Masuyama, Y. Gotoh
+Akt enhances Mdm2-mediated ubiquitination and degradation of p53
+J. Biol. Chem., 277 (2002), pp. 21843–21850
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (240)
+Podsypanina et al. 1999
+K. Podsypanina, L.H. Ellenson, A. Nemes, J. Gu, M. Tamura, K.M. Yamada, C. Cordon-Cardo, G. Catoretti, P.E. Fisher, R. Parsons
+Mutation of Pten/Mmac1 in mice causes neoplasia in multiple organ systems
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 1563–1568
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (610)
+Rasheed et al. 1997
+B.K. Rasheed, T.T. Stenzel, R.E. McLendon, R. Parsons, A.H. Friedman, H.S. Friedman, D.D. Bigner, S.H. Bigner
+PTEN gene mutations are seen in high-grade but not in low-grade gliomas
+Cancer Res., 57 (1997), pp. 4187–4190
+
+View Record in Scopus | Cited By in Scopus (313)
+Schwertfeger et al. 2001
+K.L. Schwertfeger, M.M. Richert, S.M. Anderson
+Mammary gland involution is delayed by activated Akt in transgenic mice
+Mol. Endocrinol., 15 (2001), pp. 867–881
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (113)
+Sheng et al. 2002
+X. Sheng, D. Koul, J.L. Liu, T.J. Liu, W.K. Yung
+Promoter analysis of tumor suppressor gene PTEN: identification of minimum promoter region
+Biochem. Biophys. Res. Commun., 292 (2002), pp. 422–426
+
+Article |  PDF (147 K) | View Record in Scopus | Cited By in Scopus (29)
+Simpson and Parsons 2001
+L. Simpson, R. Parsons
+Pten: life as a tumor suppressor
+Exp. Cell Res., 264 (2001), pp. 29–41
+
+Article |  PDF (179 K) | View Record in Scopus | Cited By in Scopus (409)
+Stambolic et al. 2001
+V. Stambolic, D. MacPherson, D. Sas, Y. Lin, B. Snow, Y. Jang, S. Benchimol, T.W. Mak
+Regulation of PTEN transcription by p53
+Mol. Cell, 8 (2001), pp. 317–325
+
+Article |  PDF (438 K) | View Record in Scopus | Cited By in Scopus (462)
+Stambolic et al. 1998
+V. Stambolic, A. Suzuki, J.L. de la Pompa, G.M. Brothers, C. Mirtsos, T. Sasaki, J. Ruland, J.M. Penninger, D.P. Siderovski, T.W. Mak
+Negative regulation of PKB/Akt-dependent cell survival by the tumor suppressor PTEN
+Cell, 95 (1998), pp. 29–39
+
+Article |  PDF (998 K) | View Record in Scopus | Cited By in Scopus (1383)
+Steck et al. 1997
+P.A. Steck, M.A. Pershouse, S.A. Jasser, W.K. Yung, H. Lin, A.H. Ligon, L.A. Langford, M.L. Baumgard, T. Hattier, T. Davis et al.
+Identification of a candidate tumour suppressor gene, MMAC1, at chromosome 10q23.3 that is mutated in multiple advanced cancers
+Nat. Genet., 15 (1997), pp. 356–362
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1898)
+Stiles et al. 2002
+B. Stiles, V. Gilman, N. Khanzenzon, R. Lesche, A. Li, R. Qiao, X. Liu, H. Wu
+Essential role of AKT-1/protein kinase B alpha in PTEN-controlled tumorigenesis
+Mol. Cell. Biol., 22 (2002), pp. 3842–3851
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (93)
+Stocker et al. 2002
+H. Stocker, M. Andjelkovic, S. Oldham, M. Laffargue, M.P. Wymann, B.A. Hemmings, E. Hafen
+Living with lethal PIP3 levels: viability of flies lacking PTEN restored by a PH domain mutation in Akt/PKB
+Science, 295 (2002), pp. 2088–2091
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (122)
+Sun et al. 1999
+H. Sun, R. Lesche, D.M. Li, J. Liliental, H. Zhang, J. Gao, N. Gavrilova, B. Mueller, X. Liu, H. Wu
+PTEN modulates cell cycle progression and cell survival by regulating phosphatidylinositol 3,4,5,-trisphosphate and Akt/protein kinase B signaling pathway
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 6199–6204
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (439)
+Suzuki et al. 1998
+A. Suzuki, J.L. de la Pompa, V. Stambolic, A.J. Elia, T. Sasaki, I. del Barco Barrantes, A. Ho, A. Wakeham, A. Itie, W. Khoo et al.
+High cancer susceptibility and embryonic lethality associated with mutation of the PTEN tumor suppressor gene in mice
+Curr. Biol., 8 (1998), pp. 1169–1178
+
+Article |  PDF (207 K) | View Record in Scopus | Cited By in Scopus (7)
+Wu et al. 1998
+X. Wu, K. Senechal, M.S. Neshat, Y.E. Whang, C.L. Sawyers
+The PTEN/MMAC1 tumor suppressor phosphatase functions as a negative regulator of the phosphoinositide 3-kinase/Akt pathway
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 15587–15591
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (480)
+Xiao et al. 2002
+A. Xiao, H. Wu, P.P. Pandolfi, D.N. Louis, T. Van Dyke
+Astrocyte inactivation of the pRb pathway predisposes mice to malignant astrocytoma development that is accelerated by PTEN mutation
+Cancer Cell, 1 (2002), pp. 157–168
+
+Article |  PDF (5113 K) | View Record in Scopus | Cited By in Scopus (109)
+Yamada and Araki 2001
+K.M. Yamada, M. Araki
+Tumor suppressor PTEN: modulator of cell signaling, growth, migration and apoptosis
+J. Cell Sci., 114 (2001), pp. 2375–2382
+
+View Record in Scopus | Cited By in Scopus (256)
+You et al. 2002
+M.J. You, D.H. Castrillon, B.C. Bastian, R.C. O'Hagan, M.W. Bosenberg, R. Parsons, L. Chin, R.A. DePinho
+Genetic analysis of Pten and Ink4a/Arf interactions in the suppression of tumorigenesis in mice
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 1455–1460
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (101)
+Zhou and Hung 2002
+B.P. Zhou, M.C. Hung
+Novel targets of Akt, p21(Cipl/WAF1), and MDM2
+Semin. Oncol., 29 (2002), pp. 62–70
+
+Article |  PDF (192 K) | View Record in Scopus | Cited By in Scopus (62)
+Zhou et al. 2001
+B.P. Zhou, Y. Liao, W. Xia, Y. Zou, B. Spohn, M.C. Hung
+HER-2/neu induces p53 ubiquitination via Akt-mediated MDM2 phosphorylation
+Nat. Cell Biol., 3 (2001), pp. 973–982

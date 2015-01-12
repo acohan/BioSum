@@ -1,0 +1,808 @@
+Mammalian NDR protein kinases: From regulation to a role in centrosome duplication
+Alexander Hergovich, Hauke Cornils, Brian A. HemmingsCorresponding author contact information, E-mail the corresponding author
+  Show more
+DOI: 10.1016/j.bbapap.2007.07.017
+Get rights and content
+Abstract
+The NDR (nuclear Dbf2-related) family of kinases is highly conserved from yeast to human, and has been classified as a subgroup of the AGC group of protein kinases based on the sequence of the catalytic domain. Like all other members of the AGC class of protein kinases, NDR kinases require the phosphorylation of conserved Ser/Thr residues for activation. Importantly, NDR family members have two unique stretches of primary sequence: an N-terminal regulatory (NTR) domain and an insert of several residues between subdomains VII and VIII of the kinase domain. The kinase domain insert functions as an auto-inhibitory sequence (AIS), while binding of the co-activator MOB (Mps-one binder) proteins to the NTR domain releases NDR kinases from inhibition of autophosphorylation. However, despite such advances in our understanding of the molecular activation mechanism(s) and physiological functions of NDR kinases in yeast and invertebrates, most biological NDR substrates still remain to be identified. Nevertheless, by showing that the centrosomal subpopulation of human NDR1/2 is required for proper centrosome duplication, the first biological role of human NDR1/2 kinases has been defined recently. How far NDR-driven centrosome overduplication could actually contribute to cellular transformation will also be discussed.
+
+Abbreviations
+AGC, PKA/PKG/PKC-like; NDR, nuclear Dbf2-related; MOB, Mps-one binder; LATS, large tumour suppressor; Trc, tricornered; SAX-1, sensory axon guidance-1; PP2A, protein phosphatase type 2A; MST, Mammalian Ste20-like kinase; SWH, Salvador/Warts/Hippo; Hpo, Hippo; Sav, Salvador; Mer, Merlin; Ex, Expanded; Ft, Fat; Yki, Yorkie; RASSF1A, RAS-association domain family protein 1A; PLK4, Polo-like kinase 4; Cdk2, cyclin-dependent kinase 2; NTR, N-terminal regulatory; AIS, auto-inhibitory sequence; SPB, spindle pole bodies (SPB); MEN, mitotic exit network; SIN, septation initiation network
+Keywords
+NDR/LATS protein kinase; Activation mechanism; MOB binding; Subcellular localization; Centriole duplication; Tumour suppressor; Cellular transformation
+1. Introduction
+Protein kinases are crucial for the regulation of various cellular processes and have emerged as important therapeutic targets over the last decade, since many protein kinases are linked to human diseases. In human cells, 518 protein kinases have been identified so far that could catalyse transfer of phosphates (phosphorylation) to serine (Ser), threonine (Thr) and tyrosine residues, thereby defining protein kinases as one of the largest superfamilies found in the human genome [1]. In general, these enzymes have a catalytic domain of about 250 to 300 amino acids (in most cases combined with regulatory domains) which contains conserved residues that contribute to nucleotide binding, metal-binding, substrate binding, and phosphoryl transfer. These conserved residues are located within functional domains (subdomains) that can be used to describe structural details of protein kinases [2]. The phosphorylation of certain key residues – i.e. within the activation segment (subdomain VIII) – can also result in the modulation of kinase activity [3].
+
+The human genome encodes about 70 protein kinases that are classified as members of the serine/threonine AGC (protein kinase A (PKA)/PKG/PKC-like) class of protein kinases. Importantly, AGC kinases – such as PKA, protein kinase B (PKB, also known as AKT), p70 ribosomal S6 kinase (S6K) or p90 ribosomal S6 kinase (RSK) – require phosphorylation of a conserved Ser/Thr residue within the activation segment for activation, and have crucial functions in the regulation of cellular processes that are important for cell metabolism, proliferation and survival.
+
+2. Members of the NDR protein kinase family
+Members of the NDR (nuclear Dbf2-related) family of kinases are highly conserved from yeast to man [4]. The NDR family has been classified as a subgroup of the AGC group of protein kinases, based on the sequence of the catalytic domain [1]. Human cells express four related NDR kinases, NDR1 (also known as serine/threonine kinase 38 or STK38), NDR2 (or STK38L), LATS1 (large tumour suppressor-1) and LATS2. Members of the NDR family can also be found in Drosophila melanogaster [Trc (tricornered) and Warts/Lats], Caenorhabditis elegans [SAX-1 (sensory axon guidance-1) and LATS], Saccharomyces cerevisiae (Dbf2p, Dbf20p and Cbk1p), Schizosaccharomyces pombe (Sid2p and Orb6p), and some other fungi, protozoan and plants [4].
+
+While genetic studies have unraveled pathways (discussed in Section 3.4) and functions (discussed briefly in Section 4) that center around NDR kinases in yeast and invertebrates, the precise mechanisms of NDR regulation have been established in mammalian systems (summarized in Section 3). To date, NDR kinases have been shown to regulate mitosis, cell growth, embryonic development, and neurological processes [4]. Moreover, NDR kinases have recently been shown to control centrosome duplication [5]. A brief description of key NDR family members is included below. Table 1 provides a brief summary of the available, functional information on selected NDR kinases.
+
+Table 1.
+NDR kinase family members
+Kinase	Species	Functional information
+Dbf2p	S. cerevisiae	Controls mitotic exit and cytokinesis
+Cbk1p	S. cerevisiae	Centerpiece of RAM network; couples cell morphology with the cell cycle
+Sid2p	S. pombe	Regulates septum formation and cytokinesis
+Orb6p	S. pombe	Links morphological changes with the cell cycle
+TBPK50	T. brucei	Coordinates cell shape and cell cycle
+SAX-1	C. elegans	Important for neurite outgrowth and dendritic tiling
+Trc	D. melanogaster	Controls epidermal outgrowths, and dendritic tiling and branching
+Lats/Warts	D. melanogaster	Central player in the Hippo pathway; required for dendritic maintenance
+LATS1	H. sapiens/M. musculus	Regulates G2/M cell cycle transition, apoptosis and mitotic progression; part of the G1 tetraploidy checkpoint; the LATS1 cDNA can rescue the loss of D. melanogaster Lats/Warts
+LATS2	H. sapiens/M. musculus	Controls cell proliferation, genomic stability and mitotic progression; linked to the G1 tetraploidy checkpoint; essential gene, since LATS2 null mice die before embryonic day 12.5
+NDR1/STK38	H. sapiens/M. musculus	Required for centriole duplication; the NDR1 cDNA can compensate for the loss of D. melanogaster Trc
+NDR2/STK38L	H. sapiens/M. musculus	Functions in the regulation of neuronal growth and differentiation
+Table options
+3. Regulation of the NDR family
+In contrast to studies of the physiological roles of NDR kinases (mainly undertaken in yeast and flies), the regulatory mechanisms of NDR kinases at the molecular level have been mostly studied in mammalian cells over the past decade [4]. Nevertheless, we summarize in this section our current understanding of these processes with respect to the entire NDR family, with particular focus on the role of phosphorylation by Ste20-like kinases (Section 3.2) and the regulation of NDR kinases through their association with MOB (Mps-One-Binder) proteins (Section 3.3). At the end of this section, these components are discussed in the context of signaling cascades (Section 3.4).
+
+3.1. Regulation by phosphorylation
+All NDR kinases contain two main regulatory phosphorylation sites: the activation segment (Ser281 of human NDR1; or Ser909 of human LATS1) and the hydrophobic motif phosphorylation sites (Thr444 of human NDR1; or Thr1079 in human LATS1). While in other AGC kinases the activation loop is targeted by an upstream kinase (i.e. PDK1 phosphorylates PKBα on Thr308), the activation of NDR kinases is regulated by autophosphorylation on the activation segment [6] and [7]. Importantly, unlike other AGC kinases, NDR kinases also have a unique insert of several residues between subdomains VII and VIII of the kinase domain [4]. All kinase domain inserts contain a region that is rich in basic residues, located near the C-terminal end of this insert, hence this positively charged cluster immediately precedes the activation segment. Interestingly, this stretch of primary sequence seems to negatively affect NDR kinase activity, since a significant increase in kinase activity of human NDR1/2 was observed when the positive residues in the kinase domain insert were mutated to alanines [8]. Therefore, the insert motif is also referred to as an auto-inhibitory sequence (AIS), a typical feature of NDR family members.
+
+Similar to other AGC kinases, the hydrophobic motif of NDR kinases is targeted by an upstream kinase (discussed in Section 3.2). The best illustration of the importance of this phosphorylation event has been provided by a study of a distant relative of NDR kinases, namely PKB [9]. Phosphorylation of the hydrophobic motif of PKB results in structural reordering, or more specifically in a disorder-to-order transition. In contrast to PKB, a single change of the phospho-acceptor Thr to a phospho-mimicking residue is not sufficient to augment NDR kinase activity [10], however, the exchange of the entire hydrophobic motif of human NDR2 by the hydrophobic motif of PRK2 kinase (that mimics hydrophobic motif phosphorylation) leads to a constitutively active form of human NDR2 kinase [6]. Of note, mutating either the activation segment or the hydrophobic motif phospho-acceptor residue to alanine residues nearly completely abolishes the kinase activity of yeast, fly, mouse and human NDR kinases [4], thereby showing that the phosphorylation of both the activation segment and the hydrophobic motif is essential for NDR kinase activity. Furthermore, these activating phosphorylation events can be removed by protein phosphatase type 2A (PP2A) in mammalian, fly and yeast cells [4]. Overall, current evidence strongly indicates that NDR kinases are activated by multi-site phosphorylation and inactivated by dephosphorylation.
+
+3.2. Ste20-like upstream regulators
+Several genetic studies have already shown that Ste20-like kinases function upstream of NDR kinases (summarized in [4]). However, MST3 (mammalian serine/threonine Ste20-like kinase 3) was the first Ste20-like kinase shown to specifically phosphorylate the hydrophobic motif, but not the activation segment [11]. Another report provided further evidence that MST1/2 phosphorylate human LATS1/2 [12]. Moreover, several yeast Ste20-like kinases have been demonstrated to operate upstream of NDR kinases in budding and fission yeast. In flies, Hpo (one of two Ste20-like kinase in D. melanogaster) has been shown to function biochemically and genetically as a direct upstream regulator of Lats and Trc [13]. Importantly, the Jan laboratory could show that Hpo specifically phosphorylates the hydrophobic motif of Lats and Trc. Therefore, considering that human and fly NDR kinases are selectively phosphorylated on their hydrophobic motif phosphorylation site by Ste20-like kinases, it is very likely that the majority of NDR family members are targeted on this motif by their respective Ste20-like upstream regulators (i.e. phosphorylation of human LATS1 on Thr1079 by MST1/2 or phosphorylation of Dbf2p on Thr544 by Cdc15p). Studies are now needed that test whether this prediction is valid in other model systems in order to allow a full assessment of the conservation of the Ste20-like/NDR pathway. Current open questions include whether Sid2p is phosphorylated on Thr578 by Sid1p, or whether SAX-1 is regulated by phosphorylation on Thr441 by any of the two Ste20-like kinases in C. elegans. How far human LATS1/2 is specifically targeted on the hydrophobic motif phosphorylation site by MST1/2 also remains to be determined in cells.
+
+3.3. MOB proteins as co-activators
+Besides the unique insert between subdomains VII and VIII of the kinase domain, all NDR kinases have an N-terminal regulatory (NTR) domain that contains a number of conserved basic hydrophobic residues [4]. This positively charged cluster mediates the interaction between NDR kinases and a negatively charged area on the surface of the co-activator MOB (Mps-one binder). Genetic, structural, and biochemical studies strongly indicate that this interaction is essential for the regulation of NDR kinases. In S. cerevisiae and in S. pombe, Mob1p is crucial for the localization and kinase activity of Dbf2p and Sid2p, while Mob2p regulates Cbk1p and Orb6p, respectively (summarized in [4]). In Drosophila, expression of human hMOB1A can rescue the lethality associated with dMob1/Mats loss of function [14], thereby restoring the tumour suppressor activity of the Mats/Lats complex. However, different MOBs (dMob1–4) have been shown to interact with Trc and Lats in flies [15], whereby the Adler laboratory could demonstrate that residues conserved between yeast Mob1p and fly dMob2 were essential for the interaction of Trc with dMob2 [15]. Importantly, the same conserved residues in Mob1p are also important for the functionality of the Mob1p/Dbf2p complex in yeast [16]. Furthermore, substitutions of key residues by alanines in the NTR domain of human NDR1/2 and human LATS1 completely abolished their interaction with hMOB1A and severely impaired kinase activity [8], [17] and [18]. Taking into further consideration the structures of human, yeast and frog MOB1 [16], [19] and [20], together with our knowledge of key residues in human NDR1/2 and LATS1 that are required for hMOB1A association [8], [18] and [21], it is extremely likely that the positively charged NTR domain of NDR kinases is responsible for the direct interaction with a negatively charged surface on MOBs.
+
+Current data actually suggest several functions for the binding of MOBs to NDR kinases: (1) one study indicates that this binding releases human NDR1/2 kinases from inhibition mediated by the AIS within the kinase domain insert [8], (2) MOBs are thought to activate NDR kinases by the disruption of an inhibitory self-association in yeast [22], and (3) recent evidence further suggests that the targeting of MOBs to the plasma membrane is sufficient to fully activate human NDR1/2 and LATS1—most likely by allowing efficient autophosphorylation on the activation segment, and simultaneously recruiting NDR kinases into the proximity of its upstream kinase that phosphorylates the hydrophobic motif phosphorylation site [11], [17] and [18]. However, more work is needed in order to understand these regulatory processes in more detail. Nevertheless, it is intriguing that all NDR kinases contain the AIS motif [4] and that hMOB1A contains also a cluster of positively charged residues [16] which would allow its association with negatively charged phospholipids in membranous structures. Still, the mechanism(s) regulating the membrane association of MOBs are yet to be elucidated.
+
+3.4. Signaling cascades involving NDR kinases
+Lats kinase is the centerpiece of a pathway that balances the relationship between cell size, cell proliferation and cell death in flies—the Hippo (Hpo) or SWH (Salvador/Warts/Hippo) signaling cascade (please see also Section 4). In Drosophila, an unknown extracellular stimulus transmits a signal through Ft (Fat), Mer (Merlin) and Ex (Expanded) to a complex containing Hpo, Sav (Salvador), dMob1 and Lats, which in turn phosphorylates and inactivates the transcriptional co-activator Yki ( Fig. 1). Normally, Yki stimulates the transcription of cyclin E (a driver of cell proliferation), DIAP1 (an inhibitor of apoptosis) and the bantam microRNA. Thus, loss of Hpo signaling components results in tissue overgrowth that is associated with increased cell proliferation and decreased cell death. Current evidence strongly indicates that Hpo phosphorylates and activates Lats in a Sav/Hpo/Lats complex by a Sav-mediated manner (summarized in more detail by [4], [23] and [24]). Recent data further suggest that dMob1 associates with Hpo and is phosphorylated by Hpo [25]. Phosphorylated dMob1 then has a higher affinity for Lats, and this activated dMob1/Lats complex (both molecules are phosphorylated by Hpo) can target the downstream factor Yki more efficiently [25]. Interestingly, further evidence suggests that the Hpo pathway can be activated by radiation in a p53-dependent manner and that Hpo is required for p53-induced cell death in flies [26]. Therefore, the Hpo pathway might be kept in check by p53 under conditions of aberrant activity in Drosophila cells.
+
+Full-size image (104 K)
+Fig. 1. 
+NDR/LATS signaling pathways in yeast, flies and mammals. (A) The mitotic exit network in S. cerevisiae [32] and [33]. Tem1p activates the kinase Cdc15p (yellow), which phosphorylates Dbf2p (red) and Mob1p (green), whereby Nud1p (light yellow) serves as a scaffold. It is not known how the Dbf2p/Mob1p complex activates the phosphate Cdc14. (B) The Hippo/SWH pathway in D. melanogaster [23] and [24]. Expanded (Ex) and Merlin (Mer) stimulate a complex containing Sav (Salvador, light yellow); Hpo (Hippo, yellow); Lats (red) and dMob1 (also termed Mats, green), whereby Hpo phosphorylates both Lats and dMob1. The active Lats/dMob1 complex then inactivates Yorkie (Yki) by phosporylation. Consequently, Yki cannot stimulate the expression of DIAP1 and cyclin E, which results in decreased cell proliferation and increased cell death. (C) The Hpo/Trc pathway in control of morphological changes. Hpo (yellow) activates Trc (tricornered; red), and the active Trc/dMob1 (green) and Trc/dMob2 complexes are required for the control of dendritic tiling in sensory neurons and epidermal outgrowths. (D) The putative Hpo pathway in mammals [4], [23] and [24]. Mammalian sterile 20-like kinases 1 and 2 (MST1/2; yellow) associate with human Salvador (hSav also termed hWW45; light yellow) and activate LATS1/2 by phosphorylation. The LATS/hMOB1 (green; whereby hMOB1 can also be phosphorylated by MST2) then potentially activates specific gene expression programs through phosphorylation of YAP (the putative human orthologue of Yki). Of note, the existence of the entire mammalian signaling cascade remains to be documented. (E) The NDR/MST pathway. MST3 (yellow) phosphorylates NDR1/2 (red), and the NDR/hMOB (green) complex then potentially controls centriole duplication and neurite outgrowths. Noteworthy, it is currently unclear whether MST3 or hMOB1/2 contribute to any of those two NDR-related functions. Question marks highlight unknown upstream and downstream factors.
+Figure options
+Of importance, it appears that the entire Ft/Ex/Mer/Sav/Hpo/Lats/dMob1/Yki Drosophila cascade is conserved in mammals as the FAT/NF2/hWW45/MST/LATS/hMOB1/YAP pathway ( Fig. 1). hWW45, MST1/2, and LATS1 (the human relatives of Drosophila Sav, Hpo, and Lats, respectively) have been reported to form a complex [12], [27] and [28]. Furthermore, MST1/2 phosphorylates and activates human LATS1/2 [12], and hMOB1A associates with human LATS1 [18] and [21], LATS2 [29], as well as MST1 [25]. However, it remains to be determined whether the proto-oncogene YAP (the human orthologue of Yki; [30]) is regulated by the Hpo pathway in human cells, and whether the p53 tumour suppressor protein is required for the activation of MST1/2 by radiation. Of equal importance will be more studies that address whether the tumour suppressor RASSF1A (RAS-association domain family protein 1A) plays an activating or inhibiting role in the Hpo/Sav/Lats complex. Current reports suggest that dRASSF functions as an antagonist of the Hpo pathway in Drosophila [31], while in human cells RASSF1A activates MST2, thereby promoting the phosphorylation of LATS1 [28]. Overall, providing sound evidence for the conservation and physiological role of the entire Hpo pathway still remains a significant challenge in mammals.
+
+In the budding and fission yeast, the NDR kinases Dbf2p and Sid2p are essential for the functionality of MEN (mitotic exit network)/SIN (septation initiation network) networks [32] and [33]. In S. cerevisiae, after the initial activation of Tem1p, the Cdc15p protein kinase is stimulated, followed by increased activity of the Mob1p/Dbf2p complex, consequent release of the protein phosphatase Cdc14p from the nucleolus into the cytoplasm, thereby leading to a dephosphorylation wave through which cyclin B/cdc34p is inactivated, finally allowing the exit from mitosis ( Fig. 1). A very similar pathway consisting of Spg1p, Sid1p, Cdc7, Sid2, Mob1p, and Clp1p has also been described in fission yeast. Strikingly, it seems that several components of the yeast MEN/SIN pathway are conserved in human cells [4]. Some human proteins (for example CDC14) are functionally so conserved that they can compensate for the loss of their yeast counterpart [34]. Furthermore, human LATS1 and LATS2 have recently been reported to play a role in mitotic exit [21] and [29]. Nevertheless, any detailed analysis of mammalian MEN/SIN pathways is yet to be undertaken.
+
+4. Functions of NDR kinases in yeast and invertebrates
+As already pointed out, extensive genetic studies in budding and fission yeast have unraveled that NDR kinases play crucial roles in the regulation of MEN in budding yeast and SIN in fission yeast. Considering that both pathways (centering around Dbf2p and Sid2p, respectively) have already been reviewed in detail, we refer herein to selected reviews for further reading [32] and [33].
+
+The second NDR kinase in yeast (Cbk1p in budding yeast and Orb6p in fission yeast) is part of a morphogenesis network (see also [4]). In S. cerevisiae, Cbk1p is an essential component of the RAM (regulation of Ace2p activity and cellular morphogenesis) signaling cascade that regulates polarized growth. In S. pombe, Orb6p is required for the coordination of morphological changes with cell cycle progression. Interestingly, the existence of the RAM pathway with CBK1 as centerpiece has also been described in the human pathogenic fungus Cryptococcus neoformans [35]. Whether such morphogenesis networks also function in multicellular eukaryotes is not clear, although studies in the worm and fly showed that NDR family members have important roles concerning morphological changes in metazoans.
+
+In D. melanogaster, the NDR Kinase Trc is important for the integrity of outgrowths (such as epidermal hair) and essential for the control of non-redundant innervations (dendritic tiling) and branching of sensory neurons (summarized in more detail in [4]). The second NDR kinase in flies, Lats, has recently been reported to regulate the maintenance of dendrites by genetically interacting with Polycomb group genes [13] and [36]. The homologue of Trc in C. elegans, termed SAX-1, is also important for neurite growth and neurite tiling [37], indicating that NDR kinases play important roles during dendritic outgrowth in invertebrates.
+
+Lats is also part of a novel signaling network in Drosophila, known as the Hpo/SWH pathway [23] and [24]. Some components of this kinase cascade are: Salvador (Sav), Lats (also known as Warts), Hpo (a Sav binding partner that functions as upstream kinase of Lats), dMob1 (also termed Mats; a co-activator of Hpo and Lats), Yorkie (Yki; a substrate of Lats), as well as Expanded, Merlin and Fat. Currently, eleven proteins have been implicated as members of this pathway that are responsible for the coordination of cell growth, survival, and proliferation in D. melanogaster [23] and [24].
+
+5. Roles of mammalian NDR kinases
+Mammalian cells express four related NDR kinases, NDR1, NDR2, LATS1 and LATS2, whereas the latter two kinases have been shown to function as tumour suppressor proteins. LATS1-deficient mice exhibited ovarian and soft-tissue tumours, in addition to hypersensitivity to carcinogenic treatments [38]. Downregulation of LATS1/2 mRNA levels has been reported in association with human sarcomas, ovarian carcinomas, aggressive breast cancers, human astrocytomas and acute lymphoblastic leukemia [39], [40], [41] and [42]. Furthermore, LATS1 overexpression suppressed growth of MCF-7 cells in soft agar and tumour formation in nude mice [43]. In addition, the ectopic expression of LATS2 in v-Ras transformed NIH/3T3 cells suppressed the development of tumours in nude mice and inhibited cell proliferation in vitro [44]. The tumour suppressor activity of LATS2 has as yet not been addressed in knock-out animals, since LATS2-null mice die before embryonic day 12.5 due to proliferation defects and genomic instability [29] and [45]. In contrast, LATS1-deficient animals can develop normally and be fertile, although about 60% of female knock-out animals displayed infertility [38]. Moreover, male LATS1-null mice also appear to have reduced fertility [38].
+
+Mammalian NDR1 is also not essential for development because NDR1-deficient mice are viable and fertile. However, loss of NDR1 seems to be compensated by the elevation of NDR2 protein levels in a tissue-specific manner (Cornils, H., Stegert, M.R., Dirnhofer, S., and Hemmings, B.A., unpublished data). Nevertheless, aged NDR1-null animals develop T-cell lymphomas, and preliminary results suggest that knock-out animals might be hypersensitive to carcinogenic treatment (Cornils, H., Stegert, M.R., Dirnhofer, S., and Hemmings, B.A, unpublished data). The ongoing generation of NDR2-null and NDR1/NDR2 double knock-out mice will be essential to elucidate the full spectrum of the physiological roles of NDR1/2 kinases in mammals.
+
+Overall, LATS1/2 and NDR1 appear to be tumour suppressor proteins, although some evidence indicates that mammalian NDR1/2 kinases could function as proto-oncogenes. NDR1 mRNA levels are up-regulated in progressive ductal carcinoma in situ [46], lung adenocarcinoma [47] and [48], and ovarian cancer [49] and [50]. NDR2 mRNA levels are elevated in germ cell tumours [51] and [52], ovarian cancer [53], and a highly metastatic, non-small cell lung cancer cell line [54]. In addition, human NDR protein levels are increased in some melanoma cell lines [55], and the upstream integration of a retrovirus in the murine NDR2 locus resulted in B-cell lymphoma [56]. In contrast, NDR1 and NDR2 mRNA levels have been reported to be down-regulated in samples of patients suffering from prostate cancer [57], [58], [59] and [60]. Therefore, mammalian NDR1/2 kinases might have opposing roles in cancer, by either functioning as tumour suppressor proteins or oncogenes, as already reported for factors such as KLF4, CDKN1A, TGFβ, NOTCH1 or Ras [61]. Many more studies are now needed to tackle the role(s) of mammalian NDR kinases in cancer biology, in order to fully comprehend the potential importance of these kinases in cellular transformation. Perhaps already described functions of mammalian LATS/NDR kinases could be translated into the analysis of cancer development, in particular roles of mammalian LATS1/2 kinases that have been studied more intensively over the past years.
+
+On the cellular level, LATS1 has been shown to regulate the G2/M cell cycle transition and apoptosis [43] and [62], and to interact with the serine protease Omi/HtrA2 that can control cell proliferation and cell death [63] and [64]. Recently, it was reported that LATS1 seems to play a role in cellular senescence [65]. The LATS1 kinase has also been implicated in the regulation of mitotic progression [66], whereby evidence was provided that LATS1 regulates both mitotic exit [21] and cytokinesis [67]. Strikingly, LATS2 knock-out cells exhibit also acceleration of exit from mitosis [29], as well as defects in cell proliferation control and maintenance of genomic stability [45]. Similar to LATS1, LATS2 also controls cell cycle progression and apoptosis [44] and [68]. Both, LATS1 and LATS2, have further been linked to the G1 tetraploidy checkpoint [66] and [69], whereas LATS2 has been shown to be part of a positive feedback loop between p53 and LATS2 in order to prevent tetraploidisation [69]. Oren and colleagues reported that LATS2 protects p53 from Mdm2-mediated degradation in a kinase activity dependent manner, while elevated p53 protein levels stimulated the expression of LATS2 [69]. Interestingly, another study has documented that two microRNAs, miR-372 and miR-373 (that can function as novel oncogenes in the development of human testicular germ cell tumours), are implicated in the p53-mediated inhibition of Cdk (cyclin-dependent kinase), possibly by down-regulating the expression of LATS2 [70]. These findings suggest that the LATS2 and p53 tumour suppressor pathways can strongly interact and are also dependent on each other (at least to a certain degree). However, how far the putative mammalian Hpo pathway is involved in this collaboration with the p53 signaling cascade is as yet unclear (please see also Section 3.4 for a discussion of this point).
+
+In contrast to our detailed understanding of mammalian LATS1/2 kinases, only two functions have so far been attributed to mammalian NDR1/2 kinases: (1) mammalian NDR2 has been implicated in fear conditioning [71], and (2) human NDR1/2 kinases play a role in the regulation of centrosome duplication (discussed in detail in Section 6). Stork and colleagues observed that mouse NDR2 was up-regulated in the amygdala of fear-conditioned animals and proposed that NDR2 contributes to the coupling of morphological changes of neurons with fear-memory consolidation [71]. At least in cultured cells, they could show that the overexpression of NDR2 alters neuronal growth and differentiation, as well as facilitates neurite outgrowth. Therefore, mammalian NDR2 could potentially regulate dendritic tiling and branching, as already reported for invertebrate NDR kinases, Trc [72] and SAX-1 [37]. However, the physiological role(s) of mammalian NDR family members remain to be studied with respect to such dendritic interactions.
+
+6. Centrosome duplication and NDR kinases
+In animal cells, the centrosome (comprised of two centrioles surrounded by pericentriolar material) functions as a primary microtubule-organising center, regulates cell polarity, motility and adhesion, is required for cilia/flagella formation, and also plays a role in cell cycle regulation [73]. Centrosomal abnormalities occur in many cancer types and have been observed in association with genomic instability [74] and [75]. In addition, several centrosomal components are required for the assembly of cilia and flagella, which have essential functions in development and physiology [76], [77] and [78]. Therefore, it is crucial for a healthy organism to maintain centrosomes and centriole numbers under strict control. However, little is known about the co-ordination and control of centriole duplication.
+
+Electron microscopy studies have defined the main phases of the centrosome cycle: (1) centriole disengagement, (2) centriole duplication/formation of procentrioles, (3) elongation of procentrioles, (4) centrosome separation [73] and [74]. Genetic and proteomic screens have allowed the identification of proteins including ZYG-1, SPD-2 SAS-4, SAS-5, and SAS-6, that are part of a conserved centriole assembly protein module [73] and [79]. Recent evidence strongly indicates that PLK4 (Polo-like kinase 4; the mammalian homologue of ZYG-1) and SAS-6 are key regulators of centriole duplication since their absence abolishes centriole duplication, while their overexpression results in an increase of centrosome/centriole numbers in human and invertebrate cells [80], [81], [82], [83], [84], [85] and [86]. The depletion or inhibition of cyclin-dependent kinase 2 (Cdk2) also results in a block of centrosome (re-)duplication [87], [88], [89], [90], [91] and [92]. Therefore, centriole duplication is orchestrated by different protein kinases.
+
+Interestingly, NDR family members have been detected on spindle pole bodies (SPB; the equivalent of centrosomes in lower eukaryotes) and centrosomes. In yeast, Dbf2p and Sid2p reside on the SPB and at the cell division site (summarized in [4]), and in mammals, LATS1 and LATS2 have been detected on interphase and mitotic centrosomes [45], [93], [94], [95], [96] and [97]. Furthermore, mammalian NDR1/2 kinases have been found on centrosomal structures throughout the entire cell cycle [5]. Noteworthy, phospho-species of NDR1/2 were detectable on one out of two centrioles/centrosomes in G1/S phase, while NDR species were equally distributed between both centrosomes in G2/M phase (Fig. 2). Although NDR family members might utilize the SPB/centrosome “only” as signaling platforms [98] and [99], LATS2 knock-out cells displayed centrosome fragmentation and amplification [29] and [45]. Nevertheless, mammalian LATS1/2 kinases are most likely not directly involved in the control of centrosome duplication, because (1) the overexpression of LATS1/2 wild-type kinases did not cause an increase in centrosome numbers, and (2) the overproduction of LATS1/2 kinase-dead forms (which can function as dominant-negative molecules) did not interfere with centrosome overamplification [5].
+
+Full-size image (79 K)
+Fig. 2. 
+Cell cycle-dependent localization of phospho-NDR1/2 species. U2-OS cells were processed for immunofluorescence using indicated markers. Phospho-NDR1/2 molecules are shown in green, and centrosomes are indicated in red. DNA is stained in blue. Insets show enlargements of centrosomes. White arrowheads indicate midzone staining of phospho-NDR1/2. (Figure originally published in Hergovich et al., Molecular Cell [5]).
+Figure options
+Interestingly, the first known molecular function of mammalian NDR1/2 kinases has been defined as regulators of centriole duplication [5]. Overexpression of NDR1/2 resulted in centrosome/centriole overduplication in a kinase-activity-dependent manner, while expression of kinase-dead NDR1/2 or depletion of NDR1/2 by small interfering RNA (siRNA) negatively affected centrosome duplication (Fig. 3). Furthermore, by selectively targeting NDR species to the centrosome, our laboratory could show that the centrosomal pool of active NDR is sufficient to generate supernumerary centrosomes. In addition, our study revealed that NDR-driven centrosome duplication requires Cdk2 activity and that Cdk2-induced centrosome amplification is affected upon reduction of NDR kinase activity. Altogether, our recent data indicate that mammalian NDR1/2 kinase activity regulates centriole duplication directly on the centrosome in a Cdk2-dependent manner.
+
+Full-size image (65 K)
+Fig. 3. 
+Defective centriole duplication after knock-down of NDR1 by RNAi in human cells. (A) U2-OS cells expressing tetracycline-inducible short-hairpin RNA (shRNA) directed against human NDR1 were incubated without (−) or with (+) tetracycline for 4 days, before analysis by immunofluorescence. Centrioles are shown in green, the tubulin network in red, and DNA is stained blue. Insets show enlargements of centrioles. (B) Histograms show the percentage of mitotic cells (prophase and prometaphase) that displayed the indicated numbers of centrioles. Noteworthy, nearly 50% of cells with decreased NDR1 levels lacked at least one centriole, while less than 10% of control cells displayed such a characteristic. (Figure originally published in Hergovich et al., Molecular Cell [5]).
+Figure options
+Studies are now needed that address the mechanism of this function by testing the co-operation of NDR1/2 with other known regulators of centriole duplication. Possibly, tackling the relationship of NDR1/2 with the two master regulators of centriole duplication, PLK4 and SAS-6, will be of great interest. Considering that NDR1 immobilised on centrosomes still is able to affect centrosome duplication [5], it is very likely that direct substrates of NDR1/2 are present on centrosomes. Potentially, the identification and characterization of such substrates could reveal novel regulators of centriole duplication. However, any physiological substrates of mammalian NDR kinases remain to be defined [4]. Furthermore, it is as yet unclear at which step NDR1/2 kinases control centrosome duplication: (1) directly at the centrosome duplication machinery, (2) as licensing molecules, (3) or by co-coordinating DNA and centriole duplication [73]. Potentially, mammalian NDR1/2 are “general” regulators of cell cycle progression and DNA replication. Therefore, several different lines of research are now necessary to establish the precise role(s) of mammalian NDR1/2 at the molecular level.
+
+7. NDR kinases as therapeutic targets
+Abnormal centrosome amplification occurs frequently during cellular transformation (summarized in [100] and [101]), hence, factors contributing to the regulation of centriole duplication are likely to play a role in cancer development [74] and [102]. Furthermore, the deregulation of some regulators of centrosome duplication has already been shown to contribute to tumour formation. Elderly PLK4 heterozygote mice are prone to develop liver and lung cancers [103], while PLK4 null mice die very early at E7.5 during embryogenesis [104]. PLK4 knock-out embryos displayed increased cell death and an elevated mitotic index [104], similar to human cells depleted of PLK4 [80]. Interestingly, mitotic abnormalities and an increase in cell death were also reported after depletion of SAS-6 in human cells [82]. Furthermore, this link between centrosome duplication, embryonic survival, and haplo-insufficiency for tumour suppression has also been observed with nucleophosmin [105], another regulator of centrosome duplication [106] and [107]. NDR1+/− animals also develop tumours with increased age (Cornils, H., Stegert, M.R., Dirnhofer, S., and Hemmings, B.A., unpublished data), however, it is currently unclear how NDR's role in centriole duplication [5] contributes to this phenotype. Nevertheless, current data suggest that studies of mammalian NDR1/2 kinases might provide a further link between centrosome duplication and haploinsufficiency for tumour suppression. Altogether, these studies strongly support a link between centrosome defects and oncogenesis (summarized in Table 2) that has already been proposed nearly a century ago [108]. However, whether centrosome alterations are a cause or consequence of tumour development is as yet unclear [74] and [102].
+
+Table 2.
+Regulators of centrosome duplication and oncogenesis in mammals
+Protein	Species	Study	Phenotype
+PLK4	H. sapiens	RNAi	No centriole duplication
+Overexpression	Centriole amplification
+PLK4/SAK	M. musculus	Knock-out	Null mice die at E7.5; heterozygotes develop liver and lung cancers
+SAS-6	H. sapiens	RNAi	No centriole duplication
+Overexpression	Centriole amplification
+NPM1/B23	H. sapiens/M. musculus	RNAi	Centrosome amplification
+Overexpression	No centrosome duplication
+NPM/B23	M. musculus	Knock-out	Null mice die at E11.5–E16.5; heterozygotes develop blood disorders
+p53	H. sapiens	Mutations	Centrosome amplification
+p53	M. musculus	Knock-out	Centrosome amplification in p53 null cells
+NDR1/STK38	H. sapiens	RNAi	Impaired centriole duplication
+Overexpression	Centriole amplification
+NDR1/STK38	M. musculus	Knock-out	Hetero- and homozygote mice develop lymphomas
+Table options
+Although, one is tempted by our recent work to speculate that NDR kinases can function as oncogenes by driving centrosome overduplication [5], the existing animal data rather suggest that mammalian NDR1 has a role as a tumour suppressor protein (Cornils, H., Stegert, M.R., Dirnhofer, S., and Hemmings, B.A., unpublished data). However, since the loss of NDR1 appears to be compensated by the elevation of NDR2 protein levels in some, but not all, tissues (Cornils, H., Stegert, M.R., Dirnhofer, S., and Hemmings, B.A., unpublished data), one cannot yet exclude the possibility that the development of T-cell lymphomas in homo- and heterozygote NDR1 animals is simply the result of overcompensation by increased NDR2 protein levels. The analysis of NDR2-null and NDR1/NDR2 double knock-out mice will be essential to analyse this role of mammalian NDR1/2 as potential tumour suppressor proteins in more detail. Altogether, it will be crucial to address the role(s) of NDR1/2 kinases in cancer biology by taking into account that these kinases might show context-dependent, opposing roles in cellular transformation, as already reported for factors such as TGFβ, Notch, or Ras [61].
+
+Irrespective of its direct role in cellular transformation, mammalian NDR1/2 kinases might also be a useful target in cancer therapy on a different level. As already speculated earlier with respect to PLK4 [80] and [81], inhibition of a kinase that is involved in centriole duplication most likely will prove incompatible with cell proliferation. Therefore, our finding that human NDR1/2 kinases are required for proper centriole duplication [5] has potential implications for the development of anti-cancer compounds. However, two points are to be taken into consideration with respect to this approach: (1) murine NDR1 is not essential for development, because NDR1-deficient mice are viable and fertile [however, due to the potential compensation by NDR2 a full assessment of the role of mammalian NDR1/2 kinases in development will require the analysis of NDR1/NDR2 double knock-out animals], and (2) the increased tumourigenesis in NDR1 homo- and heterozygote mice may raise concerns as to the safety of an NDR kinase inhibitor. Nevertheless, we believe that it is worth testing whether diminished centriole duplication due to the downregulation of human NDR1/2 kinases negatively interferes with tumour cell proliferation. Experiments addressing the consequences of NDR1/2 knock-down on cell proliferation are currently ongoing in tumour-derived cell lines, in order to determine the potential value of NDR1/2 kinases as targets in cancer treatment. Another challenge is going to be whether researchers trained in drug design will be able to take advantage of the unique structure of NDR kinases (see Section 3). Furthermore, additional studies are to be undertaken that address the long-term consequences of blocked centriole duplication in normal and tumour tissues. Before the investment of more resources, one will first have to exclude the following scenario. After an initial wave of cell death and cell cycle arrest due to blocked centriole duplication, some cells with increased DNA content (possibly generated by abortion of mitosis or ongoing DNA replication) survive and proliferate even faster than the tumour cells before drug treatment. As a consequence of DNA amplification during the “centriole arrest”, cells might also have acquired an increased potential to form metastasis. In spite of these concerns, inhibitors of kinases that regulate centriole duplication might prove to be valid anti-cancer therapeutics in the future, in particular when applied in combination with other anti-proliferative cancer drugs.
+
+Besides being a potential drug target in human disease, another NDR family member could serve as target for anti-parasitic agents [109]. TBPK50, the NDR kinase in Trypanosoma brucei, has been shown to co-ordinate cell shape and division [110], whereby this function appears to be performed together with MOB1 [111]. Mottram and colleagues reported that TBPK50 forms an active complex with MOB1 in vivo, and more importantly, could show that MOB1 is required for cytokinesis in blood stream forms of T. brucei [111]. This finding that the TBPK50/MOB1 complex is essential for efficient proliferation makes the TBPK50 kinase a promising drug target candidate in trypanosomes. Therefore, further research on NDR kinases from different species could provide important leads in the discovery and validation of NDR kinases as targets for the development of anti-cancer as well as anti-parasitic therapeutics.
+
+8. Conclusions and perspectives
+Over the past decade, studies of NDR family members have revealed essential functions for NDR kinases in uni- and multi-cellular organisms. In yeast, NDR kinases regulate mitotic exit and cytokinesis, and their mammalian relatives appear to have similar roles. In flies, the Hpo/SWH signaling pathway coordinates cell death and proliferation, and this essential signaling cascade in Drosophila might also be conserved in vertebrates. Furthermore, NDR kinases have been shown to regulate morphological changes on the cellular level, in particular SAX-1 and TRC are important regulators of dendritic outgrowth in invertebrates. The corresponding physiological function, however, is yet to be addressed in more detail in mammals.
+
+The regulation of NDR kinases at the molecular level has also been studied in much detail over the past decade. Phosphorylation events on the activation segment and the hydrophobic motif have been shown to be essential for kinase activity as well as functionality of various NDR family members. The phosphorylation on the activation segment is controlled by two stretches of primary sequence that are unique for NDR kinases: (1) binding of MOB proteins to the NTR domain stimulates autophosphorylation, and (2) basic residues in close proximity to the activation segment phosphorylation site contribute to inhibition of phosphorylation. In contrast, genetic and biochemical evidence strongly indicates that the hydrophobic motif is targeted by members of the Ste20-like kinase family. Nevertheless, several lines of research are still necessary to define the precise roles of these NDR interactors. In particular, all five MST kinases and six MOB proteins are to be tested with respect to their involvement in the regulation of mammalian NDR/LATS kinases. Moreover, in spite of our advanced understanding of the molecular activation mechanism and function(s) of NDR kinases, the biological substrates still remain to be identified. Only one substrate of the entire NDR family is currently known, namely Drosophila Yki. Potentially, molecular studies of Yki phosphorylation by Lats will be able to provide general insights into the substrate specificity of NDR kinases, but many more NDR/LATS substrates are to be identified and characterized in order to complement our understanding of NDR-regulated morphological changes, mitotic exit or centrosome duplication. Any extracellular stimulus that activates NDR kinases is also unknown to date. In particular, research addressing the activating trigger for the Hpo/SWH pathway is currently of great interest.
+
+Altogether, one challenge is to identify more components of the already established Hpo/SWH and MEN/SIN networks in uni- and multicellular model organisms such as yeast, worms or flies. A second task is the translation from our knowledge gained in yeast and invertebrates to mammals. Studies addressing the regulation of dendritic outgrowth by NDR/LATS kinases as well as the composition of the still putative mammalian Hpo/SWH or MEN/SIN signaling cascades will be essential in order to broaden our knowledge with respect to mammalian NDR/LATS kinases. The phenotypical analysis of NDR1 and NDR2 single and double knock-out animals is also to be reported. The generation and detailed characterization of mice that carry a tissue-specific deletion of the desired kinase gene (i.e. LATS2) should be of great help in this respect. Considering the important role of NDR family members play in the control of mitotic events, cell death and proliferation in yeast and invertebrates, it is likely that their human counterparts play similar roles in the control of these central processes. Actually, ongoing cancer research is aiming to identify and characterize novel regulators of cell survival and proliferation that are dysfunctional in transformed mammalian cells. However, studies testing the contributions of mammalian NDR/LATS kinases (in particular of NDR1/2) and their regulators (i.e. MOB proteins) to human diseases such as cancer appear only now on the horizon. Over the coming years, it will be essential to understand where, how and why mammalian NDR1/2 and LATS1/2 kinases are required in embryonic development and tissue homeostasis, in order to establish how far NDR/LATS pathways are suitable therapeutic targets in the fight against human diseases.
+
+Acknowledgements
+We gratefully thank Dr. Joanna Lisztwan for critical comments on the manuscript, as well as the Novartis Research Foundation and the Swiss Cancer League for funding of this work.
+
+References
+[1]
+G. Manning, D.B. Whyte, R. Martinez, T. Hunter, S. Sudarsanam
+The protein kinase complement of the human genome
+Science, 298 (2002), pp. 1912–1934
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3185)
+[2]
+S.K. Hanks, T. Hunter
+Protein kinases 6. The eukaryotic protein kinase superfamily: kinase (catalytic) domain structure and classification
+FASEB J., 9 (1995), pp. 576–596
+
+View Record in Scopus | Citing articles (1621)
+[3]
+L.N. Johnson, M.E. Noble, D.J. Owen
+Active and inactive protein kinases: structural basis for regulation
+Cell, 85 (1996), pp. 149–158
+
+Article |  PDF (317 K) | View Record in Scopus | Citing articles (8)
+[4]
+A. Hergovich, M.R. Stegert, D. Schmitz, B.A. Hemmings
+NDR kinases regulate essential cell processes from yeast to humans
+Nat. Rev., Mol. Cell Biol., 7 (2006), pp. 253–264
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (134)
+[5]
+A. Hergovich, S. Lamla, E.A. Nigg, B.A. Hemmings
+Centrosome-associated NDR kinase regulates centrosome duplication
+Mol. Cell, 25 (2007), pp. 625–634
+
+Article |  PDF (1549 K) | View Record in Scopus | Citing articles (44)
+[6]
+M.R. Stegert, R. Tamaskovic, S.J. Bichsel, A. Hergovich, B.A. Hemmings
+Regulation of NDR2 protein kinase by multi-site phosphorylation and the S100B calcium-binding protein
+J. Biol. Chem., 279 (2004), pp. 23806–23812
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+[7]
+R. Tamaskovic, S.J. Bichsel, H. Rogniaux, M.R. Stegert, B.A. Hemmings
+Mechanism of Ca2+-mediated regulation of NDR protein kinase through autophosphorylation and phosphorylation by an upstream kinase
+J. Biol. Chem., 278 (2003), pp. 6710–6718
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+[8]
+S.J. Bichsel, R. Tamaskovic, M.R. Stegert, B.A. Hemmings
+Mechanism of activation of NDR (nuclear Dbf2-related) protein kinase by the hMOB1 protein
+J. Biol. Chem., 279 (2004), pp. 35228–35235
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (61)
+[9]
+J. Yang, P. Cron, V. Thompson, V.M. Good, D. Hess, B.A. Hemmings, D. Barford
+Molecular mechanism for the regulation of protein kinase B/Akt by hydrophobic motif phosphorylation
+Mol. Cell, 9 (2002), pp. 1227–1240
+
+Article |  PDF (1028 K) | View Record in Scopus | Citing articles (266)
+[10]
+T.A. Millward, D. Hess, B.A. Hemmings
+Ndr protein kinase is regulated by phosphorylation on two conserved sequence motifs
+J. Biol. Chem., 274 (1999), pp. 33847–33850
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (67)
+[11]
+M.R. Stegert, A. Hergovich, R. Tamaskovic, S.J. Bichsel, B.A. Hemmings
+Regulation of NDR protein kinase by hydrophobic motif phosphorylation mediated by the mammalian Ste20-like kinase MST3
+Mol. Cell. Biol., 25 (2005), pp. 11019–11029
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (73)
+[12]
+E.H. Chan, M. Nousiainen, R.B. Chalamalasetty, A. Schafer, E.A. Nigg, H.H. Sillje
+The Ste20-like kinase Mst2 activates the human large tumor suppressor kinase Lats1
+Oncogene, 24 (2005), pp. 2076–2086
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (154)
+[13]
+K. Emoto, J.Z. Parrish, L.Y. Jan, Y.N. Jan
+The tumour suppressor Hippo acts with the NDR kinases in dendritic tiling and maintenance
+Nature, 443 (2006), pp. 210–213
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+[14]
+Z.C. Lai, X. Wei, T. Shimizu, E. Ramos, M. Rohrbaugh, N. Nikolaidis, L.L. Ho, Y. Li
+Control of cell proliferation and apoptosis by mob as tumor suppressor, mats
+Cell, 120 (2005), pp. 675–685
+
+Article |  PDF (891 K) | View Record in Scopus | Citing articles (219)
+[15]
+Y. He, K. Emoto, X. Fang, N. Ren, X. Tian, Y.N. Jan, P.N. Adler
+Drosophila Mob family proteins interact with the related tricornered (Trc) and warts (Wts) kinases
+Mol Biol. Cell, 16 (2005), pp. 4139–4152
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+[16]
+E.S. Stavridi, K.G. Harris, Y. Huyen, J. Bothos, P.M. Verwoerd, S.E. Stayrook, N.P. Pavletich, P.D. Jeffrey, F.C. Luca
+Crystal structure of a human Mob1 protein: toward understanding Mob-regulated cell cycle pathways
+Structure, 11 (2003), pp. 1163–1170
+
+Article |  PDF (569 K) | View Record in Scopus | Citing articles (32)
+[17]
+A. Hergovich, S.J. Bichsel, B.A. Hemmings
+Human NDR kinases are rapidly activated by MOB proteins through recruitment to the plasma membrane and phosphorylation
+Mol. Cell. Biol., 25 (2005), pp. 8259–8272
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (45)
+[18]
+A. Hergovich, D. Schmitz, B.A. Hemmings
+The human tumour suppressor LATS1 is activated by human MOB1 at the membrane
+Biochem. Biophys. Res. Commun., 345 (2006), pp. 50–58
+
+Article |  PDF (919 K) | View Record in Scopus | Citing articles (45)
+[19]
+S. Mrkobrada, L. Boucher, D.F. Ceccarelli, M. Tyers, F. Sicheri
+Structural and functional analysis of Saccharomyces cerevisiae Mob1
+J. Mol. Biol., 362 (2006), pp. 430–440
+
+Article |  PDF (1165 K) | View Record in Scopus | Citing articles (16)
+[20]
+L. Ponchon, C. Dumas, A.V. Kajava, D. Fesquet, A. Padilla
+NMR solution structure of Mob1, a mitotic exit network protein and its interaction with an NDR kinase peptide
+J. Mol. Biol., 337 (2004), pp. 167–182
+
+Article |  PDF (3319 K) | View Record in Scopus | Citing articles (20)
+[21]
+J. Bothos, R.L. Tuttle, M. Ottey, F.C. Luca, T.D. Halazonetis
+Human LATS1 is a mitotic exit network kinase
+Cancer Res., 65 (2005), pp. 6568–6575
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+[22]
+M.C. Hou, D.A. Guertin, D. McCollum
+Initiation of cytokinesis is controlled through multiple modes of regulation of the Sid2p–Mob1p kinase complex
+Mol. Cell. Biol., 24 (2004), pp. 3262–3276
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+[23]
+K. Harvey, N. Tapon
+The Salvador–Warts–Hippo pathway—an emerging tumour-suppressor network
+Nat. Rev., Cancer, 7 (2007), pp. 182–191
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (260)
+[24]
+D. Pan
+Hippo signaling in organ size control
+Genes Dev., 21 (2007), pp. 886–897
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (218)
+[25]
+X. Wei, T. Shimizu, Z.C. Lai
+Mob as tumor suppressor is activated by Hippo kinase for growth inhibition in Drosophila
+EMBO J., 26 (2007), pp. 1772–1781
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+[26]
+J. Colombani, C. Polesello, F. Josue, N. Tapon
+Dmp53 activates the Hippo pathway to promote cell death in response to DNA damage
+Curr. Biol., 16 (2006), pp. 1453–1458
+
+Article |  PDF (379 K) | View Record in Scopus | Citing articles (35)
+[27]
+B.A. Callus, A.M. Verhagen, D.L. Vaux
+Association of mammalian sterile twenty kinases, Mst1 and Mst2, with hSalvador via C-terminal coiled-coil domains, leads to its stabilization and phosphorylation
+FEBS J., 273 (2006), pp. 4264–4276
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+[28]
+C. Guo, S. Tommasi, L. Liu, J.K. Yee, R. Dammann, G.P. Pfeifer
+RASSF1A is part of a complex similar to the Drosophila Hippo/Salvador/Lats tumor-suppressor network
+Curr. Biol., 17 (2007), pp. 700–705
+
+Article |  PDF (806 K) | View Record in Scopus | Citing articles (88)
+[29]
+N. Yabuta, N. Okada, A. Ito, T. Hosomi, S. Nishihara, Y. Sasayama, A. Fujimori, D. Okuzaki, H. Zhao, M. Ikawa, M. Okabe, H. Nojima
+Lats2 is an essential mitotic regulator required for the coordination of cell division
+J. Biol. Chem., 282 (2007), pp. 19259–19271
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (63)
+[30]
+M. Overholtzer, J. Zhang, G.A. Smolen, B. Muir, W. Li, D.C. Sgroi, C.X. Deng, J.S. Brugge, D.A. Haber
+Transforming properties of YAP, a candidate oncogene on the chromosome 11q22 amplicon
+Proc. Natl. Acad. Sci. U. S. A., 103 (2006), pp. 12405–12410
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (251)
+[31]
+C. Polesello, S. Huelsmann, N.H. Brown, N. Tapon
+The Drosophila RASSF homolog antagonizes the hippo pathway
+Curr. Biol., 16 (2006), pp. 2459–2465
+
+Article |  PDF (1452 K) | View Record in Scopus | Citing articles (69)
+[32]
+A.J. Bardin, A. Amon
+Men and sin: what's the difference?
+Nat. Rev., Mol. Cell Biol., 2 (2001), pp. 815–826
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (216)
+[33]
+W.J. Bosl, R. Li
+Mitotic-exit control as an evolved complex system
+Cell, 121 (2005), pp. 325–333
+
+Article |  PDF (393 K) | View Record in Scopus | Citing articles (41)
+[34]
+M.D. Vazquez-Novelle, V. Esteban, A. Bueno, M.P. Sacristan
+Functional homology among human and fission yeast Cdc14 phosphatases
+J. Biol. Chem., 280 (2005), pp. 29144–29150
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[35]
+F.J. Walton, J. Heitman, A. Idnurm
+Conserved elements of the RAM signaling pathway establish cell polarity in the basidiomycete Cryptococcus neoformans in a divergent fashion from other fungi
+Mol. Biol. Cell, 17 (2006), pp. 3768–3780
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+[36]
+J.Z. Parrish, K. Emoto, L.Y. Jan, Y.N. Jan
+Polycomb genes interact with the tumor suppressor genes hippo and warts in the maintenance of Drosophila sensory neuron dendrites
+Genes Dev., 21 (2007), pp. 956–972
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[37]
+M.E. Gallegos, C.I. Bargmann
+Mechanosensory neurite termination and tiling depend on SAX-2 and the SAX-1 kinase
+Neuron, 44 (2004), pp. 239–249
+
+Article |  PDF (630 K) | View Record in Scopus | Citing articles (57)
+[38]
+M.A. St John, W. Tao, X. Fei, R. Fukumoto, M.L. Carcangiu, D.G. Brownstein, A.F. Parlow, J. McGrath, T. Xu
+Mice deficient of Lats1 develop soft-tissue sarcomas, ovarian tumours and pituitary dysfunction
+Nat. Genet., 21 (1999), pp. 182–186
+
+View Record in Scopus | Citing articles (206)
+[39]
+M. Hisaoka, A. Tanaka, H. Hashimoto
+Molecular alterations of h-warts/LATS1 tumor suppressor in human soft tissue sarcoma
+Lab. Invest., 82 (2002), pp. 1427–1435
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+[40]
+Z. Jiang, X. Li, J. Hu, W. Zhou, Y. Jiang, G. Li, D. Lu
+Promoter hypermethylation-mediated down-regulation of LATS1 and LATS2 in human astrocytoma
+Neurosci. Res., 56 (2006), pp. 450–458
+
+Article |  PDF (945 K) | View Record in Scopus | Citing articles (69)
+[41]
+A. Jimenez-Velasco, J. Roman-Gomez, X. Agirre, M. Barrios, G. Navarro, I. Vazquez, F. Prosper, A. Torres, A. Heiniger
+Downregulation of the large tumor suppressor 2 (LATS2/KPM) gene is associated with poor prognosis in acute lymphoblastic leukemia
+Leukemia, 19 (2005), pp. 2347–2350
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+[42]
+Y. Takahashi, Y. Miyoshi, C. Takahata, N. Irahara, T. Taguchi, Y. Tamaki, S. Noguchi
+Down-regulation of LATS1 and LATS2 mRNA expression by promoter hypermethylation and its association with biologically aggressive phenotype in human breast cancers
+Clin. Cancer Res., 11 (2005), pp. 1380–1385
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (121)
+[43]
+H. Xia, H. Qi, Y. Li, J. Pei, J. Barton, M. Blackstad, T. Xu, W. Tao
+LATS1 tumor suppressor regulates G2/M transition and apoptosis
+Oncogene, 21 (2002), pp. 1233–1241
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+[44]
+Y. Li, J. Pei, H. Xia, H. Ke, H. Wang, W. Tao
+Lats2, a putative tumor suppressor, inhibits G1/S transition
+Oncogene, 22 (2003), pp. 4398–4405
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+[45]
+J.P. McPherson, L. Tamblyn, A. Elia, E. Migon, A. Shehabeldin, E. Matysiak-Zablocki, B. Lemmers, L. Salmena, A. Hakem, J. Fish, F. Kassam, J. Squire, B.G. Bruneau, M.P. Hande, R. Hakem
+Lats2/Kpm is required for embryonic development, proliferation control and genomic integrity
+EMBO J., 23 (2004), pp. 3677–3688
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+[46]
+A. Adeyinka, E. Emberley, Y. Niu, L. Snell, L.C. Murphy, H. Sowter, C.C. Wykoff, A.L. Harris, P.H. Watson
+Analysis of gene expression in ductal carcinoma in situ of the breast
+Clin. Cancer Res., 8 (2002), pp. 3788–3795
+
+View Record in Scopus | Citing articles (55)
+[47]
+A. Bhattacharjee, W.G. Richards, J. Staunton, C. Li, S. Monti, P. Vasa, C. Ladd, J. Beheshti, R. Bueno, M. Gillette, M. Loda, G. Weber, E.J. Mark, E.S. Lander, W. Wong, B.E. Johnson, T.R. Golub, D.J. Sugarbaker, M. Meyerson
+Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses
+Proc. Natl. Acad. Sci. U. S. A., 98 (2001), pp. 13790–13795
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1363)
+[48]
+M.E. Garber, O.G. Troyanskaya, K. Schluens, S. Petersen, Z. Thaesler, M. Pacyna-Gengelbach, M. van de Rijn, G.D. Rosen, C.M. Perou, R.I. Whyte, R.B. Altman, P.O. Brown, D. Botstein, I. Petersen
+Diversity of gene expression in adenocarcinoma of the lung
+Proc. Natl. Acad. Sci. U. S. A., 98 (2001), pp. 13784–13789
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (772)
+[49]
+K.H. Lu, A.P. Patterson, L. Wang, R.T. Marquez, E.N. Atkinson, K.A. Baggerly, L.R. Ramoth, D.G. Rosen, J. Liu, I. Hellstrom, D. Smith, L. Hartmann, D. Fishman, A. Berchuck, R. Schmandt, R. Whitaker, D.M. Gershenson, G.B. Mills, R.C. Bast Jr.
+Selection of potential markers for epithelial ovarian cancer with gene expression arrays and recursive descent partition analysis
+Clin. Cancer Res., 10 (2004), pp. 3291–3300
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (243)
+[50]
+J.B. Welsh, P.P. Zarrinkar, L.M. Sapinoso, S.G. Kern, C.A. Behling, B.J. Monk, D.J. Lockhart, R.A. Burger, G.M. Hampton
+Analysis of gene expression profiles in normal and neoplastic ovarian tissue samples identifies candidate molecular markers of epithelial ovarian cancer
+Proc. Natl. Acad. Sci. U. S. A., 98 (2001), pp. 1176–1181
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (458)
+[51]
+J.E. Korkola, J. Houldsworth, R.S. Chadalavada, A.B. Olshen, D. Dobrzynski, V.E. Reuter, G.J. Bosl, R.S. Chaganti
+Down-regulation of stem cell genes, including those in a 200-kb gene cluster at 12p13.31, is associated with in vivo differentiation of human male germ cell tumors
+Cancer Res., 66 (2006), pp. 820–827
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (144)
+[52]
+J.M. Sperger, X. Chen, J.S. Draper, J.E. Antosiewicz, C.H. Chon, S.B. Jones, J.D. Brooks, P.W. Andrews, P.O. Brown, J.A. Thomson
+Gene expression patterns in human embryonic stem cells and human pluripotent germ cell tumors
+Proc. Natl. Acad. Sci. U. S. A., 100 (2003), pp. 13350–13355
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (412)
+[53]
+M.E. Schaner, D.T. Ross, G. Ciaravino, T. Sorlie, O. Troyanskaya, M. Diehn, Y.C. Wang, G.E. Duran, T.L. Sikic, S. Caldeira, H. Skomedal, I.P. Tu, T. Hernandez-Boussard, S.W. Johnson, P.J. O'Dwyer, M.J. Fero, G.B. Kristensen, A.L. Borresen-Dale, T. Hastie, R. Tibshirani, M. van de Rijn, N.N. Teng, T.A. Longacre, D. Botstein, P.O. Brown, B.I. Sikic
+Gene expression patterns in ovarian carcinomas
+Mol. Biol. Cell, 14 (2003), pp. 4376–4386
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (182)
+[54]
+D.T. Ross, U. Scherf, M.B. Eisen, C.M. Perou, C. Rees, P. Spellman, V. Iyer, S.S. Jeffrey, M. Van de Rijn, M. Waltham, A. Pergamenschikov, J.C. Lee, D. Lashkari, D. Shalon, T.G. Myers, J.N. Weinstein, D. Botstein, P.O. Brown
+Systematic variation in gene expression patterns in human cancer cell lines
+Nat. Genet., 24 (2000), pp. 227–235
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1433)
+[55]
+T.A. Millward, C.W. Heizmann, B.W. Schafer, B.A. Hemmings
+Calcium regulation of Ndr protein kinase mediated by S100 calcium-binding proteins
+EMBO J., 17 (1998), pp. 5913–5922
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (104)
+[56]
+T. Suzuki, H. Shen, K. Akagi, H.C. Morse, J.D. Malley, D.Q. Naiman, N.A. Jenkins, N.G. Copeland
+New genes involved in cancer identified by retroviral tagging
+Nat. Genet., 32 (2002), pp. 166–174
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (278)
+[57]
+J. Lapointe, C. Li, J.P. Higgins, M. van de Rijn, E. Bair, K. Montgomery, M. Ferrari, L. Egevad, W. Rayford, U. Bergerheim, P. Ekman, A.M. DeMarzo, R. Tibshirani, D. Botstein, P.O. Brown, J.D. Brooks, J.R. Pollack
+Gene expression profiling identifies clinically relevant subtypes of prostate cancer
+Proc. Natl. Acad. Sci. U. S. A., 101 (2004), pp. 811–816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+[58]
+E. LaTulippe, J. Satagopan, A. Smith, H. Scher, P. Scardino, V. Reuter, W.L. Gerald
+Comprehensive gene expression analysis of prostate cancer reveals distinct transcriptional programs associated with metastatic disease
+Cancer Res., 62 (2002), pp. 4499–4506
+
+View Record in Scopus | Citing articles (283)
+[59]
+J.B. Welsh, L.M. Sapinoso, A.I. Su, S.G. Kern, J. Wang-Rodriguez, C.A. Moskaluk, H.F. Frierson Jr., G.M. Hampton
+Analysis of gene expression identifies candidate markers and pharmacological targets in prostate cancer
+Cancer Res., 61 (2001), pp. 5974–5978
+
+View Record in Scopus | Citing articles (562)
+[60]
+Y.P. Yu, D. Landsittel, L. Jing, J. Nelson, B. Ren, L. Liu, C. McDonald, R. Thomas, R. Dhir, S. Finkelstein, G. Michalopoulos, M. Becich, J.H. Luo
+Gene expression alterations in prostate cancer predicting tumor aggression and preceding development of malignancy
+J. Clin. Oncol., 22 (2004), pp. 2790–2799
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (329)
+[61]
+B.D. Rowl, D.S. Peeper
+KLF4, p21 and context-dependent opposing forces in cancer
+Nat. Rev., Cancer, 6 (2006), pp. 11–23
+
+[62]
+X. Yang, D.M. Li, W. Chen, T. Xu
+Human homologue of Drosophila lats, LATS1, negatively regulate growth by inducing G(2)/M arrest or apoptosis
+Oncogene, 20 (2001), pp. 6516–6523
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (67)
+[63]
+S. Kuninaka, S.I. Iida, T. Hara, M. Nomura, H. Naoe, T. Morisaki, M. Nitta, Y. Arima, T. Mimori, S. Yonehara, H. Saya
+Serine protease Omi/HtrA2 targets WARTS kinase to control cell proliferation
+Oncogene, 26 (2007), pp. 2395–2406
+
+View Record in Scopus | Citing articles (19)
+[64]
+S. Kuninaka, M. Nomura, T. Hirota, S. Iida, T. Hara, S. Honda, N. Kunitoku, T. Sasayama, Y. Arima, T. Marumoto, K. Koja, S. Yonehara, H. Saya
+The tumor suppressor WARTS activates the Omi/HtrA2-dependent pathway of cell death
+Oncogene, 24 (2005), pp. 5287–5298
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[65]
+A. Takahashi, N. Ohtani, K. Yamakoshi, S. Iida, H. Tahara, K. Nakayama, K.I. Nakayama, T. Ide, H. Saya, E. Hara
+Mitogenic signalling and the p16INK4a-Rb pathway cooperate to enforce irreversible cellular senescence
+Nat. Cell Biol., 8 (2006), pp. 1291–1297
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (155)
+[66]
+S. Iida, T. Hirota, T. Morisaki, T. Marumoto, T. Hara, S. Kuninaka, S. Honda, K. Kosai, M. Kawasuji, D.C. Pallas, H. Saya
+Tumor suppressor WARTS ensures genomic integrity by regulating both mitotic progression and G1 tetraploidy checkpoint function
+Oncogene, 23 (2004), pp. 5266–5274
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+[67]
+X. Yang, K. Yu, Y. Hao, D.M. Li, R. Stewart, K.L. Insogna, T. Xu
+LATS1 tumour suppressor affects cytokinesis by inhibiting LIMK1
+Nat. Cell Biol., 6 (2004), pp. 609–617
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (89)
+[68]
+H. Ke, J. Pei, Z. Ni, H. Xia, H. Qi, T. Woods, A. Kelekar, W. Tao
+Putative tumor suppressor Lats2 induces apoptosis through downregulation of Bcl-2 and Bcl-x(L)
+Exp. Cell Res., 298 (2004), pp. 329–338
+
+Article |  PDF (640 K) | View Record in Scopus | Citing articles (40)
+[69]
+Y. Aylon, D. Michael, A. Shmueli, N. Yabuta, H. Nojima, M. Oren
+A positive feedback loop between the p53 and Lats2 tumor suppressors prevents tetraploidization
+Genes Dev., 20 (2006), pp. 2687–2700
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (103)
+[70]
+P.M. Voorhoeve, C. le Sage, M. Schrier, A.J. Gillis, H. Stoop, R. Nagel, Y.P. Liu, J. van Duijse, J. Drost, A. Griekspoor, E. Zlotorynski, N. Yabuta, G. De Vita, H. Nojima, L.H. Looijenga, R. Agami
+A genetic screen implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell tumors
+Cell, 124 (2006), pp. 1169–1181
+
+Article |  PDF (863 K) | View Record in Scopus | Citing articles (631)
+[71]
+O. Stork, A. Zhdanov, A. Kudersky, T. Yoshikawa, K. Obata, H.C. Pape
+Neuronal functions of the novel serine/threonine kinase Ndr2
+J. Biol. Chem., 279 (2004), pp. 45773–45781
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[72]
+K. Emoto, Y. He, B. Ye, W.B. Grueber, P.N. Adler, L.Y. Jan, Y.N. Jan
+Control of dendritic branching and tiling by the Tricornered-kinase/Furry signaling pathway in Drosophila sensory neurons
+Cell, 119 (2004), pp. 245–256
+
+Article |  PDF (1029 K) | View Record in Scopus | Citing articles (121)
+[73]
+M. Bettencourt-Dias, D.M. Glover
+Centrosome biogenesis and function: centrosomics brings new understanding
+Nat. Rev., Mol. Cell Biol., 8 (2007), pp. 451–463
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (214)
+[74]
+E.A. Nigg
+Centrosome aberrations: cause or consequence of cancer progression?
+Nat. Rev., Cancer, 2 (2002), pp. 815–825
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (422)
+[75]
+G. Sluder, J.J. Nordberg
+The good, the bad and the ugly: the practical consequences of centrosome amplification
+Curr. Opin. Cell Biol., 16 (2004), pp. 49–54
+
+Article |  PDF (166 K) | View Record in Scopus | Citing articles (84)
+[76]
+J.L. Badano, T.M. Teslovich, N. Katsanis
+The centrosome in human genetic disease
+Nat. Rev., Genet., 6 (2005), pp. 194–205
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (144)
+[77]
+S.T. Christensen, L.B. Pedersen, L. Schneider, P. Satir
+Sensory cilia and integration of signal transduction in human health and disease
+Traffic, 8 (2007), pp. 97–109
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+[78]
+F. Hildebrandt, E. Otto
+Cilia and centrosomes: a unifying pathogenic concept for cystic kidney disease?
+Nat. Rev., Genet., 6 (2005), pp. 928–940
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (165)
+[79]
+S. Leidel, P. Gonczy
+Centrosome duplication and nematodes: recent insights from an old relationship
+Dev. Cell, 9 (2005), pp. 317–325
+
+Article |  PDF (368 K) | View Record in Scopus | Citing articles (29)
+[80]
+M. Bettencourt-Dias, A. Rodrigues-Martins, L. Carpenter, M. Riparbelli, L. Lehmann, M.K. Gatt, N. Carmo, F. Balloux, G. Callaini, D.M. Glover
+SAK/PLK4 is required for centriole duplication and flagella development
+Curr. Biol., 15 (2005), pp. 2199–2207
+
+Article |  PDF (875 K) | View Record in Scopus | Citing articles (183)
+[81]
+R. Habedanck, Y.D. Stierhof, C.J. Wilkinson, E.A. Nigg
+The Polo kinase Plk4 functions in centriole duplication
+Nat. Cell Biol., 7 (2005), pp. 1140–1146
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (230)
+[82]
+S. Leidel, M. Delattre, L. Cerutti, K. Baumer, P. Gonczy
+SAS-6 defines a protein family required for centrosome duplication in C. elegans and in human cells
+Nat. Cell Biol., 7 (2005), pp. 115–125
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (139)
+[83]
+K.F. O'Connell, C. Caron, K.R. Kopish, D.D. Hurd, K.J. Kemphues, Y. Li, J.G. White
+The C. elegans zyg-1 gene encodes a regulator of centrosome duplication with distinct maternal and paternal roles in the embryo
+Cell, 105 (2001), pp. 547–558
+
+Article |  PDF (1278 K) | View Record in Scopus | Citing articles (136)
+[84]
+N. Peel, N.R. Stevens, R. Basto, J.W. Raff
+Overexpressing centriole-replication proteins in vivo induces centriole overduplication and de novo formation
+Curr. Biol., 17 (2007), pp. 834–843
+
+Article |  PDF (1338 K) | View Record in Scopus | Citing articles (102)
+[85]
+L. Pelletier, E. O'Toole, A. Schwager, A.A. Hyman, T. Muller-Reichert
+Centriole assembly in Caenorhabditis elegans
+Nature, 444 (2006), pp. 619–623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (161)
+[86]
+A. Rodrigues-Martins, M. Riparbelli, G. Callaini, D.M. Glover, M. Bettencourt-Dias
+Revisiting the role of the mother centriole in centriole biogenesis
+Science, 316 (2007), pp. 1046–1050
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+[87]
+C.R. Cowan, A.A. Hyman
+Cyclin E-Cdk2 temporally regulates centrosome assembly and establishment of polarity in Caenorhabditis elegans embryos
+Nat. Cell Biol., 8 (2006), pp. 1441–1447
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+[88]
+A. Duensing, Y. Liu, M. Tseng, M. Malumbres, M. Barbacid, S. Duensing
+Cyclin-dependent kinase 2 is dispensable for normal centrosome duplication but required for oncogene-induced centrosome overduplication
+Oncogene, 25 (2006), pp. 2943–2949
+
+View Record in Scopus | Citing articles (55)
+[89]
+E.H. Hinchcliffe, C. Li, E.A. Thompson, J.L. Maller, G. Sluder
+Requirement of Cdk2-cyclin E activity for repeated centrosome reproduction in Xenopus egg extracts
+Science, 283 (1999), pp. 851–854
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (348)
+[90]
+K.R. Lacey, P.K. Jackson, T. Stearns
+Cyclin-dependent kinase control of centrosome duplication
+Proc. Natl. Acad. Sci. U. S. A., 96 (1999), pp. 2817–2822
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (284)
+[91]
+Y. Matsumoto, K. Hayashi, E. Nishida
+Cyclin-dependent kinase 2 (Cdk2) is required for centrosome duplication in mammalian cells
+Curr. Biol., 9 (1999), pp. 429–432
+
+Article |  PDF (99 K) | View Record in Scopus | Citing articles (213)
+[92]
+P. Meraldi, J. Lukas, A.M. Fry, J. Bartek, E.A. Nigg
+Centrosome duplication in mammalian somatic cells requires E2F and Cdk2-cyclin A
+Nat. Cell Biol., 1 (1999), pp. 88–93
+
+View Record in Scopus | Citing articles (323)
+[93]
+Y. Abe, M. Ohsugi, K. Haraguchi, J. Fujimoto, T. Yamamoto
+LATS2-Ajuba complex regulates gamma-tubulin recruitment to centrosomes and spindle organization during mitosis
+FEBS Lett., 580 (2006), pp. 782–788
+
+Article |  PDF (450 K) | View Record in Scopus | Citing articles (41)
+[94]
+T. Hirota, T. Morisaki, Y. Nishiyama, T. Marumoto, K. Tada, T. Hara, N. Masuko, M. Inagaki, K. Hatakeyama, H. Saya
+Zyxin, a regulator of actin filament assembly, targets the mitotic apparatus by interacting with h-warts/LATS1 tumor suppressor
+J. Cell Biol., 149 (2000), pp. 1073–1086
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (131)
+[95]
+T. Morisaki, T. Hirota, S. Iida, T. Marumoto, T. Hara, Y. Nishiyama, M. Kawasuzi, T. Hiraoka, T. Mimori, N. Araki, I. Izawa, M. Inagaki, H. Saya
+WARTS tumor suppressor is phosphorylated by Cdc2/cyclin B at spindle poles during mitosis
+FEBS Lett., 529 (2002), pp. 319–324
+
+Article |  PDF (362 K) | View Record in Scopus | Citing articles (25)
+[96]
+Y. Nishiyama, T. Hirota, T. Morisaki, T. Hara, T. Marumoto, S. Iida, K. Makino, H. Yamamoto, T. Hiraoka, N. Kitamura, H. Saya
+A human homolog of Drosophila warts tumor suppressor, h-warts, localized to mitotic apparatus and specifically phosphorylated during mitosis
+FEBS Lett., 459 (1999), pp. 159–165
+
+Article |  PDF (764 K) | View Record in Scopus | Citing articles (57)
+[97]
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+[98]
+S. Doxsey, D. McCollum, W. Theurkauf
+Centrosomes in cellular regulation
+Annu. Rev. Cell Dev. Biol., 21 (2005), pp. 411–434
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (184)
+[99]
+G. Sluder
+Two-way traffic: centrosomes and the cell cycle
+Nat. Rev., Mol. Cell Biol., 6 (2005), pp. 743–748
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (30)
+[100]
+A. Kramer
+Centrosome aberrations—hen or egg in cancer initiation and progression?
+Leukemia, 19 (2005), pp. 1142–1144
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+[101]
+A. Kramer, K. Neben, A.D. Ho
+Centrosome aberrations in hematological malignancies
+Cell Biol. Int., 29 (2005), pp. 375–383
+
+Article |  PDF (182 K) | View Record in Scopus | Citing articles (26)
+[102]
+A.B. D'Assoro, W.L. Lingle, J.L. Salisbury
+Centrosome amplification and the development of cancer
+Oncogene, 21 (2002), pp. 6146–6153
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (154)
+[103]
+M.A. Ko, C.O. Rosario, J.W. Hudson, S. Kulkarni, A. Pollett, J.W. Dennis, C.J. Swallow
+Plk4 haploinsufficiency causes mitotic infidelity and carcinogenesis
+Nat. Genet., 37 (2005), pp. 883–888
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (78)
+[104]
+J.W. Hudson, A. Kozarova, P. Cheung, J.C. Macmillan, C.J. Swallow, J.C. Cross, J.W. Dennis
+Late mitotic failure in mice lacking Sak, a polo-like kinase
+Curr. Biol., 11 (2001), pp. 441–446
+
+Article |  PDF (1390 K) | View Record in Scopus | Citing articles (86)
+[105]
+S. Grisendi, R. Bernardi, M. Rossi, K. Cheng, L. Khandker, K. Manova, P.P. Pandolfi
+Role of nucleophosmin in embryonic development and tumorigenesis
+Nature, 437 (2005), pp. 147–153
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (299)
+[106]
+M. Okuda, H.F. Horn, P. Tarapore, Y. Tokuyama, A.G. Smulian, P.K. Chan, E.S. Knudsen, I.A. Hofmann, J.D. Snyder, K.E. Bove, K. Fukasawa
+Nucleophosmin/B23 is a target of CDK2/cyclin E in centrosome duplication
+Cell, 103 (2000), pp. 127–140
+
+Article |  PDF (683 K) | View Record in Scopus | Citing articles (419)
+[107]
+W. Wang, A. Budhu, M. Forgues, X.W. Wang
+Temporal and spatial control of nucleophosmin by the Ran–Crm1 complex in centrosome duplication
+Nat. Cell Biol., 7 (2005), pp. 823–830
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (134)
+[108]
+T. Boveri
+The Origin of Malignant Tumors
+Williams and Wilkins, Baltimore, Maryland (1914)
+
+[109]
+C. Naula, M. Parsons, J.C. Mottram
+Protein kinases as drug targets in trypanosomes and Leishmania
+Biochim. Biophys. Acta, 1754 (2005), pp. 151–159
+
+Article |  PDF (286 K) | View Record in Scopus | Citing articles (83)
+[110]
+J.A. Garcia-Salcedo, D.P. Nolan, P. Gijon, J. Gomez-Rodriguez, E. Pays
+A protein kinase specifically associated with proliferative forms of Trypanosoma brucei is functionally related to a yeast kinase involved in the co-ordination of cell shape and division
+Mol. Microbiol., 45 (2002), pp. 307–319
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+[111]
+T.C. Hammarton, S.G. Lillico, S.C. Welburn, J.C. Mottram
+Trypanosoma brucei MOB1 is required for accurate and efficient cytokinesis but not for exit from mitosis
+Mol. Microbiol., 56 (2005), pp. 104–116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (38)
+Corresponding author contact information
+Corresponding author. Tel.: +41 61 69 74872; fax: +41 61 69 73976.
+Copyright © 2007 Elsevier B.V. All rights reserved.

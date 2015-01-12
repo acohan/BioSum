@@ -1,0 +1,461 @@
+Correlation of PIK3Ca mutations with gene expression and drug sensitivity in NCI-60 cell lines
+David B. Whytea, Corresponding author contact information, E-mail the corresponding author, Susan L. Holbeckb, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2005.12.025
+Get rights and content
+Abstract
+The gene that encodes the α-isoform of phosphatidylinositol 3-kinase (PIK3Ca) is frequently mutated in human cancers. We profiled the mutation status of the PIK3Ca gene in the National Cancer Institute (NCI)-60 panel of human cancer cell lines maintained by the Developmental Therapeutics Program of the NCI. Mutation hotspots on the gene were PCR amplified and sequenced, and the trace data were analyzed with software designed to detect mutations. Seven of the cell lines tested have PIK3Ca mutations: two lines derived from breast cancer, two from colon cancer, two from ovarian cancer, and one from lung cancer. BRAF and EGFR genes were normal in the PIK3Ca mutant lines. Two of the cell lines with mutant PIK3Ca also have a mutant version of the KRAS gene. The mutation status was correlated with array-based gene expression that is publicly available for the NCI-60 cell lines. We found increased expression levels for estrogen receptor (ER) and ERBB2 in PIK3Ca mutant lines. The PIK3Ca mutation status was also correlated with compound screening data for the cell lines. PIK3Ca-mutant cell lines were relatively more sensitive than PIK3Ca-normal cell lines to the ER inhibitor tamoxifen and the AKT inhibitor triciribine, among other compounds. The results provide insights into the role of mutant PIK3Ca in oncogenic signaling and allow preliminary identification of novel targets for therapeutic intervention in cancers harboring PIK3Ca mutations.
+
+Keywords
+Somatic mutations; PIK3Ca; NCI-60
+The evolution of cancer tissue from normal tissue involves a number of genetic changes that favor the growth of the cancer at the expense of the host. The hallmarks of cancer biology—including unregulated cell growth, the ability to invade surrounding tissue, the ability to metastasize to distant parts of the body, and the loss of the programmed cell death response—are the results of changes that have occurred in genetic make-up of the tumor cells [1] and [2]. Activating somatic mutations are of particular interest because they are potentially causative, rather than “bystander,” changes. The gene encoding the p110 α-catalytic subunit of phosphatidylinositol 3-kinase, PIK3Ca, is mutated in a variety of cancer types, including ductal breast cancer (∼40%), colon adenocarcinoma (∼30%), and hepatocellular carcinomas (36%) [3], [4], [5] and [6]. Mutation of PIK3Ca causes constitutive activation of its enzymatic activity [7]. Once activated, PI3K phosphorylates phosphoinositol lipids on the D3 position of the inositol ring generating PtdIns-3-phosphates (PtdIns-3,4-P2 and PtdIns-3,4,5-P3). These lipids recruit pleckstrin homology (PH) domain-containing proteins such as the serine–threonine kinase Akt and PDK1 (phosphoinositide-dependent kinase 1) to the plasma membrane. After recruitment to the membrane, Akt is phosphorylated by PDK, leading to AKT activation. Activation of AKT plays a pivotal role in fundamental cellular functions such as cell proliferation and survival by phosphorylating a variety of substrates [8] and [9].
+
+Two mutation hotspots on the PIK3Ca gene at amino acids 545 (glutamic acid) and 1047 (histidine) account for the majority of mutations found in tumor tissue [3]. The proteins encoded by the mutant versions of the PIK3Ca gene have increased enzymatic activity [7] and induce oncogenic transformation of chicken embryo fibroblast cells [10]. A recent study by Saal et al. [11] demonstrated that human breast cancer tissue samples with PIK3Ca mutations have higher levels of ERBB2 and nuclear hormone gene expression than tissue with normal alleles.
+
+We determined the mutation status of PIK3Ca in the NCI-60 panel of human cancer cell lines. These cell lines are widely used for cell-based signaling studies and in vivo tumor models. They are derived from a variety of cancer tissue types: lung, colon, ovary, melanoma, central nervous system, leukemia, prostate, and breast [12], [13], [14], [15] and [16]. There is a wealth of publicly available data about the cell lines, including responses in cellular proliferation assays to small molecule anti-cancer compounds [17]; gene expression profiles based on several array-based technologies [18] and [19]; and the mutation status of genes encoding KRAS, HRAS, and NRAS [20]. Using the statistical algorithm COMPARE [6], [17] and [21], developed at the National Cancer Institute, we correlated the PIK3Ca mutation status of the cells with array-based gene expression data. Genes that had consistent changes in expression on at least two arrays are noted. Interestingly, estrogen receptor and ERBB2 genes had increased expression in PIK3Ca mutant cells. We also correlated PIK3Ca mutation status with cellular growth inhibition data. Several drug-like compounds from the NCI Standard Panel were identified that had statistically better efficacy in PIK3Ca mutant cell lines compared to lines with normal PIK3Ca alleles.
+
+Methods
+Mutation analysis. Genomic DNA from the NCI-60 cell lines was isolated using Magna Pure LC DNA Isolation Kit 1 and the MagnaPure LC Instrument (Roche Applied Science, Indianapolis, IN). The regions to be sequenced in the PIK3Ca, BRAF, and EGFR genes were amplified in nested PCRs, followed by bi-directional sequencing on an ABI 3730 DNA analyzer. The sequences of the oligonucleotides used for PCR are available online in the supplementary materials Table S3. Primers were used at a concentration of 1 pM, and the reaction conditions for both the boost and nested reactions were as follows: 94 °C for 20 s, 55 °C for 25 s, and 72 °C for 1 min; 40 cycles; 72 °C for 7 min. The internal nested oligo was used as the sequencing primer. The PCR oligos for exon 9 of PIK3Ca were designed to differentiate the PIK3Ca genetic sequence on chromosome 3q26.32 from the similar sequence for another gene on chromosome 22q11 [11]. Trace data were analyzed using the Mutation Surveyor software package (Soft Genetics, State College, PA).
+
+Gene expression. Gene expression profiles for the NCI-60 cell lines have been obtained on several microarray platforms, including cDNA [19] and [22] and oligonucleotide-based chips [18] and [23]. These data are publicly available in a readily searchable format at the website for the Developmental Therapeutics Program at the National Institutes of Health 1 [18] and [24]. Genes whose mRNA levels correlated with the mutation status of the PIK3Ca gene were identified utilizing the JMP software package (SAS Institute). Given the uncertainty in an individual measurement from a single microarray, we first identified a subset of genes whose measurement on multiple microarray platforms was well correlated (Pearson correlation coefficient > = 0.5). This was done using the microarray datasets available through the DTP web site and included four arrays: a cDNA array [19] and [22], an Affymetrix HUM6000 array (from Millenium Pharmaceuticals, unpublished data), an Affymetrix U95A array (Novartis, unpublished data), and an Affymetrix U95A–E array (Gene Logic, unpublished data). Utilizing this subset of 5796 genes (∼20,000 total measurements), we performed correlation analyses with the mutation status of PIK3Ca. The results were further filtered to include only those genes where measurements on multiple microarrays gave significant correlations with mutation status.
+
+Drug sensitivity. The COMPARE algorithm was used to identify compounds that had greater or lower efficacy in growth inhibition assays in cells with PIK3Ca mutations. The cell lines with PIK3Ca mutations were entered into the web-based interface, and the program generated a list of compounds sorted by Pearson correlation coefficient. The top 10 compounds are listed in Table 3.
+
+Results and discussion
+The molecular analysis of tumor tissue can yield a wealth of information about the oncogenic pathways that are active in a given patient’s tumor. For example, gene expression profiles have been used to classify cancers into clinical subtypes [25] and [26] and to predict clinical outcome [27] and [28]. Testing breast cancer tissue for HER2 amplification successfully identifies those patients most likely to respond to the anti-HER2 monoclonal antibody treatment Herceptin [29]. The finding that BRAF is mutationally activated in several human cancers [30] has stimulated widespread drug discovery efforts targeting this serine–threonine kinase. Several recent studies have shown that lung-cancer patients who respond well to anti-EGFR small molecule inhibitors harbor somatic mutations in the kinase domain of the EGFR gene [31], [32], [33], [34] and [35]. Finally, the PIK3Ca gene has been shown to be mutationally activated in several human cancers [3], [36] and [37], changing the perception of this inositol kinase from being seen as a potential target to being generally accepted as validated [20] and [38].
+
+In this work, we used cancer cell lines in the NCI panel rather than tissue derived from clinical samples. The cell lines have several advantages over cancer tissue. They are clonal and immortal, and thus can be used repeatedly in controlled experiments. In contrast, tissue derived from a cancer patient is heterogeneous and may have been exposed to one or more types of therapeutic agents in varying dosages. The cell lines are widely available, unlike tumor tissue, which is often difficult to obtain. They can be genetically manipulated by in vitro techniques, such as transfection and viral infection. They represent a broad spectrum of primary tissues, and several of the lines have been used for in vivo tumor models in mice and rats. Most importantly, the cell lines have been extensively characterized by the National Cancer Institute and by numerous laboratories around the world, leading to a wealth of publicly available data. Publicly available information about the cells includes global gene expression profiles and response in proliferation assays to anti-cancer compounds. Our work extends the knowledge base for these cell lines by identifying those lines that harbor PIK3Ca mutations ( Table 1).
+
+Table 1.
+Cell lines from NCI-60 panel that have a mutant PIK3Ca gene
+Primary tissue	Cell line	Exon	PIK3Ca DNA, protein	Kras	Hras	Nras	BRAF	EGFR
+Breast	MCF7	9	1633G>AG, E545K/E	—	—	—	—	—
+Breast	T47D	20	3140A>G, H1047R	—	—	—	—	—
+Colon	HCT-15	9	1633G>AG, E545K/E; 1645G>AG, D549N/D	G13D	—	—	—	—
+Colon	HCT-116	20	3140A>AG, H1047H/R	G13D	—	—	—	—
+Lung	NCI-H460	9	1633G>AG, E545K/E	Q61H	—	—	—	—
+Ovarian	IGROV1	20	3207A>AG, X1069X/W	—	—	—	—	—
+Ovarian	SK-OV-3	20	3140A>AG, H1047H/R	—	—	—	—	—
+The sequence variants detected are described according to the cDNA sequence with GenBank Accession No. NM_006218.2. Nucleotide position refers to position within coding sequence, where position 1 corresponds to the first position of the start codon. Mutations in RAS family genes are from [20] and [32]. Mutations in PIK3Ca were determined as described in Methods. The complete list of NCI-60 cells, with mutation status, is available online, Table S1. Electropherograms of the mutated sites is available online as Fig. S1.
+
+Table options
+We found eight mutations in seven cell lines (see Table 1 and Fig. 1). Four of the mutations were in exon 9: three at position 545 (545E>K/E) and one at position 549 (549D>N/D). Position 545 is a mutation hotspot in the helical domain region and accounts for the ≈20% of the PIK3Ca mutations documented by COSMIC (the Catalog of Somatic Mutations in Cancer, Sanger Institute) in clinically derived samples [32]. All of the mutations were heterozygous, as expected for an activating mutation in an oncogenic gene [3]. The gene encoding PIK3Ca in the colon cancer cell line HCT-15 has two codon nine mutations, 545E>K/E and 549D>N/D. The mutation at position 549 is novel [32]. Since the 545 mutation is typically sufficient in itself to activate the PIK3Ca enzyme, the 549 mutation may be a bystander alteration. Since our method involves sequencing from a pool of PCR products, we are not able to determine if the double mutations in HCT-15 reside on the same allele (i.e., one double mutant and one wild type allele) or two different alleles (i.e., mixed heterozygotes).
+
+Full-size image (6 K)
+Fig. 1. 
+Mutation sites on PIK3Ca protein in NCI-60 cell lines. Domains on the protein from N to C: binding site for p85 regulatory subunit; RAS binding domain; C2 conserved region; helical domain; protein kinase catalytic domain [55].
+Figure options
+There were also four mutations in exon 20: three at position 1047 (1047H>HR or R) and one at the termination codon (1069X>X/W in the IGROV cell line). Mutation of position 1047 from H to R is the single most common mutation in the PIK3Ca gene in cancer tissue, representing approximately one-third of the total (109 of 322) mutation count in COSMIC [32]. The 1069X>X/W mutation in IGROV causes a loss of the normal stop codon, resulting in a four amino acid C-terminal addition: WKDN. This mutation appears to be novel, as it is not listed among 322 PIK3Ca mutations documented by COSMIC (the Catalog of Somatic Mutations in Cancer, Sanger Institute) [32]. The effect of this C-terminal extension on PIK3Ca enzymatic activity is currently unknown. The cell line UO-31, derived from renal carcinoma, had a silent polymorphism at nucleotide 3075 (C>CT), both alleles coding for a threonine at position 1025. This rare alteration has been previously reported in an advanced ovarian carcinoma sample [37].
+
+The mutation frequency in the cell lines varies with the tissue of origin: two of seven (29%) for breast cancer lines; two of seven (29%) for colon cancer lines; two of six (33%) for ovarian lines; one of nine (11%) for lung cancer lines. No PIK3Ca mutations were found in the cell lines derived from melanoma (eight), prostate (two), CNS (six), leukemia (six) or renal cancer (eight). Given the small sample size represented by the NCI-60 panel, the mutation frequency in the cell lines agrees reasonably well with the observed frequency of PIK3Ca mutations in human cancer tissue: ∼40% for breast cancer, ∼30% for colon cancer, ∼7% for ovarian cancer, and ∼2% for lung cancer [4], [32] and [39]. We also sequenced mutation hotspots on the genes encoding BRAF (exons 11 and 15) and EGFR (exons 18, 19, and 21) in the PIK3Ca-mutant cells ( Table 1). None of the cell lines with PIK3Ca mutations had a mutation in the genes encoding BRAF or EGFR, suggesting that activation of BRAF or EGFR does not bestow a selective advantage to cells that have mutated PIK3Ca gene. Two colon lines, HCT-15 and HCT-116, and one lung cancer line, NCI-H460, contained PIK3Ca and KRAS2 mutations. The mutation status of KRAS2 was determined for the NCI-60 cell lines by Dr. George Vande Woude, Van Andel Research Institute, 2 and by the Sanger Institute. 3 Velho et al. [40] noted that in colorectal carcinoma tissue, PIK3CA mutations occur preferentially together with activating KRAS mutations.
+
+The cell lines comprising the NCI-60 cell panel are widely used in proliferation, migration, and survival assays [41]. PIK3Ca signaling plays an important role in each of these phenotypes [8] and [9]. Knowledge of the mutation status of the PIK3Ca gene ( Table 1) will help in the design and interpretation of in vitro experiments with these cell lines. For example, RNAi reagents can be designed to down-regulate specific PIK3Ca alleles to study their effects on cell signaling, survival, etc. [42]. In addition to in vitro studies, several of the cell lines identified with PIK3Ca mutations are used widely in in vivo tumor models. The mutation status of PIK3Ca would be expected to strongly influence the apparent efficacy of compounds that target receptor tyrosine kinases [43], AKT [44], as well as other enzymes [8] that signal through PIK3Ca.
+
+Mutational activation of PIK3Ca leads to activation of Akt ( Fig. 1), and AKT in turn phosphorylates multiple proteins, including transcription factors in the forkhead, AP-1, and NF-κB families [36] and [45]. Thus through direct effects on transcription factors and indirect effects through various other pathways, activation of PIK3Ca can alter the gene expression. Global gene expression profiles of the NCI-60 cells have been obtained on a variety of microarray platforms [18] and [19], and these data are publicly available [18]. In order to determine how PIK3Ca mutation may alter gene expression in members of the NCI-60 panel of cell lines, the COMPARE algorithm [6], [17], [21] and [46] was used to identify genes whose expression level correlated with the mutation status of the PIK3Ca genes. To be included, the levels of expression had to change in a similar fashion on at least two arrays, with P values of less than 0.01. The HUGO-approved [47] names and descriptions of the top 10 genes, ranked by Pearson correlation coefficient, are listed in Table 2. The complete list of genes with altered expression levels in PIK3Ca mutant cell lines is available online in the supplementary materials (Table S2). Two genes of particular interest that significantly increased in expression levels were ERBB2 (HER2), a receptor tyrosine kinase, and ESR1, a transcription factor activated by estrogen binding. Saal et al. [11] recently published results of a study of 342 breast cancer tissues showing that PIK3CA mutations were associated with increased expression of ESR1 and HER2. The fact that these genes were identified independently using two different approaches suggests that there is a robust association between their level of expression and the mutation status of the PIK3Ca gene.
+
+Table 2.
+Genes that have increased expression in cell lines harboring PIK3Ca mutations, based on microarray profiles for NCI-60 cell lines
+Rank	Gene	Description	PCC	P value (two tailed)
+1	ATP8A1	ATPase, aminophospholipid transporter (APLT), Class I, type 8A, and member 1	0.59	0.01
+2	MSI1	Musashi homolog 1 (Drosophila)	0.57	0.01
+3	MSX2	Msh homeo box homolog 2 (Drosophila)	0.57	0.01
+4	ESR1	Estrogen receptor 1	0.55	0.01
+5	FZD3	Frizzled homolog 3 (Drosophila)	0.55	0.01
+6	THRAP2	Thyroid hormone receptor associated protein 2	0.54	0.01
+7	ERBB2	V-erb-b2 erythroblastic leukemia viral oncogene homolog 2	0.54	0.01
+8	ALDH6A1	Aldehyde dehydrogenase 6 family, member A1	0.53	0.01
+9	NUTF2	Nuclear transport factor 2	0.53	0.01
+10	CIRBP	Cold inducible RNA binding protein	0.52	0.01
+This partial list contains the top 10 genes, sorted by Pearson correlation coefficient (PCC). The complete list is available online, Table S2.
+
+Table options
+The observation that cells with PIK3Ca mutations express HER2 and ESR1 has potential therapeutic implications because the gene products for ESR1 and HER2 are targets for well-established cancer therapeutics: tamoxifen is a selective estrogen receptor modulator (SERM) with anti-estrogenic activity [48], and Herceptin, an anti-HER2 monoclonal antibody, is an effective treatment for HER2-positive breast cancer. Our results suggest that screening for PIK3Ca mutations in cancer patients may help select a patient population that is more likely to respond to these treatments.
+
+While the proteins encoded by HER2 and ESR1 genes have been linked to PIK3Ca mutation status [11], the other genes whose level of expression correlates with the mutation status of PIK3Ca in the NCI-60 cells ( Table 2) have not been identified as part of PIK3Ca signaling pathways. These genes encode products with diverse cellular functions, including the transport of aminophospholipids between leaflets of membranes (ATP8A1), binding of RNA (MSI, CIRBP), and regulation of transcription (MSX2). It will be of interest to see if the expression of these genes correlates with PIK3Ca mutation status in human cancer tissue. If any of these gene products contributes to the transformed phenotype in PIK3Ca-mutant cells, they could be candidate drug targets.
+
+The PIK3Ca mutation status was correlated with each cell line’s sensitivity to growth inhibition by small molecule anti-cancer compounds [21]. The compounds in this list are derived from the NCIs “Standard Agent Database” [17]. Most of the compounds in the database are “drug-like,” having been submitted for testing in New Drug Applications or Investigational New Drug Applications. Table 3 shows the names and NSC numbers (the NCIs internal identification number) of the top 10 compounds that correlated with PIK3Ca mutation status, along with their putative mechanism of action, the Pearson correlation coefficient, and the two-tailed P value. The compounds represent drug classes with diverse mechanisms of action, including topoisomerase inhibitors (chloroquinoxaline sulfonate, ICRF-187, and MX2 HCL), alkylating agents (streptozoticin), and anti-metabolites (AT-125, diglycoaldehyde, dichloroally lawsone, and 3-deazauridine). It is not clear for many of these compounds whether the activity demonstrated against PIK3Ca mutated cells is mechanism based, i.e., related to PIK3Ca activity, or to other features of the cell lines. It will be of interest to determine in future experiments how well PIK3Ca mutations in human cancer cells predict sensitivity to these drugs.
+
+Table 3.
+Compounds identified in the cellular proliferation assay that had increased efficacy in cell lines with the mutant PIK3Ca gene
+NSC No.	Compound name	Mechanism of action	Pearson correlation coefficient	P value (two-tail)
+339004	Chloroquinoxaline sulfonate	Topoisomerase inhibitor	0.38	0.00
+180973	Tamoxifen	Anti-estrogen	0.34	0.01
+85998	Streptozoticin	Alkylating agent	0.28	0.03
+163501	AT-125	RNA/DNA anti-metabolite	0.28	0.03
+118994	Diglycoaldehyde	DNA anti-metabolite	0.26	0.05
+280594	Triciribine phosphate	AKT inhibitor; anti-metabolite	0.25	0.06
+169780	ICRF-187	DNA topoisomerase II catalytic inhibitor	0.25	0.06
+126771	Dichloroally lawsone	RNA/DNA anti-metabolite	0.24	0.07
+619003	MX2 HCL	DNA topoisomerase inhibitor	0.24	0.07
+126849	3-Deazauridine	Blocks pyrimidine biosynthesis	0.23	0.08
+Table options
+For two of the compounds, tamoxifen and triciribine, the gene expression results and our knowledge of the signaling pathway provide a context for interpreting the finding that these compounds preferentially inhibit the growth of cells harboring PIK3Ca mutations. Tamoxifen is an anti-estrogen used in adjuvant therapy following primary treatment for early stage breast cancer. As mentioned above, there was a strong correlation between the presence of a PIK3Ca mutation and expression of estrogen receptor, the target of tamoxifen. One interpretation of these data is that PIK3Ca activation leads to increased expression of the estrogen receptor gene and increased production of estrogen receptor protein, which then confers a growth advantage to the mutant cells. This growth advantage would be blocked by tamoxifen, causing the reduced cellular proliferation. This hypothesis can be readily checked using the cell lines.
+
+Triciribine is an anti-cancer agent that has been evaluated in a number of clinical trials, beginning in the 1980s [49] and [50]. Its mechanism of action has been ascribed to its ability to inhibit nucleic acid synthesis [51], but it has recently been shown to have potent and specific inhibitory activity toward the serine–threonine kinase AKT [52]. The finding that triciribine specifically inhibits the growth of cells carrying PIK3Ca mutations can be understood based on the role of AKT in mediating PIK3Ca signaling. As depicted in Fig. 2, AKT is activated immediately downstream of PIK3Ca [9]. Mutational activation of PIK3Ca causes constitutive activation of AKT [7], and many of the effects of mutational activation of PIK3Ca are channeled through AKT [36]. Inhibition of AKT by triciribine would be expected to block some of the oncogenic potential of mutationally activated PIK3Ca. Specific inhibition by triciribine of in vitro growth of cell lines harboring PIK3Ca mutations may be due to a positive role of aberrant PIK3Ca signaling in driving cellular proliferation in these cells. This hypothesis can be readily tested using the NCI-60 cell lines. For example, specific downregulation of the mutant PIK3Ca allele with RNAi [53] could be used to explore the role of the mutation in driving in vitro proliferation.
+
+A central assumption of the work described in this paper is that the gene expression and drug sensitivity data that are available for the NCI-60 cell lines can be correlated with mutation status of a key regulatory gene, PIK3Ca. This approach is clearly exploratory and has notable limitations, since it can be argued that the correlations we identified—such as the increased expression of ERBB2, or the increased sensitivity to triciribine in PIK3Ca mutant cell lines—may be statistical flukes rather than reflections of a real underlying connection. However, there are numerous publications that demonstrate the value of this approach. Examples include correlating P53 status in NCI-60 cell lines with drug sensitivity [54], in predicting chemosensitivity based on transcript profiling [23], and in developing hypotheses about the mechanisms of action of novel chemotherapeutic compounds [18]. While the work described in this paper is exploratory, the hypotheses it generates are readily testable and have significant therapeutic implications. Perhap, the most significant of these is that cancer cells with PIK3Ca mutations may be particularly sensitive to the compounds listed in Table 3. Many of these compounds have been in the clinic already and thus have established pharmacokinetic and toxicological profiles. For tamoxifen and triciribine, there is a rationale for why their activity correlates with PIK3Ca activity. For the other compounds, such as the topoisomerase inhibitor chloroquinoxaline sulfonate, there is no clear link with the PIK3Ca pathway. It will be of interest to see if other human cell lines with PIK3Ca mutations are indeed particularly sensitive to this compound, or the others listed in Table 3, in in vitro growth inhibition studies and in vivo tumor models. Validation of the correlations between PIK3Ca mutation status and drug sensitivity in cell-based and animal models would serve as preamble to exploratory tests of these compounds in a clinical setting. It is now very practicable to screen tumor tissue for specific mutations in key regulatory genes, such as PIK3Ca. The next step is to be able to use this information to provide the patient with better, tailored, therapeutic options.
+
+Acknowledgments
+Sincere thanks to Dominic A. Scudiero, Ph.D. and Karen Hite (NCI at Frederick, Frederick, MD) for indispensable help in obtaining genomic DNA from the NCI-60 cell lines.
+
+Supplementary data
+
+Full-size image (470 K)
+Figure S1. 
+Electropherograms of exonic sequences containing somatic mutations from NCI-60 cell lines. The normal, reference sequences are shown flanking the mutant sequences. The middle panels highlight the mutation in the forward and reverse directions.
+Figure options
+ 
+Table S1.  
+
+Somatic mutations in NCI-60 cell lines. The sequence variants detected are described according to the cDNA sequence with GenBank Accession No. NM_006218. Nucleotide position refers to position within coding sequence, where position 1 corresponds to the first position of the start codon. Mutations in PIK3Ca were determined as described in Methods.
+
+Help with DOC filesOptions
+ 
+Table S2.  
+
+Genes that change expression in NCI-60 cell lines with PIK3Ca mutations. PCC, Pearson correlation coefficient. Genes with negative PCC values tended to have lower expression in PIK3Ca-mutant cell lines.
+
+Help with DOC filesOptions
+ 
+Table S3.  
+
+Oligonucleotides used to amplify genomic regions for sequencing. Amplification was carried out in two steps, using the boost (BST) primers first followed by the nested (NST) primers. The PCR products for both steps are shown, as is the reference sequence used for sequencing.
+
+Help with DOC filesOptions
+References
+[1]
+B. Vogelstein, K.W. Kinzler
+Cancer genes and the pathways they control
+Nat. Med., 10 (8) (2004), pp. 789–799
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1949)
+[2]
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (1) (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (12781)
+[3]
+Y. Samuels, V.E. Velculescu
+Oncogenic mutations of PIK3CA in human cancers
+Cell Cycle, 3 (10) (2004), pp. 1221–1224
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (200)
+[4]
+I.G. Campbell, S.E. Russell, D.Y. Choong et al.
+Mutation of the PIK3CA gene in ovarian and breast cancer
+Cancer Res., 64 (21) (2004), pp. 7678–7681
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (504)
+[5]
+J.W. Lee, Y.H. Soung, S.Y. Kim et al.
+PIK3CA gene is frequently mutated in breast carcinomas and hepatocellular carcinomas
+Oncogene, 24 (8) (2005), pp. 1477–1480
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (321)
+[6]
+K. Paull, E. Hamel, L. Malspeis
+The prediction of biochemical mechanism of action from the in vitro antitumor screen of the National Cancer Institute
+,in: W.O. Foye (Ed.), Cancer Chemotherapeutic AgentsACS Books, Washington, DC (1995), pp. 9–45
+
+[7]
+T. Ikenoue, F. Kanai, Y. Hikiba et al.
+Functional analysis of PIK3CA gene mutations in human colorectal cancer
+Cancer Res., 65 (11) (2005), pp. 4562–4567
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (207)
+[8]
+P. Workman
+Inhibiting the phosphoinositide 3-kinase pathway for cancer treatment
+Biochem. Soc. Trans., 32 (Pt. 2) (2004), pp. 393–396
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+[9]
+M. Osaki, M. Oshimura, H. Ito
+PI3K–Akt pathway: its functions and alterations in human cancer
+Apoptosis, 9 (6) (2004), pp. 667–676
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (436)
+[10]
+S. Kang, A.G. Bader, P.K. Vogt
+Phosphatidylinositol 3-kinase mutations identified in human cancer are oncogenic
+Proc. Natl. Acad. Sci. USA, 102 (3) (2005), pp. 802–807
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (426)
+[11]
+L.H. Saal, K. Holm, M. Maurer et al.
+PIK3CA mutations correlate with hormone receptors, node metastasis, and ERBB2, and are mutually exclusive with PTEN loss in human breast carcinoma
+Cancer Res., 65 (7) (2005), pp. 2554–2559
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (429)
+[12]
+R.H. Shoemaker, A. Monks, M.C. Alley et al.
+Development of human tumor cell line panels for use in disease-oriented drug screening
+Prog. Clin. Biol. Res., 276 (1988), pp. 265–286
+
+View Record in Scopus | Citing articles (47)
+[13]
+M.C. Alley, D.A. Scudiero, A. Monks et al.
+Feasibility of drug screening with panels of human tumor cell lines using a microculture tetrazolium assay
+Cancer Res., 48 (3) (1988), pp. 589–601
+
+View Record in Scopus | Citing articles (1880)
+[14]
+A. Monks, D.A. Scudiero, G.S. Johnson, K.D. Paull, E.A. Sausville
+The NCI anti-cancer drug screen: a smart screen to identify effectors of novel targets
+Anticancer Drug Des., 12 (7) (1997), pp. 533–541
+
+View Record in Scopus | Citing articles (163)
+[15]
+J.N. Weinstein, T.G. Myers, P.M. O’Connor et al.
+An information-intensive approach to the molecular pharmacology of cancer
+Science, 275 (5298) (1997), pp. 343–349
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (808)
+[16]
+M.R. Grever, S.A. Schepartz, B.A. Chabner
+The National Cancer Institute: cancer drug discovery and development program
+Semin. Oncol., 19 (6) (1992), pp. 622–638
+
+View Record in Scopus | Citing articles (502)
+[17]
+M. Monga, E.A. Sausville
+Developmental therapeutics program at the NCI: molecular target and drug discovery process
+Leukemia, 16 (4) (2002), pp. 520–526
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+[18]
+J.N. Weinstein, Y. Pommier
+Transcriptomic analysis of the NCI-60 cancer cell lines
+C R Biol., 326 (10-11) (2003), pp. 909–920
+
+Article |  PDF (594 K) | View Record in Scopus | Citing articles (38)
+[19]
+D.T. Ross, U. Scherf, M.B. Eisen et al.
+Systematic variation in gene expression patterns in human cancer cell lines
+Nat. Genet., 24 (3) (2000), pp. 227–235
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1446)
+[20]
+H.M. Koo, A. Monks, A. Mikheev et al.
+Enhanced sensitivity to 1-beta-l-arabinofuranosylcytosine and topoisomerase II inhibitors in tumor cell lines harboring activated ras oncogenes
+Cancer Res., 56 (22) (1996), pp. 5211–5216
+
+View Record in Scopus | Citing articles (68)
+[21]
+D.W. Zaharevitz, S.L. Holbeck, C. Bowerman, P.A. Svetlik
+COMPARE: a web accessible tool for investigating mechanisms of cell growth inhibition
+J. Mol. Graph. Model., 20 (4) (2002), pp. 297–303
+
+Article |  PDF (396 K) | View Record in Scopus | Citing articles (58)
+[22]
+U. Scherf, D.T. Ross, M. Waltham et al.
+A gene expression database for the molecular pharmacology of cancer
+Nat. Genet., 24 (3) (2000), pp. 236–244
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1037)
+[23]
+J.E. Staunton, D.K. Slonim, H.A. Coller et al.
+Chemosensitivity prediction by transcriptional profiling
+Proc. Natl. Acad. Sci. USA, 98 (19) (2001), pp. 10787–10792
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (450)
+[24]
+S.L. Holbeck
+Update on NCI in vitro drug screen utilities
+Eur. J. Cancer, 40 (6) (2004), pp. 785–793
+
+Article |  PDF (298 K) | View Record in Scopus | Citing articles (77)
+[25]
+T. Sorlie, C.M. Perou, R. Tibshirani et al.
+Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications
+Proc. Natl. Acad. Sci. USA, 98 (19) (2001), pp. 10869–10874
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4492)
+[26]
+J. Lapointe, C. Li, J.P. Higgins et al.
+Gene expression profiling identifies clinically relevant subtypes of prostate cancer
+Proc. Natl. Acad. Sci. USA, 101 (3) (2004), pp. 811–816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+[27]
+E.J. Yeoh, M.E. Ross, S.A. Shurtleff et al.
+Classification, subtype discovery, and prediction of outcome in pediatric acute lymphoblastic leukemia by gene expression profiling
+Cancer Cell, 1 (2) (2002), pp. 133–143
+
+Article |  PDF (774 K) | View Record in Scopus | Citing articles (1178)
+[28]
+S. Paik, S. Shak, G. Tang et al.
+A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer
+N. Engl. J. Med., 351 (27) (2004), pp. 2817–2826
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1903)
+[29]
+D.J. Slamon, B. Leyland-Jones, S. Shak et al.
+Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2
+N. Engl. J. Med., 344 (11) (2001), pp. 783–792
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (5490)
+[30]
+H. Davies, G.R. Bignell, C. Cox et al.
+Mutations of the BRAF gene in human cancer
+Nature, 417 (6892) (2002), pp. 949–954
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3846)
+[31]
+J.G. Paez, P.A. Janne, J.C. Lee et al.
+EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy
+Science, 304 (5676) (2004), pp. 1497–1500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4885)
+[32]
+S. Bamford, E. Dawson, S. Forbes et al.
+The COSMIC (catalogue of somatic mutations in cancer) database and website
+Br. J. Cancer, 91 (2) (2004), pp. 355–358
+
+View Record in Scopus | Citing articles (284)
+[33]
+W. Pao, V. Miller, M. Zakowski et al.
+EGF receptor gene mutations are common in lung cancers from “never smokers” and are associated with sensitivity of tumors to gefitinib and erlotinib
+Proc. Natl. Acad. Sci. USA, 101 (36) (2004), pp. 13306–13311
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2364)
+[34]
+W. Pao, V.A. Miller
+Epidermal growth factor receptor mutations, small-molecule kinase inhibitors, and non-small-cell lung cancer: current knowledge and future directions
+J. Clin. Oncol., 23 (11) (2005), pp. 2556–2568
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (404)
+[35]
+W. Pao, V.A. Miller, K.A. Politi et al.
+Acquired resistance of lung adenocarcinomas to gefitinib or erlotinib is associated with a second mutation in the EGFR kinase domain
+PLoS Med., 2 (3) (2005), p. e73
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+[36]
+Y. Samuels, L.A. Diaz Jr., O. Schmidt-Kittler et al.
+Mutant PIK3CA promotes cell growth and invasion of human cancer cells
+Cancer Cell, 7 (6) (2005), pp. 561–573
+
+Article |  PDF (929 K) | View Record in Scopus | Citing articles (432)
+[37]
+Y. Wang, A. Helland, R. Holm, G.B. Kristensen, A.L. Borresen-Dale
+PIK3CA mutations in advanced ovarian carcinomas
+Hum. Mutat., 25 (3) (2005), p. 322
+
+Article |  PDF (397 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+[38]
+L. Stephens, R. Williams, P. Hawkins
+Phosphoinositide 3-kinases as drug targets in cancer
+Curr. Opin. Pharmacol. (2005)
+
+[39]
+Y. Samuels, Z. Wang, A. Bardelli et al.
+High frequency of mutations of the PIK3CA gene in human cancers
+Science, 304 (5670) (2004), p. 554
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1584)
+[40]
+S. Velho, C. Oliveira, A. Ferreira et al.
+The prevalence of PIK3CA mutations in gastric and colon cancer
+Eur. J. Cancer (2005)
+
+[41]
+R.H. Shoemaker, D.A. Scudiero, G. Melillo et al.
+Application of high-throughput, molecular-targeted screening to anticancer drug discovery
+Curr. Top. Med. Chem., 2 (3) (2002), pp. 229–246
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (55)
+[42]
+P. Tagliaferri, P. Tassone, S. Blotta et al.
+Antitumor therapeutic strategies based on the targeting of epidermal growth factor-induced survival pathways
+Curr. Drug Targets, 6 (3) (2005), pp. 289–300
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+[43]
+S.J. Leevers, B. Vanhaesebroeck, M.D. Waterfield
+Signalling through phosphoinositide 3-kinases: the lipids take centre stage
+Curr. Opin. Cell Biol., 11 (2) (1999), pp. 219–225
+
+Article |  PDF (106 K) | View Record in Scopus | Citing articles (423)
+[44]
+J.A. Fresno Vara, E. Casado, J. de Castro, P. Cejas, C. Belda-Iniesta, M. Gonzalez-Baron
+PI3K/Akt signalling pathway and cancer
+Cancer Treat. Rev., 30 (2) (2004), pp. 193–204
+
+View Record in Scopus | Citing articles (539)
+[45]
+D. Sliva
+Signaling pathways responsible for cancer cell invasion as targets for cancer therapy
+Curr. Cancer Drug Targets, 4 (4) (2004), pp. 327–336
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (103)
+[46]
+K.D. Paull, R.H. Shoemaker, L. Hodes et al.
+Display and analysis of patterns of differential activity of drugs against human tumor cell lines: development of mean graph and COMPARE algorithm
+J. Natl. Cancer Inst., 81 (14) (1989), pp. 1088–1092
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (597)
+[47]
+H.M. Wain, M.J. Lush, F. Ducluzeau, V.K. Khodiyar, S. Povey
+Genew: the Human Gene Nomenclature Database, 2004 updates
+Nucleic Acids Res., 32 (2004), pp. D255–D257 (Database issue)
+
+View Record in Scopus | Citing articles (92)
+[48]
+C.K. Osborne, R. Schiff
+Estrogen-receptor biology: continuing progress and therapeutic implications
+J. Clin. Oncol., 23 (8) (2005), pp. 1616–1622
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (207)
+[49]
+K. Hoffman, F.A. Holmes, G. Fraschini et al.
+Phase I–II study: triciribine (tricyclic nucleoside phosphate) for metastatic breast cancer
+Cancer Chemother. Pharmacol., 37 (3) (1996), pp. 254–258
+
+View Record in Scopus | Citing articles (48)
+[50]
+L.G. Feun, N. Savaraj, G.P. Bodey et al.
+Phase I study of tricyclic nucleoside phosphate using a five-day continuous infusion schedule
+Cancer Res., 44 (8) (1984), pp. 3608–3612
+
+View Record in Scopus | Citing articles (44)
+[51]
+L.L. Wotring, L.B. Townsend, L.M. Jones, K.Z. Borysko, D.L. Gildersleeve, W.B. Parker
+Dual mechanisms of inhibition of DNA synthesis by triciribine
+Cancer Res., 50 (16) (1990), pp. 4891–4899
+
+View Record in Scopus | Citing articles (17)
+[52]
+L. Yang, H.C. Dan, M. Sun et al.
+Akt/protein kinase B signaling inhibitor-2, a selective small molecule inhibitor of Akt signaling with antitumor activity in cancer cells overexpressing Akt
+Cancer Res., 64 (13) (2004), pp. 4394–4399
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (302)
+[53]
+D. Baulcombe
+RNA silencing
+Trends Biochem. Sci., 30 (6) (2005), pp. 290–293
+
+Article |  PDF (93 K) | View Record in Scopus | Citing articles (109)
+[54]
+P.M. O’Connor, J. Jackman, I. Bae et al.
+Characterization of the p53 tumor suppressor pathway in cell lines of the National Cancer Institute anticancer drug screen and correlations with the growth-inhibitory potency of 123 anticancer agents
+Cancer Res., 57 (19) (1997), pp. 4285–4300
+
+View Record in Scopus | Citing articles (679)
+[55]
+S. Djordjevic, P.C. Driscoll
+Structural insight into substrate specificity and regulatory mechanisms of phosphoinositide 3-kinases
+Trends Biochem. Sci., 27 (8) (2002), pp. 426–432
+
+Article |  PDF (232 K) | View Record in Scopus | Citing articles (63)
+Corresponding author contact information
+Corresponding author.
+1
+Molecular Targets website from Developmental Therapeutics Program, National Institutes of Health: http://dtp.nci.nih.gov/mtargets/mt_index.html.
+2
+RAS mutations in NCI-60 cell lines determined by G. Vande Woude, Van Andel Research Institute: http://dtp.nci.nih.gov/mtweb/targetinfo?moltid=MT193&moltnbr=64.
+3
+Mutation analysis of RAS genes in NCI-60 cells at The Sanger Institute: http://www.sanger.ac.uk/genetics/CGP/NCI60.
+Copyright © 2005 Elsevier Inc. All rights reserved.

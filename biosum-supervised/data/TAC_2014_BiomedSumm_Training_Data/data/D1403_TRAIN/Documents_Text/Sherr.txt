@@ -1,0 +1,792 @@
+The RB and p53 pathways in cancer
+Charles J Sherr1, Corresponding author contact information, E-mail the corresponding author, Frank McCormick2
+Show more
+http://dx.doi.org/10.1016/S1535-6108(02)00102-2
+  Open Archive
+Abstract
+The life history of cancer cells encompasses a series of genetic missteps in which normal cells are progressively transformed into tumor cells that invade surrounding tissues and become malignant. Most prominent among the regulators disrupted in cancer cells are two tumor suppressors, the retinoblastoma protein (RB) and the p53 transcription factor. Here, we discuss interconnecting signaling pathways controlled by RB and p53, attempting to explain their potentially universal involvement in the etiology of cancer. Pinpointing the various ways by which the functions of RB and p53 are subverted in individual tumors should provide a rational basis for developing more refined tumor-specific therapies.
+
+Main Text
+Transformation of cultured primary cells into tumorigenic variants is a multistep process, whereby each genetic change confers a proliferative advantage (Hahn and Weinberg, 2002). The evolution of cancer in living animals is considerably more complex, since specific interactions between tumor cells and host tissues are necessary for tumor angiogenesis, tissue invasion, and metastasis. Yet, despite the existence of many forms of cancer and global changes in gene expression profiles observed in cancer cells versus normal cells, a relatively small number of essential alterations are shared by most, and perhaps all, tumors (Hanahan and Weinberg, 2000). Such mutations can disrupt normal growth control in response to environmental cues, or can dismantle cell cycle checkpoints that otherwise limit cell division or that induce cell suicide in response to DNA damage or oncogene activation. RB and p53 are central to these processes.
+
+Starting and stopping the cell cycle
+The proliferation of mammalian cells is normally determined by extracellular signals that engage a program of gene expression and protein regulation required for cell division (Sherr, 1996). During the first gap phase (G1) of the cell division cycle, mitogenic stimulation triggers the activity of key regulatory molecules that initiate DNA synthesis (S phase), after which cells are committed to complete the cycle and divide. In early G1 phase, individual D-type cyclins (D1, D2, and D3), induced in a cell lineage-specific manner, assemble into holoenzyme complexes with one of two catalytic subunits, the cyclin-dependent kinases Cdk4 and Cdk6. These six holoenzymes exhibit similar biochemical functions, and most investigations have focused on the prototypic cyclin D1-Cdk4 complex. Transcription of the cyclin D1 gene, its synthesis and assembly with Cdk4, and the stability and nuclear retention of the holoenzyme depend strongly on receptor-mediated Ras and phosphatidylinositol 3-kinase (PI3-K) signaling ( Marshall, 1999) ( Figure 1). Persistent mitogenic stimulation leads to progressive accumulation of cyclin D-dependent kinases within the cell nucleus; here they collaborate with cyclin E-Cdk2 to phosphorylate RB and RB family members p107 and p130, canceling their growth inhibitory functions and facilitating S phase entry.
+
+Full-size image (37 K)
+Figure 1. 
+Cyclin D1 activity is regulated by Ras
+Ras-dependent signaling through a pathway (gray shading) involving Raf, MEK, and ERK (extracellular signal-regulated kinases) activates transcription factors (e.g., AP1) that upregulate cyclin D1 transcription. Once translated, the assembly of cyclin D1 into active holoenzyme complexes containing Cdk4 and a Cip/Kip protein (p27Kip1 is shown) requires signaling though the same Ras pathway (orange shading). Assembly of cyclin D1 with Cdk4, import of stable complexes into the cell nucleus, and their persistence depend upon Cip/Kip proteins. Glycogen synthase kinase-3β (GSK-3β) can phosphorylate cyclin D1 to trigger its nuclear export, ubiquitination, and proteasomal degradation. A distinct Ras-dependent pathway (blue shading) that includes phosphatidylinositol 3-kinase (PI3-K) and the AKT kinase (protein kinase B) negatively regulates GSK-3β to enhance the stability of the cyclin D-dependent kinase.
+Figure options
+The activities of cyclin D- and cyclin E-dependent kinases are linked through the agency of the “Cip/Kip” family of Cdk inhibitors, which include p27Kip1, p21Cip1, and p57Kip2 (Sherr and Roberts, 1999). Both p27Kip1 and p21Cip1 are potent inhibitors of cyclin E-bound Cdk2, but, in living cells, are less effective in blocking the enzymatic activity of cyclin D-bound Cdk4 (Soos et al., 1996 and Blain et al., 1997). Instead, the assembly, stability, and nuclear retention of cyclin D1-Cdk4 complexes are facilitated by physical association with Cip/Kip subunits (LaBaer et al., 1997, Cheng et al., 1999, Alt et al., 2002 and Muraoka et al., 2002) (Figure 1). These features underscore an important interplay between Cdk4 and Cdk2 during cell cycle entry. In quiescent cells, cyclin D1 levels are low, cyclin D1-Cdk4 complexes do not form, and high levels of p27Kip1 suppress cyclin E-Cdk2 activity. Mitogen stimulation induces cyclin D1 and regulates its assembly with Cdk4, thereby sequestering p27Kip1 and activating cyclin E-Cdk2 (Figure 2). This pool of p27Kip1 remains bound to cyclin D1-Cdk4, whereas the remainder is phosphorylated by cyclin E-Cdk2, triggering its ubiquitination and degradation (Sheaff et al., 1997 and Vlach et al., 1997). Both G1 cyclin-dependent kinases can then collaborate in phosphorylating and inactivating RB as cells approach the G1 to S phase transition.
+
+Full-size image (49 K)
+Figure 2. 
+A G1 phase regulatory cascade
+Cyclin D1 synthesis (step A) and assembly (step B) in response to mitogenic signals sequesters Cip/Kip proteins (p27Kip1 is shown) and relieves cyclin E-Cdk2 from their constraint. Both G1 cyclin-dependent kinases then collaborate to sequentially phosphorylate RB family proteins (only RB is shown) (step C). This frees E2Fs from inhibition and leads to the activation of genes required for S phase entry (step D). Among the known E2F target genes is cyclin E, whose transcriptional upregulation provides positive feedback to drive cells into S phase (step E). One substrate of cyclin E-Cdk2 is p27Kip1, whose phosphorylation triggers its ubiquitination and degradation as cells enter S phase (step F).
+Figure options
+Cell cycle exit following mitogen withdrawal depends upon a reversal of these processes. Cyclin D1 transcription is cancelled, rapidly leading to destruction of the cyclin D1-Cdk4 holoenzyme. The liberated pool of p27Kip1 blocks cyclin E-Cdk2 activity, enabling unphosphorylated p27Kip1 to reaccumulate. Inhibition of G1 cyclin-dependent kinases returns RB family proteins to their hypophosphorylated active state, and cells exit the cycle.
+
+The RB-E2F connection
+RB, p130, and p107 physically interact with many proteins, but their binding to members of the E2F family of transcription factors appears to be central to their role in governing DNA replication (Dyson, 1998, Nevins, 2001 and Trimarchi and Lees, 2002). Complexes between RB family members and various E2Fs actively repress gene expression by recruiting histone deacetylases (HDACs) and other chromatin remodeling factors to E2F-responsive promoters (Harbour and Dean, 2000, Rayman et al., 2002 and Ogawa et al., 2002). However, Cdk-mediated phosphorylation of RB family members prevents their association with both HDACs and E2Fs and enables E2F-dependent gene expression (Figure 2). Importantly, E2Fs coordinately regulate genes necessary for DNA replication, including those coding for enzymes required for DNA metabolism and synthesis, as well as cyclins E and A. Hence, the active hypophosphorylated forms of RB family members block entry into S phase by inhibiting the E2F transcriptional program.
+
+RB itself is nonessential for cell cycle control (Jacks, 1996), and its actual role in governing cell cycle progression in different physiologic settings remains unresolved. For example, recruitment of HDACs to E2F-responsive promoters in normal fibroblasts is largely controlled by p107 and p130 during the cell cycle (Rayman et al., 2002), raising the possibility that RB contributes to gene repression only under certain conditions, such as when cells differentiate or become senescent (Sellers et al., 1998, Lipinski and Jacks, 1999 and Thomas et al., 2001). RB preferentially binds to a subset of E2Fs, whereas p107 and p130 associate with others (Dyson, 1998, Nevins, 2001 and Trimarchi and Lees, 2002). Apart from E2Fs, RB also interacts with other transcription factors that govern cell differentiation (Dyson, 1998, Sellers et al., 1998, Lipinski and Jacks, 1999 and Thomas et al., 2001). Because mutations affecting p107 and p130 occur rarely, if at all, in cancer, such distinctions are key to understanding RB's tumor suppressor function.
+
+The INK4 family
+Four INK4 proteins (p16INK4a, p15INK4b, p18INK4c, and p19INK4d) specifically inhibit the activity of cyclin D-dependent kinases to prevent phosphorylation of RB family proteins (Ruas and Peters, 1998, Sherr and Roberts, 1999, Roussel, 1999 and Ortega et al., 2002). Disruption of individual Ink4 genes in the mouse germline and studies with mouse embryo fibroblasts (MEFs) have not revealed profound cell cycle anomalies in Ink4-deficient cells. That all four strains of Ink4 null mice are born at the expected Mendelian ratio and develop normally also implies that no one family member is essential for cell cycle control ( Roussel, 1999 and Ortega et al., 2002). Yet, mice lacking p16Ink4a, in particular, are tumor prone and develop a wide spectrum of cancers, particularly after exposure to chemical carcinogens or X-rays ( Serrano et al., 1996, Krimpenfort et al., 2001 and Sharpless et al., 2001). Whereas Ink4c and Ink4d are broadly expressed during mouse development and in adult tissues, expression of Ink4a and Ink4b is limited in utero and is sporadic as mice age ( Zindy et al., 1997). Therefore, p18Ink4c and p19Ink4d appear to be primarily dedicated to developmental roles in cell cycle control, whereas p16Ink4a and p15Ink4b have more restricted functions.
+
+Both p16Ink4a and p15Ink4b are selectively induced when primary MEFs are explanted into culture (Zindy et al., 1997). A progressive increase in p16Ink4a levels as such cells are serially passaged correlates with their diminishing proliferative capacity, arguing for a role for p16Ink4a in cellular senescence (Alcorta et al., 1996, Hara et al., 1996 and Zindy et al., 1997). Stress stemming from a nonphysiologic cell culture environment generates signals that activate p16Ink4a synthesis (Sherr and DePinho, 2000), but its induction can be retarded, or even eliminated, by changing conditions in which primary cells are grown (Ramirez et al., 2001). This argues that p16Ink4a plays a specialized role within the Ink4 family in countering certain signals that abnormally drive cell proliferation, a checkpoint function that is eroded in tumor cells.
+
+The “RB pathway” and cancer
+The biochemical activities of the INK4 proteins, cyclin D-dependent kinases, and RB family proteins highlight a pathway controlling G1 phase progression:
+
+View the MathML source
+There is now compelling evidence that particular components of this regulatory machinery act as tumor suppressors or protooncogenes, whose mutations occur so frequently as to prompt speculation that disabling “the RB pathway” may be essential for the formation of cancer cells (Sherr, 1996, Sellers and Kaelin, 1997, Nevins, 2001, Hahn and Weinberg, 2002 and Ortega et al., 2002). While RB disruption is the sine qua non of retinoblastoma, RB loss occurs in many tumor types. Similarly, although mutations inactivating p16INK4a function were first mapped in familial melanoma ( Kamb et al., 1994), they have been cataloged in many other cancers ( Ruas and Peters, 1998). Mutually exclusive events resulting in RB or p16INK4a inactivation through mutation, deletion, or epigenetic silencing, or in the overexpression of cyclin D1 or Cdk4, provide genetic evidence for operation of this signaling pathway in tumor surveillance.
+Table 1 summarizes approximate frequencies of INK4a and RB loss of function, and cyclin D1 or Cdk4 overexpression, in different forms of cancer. It is notable that mutations affecting the RB pathway generally occur in a mutually exclusive fashion, so that one “hit” (e.g., INK4a mutation) is unaccompanied by others (RB mutation or cyclin D-Cdk overexpression). Interestingly, the frequency of particular genetic events varies among tumor types. For example, in lung cancers, RB loss predominates in small cell tumors, whereas p16INK4a loss occurs in the majority of non-small cell carcinomas. In addition, cervical carcinomas and other squamous cell carcinomas frequently express human papillomavirus (HPV) E7 proteins that target RB family members. In cervical carcinomas that do not express HPV E7, RB is inactivated by somatic mutation.
+
+Table 1.
+The RB pathway in human cancer
+Cancer type	INK4a loss	Cyclin D1 or Cdk4 overexpression	RB loss
+Small cell lung cancer	15%	5% Cyclin D1	80%
+Non-small cell lung cancer	58%		20%–30%
+Pancreatic cancer	80%		
+Breast cancer	30%	>50% Cyclin D1	
+Glioblastoma multiforme	60%	40% Cdk4	
+T cell ALL	75%		
+Mantle cell lymphoma		90% Cyclin D1	
+This table summarizes approximate frequencies of Ink4a loss (by mutation, deletion, or gene silencing), RB mutation or deletion, and cyclin D1 or Cdk4 overexpression in different forms of cancer.
+
+Table options
+The cause of cyclin D1 overexpression in many tumor types in unknown, although in mantle cell lymphomas, the cyclin D1 gene is juxtaposed to the immunoglobulin heavy chain promoter enhancer via a t(11:14) translocation. This leads to ectopic expression of cyclin D1 in B lymphocytes, which normally express cyclins D2 and D3 preferentially. In contrast to p16INK4a and RB, which seem to play specific roles in checkpoint control, the selective involvement of particular D-type cyclins in tumorigenesis may also reflect their normal patterns of tissue-specific expression during development. Consistent with observations that D1, and not D2 or D3, is the major D-type cyclin expressed in both retinal and mammary epithelial tissues, mice lacking cyclin D1 exhibit retinal hypoplasia and defective lobuloalveolar development of breast epithelium during pregnancy ( Fantl et al., 1995 and Sicinski et al., 1995). Conversely, enforced expression of a cyclin D1 transgene in the breast tissue of mice predisposes to mammary cancer ( Wang et al., 1994). Moreover, whereas mice overexpressing Her2/Neu or oncogenic Ras transgenes targeted to mammary epithelium rapidly develop breast cancer, they fail to do so in a cyclin D1 null background, indicating that D1 function is essential for tumorigenesis and that other D-type cyclins in breast tissue cannot compensate ( Yu et al., 2001). In contrast, mice overexpressing targeted Wnt or Myc oncogenes develop breast carcinomas in a cyclin D1 null background, apparently because these oncogenes induce cyclin D2 ( Yu et al., 2001).
+
+The RB pathway is not strictly linear, in the sense that cyclin D1 overexpression not only accelerates the RB-E2F transcriptional program but also leads to p27Kip1 sequestration, thereby lowering the Cdk2 threshold (Figure 2). Hence both RB and p27Kip1 activity are negatively regulated by cyclin D1. The noncatalytic role of cyclin D1 in sequestering p27Kip1 likely plays a role in mammary tumorigenesis. In Her2/Neu transgenic mice, mammary carcinoma is accelerated in a p27+/− genetic background but is inhibited in p27Kip1 null mice ( Muraoka et al., 2002). Thus, lowering the p27Kip1 threshold accelerates cancer formation, presumably by relieving inhibition of Cdk2; however, some residual p27Kip1 function is essential for tumor development. Notably, cyclin D1-Cdk4 complexes could not stably assemble in cultured mammary epithelial cells from p27Kip1 null mice, but could reform when p27Kip1 was reintroduced ( Muraoka et al., 2002). These findings appear relevant to human breast cancers where cyclin D1 is frequently overexpressed ( Bartkova et al., 1994) and where low levels of p27Kip1 convey a poor prognosis ( Catzavelos et al., 1997, Porter et al., 1997 and Cariou et al., 1998).
+
+We still do not understand what particular selective advantage accrues from disruption of the RB pathway. Cells lacking RB or INK4a, or those overexpressing cyclin D1, do not divide at an accelerated rate. On the other hand, blunted responses to extracellular growth-inhibitory signals may prevent them from terminally differentiating or undergoing senescence. As discussed below, disruption of the RB pathway initiates a compensatory p53-dependent transcriptional program that reinforces cell cycle exit or, more dramatically, triggers apoptosis. In turn, any subsequent failure of p53 function would allow such cells to remain in cycle, abnormally extending cellular lifespan.
+
+Interconnecting RB and p53
+Surprisingly, the INK4a locus encodes a second gene product, in part from an alternative reading frame that overlaps sequences encoding p16INK4a ( Quelle et al., 1995). The alternative reading frame protein (p19Arf in mice and p14ARF in humans) is a potent tumor suppressor that activates p53 ( Kamijo et al., 1997). The p53 transcription factor is induced in response to DNA damage, hypoxia, and oncogene activation, and it regulates a program of gene expression that leads either to cell cycle arrest or apoptosis ( Levine, 1997 and Giaccia and Kastan, 1998). Among the genes induced by p53 are the Cdk inhibitor p21Cip1, many genes encoding proapoptotic proteins, and the p53 negative regulator Mdm2 (Hdm2 in humans) that plays a role in terminating the p53 response. Mdm2 binds directly to p53 to inhibit transcription, and it catalyzes p53 ubiquitination, targeting p53 for degradation ( Juven-Gershon and Oren, 1999). In turn, p19Arf binds directly to Mdm2 to antagonize these functions ( Sherr, 2001). The p53 gene is mutated in more than 50% of human cancers, and mutations in other genes that affect p53 function occur in many, if not all, tumors that retain a normal p53 gene. Among these are mutations affecting Hdm2, ARF, and a series of transcription factors that control ARF and p53 gene expression. This points to another key signaling circuit in cancer cells:
+
+View the MathML source
+Both p53- and Arf-deficient mice spontaneously develop tumors and die of cancers early in life ( Jacks, 1996 and Kamijo et al., 1999a). Primary MEFs cultured from these animals do not senesce in culture but instead yield immortal cell lines ( Harvey and Levine, 1991 and Kamijo et al., 1997). In other mouse cell types, both Arf loss and silencing of p16Ink4a are required for establishment of cell lines, underscoring collaboration between the RB and p53 pathways in this process ( Holland et al., 1998 and Randle et al., 2001). Human fibroblasts also bypass senescence when both the RB and p53 pathways are disabled, but telomere shortening provides an additional barrier to immortalization that must be overcome through reactivation of telomerase or by telomere stabilization through alternative recombinational mechanisms ( Wright and Shay, 2000 and Hahn and Weinberg, 2002). These differences between human and mouse cells reflect the presence of longer telomeres on mouse chromosomes and the less active suppression of telomerase activity in mouse versus human somatic cells. Hence, human cells lacking intact RB and p53 checkpoints eventually experience telomere dysfunction, leading to chromosomal end-end joining and fusion-bridge-breakage cycles that trigger the aneuploidy observed in most carcinomas ( Hanahan and Weinberg, 2000, Sherr and DePinho, 2000, Wright and Shay, 2000, Hahn and Weinberg, 2002 and O'Hagan et al., 2002).
+The ability of deregulated E2F to induce ARF transcription provides one connection between the RB pathway and p53 ( DeGregori et al., 1997 and Bates et al., 1998) and may help to explain why most tumors have defects in the p53 pathway. Overexpression of E2F in established cell lines lacking ARF or p53 can enforce S phase entry even in the absence of mitogenic stimulation ( Johnson et al., 1993, Qin et al., 1994 and Shan and Lee, 1994), but nonimmortal human diploid fibroblasts instead undergo an ARF-dependent p53 response leading to G1 phase arrest and, later, to apoptosis ( Lomazzi et al., 2002). Enforced overexpression of p19Arf in primary MEFs induces cell cycle arrest ( Quelle et al., 1995), whereas induction of Arf by ectopically expressed E2F1 or by certain oncoproteins, such as Myc or adenovirus E1A (see below), is accompanied by apoptosis ( De Stanchina et al., 1998; Zindy et al., 1998). Arf deficiency partially protects cells from apoptosis induced by these proteins. However, in mouse tumor models lacking functional RB or overexpressing E2F, Arf loss does not invariably diminish apoptosis or accelerate tumorigenesis ( Russell et al., 2002, Tolbert et al., 2002 and Tsai et al., 2002), indicating that E2F can activate p53 through Arf-independent pathways. By interfering with Mdm2, p19Arf enhances p53 stability and blocks cell proliferation, but further posttranslational modifications of p53 are likely to be required for induction of the apoptotic program ( Kamijo et al., 1999b, Khan et al., 2000, Lin et al., 2001 and Rogoff et al., 2002). Understanding Arf dependency in some circumstances and not others requires further investigation.
+
+Further complexity stems from the fact that Rb-E2F acts both upstream and downstream of the p19Arf-p53 axis. MEFs lacking all three Rb family proteins do not senesce in culture and are resistant to p19Arf-induced cell cycle arrest (Dannenberg et al., 2000 and Sage et al., 2000). One possible interpretation is that the antiproliferative activity of p19Arf might strongly depend upon the ability of the p53-inducible Cdk inhibitor, p21Cip1, to inhibit phosphorylation of Rb family members. However, cells lacking Cip1 are not immortal and undergo efficient p19Arf-induced arrest ( Pantoja and Serrano, 1999 and Modestou et al., 2001). A mutant form of E2F (E2F-DB) that binds to DNA but neither interacts with Rb nor transactivates E2F target genes can displace Rb-E2F complexes from promoters. When this mutant was overexpressed in primary MEFs, disruption of Rb-E2F-mediated repression increased the expression of E2F target genes, including Arf ( Rowland et al., 2002). Despite the activation of a persistent p19Arf-mediated p53 response, cells expressing E2F-DB were immortal and resistant to ectopic overexpression of either p19Arf or p53. Therefore, Rb (family)-E2F-mediated repression is required for cell cycle exit in response to p19Arf-p53 activation. Defining the relevant E2F target genes remains an open question, although genes encoding functions necessary for S phase entry are reasonable candidates.
+
+Arf is induced by abnormal mitogenic signals stemming from activated or overexpressed oncoproteins such as Myc, adenovirus E1A, mutated Ras, v-Abl, and β-catenin (Sherr, 2001). Activation of the Arf-Mdm2-p53 pathway reroutes cells that have sustained oncogenic damage to alternative p53-dependent fates—growth arrest or apoptosis (Figure 3). Disruption of this pathway eliminates this form of tumor surveillance and enables oncogenes to drive uncontrolled cell proliferation. By inducing Arf and Ink4a in primary rodent fibroblasts, oncogenic Ras expression leads to growth arrest and premature senescence ( Serrano et al., 1997 and Ferbeyre et al., 2002). However, Ras transforms established rodent cell lines lacking Arf or p53 into tumor cells.
+
+Full-size image (54 K)
+Figure 3. 
+Cell autonomous tumor surveillance and therapeutic options
+Mitogenic signaling activates E2Fs and Myc to advance cells into S phase. Stress signals that activate the Ink4a-Arf locus inhibit the activity of cyclin D-dependent kinases (p16Ink4a) and induce p53 through either Arf-dependent or -independent pathways, reprogramming cells to undergo growth arrest or apoptosis. Ras can also induce Mdm2 expression through a p53-independent pathway, further restraining the p53 response in Arf null cells. Protooncogenes are shown in green and tumor suppressors in red. Sites for therapeutic intervention are indicated in blue.
+Figure options
+An independent Ras-activated pathway induces Mdm2 in Arf null cells, which further dampens the p53 response and makes such cells resistant to chemotherapeutic agents that depend on p53 function to induce apoptosis ( Ries et al., 2000). Akt-mediated phosphorylation of Mdm2 enhances its nuclear translocation and collaborates in destabilizing the p53 protein ( Mayo and Donner, 2001).
+
+Overexpression of Myc in primary MEFs triggers apoptosis and strongly selects for the appearance of surviving cells that have lost either Arf or p53 function (Zindy et al., 1998). Mice bearing a Myc transgene under the control of a B cell-specific immunoglobulin promoter enhancer (Eμ-Myc) develop Burkitt-type lymphomas with an average latency of six months ( Adams et al., 1985). In early stages of disease, increased S phase entry by B cells in lymph nodes is counterbalanced by apoptosis ( Eischen et al., 1999 and Schmitt et al., 1999). Eμ-Myc overexpression gradually selects for cells that lose Arf or p53 function, so that the majority of lymphomas that arise bear such mutations ( Eischen et al., 1999). Crossing Eμ-Myc transgenic mice onto an Arf+/− genetic background accelerates the formation of tumors, most of which lose the wild-type Arf allele. The effects of Eμ-Myc in Arf null mice are particularly dramatic, with all animals dying of aggressive lympholeukemias by only six weeks of age.
+
+Although Arf disruption accelerates Eμ-Myc-induced lymphomagenesis by blunting apoptosis, p16Ink4a loss does not; strikingly, however, Ink4a mutations render mice resistant to potentially curative chemotherapy ( Schmitt et al., 2002). When lymphomas arising in Eμ-Myc transgenic mice were transplanted into cohorts of naive recipients, tumors lacking Ink4a-Arf responded poorly to cyclophosphamide, whereas those lacking Arf alone could be cured. In this setting, p16Ink4a and p53 collaborate to enable execution of a drug-induced senescence program. This establishes different roles for Arf and Ink4a during tumor development and indicates that p16Ink4a loss can interrupt a genetic program that facilitates drug-induced cytostasis. Loss of p53 portends a poorer prognosis, since p53 is required for both apoptosis and cytostasis ( Schmitt et al., 2002).
+
+Susceptibility to familial melanoma was mapped to the INK4a-ARF locus, and the critical mutations in some kindreds affect p16INK4a but not p14ARF function ( Kamb et al., 1994). However, mice lacking Ink4a-Arf rarely develop melanoma unless crossed with animals that express a Ras transgene in appropriate target cells ( Chin et al., 1997 and Bardeesy et al., 2001). When animals containing a mutant Ink4a allele were crossed with mice lacking the entire Ink4a-Arf locus, heterozygotes spontaneously developed melanomas, and dimethylbenzanthrene treatment resulted in a higher frequency of aggressive tumors ( Krimpenfort et al., 2001). Thus, a subtle constellation of genetic events involving p16Ink4a inactivation and Arf haploinsufficiency programs a different outcome than complete loss of Ink4a-Arf, which predisposes to other tumor types ( Serrano et al., 1996).
+
+Although an abnormal threshold of mitogenic signals has the potential to activate both Ink4a and Arf, neither gene is broadly expressed at significant levels during fetal development ( Zindy et al., 1997). Bmi-1, a transcriptional repressor, actively shuts off both genes, allowing rapid cell divisions to take place in utero without activation of the RB and p53 checkpoints. Bmi-1 disruption leads to developmental anomalies in multiple organ systems that are reversed on an Ink4a-Arf null background ( Jacobs et al., 1999a). As might be expected, then, overexpression of Bmi-1 accelerates Eμ-Myc-induced lymphomagenesis by dampening p19Arf and p16Ink4a expression ( Jacobs et al., 1999b). Similarly, overexpression of other ARF repressors, such as Twist and TBX2, occurs in several forms of human cancer that retain wild-type p53 ( Maestro et al., 1999 and Jacobs et al., 2000). Thus, tumors with normal ARF, Hdm2, and p53 genes can still exhibit defective p53 function.
+
+Opportunities for targeted therapy
+Defects in apoptosis and cell cycle checkpoint control not only affect tumor development, but also contribute to multidrug resistance (Johnstone et al., 2002 and Schmitt et al., 2002). How then can we exploit known genetic defects in the RB and p53 pathways to rationally design effective anticancer treatment?
+
+Therapies based on the RB pathway
+Disruption of cyclin D-Cdk complexes should prevent tumor progression in cases where specific D-type cyclins are overexpressed, or where “upstream” oncoproteins rely upon particular D-type cyclins for their effects. Although most cell types synthesize more than one D-type cyclin and produce both Cdk4 and Cdk6, the selective expression of cyclin D1 and Cdk4 in breast epithelium (Fantl et al., 1995 and Sicinski et al., 1995) and the strict dependency on cyclin D1 for development of certain breast tumors (Yu et al., 2001) argues for a role of cyclin D1 antagonists in the treatment this disease. Since it remains unclear whether the catalytic (Cdk activation) or stoichiometric (p27Kip1 sequestration) functions of cyclin D1 are required for breast tumorigenesis, inhibitors that block cyclin D1 synthesis or assembly with Cdk4 would be ideal, since they would interfere with both processes. However, preventing the assembly of cyclins with Cdks using small molecules presents a formidable challenge, because of the extensive interfaces that underlie their molecular interactions (Pavletich, 1999). Another approach may be to interfere with Ras-dependent kinase signaling cascades required for cyclin D1-Cdk4 assembly. The Raf and PI3K signaling cascades that govern cyclin D1 synthesis, stability, and Cdk assembly (Figure 1 and Figure 3) are central to Ras-dependent antiapoptotic functions and are themselves targets of oncogenic activation in many tumor types. Hence, pharmacological development of selective inhibitors of these pathways has long been underway, and many are already in clinical trials for cancer treatment (Herrera and Sebolt-Leopold, 2002). Cdk inhibitors (Gray et al., 1988, Hoessel et al., 1999, Fry et al., 2001, Soni et al., 2001 and Nahta et al., 2002) might also prove useful in treating tumors that overexpress cyclin D1-Cdk4 or that have lost INK4a function ( Figure 3). However, because certain Cdks play non-cell-cycle roles in processes such as transcription and neural development, modulation of Cdk function, if not highly specific, could well have unanticipated side effects in nonproliferating cells ( Sausville, 2002). Some recently developed compounds exhibit more selectivity for Cdk4 and Cdk6 ( Toogood, 2001), but target validation in vivo remains a problem.
+
+The adenovirus E1A protein binds to RB family proteins to release E2Fs and promote S phase entry. Apart from activating many E2F-responsive cellular genes, including E2F1 itself, E2Fs regulate the E2 region of the adenoviral genome—indeed, this is how E2F activity was first recognized. Moreover, the E4 region of the adenovirus genome encodes a protein (E4orf6/7) that binds directly to E2Fs, displacing RB and selectively directing E2F to both the viral E2 promoter and to the cellular E2F1 promoter. An adenovirus expressing a mutant form of E1A that cannot bind RB should replicate selectively and kill cells lacking functional RB ( Fueyo et al., 2000). A variant in which both the viral E4 and mutant E1A genes are placed under the control of the human E2F1 promoter selectively kills tumor cells with deregulated E2F, whereas normal cells halt viral replication in an RB-dependent manner ( Johnson et al., 2002). Such viruses are effective and relatively safe systemic antitumor agents in xenograft models. Using additional variants with increased potential for lysing cycling cells should provide even further specificity and efficacy against tumor cells ( Doronin et al., 2000).
+
+Increased E2F activity in tumor cells upregulates a number of enzymes that are already targets for therapy. Indeed, classical anticancer agents such as methotrexate and 5-fluorouracil act on E2F-regulated gene products (dihydrofolate reductase and thymidylate synthase, respectively). These agents are often effective, but patients become refractory, frequently through mutations in the target genes. A complementary approach might take advantage of synthetic lethality, in which disruption of one of two genes that affect a vital function is compatible with life, whereas loss of both causes cell death. For example, cells that lack RB and manifest defects in E2F regulation are much more sensitive than normal cells to cyclin A-Cdk2 inhibitors (Chen et al., 1999), which might show particular promise in tumors with elevated E2F activity (Figure 3).
+
+Therapies targeting the p53 pathway
+Drugs and radiation commonly used in cancer treatment induce p53 in normal tissues, contributing to their toxicity, whereas tumors lacking p53 tend to resist drug-induced cell cycle arrest and apoptosis (Johnstone et al., 2002). By screening a small molecule library for inhibitors of p53-induced transcription, Komarov and coworkers (1999) identified a compound that protected mice from the lethal effects of ionizing radiation. In principle, such a drug could be used to reduce the side effects of chemotherapy, potentiating the efficacy of already available agents.
+
+Restoration of p53 function in p53 null tumors, which can potentially be achieved through genetic or pharmacologic methods, can directly induce apoptosis and reestablish responses to cytotoxic drugs (McCormick, 2001 and Lane and Lain, 2002). Small molecules that reactivate mutant p53, restoring its DNA binding and transcriptional activity, were reported to exhibit antitumor effects in vivo; these provide a novel approach not subject to limitations of gene therapy (Foster et al., 1999). Instead of replacing p53, it may be possible to identify compounds that emulate the effects of certain p53 target genes in inducing cell cycle arrest or apoptosis. For example, Cdk inhibitors (see above) would be expected to mimic the effects of p21Cip1 on cell cycle progression. Alternatively, it may be possible to engage an extrinsic apoptotic program dependent on cell surface death receptors, to which certain tumor types are particularly sensitive (Ashkenazi et al., 1999).
+
+Yet another approach utilizes lytic viruses to selectively kill cells with defective p53 function. Adenoviruses must eliminate p53 to replicate efficiently and do so by producing the E1B 55K protein, which binds to p53 and helps target its destruction. Adenoviruses that lack E1B 55K cannot replicate in cells that retain normal p53 but lyse cancer cells that lack either p53 or ARF function (McCormick, 2001). Patients with head and neck cancer who were treated by direct injection of such viruses into their tumor masses underwent limited clinical responses (Nemunaitis et al., 2001), and more encouraging results of a phase II trial in combination with 5-fluorouracil and cysplatin have been reported (Khuri et al., 2000).
+
+In tumors that retain wild-type p53, inhibitors of Hdm2 may have therapeutic value. Introduction of p14ARF into such tumors causes p53-dependent cytostasis or apoptosis, and small molecule inhibitors of Hdm2 may have similar effects. Drugs that block Hdm2 ubiquitin ligase activity, or peptides that prevent Hdm2/p53 interaction, might offer similar advantages (Bottger et al., 1996 and Bottger et al., 1997). In many tumors of this type, Hdm2 expression is regulated by the Ras/MEK/MAP kinase pathway. Drugs that block this pathway are currently in clinical trials, and, in experimental systems, inhibit Hdm2 expression and thereby sensitize cells to p53-dependent apoptosis. This effect is tumor-selective, as normal levels of Ras/MEK/MAP kinase signaling do not affect p53 activity. Finally, p53's ability to act as a transcription factor is limited not only by Mdm2-directed p53 ubiquitination but also by Mdm2-dependent nuclear export. Leptomycin B, an inhibitor of CRM1-dependent nuclear transport, activates p53 and exhibits some antitumor activity, but did not show a sufficient therapeutic index in a phase I clinical trial (Lane and Lain, 2002). Nonetheless, more selective drugs affecting Mdm2-dependent nuclear export might have future value.
+
+Determining the genotypes of tumors and rationally designing anticancer drugs based on defined targets should increase treatment efficacy while decreasing toxicity. Although multiple mutations contribute to malignancy, not all need to be corrected to achieve significant therapeutic effects. Most attempts to treat cancers in model systems through replacement of single tumor suppressor genes or inhibition of individual oncogenes have resulted in tumor killing or growth arrest. The dramatic success of the Bcr-Abl kinase inhibitor Gleevec in treating chronic myelogenous leukemia has greatly encouraged development of targeted therapies (Druker, 2002), although the appearance of drug resistance underscores the need for combinations of therapies to achieve sustained remissions. Using combinations of rational agents based on informed strategies should lead to additional therapeutic successes without the traumatic side effects of traditional anticancer regimens.
+
+References
+Adams et al., 1985
+J.M Adams, A.W Harris, C.A Pinkert, L.M Corcoran, W.S Alexander, S Cory, R.D Palmiter, R.L Brinster
+The c-myc oncogene driven by immunoglobulin enhancers induces lymphoid malignancy in transgenic mice
+Nature, 318 (1985), pp. 533–538
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (659)
+Alcorta et al., 1996
+D.A Alcorta, Y Xiong, D Phelps, G Hannon, D Beach, J.C Barrett
+Involvement of the cyclin-dependent kinase inhibitor p16 (INK4a) in replicative senescence of normal human fibroblasts
+Proc. Natl. Acad. Sci. USA, 93 (1996), pp. 13742–13747
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (544)
+Alt et al., 2002
+J.R Alt, A.B Gladden, J.A Diehl
+p21(Cip1) promotes cyclin D1 nuclear accumulation via direct inhibition of nuclear export
+J. Biol. Chem., 277 (2002), pp. 8517–8523
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (108)
+Ashkenazi et al., 1999
+A Ashkenazi, R.C Pai, S Fong, S Leung, D.A Lawrence, S.A Marsters, C Blackie, L Chang, A.E McMurtrey, A Hebert et al.
+Safety and antitumor activity of recombinant soluble Apo2 ligand
+J. Clin. Invest., 104 (1999), pp. 155–162
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1467)
+Bardeesy et al., 2001
+N Bardeesy, B.C Bastian, A Hezel, D Pinkel, R.A DePinho, L Chin
+Dual inactivation of RB and p53 pathways in RAS-induced melanomas
+Mol. Cell. Biol., 21 (2001), pp. 2144–2153
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (121)
+Bartkova et al., 1994
+J Bartkova, J Lukas, H Muller, D Lutzhoft, M Strauss, J Bartek
+Cyclin D1 protein expression and function in human breast cancer
+Int. J. Cancer, 57 (1994), pp. 353–361
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (378)
+Bates et al., 1998
+S Bates, A.C Phillips, P.A Clarke, F Stott, G Peters, R.L Ludwig, K.H Vousden
+p14ARF links the tumour suppressors RB and p53
+Nature, 395 (1998), pp. 124–125
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (698)
+Blain et al., 1997
+S.W Blain, E Montalvo, J Massague
+Differential interaction of the cyclin-dependent kinase (Cdk) inhibitor p27Kip1 with cyclin A-Cdk2 and cyclin D2-Cdk4
+J. Biol. Chem., 272 (1997), pp. 25863–25872
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (197)
+Bottger et al., 1996
+V Bottger, A Bottger, S.F Howard, S.M Picksley, P Chene, C Garcia-Echeverria, H.K Hochkeppel, D.P Lane
+Identification of novel mdm2 binding peptides by phage display
+Oncogene, 13 (1996), pp. 2141–2147
+
+View Record in Scopus | Cited By in Scopus (156)
+Bottger et al., 1997
+A Bottger, V Bottger, A Sparks, W.L Liu, S.F Howard, D.P Lane
+Design of a synthetic Mdm2-binding mini protein that activates the p53 response in vivo
+Curr. Biol., 7 (1997), pp. 860–869
+
+Article |  PDF (157 K) | View Record in Scopus | Cited By in Scopus (297)
+Cariou et al., 1998
+S Cariou, C Catzavelos, J.M Slingerland
+Prognostic implications of expression of the cell cycle inhibitior protein p27Kip1
+Breast Cancer Res. Treat., 52 (1998), pp. 29–41
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (39)
+Catzavelos et al., 1997
+C Catzavelos, N Bhattacharya, Y.C Ung, J.A Wilson, L Roncari, C Sandhu, P Shaw, H Yeger, I Morava-Protzner, L Kapusta et al.
+Decreased levels of the cell-cycle inhibitor p27Kip1 protein: prognostic implications in primary breast cancer
+Nat. Med., 3 (1997), pp. 227–230
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (718)
+Chen et al., 1999
+Y.N Chen, S.K Sharma, T.M Ramsay, L Jiang, M.S Martin, K Baker, P.D Adams, K.W Bair, W.G Kaelin Jr.
+Selective killing of transformed cells by cyclin/cyclin-dependent kinase 2 antagonists
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 4221–4223
+
+Cheng et al., 1999
+M Cheng, P Olivier, J.A Diehl, M Fero, M.F Roussel, J.M Roberts, C.J Sherr
+The p21Cip1 and p27Kip1 CDK “inhibitors” are essential activators of cyclin D-dependent kinases in murine fibroblasts
+EMBO J., 18 (1999), pp. 1571–1583
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (789)
+Chin et al., 1997
+L Chin, J Pomerantz, D Polsky, M Jacobson, C Cohen, C Condon-Cardo, J.W Horner II, R.A DePinho
+Cooperative effects of INK4a and ras in melanoma susceptibility in vivo
+Genes Dev., 11 (1997), pp. 2822–2834
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (283)
+Dannenberg et al., 2000
+J.H Dannenberg, A van Rossum, L Schuijff, H te Riele
+Ablation of the retinoblastoma gene family deregulates G1 control causing immortalization and increased cell turnover under growth-restricting conditions
+Genes Dev., 14 (2000), pp. 3051–3064
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (272)
+DeGregori et al., 1997
+J DeGregori, G Leone, A Miron, L Jokoi, J.R Nevins
+Distinct roles for E2F proteins in cell growth control and apoptosis
+Proc. Natl. Acad. Sci. USA, 94 (1997), pp. 7245–7250
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (512)
+de Stanchina et al., 1998
+E de Stanchina, M.E McCurrach, F Zindy, S.Y Shieh, G Ferbeyre, A.V Samuelson, C Prives, M.F Roussel, C.J Sherr, S.W Lowe
+E1A signaling to p53 involves the p19ARF tumor suppressor
+Genes Dev., 12 (1998), pp. 2434–2442
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (494)
+Doronin et al., 2000
+K Doronin, K Toth, M Kuppuswamy, P Ward, A.E Tollefson, W.S Wold
+Tumor-specific, replication-competent adenovirus vectors overexpressing the adenovirus death protein
+J. Virol., 74 (2000), pp. 6147–6155
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (155)
+Druker, 2002
+B.J Druker
+STI571 (Gleevec) as a paradigm for cancer therapy
+Trends Mol. Med., 8 (2002), pp. S14–S18
+
+Article |  PDF (95 K) | View Record in Scopus | Cited By in Scopus (201)
+Dyson, 1998
+N Dyson
+The regulation of E2F by pRB-family proteins
+Genes Dev., 12 (1998), pp. 2245–2262
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1574)
+Eischen et al., 1999
+C.M Eischen, J.D Weber, M.F Roussel, C.J Sherr, J.L Cleveland
+Disruption of the ARF-Mdm2-p53 tumor suppressor pathway in Myc-induced lymphomagenesis
+Genes Dev., 13 (1999), pp. 2658–2669
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (505)
+Fantl et al., 1995
+V Fantl, G Stamp, A Andrews, I Rosewell, C Dickson
+Mice lacking cyclin D1 are small and show defects in eye and mammary gland development
+Genes Dev., 9 (1995), pp. 2364–2372
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (526)
+Ferbeyre et al., 2002
+G Ferbeyre, E De Stanchina, A.W Lin, E Querido, M.E McCurrach, G.J Hannon, S.W Lowe
+Oncogenic ras and p53 cooperate to induce cellular senescence
+Mol. Cell. Biol., 22 (2002), pp. 3497–3508
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (165)
+Foster et al., 1999
+B.A Foster, H.A Coffey, M.J Morin, F Rastinejad
+Pharmacological rescue of mutant p53 conformation and function
+Science, 286 (1999), pp. 2507–2510
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (490)
+Fry et al., 2001
+D.W Fry, D.C Bedford, P.H Harvey, A Fritsch, P.R Keller, Z Wu, E Dobrusin, W.R Leopold, A Fattaey, M.D Garrett
+Cell cycle and biochemical effects of PD 0183812. A potent inhibitor of the cyclin D-dependent kinases CDK4 and CDK6
+J. Biol. Chem., 276 (2001), pp. 16617–16623
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (85)
+Fueyo et al., 2000
+J Fueyo, C Gomez-Manzano, R Alemany, P.S Lee, T.J McDonnell, P Mitlianga, Y.X Shi, V.A Levin, W.K Yung, A.P Kyritsis
+A mutant oncolytic adenovirus targeting the Rb pathway produces anti-glioma effect in vivo
+Oncogene, 19 (2000), pp. 2–12
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (410)
+Giaccia and Kastan, 1998
+A.J Giaccia, M.B Kastan
+The complexity of p53 modulation: emerging patterns from divergent signals
+Genes Dev., 12 (1998), pp. 2973–2983
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (975)
+Gray et al., 1988
+N.S Gray, L Wodicka, A.-M.W.H Thunnissen, T.C Norman, S Kwon, F.H Espinoza, D.O Morgan, G Barnes, S Leclerc, L Meijer et al.
+Exploiting chemical libraries, structure, and genomics in the search for kinase inhibitors
+Science, 281 (1988), pp. 533–538
+
+Hahn and Weinberg, 2002
+W.C Hahn, R.A Weinberg
+Modeling the molecular circuitry of cancer
+Nat. Rev. Cancer, 2 (2002), pp. 331–341
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (616)
+Hanahan and Weinberg, 2000
+D Hanahan, R.A Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12481)
+Hara et al., 1996
+E Hara, R Smith, D Parry, H Tahara, S Stone, G Peters
+Regulation of p16CDKN2 expression and its implications for cell immortalization and senescence
+Mol. Cell. Biol., 16 (1996), pp. 859–867
+
+View Record in Scopus | Cited By in Scopus (522)
+Harbour and Dean, 2000
+J.W Harbour, D.C Dean
+The Rb/E2F pathway: expanding roles and emerging paradigms
+Genes Dev., 14 (2000), pp. 2393–2409
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (719)
+Harvey and Levine, 1991
+D.M Harvey, A.J Levine
+p53 alteration is a common event in the spontaneous immortalization of primary BALB/c murine embryo fibroblasts
+Genes Dev., 5 (1991), pp. 2375–2385
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (280)
+Herrera and Sebolt-Leopold, 2002
+R Herrera, J.S Sebolt-Leopold
+Unraveling the complexities of the Raf/MAP kinase pathway for pharmacological intervention
+Trends Mol. Med., 8 (2002), pp. S27–S31
+
+Article |  PDF (244 K) | View Record in Scopus | Cited By in Scopus (83)
+Hoessel et al., 1999
+R Hoessel, S Leclerc, J.A Endicott, M.E.M Nobel, A Lawrie, P Tunnah, M Leost, E Damiens, D Marie, D Marko et al.
+Indirubin, the active constituent of a Chinese antileukaemia medicine, inhibits cyclin-dependent kinases
+Nat. Cell Biol., 1 (1999), pp. 60–67
+
+View Record in Scopus | Cited By in Scopus (453)
+Holland et al., 1998
+E.C Holland, W.P Hively, V Gallo, H.E Varmus
+Modeling mutations in the G1 arrest pathway in human gliomas: overexpression of CDK4 but not loss of INK4a-ARF induces hyperploidy in cultured mouse astrocytes
+Genes Dev., 12 (1998), pp. 3644–3649
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (78)
+Jacks, 1996
+T Jacks
+Tumor suppressor gene mutations in mice
+Annu. Rev. Genet., 30 (1996), pp. 603–636
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (73)
+Jacobs et al., 1999a
+J.J.L Jacobs, K Kieboom, S Marino, R.A DePinho, M van Lohuizen
+The oncogene and Polycomb-group gene bmi-1 regulates cell proliferation and senescence through the ink4a locus
+Nature, 397 (1999), pp. 164–168
+
+View Record in Scopus | Cited By in Scopus (915)
+Jacobs et al., 1999b
+J.J.L Jacobs, B Scheijen, J.-W Vonchen, K Kieboom, A Berns, M van Lohuizen
+Bmi-1 collaborates with c-Myc in tumorigenesis by inhibiting c-Myc induced apoptosis via INK4a/ARF
+Genes Dev., 13 (1999), pp. 2678–2690
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (377)
+Jacobs et al., 2000
+J.J.L Jacobs, P Keblusek, E Robanus-Maandag, P Kristel, M Lingbeek, P.M Nederlof, T van Welsem, M.J van de Vijver, E.Y Koh, G.Q Daley, M van Lohuizen
+Senescence bypass screen identifies TBX2, which represses Cdkn2a (p19ARF) and is amplified in a subset of human breast cancers
+Nat. Genet., 26 (2000), pp. 291–299
+
+View Record in Scopus | Cited By in Scopus (227)
+Johnson et al., 1993
+D.G Johnson, J.K Schwarz, W.D Cress, J.R Nevins
+Expression of transcription factor E2F1 induces quiescent cells to enter S phase
+Nature, 365 (1993), pp. 349–352
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (529)
+Johnson et al., 2002
+L Johnson, A Shen, L Boyle, J Kunich, K Pandey, M Lemmon, T Hermiston, M Giedlin, F McCormick, A Fattaey
+Selectively replicating adenoviruses targeting deregulated E2F activity are potent, systemic antitumor agents
+Cancer Cell, 1 (2002), pp. 325–337
+
+Article |  PDF (612 K) | View Record in Scopus | Cited By in Scopus (150)
+Johnstone et al., 2002
+R.W Johnstone, A.A Ruefli, S.W Lowe
+Apoptosis: a link between cancer genetics and chemotherapy
+Cell, 108 (2002), pp. 153–164
+
+Article |  PDF (198 K) | View Record in Scopus | Cited By in Scopus (1269)
+Juven-Gershon and Oren, 1999
+T Juven-Gershon, M Oren
+Mdm2: the ups and downs
+Mol. Med., 5 (1999), pp. 71–83
+
+View Record in Scopus | Cited By in Scopus (117)
+Kamb et al., 1994
+A Kamb, D Shattuck-Eidens, R Eeles, Q Liu, N.A Gruis, W Ding, C Hussey, T Tran, Y Miki, J Weaver-Feldhaus et al.
+Analysis of the p16 gene (CDKN2) as a candidate for the chromosome 9p melanoma susceptibility locus
+Nat. Genet., 8 (1994), pp. 22–26
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (550)
+Kamijo et al., 1997
+T Kamijo, F Zindy, M.F Roussel, D.E Quelle, J.R Downing, R.A Ashmun, G Grosveld, C.J Sherr
+Tumor suppression at the mouse INK4a locus mediated by the alternative reading frame product p19ARF
+Cell, 91 (1997), pp. 649–659
+
+Article |  PDF (364 K) | View Record in Scopus | Cited By in Scopus (1110)
+Kamijo et al., 1999a
+T Kamijo, S Bodner, E van de Kamp, D.H Randle, C.J Sherr
+Tumor spectrum in ARF-deficient mice
+Cancer Res., 59 (1999), pp. 2217–2222
+
+View Record in Scopus | Cited By in Scopus (228)
+Kamijo et al., 1999b
+T Kamijo, E van de Kamp, M.J Chong, F Zindy, J.A Diehl, C.J Sherr, P McKinnon
+Loss of the ARF tumor suppressor reverses premature replicative arrest but not radiation hypersensitivity arising from disabled ATM function
+Cancer Res., 59 (1999), pp. 2464–2469
+
+View Record in Scopus | Cited By in Scopus (82)
+Khan et al., 2000
+S.H Khan, J Moritsugu, G.M Wahl
+Differential requirement for p19ARF in the p53-dependent arrest induced by DNA damage, microtubule disruption, and ribonucleotide depletion
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 3266–3271
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (81)
+Khuri et al., 2000
+F.R Khuri, J Nemunaitis, I Ganly, J Arseneau, I.F Tannock, L Romel, M Gore, J Ironside, R.H MacDougall, C Heise et al.
+A controlled trial of intratumoral ONYX-015, a selectively-replicating adenovirus, in combination with cisplatin and 5-fluorouracil in patients with recurrent head and neck cancer
+Nat. Med., 6 (2000), pp. 879–885
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (806)
+Komarov et al., 1999
+P.G Komarov, E.A Komarova, R.V Kondratov, K Christov-Tselkov, J.S Coon, M.V Chernov, A.V Gudkov
+A chemical inhibitor of p53 that protects mice from the side effects of cancer therapy
+Science, 285 (1999), pp. 1733–1737
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (733)
+Krimpenfort et al., 2001
+P Krimpenfort, K.C Quon, W.J Mooi, A Loonstra, A Berns
+Loss of p16Ink4a confers susceptibility to metastatic melanoma in mice
+Nature, 413 (2001), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (370)
+LaBaer et al., 1997
+J LaBaer, M.D Garrett, L.F Stevenson, J.M Slingerland, C Sandhu, H.S Chou, A Fattaey, E Harlow
+New functional activities for the p21 family of CDK inhibitors
+Genes Dev., 11 (1997), pp. 847–862
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (991)
+Lane and Lain, 2002
+D.P Lane, S Lain
+Therapeutic exploitation of the p53 pathway
+Trends Mol. Med., 8 (2002), pp. S38–S42
+
+Article |  PDF (308 K) | View Record in Scopus | Cited By in Scopus (101)
+Lin et al., 2001
+W.C Lin, F.T Lin, J.R Nevins
+Selective induction of E2F1 in response to DNA damage mediated by ATM-dependent phosphorylation
+Genes Dev., 15 (2001), pp. 1833–1844
+
+View Record in Scopus | Cited By in Scopus (275)
+Levine, 1997
+A.J Levine
+p53, the cellular gatekeeper for growth and division
+Cell, 88 (1997), pp. 323–331
+
+Article |  PDF (247 K) | View Record in Scopus | Cited By in Scopus (5322)
+Lipinski and Jacks, 1999
+M.M Lipinski, T Jacks
+The retinoblastoma gene family in differentiation and development
+Oncogene, 18 (1999), pp. 7873–7882
+
+View Record in Scopus | Cited By in Scopus (292)
+Lomazzi et al., 2002
+M Lomazzi, M.C Moroni, M.R Jensen, E Frittoli, K Helin
+Suppression of the p53- or pRB-mediated G1 checkpoint is required for E2F-induced S-phase entry
+Nat. Genet., 31 (2002), pp. 190–194
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (61)
+Maestro et al., 1999
+R Maestro, A.P Dei Tos, Y Hamamori, S Krasnokutsky, V Sartorelli, L Kedes, C Doglioni, D Beach, G.J Hannon
+Twist is a potential oncogene that inhibits apoptosis
+Genes Dev., 13 (1999), pp. 2207–2217
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (318)
+Marshall, 1999
+C Marshall
+How do small GTPase signal transduction pathways regulate cell cycle entry?
+Curr. Opin. Cell Biol., 11 (1999), pp. 732–736
+
+Article |  PDF (85 K) | View Record in Scopus | Cited By in Scopus (118)
+Mayo and Donner, 2001
+L.D Mayo, D.B Donner
+A phosphotidylinositol 3-kinase/Akt pathway promotes translocation of Mdm2 from the cytoplasm to the nucleus
+Proc. Natl. Acad. Sci. USA, 96 (2001), pp. 11598–11603
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (611)
+McCormick, 2001
+F McCormick
+Cancer gene therapy: fringe or cutting edge?
+Nat. Rev. Cancer, 1 (2001), pp. 130–141
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (215)
+Modestou et al., 2001
+M Modestou, V Puig-Antich, C Korgaonkar, A Eapen, D.E Quelle
+The alternative reading frame tumor suppressor inhibits growth through p21-dependent and p21-independent pathways
+Cancer Res., 61 (2001), pp. 3145–3150
+
+View Record in Scopus | Cited By in Scopus (39)
+Muraoka et al., 2002
+R.S Muraoka, A.E Lenferink, B Law, E Hamilton, D.M Brantley, L.R Roebuck, C.L Arteaga
+ErbB2/Neu-induced, cyclin D1-dependent transformation is accelerated in p27-haploinsufficient mammary epithelial cells but impaired in p27-null cells
+Mol. Cell. Biol., 22 (2002), pp. 2204–2219
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (84)
+Nahta et al., 2002
+R Nahta, J.D Iglehart, B Kempkes, E.V Schmidt
+Rate-limiting effects of cyclin D1 in transformation by ErbB2 predicts synergy between herceptin and flavopiridol
+Cancer Res., 62 (2002), pp. 2267–2271
+
+View Record in Scopus | Cited By in Scopus (48)
+Nemunaitis et al., 2001
+J Nemunaitis, F Khuri, I Ganly, J Arseneau, M Posner, E Vokes, J Kuhn, T McCarty, S Landers, A Blackburn et al.
+Phase II trial of intratumoral administration of ONYX-015, a replication-selective adenovirus, in patients with refractory head and neck cancer
+J. Clin. Oncol., 19 (2001), pp. 3155–3157
+
+Nevins, 2001
+J.R Nevins
+The Rb/E2F pathway and cancer
+Hum. Mol. Genet., 10 (2001), pp. 699–703
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (440)
+Ogawa et al., 2002
+H Ogawa, K Ishiguro, S Gaubatz, D.M Livingston, Y Nakatani
+A complex with chromatin modifiers that occupies E2F-and Myc-responsive genes in Go cells
+Science, 296 (2002), pp. 1132–1136
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (422)
+O'Hagan et al., 2002
+R.C O'Hagan, S Chang, R.S Maser, R Mohan, S.E Artandi, L Chin, R.A DePinho
+Telomere dysfunction provokes regional amplification and deletion in cancer genomes
+Cancer Cell, 2 (this issue) (2002), pp. 149–155 Published online July 16, 2002. DOI: 10.1016/51535610802000946
+
+Article |  PDF (364 K) | View Record in Scopus | Cited By in Scopus (148)
+Ortega et al., 2002
+S Ortega, M Malumbres, M Barbacid
+Cyclin D-dependent kinases. INK4 inhibitors and cancer
+Biochem. Biophys. Acta, 1602 (2002), pp. 73–87
+
+Article |  PDF (436 K) | View Record in Scopus | Cited By in Scopus (422)
+Pantoja and Serrano, 1999
+C Pantoja, M Serrano
+Murine fibroblasts lacking p21 undergo senescence and are resistant to transformation by oncogenic Ras
+Oncogene, 18 (1999), pp. 4974–4982
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (126)
+Pavletich, 1999
+N.P Pavletich
+Mechanisms of cyclin-dependent kinase regulation: structures of Cdks, their cyclin activators, and Cip and INK4 inhibitors
+J. Mol. Biol., 287 (1999), pp. 821–828
+
+Article |  PDF (526 K) | View Record in Scopus | Cited By in Scopus (405)
+Porter et al., 1997
+P.L Porter, K.E Malone, P.J Heagerty, G.M Alexander, L.A Gatti, F.J Firpo, J.R Daling, J.M Roberts
+Expression of cell-cycle regulators p27Kip1 and cyclin E, alone and in combination, correlate with survival in young breast cancer patients
+Nat. Med., 3 (1997), pp. 222–225
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (762)
+Qin et al., 1994
+X.Q Qin, D.M Livingston, W.G Kaelin Jr., P.D Adams
+Deregulated transcription factor E2F–1 expression leads to S-phase entry and p53-mediated apoptosis
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 10918–10922
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (603)
+Quelle et al., 1995
+D.E Quelle, F Zindy, R.A Ashmun, C.J Sherr
+Alternative reading frames of the INK4a tumor suppressor gene encode two unrelated proteins capable of inducing cell cycle arrest
+Cell, 83 (1995), pp. 993–1000
+
+View Record in Scopus | Cited By in Scopus (1086)
+Ramirez et al., 2001
+R.D Ramirez, C.P Morales, B.-S Herbert, J.M Rohde, C Passons, J.W Shay, W.E Wright
+Putative telomere-independent mechanisms of replicative aging reflect inadequate growth conditions
+Genes Dev., 15 (2001), pp. 398–403
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (313)
+Randle et al., 2001
+D.H Randle, F Zindy, C.J Sherr, M.F Roussel
+Differential effects of p19Arf and p16Ink4a loss on senescence of murine bone marrow-derived pre-B cells and macrophages
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 9654–9659
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (82)
+Rayman et al., 2002
+J.B Rayman, Y Takahashi, V.B Indjeian, J.-H Dannenberg, S Catchpole, R.J Watson, H te Riele, B.D Dynlacht
+E2F mediates cell cycle-dependent transcriptional repression in vivo by recruitment of an HDAC1/mSin3B corepressor complex
+Genes Dev., 16 (2002), pp. 933–947
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (189)
+Ries et al., 2000
+S Ries, C Biederer, D Woods, O Shifman, S Shirasawa, T Sasazuki, M McMahon, M Oren, F McCormick
+Opposing effects of Ras on p53: transcriptional activation of mdm2 and induction of p19ARF
+Cell, 103 (2000), pp. 321–330
+
+Article |  PDF (485 K) | View Record in Scopus | Cited By in Scopus (261)
+Rogoff et al., 2002
+H.A Rogoff, M.T Pickering, M.E Debatis, S Jones, T.F Kowalik
+E2F1 induces phosphorylation of p53 that is coincident with p53 accumulation and apoptosis
+Mol. Cell. Biol., 22 (2002), pp. 5308–5318
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (82)
+Roussel, 1999
+M.F Roussel
+The INK4 family of cell cycle inhibitors in cancer
+Oncogene, 18 (1999), pp. 5311–5317
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (175)
+Rowland et al., 2002
+B.D Rowland, S.G Denissov, S Douma, H.G Stunnenberg, R Bernards, D.S Peppers
+E2F transcriptional repressor complexes are critical downstream targets of p19ARF/p53-induced proliferative arrest
+Cancer Cell, 2 (2002), pp. 55–65
+
+Article |  PDF (523 K) | View Record in Scopus | Cited By in Scopus (93)
+Ruas and Peters, 1998
+M Ruas, G Peters
+The p16INK4a/CDKN2A tumor suppressor and its relatives
+BBA Rev. Cancer, 1378 (1998), pp. F115–F177
+
+Article |  PDF (538 K) | View Record in Scopus | Cited By in Scopus (703)
+Russell et al., 2002
+J.L Russell, J.T Powers, R.J Rounbehler, P.M Rogers, C.J Conti, D.G Johnson
+ARF differentially modulates apoptosis induced by E2F1 and Myc
+Mol. Cell. Biol., 22 (2002), pp. 1360–1368
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (63)
+Sage et al., 2000
+J Sage, G.J Mulligan, L.D Attardi, A Miller, S Chen, B Williams, E Theodorou, T Jacks
+Targeted disruption of the three Rb-related genes leads to loss of G1 control and immortalization
+Genes Dev., 14 (2000), pp. 3037–3050
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (402)
+Sausville, 2002
+E.A Sausville
+Complexities in the development of cyclin-dependent kinase inhibitor drugs
+Trends Mol. Med., 8 (2002), pp. S32–S35
+
+Schmitt et al., 1999
+C.A Schmitt, M.E McCurrach, E De Stanchina, S.W Lowe
+INK4a/ARF mutations accelerate lymphomagenesis and promote chemoresistance by disabling p53
+Genes Dev., 13 (1999), pp. 2670–2677
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (315)
+Schmitt et al., 2002
+C.A Schmitt, J.S Fridman, M Yang, S Lee, E Baranov, R.M Hoffman, S.W Lowe
+A senescence program controlled by p53 and p16INK4a contributes to the outcome of cancer therapy
+Cell, 109 (2002), pp. 335–346
+
+Article |  PDF (525 K) | View Record in Scopus | Cited By in Scopus (535)
+Sellers and Kaelin, 1997
+W.R Sellers, W.G Kaelin
+Role of the retinoblastoma protein in the pathogenesis of human cancer
+J. Clin. Oncol., 15 (1997), pp. 3301–3312
+
+View Record in Scopus | Cited By in Scopus (189)
+Sellers et al., 1998
+W.R Sellers, B.G Novitch, S Miyake, A Heith, G.A Otterson, F.J Kaye, A.B Lassar, W.G Kaelin Jr.
+Stable binding to E2F is not required for the retinoblastoma protein to activate transcription, promote differentiation, and suppress tumor cell growth
+Genes Dev., 12 (1998), pp. 95–106
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (235)
+Serrano et al., 1996
+M Serrano, H.-W Lee, L Chin, C Cordon-Cardo, D Beach, R.A DePinho
+Role of the INK4a locus in tumor suppression and cell mortality
+Cell, 85 (1996), pp. 27–37
+
+Article |  PDF (469 K) | View Record in Scopus | Cited By in Scopus (1115)
+Serrano et al., 1997
+M Serrano, A.W Lin, M.E McCurrach, D Beach, S.W Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Shan and Lee, 1994
+B Shan, W.H Lee
+Deregulated expression of E2F-1 induces S-phase entry and leads to apoptosis
+Mol. Cell. Biol., 14 (1994), pp. 8166–8173
+
+View Record in Scopus | Cited By in Scopus (430)
+Sharpless et al., 2001
+N.E Sharpless, N Bardeesy, K.-H Lee, D Carrasco, D.H Castrillon, A.J Aguirre, E.A Wu, J.W Horner, R.A DePinho
+Loss of p16Ink4a with retention of p19Arf predisposes mice to tumorigenesis
+Nature, 413 (2001), pp. 86–91
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (504)
+Sheaff et al., 1997
+R Sheaff, M Groudine, M Gordon, J Roberts, B Clurman
+Cyclin E-CDK2 is a regulator of p27Kip1
+Genes Dev., 11 (1997), pp. 1464–1478
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (661)
+Sherr, 1996
+C.J Sherr
+Cancer cell cycles
+Science, 274 (1996), pp. 1672–1677
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (13)
+Sherr, 2001
+C.J Sherr
+The INK4a/ARF network in tumour suppression
+Nat. Rev. Mol. Cell Biol., 2 (2001), pp. 731–737
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (623)
+Sherr and DePinho, 2000
+C.J Sherr, R.A DePinho
+Cellular senescence: mitotic clock or culture shock
+Cell, 102 (2000), pp. 407–410
+
+Article |  PDF (78 K) | View Record in Scopus | Cited By in Scopus (492)
+Sherr and Roberts, 1999
+C Sherr, J.M Roberts
+CDK inhibitors: positive and negative regulators of G1-phase progression
+Genes Dev., 13 (1999), pp. 1501–1512
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3824)
+Sicinski et al., 1995
+P Sicinski, J.L Donaher, S.B Parker, T Li, A Fazeli, H Gardner, S.Z Haslam, R.T Bronson, S.J Elledge, R.J Weinberg
+Cyclin D1 provides a link between development and oncogenesis in the retina and breast
+Cell, 82 (1995), pp. 621–630
+
+Article |  PDF (5763 K) | View Record in Scopus | Cited By in Scopus (755)
+Soni et al., 2001
+R Soni, T O'Reilly, P Furet, L Muller, C Stephan, S Zumstein-Mecker, H Fretz, D Fabbro, B Chaudhuri
+Selective in vivo and in vitro effects of a small molecule inhibitor of cyclin-dependent kinase 4
+J. Natl. Cancer Inst., 93 (2001), pp. 436–446
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (80)
+Soos et al., 1996
+T.J Soos, H Kiyokawa, J.S Yan, M.S Rubin, A Giordano, A DeBlasio, S Bottega, B Wong, J Mendelsohn, A Koff
+Formation of p27-CDK complexes during the human mitotic cell cycle
+Cell Growth Diff., 7 (1996), pp. 135–146
+
+View Record in Scopus | Cited By in Scopus (190)
+Thomas et al., 2001
+D.M Thomas, S.A Carty, D.M Piscopo, J.-S Lee, W.-F Wang, W.C Forrester, P.W Hinds
+The retinoblastoma protein acts as a transcriptional coactivator required for osteogenic differentiation
+Mol. Cell, 8 (2001), pp. 303–316
+
+Article |  PDF (651 K) | View Record in Scopus | Cited By in Scopus (236)
+Tolbert et al., 2002
+D Tolbert, X Lu, C Yin, M Tantama, T Van Dyke
+p19(ARF) is dispensable for oncogenic stress-induced p53-mediated apoptosis and tumor suppression in vivo
+Mol. Cell. Biol., 22 (2002), pp. 370–377
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (75)
+Toogood, 2001
+P Toogood
+Cyclin-dependent kinase inhibitors for treating cancer
+Med. Res. Rev., 21 (2001), pp. 487–498
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (72)
+Trimarchi and Lees, 2002
+J.M Trimarchi, J.A Lees
+Sibling rivalry in the E2F family
+Nat. Rev. Mol. Cell Biol., 3 (2002), pp. 11–20
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (664)
+Tsai et al., 2002
+K.Y Tsai, D MacPherson, D.A Rubinson, D Crowley, T Jacks
+ARF is not required for apoptosis in Rb mutant mouse embryos
+Curr. Biol., 12 (2002), pp. 159–163
+
+Article |  PDF (238 K) | View Record in Scopus | Cited By in Scopus (47)
+Vlach et al., 1997
+J Vlach, S Hennecke, B Amati
+Phosphorylation-dependent degradation of the cyclin-dependent kinase inhibitor p27Kip1
+EMBO J., 16 (1997), pp. 5334–5344
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (527)
+Wang et al., 1994
+T.C Wang, R.D Cardiff, L Zukerberg, E Lees, A Arnold, E.V Schmidt
+Mammary hyperplasia carcinoma in MMTV-cyclin D1 transgenic mice
+Nature, 369 (1994), pp. 669–671
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (700)
+Wright and Shay, 2000
+W.E Wright, J.W Shay
+Telomere dynamics in cancer progression prevention: fundamental differences in human mouse telomere biology
+Nat. Med., 6 (2000), pp. 849–851
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (245)
+Yu et al., 2001
+Q Yu, Y Geng, P Sicinski
+Specific protection against breast cancers by cyclin D1 ablation
+Nature, 411 (2001), pp. 1017–1021
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (583)
+Zindy et al., 1997
+F Zindy, D.E Quelle, M.F Roussel, C.J Sherr
+Expression of the p16INK4a tumor suppressor versus other INK4 family members during mouse development and aging
+Oncogene, 15 (1997), pp. 203–211
+
+View Record in Scopus | Cited By in Scopus (347)
+Zindy et al., 1998
+F Zindy, C.M Eischen, D.H Randle, T Kamijo, J.L Cleveland, C.J Sherr, M.F Roussel
+Myc signaling via the ARF tumor suppressor regulates p53-dependent apoptosis and immortalization
+Genes Dev., 12 (1998), pp. 2424–2433
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (869)

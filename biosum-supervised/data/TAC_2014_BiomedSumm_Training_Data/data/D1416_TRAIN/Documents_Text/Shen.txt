@@ -1,0 +1,360 @@
+Involvement of Actin-Related Proteins in ATP-Dependent Chromatin Remodeling
+Xuetong ShenCorresponding author contact information, 1, 2, E-mail the corresponding author, Ryan Ranallo1, 3, Eugene Choi, Carl WuCorresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S1097-2765(03)00264-8
+Under an Elsevier user license
+  Open Archive
+Abstract
+Actin-related proteins (Arps) and conventional actin are enigmatic components of many chromatin-remodeling enzyme complexes. The yeast INO80 ATP-dependent chromatin-remodeling complex contains stoichiometric amounts of Arp4, Arp5, Arp8, and actin. Here we have revealed functions of Arp5 and Arp8 by analysis of mutants. arp5Δ and arp8Δ mutants display an ino80Δ phenotype. Purification of INO80 complexes from arp5Δ and arp8Δ cells shows that protein complexes remain intact but are compromised for INO80 ATPase activity, DNA binding, and nucleosome mobilization. The INO80 (arp8Δ) complex is strikingly deficient, not only for the Arp8 subunit, but also for Arp4 and actin, suggesting an ordered assembly of Arps. Binding of Arp8 to the INO80 complex requires an N-terminal region of Ino80 adjacent to the conserved ATPase domain. GST-Arp8 binds preferentially to histones H3 and H4 in vitro, suggesting a histone chaperone function. These findings show direct involvement of Arps in the chromatin-remodeling process.
+
+Introduction
+Actin-related proteins (Arps) constitute a novel, evolutionarily conserved superfamily of proteins whose primary sequence displays significant similarity to the conventional actins Poch and Winsor 1997 and Schafer and Schroer 1999. Studies over the past decade have implicated Arps in important activities in the cell cytoplasm, notably, the assembly of branched actin filaments (Arp2/3) and the dynein-mediated movement of vesicles along microtubules (Arp1) (see Schafer and Schroer, 1999, for a review). More recently, Arps and conventional actin have also been discovered in the cell nucleus as integral components of a wide variety of chromatin-modifying enzymes Boyer and Peterson 2000 and Rando et al. 2000. These multiprotein complexes alter nucleosome architecture, either by covalent modification of the N-terminal histone tails (e.g., the histone acetyltransferases [HATs]) or by ATP-dependent perturbations of histone-DNA interactions (the SWI/SNF family of protein complexes) (see Fyodorov and Kadonaga 2001, Neely and Workman 2002 and Roth et al. 2001, for reviews).
+
+The mammalian Arp, BAF53 (BRG-associated factor), and β-actin were initially found as components of the mammalian SWI/SNF-like BAF chromatin-remodeling complex (Zhao et al., 1998). Both BAF53 and β-actin were subsequently located within the mammalian TIP60 histone acetyltransferase (HAT) complex (Ikura et al., 2000). Analysis of the Drosophila BRM complex revealed an Arp (BAP55) as well as conventional actin as subunits (Papoulas et al., 1998). Of the ten yeast Arps encoded in the S. cerevisiae genome (Arp1–10, named in descending order of conservation to conventional actins [Poch and Winsor, 1997]), Arp7 and Arp9 were identified as components of the highly related SWI/SNF and RSC ATP-dependent chromatin-remodeling complexes Cairns et al. 1998 and Peterson et al. 1998. Yeast Arp4 and actin have been shown to be components of both the NuA4 HAT complex and the INO80 chromatin-remodeling complex, a relative of SWI/SNF Galarneau et al. 2000 and Shen et al. 2000; the INO80 complex contains two additional Arps, Arp5 and Arp8 (Shen et al., 2000).
+
+The repeated identification of actin and/or Arps in multicomponent enzymes specifically involved in chromatin metabolism suggests that these proteins perform important functions in the cell nucleus by participating in the chromatin-remodeling process. This view is supported by genetic and biochemical studies. For example, phenotypic analysis of arp4 mutants revealed defects consistent with a function in transcriptional regulation and chromatin structure Galarneau et al. 2000 and Jiang and Stillman 1996, and the purified Arp4 protein has been shown to bind histones in vitro Harata et al. 1999 and Galarneau et al. 2000. Arp7 and Arp9 have been shown to be either essential or highly important for cell viability in different yeast strains, and the viable arp7Δ or arp9Δ mutants show (Swi−/Snf− and Spt−) phenotypes consistent with a role in chromatin remodeling and transcription (Cairns et al., 1998). Interestingly, mutagenesis of residues that were predicted to mediate ATP binding or hydrolysis did not affect Arp7 or Arp9 functions in vivo, indicating that the proteins provide a structural, rather than enzymatic, function (Cairns et al., 1998). In addition, there is evidence suggesting that actin can modulate the ATPase activity and binding of the mammalian BAF complex to chromatin or the nuclear matrix Rando et al. 2002 and Zhao et al. 1998. However, despite these advances, there is little additional insight on how Arps and actin are specifically involved in the process of ATP-dependent chromatin remodeling.
+
+Our studies of the yeast INO80 complex, which contains Arp4, Arp5, Arp8, and actin, provided an opportunity to investigate this question. In order to uncover functions, we sought to examine the properties of INO80 complexes in which the Arps or actin were eliminated by mutagenesis. The requirement for Arp4 and actin for cell survival precluded facile analysis of the functions of these two proteins, but the viability of null mutants for Arp5 and Arp8 allowed further investigations into their biochemical functions in vivo and in vitro. Here, we have purified the epitope-tagged Ino80 protein from arp5Δ and arp8Δ strains. Our findings reveal that an intact INO80 complex can be isolated as a stable assemblage, despite removal of specific Arp subunits. We show that the mutant INO80 complexes are functionally deficient for chromatin remodeling in biochemical assays and confirm physiological significance by genetic analysis. We also show that Arps interact with a discrete region of the Ino80 protein and that Arp8 binds directly to core histones. These results suggest that Arps may assist in chromatin remodeling by providing a histone chaperone function during the process of nucleosome reorganization.
+
+Results
+Stable INO80 Complexes Lacking Arp5 and Arp8
+In an earlier study, Arp4, Arp5, Arp8, actin, and the Rvb1 and Rvb2 helicase proteins were identified as components of the INO80 complex (Shen et al., 2000). We have identified the remaining components of the complex by peptide sequencing of individual protein bands (see Experimental Procedures). This analysis revealed Nhp10 (p26) and Anc1/Taf30 (p28), consistent with global protein-protein interaction maps Gavin et al. 2002 and Uetz et al. 2000. Nhp10 is an HMG-1-like protein, and Anc1/Taf30 is also found in SWI/SNF, TFIID, and TFIIF Cairns et al. 1996, Henry et al. 1992 and Henry et al. 1994. Protein sequencing also revealed two previously unidentified components, Ies3 (ino eighty subunit) (p32) and Ies1 (p90/p100), as well as phosphofructokinase Pfk26 (p90/p100), a contaminating product of FLAG immunoaffinity chromatography (data not shown; Figure 1A).
+
+Full-size image (40 K)
+Figure 1. 
+Mutant INO80 Complexes Lacking Specific Subunits
+(A) Identification of subunits. SDS-PAGE and silver staining showing INO80 complex (INO80.com). Names of newly identified subunits are in bold.
+(B) PCR analysis of mutants. Gel electrophoresis showing PCR fragments generated by specific primers flanking ORFs of indicated genes. Changes in DNA size in mutants compared to wild-type demonstrate gene deletions.
+(C) Subunit composition of mutant complexes. SDS-PAGE and silver staining showing wild-type (WT) and INO80 complexes purified from indicated mutants. Missing subunits are marked by open circles. [The presence of Ies3 in the INO80(K737A) complex is faintly observed on this gel but is clearly evident on other gels.]
+Figure options
+To examine the INO80 complex in cells deficient for Apr5 and Arp8, we introduced a FLAG-tagged INO80 construct into strains in which the ARP genes were deleted. We confirmed elimination of the corresponding genes for arp5Δ and arp8Δ cells by PCR analysis (Figure 1B). We found that INO80(arp5Δ) and INO80(arp8Δ) complexes can be purified by immunoaffinity chromatography as intact complexes using extracts from the slow-growing mutant strains. We note that the degree of purity of the mutant complexes is inferior to the wild-type INO80 complex (Figure 1C). Near-normal levels of Ino80 in the arp5Δ and arp8Δ strains (data not shown) and the occurrence of stable mutant complexes indicate that Arp5 and Arp8 are not essential for maintaining the integrity of the INO80 complex. SDS-PAGE analysis revealed that the INO80(arp5Δ) complex included all representative INO80 subunits (the absence of Arp5 is obscured by Ies1 and Pfk26).
+
+Surprisingly, inspection of the INO80(arp8Δ) complex showed not only the absence of Arp8, but also the absence or reduction of Arp4 and actin (Figure 1C). We confirmed that this was not due to accidental deletion of the ARP4 or ACT1 genes, since PCR analysis indicated that both loci are intact (Figure 1B). Moreover, purification of the INO80 complex from a strain mutant for another subunit (nhp10Δ) showed retention of Arp8, Arp4, and actin components (but, interestingly, the reduction of Ies3, in addition to Nhp10). Hence, the biological activities revealed by the loss of Arp8 from the INO80 complex may also be derived from the loss of Arp4 and actin. Purification of an INO80(K737A) complex carrying an ATP binding site mutation showed retention of all representative INO80 subunits, including Arp8, Arp4, and actin (Figure 1C). The isolation of intact INO80 complexes lacking Arp5 or Arp8 allowed us to address their functions in ATP-dependent chromatin remodeling.
+
+INO80 Complex Binds to DNA and Mobilizes Nucleosomes
+To provide additional parameters for comparison, we first extended biochemical characterization of the wild-type INO80 complex. It has been shown previously that INO80 is a DNA-stimulated ATPase that increases accessibility to, and facilitates transcription from, a model chromatin template reconstituted from fly embryo extracts (Shen et al., 2000). We found that the INO80 complex can also bind directly to free DNA (a 359 bp INO1 promoter sequence) in a native polyacrylamide gel mobility shift assay (Figure 2A). The apparent binding constant was estimated at ∼10 nM, a value in the range of that reported for SWI/SNF binding (Quinn et al., 1996). By contrast, NURF, an ISWI-containing complex, showed undetectable DNA binding under the same conditions (data not shown).
+
+Full-size image (43 K)
+Figure 2. 
+INO80 Complex Binds to DNA and Mobilizes Nuclesomes
+(A) INO80 complex binds to DNA. Native PAGE showing gel mobility shift of 359 bp INO1 DNA (17.1 nM) in the presence of an increasing amount of INO80 complex (Ino80 equivalent). The percentage of DNA bound is shown at the bottom.
+(B) INO80 complex mobilizes nucleosomes. Positions of mononucleosomes (filled circles) are shown on the left. Native PAGE showing INO80-DNA and/or INO80-nucleosome complexes near origin. Mononucleosome (5.8 nM) mobilization by INO80 in the presence of ATP is indicated by the reduction of N3 band intensity and the increase in N1 and N2 band intensity. (N1 + N2)/N3 ratios are given at the bottom. Standard deviation, <0.1.
+(C) NURF mobilizes nucleosomes distinct from INO80. Native PAGE showing nucleosome mobilization by NURF (ISWI equivalent) with the same mononucleosome substrate as in (B). (N1 + N2)/N3 ratios are given at the bottom. Note the attenuation of N2 bands. Standard deviation, <0.1.
+Figure options
+To further characterize chromatin-remodeling activity, we reconstituted mononucleosomes using the 359 bp INO1 promoter fragment and bacterially expressed, recombinant yeast core histones. Upon reconstitution at histone/DNA ratios that favor mononucleosome assembly, three major nucleosome species (N1–N3) can be resolved by native PAGE analysis (Figure 2B). These nucleosome species reveal the deposition of nucleosome core particles at different positions on the 359 bp DNA; centrally located core particles display retarded electrophoretic migration, while those located at or near the fragment ends show faster migration (data not shown; see also Duband-Goulet et al. 1992 and Meersseman et al. 1992).
+
+Previous studies have demonstrated ATP-dependent nucleosome mobilization by ISWI and SWI/SNF complexes as measured by a change in nucleosome positioning Hamiche et al. 1999, Langst et al. 1999, Sengupta et al. 2001 and Whitehouse et al. 1999. We observed that the INO80 complex could mobilize mononucleosomes in an ATP-dependent manner [see the enhancement of the N1 and N2 bands and increase in (N1 + N2)/N3 ratios] (Figure 2B). High levels of INO80 complex present in the reaction also indicated binding to free DNA and, possibly, nucleosomes. DNA binding was not ATP dependent, although we note that the presence of ATP sometimes provided a modest increase of DNA or nucleosome binding. Very high levels of INO80 in the assay led to depletion of free DNA and nuclesomes when analyzed by native gel electrophoresis, presumably because of formation of aggregates (data not shown). These ATP-dependent changes of nucleosome distribution induced by the INO80 complex are different from those induced by another chromatin-remodeling complex, NURF [see the attenuation of N2 and decrease in (N1 + N2)/N3 ratios] (Figure 2C), suggesting that different types of chromatin-remodeling complex mobilize nucleosomes through distinct mechanisms.
+
+Arp5 and Arp8 Are Important to Chromatin Remodeling
+To examine the contribution of Arp5 and Arp8 to chromatin remodeling, we compared the biochemical activities of wild-type and mutant INO80 complexes. At two concentrations analyzed, we found that the binding activity of the INO80(arp5Δ) complex to free DNA is consistently reduced (50% of that in wt), as is binding of the INO80(nhp10Δ) complex (24% of that in wt). Strikingly, the INO80(arp8Δ) complex showed little or no DNA binding activity (3% of that in wt) (Figure 3A), and DNA binding could not be restored by 10-fold-higher concentrations of complex (data not shown). Hence, Arp5 and, especially, Arp8 are important for the DNA binding activity of the INO80 complex.
+
+Full-size image (47 K)
+Figure 3. 
+Arp5 and Arp8 Are Required for Chromatin Remodeling
+(A) Arp8 is required for DNA binding by the INO80 complex. Native PAGE showing gel mobility shift of 359 bp INO1 DNA in the presence of wild-type and mutant INO80 complexes (equimolar concentrations measured by quantitative Western blotting). The percentage of wild-type binding shown at the bottom is an average of results from two complex concentrations (2 and 4 nM).
+(B) Arp5 and Arp8 are required for mononucleosome mobilization by the INO80 complex. Native PAGE showing nucleosome mobilization by wild-type and mutant INO80 complexes (3.2 nM) with the INO1 mononucleosome substrate (5.8 nM). (N1 + N2)/N3 ratios are given at the bottom. Standard deviation, <0.1.
+(C) Requirement of Arps is not compensated by higher concentrations of mutant complexes. Native PAGE showing nucleosome mobilization by increasing the amount of mutant INO80 complexes, up to 10×, as in (B). (N1 + N2)/N3 ratios are given at the bottom. Standard deviation, <0.1.
+(D) Arp5 and Arp8 contribute to INO80 ATPase activity. Graph showing nucleosome (Nuc)-stimulated ATPase activity of wild-type and mutant INO80 complexes. Standard deviation, <2%.
+Figure options
+We then examined the nucleosome-mobilizing activities of mutant INO80 complexes by native gel electrophoresis. Nucleosome-mobilizing activity is revealed by redistribution of the N1–N3 nucleosome species (the presence of residual free DNA in the reaction also reveals DNA binding activity in the same gel lane). Under conditions for optimal nucleosome mobilization by wild-type INO80 complex, we found that equimolar amounts of the INO80(arp5Δ) and INO80(arp8Δ) complexes failed to mobilize nucleosomes [unchanged (N1 + N2)/N3 ratios] (Figure 3B). Moreover, up to 10-fold-higher levels of INO80(arp5Δ) and INO80(arp8Δ) complexes still failed to induce nucleosome mobilization in the assay (Figure 3C). These results provide compelling evidence that Arp5 and Arp8 have important roles in ATP-dependent chromatin remodeling. Curiously, the INO80(nhp10Δ) complex, which also has weak DNA binding activity, was able to induce nucleosome redistribution [increased (N1 + N2)/N3 ratios] (Figure 3B). This finding suggests that Nhp10 (and Ies3) has a less important role than do Arp5 and Arp8 in chromatin remodeling.
+
+We also compared the ATPase activities of the wild-type and mutant INO80 complexes. The ATPase activity of the INO80(WT) complex is stimulated by nucleosome core particles (Figure 3C; Shen et al., 2000). At three concentrations of stimulating nucleosomes, both the INO80(arp5Δ) and INO80(arp8Δ) complexes showed marked reductions in the nucleosome-stimulated activity (to ∼10% to 20% of that in wt). By contrast, the INO80(nhp10Δ) complex displayed a moderate reduction of the nucleosome-stimulated ATPase activity (∼50% of that in wt) (Figure 3D). Given that the bulk of the ATPase activity of the INO80 complex is essentially completely abrogated by the K737A mutation (Shen et al., 2000), the observed reductions can be ascribed to effects of Arp subunit loss on the enzymatic activity of the Ino80 ATPase. These results provide additional support for a functional role of Arp5 and Arp8 in the ATP-dependent chromatin-remodeling process.
+
+arp5Δ and arp8Δ Mutants Mimic ino80Δ Phenotype
+To evaluate the physiological significance of Arp5 and Arp8 in chromatin remodeling, we analyzed the phenotypes of the corresponding mutants. Like the ino80Δ mutant, both the arp5Δ and arp8Δ mutants are viable in the S288C yeast strain background, defective for growth in media lacking inositol, and hypersensitive to hydroxyurea (HU), an inhibitor of DNA replication ( Figure 4A; Shen et al., 2000). These phenotypes are consistent with the functioning of Arp5, Arp8, and Ino80 within the same protein complex. To further examine the role of Arp5 and Arp8 in transcription in vivo, we compared RNA levels of the INO1 gene, which is regulated positively by INO80 Ebbert et al. 1999 and Shen et al. 2000. Greatly reduced INO1 transcription was observed for both arp5Δ and arp8Δ, indicating that ARP5 and ARP8 are required for transcription of an INO80-regulated gene in vivo (Figure 4B). By contrast, the nhp10Δ mutant showed only modest reduction of INO1 transcription (Figure 4B) and did not display inositol auxotrophy or sensitivity to HU (Figure 4A). Hence, the in vivo functions of Arp5 and Arp8 are well correlated with their biochemical requirements for chromatin remodeling by the INO80 complex.
+
+Full-size image (19 K)
+Figure 4. 
+ARP5, ARP8, and INO80 Have Similar Functions In Vivo
+(A) arp5Δ and arp8Δ mutants show ino80Δ-like phenotypes. Yeast cells from wild-type and mutant strains were subjected to a series of 10-fold dilutions and spotted on plates containing rich media (YEPD), synthetic media lacking inositol (−INO), and YEPD with 100 mM hydroxyurea (HU).
+(B) ARP5 and ARP8 are required for INO1 activation. Northern analyses of INO1 expression in wild-type and mutant strains, with ACT1 as a loading control.
+Figure options
+Arps and Actin Interact with the N-Terminal Region of Ino80
+To further characterize the role of Arp5 and Arp8 in chromatin remodeling by the INO80 complex, we have begun to investigate connections among subunits of the INO80 complex. Inspection of the protein sequence of Ino80 reveals a characteristic insertion that splits the conserved ATPase/helicase domain, as well as an extensive N-terminal region (Figure 5A). We engineered a deletion of a region in the N-terminal domain, which is conserved among yeast, fly, and human Ino80 proteins, and purified the INO80(ΔN) complex from the corresponding yeast strain by FLAG immunoaffinity chromatography. SDS-PAGE analysis showed that the IN080(ΔN) complex is deficient for Arp8, Arp4, and actin (and Anc1/Taf30), while other INO80 subunits (such as Rvb1, Rvb2, Ies3, and Nhp10) remain associated with the mutant Ino80 protein (Figure 5B). Deletion of other regions of Ino80 failed to abolish interactions with the Arps (data not shown). The results implicate the N-terminal region of Ino80 as an interaction domain for Arp8, Arp4, actin, and Anc1/Taf30. We investigated the biochemical properties of the INO80(ΔN) complex and found that it fails to significantly bind to DNA or mobilize NI–N3 nucleosomes in vitro (Figure 5C). To further investigate the physiological significance of this interaction, we analyzed the strain carrying ino80-ΔN and found similar phenotypes to the ino80Δ null mutant (Figure 5D), as well as to the arp5Δ and arp8Δ mutants. Taken together, the results suggest that Arps and actin participate in chromatin remodeling through interaction with the N-terminal region of the Ino80 ATPase protein.
+
+Full-size image (32 K)
+Figure 5. 
+An Arp Binding Domain of Ino80 Is Important for Function
+(A) Ino80 has an extensive N-terminal domain. Schematic representation of Ino80, compared with Drosophila ISWI (dISWI). Note the split ATPase/helicase domain (shaded) and the long N-terminal region in INO80. The deletion (ΔN) is highlighted in black.
+(B) An Arp binding domain in Ino80. SDS-PAGE and silver staining showing wild-type and ΔN complexes. Missing subunits are shown on the right.
+(C) INO80-ΔN complex fails to bind DNA or mobilize mononucleosomes. Native PAGE showing nucleosome mobilization by increasing amount of INO80-ΔN complex (1× is 3.2 nM). (N1 + N2)/N3 ratios are given at the bottom. Standard deviation, < 0.1.
+(D) ΔN domain of Ino80 is important for function. Phenotypes of mutants assayed by serial dilutions on YEPD, −INO, and HU plates.
+Figure options
+Arp8 Binds to Core Histones In Vitro
+To further explore how Arps may participate in ATP-dependent chromatin remodeling, we investigated potential interactions between Arps and histones. Given that Arp4 has been shown to bind to histones in vitro (Harata et al., 1999), we evaluated in vitro interactions between Arp8 and histones by measuring the binding of the GST-Arp8 fusion protein to recombinant yeast histone octamers in solution (similar studies with GST-Arp5 were precluded, owing to the failure of fusion protein expression). We found that GST-Arp8 can bind to the four core histones, with striking preference for histones H3 and H4 over H2A and H2B under moderate ionic conditions (250 mM KCl) (Figure 6A). Given that the histone octamer dissocates into the (H3/H4)2 tetramer and two H2A/H2B dimers in physiological salt, we suggest that Arp8 in the INO80 chromatin-remodeling complex may present a preferred interaction surface for the (H3/H4)2 tetramer. This interaction site may act as a chaperone for the (H3/H4)2 tetramer or assist in the disruption of histone-DNA contacts during the process of nucleosome remodeling (Figure 6B).
+
+Full-size image (21 K)
+Figure 6. 
+Arp8 Interacts with Core Histones
+(A) Arp8 preferentially binds to H3 and H4 in solution. SDS-PAGE and Coomassie staining showing histones bound by GST-Arp8.
+(B) Model shows Arps in a subcomplex within the INO80 complex directly interacting with nucleosomal histones.
+Figure options
+Discussion
+In this report, we have established a role for two nuclear Arps in yeast, Arp5 and Arp8, in the chromatin-remodeling process. Previous studies have suggested functions of two other Arps, Arp7 and Arp9, as components important to the structural integrity of the SWI/SNF and RSC chromatin-remodeling complexes (Cairns et al., 1998). In contrast, we have found that mutant INO80 complexes lacking Arp5 and Arp8 are sufficiently stable to be isolated and purified. Near-normal levels and the presence of intact mutant complexes in the cell extract supernatant after ultracentrifugation suggest that the absence of specific Arps does not lead to gross misfolding and nonspecific aggregation of the remaining components of the INO80 complex. Instead, the biochemical activities of the mutant INO80 complexes (DNA binding, nucleosome mobilization, and ATPase activity) are compromised. Hence, the functions of Arp5 and Arp8 appear to be less important for the structural integrity of the entire INO80 complex than for the process of chromatin remodeling itself. This conclusion is supported by a good correlation between the impaired chromatin-remodeling activities of mutant INO80 complexes lacking Arp5 or Arp8 and the in vivo phenotypes of arp5Δ and arp8Δ mutants, which are highly similar to ino80Δ.
+
+Although Arp5 appears to associate within the complex independently of any other subunit, characterization of the INO80(arp8Δ) complex revealed that the association of Arp8 is necessary for the inclusion of Arp4 and actin in the complex. The results suggest a hierarchical order of assembly in which recruitment of Arp8 to the complex is essential for the subsequent assembly of Arp4 and actin. The simultaneous loss of three subunits (Arp8, Arp4, and actin) could account for the more pronounced effects on the biochemical activities of the mutant INO80 complex. Our results also indicate that the targeting of Arp8, Arp4, actin, and Anc1/Taf30 is directed by an N-terminal region of the Ino80 protein, adjacent to the conserved ATPase domain. This region of Ino80 alone is apparently sufficient to recruit these four proteins (unpublished data). These findings imply that the Arps and actin physically interact with Ino80 in relatively close proximity to the catalytic core of this chromatin-remodeling complex.
+
+What roles could Arp5 and Arp8 have in chromatin remodeling? It is possible that the Arps and actin exert their effects indirectly by regulating the activity of the Ino80 ATPase or other subunits of the complex. Alternatively, as suggested by reports of physical interactions between Arp4 and histones in vitro Harata et al. 1999 and Galarneau et al. 2000 and association of Arp4 with chromatin in vivo (Harata et al., 2002), Arp5 and Arp8 could bind directly to the core histones, providing a histone acceptor or histone chaperone function for chromatin remodeling by the INO80 complex. Consistent with this model, Arp8 demonstrates core histone binding activity in vitro. It is interesting that Arp8 binds histones H3 and H4 preferentially. Arp4 has a preference for H3 and H2B in far Western assays and histone H2A in a two-hybrid assay (Harata et al., 1999). Thus, the combined activities of the Arps might provide chaperone functions for the entire histone octamer. In Arp4, the region responsible for histone binding constitutes a loop inserted between conserved actin-like motifs (Harata et al., 1999). Arp5 and Arp8 bear even more extensive insertions into the actin fold containing acidic or basic stretches (Poch and Winsor, 1997) and, so, may have potentially more sites for binding to external macromolecules, including histones.
+
+It is tempting to speculate that histone chaperoning may be a common property of other nuclear Arps present in many chromatin-remodeling complexes. However, it should be noted that a BAF155/BRG1/SWP73-reconstituted complex, which lacks actin and Arp (BAF53) subunits, has nearly identical remodeling activity to the intact hSWI/SNF complex (Narlikar et al., 2001). This finding suggests that Arps could have insignificant functions in the hSWI/SNF complex. It will be important to correlate these biochemical findings to physiological function by analysis of the phenotype of a knockout mouse for BAF53.
+
+Arp4, Arp5, and Arp8 all show sequence conservation with the ATP binding site of actin, suggesting the possibility that these Arps might possess ATPase activity similar to conventional actin. However, mutation of predicted ATP binding residues of the Arp7 and Arp9 components of the SWI/SNF and RSC complexes showed that they are unimportant for function (Cairns et al., 1998). Although the binding or hydrolysis of ATP by Arp5 or Arp8 in vitro has not been established, we introduced mutations in the predicted ATP binding site of Arp5 (S46A and D43A S46A) and Arp8 (H272A and H272A S275A). Unlike the null arp mutants, the ATP binding site mutants showed generally normal growth in rich media and media lacking inositol, and the activation of INO1 transcription was near normal (unpublished data), suggesting that the predicted ATP binding sites of Arp5 and Arp8 are dispensable for these functions.
+
+The loss of actin in the mutant INO80(arp8Δ) complex raises the issue of the function of actin in the cell nucleus. Given that actin is a highly abundant cellular protein and the major component of the cytoskeleton, the physiological significance of its occurrence in nuclear preparations can be questioned. However, the discovery of actin as a component of the mammalian BAF chromatin-remodeling complex in tight association with the SWI2/SNF2-like BRG1 protein (Zhao et al., 1998) and its presence in other chromatin-remodeling complexes has spurred renewed interest in the functions of nuclear actin. In addition, unpolymerized actin has been implicated in control of transcription by serum response factor (Posern et al., 2002). One intriguing hypothesis suggests that actin, perhaps in combination with Arps, might serve as an anchoring point for chromatin-modifying complexes to actin filaments of the nuclear matrix (Rando et al., 2002). Our findings with purified complexes and mononucleosome substrates do not directly address the issue of interactions with nuclear substructures but offer an additional perspective to nuclear actin functions. In this view, the association of monomeric actin with Arps in the INO80 complex could provide an essential, histone chaperone platform mediating the rearrangement of histone-DNA contacts within a nucleosome. It will be of interest to further investigate the precise role of actin in the chromatin-remodeling reaction by a combination of genetic, biochemical, and cell-biological approaches.
+
+Experimental Procedures
+Yeast Manipulations
+All S. cerevisiae strains (see Supplement Table S1 at http://www.molecule.org/cgi/content/full/12/1/147/DC1) are in the S288C background (Brachmann et al., 1998). To generate strains for protein purification, we obtained arp5Δ, arp8Δ, and nhp10Δ strains from Research Genetics. Mutations were confirmed by PCR, and the strains were then transformed with pINO80-2F. pINO80-2F was made by cloning a PCR fragment of INO80 containing the native promoter (−500) and terminator (to HindIII) into pRS416 (Brachmann et al., 1998); a double-FLAG sequence was inserted before the stop codon. The INO80-FLAG strain with the double-FLAG-tagged chromosomal INO80 gene was constructed previously for purification of wild-type complex (Shen et al., 2000). A mutant complex could also be purified from an INO80-FLAG strain in which ARP5 or ARP8 was deleted, yielding the same results. A K737A mutation was introduced to pINO80-2F to generate pINO80-2F-K737A, which was introduced into an ino80Δ strain for purification of the K737A complex. A region coding amino acids 356–682 of Ino80 was deleted by “looping out” mutagenesis in pINO80-2F to generate pINO80-2F-ΔN, which was introduced into ino80Δ for purification of the ΔN complex. p416-ARP5 was made by cloning a fragment (BamHI to HindIII) of ARP5 containing the native promoter and terminator into pRS416. p416-ARP8 was made by cloning a PCR fragment of ARP8 containing the native promoter (−1000) and terminator (+553) into pRS416. Potential ATP binding sites were identified by alignment of actin and Arp sequences with Clustal W software. Mutations were then made by site-directed mutagenesis (S46A and D43A S46A in p416-ARP5; H272A and H272A S275A in p416-ARP8).
+
+Standard yeast culture and transformation techniques were followed. Phenotypic analysis was done by 10-fold serial dilutions of midlog yeast cultures. Plates were incubated at 30°C for three days and then scored. For gene expression analysis, yeast strains were grown in selective media overnight and then diluted 10- to 20-fold in YEPD. After growth at 30°C for 4 hr, cells were collected, washed, and then grown in synthetic complete media lacking inositol (BIO101). Induction was two hours for INO1. Total RNA was isolated, and Northern analysis was performed. The entire ORFs of INO1 and ACT1 were amplified by PCR and used as probes. Results were quantified with a Fuji Image Reader LAS-1000.
+
+In Vitro Assays
+Wild-type INO80 complex was purified as described from INO80-FLAG cells (Shen et al., 2000). Mutant complexes were purified with anti-FLAG immunoaffinity chromatography from whole-cell extracts of mutant strains. We found a slight decrease in yields, which maybe due to the slow growth of mutant cells and loss of the pINO80-2F plasmid. As a result, common contaminants were more pronounced in mutant complexes. Analysis of mock-purified fractions showed that common contaminants do not interfere with our assays. All INO80 purifications were done with high-salt washes (0.5 M KCl). SDS-PAGE and then silver staining were used to detect proteins. Quantitative Western blotting was used to normalize complexes used in assays. Peptide sequencing was performed at the Harvard Microchemistry Facility on a Finnigan LCQ quadrupole ion trap mass spectrometer. INO80 subunits, Nhp10, Anc1/Taf30, Ies1 (YFL013C), and Ies3 (YLR052W) were identified. Under low-salt wash (0.2 M KCl), additional proteins associate with the INO80 complex, including Ies2 (YNL215W), Ies4 (YOR189W), Ies5 (YER092W), Ies6 (YEL044W), and several unidentified polypeptides. Pfk26 is likely a contamination, since it was common in several unrelated anti-FLAG immunoaffinity purifications, and the pfk26Δ mutant does not show ino80Δ phenotypes (data not shown).
+
+A standard ATPase reaction (10 μl) contained 20 mM HEPES-KOH (pH 7.6), 80 mM KCl, 0.8 mM EDTA, 6.6 mM MgCl2, 2 mM DTT, 8% glycerol, 0.016% NP40, 30 μM ATP, and 5 μCi α-P32-labeled ATP. One hundred to 500 ng of nucleosome core particle (DNA weight equivalent) and 400 ng of φX174 RF DNA were used for stimulation. The amounts of proteins were adjusted to give about 20% ATP hydrolysis for the wild-type complex after 30 min at 30°C. The ATPase reaction (0.5 μl) was separated by thin-layer chromatography in 0.75 M KH2PO4. Signals were quantified on a Fuji Image Reader LAS-1000.
+
+S. cerevisiae core histone genes HTA1 (H2A), HTB1 (H2B), HHT2 (H3), and HHF2 (H4) were cloned into pET28b (Novagene) bacterial expression vector with PCR fragments generated from yeast genomic DNA. All coding sequences are native, without modifications or affinity tags. Individual histones were expressed in BL21CodonPlus-RIL (Stratagene) E. coli cells. Individual histones were purified and assembled into histone octamers as described (Luger et al., 1997), with slight modifications as described (Gelbart et al., 2001). The 359 bp INO1 fragment spanning the INO1 promoter from positions −359 to +1 was cloned into pBluescript II (Stratagene) as a tandem repeat. For large-scale fragment preparation, approximately 2 mg of DNA was digested and purified with a 4% acrylamide gel. Initial mononucleosome reconstitutions were prepared as described (Hamiche et al., 1999). Reconstitutions were then loaded onto 12.5 ml glycerol gradient (5%–20% glycerol) and centrifuged in a SW40Ti rotor for 12 hr at 35,000 rpm. Fractions containing mononucleosomes were identified by SDS-PAGE.
+
+A standard electromobility shift reaction (10 μl) contained 10 mM Tris-HCl (pH 7.5), 50 mM NaCl, 3 mM MgCl2, 1 mM β-mercaptoethanol, 100 μg/ml BSA, 1 mM ATP, 17.1 nM DNA, and 1.2–30 nM INO80 complex (Ino80 equivalent). A standard nucleosome mobilization assay (10 μl) contained 10 mM Tris-HCl (pH 7.5), 50 mM NaCl, 3 mM MgCl2, 1 mM β-mercaptoethanol, 100 μg/ml BSA, 1 mM ATP, 5–6 nM mononuclesome, and 1.3–32 nM complexes. Recombinant NURF was purified as described (Xiao et al., 2001). The reactions were incubated at 37°C for 30 min and then separated in a 4% PAGE gel in TE with extensive buffer circulation. Gels were stained with SYBR Green I and documented with a Fuji Image Reader LAS-1000.
+
+GST-Arp8 proteins containing the entire ORF of ARP8 were expressed in, and purified from, E. coli and quantitated by SDS-PAGE and Coomassie blue staining with BSA as a standard. In the GST pull-down assay, 400 ng of recombinant yeast octamers were incubated with GST or GST-Arp8 beads (20 μl) in HEGN-0.1 M KCl (HEGN, 25 mM HEPES-KOH [pH 7.6], 1 mM EDTA, 10% glycerol, and 0.02% NP-40) (40 μl final volume) for 30 min at 30°C. Beads were washed at room temperature with 200 μl HEGN-0.2 M KCl, HEGN-0.25 M KCl, or HEGN-0.3 M KCl. Beads were boiled in SDS loading buffer, and one-half of the sample was applied for SDS-PAGE.
+
+Supplementary data
+ 
+Table S1.  
+Help with PDF filesOptions
+Acknowledgements
+We thank W.S. Lane for protein sequencing, H. Xiao for a gift of NURF, and M. Lichten and members of our laboratory for helpful discussions. This work was supported by the Intramural Research Program of the National Cancer Institute and by a fellowship from the American Cancer Society to X.S. X.S. also received support from the MD Anderson Cancer Center during revision of this manuscript.
+
+References
+Boyer and Peterson 2000
+L.A. Boyer, C.L. Peterson
+Actin-related proteins (Arps): conformational switches for chromatin- remodeling machines?
+Bioessays, 22 (2000), pp. 666–672
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+Brachmann et al. 1998
+C.B. Brachmann, A. Davies, G.J. Cost, E. Caputo, J. Li, P. Hieter, J.D. Boeke
+Designer deletion strains derived from Saccharomyces cerevisiae S288C: a useful set of strains and plasmids for PCR-mediated gene disruption and other applications
+Yeast, 14 (1998), pp. 115–132
+
+View Record in Scopus | Citing articles (1460)
+Cairns et al. 1996
+B.R. Cairns, N.L. Henry, R.D. Kornberg
+TFG/TAF30/ANC1, a component of the yeast SWI/SNF complex that is similar to the leukemogenic proteins ENL and AF-9
+Mol. Cell. Biol., 16 (1996), pp. 3308–3316
+
+View Record in Scopus | Citing articles (118)
+Cairns et al. 1998
+B.R. Cairns, H. Erdjument-Bromage, P. Tempst, F. Winston, R.D. Kornberg
+Two actin-related proteins are shared functional components of the chromatin-remodeling complexes RSC and SWI/SNF
+Mol. Cell, 2 (1998), pp. 639–651
+
+Article |  PDF (522 K) | View Record in Scopus | Citing articles (141)
+Duband-Goulet et al. 1992
+I. Duband-Goulet, V. Carot, A.V. Ulyanov, S. Douc-Rasy, A. Prunell
+Chromatin reconstitution on small DNA rings. IV. DNA supercoiling and nucleosome sequence preference
+J. Mol. Biol., 224 (1992), pp. 981–1001
+
+Article |  PDF (10282 K) | View Record in Scopus | Citing articles (27)
+Ebbert et al. 1999
+R. Ebbert, A. Birkmann, H.J. Schüller
+The product of the SNF2/SWI2 paralogue INO80 of Saccharomyces cerevisiae required for efficient expression of various yeast structural genes is part of a high-molecular-weight protein complex
+Mol. Microbiol., 32 (1999), pp. 741–751
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+Fyodorov and Kadonaga 2001
+D.V. Fyodorov, J.T. Kadonaga
+The many faces of chromatin remodeling: SWItching beyond transcription
+Cell, 106 (2001), pp. 523–525
+
+Article |  PDF (194 K) | View Record in Scopus | Citing articles (119)
+Galarneau et al. 2000
+L. Galarneau, A. Nourani, A.A. Boudreault, Y. Zhang, L. Heliot, S. Allard, J. Savard, W.S. Lane, D.J. Stillman, J. Cote
+Multiple links between the NuA4 histone acetyltransferase complex and epigenetic control of transcription
+Mol. Cell, 5 (2000), pp. 927–937
+
+Article |  PDF (394 K) | View Record in Scopus | Citing articles (182)
+Gavin et al. 2002
+A.C. Gavin, M. Bosche, R. Krause, P. Grandi, M. Marzioch, A. Bauer, J. Schultz, J.M. Rick, A.M. Michon, C.M. Cruciat et al.
+Functional organization of the yeast proteome by systematic analysis of protein complexes
+Nature, 415 (2002), pp. 141–147
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3033)
+Gelbart et al. 2001
+M.E. Gelbart, T. Rechsteiner, T.J. Richmond, T. Tsukiyama
+Interactions of Isw2 chromatin remodeling complex with nucleosomal arrays: analyses using recombinant yeast histones and immobilized templates
+Mol. Cell. Biol., 21 (2001), pp. 2098–2106
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+Hamiche et al. 1999
+A. Hamiche, R. Sandaltzopoulos, D.A. Gdula, C. Wu
+ATP-dependent histone octamer sliding mediated by the chromatin remodeling complex NURF
+Cell, 97 (1999), pp. 833–842
+
+Article |  PDF (281 K) | View Record in Scopus | Citing articles (230)
+Harata et al. 1999
+M. Harata, Y. Oma, S. Mizuno, Y.W. Jiang, D.J. Stillman, U. Wintersberger
+The nuclear actin-related protein of Saccharomyces cerevisiae, Act3p/Arp4, interacts with core histones
+Mol. Biol. Cell, 10 (1999), pp. 2595–2605
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (88)
+Harata et al. 2002
+M. Harata, Y. Zhang, D.J. Stillman, D. Matsui, Y. Oma, K. Nishimori, R. Mochizuki
+Correlation between chromatin association and transcriptional regulation for the Act3p/Arp4 nuclear actin-related protein of Saccharomyces cerevisiae
+Nucleic Acids Res., 30 (2002), pp. 1743–1750
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+Henry et al. 1992
+N.L. Henry, M.H. Sayre, R.D. Kornberg
+Purification and characterization of yeast RNA polymerase II general initiation factor g
+J. Biol. Chem., 267 (1992), pp. 23388–23392
+
+View Record in Scopus | Citing articles (26)
+Henry et al. 1994
+N.L. Henry, A.M. Campbell, W.J. Feaver, D. Poon, P.A. Weil, R.D. Kornberg
+TFIIF-TAF-RNA polymerase II connection
+Genes Dev., 8 (1994), pp. 2868–2878
+
+Full Text via CrossRef
+Ikura et al. 2000
+T. Ikura, V.V. Ogryzko, M. Grigoriev, R. Groisman, J. Wang, M. Horikoshi, R. Scully, J. Qin, Y. Nakatani
+Involvement of the TIP60 histone acetylase complex in DNA repair and apoptosis
+Cell, 102 (2000), pp. 463–473
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (632)
+Jiang and Stillman 1996
+Y.W. Jiang, D.J. Stillman
+Epigenetic effects on yeast transcription caused by mutations in an actin-related protein present in the nucleus
+Genes Dev., 10 (1996), pp. 604–619
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+Langst et al. 1999
+G. Langst, E.J. Bonte, D.F. Corona, P.B. Becker
+Nucleosome movement by CHRAC and ISWI without disruption or trans-displacement of the histone octamer
+Cell, 97 (1999), pp. 843–852
+
+Article |  PDF (244 K) | View Record in Scopus | Citing articles (241)
+Luger et al. 1997
+K. Luger, T.J. Rechsteiner, A.J. Flaus, M.M. Waye, T.J. Richmond
+Characterization of nucleosome core particles containing histone proteins made in bacteria
+J. Mol. Biol., 272 (1997), pp. 301–311
+
+Article |  PDF (588 K) | View Record in Scopus | Citing articles (238)
+Meersseman et al. 1992
+G. Meersseman, S. Pennings, E.M. Bradbury
+Mobile nucleosomes—a general behavior
+EMBO J., 11 (1992), pp. 2951–2959
+
+View Record in Scopus | Citing articles (188)
+Narlikar et al. 2001
+G.J. Narlikar, M.L. Phelan, R.E. Kingston
+Generation and interconversion of multiple distinct nucleosomal states as a mechanism for catalyzing chromatin fluidity
+Mol. Cell, 8 (2001), pp. 1219–1230
+
+Article |  PDF (469 K) | View Record in Scopus | Citing articles (84)
+Neely and Workman 2002
+K.E. Neely, J.L. Workman
+The complexity of chromatin remodeling and its links to cancer
+Biochim. Biophys. Acta, 1603 (2002), pp. 19–29
+
+Article |  PDF (282 K) | View Record in Scopus | Citing articles (81)
+Papoulas et al. 1998
+O. Papoulas, S.J. Beek, S.L. Moseley, C.M. McCallum, M. Sarte, A. Shearn, J.W. Tamkun
+The Drosophila trithorax group proteins BRM, ASH1 and ASH2 are subunits of distinct protein complexes
+Development, 125 (1998), pp. 3955–3966
+
+View Record in Scopus | Citing articles (219)
+Peterson et al. 1998
+C.L. Peterson, Y. Zhao, B.T. Chait
+Subunits of the yeast SWI/SNF complex are members of the actin-related protein (ARP) family
+J. Biol. Chem., 273 (1998), pp. 23641–23644
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+Poch and Winsor 1997
+O. Poch, B. Winsor
+Who's who among the Saccharomyces cerevisiae actin-related proteins? A classification and nomenclature proposal for a large family
+Yeast, 13 (1997), pp. 1053–1058
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+Posern et al. 2002
+G. Posern, A. Sotiropoulos, R. Treisman
+Mutant actins demonstrate a role for unpolymerized actin in control of transcription by serum response factor
+Mol. Biol. Cell, 13 (2002), pp. 4167–4178
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (121)
+Quinn et al. 1996
+J. Quinn, A.M. Fyrberg, R.W. Ganster, M.C. Schmidt, C.L. Peterson
+DNA-binding properties of the yeast SWI/SNF complex
+Nature, 379 (1996), pp. 844–847
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (158)
+Rando et al. 2000
+O.J. Rando, K. Zhao, G.R. Crabtree
+Searching for a function for nuclear actin
+Trends Cell Biol., 10 (2000), pp. 92–97
+
+Article |  PDF (215 K) | View Record in Scopus | Citing articles (201)
+Rando et al. 2002
+O.J. Rando, K. Zhao, P. Janmey, G.R. Crabtree
+Phosphatidylinositol-dependent actin filament binding by the SWI/SNF- like BAF chromatin remodeling complex
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 2824–2829
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+Roth et al. 2001
+S.Y. Roth, J.M. Denu, C.D. Allis
+Histone acetyltransferases
+Annu. Rev. Biochem., 70 (2001), pp. 81–120
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (982)
+Schafer and Schroer 1999
+D.A. Schafer, T.A. Schroer
+Actin-related proteins
+Annu. Rev. Cell Dev. Biol., 15 (1999), pp. 341–363
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (76)
+Sengupta et al. 2001
+S.M. Sengupta, M. VanKanegan, J. Persinger, C. Logie, B.R. Cairns, C.L. Peterson, B. Bartholomew
+The interactions of yeast SWI/SNF and RSC with the nucleosome before and after chromatin remodeling
+J. Biol. Chem., 276 (2001), pp. 12636–12644
+
+View Record in Scopus | Citing articles (36)
+Shen et al. 2000
+X. Shen, G. Mizuguchi, A. Hamiche, C. Wu
+A chromatin remodelling complex involved in transcription and DNA processing
+Nature, 406 (2000), pp. 541–544
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (441)
+Uetz et al. 2000
+P. Uetz, L. Giot, G. Cagney, T.A. Mansfield, R.S. Judson, J.R. Knight, D. Lockshon, V. Narayan, M. Srinivasan, P. Pochart et al.
+A comprehensive analysis of protein-protein interactions in Saccharomyces cerevisiae
+Nature, 403 (2000), pp. 623–627
+
+View Record in Scopus | Citing articles (3199)
+Whitehouse et al. 1999
+I. Whitehouse, A. Flaus, B.R. Cairns, M.F. White, J.L. Workman, T. Owen-Hughes
+Nucleosome mobilization catalysed by the yeast SWI/SNF complex
+Nature, 400 (1999), pp. 784–787
+
+View Record in Scopus | Citing articles (219)
+Xiao et al. 2001
+H. Xiao, R. Sandaltzopoulos, H.M. Wang, A. Hamiche, R. Ranallo, K.M. Lee, D. Fu, C. Wu
+Dual functions of largest NURF subunit NURF301 in nucleosome sliding and transcription factor interactions
+Mol. Cell, 8 (2001), pp. 531–543
+
+Article |  PDF (694 K) | View Record in Scopus | Citing articles (119)
+Zhao et al. 1998
+K. Zhao, W. Wang, O.J. Rando, Y. Xue, K. Swiderek, A. Kuo, G.R. Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Correspondence: Xuetong Shen, 512-237-9450 (phone), 512-237-2475 (fax); and Carl Wu, 301-496-3029 (phone), 301-435-3697 (fax)
+1
+These authors contributed equally to this work.
+2
+Present address: Department of Carcinogenesis, University of Texas MD Anderson Cancer Center, Science Park—Research Division, Smithville, Texas 78957.
+3
+Present address: Department of Enteric Infections, Division of Communicable Diseases and Immunology, Walter Reed Army Institute of Research, Silver Spring, Maryland 20910.
+Copyright © 2003 Cell Press. All rights reserved.

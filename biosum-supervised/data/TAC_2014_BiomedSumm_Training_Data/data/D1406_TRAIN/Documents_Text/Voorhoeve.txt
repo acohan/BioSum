@@ -1,0 +1,490 @@
+A Genetic Screen Implicates miRNA-372 and miRNA-373 As Oncogenes in Testicular Germ Cell Tumors
+P. Mathijs Voorhoeve1, 5, Carlos le Sage1, 5, Mariette Schrier1, Ad J.M. Gillis2, Hans Stoop2, Remco Nagel1, Ying-Poi Liu1, Josyanne van Duijse1, Jarno Drost1, Alexander Griekspoor1, Eitan Zlotorynski1, Norikazu Yabuta4, Gabriella De Vita3, Hiroshi Nojima4, Leendert H.J. Looijenga2, Reuven Agami1, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2006.02.037
+  Open Archive
+Summary
+Endogenous small RNAs (miRNAs) regulate gene expression by mechanisms conserved across metazoans. While the number of verified human miRNAs is still expanding, only few have been functionally annotated. To perform genetic screens for novel functions of miRNAs, we developed a library of vectors expressing the majority of cloned human miRNAs and created corresponding DNA barcode arrays. In a screen for miRNAs that cooperate with oncogenes in cellular transformation, we identified miR-372 and miR-373, each permitting proliferation and tumorigenesis of primary human cells that harbor both oncogenic RAS and active wild-type p53. These miRNAs neutralize p53-mediated CDK inhibition, possibly through direct inhibition of the expression of the tumor-suppressor LATS2. We provide evidence that these miRNAs are potential novel oncogenes participating in the development of human testicular germ cell tumors by numbing the p53 pathway, thus allowing tumorigenic growth in the presence of wild-type p53.
+
+Introduction
+Since their discovery, the functions of only a handful of microRNAs (miRNAs) have been determined (recently reviewed in Zamore and Haley, 2005). Relevant to carcinogenesis, it was found that let-7 inhibits RAS expression and in lung tumors negatively correlates with RAS levels (Johnson et al., 2005). Furthermore, the oncogenic potential of the miR-17-92 cluster was demonstrated (He et al., 2005 and O'Donnell et al., 2005). This cluster is amplified in lymphomas (Ota et al., 2004), and its introduction accelerates tumorigenicity by an as yet undefined process. These findings demonstrate the powerful ability of small RNAs to alter cellular pathways and programs. However, the small number of miRNAs with a known function stresses the need for a systematic screening approach to identify more miRNA functions.
+
+The difficulties in deciphering the mechanism of action of miRNAs with a known function and deducing their activity from their sequence are largely due to the complex relationship with their target genes. In general, target genes containing sequences that are completely complementary to the miRNA will be degraded by an RNA-interference mechanism, whereas targets with partial complementary sequences at their 3′UTR will be subjected to translation inhibition and to a lesser extent also to mRNA degradation (Doench and Sharp, 2004, Bagga et al., 2005, Lim et al., 2005 and Pillai et al., 2005). In mammals, a near-perfect complementarity between miRNAs and protein coding genes almost never exists, making it difficult to directly pinpoint relevant downstream targets of a miRNA. Several algorithms were developed that predict miRNA targets, most notably TargetScanS, PicTar, and miRanda (John et al., 2004, Lewis et al., 2005 and Robins et al., 2005). These programs predict dozens to hundreds of target genes per miRNA, making it difficult to directly infer the cellular pathways affected by a given miRNA. Furthermore, the biological effect of the downregulation depends greatly on the cellular context, which exemplifies the need to deduce miRNA functions by in vivo genetic screens in well-defined model systems.
+
+The cancerous process can be modeled by in vitro neoplastic transformation assays in primary human cells (Hahn et al., 1999). Using this system, sets of genetic elements required for transformation were identified. For example, the joint expression of the telomerase reverse transcriptase subunit (hTERT), oncogenic H-RASV12, and SV40-small t antigen combined with the suppression of p53 and p16INK4A were sufficient to render primary human fibroblasts tumorigenic (Voorhoeve and Agami, 2003). Recently, these neoplastic transformation assays were used to uncover novel human tumor suppressor genes (Kolfschoten et al., 2005 and Westbrook et al., 2005).
+
+Moreover, oncogenes such as H-RASV12 provoke a stress response in primary cells that results in an irreversible growth arrest, termed premature senescence (Serrano et al., 1997). The senescent phenotype was recently shown to play a role in the protection from tumor development in vivo (Braig et al., 2005, Chen et al., 2005, Collado et al., 2005 and Michaloglou et al., 2005). The elimination of this protective mechanism by, for example, the suppression of the p53 and p16INK4A pathways permits continued proliferation of the modified primary cells in the presence of the oncogenic event, consequently leading to tumorigenicity (Voorhoeve and Agami, 2003).
+
+Here, we use this model system to perform a functional genetic screen to identify miRNAs that act as oncogenes in tumorigenesis. We characterize two miRNAs whose expression can substitute for the loss of wild-type (wt) p53 that is needed to overcome oncogene-mediated arrest and implicate their involvement in the formation of testicular germ cell tumors.
+
+Results
+miR-Vec: A Vector-Based miRNA Expression System
+To identify novel functions of miRNAs, we constructed a retroviral vector for miRNA expression (miR-Vec) following a previously described approach (Chen et al., 2004). We inserted ∼500 bp fragments spanning a given miRNA-genomic region in a modified pMSCV-Blasticidin vector such that they are placed under the control of a CMV promoter (Figure 1A). To examine miRNA expression from the miR-Vec system, a miR-24 minigene-containing virus was transduced into human cells. Expression was determined using an RNase protection assay (RPA) with a probe designed to identify both precursor and mature miR-24 (Figure 1B). Figure 1C shows that cells transduced with miR-Vec-24 clearly express high levels of mature miR-24, whereas little expression was detected in control-transduced cells. Furthermore, we confirmed the consistency of miRNA expression driven by miR-Vec by cloning eight miR-Vec plasmids expressing randomly chosen miRNAs. With one exception, all constructs yielded high expression levels of mature miRNAs (Figure S1). Notably, very little pre-miRNA accumulation was detected in all cases, indicating the efficient processing of the ectopically expressed miRNAs in the cells.
+
+Full-size image (56 K)
+Figure 1. 
+Tools for Functional Genetic Screens with Human miRNAs
+(A) The miR-Vec miRNA-expressing system. Transcription of the minigene mimics the pri-miRNA, which is subsequently processed to a mature miRNA.
+(B) The RPA technique used to detect precursor and mature miRNAs in this study.
+(C) RPA was performed on RNA extracts from primary human BJ cells stably transduced with miR-Vec-24 and miR-Vec-ctrl. We used a probe to cyclophilin to control for loading. (P = 10% input probe, Y = Yeast control RNA).
+(D and E) BJ/ET-p53kd cells were transduced with miR-Vec-311, and BJ/ET cells were transduced with a mix of 197 other miR-Vecs. Both populations were drug selected, mixed in a ratio of 1:400, and left to grow for 2 weeks. A barcode experiment was done comparing cells right after mixing (t0) and after 2 weeks in culture (t2). The log2 of the ratio of the signals between t2 and t0 was plotted against the average signal to visualize outliers. The signal derived from the spot corresponding to Mir-311 is indicated in pink.
+Figure options
+Next, we examined the functionality of the miR-Vec system to suppress gene expression by using both GFP, tagged with a sequence complementary to miR-19, and luciferase containing either the wt 3′UTR of G6PD, a predicted miR-1 target, or control with two mutated miR-1 binding sequences (Lewis et al., 2003). Using fluorescence microscopy and luciferase assays, we observed potent and specific miRNA activity expressed from each miR-Vec (Figure S2). These results demonstrate the general applicability of miR-Vec to drive functional miRNA expression.
+
+miR-Lib and miR-Array
+We subsequently created a human miRNA expression library (miR-Lib) by cloning almost all annotated human miRNAs into our vector (Rfam release 6) (Figure S3). Additionally, we made a corresponding microarray (miR-Array) containing all miR-Lib inserts, which allows the detection of miRNA effects on proliferation.
+
+To test the sensitivity of screens with miR-Lib and miR-Array, we transduced modified primary BJ fibroblasts expressing ecotropic receptor and immortalized with hTERT (BJ/ET) with a mixture of 197 different miR-Vecs and mixed them in a ratio of 400:1 with BJ/ET cells containing both miR-Vec-311 and a knockdown construct for p53 (p53kd) (Figure 1D). Previously, we have shown that in a period of 2 weeks BJ/ET-p53kd cells increase 4- to 5-fold in number compared with BJ/ET cells (Voorhoeve and Agami, 2003). In accordance, we observed an approximately 4-fold increase in miR-311 signal, indicating that our procedure is sensitive enough to detect mild growth differences (Figure 1E).
+
+Expression of miR-372 and miR-373 Protects from Oncogenic Stress
+In response to mitogenic signals from oncogenes such as RASV12, primary human cells undergo a growth arrest (Figure 2A) (Serrano et al., 1997). In contrast, primary cells lacking functional p53 efficiently overcome this arrest. This escape from oncogene-induced senescence is a prerequisite for full transformation into tumor cells. To identify miRNAs that can interfere with this process and thus might contribute to the development of tumor cells, we transduced BJ/ET fibroblasts with miR-Lib and subsequently transduced them with either RASV12 or a control vector (Figure 2B). After 2 or 3 weeks in culture, senescence-induced differences in abundance of all miR-Vecs were determined with the miR-Array. Figures 2C and S3 show that in three independent experiments the relative abundance of three miR-Vecs increased reproducibly in the RASV12-expressing population. These hits corresponded to three constructs derived from one genomic region expressing miRNAs 371, 372, 373, and 373∗ (Figure 2D). Due to the close proximity of miR-371 and miR-372 in the genome (within 0.5 kilobase), two largely overlapping constructs encoded both miRNA-371 and 372 (miR-Vec-371&2). The third construct did not overlap with miR-Vec-371&2 and encoded miRNA-373 and 373∗. Interestingly, the mature miR-373 is a homolog of miR-372, and neither shares obvious homology with either miRNA-371 or miR-373∗ (Figure 2D). This suggests that miR-372 and miR-373 caused the observed selective growth advantage.
+
+Full-size image (128 K)
+Figure 2. 
+Identification of miR-Vecs that Inhibit Oncogene-Induced Senescence
+(A) The effects of oncogenic RASV12 on cellular growth.
+(B) A flow chart of the screen. Cells transduced with the miR-Lib were grown for 2 to 3 weeks in the presence or absence of RASV12. Subsequently, the population of inserts in each condition was recovered and compared using miR-array.
+(C) Three independent miR-Array experiments were performed. The position of the reproducibly upregulated miR-Vecs is indicated for each experiment.
+(D) The miR-371-3 genomic organization and the sequences of the mature miRNAs expressed from this locus. For comparison, the nucleotides 2–8 (seed) of the miRNAs are boxed.
+(E) RPA analysis of RNA from BJ/ET cells containing the indicated miR-Vecs.
+(F) BJ/ET cells containing the indicated vectors were transduced with RASV12, drug selected, and subjected to a growth assay. Standard deviations from three independent transductions are shown.
+(G) The cells from (F) were stained 10 days after RASV12 transduction to detect SA-β-galactosidase expression.
+(H) The percentage of β-galactosidase positive cells was counted in three independent dishes.
+Figure options
+Next, we verified miRNA function in a cell-growth assay. First, we verified the expression of both miR-371 and 372 by miR-Vec-371&2 and miR-373 by miR-Vec-373 (Figure 2E). We then transduced BJ/ET cells with miR-Vec-371&2, miR-Vec-373, or the controls p53kd and vector control and then with RASV12. As expected, control cells ceased proliferating in response to RASV12, whereas p53kd cells continued to proliferate (Figure 2F). The expression of either miR-371&2 or miR-373 allowed cells to continue proliferating in the presence of oncogenic stress, validating the effect observed with the miR-Array.
+
+Oncogene-induced senescence is characterized by the appearance of cells with a flat morphology that express senescence associated (SA)-β-Galactosidase. Indeed, control RASV12-arrested cells showed relatively high abundance of flat cells expressing SA-β-Galactosidase (Figures 2G and 2H). Consistent with the cell growth assay, very few cells showed senescent morphology when transduced with either miR-Vec-371&2, miR-Vec-373, or control p53kd. Altogether, these data show that transduction with either miR-Vec-371&2 or miR-Vec-373 prevents RASV12-induced growth arrest in primary human cells.
+
+The independent identification of constructs encoding two very similar miRNAs (miR-372 and miR-373) suggests that they (but not miR-371 or miR-373∗) are required to cause this phenotype. To test this, we mutated the sequences of miR-372 and miR-373. As demonstrated by RPA, miR-Vec-372mut and miR-Vec-373mut indeed failed to express miR-372 and miR-373, respectively (Figure 3A). Note that miR-Vec-372mut still expressed miR-371 to a similar extent as the original miR-Vec-371&2. We then tested these constructs in a YFP-competition assay to detect possible growth advantages conferred by the miRNAs on BJ cells in the absence or presence of RASV12 (Figure 3B). For this purpose we used a miR-Vec vector that expresses YFP instead of a blasticidin resistance marker and compared the growth rates of YFP-tagged and untagged cells within one population. Increase in time of the YFP-positive cells within the population indicates a growth advantage conferred by the additional genetic unit encoded by the YFP vector. We also generated BJ/ET cells expressing the RASV12-ERTAM chimera gene, which is only active when tamoxifen is added (De Vita et al., 2005), and tranduced them with either YFP-tagged wt or mutant miR-Vec-371&2 and miR-Vec-373 constructs as well as p53kd, p14ARFkd, or control vectors. Figure 3B shows that even without activating RASV12 (no tamoxifen added), both miR-Vec-371&2 and miR-Vec-373 conferred a growth advantage to cells, although to a lesser extent than observed with p53kd or p14ARFkd. Once RASV12 was activated, the growth advantage of cells with miR-Vec-371&2 and 373 increased dramatically, indicating that these constructs allowed growth of cells in the presence of oncogenes while the rest of the population ceased to proliferate. In accordance with previously published data (Voorhoeve and Agami, 2003), reducing p53, but not p14ARF expression, was sufficient to overcome the oncogenic stress. Consistent with our assumption that miR-372&3 are the active miRNAs, mutating their mature sequence abrogated their growth advantage. This shows that miR-372&3, but not miR-371 or miR-373∗, caused stimulation of proliferation and resistance to oncogenic stress.
+
+Full-size image (74 K)
+Figure 3. 
+miR-372&3 Collaborate with Oncogenic RASV12 to Transform Primary Human Cells
+(A) The mature miR-372&3 sequences were mutated in their corresponding miR-Vecs, and their expression was examined by RPA. miR-Vec cluster is a construct encompassing miRs-371-3.
+(B) The indicated YFP-containing vectors were transduced in BJ/ET-RASV12-ERTAM cells. The cumulative growth advantage was determined in the absence or presence of tamoxifen (+RASV12).
+(C and D) BJ/ET cells containing SV40 small t, p16INK4A knockdown, RASV12, and the indicated constructs were plated in soft agar, and colonies were photographed and counted after 3 weeks. The average and standard deviation of three independent dishes is shown.
+(E) The cluster, p53kd, and control cell populations from (C) were injected subcutaneously in athymic nude mice, and tumor growth was scored 5 weeks later.
+Figure options
+Expression of miR-372 and miR-373 Transforms Primary Human Cells
+Suppression of cellular senescence is essential for tumorigenesis. We therefore examined whether the ectopic expression of miR-372/3 is sufficient to replace loss of p53 in transformation of cells. A hallmark of cellular transformation is the ability of tumor cells to grow anchorage independently in semisolid medium and as tumors in model mice (Hahn et al., 1999 and Hanahan and Weinberg, 2000). Indeed, in a soft agar assay, modified primary human BJ/ET cells expressing hTERT, SV40-small t, RASV12, and shRNA-knockdowns for p53 and p16INK4A showed potent ability to grow in an anchorage-independent manner (Figures 3C and 3D). To mimic the expression of the complete miR-371-373 gene cluster, we made a miR-Vec expressing all miRNAs from one cluster (miR-Vec-cluster; see Figure 3A for expression). Similar to the knockdown of p53, the ability to grow in soft agar was also observed for cells containing miR-Vec-cluster, miR-Vec-371&2, or miR-Vec-373 but not miR-Vec-372mut or miR-Vec-373mut (Figures 3C and 3D). Moreover, the cells containing the miR-371-373 cluster grew efficiently as tumors in athymic nude mice (Figure 3E). These results demonstrate that miR-372&3 collaborate with RAS in transformation in a manner that resembles p53 inactivation.
+
+Importantly, our results so far indicate that the expression of miR-372&3 did not reduce the activity of RASV12, as these cells were still growing faster than normal cells and were tumorigenic, for which RAS activity is indispensable (Hahn et al., 1999 and Kolfschoten et al., 2005). Therefore, the miRNA-mediated circumvention of the activation of p53 can in principle be obtained at a level upstream of p53, on p53 itself, or downstream. To shed more light on this aspect, we examined the effect of miR-372&3 expression on p53 activation in response to oncogenic stimulation. We used for this experiment BJ/ET cells containing p14ARFkd because, following RASV12 treatment, in those cells p53 is still activated but more clearly stabilized than in parental BJ/ET cells (Voorhoeve and Agami, 2003), resulting in a sensitized system for slight alterations in p53 in response to RASV12. Figure 4A shows that following RASV12 stimulation, p53 was stabilized and activated, and its target gene, p21cip1, was induced in all cases, indicating an intact p53 pathway in these cells. Therefore, it is unlikely that the miRNAs act on a factor upstream of p53 or on p53 itself to suppress the cellular response to oncogenic RAS.
+
+Full-size image (94 K)
+Figure 4. 
+miR-372 and miR-373 Sustain CDK2 Activity in TGCT
+(A) BJ/ET-p14ARFkd-RASV12ERTAM cells containing the indicated miR-Vecs were cultured for a week in the presence or absence of tamoxifen (TAM), harvested, and subjected to immunoblot analyses to detect p21cip1, p53, and RASV12ER.
+(B) The same polyclonal populations as in (A) were harvested, and CDK2 kinase activity was measured using an IP-kinase protocol with Histone H1 as a substrate. Equal pulldown of CDK2 was checked by immunoblot of the same samples (lower panel).
+(C) BJ/ET cells containing either a control vector (BJ), or the indicated constructs were irradiated (4 Gy), labeled with BRDU, and subjected to flow cytometric analysis. The percentage of BRDU positive cells relative to the unirradiated cells is shown. SD is from three independent experiments.
+(D) The expression of miR-372 was detected by RPA in RNA extracts from several TGCT cell lines as well as from primary seminoma and nonseminoma tumors and from normal testis tissues.
+(E) In situ hybridization on a nonseminoma of mixed histology to detect miR-372&3 expression. The probe was developed with NBT/BCIP blue, and the section was counterstained with FastRed. The EC component of the tumor was morphologically determined using HE-counter staining and by immunohistochemistry with anti-CD30 and OCT3/4 antibodies of the next sections.
+(F) Summary of the p53 status in several TGCT cell lines and primary seminomas (in the latter, only exons five to eight were examined).
+(G) NCCIT cells were cotransfected with H2B-GFP and the indicated constructs. Cell-cycle profiles of the GFP-positive population were examined after 4 days using flow cytometry. Also shown is an immunoblot analysis of cells from the same experiment with antibodies against p21cip1, CDK2, and cyclin E.
+Figure options
+Increased levels of p21cip1 inhibit CDK activity, causing cells to arrest in G1 phase (el-Deiry et al., 1993), whereas suppression of p21cip1 allows cells to grow in the presence of RASV12 (Figure S4A). To test whether p21cip1 was still functional in the miRNA-transduced cells, we examined CDK2 activity using an IP-Kinase assay (Figure 4B). In both miR-372&3-expressing cells, CDK2 remained active following RASV12 induction, whereas it was inhibited in the control cells (Figure 4B). In contrast, miR-372&3-transduced cells were still sensitive to inhibition of CDK activity by roscovitin (Figure S4B). This indicates that the presence of miR-372/3 acts as a molecular switch to make CDK2 resistant to increased levels of the cell cycle inhibitor p21cip1.
+
+Both p53 and p21cip1 play a major role in the DNA damage response to ionizing radiation (IR) (Weinert, 1998). Since cells expressing miR-372&3 proliferate in the presence of increased p21cip1 levels, we examined their response to damaged DNA. In the presence of both miRNAs, and irrespective of RASV12 expression, IR induced a cell cycle arrest that was indistinguishable from control cells, whereas the suppression of p53 expression allowed, as expected, continuous DNA replication (Figure 4C and data not shown). These results indicate that although miR-372&3 confer complete protection to oncogene-induced senescence in a manner similar to p53 inactivation, the cellular response to DNA damage remains intact.
+
+Potential Role of miR-372 and miR-373 in Human Cancer
+Based on the above results, we hypothesized that miRNA-372&3 may participate in tumorigenesis of some tumors that retain wt p53 and are sensitive to DNA-damaging treatments. One such tumor type is the testicular germ cell tumor of adolescents and adults (TGCT), known for the presence of wt p53 in the majority of cases and known to be generally sensitive to chemotherapies as well as irradiation (Kersemaekers et al., 2002, Masters and Koberle, 2003 and Mayer et al., 2003). In addition, these tumors harbour an embryonic stem (ES) cell signature (Almstrup et al., 2004), which correlates with the reported ES-cell expression pattern of the miR-371-3 cluster (Suh et al., 2004). We therefore examined a number of cell lines originating from TGCTs for the expression of the miR-371-3 cluster. Four out of seven cell lines expressed this cluster (Figures 4D and S5). This result is significant as no clear expression of the miR-371-3 cluster was detected in any of the somatic cell lines we tested (originating from breast, colon, lung and brain tumors) (Figure S6).
+
+TGCTs are divided into seminomas, non-seminomas, and spermatocytic-seminoma, according to their origin, clinical behavior, and chromosomal constitution (Oosterhuis and Looijenga, 2005). The nonseminomas can be composed of embryonal carcinoma (EC, the stem cell component), teratocarcinoma (TC, somatic differentiation), and yolk sac tumor and choriocarcinoma (YS and CH, extra-embryonal tissues). All the cell lines we tested were derived from nonseminomatous tumors, as there are no other type of TGCT cell lines available so far. To substantiate our results and extend them to other TGCT types, we examined a panel of primary seminomas, nonseminomas, and spermatocytic seminomas for the expression of miR-372. Figures 4D and S7 show that most seminomas (28/32) had a clear miR-372 expression, that about two thirds (14/21) of the nonseminomas expressed miR-372, and that expression was observed in neither RNA from the spermatocytic-seminoma tumors (data not shown) nor from the normal testis tissue panel. Noteworthy is the fact that endogenous expression of miR-372 reached levels that are comparable to those driven by miR-Vec-372 (Figure 4D), indicating the biological relevance of our system in primary human fibroblast cells. Within the nonseminoma samples, both pure and mixed histologies were present (Figure S7). The RPA analysis showed that high expression of miR-372 correlated with a larger EC component. To further investigate this connection, we performed in situ miRNA hybridizations on tissue sections of 10 representative TGCTs and found in all cases 372&3 to be strictly localized to the EC component, as judged by morphology and immunohistochemistry with CD30 and Oct3/4 (Figure 4E and data not shown). Both seminomas and the EC component of nonseminomas share features with ES cells. To exclude that the detection of miR-371-3 merely reflects its expression pattern in ES cells, we tested by RPA miR-302a-d, another ES cells-specific miRNA cluster (Suh et al., 2004). In many of the miR-371-3 expressing seminomas and nonseminomas, miR-302a-d was undetectable (Figures S7 and S8), suggesting that miR-371-3 expression is a selective event during tumorigenesis.
+
+Interestingly, we noted a correlation between cluster expression and p53 status in the TGCT cell lines (Figure 4F). Whereas all three cluster-expressing cell lines contained high wt-p53 levels, NTera2 has low wild-type p53 levels, and NCCIT lost one p53 allele while the second allele is mutated (Burger et al., 1998). To strengthen the p53 connection seen in the TGCT cell lines, we examined p53 mutations in exons five to eight in the primary tumors, where the majority of mutations are found. In the nonseminoma panel, no mutations were detected. In contrast, two out of four miRNA 372-negative seminomas had an inactivating mutation in the p53 gene (SE20 in exon 8 and SE28 in exon 5; Figures 4F and S7), a rare phenomenon in TGCT (Kersemaekers et al., 2002). In contrast, none of the 13 miRNA 372&373-expressing seminomas that we examined contained mutations in p53. Altogether, these results strongly suggest that the expression of miR-372/3 suppresses the p53 pathway to an extent sufficient to allow oncogenic mutations to accumulate in TGCTs.
+
+We then decided to test directly the correlation between the p53 pathway and miR-372/3 expression in TGCTs. It was technically not possible to sufficiently and persistently inhibit the expression of both miR-372 and miR-373 by methylated miRNA-oligos or knockdown vectors against the loop of the precursors (as judged by miR-372 and miR-373 luciferase reporter targets; data not shown). As an alternative approach, we used NCCIT, an embryonal carcinoma-derived cell line containing only a mutated, nonfunctional p53 that expresses very low amounts of the miR-371-3 cluster (Figure 4D) (Burger et al., 1998). We activated the p53 pathway by transfecting NCCIT cells with a p21-RFP construct that inhibits Cyclin E/CDK2 activity and examined the effects of miR372/3 by cotransfecting miR-Vec-371-3 (cluster). As expected, overexpression of p21-RFP caused accumulation of cells in G1, whereas cotransfection of Cyclin E/CDK2 allowed cells to continue proliferating in the presence of p21-RFP (Figure 4G). Significantly, cells cotransfected with the miR-Vec-cluster showed a phenotype similar to that observed with Cyclin E/CDK2. This result demonstrates the ability of miR-372 and miR-373 to overcome a p21-mediated cell cycle arrest in TGCTs and substantiates the correlation between these miRNAs, CDK and the p53 pathway.
+
+miR-372 and miRNA-373 Regulate LATS2 Expression
+Our results thus far indicate that miR-371-3 cluster suppresses an inhibitor of CDK activity and that this function is important for the development of TGCTs. To start to identify relevant targets of miR-372&3, we took advantage of the fact that miRNAs may cause limited destruction of their target mRNAs apart from inhibiting their translation (Lim et al., 2005). We performed an mRNA-expression array analysis comparing RASV12-expressing BJ/ET cells either containing p53kd or expressing the miR-371-3 cluster (Figures 5A and S9). We chose this setup as both cell types proliferate in the presence of oncogenic stress, thus canceling out the profound effects of cells going into senescence. We first looked in the p53kd cells and found p53 itself and many of its transcriptional targets to be downregulated compared to the cluster-expressing cells (Figure 5A). This independently confirms our previous results (Figure 4A) indicating that miR-372&373 do not directly inhibit p53 activity. From the list of genes whose expression was 2- or more fold lower in the cluster-expressing cells, we used target prediction programs to find possible direct targets of miR-372&3. We identified three miR-372/3 predicted targets: FYCO1 (FYVE and coiled coil containing protein 1), Suv39-H1, and LATS2 (Figure 5A). Interestingly, while nothing is known on the function of the FYCO1 protein, both Suv39-H1 and LATS2 have been connected in the past to RASV12-mediated transformation. It was recently shown that lymphocytes from mice nullizygous for Suv39-H1 are resistant to oncogene-induced senescence (Braig et al., 2005). However, the mechanism underlying this effect and its conservation to other tissues and to man are not known. Most promising seemed the LArge Tumor Suppressor homolog 2 (LATS2), a serine-threonine kinase whose deletion in flies accelerates cellular proliferation and tumorigenic development (Justice et al., 1995 and Xu et al., 1995). In mice, a similar activity was seen in LATS2−/− mouse embryonic fibroblasts (McPherson et al., 2004), whereas its overexpression was shown to inhibit cyclin E/CDK2 activity and RASV12-mediated transformation (Li et al., 2003). Additionally, loss of LATS2 stimulated reduplication, an activity comparable to that observed when Cyclin E is overexpressed in the absence of p53 (Fukasawa et al., 1996, Tarapore and Fukasawa, 2002 and Toji et al., 2004). Finally, in human breast cancer, hypermethylation of the LATS2 promoter was associated with an aggressive phenotype of the tumors (Takahashi et al., 2005). These observations suggest that the suppression of LATS2 explains at least in part the sustained activity of CDK in the presence of high p21cip1 levels in miR-372/3-expressing cells.
+
+Full-size image (99 K)
+Figure 5. 
+Inhibition of LATS2 Expression by miR-372 and miR-373
+(A) RNA was extracted from BJ/ET cells expressing RASV12 and containing either a p53kd construct or miR-Vec-371-3 (cluster) and compared using oligo-expression arrays (Figure S9). Listed are genes whose expression was downregulated in the p53kd cells and are known transcriptional targets of p53 as well as genes whose expression was suppressed in the cluster-expressing cells and are predicted TargetScanS targets of miRNA-372&3. LATS2∗: The reduction was verified by Q-RT-PCR (Figure S10).
+(B and C) BJ/ET cells containing the indicated constructs were analyzed by immunoblot analysis or by Q-RT-PCR. Band intensity was calculated by densitometry.
+(D) The 3′-UTRs of LATS2 in human (Hs), mouse (Mm), and zebrafish (Dr) are shown, and the predicted miR-372&3 target sequences are marked.
+(E) The indicated vectors were transfected in miR-372&3-positive (Tera1) and negative (MCF-7) cell lines. The relative firefly luciferase levels (divided to Renilla control and compared to pGL3) are shown. SD are from three independent experiments.
+(F) Cumulative growth advantage assay was performed as described in Figure 3B in RASV12-expressing cells transduced with the indicated vectors. For comparison, data from Figure 3B are included (dashed lines). An accompanying immunoblot shows that only LATS2kd#2 is functional.
+(G) A schematic model showing the mechanism through which miR-372&3 can suppress an oncogene-activated p53 pathway.
+Figure options
+To investigate the possibility that miR-372 and miR-373 suppress the expression of LATS2, we performed immunoblot analysis of cells expressing wt and mutant miR-372&3, the cluster and the controls p53kd and empty vector. Both in the absence of RASV12 and in its presence, a significant reduction in LATS2 protein level was observed upon miR-372&3 expression (Figure 5B). Using quantitative RT-PCR and immunoblot analysis, we observed a 2-fold effect on LATS2 RNA levels and 4- to 5-fold on protein levels by the miR-371-3 cluster (Figure 5C). As a control, we used a LATS2 knockdown construct (Figure 5F). These results show that a combined effect of RNA destruction and translation inhibition is used by miR-372&3 to silence LATS2.
+
+miR-372/3 was predicted to bind two sites in the 3′UTR of LATS2 that are highly conserved between human, mouse, and zebrafish (Figure 5D). To further substantiate LATS2 as a direct target of miR372&3, we cloned its 3′UTR downstream of the firefly luciferase gene (pGL3-LATS2). We transfected either pGL3-LATS2 or the controls pGL3-372 and pGL3-373 (containing a miR-complementary sequence in their 3′UTR) or pGL3 into Tera1 and MCF-7 cells (respectively positive and negative for miR-371-3) ( Figures 4D and S6). As predicted, the 372/373 complementary sequences mediated strong inhibition of luciferase expression in Tera1 cells. Significantly, a potent inhibition of luciferase activity was also mediated by the 3′UTR of LATS2 in either MCF-7 ectopically expressing miR-372 or in Tera1 cells but not by a construct mutated at both miR-372-predicted target sites. These results indicate that LATS2 is indeed a direct target of miR-372&3.
+
+Next, we tested whether LATS2 is a functional target of miR-372&3 using a YFP-competition assay. Indeed, inhibition of LATS2 conferred a growth advantage to cells expressing RASV12 (Figure 5F). The overall effect was less than the effect of the miR-Vec 373 but comparable to loss of p53. Therefore, these results point to LATS2 as a mediator of the miR-372 and miR-373 effects on cell proliferation and tumorigenicity, although they do not exclude the participation of other direct miR-targets, such as Suv39-H1, in these processes. Further investigation should elucidate the exact role of LATS2 downregulation and the possible participation of other miR-372&3-targets in the overall observed miR effect on cellular transformation.
+
+Discussion
+Functional Genetic Screens for miRNAs
+We developed a miRNA-expression vector library and a corresponding barcode array to detect miRNAs whose expression modifies a defined cellular pathway. We demonstrate here the power of this technology by the identification of miRNA-372 and miRNA-373 as potential oncogenes that collaborate with oncogenic RAS in cellular transformation (Figure 5G). However, this strategy is also suitable for the identification of miRNAs that regulate other cellular pathways resulting in a proliferation or survival difference, such as the DNA damage response, differentiation, sensitivity to growth factors, and resistance to anticancer drugs. Furthermore, the miR-Lib tool can be used in a single-well format to identify growth-independent phenotypes.
+
+Collaboration of miRNA372&3 and RASV12 in Tumorigenesis
+Sustained proliferation of cells in the presence of oncogenic signals is a major leap toward tumorigenicity (Hanahan and Weinberg, 2000). We found miR-372&3 to collaborate with RASV12 and stimulate a full-blown neoplastic transformation phenotype. However, whereas in the majority of the cases neoplastic transformation will require inactivation of p53 (for example by expression of HPV E6, HDM2, or mutant p53), miR372&3 uniquely allowed transformation to occur while p53 was active. This indicates that miRNA-372&3 do not block RASV12 signals but rather allow cells to proliferate irrespective of p53 activation and induction of p21cip1.
+
+The expression of miR-372&3 results in prevention of the CDK inhibition that is caused by the oncogenic stress response. In both primary human fibroblasts and in a TGCT-derived cell line, cells expressing miR-372&3 were insensitive to elevated levels of the cell-cycle inhibitor p21cip1. Although the exact mechanism responsible for this effect is still unclear, we suggest that suppression of LATS2 is an important factor. Indeed, the expression of LATS2 is directly controlled by miR-372&3, and its activity is important for RASV12-induced senescence. However, further investigation is required to demonstrate the exact mechanism of LATS2 action and whether there are other targets of miR-372&3, such as Suv39H1, that are relevant to this phenotype.
+
+Correlations to Other miRNAs
+Based on the seed sequence, the miR-372&3 gene family also includes miR-93 and miR-302a-e. As these may share a broad range of target genes, they may also share many functions. Indeed, preliminary results show that similar to miR-372&3, albeit with minor differences, both miR-93 and miR-302a-e can effectively target the LATS2 3′UTR and bypass oncogene-induced senescence (manuscript in preparation).
+
+Role of miR372&3 in TGCT Development
+Our results suggest that during transformation, the activities of miR-372&3 circumvented the need to mutate p53, leading to a DNA-damage-sensitive transformed phenotype. These characteristics of miR-372&3-transformed primary human cells therefore suggest a role in wt p53-tumor genotypes that are also sensitive to chemotherapies, including irradiation. Indeed, TGCTs conform to this profile (Masters and Koberle, 2003). This could for instance be a result of high mdm2 levels, as was previously suggested for mouse teratocarcinomas (Lutzker and Levine, 1996). However, by several criteria mouse teratocarcinomas are counterparts of human germ cell tumors of neonates and infants rather than TGCT (Oosterhuis and Looijenga, 2005). Indeed, while the first show high mdm2 expression levels, this was not demonstrated in TGCT (Mostert et al., 2000). Therefore, it is highly significant that we found that miR-372&3-expressing TGCTs did not contain mutated p53 alleles, whereas a subset of miR-371-3 negative primary TGCTs and cell lines did. Altogether, these provide a strong indication that there is no selective advantage to mutate p53 during TGCT development when the miR-371-3 cluster is expressed.
+
+The potent role of miR-372&3 in cellular transformation and potentially in TGCT development raises the possibility that they may play a similar role in somatic tumors. To this end, we determined the expression of the miR-371-3 cluster in several distinct somatic tumor cell lines and found little evidence for their expression (Figure S6). Consistent with our results, clear miR-371-3 cluster expression was observed in only 1 out of 70 leukemia tumors examined by others (Lu et al., 2005). It therefore seems that miR-372&3 expression is a rare event in somatic tumors. Whether such a role can be seen with the other members of the miR-372/3 family remains an open possibility.
+
+Although both miR-372&3 and miR-302a-e clusters are expressed in ES cells (Suh et al., 2004), the miRNA-302 cluster is not expressed in many of these primary seminomas and nonseminomas (Figure S7). It is therefore most likely that the expression of miR-371-3 in primary TGCT is not merely a remnant of their ES cell phenotype but rather a selective event during TGCT tumorigenesis.
+
+Function of miRNA372&3 in Embryonic Stem Cells
+Our results suggest a link between the expression of miR-372&3 in embryonic stem cells and their function in cellular proliferation in these cells. miR-372&3 may facilitate rapid growth of stem cells by suppressing the expression of CDK inhibitors. Intriguingly, Drosophila germ cells and mouse embryonic stem (ES) cells require miRNAs to proliferate ( Forstemann et al., 2005 and Hatfield et al., 2005). The proliferation defect in Drosophila mutants that lack miRNAs could be alleviated by loss of dacapo, the Drosophila p21cip1 homolog ( Forstemann et al., 2005 and Hatfield et al., 2005).
+
+Our results indicate that due to enhanced tolerance to oncogenic mutations, deregulated expression of miR-372&3 predisposes cells for accumulation of carcinogenic events. Thus, the expression of these miRNAs must be carefully controlled during differentiation to prevent progression to cancer. Which factors control miR-371-3 expression during differentiation and whether their activity is causally related to development of TGCTs remain to be explored. Nevertheless, our experiments stress the importance of a strong downregulation of factors that maintain rapid cell proliferation, as in the absence of this downregulation safeguard mechanisms against oncogene emergence are functionally impaired.
+
+Experimental Procedures
+Constructs
+pMSCV-Blast and pMSCV-YFP were made by replacing the puromycin resistance marker of pMSCV-puro (Clontech) with a PCR product encoding the blasticidin resistance gene from cDNA6/TR (invitrogen) or YFP from pEYFP-N1 (Clontech), respectively. pRetrosuper (pRS)-Blast was generated by replacing the 3′LTR from pMSCV-Blast with the 3′LTR from pRS-Hyg (Voorhoeve and Agami, 2003).
+
+miR-Vec-Ctrl was made by deleting the MCS and the PGK-promoter from pMSCV-Blast, followed by insertion of the CMV promoter from pcDNA-3.1+ and a stuffer DNA derived from the first 211 nt of hTR downstream of the resistance marker. miR-Vec-YFP was cloned similar to miR-Vec-Ctrl, only starting from pMSCV-YFP. pBabe-puro-RasV12 and pBabe-puro, pMSCV-GFP-st, pRS-GFP, pBabe-H2B-GFP, pCMV-Cyclin E, pCMV-CDK2, and pBabe-RasV12ERTAM were described before (Voorhoeve and Agami, 2003 and De Vita et al., 2005). p53kd, p16kd, p14ARFkd, p21cip1kd shRNA constructs were described before (Voorhoeve and Agami, 2003 and Duursma and Agami, 2005). pMSCV-Blast RASV12-ERTAM was made by subcloning RASV12-ERTAM into pMSCV-Blast. p21-RFP was produced by cloning p21 to the N terminus of dsRFP. The constructs encoding Luciferase-3′-G6PD wt and mut were a kind gift of David Bartel (Lewis et al., 2003).
+
+The miRNA minigenes were PCR amplified from genomic human DNA, cloned downstream of the CMV promoter in miR-Vec, and sequence verified. The primers used for the genomic PCR amplification of the individual miRNA minigenes, the miR-Vec-cluster and the miR-Vec mutants, are listed in Figure S3.
+
+LATS2 knockdown constructs were cloned to pRETROSUPER (pRS)-YFP (Brummelkamp et al., 2002). Targeting sequences are shown in Figure S3.
+
+miR-Array
+Genomic DNA was isolated from BJ/EHT cells with the DNeasy Tissue Kit (Qiagen). The inserts were recovered by PCR using primers listed in Figure S3. The PCR product was purified, and 500 ng was labeled using ULS-Cy3 or Cy5 (Kreatech) and hybridized to the miR-Array according to the manufacturers instructions (http://microarrays.nki.nl). As the amount of spots was too small to normalize automatically, the red and green signals were normalized by hand in Excel. For each spot, the log 2 of the red and green ratio as well as the log 2 of the square root of the product of the two signals were calculated. Outliers were picked and listed and compared across three independent experiments.
+
+miRNA Detection
+RNase Protection assays were performed using the mirVana miRNA probe construction and detection kits (Ambion) according to the manufacturers instructions. 2.5 -10 ug of RNA was used per reaction. Primers to make the RPA probes are listed in Figure S3. The antisense cyclophilin probe contained nucleotides 46–149 of Accession # BC013915.
+
+In situ hybridizations were performed with a mix of LNA oligos against miR-372 and miR-373 (Exiqon) according to the manufacturer's instructions.
+
+Cell Culture and Antibodies
+Primary BJ fibroblasts with an ecotropic receptor Neo and pBabe-puro-hTert (BJ-ET) (Voorhoeve and Agami, 2003) or pBabe-H2BGFP-hTert (BJ-EHT) (Kolfschoten et al., 2005) were grown in DMEM plus 10% FCS and antibiotics. NCCIT cells were grown in RPMI plus 10% FCS and antibiotics.
+
+Retrovirus was made by calcium-phosphate transduction of EcoPack 2 (Clontech) and harvesting 40 and 64 hr later. BJ cells were selected with the relevant selective medium 48 hr after transduction for at least a week. In the case of RASV12-encoding retroviruses, the selection was continued for the entire duration of the experiment.
+
+Antibodies used were DO-1 (p53), F5 (p21cip1), F235 (RAS), M20 (cyclin E), M2 (CDK2) from Santa Cruz Biotechnology, and 3D10 (LATS2) (Toji et al., 2004). Western blots were scanned and quantified using AIDA software (Raytek, Sheffield, UK).
+
+Genetic Screen
+BJ-EHT cells were transduced with a mixture of 197 miR-Vec vectors, drug selected for a week, and transduced independently three times with pBabe-puro-RASV12 or pBabe-puro. Cells from the independent transductions were propagated for 2 or 3 weeks before genomic DNA was isolated.
+
+Growth Assay
+BJ-EHT cells were transduced with miR-Vec or pRS-blast constructs, drug selected for a week, transduced with pBabe-Puro-RASV12, and drug selected for 3 days. 3 × 105 cells were plated in triplicates in 6 cm dishes and propagated twice a week. SA-β-galactosidase activity was assessed 10 days after RASV12 transduction, as described (Kolfschoten et al., 2005). 3 × 200 cells were scored for β-galactosides activity.
+
+Soft Agar Assay and Tumorigenic Growth in Mice
+BJ-EHT cells were transduced to more than 80% with pMSCV-GFP-st, pRS-Hyg-p16kd, drug selected, transduced with the various miR-Vec retroviruses or pRS-Blast-p53kd, drug selected again, and transduced with pBabe-puro-RASV12. After a week, the cells were either plated in triplicates in soft agar and macroscopically visible colonies were counted after 3 weeks or 106 cells were injected subcutaneously to athymic nude mice.
+
+Cumulative Growth Advantage Assay
+BJ/ET cells were transduced with pMSCV-Blast-RASV12-ERTAM, drug selected, and transduced with miR-Vec–YFP or pRS-GFP constructs. Efficiency of transduction (starting at 20%–60%) was assessed by FACS in FL1, and cells were plated with and without 10−7 M 4-OHT-Tamoxifen. Cells were propagated, and the percentage of positive cells was measured twice a week. The relative growth advantage was calculated as described (Voorhoeve and Agami, 2003).
+
+IP-Kinase Assay and Flow Cytometry
+IP-kinase assay and flowcytometry were performed as described in (Agami and Bernards, 2000).
+
+Expression Array Analysis and Target Prediction
+Total RNA from BJ-EHT-st-p16kd-RASV12 cells either expressing a p53kd shRNA or the miR-Vec-cluster was extracted using Trizol (Invitrogen) and hybridized to an oligo microarray using a standard protocol (http://microarrays.nki.nl). The genes that decreased 2-fold or more were further screened for possible miR-372/3 target sites using a local version of the TargetScan algorithm (Lewis et al., 2003) with default parameters (http://www.mekentosj.com/targetscanner).
+
+Acknowledgments
+We thank Martijn Kedde and Hugo Horlings for technical help, Ron Kerkhoven and Mike Heimerikx for support in microarray analysis, Steve de Jong for reagents, Wigard Kloosterman for help in miRNA-in situ protocol, J. Wolter Oosterhuis for supportive work for histology, and Alexandra Pietersen for critical reading of the manuscript. This work was supported by grants from the Dutch Cancer Society to P.M.V., C.S., and R.A. and by the EURYI award to R.A.
+
+Supplemental Data
+ 
+Document S1. Seven Supplemental Figures and Three Supplemental Tables.  
+Help with PDF filesOptions
+References
+Agami and Bernards, 2000
+R. Agami, R. Bernards
+Distinct initiation and maintenance mechanisms cooperate to induce G1 cell cycle arrest in response to DNA damage
+Cell, 102 (2000), pp. 55–66
+
+Article |  PDF (579 K) | View Record in Scopus | Cited By in Scopus (234)
+Almstrup et al., 2004
+K. Almstrup, C.E. Hoei-Hansen, U. Wirkner, J. Blake, C. Schwager, W. Ansorge, J.E. Nielsen, N.E. Skakkebaek, E. Rajpert-De Meyts, H. Leffers
+Embryonic stem cell-like features of testicular carcinoma in situ revealed by genome-wide gene expression profiling
+Cancer Res., 64 (2004), pp. 4736–4743
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (151)
+Bagga et al., 2005
+S. Bagga, J. Bracht, S. Hunter, K. Massirer, J. Holtz, R. Eachus, A.E. Pasquinelli
+Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation
+Cell, 122 (2005), pp. 553–563
+
+Article |  PDF (443 K) | View Record in Scopus | Cited By in Scopus (682)
+Braig et al., 2005
+M. Braig, S. Lee, C. Loddenkemper, C. Rudolph, A.H. Peters, B. Schlegelberger, H. Stein, B. Dorken, T. Jenuwein, C.A. Schmitt
+Oncogene-induced senescence as an initial barrier in lymphoma development
+Nature, 436 (2005), pp. 660–665
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (534)
+Brummelkamp et al., 2002
+T.R. Brummelkamp, R. Bernards, R. Agami
+A system for stable expression of short interfering RNAs in mammalian cells
+Science, 296 (2002), pp. 550–553
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3341)
+Burger et al., 1998
+H. Burger, K. Nooter, A.W. Boersma, C.J. Kortland, G. Stoter
+Expression of p53, Bcl-2 and Bax in cisplatin-induced apoptosis in testicular germ cell tumour cell lines
+Br. J. Cancer, 77 (1998), pp. 1562–1567
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (53)
+Chen et al., 2004
+C.Z. Chen, L. Li, H.F. Lodish, D.P. Bartel
+MicroRNAs modulate hematopoietic lineage differentiation
+Science, 303 (2004), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1527)
+Chen et al., 2005
+Z. Chen, L.C. Trotman, D. Shaffer, H.K. Lin, Z.A. Dotan, M. Niki, J.A. Koutcher, H.I. Scher, T. Ludwig, W. Gerald et al.
+Crucial role of p53-dependent cellular senescence in suppression of Pten-deficient tumorigenesis
+Nature, 436 (2005), pp. 725–730
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (795)
+Collado et al., 2005
+M. Collado, J. Gil, A. Efeyan, C. Guerra, A.J. Schuhmacher, M. Barradas, A. Benguria, A. Zaballos, J.M. Flores, M. Barbacid et al.
+Tumour biology: senescence in premalignant tumours
+Nature, 436 (2005), p. 642
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (619)
+De Vita et al., 2005
+G. De Vita, L. Bauer, V.M. da Costa, M. De Felice, M.G. Baratta, M. De Menna, R. Di Lauro
+Dose-dependent inhibition of thyroid differentiation by RAS oncogenes
+Mol. Endocrinol., 19 (2005), pp. 76–89
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (37)
+Doench and Sharp, 2004
+J.G. Doench, P.A. Sharp
+Specificity of microRNA target selection in translational repression
+Genes Dev., 18 (2004), pp. 504–511
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (825)
+Duursma and Agami, 2005
+A. Duursma, R. Agami
+p53-Dependent regulation of Cdc6 protein stability controls cellular proliferation
+Mol. Cell. Biol., 25 (2005), pp. 6937–6947
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (36)
+el-Deiry et al., 1993
+W.S. el-Deiry, T. Tokino, V.E. Velculescu, D.B. Levy, R. Parsons, J.M. Trent, D. Lin, W.E. Mercer, K.W. Kinzler, B. Vogelstein
+WAF1, a potential mediator of p53 tumor suppression
+Cell, 75 (1993), pp. 817–825
+
+Article |  PDF (1479 K) | View Record in Scopus | Cited By in Scopus (6168)
+Forstemann et al., 2005
+K. Forstemann, Y. Tomari, T. Du, V.V. Vagin, A.M. Denli, D.P. Bratu, C. Klattenhoff, W.E. Theurkauf, P.D. Zamore
+Normal microRNA maturation and germ-line stem cell maintenance requires Loquacious, a double-stranded RNA-binding domain protein
+PLoS Biol., 3 (2005), p. e236
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (31)
+Fukasawa et al., 1996
+K. Fukasawa, T. Choi, R. Kuriyama, S. Rulong, G.F. Vande Woude
+Abnormal centrosome amplification in the absence of p53
+Science, 271 (1996), pp. 1744–1747
+
+View Record in Scopus | Cited By in Scopus (613)
+Hahn et al., 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Creation of human tumour cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1486)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Cited By in Scopus (12559)
+Hatfield et al., 2005
+S.D. Hatfield, H.R. Shcherbata, K.A. Fischer, K. Nakahara, R.W. Carthew, H. Ruohola-Baker
+Stem cell division is regulated by the microRNA pathway
+Nature, 435 (2005), pp. 974–978
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (384)
+He et al., 2005
+L. He, J.M. Thomson, M.T. Hemann, E. Hernando-Monge, D. Mu, S. Goodson, S. Powers, C. Cordon-Cardo, S.W. Lowe, G.J. Hannon, S.M. Hammond
+A microRNA polycistron as a potential human oncogene
+Nature, 435 (2005), pp. 828–833
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1774)
+John et al., 2004
+B. John, A.J. Enright, A. Aravin, T. Tuschl, C. Sander, D.S. Marks
+Human MicroRNA targets
+PLoS Biol., 2 (2004), p. e363
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1)
+Johnson et al., 2005
+S.M. Johnson, H. Grosshans, J. Shingara, M. Byrom, R. Jarvis, A. Cheng, E. Labourier, K.L. Reinert, D. Brown, F.J. Slack
+RAS is regulated by the let-7 microRNA family
+Cell, 120 (2005), pp. 635–647
+
+Article |  PDF (692 K) | View Record in Scopus | Cited By in Scopus (1822)
+Justice et al., 1995
+R.W. Justice, O. Zilian, D.F. Woods, M. Noll, P.J. Bryant
+The Drosophila tumor suppressor gene warts encodes a homolog of human myotonic dystrophy kinase and is required for the control of cell shape and proliferation
+Genes Dev., 9 (1995), pp. 534–546
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (326)
+Kersemaekers et al., 2002
+A.M. Kersemaekers, F. Mayer, M. Molier, P.C. van Weeren, J.W. Oosterhuis, C. Bokemeyer, L.H. Looijenga
+Role of P53 and MDM2 in treatment response of human germ cell tumors
+J. Clin. Oncol., 20 (2002), pp. 1551–1561
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (78)
+Kolfschoten et al., 2005
+I.G. Kolfschoten, B. van Leeuwen, K. Berns, J. Mullenders, R.L. Beijersbergen, R. Bernards, P.M. Voorhoeve, R. Agami
+A genetic screen identifies PITX1 as a suppressor of RAS activity and tumorigenicity
+Cell, 121 (2005), pp. 849–858
+
+Article |  PDF (663 K) | View Record in Scopus | Cited By in Scopus (165)
+Lewis et al., 2003
+B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge
+Prediction of mammalian microRNA targets
+Cell, 115 (2003), pp. 787–798
+
+Article |  PDF (342 K) | View Record in Scopus | Cited By in Scopus (2185)
+Lewis et al., 2005
+B.P. Lewis, C.B. Burge, D.P. Bartel
+Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets
+Cell, 120 (2005), pp. 15–20
+
+Article |  PDF (304 K) | View Record in Scopus | Cited By in Scopus (4278)
+Li et al., 2003
+Y. Li, J. Pei, H. Xia, H. Ke, H. Wang, W. Tao
+Lats2, a putative tumor suppressor, inhibits G1/S transition
+Oncogene, 22 (2003), pp. 4398–4405
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (98)
+Lim et al., 2005
+L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel, P.S. Linsley, J.M. Johnson
+Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs
+Nature, 433 (2005), pp. 769–773
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2219)
+Lu et al., 2005
+J. Lu, G. Getz, E.A. Miska, E. Alvarez-Saavedra, J. Lamb, D. Peck, A. Sweet-Cordero, B.L. Ebert, R.H. Mak, A.A. Ferrando et al.
+MicroRNA expression profiles classify human cancers
+Nature, 435 (2005), pp. 834–838
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3642)
+Lutzker and Levine, 1996
+S.G. Lutzker, A.J. Levine
+A functionally inactive p53 protein in teratocarcinoma cells is activated by either DNA damage or cellular differentiation
+Nat. Med., 2 (1996), pp. 804–810
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (177)
+Masters and Koberle, 2003
+J.R. Masters, B. Koberle
+Curing metastatic cancer: lessons from testicular germ-cell tumours
+Nat. Rev. Cancer, 3 (2003), pp. 517–525
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (113)
+Mayer et al., 2003
+F. Mayer, H. Stoop, G.L. Scheffer, R. Scheper, J.W. Oosterhuis, L.H. Looijenga, C. Bokemeyer
+Molecular determinants of treatment response in human germ cell tumors
+Clin. Cancer Res., 9 (2003), pp. 767–773
+
+View Record in Scopus | Cited By in Scopus (77)
+McPherson et al., 2004
+J.P. McPherson, L. Tamblyn, A. Elia, E. Migon, A. Shehabeldin, E. Matysiak-Zablocki, B. Lemmers, L. Salmena, A. Hakem, J. Fish et al.
+Lats2/Kpm is required for embryonic development, proliferation control and genomic integrity
+EMBO J., 23 (2004), pp. 3677–3688
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (100)
+Michaloglou et al., 2005
+C. Michaloglou, L.C. Vredeveld, M.S. Soengas, C. Denoyelle, T. Kuilman, C.M. van der Horst, D.M. Majoor, J.W. Shay, W.J. Mooi, D.S. Peeper
+BRAFE600-associated senescence-like cell cycle arrest of human naevi
+Nature, 436 (2005), pp. 720–724
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (894)
+Mostert et al., 2000
+M. Mostert, C. Rosenberg, H. Stoop, M. Schuyer, A. Timmer, W. Oosterhuis, L. Looijenga
+Comparative genomic and in situ hybridization of germ cell tumors of the infantile testis
+Lab. Invest., 80 (2000), pp. 1055–1064
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (51)
+O'Donnell et al., 2005
+K.A. O'Donnell, E.A. Wentzel, K.I. Zeller, C.V. Dang, J.T. Mendell
+c-Myc-regulated microRNAs modulate E2F1 expression
+Nature, 435 (2005), pp. 839–843
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1489)
+Oosterhuis and Looijenga, 2005
+J.W. Oosterhuis, L.H. Looijenga
+Testicular germ-cell tumours in a broader perspective
+Nat. Rev. Cancer, 5 (2005), pp. 210–222
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (390)
+Ota et al., 2004
+A. Ota, H. Tagawa, S. Karnan, S. Tsuzuki, A. Karpas, S. Kira, Y. Yoshida, M. Seto
+Identification and characterization of a novel gene, C13orf25, as a target for 13q31-q32 amplification in malignant lymphoma
+Cancer Res., 64 (2004), pp. 3087–3095
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (371)
+Pillai et al., 2005
+R.S. Pillai, S.N. Bhattacharyya, C.G. Artus, T. Zoller, N. Cougot, E. Basyuk, E. Bertrand, W. Filipowicz
+Inhibition of translational initiation by Let-7 MicroRNA in human cells
+Science, 309 (2005), pp. 1573–1576
+
+View Record in Scopus | Cited By in Scopus (751)
+Robins et al., 2005
+H. Robins, Y. Li, R.W. Padgett
+Incorporating structure to predict microRNA targets
+Proc. Natl. Acad. Sci. USA, 102 (2005), pp. 4006–4009
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (137)
+Serrano et al., 1997
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2474)
+Suh et al., 2004
+M.R. Suh, Y. Lee, J.Y. Kim, S.K. Kim, S.H. Moon, J.Y. Lee, K.Y. Cha, H.M. Chung, H.S. Yoon, S.Y. Moon et al.
+Human embryonic stem cells express a unique set of microRNAs
+Dev. Biol., 270 (2004), pp. 488–498
+
+Article |  PDF (1693 K) | View Record in Scopus | Cited By in Scopus (499)
+Takahashi et al., 2005
+Y. Takahashi, Y. Miyoshi, C. Takahata, N. Irahara, T. Taguchi, Y. Tamaki, S. Noguchi
+Down-regulation of LATS1 and LATS2 mRNA expression by promoter hypermethylation and its association with biologically aggressive phenotype in human breast cancers
+Clin. Cancer Res., 11 (2005), pp. 1380–1385
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (121)
+Tarapore and Fukasawa, 2002
+P. Tarapore, K. Fukasawa
+Loss of p53 and centrosome hyperamplification
+Oncogene, 21 (2002), pp. 6234–6240
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (109)
+Toji et al., 2004
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (79)
+Voorhoeve and Agami, 2003
+P.M. Voorhoeve, R. Agami
+The tumor-suppressive functions of the human INK4A locus
+Cancer Cell, 4 (2003), pp. 311–319
+
+Article |  PDF (473 K) | View Record in Scopus | Cited By in Scopus (133)
+Weinert, 1998
+T. Weinert
+DNA damage and checkpoint pathways: molecular anatomy and interactions with repair
+Cell, 94 (1998), pp. 555–558
+
+Article |  PDF (315 K) | View Record in Scopus | Cited By in Scopus (211)
+Westbrook et al., 2005
+T.F. Westbrook, E.S. Martin, M.R. Schlabach, Y. Leng, A.C. Liang, B. Feng, J.J. Zhao, T.M. Roberts, G. Mandel, G.J. Hannon et al.
+A genetic screen for candidate tumor suppressors identifies REST
+Cell, 121 (2005), pp. 837–848
+
+Article |  PDF (713 K) | View Record in Scopus | Cited By in Scopus (303)
+Xu et al., 1995
+T. Xu, W. Wang, S. Zhang, R.A. Stewart, W. Yu
+Identifying tumor suppressors in genetic mosaics: the Drosophila lats gene encodes a putative protein kinase
+Development, 121 (1995), pp. 1053–1063
+
+View Record in Scopus | Cited By in Scopus (318)
+Zamore and Haley, 2005
+P.D. Zamore, B. Haley
+Ribo-gnome: the big world of small RNAs
+Science, 309 (2005), pp. 1519–1524
+
+View Record in Scopus | Cited By in Scopus (718)

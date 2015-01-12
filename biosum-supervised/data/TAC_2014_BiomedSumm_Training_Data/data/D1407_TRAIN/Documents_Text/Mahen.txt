@@ -1,0 +1,623 @@
+Pattern formation in centrosome assembly
+Robert Mahen E-mail the corresponding author, Ashok R Venkitaraman E-mail the corresponding author
+  Show more
+DOI: 10.1016/j.ceb.2011.12.012
+Get rights and content
+A striking but poorly explained feature of cell division is the ability to assemble and maintain organelles not bounded by membranes, from freely diffusing components in the cytosol. This process is driven by information transfer across biological scales such that interactions at the molecular scale allow pattern formation at the scale of the organelle. One important example of such an organelle is the centrosome, which is the main microtubule organising centre in the cell. Centrosomes consist of two centrioles surrounded by a cloud of proteins termed the pericentriolar material (PCM). Profound structural and proteomic transitions occur in the centrosome during specific cell cycle stages, underlying events such as centrosome maturation during mitosis, in which the PCM increases in size and microtubule nucleating capacity. Here we use recent insights into the spatio-temporal behaviour of key regulators of centrosomal maturation, including Polo-like kinase 1, CDK5RAP2 and Aurora-A, to propose a model for the assembly and maintenance of the PCM through the mobility and local interactions of its constituent proteins. We argue that PCM structure emerges as a pattern from decentralised self-organisation through a reaction–diffusion mechanism, with or without an underlying template, rather than being assembled from a central structural template alone. Self-organisation of this kind may have broad implications for the maintenance of mitotic structures, which, like the centrosome, exist stably as supramolecular assemblies on the micron scale, based on molecular interactions at the nanometer scale.
+
+Introduction
+Cellular form and function are dependent on massive supramolecular protein assemblies, which form by the aggregation of many nanometre-scale protein components. One such organelle—the centrosome—has important roles in mitotic spindle function, asymmetric cell division and cilia formation [1]. Microtubule-based structures called centrioles form the core of the centrosome and these are surrounded by an area of dense protein matrix termed the pericentriolar material (PCM; Figure 1a). Like other mitotic structures, the centrosome is not membrane delimited, and instead its contents mix freely with the cytoplasm. Centrosomal morphology and constituents change during particular cell cycle phases, and at the onset of mitosis the PCM increases in size and microtubule nucleating capacity, a process termed centrosome maturation [2]. Defects in centrosomal structure contribute to a diverse range of human diseases including microcephaly, cancer and a group of disorders called ciliopathies, which result from defective cilia function [3].
+
+Full-size image (55 K)
+Figure 1. 
+The centrosome is a supramolecular assembly consisting of many nanometre scale protein components. (a) Cartoon schematic of a centrosome consisting of two centrioles (blue) surrounded by a region of protein termed the pericentriolar material (PCM; brown). The PCM expands in size and microtubule nucleating capacity during mitosis, a process termed maturation (represented by soft brown edges). (b) The table lists a selection of centrosomal proteins implicated in γ-tubulin accumulation during centrosome maturation; see recent reviews [1 and 2] for a comprehensive list.
+Figure options
+Here we will review recent work into how key regulators of centrosome PCM structure are temporally and spatially regulated. This leads us to suggest a dynamic model for PCM formation, wherein centrosomal components undergoing decentralised diffusion and reaction collectively cause self-organised PCM assembly. This principle of reaction–diffusion may provide a simplifying explanation for the general problem of how biological information contained in proteins on the nanometer scale can initiate and maintain the formation of aggregated structures which are orders of magnitude larger, on the micron scale.
+
+Key molecular machinery of centrosome maturation
+The PCM is thought to be a fibrous matrix, composed of coiled-coil proteins. However, its ultrastructure is far less well defined than that of centrioles, which have clearly visible morphology by electron microscopy [4], and the molecular arrangement of PCM proteins is largely unknown. Functions of the PCM include microtubule nucleation from γ-tubulin ring complexes [5], and influencing the control of centriole number [6]. The expansion in size and microtubule nucleating capacity of the PCM during mitosis is influenced by a growing list of proteins, whose depletion or inactivation has been shown to interfere with centrosome maturation (Figure 1b). Since insights have come from different model organisms, and the proteins involved in general have many conserved functions [1], we will refer interchangeably to protein homologues from different species throughout the review. A common theme amongst papers describing these proteins is that they are hypothesised to form specific interactions within the PCM which anchor other factors. For example NEDD1 is a component of the γ-tubulin ring complex which is thought to interact directly with γ-tubulin to allow its anchoring at the centrosome [7, 8 and 9].
+
+Drosophila Cnn (or its mammalian orthologue, CDK5RAP2) and the mitotic serine/threonine kinases Polo-like kinase 1 (PLK1) and Aurora-A (reviewed in [ 2 and 10]) play a central role in PCM maturation. CDK5RAP2/Cnn is a component of the PCM which is required for the normal recruitment of many other PCM factors, including γ-tubulin, with which it interacts via its amino-terminus [ 11, 12 and 13], and pericentrin with which it interacts via its carboxyl-terminus [ 14 and 15]. The importance of CDK5RAP2/Cnn to centrosome maturation is underscored by its identification in a whole genome siRNA screen in Drosophila as one of only two factors whose depletion is able to completely prevent maturation [ 16]; the other being Polo (PLK1 in mammalian cells). Indeed, PLK1 inactivation in a range of different genetic and chemical systems has consistently established that PLK1 kinase activity is required for the normal localisation of many other PCM components [ 2], including hSPD-2 (also known as CEP192), pericentrin, CDK5RAP2/Cnn, and NEDD1 [ 16 and 17]. The exact mechanisms allowing PLK1 recruitment to the centrosome in mammalian cells are still unclear, but in Caenorhabditis elegans at least, SPD-2 may be a key upstream binding partner [ 18••]. Two recent papers have shown a link between cell cycle progression and centrosome maturation; CDK1 is able to create binding sites for the phospho-binding domain of PLK1 on both the mother centriole component hCenexin1, and NEDD1 [ 19 and 20]. PLK1 activity during mitosis may modify centrosomes significantly before the time of their maturation, by licensing daughter centrioles to form PCM in the following interphase of the cell cycle [ 21••]. However, the molecular targets of PLK1 which regulate this process remain to be determined. Similarly to PLK1, Aurora-A activity is required for the enrichment or localisation of multiple centrosomal factors which have roles in maturation, including LATS2 [ 22] and CDK5RAP2/Cnn [ 23] (see [ 10] for a review). Aurora-A is thought to be targeted and activated at centrosomes by multiple mechanisms, including binding to hSPD-2 [ 24], Drosophila Ajuba [ 25] and Arcp1b [ 26].
+
+Overall, the considerations summarised above suggest firstly that the enrichment of a core module of proteins is necessary for PCM assembly and maturation, and secondly that protein phosphorylation by the mitotic kinases PLK1 and Aurora-A has an important role in promoting this recruitment [2].
+
+Mechanisms of recruitment and turnover of centrosomal PCM proteins
+Given that centrosome maturation is enacted by the enrichment of numerous factors into the organelle, how are these proteins assembled therein? One mechanism of transport to and from the centrosome is along the microtubules which emanate from it (Figure 2ai; [27 and 28]). Dynein motors transport non-membrane bound aggregations of some centrosomal proteins (‘satellites’), including PCM-1, OFD1 and BBS4, and are required for normal centrosomal targeting of pericentrin [29 and 30], and possibly CDK5RAP2/Cnn [31].
+
+Full-size image (75 K)
+Figure 2. 
+Mechanisms of recruitment and turnover of centrosomal proteins. (ai) Aggregations of proteins including PCM-1 (‘satellites’) are transported along microtubules to the centrosome using the motor protein dynein. (aii) Cytosolic proteins may exist in a diffusible pool and stochastically encounter the centrosome through Brownian motion. A protein in the cytoplasmic pool may be contained in heterogeneous complexes. (aiii, aiv) Some centrosomal factors undergo continuous exchange at the centrosome. The rate of turnover may be dependent on reactivity, as interactions transiently retain them within the centrosome, and diffusivity, both in the cytoplasm and PCM. (av) Other PCM proteins may be more stably associated and not exchange over a timescale of seconds or minutes. (b) The table shows the steady state behaviour of selected centrosomal factors measured by fluorescence recovery after photobleaching (FRAP).
+Figure options
+Moreover, because the centrosome is not enclosed by a lipid membrane, cytoplasmic proteins are also able to freely to assemble in it through diffusion (Figure 2aii and aiii). Indeed, a range of centrosomal factors including PLK1 [32 and 33], Aurora-A [34] and CDK5RAP2/Cnn [35••] have been shown to rapidly exchange between the centrosome and cytoplasm in living cells by fluorescence recovery after photobleaching (FRAP), with half maximal recovery times in the order of seconds (Figure 2b). This suggests that dynamically diffusing pools of protein in the cytoplasm stochastically collide with the centrosome, and then reside there for a period of time whose duration may depend on protein-protein interactions within the organelle (Figure 2aiii–v).
+
+A pulsed-SILAC labelling approach [36•] reveals the turnover of the entire proteomic complement of the centrosome over a 20 h period. Centrosomal proteins exhibit a range of turnover rates, with PLK1, Aurora-A and CDK5RAP2 showing close to 100% exchange in 20 h, in contrast to other components such as γ-TuRC subunits, which had <40% turnover in the same period. The class of centrosomal proteins showing a high exchange rate (>75% in 20 h) was enriched in protein kinases. As yet, biochemical analyses and live cell imaging have not been closely correlated in parallel. Despite this caveat, however, available data suggest a model wherein certain PCM factors are steady-state residents based on low affinity interactions, whereas others exist in more stably associated structures, a notion that is supported by the observation that some PCM factors are resistant to harsh salt stripping, whilst others are not [37].
+
+Template-based PCM organisation
+How, then, might information transfer across biological scales explain the assembly and maintenance of the supramolecular structure of the PCM from its dynamic protein components? Recent proteomic studies [36• and 38] have confirmed earlier work [39], by showing that the centrosome harbours >100 different protein species. The total number of proteins within each centrosome is unknown but is probably in the thousands, and it is a challenge to understand how these molecules can robustly assemble into a single complex structure whose function emerges from the collective properties of the system. For instance, what determines the overall shape and size of the PCM when it is an order of magnitude larger than its constituent parts? Here we consider two different hypothetical models for PCM assembly, which we refer to as ‘template-based’ or ‘self-organised’.
+
+Centrioles are located inside the PCM cloud and their assembly in general precedes that of the PCM, so one possibility (the template-based model) is that the centrioles provide a template in the form of spatially arranged binding sites from which the PCM is built outwards (Figure 3a). Indeed, it is clear that centrioles have a role in organising the PCM: perturbations thought to specifically target centrioles have also been shown to result in PCM disassembly [40 and 41]. Furthermore, mother and daughter centrioles organise PCM to a different extent [21•• and 42].
+
+Full-size image (73 K)
+Figure 3. 
+‘Template-based’ and ‘self-organised’ hypothetical models of PCM organisation. (a) Template-based: the centrioles may provide binding sites for specific PCM factors such as Asl, Cnn or SAS-4 (represented by jigsaw pieces), which are then able to assemble further PCM components analogous to a jigsaw. PCM shape and size would consequently be determined by the arrangement of binding sites and the geometry of constituent proteins (red dashed line). (b) Self-organised: the combined reaction–diffusion behaviour of PCM components acting at the local level (represented by the red dashed line) may result in self-organised structure formation at the level of the whole organelle (brown dashed line). (c) Nucleated stigmergy: a central template such as the centrioles or PCM matrix may provide a nucleation site around which dynamic components such as PLK1 and Aurora-A assemble, with mutual dependence between the current state of the structure and the behaviour of the components.
+Figure options
+SAS-4 is a core centriolar and PCM protein which becomes stably associated during mitosis and whose levels have been shown to affect both centriole and PCM size [42, 43• and 44]. Although it is not known exactly how SAS-4 mediates this effect, it has recently been found in conserved complexes also containing CDK5RAP2/Cnn and Asterless (Asl)/CEP-152 [45•, 46•• and 47••]. Whereas recombinant SAS-4 can bind to centrosomes stripped of PCM by high salt treatment, CDK5RAP2/Cnn or Asl cannot, suggesting that SAS-4 might act as a scaffold to assemble other PCM components within the centrosome. Similarly, the centriole component Asl is a good candidate for providing a template for PCM formation, since it is required for the normal maintenance of the PCM [48], and binds PLK4 and SAS-4 at its amino and carboxyl-termini respectively [46•• and 47••]. Strikingly, expression of a PLK4-binding mutant of Asl leads to MTOCs which are devoid of centrioles at their core [47••], implying that Asl could structurally link centrioles and the PCM. CDK5RAP2/Cnn has also been suggested as a link between centrioles and the PCM; in Cnn or CDK5RAP2 null cells the two structures partially detach from each other, and Cnn is known to attach to many PCM components [13, 49 and 50]. SPD-2/CEP192 has also been implicated in both centriolar duplication and PCM recruitment during maturation [51, 52 and 53], and elevated levels of SPD-2 in C. elegans result in larger centrosomes with increased growth kinetics [ 18••]. Most of these key regulators of centrosomal structure are involved in both centriole and PCM biogenesis, highlighting the close relationship between the two structures, and providing evidence that the centrioles could serve as a template for PCM assembly.
+
+However, one difficulty of a template-based model (Figure 3a), is that some positional information must be encoded within PCM proteins relative to the whole structure. This is analogous to the problem of how a single cell can know its position within a tissue or organism: unique pairwise interactions between cells (or in this case, between PCM proteins) are unlikely. In whole organisms, diffusible factors called morphogens, emitted from a source, give positional information based on concentration [54]. Gradients of protein activity have been observed around mitotic structures such as the spindle midzone [55], and also within the spindle emanating from the centrosomes (discussed further below in the section entitled Self-organised and stigmergic PCM assembly). However, no gradient of activity of centrosomal factors has thus far been reported to set the size of the PCM itself. Elegant recent work in C. elegans embryos has suggested that a far simpler mechanism may in fact limit centrosome size and may also provide a solution to the positional information problem [ 18••]. Centrosome size was observed to scale with cell size, and could also be altered by changing the levels of SPD-2. Therefore, an alternative and simpler mechanism underlying the potential template function of centrioles is that PCM components accumulate around them until rate-limiting components such as SPD-2 run out, at which point no more PCM expansion can occur. It has recently become clear that regulating the levels of centrosomal factors through degradation is crucial for control of centriole biogenesis; PP2A counteracts PLK4 autophosphorylation to prevent its proteasome-mediated degradation during mitosis [ 56 and 57]. Whether similar degradational mechanisms also control PCM structure is less clear at this time, but remains possible, considering that protein phosphatase PP2A appears to be required for maturation in flies [ 16].
+
+Thus, the centrioles might exert a dominant guiding influence on PCM structure in a template-based model, with the nature of the interactions between PCM proteins determining their position. A conceptually similar principle may be applicable to centriole biogenesis, rather than the PCM. SAS-6, a component of the core centriole biogenesis machinery, can oligomerise in vitro into a nine-fold symmetrical cartwheel structure similar to that seen in the centriole in vivo [ 58•• and 59••], and co-overexpression of SAS6 and Ana2 causes tubules resembling the cartwheel in Drosophila spermatocytes [ 60]. This is compelling evidence that at least the structure of this part of the centriole results primarily from the geometry of a single protein. Similarly, elegant cryo-electron microscopy structural studies have shown that γ-tubulin containing complexes are able to promote microtubule nucleation by forming a platform of the correct shape, onto which microtubule subunits can assemble [ 61]. Centriole assembly is mediated by a conserved pathway of essential factors governing a stepwise assembly process, coordinated in part by post-translational modifications (reviewed in [ 62]). Exciting recent work has demonstrated how PLK4 is upstream of SAS-5 and SAS-6, and SAS-5 assembly at the centrosome is promoted by dephosphorylation through PP2A [ 47••, 63 and 64]. It is not clear at present whether such a sequential enrichment and hierarchy of core factors also governs PCM assembly or maturation however, and it is still possible that it is controlled by a distributed network (see section entitled Key molecular machinery of centrosome maturation).
+
+Although the considerations in this section suggest that the centrioles exert an influence over PCM structure and morphology, consistent with a template-based model (Figure 3a), there are serious gaps in our understanding of how exactly how such a model might work. Recent super-resolution imaging of the PCM proteins SAS-4, Asl and CEP-63 shows that they form a toroid shape around centrioles [45• and 65], hinting at a regular ultrastructure connecting the PCM-centriole interface. However, the existence and exact identity of a direct physical linkage between the centrioles and the PCM remains unclear. Pairwise interactions between important PCM proteins have been partially elucidated, but whether PCM assembly as a whole constitutes a stepwise assembly process (Figure 3) similar to centriole biogenesis [62] is unclear. Given these points, the notion that the overall shape and size of the PCM is constructed from spatially arranged binding sites, or from the geometry of its protein constituents warrants further investigation.
+
+Self-organised and stigmergic PCM assembly
+There is, however, another major gap in current evidence supporting a template-based model for PCM assembly. If centrioles do create a template for PCM formation then one central prediction is that the PCM should not form in the absence of the template. However, the overexpression of various PCM components, such as hSPD-2/CEP192 [66], hCenexin1 [20], CDK5RAP2 [13] and Cnn [23] causes the formation of multiple extracentriolar foci which are able to nucleate microtubules. Similarly, expression of a PLK4 binding mutant of Asl or SAS-4, causes the formation of acentriolar structures reminiscent of PCM by both electron and fluorescence microscopy [47•• and 67]. Although there are tight controls which restrict centrosome biogenesis in normal cell cycles [1], whole centrosomes can form de novo in certain circumstances [ 68], suggesting that the presence of another centrosome is not strictly necessary for building the entire organelle. Furthermore, after laser ablation of centrosomes in S phase arrested cells, de novo centrosome assembly precedes by the formation of a cloud of PCM before centrioles appear [ 69]. These considerations argue that PCM assembly is not templated by centrioles.
+
+An alternative but less well explored model of PCM formation posits that it self-organises from the combined reaction–diffusion properties of its constituents (Figure 3b). In contrast to a template-based model of pattern formation, in which the pattern is determined based on the template or scaffold, in a self-organisation model the global pattern might arise internally in the system from the dynamic decentralised interactions of the agents. The dynamic steady-state nature of many PCM proteins (see Figure 2 and the section entitled Mechanisms of recruitment and turnover of centrosomal PCM proteins) is consistent with self-organisation. For example, Cnn shows rapid exchange dynamics in living Drosophila cells and its rate of exchange is highest in the PCM immediately adjacent to the centrioles rather than at the exterior of the PCM [ 35••]. Dynamic behaviour of this nature is difficult to reconcile with a template-based model wherein the position of spatially arranged binding sites promotes PCM assembly.
+
+Recruitment from a diffusible pool is a common feature of many organelles in the nucleus, which like the centrosome are not membrane delimited, and intriguingly, is hypothesised to be a significant determinant of function and structure [70] (see Box 1a). Indeed, the steady state turnover of both Cnn and PLK1 at the centrosome has been shown to correlate with PCM size [33, 35•• and 71••]. This suggests that by PCM structure can be dynamically maintained by modulating the rate of exchange of key proteins [35••]. Although Brownian diffusion can itself be a key pattern forming parameter in both biological and physical systems (see Box1b), the motion of centrosomal proteins in the cytoplasm is almost entirely unstudied. There is evidence that cytoplasmic proteins may be able to pass through the PCM relatively unhindered in certain cases (Figure 2d and Box 1d), as an inert tracer, mCherry, is freely mobile within the PCM [33]. Similarly in living Drosophila cells cytoplasmic Cnn diffuses through the PCM to its core, binding there before the exterior [ 35••]. Therefore, molecular crowding in vivo does not appear to impede the access of cytoplasmic proteins to the centrosome, and this is consistent with data suggesting that nuclear organelles may be relatively porous in this regard [ 72].
+
+Hypothetical models of reaction and diffusion driven pattern formation in the centrosome PCM. (a) and (b) The size of non-membrane bound steady-state structures inside the cell (shown by the dashed lines) has been hypothesised to be related to the rate of exchange of constituent proteins [70 and 75]. Increased flux into an organelle might increase its size (green lines), and decreased flux into an organelle might decrease size. Two factors controlling the rate of exchange may be the rate of association with the organelle from a cytoplasmic pool (i) and the duration of the interactions within the structure (ii). (b) Brownian motion has been shown to be a key pattern forming parameter in both physical and biological systems undergoing a process called diffusion limited aggregation (DLA) [82]. (i) Particles (black dots) adhering to a uniform surface initially do so randomly. (ii) As each particle takes a circuitous route by diffusion (red dashed line), it is more likely to bind to the accumulating structure, before reaching the original surface. Blue arrows show the average flow of particles. (c) In a long-range inhibition—short-range activation mechanism of self-organisation, an activator (black dot) stimulates production of both itself and its own inhibitor (blue dot) [77 and 80]. Such a scheme creates spatial patterns from initially random heterogeneities. (d) Rather than occupying distinct positions, PCM proteins may continually move (denoted by blue arrows), similar to the molecules in a liquid. (e) Centrosomal complexes may preassemble in the cytoplasm (i) or assembly stochastically on site (ii).
+
+Full-size image (33 K)
+Figure options
+Self-organising models of spindle formation have been proposed [73], and a gradient of TPXL-1, the protein responsible for targeting and activating Aurora-A, has been shown to emanate from centrosomes to regulate spindle length [43•]. In this case, the gradient of TPXL-1 may be related to both its diffusion coefficient and detachment rate from the centrosome, illustrating how a reaction–diffusion mechanism involving centrosomes may play a role in spindle length control.
+
+In a self-organised model of PCM assembly, organelle morphology would emerge as a collective property of the system, and not from the individual shape or function of a single protein. Consistent with this, although there are >100 different proteins within the centrosome [39], very few are actually essential for centrosome maturation and centriole biogenesis (reviewed in [2, 16 and 62]). This suggests that all centrosomal proteins are ‘structural’ constituents that may contribute to the overall morphology, no matter how transiently they reside within it. Even Aurora-A, which might be expected to fulfil a regulatory role through very transient phospho-transfer enzymatic reactions, has recently been found to have kinase independent functions [74].
+
+Self-organisation models of cellular organisation are difficult to test experimentally if they state that structure and function cannot be separated [75]. Positive and negative feedback loops, such as local amplification—long-range inhibition (Box 1c) [76 and 77] are the basis of many self-organising systems. Is there any evidence to suggest such properties within the PCM? A positive feedback loop may exist between Aurora-A activity and its centrosomal recruitment, because binding to hSPD-2 at the centrosome may facilitate further recruitment [24]. Similarly, at kinetochores it is known that PLK1 kinase activity creates binding sites for further PLK1 recruitment, in a cooperative feed forward mechanism between kinase activity and binding [78]. Such a mechanism is also feasible at the centrosome, particularly since PLK1 and Aurora-A are cooperative [79].
+
+Moreover, we recently showed that PLK1 mobility is markedly slowed at the centrosome in comparison to the cytoplasm, apparently due to repetitive transient interactions in a structure which is much larger than the individual protein components [33]. Such a disparity in the diffusional mobilities of system components has been shown to provide the basis for self-organisation [80], and may provide a feedback loop between reactivity and localisation. Indeed, the existence of putative feedback loops, both positive and negative, is not only consistent with self-organisation, but may in the future suggest avenues to stringently test the model. In particular, the self-organisation model predicts that the removal or rewiring of dynamic feedback loops will impinge upon PCM structure. For example, it might prove interesting in future work to interfere with PLK1 ‘self-priming’ of its own binding sites, thereby perturbing a feedback loop without removing key molecular interactions at the centrosome [78], although the inherent technical challenges should not be overlooked.
+
+There may be elements of truth in both the template-based and self-organisation models, since parts of the PCM seem to form a stable core matrix, whilst others associate in a steady-state fashion. We therefore suggest a combined model that might reconcile these observations (Figure 3c), wherein the more dynamic elements of the PCM are nucleated from an initial template. A crucial aspect of this model is the principle of stigmergy [81], which postulates that feedback between the existing structure and the dynamic parts triggers new behaviours in both (Figure 3c). The PCM could then assemble dynamically, as discussed above, wherein the function and form of the organelle are interdependent. One direction for future work based on this model might be to test whether perturbations to the current state of the structure also affect the behaviour of system components, in contrast to a templated model in which the information flow is largely unidirectional, from the template to the parts. Thus, overall we believe that such a combined model will better explain the available data than less integrative views of centrosome PCM assembly, and point to interesting new avenues for future work.
+
+Conclusion
+How is the emergent form and function of centrosomal PCM robustly created in time and space? A common theme amongst recent work delineating both centriole and PCM assembly, is that key constituents are carefully regulated both temporally and spatially by recruitment to the centrosome from a diffusible pool. Future work will surely uncover further multitudinous interactions between PCM components, regulated by post-translational modifications governed by enzymatic activity. We suggest that exciting insights may also be possible by determining how these processes interplay with molecular mobility. This principle of reaction–diffusion may provide a simplifying model explaining how many centrosomal proteins combine to create the complex supramolecular structure of centrosomal PCM, in such a way that its functions emerge from the properties and interactions of its components as a whole, rather than from the discrete roles of specific proteins alone.
+
+References and recommended reading
+Papers of particular interest, published within the period of review, have been highlighted as:
+
+• of special interest
+•• of outstanding interest
+Acknowledgements
+The authors apologise for many articles which were not discussed owing to space limitations. RM received a Wellcome Trust PhD studentship. Work in ARV's laboratory is funded by the Medical Research Council.
+
+References
+1
+M. Bettencourt-Dias, D.M. Glover
+Centrosome biogenesis and function: centrosomics brings new understanding
+Nat Rev Mol Cell Biol, 8 (2007), pp. 451–463
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (214)
+2
+S.P. Blagden, D.M. Glover
+Polar expeditions—provisioning the centrosome for mitosis
+Nat Cell Biol, 5 (2003), pp. 505–511
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (99)
+3
+E.A. Nigg, J.W. Raff
+Centrioles, centrosomes, and cilia in health and disease
+Cell, 139 (2009), pp. 663–678
+
+Article |  PDF (1987 K) | View Record in Scopus | Citing articles (224)
+4
+L. Pelletier, E. O’Toole, A. Schwager, A.A. Hyman, T. Muller-Reichert
+Centriole assembly in Caenorhabditis elegans
+Nature, 444 (2006), pp. 619–623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (161)
+5
+B. Raynaud-Messina, A. Merdes
+Gamma-tubulin complexes and microtubule organization
+Curr Opin Cell Biol, 19 (2007), pp. 24–30
+
+Article |  PDF (484 K) | View Record in Scopus | Citing articles (94)
+6
+J. Loncarek, P. Hergert, V. Magidson, A. Khodjakov
+Control of daughter centriole formation by the pericentriolar material
+Nat Cell Biol, 10 (2008), pp. 322–328
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (79)
+7
+J. Luders, U.K. Patel, T. Stearns
+GCP-WD is a gamma-tubulin targeting factor required for centrosomal and chromatin-mediated microtubule nucleation
+Nat Cell Biol, 8 (2006), pp. 137–147
+
+View Record in Scopus | Citing articles (128)
+8
+J.A. Manning, S. Shalini, J.M. Risk, C.L. Day, S. Kumar
+A direct interaction with NEDD1 regulates gamma-tubulin recruitment to the centrosome
+PLoS ONE, 5 (2010), p. e9618
+
+Full Text via CrossRef
+9
+L. Haren, M.H. Remy, I. Bazin, I. Callebaut, M. Wright, A. Merdes
+NEDD1-dependent recruitment of the gamma-tubulin ring complex to the centrosome is necessary for centriole duplication and spindle assembly
+J Cell Biol, 172 (2006), pp. 505–515
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (116)
+10
+A.R. Barr, F. Gergely
+Aurora-A: the maker and breaker of spindle poles
+J Cell Sci, 120 (2007), pp. 2987–2996
+
+View Record in Scopus | Citing articles (169)
+11
+T.L. Megraw, K. Li, L.R. Kao, T.C. Kaufman
+The centrosomin protein is required for centrosome assembly and function during cleavage in Drosophila
+Development, 126 (1999), pp. 2829–2839
+
+View Record in Scopus | Citing articles (121)
+12
+Y.K. Choi, P. Liu, S.K. Sze, C. Dai, R.Z. Qi
+CDK5RAP2 stimulates microtubule nucleation by the gamma-tubulin ring complex
+J Cell Biol, 191 (2010), pp. 1089–1095
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+13
+K.W. Fong, Y.K. Choi, J.B. Rattner, R.Z. Qi
+CDK5RAP2 is a pericentriolar protein that functions in centrosomal attachment of the gamma-tubulin ring complex
+Mol Biol Cell, 19 (2008), pp. 115–125
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+14
+J.J. Buchman, H.C. Tseng, Y. Zhou, C.L. Frank, Z. Xie, L.H. Tsai
+Cdk5rap2 interacts with pericentrin to maintain the neural progenitor pool in the developing neocortex
+Neuron, 66 (2010), pp. 386–402
+
+Article |  PDF (4383 K) | View Record in Scopus | Citing articles (39)
+15
+Z. Wang, T. Wu, L. Shi, L. Zhang, W. Zheng, J.Y. Qu, R. Niu, R.Z. Qi
+Conserved motif of CDK5RAP2 mediates its localization to centrosomes and the Golgi complex
+J Biol Chem, 285 (2010), pp. 22658–22665
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+16
+J. Dobbelaere, F. Josue, S. Suijkerbuijk, B. Baum, N. Tapon, J. Raff
+A genome-wide RNAi screen to dissect centriole duplication and centrosome maturation in Drosophila
+PLoS Biol, 6 (2008), p. e224
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2)
+17
+L. Haren, T. Stearns, J. Luders
+Plk1-dependent recruitment of gamma-tubulin complexes to mitotic centrosomes involves multiple PCM components
+PLoS ONE, 4 (2009), p. e5976
+
+Full Text via CrossRef
+18••
+M. Decker, S. Jaensch, A. Pozniakovsky, A. Zinke, K.F. O’Connell, W. Zachariae, E. Myers, A.A. Hyman
+Limiting amounts of centrosome material set centrosome size in C. elegans embryos
+Curr Biol, 21 (2011), pp. 1259–1267
+
+Article |  PDF (1333 K) | View Record in Scopus | Citing articles (21)
+18••
+The authors use automated tracking and analysis of centrosomes in C. elegans to show that centrosomal size scales with cell size and propose a limiting component model, hypothesising that total amounts of SPD-2 might limit centrosomal growth.
+
+19
+X. Zhang, Q. Chen, J. Feng, J. Hou, F. Yang, J. Liu, Q. Jiang, C. Zhang
+Sequential phosphorylation of Nedd1 by Cdk1 and Plk1 is required for targeting of the gammaTuRC to the centrosome
+J Cell Sci, 122 (2009), pp. 2240–2251
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+20
+N.K. Soung, J.E. Park, L.R. Yu, K.H. Lee, J.M. Lee, J.K. Bang, T.D. Veenstra, K. Rhee, K.S. Lee
+Plk1-dependent and -independent roles of an ODF2 splice variant, hCenexin1, at the centrosome of somatic cells
+Dev Cell, 16 (2009), pp. 539–550
+
+Article |  PDF (2003 K) | View Record in Scopus | Citing articles (29)
+21••
+W.J. Wang, R.K. Soni, K. Uryu, M.F. Tsou
+The conversion of centrioles to centrosomes: essential coupling of duplication with segregation
+J Cell Biol, 193 (2011), pp. 727–739
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+21••
+This paper shows that PLK1 dependent modification of centrioles during mitosis licenses them to recruit PCM in the next cell cycle, suggesting a mechanism via which centriole duplication and segregation are coupled.
+
+22
+S. Toji, N. Yabuta, T. Hosomi, S. Nishihara, T. Kobayashi, S. Suzuki, K. Tamai, H. Nojima
+The centrosomal protein Lats2 is a phosphorylation target of Aurora-A kinase
+Genes Cells, 9 (2004), pp. 383–397
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (80)
+23
+Y. Terada, Y. Uetake, R. Kuriyama
+Interaction of Aurora-A and centrosomin at the microtubule-nucleating site in Drosophila and mammalian cells
+J Cell Biol, 162 (2003), pp. 757–763
+
+View Record in Scopus | Citing articles (81)
+24
+V. Joukov, A. De Nicolo, A. Rodriguez, J.C. Walter, D.M. Livingston
+Centrosomal protein of 192 kDa (Cep192) promotes centrosome-driven spindle assembly by engaging in organelle-specific Aurora A activation
+Proc Natl Acad Sci USA, 107 (2010), pp. 21022–21027
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+25
+D. Sabino, N.H. Brown, R. Basto
+Drosophila Ajuba is not an Aurora-A activator but is required to maintain Aurora-A at the centrosome
+J Cell Sci, 124 (2011), pp. 1156–1166
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (8)
+26
+P.R. Molli, D.Q. Li, R. Bagheri-Yarmand, S.B. Pakala, H. Katayama, S. Sen, J. Iyer, J. Chernoff, M.Y. Tsai, S.S. Nair et al.
+Arpc1b, a centrosomal protein, is both an activator and substrate of Aurora A
+J Cell Biol, 190 (2010), pp. 101–114
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+27
+W. Zimmerman, S.J. Doxsey
+Construction of centrosomes and spindle poles by molecular motor-driven assembly of protein particles
+Traffic, 1 (2000), pp. 927–934
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+28
+A. Young, J.B. Dictenberg, A. Purohit, R. Tuft, S.J. Doxsey
+Cytoplasmic dynein-mediated assembly of pericentrin and gamma tubulin onto centrosomes
+Mol Biol Cell, 11 (2000), pp. 2047–2056
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (142)
+29
+A. Dammermann, A. Merdes
+Assembly of centrosomal proteins and microtubule organization depends on PCM-1
+J Cell Biol, 159 (2002), pp. 255–266
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (200)
+30
+C.A. Lopes, S.L. Prosser, L. Romio, R.A. Hirst, C. O’Callaghan, A.S. Woolf, A.M. Fry
+Centriolar satellites are assembly points for proteins implicated in human ciliopathies, including oral-facial-digital syndrome 1
+J Cell Sci, 124 (2011), pp. 600–612
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+31
+S. Lee, K. Rhee
+CEP215 is involved in the dynein-dependent accumulation of pericentriolar matrix proteins for spindle pole formation
+Cell Cycle, 9 (2010), pp. 774–783
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (9)
+32
+K. Kishi, M.A. van Vugt, K. Okamoto, Y. Hayashi, M.B. Yaffe
+Functional dynamics of Polo-like kinase 1 at the centrosome
+Mol Cell Biol, 29 (2009), pp. 3134–3150
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+33
+R. Mahen, A.D. Jeyasekharan, N.P. Barry, A.R. Venkitaraman
+Continuous polo-like kinase 1 activity regulates diffusion to maintain centrosome self-organization during mitosis
+Proc Natl Acad Sci USA, 108 (2011), pp. 9310–9315
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4)
+34
+D.L. Stenoien, S. Sen, M.A. Mancini, B.R. Brinkley
+Dynamic association of a tumor amplified kinase, Aurora-A, with the centrosome and mitotic spindle
+Cell Motil Cytoskeleton, 55 (2003), pp. 134–146
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+35••
+P.T. Conduit, K. Brunk, J. Dobbelaere, C.I. Dix, E.P. Lucas, J.W. Raff
+Centrioles regulate centrosome size by controlling the rate of Cnn incorporation into the PCM
+Curr Biol, 20 (2010), pp. 2178–2186
+
+Article |  PDF (1407 K) | View Record in Scopus | Citing articles (36)
+35••
+Combined with Ref. [71••], the authors use fluorescence recovery after photobleaching (FRAP) to show that Cnn incorporates into the PCM closest to the centrioles before spreading outwards, and propose that the rate of Cnn incorporation controls centrosome size.
+
+36•
+L. Jakobsen, K. Vanselow, M. Skogs, Y. Toyoda, E. Lundberg, I. Poser, L.G. Falkenby, M. Bennetzen, J. Westendorf, E.A. Nigg et al.
+Novel asymmetrically localizing components of human centrosomes identified by complementary proteomics methods
+EMBO J, 30 (2011), pp. 1520–1535
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+36•
+This report examines the proteomic composition of the centrosome using mass spectrometry, including a profile of the turnover of centrosomal proteins over a 20 h period.
+
+37
+R.E. Palazzo, J.M. Vogel, B.J. Schnackenberg, D.R. Hull, X. Wu
+Centrosome maturation
+Curr Top Dev Biol, 49 (2000), pp. 449–470
+
+38
+H. Muller, D. Schmidt, S. Steinbrink, E. Mirgorodskaya, V. Lehmann, K. Habermann, F. Dreher, N. Gustavsson, T. Kessler, H. Lehrach et al.
+Proteomic and functional analysis of the mitotic Drosophila centrosome
+EMBO J, 29 (2010), pp. 3344–3357
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (24)
+39
+J.S. Andersen, C.J. Wilkinson, T. Mayor, P. Mortensen, E.A. Nigg, M. Mann
+Proteomic characterization of the human centrosome by protein correlation profiling
+Nature, 426 (2003), pp. 570–574
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (664)
+40
+R. Basto, J. Lau, T. Vinogradova, A. Gardiol, C.G. Woods, A. Khodjakov, J.W. Raff
+Flies without centrioles
+Cell, 125 (2006), pp. 1375–1386
+
+Article |  PDF (834 K) | View Record in Scopus | Citing articles (271)
+41
+Y. Bobinnec, A. Khodjakov, L.M. Mir, C.L. Rieder, B. Edde, M. Bornens
+Centriole disassembly in vivo and its effect on centrosome structure and function in vertebrate cells
+J Cell Biol, 143 (1998), pp. 1575–1589
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (213)
+42
+M. Kirkham, T. Muller-Reichert, K. Oegema, S. Grill, A.A. Hyman
+SAS-4 is a C. elegans centriolar protein that controls centrosome size
+Cell, 112 (2003), pp. 575–587
+
+Article |  PDF (860 K) | View Record in Scopus | Citing articles (137)
+43•
+G. Greenan, C.P. Brangwynne, S. Jaensch, J. Gharakhani, F. Julicher, A.A. Hyman
+Centrosome size sets mitotic spindle length in Caenorhabditis elegans embryos
+Curr Biol, 20 (2010), pp. 353–358
+
+Article |  PDF (541 K) | View Record in Scopus | Citing articles (32)
+43•
+The authors show that spindle length correlates with centrosome size, possibly owing to control of a TPXL-1 gradient.
+
+44
+A. Dammermann, P.S. Maddox, A. Desai, K. Oegema
+SAS-4 is recruited to a dynamic structure in newly forming centrioles that is stabilised by the gamma-tubulin-mediated addition of centriolar microtubules
+J Cell Biol, 180 (2008), pp. 771–785
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (69)
+45•
+J. Gopalakrishnan, V. Mennella, S. Blachon, B. Zhai, A.H. Smith, T.L. Megraw, D. Nicastro, S.P. Gygi, D.A. Agard, T. Avidor-Reiss
+Sas-4 provides a scaffold for cytoplasmic complexes and tethers them in a centrosome
+Nat Commun, 2 (2011), p. 359
+
+Full Text via CrossRef
+45•
+SAS-4 binds Asl, Cnn, D-PLP and CP-190 in the cytoplasm and allows these factors to bind salt stripped centrosomes.
+
+46••
+O. Cizmecioglu, M. Arnold, R. Bahtz, F. Settele, L. Ehret, U. Haselmann-Weiss, C. Antony, I. Hoffmann
+Cep152 acts as a scaffold for recruitment of Plk4 and CPAP to the centrosome
+J Cell Biol, 191 (2010), pp. 731–739
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+46••
+See Ref. [47••].
+
+47••
+N.S. Dzhindzhev, Q.D. Yu, K. Weiskopf, G. Tzolovsky, I. Cunha-Ferreira, M. Riparbelli, A. Rodrigues-Martins, M. Bettencourt-Dias, G. Callaini, D.M. Glover
+Asterless is a scaffold for the onset of centriole assembly
+Nature, 467 (2010), pp. 714–718
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+47••
+Papers [46••] and [47••] identify Asterless/CEP-152 as a component of centriole biogenesis which is upstream of PLK4, providing a platform onto which both PLK4 and SAS4 can bind.
+
+48
+H. Varmark, S. Llamazares, E. Rebollo, B. Lange, J. Reina, H. Schwarz, C. Gonzalez
+Asterless is a centriolar protein required for centrosome function and embryo development in Drosophila
+Curr Biol, 17 (2007), pp. 1735–1745
+
+Article |  PDF (1626 K) | View Record in Scopus | Citing articles (49)
+49
+A.R. Barr, J.V. Kilmartin, F. Gergely
+CDK5RAP2 functions in centrosome to spindle pole attachment and DNA damage response
+J Cell Biol, 189 (2010), pp. 23–39
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+50
+E.P. Lucas, J.W. Raff
+Maintaining the proper connection between the centrioles and the pericentriolar matrix requires Drosophila centrosomin
+J Cell Biol, 178 (2007), pp. 725–732
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+51
+L. Pelletier, N. Ozlu, E. Hannak, C. Cowan, B. Habermann, M. Ruer, T. Muller-Reichert, A.A. Hyman
+The Caenorhabditis elegans centrosomal protein SPD-2 is required for both pericentriolar material recruitment and centriole duplication
+Curr Biol, 14 (2004), pp. 863–873
+
+Article |  PDF (3114 K) | View Record in Scopus | Citing articles (98)
+52
+F. Zhu, S. Lawo, A. Bird, D. Pinchev, A. Ralph, C. Richter, T. Muller-Reichert, R. Kittler, A.A. Hyman, L. Pelletier
+The mammalian SPD-2 ortholog Cep192 regulates centrosome biogenesis
+Curr Biol, 18 (2008), pp. 136–141
+
+Article |  PDF (1142 K) | View Record in Scopus | Citing articles (1)
+53
+C.I. Dix, J.W. Raff
+Drosophila Spd-2 recruits PCM to the sperm centriole, but is dispensable for centriole duplication
+Curr Biol, 17 (2007), pp. 1759–1764
+
+Article |  PDF (1083 K) | View Record in Scopus | Citing articles (52)
+54
+L. Wolpert
+Positional information and the spatial pattern of cellular differentiation
+J Theor Biol, 25 (1969), pp. 1–47
+
+Article |  PDF (2637 K) | View Record in Scopus | Citing articles (739)
+55
+B.G. Fuller, M.A. Lampson, E.A. Foley, S. Rosasco-Nitcher, K.V. Le, P. Tobelmann, D.L. Brautigan, P.T. Stukenberg, T.M. Kapoor
+Midzone activation of aurora B in anaphase produces an intracellular phosphorylation gradient
+Nature, 453 (2008), pp. 1132–1136
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+56
+A. Puklowski, Y. Homsi, D. Keller, M. May, S. Chauhan, U. Kossatz, V. Grunwald, S. Kubicka, A. Pich, M.P. Manns et al.
+The SCF-FBXW5 E3-ubiquitin ligase is regulated by PLK4 and targets HsSAS-6 to control centrosome duplication
+Nat Cell Biol, 13 (2011), pp. 1004–1009
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+57
+C.W. Brownlee, J.E. Klebba, D.W. Buster, G.C. Rogers
+The protein phosphatase 2A regulatory subunit twins stabilizes Plk4 to induce centriole amplification
+J Cell Biol, 195 (2011), pp. 231–243
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (16)
+58••
+D. Kitagawa, I. Vakonakis, N. Olieric, M. Hilbert, D. Keller, V. Olieric, M. Bortfeld, M.C. Erat, I. Fluckiger, P. Gonczy et al.
+Structural basis of the 9-fold symmetry of centrioles
+Cell, 144 (2011), pp. 364–375
+
+Article |  PDF (2320 K) | View Record in Scopus | Citing articles (62)
+58••
+See Ref. [59••].
+
+59••
+M. van Breugel, M. Hirono, A. Andreeva, H.A. Yanagisawa, S. Yamaguchi, Y. Nakazawa, N. Morgner, M. Petrovich, I.O. Ebong, C.V. Robinson et al.
+Structures of SAS-6 suggest its organization in centrioles
+Science, 331 (2011), pp. 1196–1199
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (55)
+59••
+Ref. [58••] and [59••] show that SAS-6 is able to oligomerise in order to form a nine-fold symmetrical cartwheel structure, revealing that this likely forms the structural basis for the morphology of this part of the centriole in vivo.
+
+60
+N.R. Stevens, H. Roque, J.W. Raff
+DSas-6 and Ana2 coassemble into tubules to promote centriole duplication and engagement
+Dev Cell, 19 (2010), pp. 913–919
+
+Article |  PDF (953 K) | View Record in Scopus | Citing articles (30)
+61
+J.M. Kollman, J.K. Polka, A. Zelter, T.N. Davis, D.A. Agard
+Microtubule nucleating gamma-TuSC assembles structures with 13-fold microtubule-like symmetry
+Nature, 466 (2010), pp. 879–882
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+62
+J. Azimzadeh, W.F. Marshall
+Building the centriole
+Curr Biol, 20 (2010), pp. R816–R825
+
+Article |  PDF (646 K) | View Record in Scopus | Citing articles (59)
+63
+D. Kitagawa, I. Fluckiger, J. Polanowska, D. Keller, J. Reboul, P. Gonczy
+PP2A phosphatase acts upon SAS-5 to ensure centriole formation in C. elegans embryos
+Dev Cell, 20 (2011), pp. 550–562
+
+Article |  PDF (2217 K) | View Record in Scopus | Citing articles (15)
+64
+M.H. Song, Y. Liu, D.E. Anderson, W.J. Jahng, K.F. O’Connell
+Protein phosphatase 2A-SUR-6/B55 regulates centriole duplication in C. elegans by controlling the levels of centriole assembly factors
+Dev Cell, 20 (2011), pp. 563–571
+
+Article |  PDF (1021 K) | View Record in Scopus | Citing articles (16)
+65
+J.H. Sir, A.R. Barr, A.K. Nicholas, O.P. Carvalho, M. Khurshid, A. Sossick, S. Reichelt, C. D'Santos, C.G. Woods, F. Gergely
+A primary microcephaly protein complex forms a ring around parental centrioles
+Nat Genet, 43 (2011), pp. 1147–1153
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (35)
+66
+M.A. Gomez-Ferreria, U. Rath, D.W. Buster, S.K. Chanda, J.S. Caldwell, D.R. Rines, D.J. Sharp
+Human Cep192 is required for mitotic centrosome and spindle assembly
+Curr Biol, 17 (2007), pp. 1960–1966
+
+Article |  PDF (1027 K) | View Record in Scopus | Citing articles (47)
+67
+N. Peel, N.R. Stevens, R. Basto, J.W. Raff
+Overexpressing centriole-replication proteins in vivo induces centriole overduplication and de novo formation
+Curr Biol, 17 (2007), pp. 834–843
+
+Article |  PDF (1338 K) | View Record in Scopus | Citing articles (102)
+68
+A. Rodrigues-Martins, M. Riparbelli, G. Callaini, D.M. Glover, M. Bettencourt-Dias
+Revisiting the role of the mother centriole in centriole biogenesis
+Science, 316 (2007), pp. 1046–1050
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+69
+A. Khodjakov, C.L. Rieder, G. Sluder, G. Cassels, O. Sibon, C.L. Wang
+De novo formation of centrosomes in vertebrate cells arrested during S phase
+J Cell Biol, 158 (2002), pp. 1171–1181
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (107)
+70
+M. Dundr, T. Misteli
+Biogenesis of nuclear bodies
+Cold Spring Harb Perspect Biol, 2 (2010), p. a000711
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (13)
+71••
+P.T. Conduit, J.W. Raff
+Cnn dynamics drive centrosome size asymmetry to ensure daughter centriole retention in Drosophila neuroblasts
+Curr Biol, 20 (2010), pp. 2187–2192
+
+Article |  PDF (1079 K) | View Record in Scopus | Citing articles (38)
+71••
+See Ref. [35••].
+
+72
+K.E. Handwerger, J.A. Cordero, J.G. Gall
+Cajal bodies, nucleoli, and speckles in the Xenopus oocyte nucleus have a low-density, sponge-like structure
+Mol Biol Cell, 16 (2005), pp. 202–211
+
+View Record in Scopus | Citing articles (55)
+73
+E. Karsenti, I. Vernos
+The mitotic spindle: a self-made machine
+Science, 294 (2001), pp. 543–547
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (286)
+74
+M. Toya, M. Terasawa, K. Nagata, Y. Iida, A. Sugimoto
+A kinase-independent role for Aurora A in the assembly of mitotic spindle microtubules in Caenorhabditis elegans embryos
+Nat Cell Biol, 13 (2011), pp. 708–714
+
+75
+T. Misteli
+The concept of self-organization in cellular architecture
+J Cell Biol, 155 (2001), pp. 181–185
+
+View Record in Scopus | Citing articles (278)
+76
+S. Camazine, J. Deneubourg, N. Franks, J. Sneyd, G. Theraluz, E. Bonabeau
+Self Organization in Biological Systems
+Princeton University Press (2001)
+
+77
+A. Gierer, H. Meinhardt
+A theory of biological pattern formation
+Kybernetik, 12 (1972), pp. 30–39
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (892)
+78
+J.E. Park, R.L. Erikson, K.S. Lee
+Feed-forward mechanism of converting biochemical cooperativity to mitotic processes at the kinetochore plate
+Proc Natl Acad Sci USA, 108 (2011), pp. 8200–8205
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6)
+79
+L. Macurek, A. Lindqvist, D. Lim, M.A. Lampson, R. Klompmaker, R. Freire, C. Clouin, S.S. Taylor, M.B. Yaffe, R.H. Medema
+Polo-like kinase-1 is activated by aurora A to promote checkpoint recovery
+Nature, 455 (2008), pp. 119–123
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (206)
+80
+A.M. Turing
+The chemical basis of morphogenesis. 1953
+Bull Math Biol, 52 (1990), pp. 153–197 [discussion p. 119–152]
+
+Article |  PDF (3205 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (81)
+81
+P.P. Grasse
+La reconstruction du nid et les coordinations inter-individuelles chez Bellicositermes natalensis et Cubitermes sp. La theorie de la stigmergie: Essai d’interpretation du comportement des termites constructeurs
+Insectes Sociaux, 6 (1959), pp. 41–81
+
+82
+T.A. Witten, L.M. Sander
+Diffusion-limited aggregation, a kinetic critical phenomenon
+Phys Rev Lett, 47 (1981), pp. 1400–1403
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2181)
+References only contained in figures
+Megraw TL, Li K, Kao LR, Kaufman TC: The centrosomin protein is required for centrosome assembly and function during cleavage in Drosophila. Development 1999, 126:2829-2839.
+
+O’Connell KF, Maxwell KN, White JG: The spd-2 gene is required for polarization of the anteroposterior axis and formation of the sperm asters in the Caenorhabditis elegans zygote. Dev Biol 2000, 222:55-70.
+
+Hannak E, Kirkham M, Hyman AA, Oegema K: Aurora-A kinase is required for centrosome maturation in Caenorhabditis elegans. J Cell Biol 2001, 155:1109-1116.
+
+Zimmerman WC, Sillibourne J, Rosa J, Doxsey SJ: Mitosis-specific anchoring of gamma tubulin complexes by pericentrin controls spindle organization and mitotic entry. Mol Biol Cell 2004, 15:3642-3657.
+
+Sunkel CE, Glover DM: polo, a mitotic mutant of Drosophila displaying abnormal spindle poles. J Cell Sci 1988, 89 (Pt 1):25-38.
+
+Ge X, Frank CL, Calderon de Anda F, Tsai LH: Hook3 interacts with PCM1 to regulate pericentriolar material assembly and the timing of neurogenesis. Neuron 2010, 65:191-203.
+
+Khodjakov A, Rieder CL: The sudden recruitment of gamma-tubulin to the centrosome at the onset of mitosis and its dynamic exchange throughout the cell cycle, do not require microtubules. J Cell Biol 1999, 146:585-596.
+
+Leidel S, Gonczy P: SAS-4 is essential for centrosome duplication in C elegans and is recruited to daughter centrioles once per cell cycle. Dev Cell 2003, 4:431-439.
+
+Witten TA, Sander LM: Diffusion-Limited Aggregation, a Kinetic Critical Phenomenon. Physical Review Letters 1981, 47:1400-1403.

@@ -1,0 +1,747 @@
+MicroRNA-Antagonism Regulates Breast Cancer Stemness and Metastasis via TET-Family-Dependent Chromatin Remodeling
+Su Jung Song1, Laura Poliseno1, 6, 8, Min Sup Song1, 7, 8, Ugo Ala1, Kaitlyn Webster1, Christopher Ng1, Gary Beringer2, 4, Nicolai J. Brikbak5, Xin Yuan3, Lewis C. Cantley2, 4, Andrea L. Richardson5, Pier Paolo Pandolfi1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2013.06.026
+Get rights and content
+Refers To
+Su Jung Song, Keisuke Ito, Ugo Ala, Lev Kats, Kaitlyn Webster, Su Ming Sun, Mojca Jongen-Lavrencic, Katia Manova-Todorova, Julie Teruya-Feldstein, David E. Avigan, Ruud Delwel, Pier Paolo Pandolfi
+The Oncogenic MicroRNA miR-22 Targets the TET2 Tumor Suppressor to Promote Hematopoietic Stem Cell Self-Renewal and Transformation
+Cell Stem Cell, Volume 13, Issue 1, 3 July 2013, Pages 87-101
+ PDF (2772 K)  Supplementary content
+Referred to by
+Piero Dalerba, Michael F. Clarke
+Oncogenic miRNAs and the Perils of Losing Control of a Stem Cell’s Epigenetic Identity
+Cell Stem Cell, Volume 13, Issue 1, 3 July 2013, Pages 5-6
+ PDF (61 K)
+Highlights
+•
+miR-22 triggers epithelial-mesenchymal transition, invasion, and metastasis
+•
+miR-22 enhances murine mammary gland side-branching, stemness, and tumor development
+•
+miR-22 antagonizes miR-200 by directly targeting TET family members
+•
+Elevated miR-22 expression is linked to poor clinical outcomes in patients
+Summary
+Tumor cells metastasize to distant organs through genetic and epigenetic alterations, including changes in microRNA (miR) expression. Here we find miR-22 triggers epithelial-mesenchymal transition (EMT), enhances invasiveness and promotes metastasis in mouse xenografts. In a conditional mammary gland-specific transgenic (TG) mouse model, we show that miR-22 enhances mammary gland side-branching, expands the stem cell compartment, and promotes tumor development. Critically, miR-22 promotes aggressive metastatic disease in MMTV-miR-22 TG mice, as well as compound MMTV-neu or -PyVT-miR-22 TG mice. We demonstrate that miR-22 exerts its metastatic potential by silencing antimetastatic miR-200 through direct targeting of the TET (Ten eleven translocation) family of methylcytosine dioxygenases, thereby inhibiting demethylation of the mir-200 promoter. Finally, we show that miR-22 overexpression correlates with poor clinical outcomes and silencing of the TET-miR-200 axis in patients. Taken together, our findings implicate miR-22 as a crucial epigenetic modifier and promoter of EMT and breast cancer stemness toward metastasis.
+
+Graphical Abstract
+Full-size image (37 K)
+Figure options
+Introduction
+Metastasis remains one of most complex and challenging problems of contemporary oncology. During metastatic dissemination, a cancer cell from a primary tumor executes a multistep process: intravasation, survival in the circulation, extravasation, micrometastases, and colonization (Fidler, 2003). Recent studies have demonstrated that as tumors progress, genetic and epigenetic mechanisms may result in the emergence of a self-renewing metastatic cancer stem cell (CSC), also referred to as cancer initiating cell (CIC) (Ito et al., 2009 and Visvader and Lindeman, 2008). This metastatic CSC eventually enters the blood stream and seeds a secondary tumor in a distinct organ. CSCs/CICs are thought to exist in primary tumors from the very early stages of tumorigenesis and may be the oncogenic derivatives of normal-tissue stem or progenitor cells.
+
+CSCs may also arise as a consequence of the epithelial-mesenchymal transition (EMT), a developmental program that is instrumental to the acquisition of stemness by nontransformed and tumor cells (Chaffer and Weinberg, 2011 and Gupta and Massagué, 2006). Although much progress has been garnered in elucidating the molecular pathways that trigger EMT and metastasis, a number of key mechanistic gaps remain to be explained, suggesting that critical players in the process have yet to be identified.
+
+MicroRNAs (miRNAs) are small noncoding RNAs that lead to silencing of their cognate target genes by either degrading mRNA molecules or inhibiting their translation (Bartel, 2004). Indeed, miRNAs have been implicated in the regulation of a variety of cellular processes, including stemness and metastasis, implying that they can function either as oncogenes or tumor suppressors (Calin et al., 2005, He et al., 2005 and Ma et al., 2007). For instance, the miR-200 family members (miR-200s) are known as tumor suppressive miRNAs that regulate the EMT and control stemness by directly targeting transcriptional repressor Zeb1/2 (zinc finger E-box-binding homeobox 1/2) and polycomb repressor complex proteins, such as Bmi1 (B lymphoma Mo-MLV insertion region 1 homolog) and Suz12 (suppressor of zeste 12 homolog) (Iliopoulos et al., 2010 and Shimono et al., 2009). Interestingly, miR-200s are downregulated in different types of cancer (Adam et al., 2009, Bendoraite et al., 2010 and Olson et al., 2009), and they are specifically downregulated in breast CSCs in comparison with nontumorigenic cancer cells (Shimono et al., 2009).
+
+The selective deregulation of miRNA gene expression may be due to deletion, amplification, or mutations targeting the miRNAs themselves, as well as deregulation of transcription factors and epigenetic regulators targeting the genes encoding them (Breving and Esquela-Kerscher, 2010 and Calin et al., 2005). In particular, although promoter hypermethylation and associated inactivation of tumor suppressor genes is an established molecular hallmark of human cancer (Esteller, 2008 and Jones and Baylin, 2007), this epigenetic lesion has recently been extended to the DNA methylation-mediated silencing of miRNAs (Lujambio et al., 2007, Saito et al., 2006 and Toyota et al., 2008). DNA methylation can be heritably maintained across cell division, but can also be reversibly/dynamically altered to establish new epigenetic programs.
+
+The recent discovery of members of the TET (Ten eleven translocation) family that can specifically modify DNA by hydroxylating 5-methylcytosine (5mC) may explain how cells can erase existing methylation marks (Ito et al., 2010, Ko et al., 2010 and Tahiliani et al., 2009). Within the TET family of proteins, TET1, TET2, and TET3 have been shown to convert 5mC to 5-hydroxymethylcytosine (5hmC), whereas TET2-inactivating deletion and mutations have been frequently observed in hematopoietic malignancies ( Ko et al., 2010 and Tahiliani et al., 2009). Notably, the level of 5hmC, so tightly associated with TET gene expression, is increased in differentiated cells and is profoundly reduced in many types of tumors, identifying 5hmC as a biomarker associated with tumor development ( Haffner et al., 2011 and Yang et al., 2013).
+
+Here, we show that miR-22 triggers enhanced mammary gland hyperplasia as well as a marked expansion of the mammary stem cell compartment, hence triggering tumor initiation. Importantly, we demonstrate that miR-22 promotes the metastatic process and EMT through its ability to repress the expression of miR-200s as well as 5hmC by directly targeting members of the TET family.
+
+Results
+miR-22 Promotes EMT and Tumor Invasion and Metastasis
+To investigate the potential oncogenic effects of miR-22 expression, we first transduced a retroviral vector encoding the human mir-22 gene into immortalized human breast epithelial cells, HMEC and MCF-10A, and unexpectedly found that ectopic expression of miR-22 results in an increased cell motility in an in vitro assay ( Figure S1A, available online, and data not shown). A dramatic morphological change was also observed in miR-22-overexpressing cells, in which the typical cobblestone-like appearance of normal epithelium was replaced by a spindle-like, fibroblastic morphology ( Figure S1B). In agreement with these observations, we found that miR-22-overexpressing cells displayed a silenced expression of the key epithelial marker E-cadherin, and the upregulations of the mesenchymal markers N-cadherin, vimentin, and fibronectin ( Figures 1A, 1B and S1C). The EMT is known to be a central mechanism responsible for invasiveness and metastasis of breast cancer and is also associated with normal and malignant mammary stem cell function ( Gupta and Massagué, 2006). Therefore we speculated that miR-22 could also induce stemness. Noticeably, miR-22 expression increased the ability of MCF-10A cells to develop into mammosphere structures, suggesting that miR-22 triggers EMT and stemness ( Figures 1C, S1D, and S1E).
+
+Full-size image (106 K)
+Figure S1. 
+miR-22 Promotes Mammary Epithelial Cell Migration, Stemness, and Tumor Invasion, Related to Figures 1 and 2
+(A) MCF-10A cells transfected with control miRNA or miR-22 were subjected to the cell migration assay in the presence or absence of epidermal growth factor (EGF). Representative fields of the migrated cells are shown (left). Scale bars, 100 μm. The migrated cells were also quantified. The data are represented as mean ± SD from three independent experiments.
+(B) Morphology of control miRNA- and miR-22–transfected HMEC cells is shown by a phase contrast. Scale bars, 100 μm.
+(C) MCF-7 cells infected with the miR-22 expressing or empty vector were subjected to immunofluorescence analysis with E-cadherin. Scale bars, 20 μm.
+(D) MCF-10A cells infected with the miR-22 expressing or empty vector were cultured for 6 days in suspension. Representative images of mammaosphere (>50 μm) are shown. Scale bars, 50 μm.
+(E) Cell lysates from the mammospheres of MCF-10A cells infected with the miR-22 expressing or empty vector were subjected to western blot analysis for the indicated proteins.
+(F) GFP (top)- and Ki-67 (bottom)-stained sections of primary mammary tumors formed by MCF-7 cells infected with the miR-22 expressing or empty vector. Scale bars, 100 μm.
+(G) In situ hybridization analysis of primary mammary tumors formed by MCF-7 cells infected with the miR-22 expressing or empty vector, at 12 weeks after orthotopic transplantation. RNU6B was used as an internal small RNA control. Scale bars, 100 μm.
+(H) Mouse mammary epithelial cells obtained from miR-22F/+;MMTV-Cre mice or MMTV-Cre littermate controls subjected to the cell migration assay. Representative fields of the migrated cells are shown (left). Scale bars, 100 μm. The migrated cells were also quantified (right). The data are represented as mean ± SD from three independent experiments.
+(I) Cell lysates from mammary epithelial cells obtained from miR-22F/+;MMTV-Cre mice or MMTV-Cre littermate controls were subjected to western blot analysis for the indicated proteins.
+(J) Mouse MECs obtained from miR-22F/+;MMTV-Cre mice or MMTV-Cre littermate controls were cultured for 6 days in suspension. Representative images of mammosphere (>50 μm) are shown (left). Scale bars, 50 μm. The number of mammospheres per 1,000-plated cells in each culture was also quantified (right). The data are represented as mean ± SD from three independent experiments.
+Figure options
+Full-size image (138 K)
+Figure 1. 
+miR-22 Enhances EMT and Tumor Invasion and Metastasis
+(A and B) MCF-7 (A) or MCF-10A (B) cells infected with the miR-22 expressing or empty vector were subjected to immunofluorescence (A) and western blot (B) analyses for the indicated proteins. Scale bars, 20 μm.
+(C) Replating efficiency of mammospheres derived from MCF-10A cells expressing miR-22 was measured. The number of mammospheres per 1,000-plated cells in each culture was then quantified. The data are represented as mean ± SD from three independent experiments.
+(D) H&E-stained sections of primary mammary tumors formed by MCF-7 cells expressing miR-22, at 12 weeks after orthotopic transplantation. Arrows indicate areas of lymphatic invasion. Scale bars, 50 μm.
+(E and F) Ki67- and MECA-32-stained sections of primary mammary tumors formed by MCF-7 cells expressing miR-22 (E). Arrows indicate tumor cells within a vessel. Scale bars, 50 μm. The quantification of vessel numbers (using MECA-32–stained sections) at the center and the edge of the primary mammary tumors is also shown (F). The data are represented as mean ± SD (n = 6).
+(G) GFP images (left) and H&E staining (right) of lungs isolated from mice that at 12 weeks after transplantation received orthotopic injection of MCF-7 cells expressing miR-22. Arrow indicates clusters of metastatic cells. Scale bars, 100 μm.
+(H and I) H&E-, Ki67-, ERα-, and TTF1-stained sections of lungs isolated from mice that at 12 weeks after transplantation received orthotopic injection of MCF-7 cells expressing miR-22 (H). Scale bars, 50 μm. The number of lung micrometastases (micromets) per section in individual mice was also quantified (I). The data are represented as mean ± SD (n = 6).
+See Figures S1A–S1G.
+Figure options
+To determine whether miR-22 could induce similar effects in vivo, we next established a xenograft model using the nonmetastatic breast cancer cell line MCF-7. We used a miR-22/GFP-expressing retroviral vector to transduce MCF-7 cells and implanted them into cleared mammary fat pads of Nu/Nu immunodeficient mice (Figures S1F and S1G). Within 3 weeks of injection, recipient mice developed macroscopic GFP+ tumors with expansive and infiltrative growth patterns; by 12 weeks, in two of six cases massive lymphatic invasions were also observed in the adjacent normal breast tissues (Figure 1D). In comparison, at the same time point, MCF-7 control tumors were strictly noninvasive. The distribution, but not the total number of Ki67+ (proliferating) cells in miR-22-overexpressing tumors, was also distinct from that seen in the control tumors: in the former, large necrotic centers were apparent and Ki67+ cells were enriched in the highly vascularized invasive regions, whereas in the latter the vascularization was poor and the Ki67+ cells were evenly distributed (Figures 1E and S1F). Furthermore, the vessels associated with the invasive regions of miR-22-overexpressing tumors were observed not only in the stroma (peritumoral), but also within the epithelial tumor masses (intratumoral) (Figures 1E and 1F).
+
+To determine whether miR-22-overexpressing MCF-7 cells could metastasize to distant sites, we undertook a detailed pathological analysis of the major organs of our implanted recipients. Strikingly, six out of six mice that received the orthotopic implantation of miR-22-overexpressing cells displayed numerous lung metastases that were readily detectable by both GFP fluorescence and histological analysis (Figure 1G). These clusters of cells were stained positive for Ki67 and estrogen receptor α (ERα), and negative for thyroid transcription factor 1 (TTF1; a marker of primary lung adenocarcinoma), further confirming their origin (Figure 1H). In contrast, no metastases were found in control animals (Figure 1I). Taken together, our data suggest that miR-22 can contribute to cell proliferation, invasion, and angiogenesis, and, importantly, can impart metastatic properties on otherwise nonmetastatic cells.
+
+miR-22 Increases Mammary Stem Population and Promotes Tumorigenesis and Metastasis In Vivo In Transgenic Mice
+Although these cell line studies were highly suggestive, we attempted to confirm and expand on our findings using a conditional transgenic mouse model. To this end, we engineered mice that harbored within their Collagen A1 locus the CAGGS promoter and the mir-22 genomic sequence separated by a LoxP flanked transcriptional STOP cassette (hereafter referred to as miR-22F/+) ( Figures 2A and 2B). By crossing these mice with mice that express the Cre recombinase under the control of the mouse mammary tumor virus promoter (MMTV-Cre), we could induce targeted expression of miR-22 in the mammary glands. Real-time quantitative PCR and northern blot analyses revealed that miR-22 expression was increased 2- to 3-fold in miR-22F/+;MMTV-Cre mice compared to littermate controls ( Figure 2C).
+
+Full-size image (100 K)
+Figure 2. 
+miR-22 Increases Mammary Gland Side-Branching and Stemness In Vivo in Transgenic Mice
+(A) Schematic representation of the strategy for generation of floxed miR-22 mouse embryonic stem cells. Red arrows indicate the positions of primers used for genotyping the miR-22 transgenic mice. Blue line indicates the position of probe for the Southern blot analysis. The F1 floxed miR-22 founder mice were bred to MMTV-Cre strain to delete LoxP site.
+(B) Genomic DNAs were isolated from the tails of miR-22-LoxP mice were digested by Spe I and subjected to Southern blot analysis.
+(C) Total RNAs isolated from mammary gland tissues of miR-22F/+;MMTV-Cre mice were subjected to real-time qPCR (left) or northern blot analysis (right) to evaluate miR-22 expression. The data are represented as mean ± SD (n = 4).
+(D) Whole-mount analyses were conducted on 7-week-old miR-22F/+;MMTV-Cre mice and MMTV-Cre littermates (left) and the number of mammary gland side-branches was quantified (right). Scale bars, 500 μm. The data are represented as mean ± SD (n = 3).
+(E) Distribution of CD45negCD31negCD140anegTer119neg mouse mammary cells according to their expression of CD24 and CD49f were analyzed on 7-week-old miR-22F/+;MMTV-Cre mice and littermate controls (left). MSCs according to their expression of CD24highCD49high in Lineagenegative (middle) or total mammary epithelial cells (right) were quantified by a flow cytometric analysis. The data are represented as mean ± SD (n = 4).
+(F and G) Schematic representation of limiting dilution transplantation experiments with CD24highCD49fhigh MSCs (F). A total of 3 × 102, 1 × 103, or 1.2 × 104 LinnegCD24highCD49high MSCs isolated from 7-week-old miR-22F/+;MMTV-Cre mice and littermate controls were injected into the cleared fat-pad of 3-week-old FVB/NJ female mice and whole-mount analyses were then conducted at 6 weeks after injection (G). Representative images of mammary gland side-branches are shown on the left. The resulting data were also analyzed by Chi-square test (right).
+See Figures S1H–S1J.
+Figure options
+Noticeably, in agreement with our observation in cell line studies, epithelial cell migration and western blot analyses in breast epithelium obtained from miR-22F/+;MMTV-Cre and control mice revealed a marked increase in EMT features in cells from the transgenic animals at young age ( Figures S1H and S1I). Strikingly, by 7 weeks of age, miR-22 transgenic mice demonstrated an increased ductal side-branching (p < 0.001, Figure 2D) and higher numbers of mammary stem cells (MSCs; defined as CD24highCD49fhigh) (p = 0.001, Figure 2E), and cells from these mice displayed an increased ability to form mammospheres—3D structures in culture (p = 0.019, Figure S1J). In agreement with these findings, it has been previously reported that miR-22 is highly expressed in mouse mammary progenitor cells ( Ibarra et al., 2007). Importantly, limiting dilution transplantation experiments with CD24highCD49fhigh MSCs revealed that the increase in lobuloalveolar structures in miR-22 transgenic mice directly relates to MSCs, but not to aberrant hormonal signaling during the oestrus cycle ( Figures 2F and 2G).
+
+Next, we performed a long-term evaluation of spontaneous mammary tumorigenesis and metastasis in vivo in miR-22 transgenic mice. Remarkably, miR-22 overexpression in mice resulted in a progressive decrease in the disease-free survival rate at the age of 8 to 24 months (n = 11) (p = 0.0024, Figure 3A). Diffuse alveolar and ductal hyperplasia, focal mammary ductal ectasia, impaction of thick materials, and, more importantly, focal ductal carcinomas were observed in virgin female miR-22F/+;MMTV-Cre mice (at approximately 60% incidence), whereas no hyperplasia nor tumor was observed in control mice ( Figure 3B). Noticeably, miR-22F/+;MMTV-Cre mice displayed EMT-related breast tumor phenotypes ( Figure 3C), and their primary tumors represented both luminal (cytokeratin-8-positive and cytokeratin-14-negative) and mixed luminal-basal (cytokeratin-8-positive and cytokeratin-14-positive) cell fates, although the intensities of positivity of cytokeratin 8 are partially weaker than those of normal mammary glands ( Figure S2A). Most strikingly, postpregnant miR-22F/+;MMTV-Cre mice developed lung metastases at 8 to 10 months of age (at 100% incidence) mostly in the peri-bronchiolar lymphatic space (n = 3) ( Figures 3D and 3E).
+
+Full-size image (127 K)
+Figure 3. 
+miR-22 Induces Mammary Tumorigenesis and Metastasis In Vivo in Transgenic Mice
+(A) Cumulative disease-free survival analysis. A statistically significant decrease in lifespan for the miR-22F/+;MMTV-Cre cohort was found compared with the MMTV-Cre cohort (p = 0.0024, n = 11).
+(B) H&E-stained sections of diffuse alveolar and ductal hyperplasia isolated from 12-month-old miR-22F/+;MMTV-Cre mice. Scale bars, 200 μm.
+(C) Lysates from mammary tumors of miR-22F/+;MMTV-Cre mice were subjected to western blot analysis for the indicated proteins.
+(D and E) H&E-stained sections of primary mammary tumors and lungs isolated from 8-month-old postpregnant miR-22F/+;MMTV-Cre mice (D). Arrows indicate clusters of metastatic cells in the lung. Scale bars, 200 μm. H&E- and Ki67-stained sections of lungs isolated from miR-22F/+;MMTV-Cre mice are also shown (E). Scale bars, 200 μm.
+(F) The incidence of metastases to the lung in MMTV-neu;miR-22F/+;MMTV-Cre (represented as miR-22F/+;MMTV-neu) and MMTV-neu littermates (8 to 16 months old) was quantified.
+(G) Lysates from mammary tumors of miR-22F/+;MMTV-neu were subjected to western blot analysis for the indicated proteins.
+(H and I) H&E-stained sections of the lungs isolated from miR-22F/+;MMTV-neu mice and littermate controls (H). Arrows indicate clusters of metastatic cells in the lung. Scale bars, 200 μm. H&E-, Ki67-, and ErbB2-stained sections of lungs isolated from miR-22F/+;MMTV-neu mice are also shown (I). Scale bars, 200 μm.
+See Figure S2.
+Figure options
+Full-size image (125 K)
+Figure S2. 
+Analysis of miR-22F/+;MMTV-Cre Transgenic Mice, Related to Figure 3
+(A) Cytokeratin (CK) 8- and CK14- stained sections of primary mammary tumors from 8- to 10-month-old miR-22F/+;MMTV-Cre mice. Insets are high magnification of images. Scale bars, 100 μm.
+(B and C) H&E-stained sections of primary mammary tumors (left) or lungs (right) isolated from 3-month-old MMTV-PyVT;miR-22F/+;MMTV-Cre mice and MMTV-PyVT littermates (B). Arrows indicate clusters of metastatic cells in the lung. Scale bars, 200 μm. The incidence of metastases to the lung in mice at 3 months old was also quantified (C).
+(D) H&E-stained sections of primary mammary tumors from 12-month-old MMTV-neu;miR-22F/+;MMTV-Cre mice and MMTV-neu littermates. Scale bars, 200 μm.
+(E) Total RNAs from mammary tumors of MMTV-neu or MMTV-neu;miR-22F/+;MMTV-Cre were subjected to a real-time qPCR analysis for Zeb1 mRNA. The data are represented as mean ± SD (n = 4 of MMTV-neu, n = 6 of MMTV-neu;miR-22F/+;MMTV-Cre).
+(F) CK8- and CK14-stained sections of primary mammary tumors of MMTV-neu;miR-22F/+;MMTV-Cre mice or MMTV-neu. N, Normal mammary glands; T, Breast tumors. Scale bars, 100 μm.
+(G) Cells isolated from mammary tumors of MMTV-neu;miR-22F/+;MMTV-Cre mice or MMTV-neu were stained with CD90 in the distribution of CD45negCD31negCD140anegTer119neg in DAPIneg cells. Representative flow cytometric analyses are shown (left) and the quantifications of the analysis are shown (right). The data are represented as mean ± SD (n = 3).
+Figure options
+In addition, by utilizing a series of genetically engineered mouse models, we further explored whether miR-22 can promote breast cancer and metastasis in vivo. As MMTV-PyVT transgenic mice are known to develop multifocal mammary tumors that spontaneously metastasize to the lung ( Guy et al., 1992a), we first crossed these mice with our miR-22F/+;MMTV-Cre mice and analyzed the resultant compound mutants for development of primary tumors and lung metastases. Although miR-22 overexpression had no significant effect on the development or size of primary mammary gland lesions in this model, the penetrance of metastatic cancer, analyzed at different time points (8 to 12 weeks), was increased in MMTV-PyVT;miR-22F/+;MMTV-Cre mice when compared to MMTV-PyVT controls ( Figures S2B and S2C).
+
+As MMTV-PyVT animals are difficult to compare precisely due to their very early onset of lung metastases, we next generated and analyzed MMTV-neu;miR-22F/+;MMTV-Cre mice, taking advantage of the fact that MMTV-neu mice express unactivated neu (c-ErbB2) and show less aggressive mammary tumors and lung metastases ( Guy et al., 1992b). Remarkably, the development of primary mammary gland lesions as well as the incidence of lung metastases was significantly increased in MMTV-neu;miR-22F/+;MMTV-Cre mice, by ∼19 months of age, when compared to MMTV-neu controls ( Figures 3F and S2D). Importantly, MMTV-neu;miR-22F/+;MMTV-Cre mice exhibited EMT-related breast tumor phenotypes ( Figures 3G and S2E). Interestingly, a significant number of MMTV-neu;miR-22F/+;MMTV-Cre breast tumors were both cytokeratin-8-positive and cytokeratin-14-positive, whereas MMTV-neu control primary tumors were cytokeratin-8-positive and cytokeratin-14-negative, suggesting that miR-22 induces a significant luminal-to-basal cell fate change in breast tumor cells in the presence of neu oncogene insult ( Figure S2F). Notably, MMTV-neu;miR-22F/+;MMTV-Cre breast tumors also presented a significant increase in the population of CD24posCD90pos CSCs compared to MMTV-neu control tumors ( Figure S2G and Malanchi et al., 2012). Finally, the penetrance of metastases to the lung were greatly increased in MMTV-neu;miR-22F/+;MMTV-Cre mice when compared to MMTV-neu control mice of the same age ( Figures 3H and 3I).
+
+Taken together, these data indicate that miR-22 plays a crucial role in breast stem cell biology, tumorigenesis, and metastasis in vivo.
+
+miR-22 Triggers Methylation-Dependent Silencing of miR-200
+The E-box-binding transcription factors Zeb1 (also known as TCF8 and δEF1) and Zeb2 (also known as ZFXH1B and SMAD-interacting protein 1 [SIP1]) and the miR-200 family members have been shown to regulate EMT in multiple cancer types (Gregory et al., 2008, Park et al., 2008 and Peinado et al., 2007). Zeb1 and Zeb2 are key transcriptional repressors of E-cadherin, whereas the miR-200 family is known as important regulators of both EMT and mammary stem cell function through direct targeting of the mRNA of both Zeb1/Zeb2 and Bmi1 (Iliopoulos et al., 2010 and Shimono et al., 2009). Strikingly, we found that miR-22 is able to repress miR-200a and miR-200c expression, leading to upregulation of Zeb1, Zeb2, and Bmi1 in both human breast epithelial cells and mouse mammary epithelium prepared from miR-22F/+;MMTV-Cre mice ( Figures 1B, 4A–4C, and S1E and S1I). Taken together, these data suggest that in mammary epithelial cells miR-22 induces EMT and stemness by suppressing the expression of miR-200 family.
+
+Full-size image (165 K)
+Figure 4. 
+miR-22 Regulates Epigenetic Inactivation of miR-200 and Directly Targets TET Methylcytosine Dioxygenases
+(A and B) Real-time qPCR analysis of Zeb1/Zeb2 (A) or miR-200a/miR-200c (B) with RNAs from MCF-10A cells infected with the miR-22 expressing or empty vector. The data are represented as mean ± SD from three independent experiments.
+(C) Real-time qPCR analysis of miR-200a/miR-200c with RNAs obtained from miR-22F/+;MMTV-Cre mice and littermate controls. The data are represented as mean ± SD (n = 3).
+(D) Methylation-specific PCR analysis of mir-200c CpG islands with genomic DNAs purified from the indicated cells infected with the miR-22-expressing vector.
+(E) Restored miR-200c expression upon treatment with DNA demethylating agent 5′-aza-2′-deoxycytidine (5′-Aza) in MCF-10A cells infected with the miR-22-expressing vector. The data are represented as mean ± SD (n = 3).
+(F) GlucMS-qPCR analysis of CpG islands within the mir-200c promoter regions specifically enriched for 5-hydroxymethylcytosine (5hmC) in MCF-10A cells infected with the miR-22-expressing vector. The data are represented as mean ± SD (n = 3).
+(G) Representative seed sequences for miR-22 on the TET family: 7 base pairs (red-colored) and 8 base pairs (blue-colored) on human and mouse TET family (top) and seed match sequences of miR-22 within 3′ UTR of human and mouse TET2b as an example (bottom) are shown.
+(H) Total RNAs isolated from primary mammary epithelial cells of miR-22F/+;MMTV-Cre mice or littermate controls were subjected to real-time qPCR for Tet1, Tet2, and Tet3 mRNA. The data are represented as mean ± SD (n = 3).
+(I) Total RNAs isolated from MCF-10A cells transfected with the inhibitor (decoy) of miR-22 were subjected to real-time qPCR for TET1, TET2, and TET3 mRNA. The data are represented as mean ± SD (n = 3).
+(J) Luciferase assay of the luciferase gene linked to the 3′ UTR of TET2. HEK293 cells were transiently transfected with a combination of pGL3 firefly luciferase reporter plasmids encoding wild-type (left) or mutated (right) 3′ UTR sequences of human TET2b, miR-22, and a Renilla luciferase reporter for normalization. The data are represented as mean ± SD (n = 3).
+(K) Genomic DNA purified from HEK293 cells expressing control miRNA, miR-22, or TET2 siRNA was denatured and neutralized. Global 5hmC levels were then measured by using a dot blot assay with anti-5hmC antibody and normalized by methylene blue staining (left). The resulting 5hmC levels were also quantified (right). The data are represented as mean ± SD (n = 3).
+(L) 5hmC- and DAPI-stained sections of the duct of mammary glands isolated from 7-week-old miR-22F/+;MMTV-Cre mice or littermate controls. Scale bar, 100 μm. The arrows indicate the cells with strong 5hmC-positive signals.
+See Figure S3.
+Figure options
+Recent studies have likewise shown that CpG island hypermethylation-mediated epigenetic silencing of the miR-200 family is associated with upregulation of Zeb1/Zeb2 expression, EMT and metastasis (Davalos et al., 2012, Neves et al., 2010 and Vrba et al., 2010). We therefore analyzed the promoter of mir-200 using the methyl-specific PCR (MSP) analysis and found that it is indeed hypermethylated upon miR-22 overexpression ( Figure 4D). Notably, treatment of these cells with a DNA-demethylating agent, 5′-aza-2′-deoxycytidine (5′-Aza), reversed the effects of miR-22 and restored expression of miR-200 transcripts ( Figures 4E and S3A), suggesting that miR-22 may have a functional role in the dynamic control of DNA methylation.
+
+Full-size image (114 K)
+Figure S3. 
+miR-22 Controls the Level of 5-Hydroxymethylcytosine by Directly Targeting the TET Family Members, Related to Figure 4
+(A) Restoration of miR-200a expression by the treatment with DNA-demethylating agent 5′-aza-2′-deoxycytidine (5′-Aza) in MCF-10A cells infected with the miR-22 expressing or empty vector. The data are represented as mean ± SD from three independent experiments.
+(B) Seed sequences of miR-22 on human and mouse TET family members were analyzed by using the prediction algorithms (for an example, http://www.targetscan.org).
+(C and D) Total RNAs isolated from control miRNA- or miR-22-expressing 293T (C) or MCF-10A (D) cells were subjected to a real-time qPCR analysis for TET1, 2 and 3 mRNA. The data are represented as mean ± SD from three independent experiments.
+(E and F) 293T cells were transiently transfected with a combination of a pGL3 firefly luciferase reporter plasmid encoding 3′ UTR sequences of human TET2a (left) or TET2b (right), a Renilla luciferase reporter and miR-22 (E) or the inhibitor of miR-22 (represented as IR-22) (F). Luciferase activities were then measured 48 hr after transfection. The data are represented as mean ± SD from three independent experiments.
+(G) HEK293 cells expressing control miRNA (top) or miR-22 (bottom) were fixed, denatured and stained with antibodies against 5hmC (left) and 5mC (right). Scale bars, 40 μm.
+(H) 5hmC- and DAPI-stained sections of the duct of mammary glands isolated from 20-week-old Pten+/− mice or wild-type littermates. Scale bars, 20 μm.
+Figure options
+The recent identification of 5hmC as a novel demethylation standpoint and a biomarker associated with tumor development (Haffner et al., 2011, Nestor et al., 2012, Song et al., 2011, Wu and Zhang, 2010 and Yang et al., 2013) prompted us to hypothesize that miR-22 may antagonize miR-200 transcription by controlling 5hmC levels on genomic DNA. Indeed, miR-22 overexpression significantly depleted 5hmC levels within mir-200 promoter CpG islands ( Figure 4F). Taken together, these results suggest that miR-22 suppresses the demethylation of the promoter within the mir-200 gene and represses its expression, leading to upregulation of its cognate targets.
+
+miR-22 Regulates the Level of 5-Hydroxymethylcytosine by Directly Targeting TET Family Members
+miR-22 has been shown to exert growth-suppressive functions in vitro in some cancer cell lines (Ling et al., 2012 and Pandey and Picard, 2009); our investigation, however, revealed an unexpected oncogenic function for miR-22, which we further explored in order to identify the targets of its oncogenic activity in breast cancer. Potential molecular targets of miR-22 were predicted by prediction algorithms including TargetScan 6.0 (http://www.targetscan.org) (Lewis et al., 2005), microRNA.org (http://www.microrna.org) (Betel et al., 2008) and miRBase (http://www.mirbase.org) (Griffiths-Jones et al., 2006). Among the potential targets, we focused on the TET family—enzymes that contribute to DNA demethylation by converting 5mC to 5hmC and have recently been implicated in epigenetic reprogramming, cellular differentiation and cancer (Ito et al., 2010, Ko et al., 2010, Langemeijer et al., 2009 and Tahiliani et al., 2009) (Figures 4G and S3B). Remarkably, real-time qPCR and western blot analyses revealed that miR-22 expression in MCF-10A and human embryonic kidney (HEK) 293 cells, and in vivo in the mammary glands of miR-22F/+;MMTV-Cre mice, leads to a robust downregulation of TET family members ( Figures 4H and S1I, S3C and S3D). This was in agreement with the high degree of cross species conservations of the predicted miR-22 microRNA recognition elements (MREs) in TET family members ( Figures 4G and S3B). In contrast, inhibiting miR-22 by using antisense oligonucleotides resulted in a significant elevation in expression of TET family members ( Figure 4I). Notably, a luciferase reporter assay performed using the 3′ UTR region of TET2 (which, however, contains the miR-22 MREs also identical within the 3′ UTR of TET1, TET2, and TET3) ( Figure 4G), and its mutant version in the miR-22 MREs, demonstrated that miR-22-mediated repression of TET is due to a direct interaction between miR-22 and the TET genes ( Figures 4J and S3E and S3F).
+
+A reduction in the levels of 5hmC has been recently observed in cancer cells, along with inactivation of TET proteins (Haffner et al., 2011, Nestor et al., 2012 and Yang et al., 2013). We therefore next assessed whether miR-22 can remodel the epigenetic landscape by altering 5hmC levels in the genome through the TET family. Dot blot assay and immunofluorescence analysis with anti-5hmC antibodies revealed that miR-22 overexpression is indeed able to reduce global 5hmC levels (Figures 4K and S3G). More importantly, 5hmC levels were drastically reduced in vivo in the mammary glands of miR-22F/+;MMTV-Cre mice compared to littermate controls ( Figure 4L). Taken together, these data suggest that changes in this important epigenetic mark (e.g., 5hmC) may contribute to the ability of miR-22 to impact on EMT, stemness and metastasis.
+
+Downregulation of miR-22 or the TET Family Members Alters EMT, Stemness, and miR-200 Expression Levels
+Our observations that ectopic expression of miR-22 promotes EMT and represses TET and miR-200 in turn prompted us to investigate whether miR-22 inhibition could suppress EMT, leading to the elevation of expression of TET and miR-200. To address this possibility, we first evaluated miR-22 expression rates in a large panel of breast cancer cells (including two nontumorigenic cells and seven ERα-positive and four ERα-negative breast cancer cell lines); we then focused on LM2 cells as these cells are highly metastatic and express a substantial amount of miR-22 compared to other breast cancer cell lines (Figure S4A). Next, we generated a retroviral polymerase II sponge by inserting miR-22-binding sites, arrayed in tandem, into the 3′ UTR of a reporter gene encoding destabilized GFP driven by the CMV promoter (Figure S4B, top; Ebert et al., 2007). These miR-22-binding sites were perfectly complementary in the seed region, with a bulge at positions 9–12 to prevent degradation of the sponge RNA (Figure S4B, bottom). To examine the effects of miR-22 inhibition on EMT and miR-200 expression, we infected LM2 cells expressing abundant endogenous miR-22 with either the CXCR4 control sponge plasmid (Cont. Sponge) or the sponge plasmid complementary to miR-22 (miR-22 Sponge). Importantly, inhibition of miR-22 by the miR-22 sponge in LM2 cells led to a reduction of metastatic phenotypes, as measured by cell migration, invasion abilities and the expression of the mesenchymal marker vimentin accompanied with elevation in the levels of TET proteins (Figures 5A and 5B). Noticeably, inhibiting miR-22 by the miR-22 sponge also resulted in a significant increase in the levels of miR-200 family members (Figure 5C). In agreement with these in vitro observations, miR-22 decoying by the miR-22 sponge drastically inhibited in vivo breast cancer metastases to the lung in xenograft models established with LM2 cells (Figures 5D and 5E).
+
+Full-size image (99 K)
+Figure S4. 
+TET Family Members Regulates Mammary Epithelial Cell Migration, Stemness And Tumor Invasion, Related to Figures 5 and 6
+(A) miR-22 expression in various human breast cancer cell lines was evaluated by using a real-time qPCR analysis. The data are represented as mean ± SD from three independent experiments.
+(B) A GFP sponge by inserting multiple miR-22-binding sites into the 3′ UTR of a destabilized GFP reporter gene driven by the CMV promoter was generated (top). The imperfect pairing between miR-22 and a sponge with bulged binding sites is diagramed (bottom).
+(C) Real-time qPCR analysis of TET2 (left) or TET3 (right) expression with RNAs from MCF-10A cells infected with the lentiviral vector expressing TET2 or TET3 shRNA. The data are represented as mean ± SD from three independent experiments.
+(D) MCF-10A cells expressing TET2 (top) or TET3 (bottom) shRNA were subjected to the cell migration assay. Representative fields of the migrated cells are shown. Scale bars, 100 μm.
+(E) Mammospheres derived from MCF-10A cells expressing TET2 (left) or TET3 (right) shRNA were measured. The number of mammospheres per 1,000-plated cells in each culture was then quantified. The data are represented as mean ± SD from three independent experiments.
+(F) H&E-, Ki67- and ERα-stained sections of lungs isolated from mice that received orthotopic injection of TET2 shRNA-transduced MCF-7 cells, at 12 weeks after transplantation. Scale bars, 50 μm.
+(G) Methylation-specific PCR (MSP) analysis of mir-200c CpG islands with genomic DNAs purified from MCF-10A cells infected with a combination of the miR-22 and TET2b-expressing vector.
+(H) LM2 cells infected with a combination of the control or miR-22 sponge and the TET2 or TET3 shRNA-expressing vector were subjected to the cell invasion assay. Representative fields of the migrated cells are shown. Scale bars, 100 μm.
+Figure options
+Full-size image (203 K)
+Figure 5. 
+Loss of miR-22 or TET Family Members Alters EMT, Stemness, and miR-200 Levels
+(A) Cell lysates from LM2 cells infected with the control or miR-22 sponge were subjected to western blot analysis for the indicated proteins. PTEN protein was used as a verified miR-22 target to show the efficacy of the miR-22 sponge in this analysis.
+(B) LM2 cells infected with the miR-22 sponge were subjected to the cell migration (top) and invasion assay (bottom). Representative fields of the cells are shown (left). Scale bars, 100 μm. The migrated or invaded cells were also quantified (right). The data are represented as mean ± SD from three independent experiments.
+(C) Real-time qPCR analysis of miR-200a/miR-200c with RNAs from LM2 cells infected with the miR-22 sponge. The data are represented as mean ± SD (n = 3).
+(D and E) H&E-stained sections of primary mammary tumors (left), or H&E-stained and Ki67-stained sections of lungs isolated from mice that received orthotopic injection of control- or miR-22 sponge-infected LM2 cells (right) (D). Scale bars, 100 μm. The incidence of metastases to the lung in mice at 10 weeks after orthotopic injection is also shown (E).
+(F and J) MCF-10A cells infected with the lentiviral vector expressing TET2 (F) or TET3 (J) shRNA were subjected to the cell migration assay and the migrated cells were then quantified. The data are represented as mean ± SD (n = 3).
+(G and K) Cell lysates from MCF-10A cells expressing TET2 (G) or TET3 (K) shRNA were subjected to western blot analysis for the indicated proteins.
+(H and L) Real-time qPCR analysis of miR-200c with RNAs from MCF-10A cells expressing TET2 (H) or TET3 (L) shRNA. The data are represented as mean ± SD (n = 3).
+(I and M) GlucMS-qPCR analysis of CpG islands within the mir-200c promoter regions specifically enriched for 5hmC in MCF-10A cells expressing TET2 (I) or TET3 (M) shRNA. The data are represented as mean ± SD (n = 3).
+See Figures S4A–S4F.
+Figure options
+Next, we investigated whether repression of TET family members could account for the phenotypes caused by miR-22 overexpression in EMT, stemness and metastasis. To this end, we knocked down TET2 or TET3 in MCF-10A cells by using RNA interference (RNAi) and analyzed the resulting effect on EMT and stemness. Notably, knockdown of TET2 or TET3 by RNAi enhanced epithelial cell migration, EMT, and mammosphere formation, suggesting that repression of the TET family creates phenotypes similar to those of miR-22 overexpression (Figures 5F, 5G, 5J, 5K and S4C–S4E). Furthermore, downregulation of TET2 or TET3 resulted in a reduction in 5hmC levels at the mir-200 promoter and caused a decline in miR-200 expression ( Figures 5H, 5I, 5L and 5M).
+
+To further understand the metastasis-suppression function of TET family members in vivo, we analyzed lung metastases in MCF-7 xenograft models with stable knockdown of TET2. Importantly, mice that received the orthotopic implantation of TET2-depleted MCF-7 cells displayed a suggestive lung metastasis (Figure S4F). Taken together, these data indicate that TET family members inhibit EMT, stemness, and tumor metastasis and positively regulate miR-200 expression.
+
+miR-22-Induced EMT, Stemness, and Repression of miR-200 Rely on Its Ability to Silence TET Family Members
+To finally determine whether TET family members directly contribute to miR-22 function, we ectopically expressed TET2 or TET3 in miR-22-overexpressing MCF-10A cells and then analyzed epithelial cell migration, EMT, and stemness. Importantly, the exogenously expressed TET proteins significantly diminished the cell migration, EMT, and mammosphere formation elicited by miR-22 overexpression (Figures 6A–6C and 6F–6H). Furthermore, silencing the expression of global 5hmC and miR-200 caused by miR-22 was rescued by the ectopic expression of TET2 or TET3 (Figures 6D, 6E, 6I, 6J and S4G), suggesting that TET proteins are very likely to be major factors in reliable miR-22 function in suppression of demethylation of miR-200.
+
+Full-size image (116 K)
+Figure 6. 
+TET Family Members Are Required for miR-22-Induced EMT, Stemness, and miR-200 Repression
+(A and F) MCF-10A cells infected with a combination of the miR-22-, (A) TET2b-, and (F) TET3-expressing vector were subjected to the cell migration assay. Representative fields of the migrated cells are shown (left). Scale bars, 100 μm. The migrated cells were also quantified (right). The data are represented as mean ± SD from three independent experiments.
+(B and G) Cell lysates from MCF-10A cells expressing a combination of the miR-22, TET2b (B) and TET3 (G) were subjected to western blot analysis for the indicated proteins. Asterisk indicates nonspecific band.
+(C and H) Mammospheres derived from MCF-10A cells expressing a combination of the miR-22, TET2b (C) and TET3 (H) were measured. The number of mammospheres per 1,000-plated cells in each culture was then quantified. The data are represented as mean ± SD (n = 3).
+(D and I) Genomic DNA purified from MCF-10A cells expressing a combination of the miR-22, TET2b (D) and TET3 (I) was denatured and neutralized. Global 5hmC levels were then measured by a dot blot assay using anti-5hmC antibody.
+(E and J) Real-time qPCR analysis of miR-200c with RNAs from MCF-10A cells expressing a combination of the miR-22, TET2b (E), and TET3 (J). The data are represented as mean ± SD (n = 3).
+(K and L) LM2 cells infected with a combination of the control and miR-22 sponge and the TET2 or TET3 shRNA-expressing vector were subjected to western blot analysis for the indicated proteins (K) and the cell invasion assay (L). Asterisk indicates nonspecific band. The data are represented as mean ± SD (n = 3).
+See Figures S4G and S4H.
+Figure options
+To further evaluate whether the invasion-suppression capacity of miR-22 inhibition directly relates to the TET family, we knocked down TET2 or TET3 by RNAi in LM2 metastatic breast cancer cell line after applying the miR-22 sponge (Figure 6K). Noticeably, the dramatic reduction in cell invasion caused by miR-22 inhibition was overcome by knockdown of TET proteins (Figures 6L and S4H). Taken together, these data suggest that TET family members are the major players responsible for miR-22 function in EMT, stemness and repression of miR-200.
+
+miR-22 Overexpression Correlates with Poor Clinical Outcomes and Silencing of the TET-miR-200 Axis in Patients
+Finally, we sought to determine whether our observations could be verified in human breast cancer patients. Indeed, we observed a high expression rate of miR-22 in non-triple-negative breast cancer (non-TNBC) subtypes of breast cancer when compared to normal breast tissue (Figures 7A and S5A and Buffa et al., 2011 and Enerly et al., 2011).
+
+Full-size image (100 K)
+Figure 7. 
+miR-22 Overexpression Correlates with Poor Clinical Outcomes and Silencing of the TET-miR-200 Axis in Patients
+(A) miR-22 expression profiling was analyzed from a previously published Illumina Human RefSeq-8 and miRNAv1 array data set (superSeries GSE22220). Breast tumors were classified by molecular subtypes, estrogen receptor (ER), progesterone receptor (PR), ERBB2 (HER-2), and epithelial clusters.
+(B) miR-22 expression was analyzed by using a real-time qPCR with RNAs from human breast cancer patient samples. Tumor grade was determined by the parameters, ER, PR, ERBB2 (HER-2), and epithelial clusters. HG, ER-positive high-grade tumors; LG, ER-positive low-grade tumors.
+(C) TNBC patient samples were subdivided into two groups according to low and high expression of miR-22 with median split of all samples. A Kaplan-Meier plot representing the disease-free survival of patients was stratified.
+(D) Anticorrelation between miR-22 and TET family expressions was analyzed using a real-time qPCR with RNAs from breast cancer patient samples.
+(E) Coexpression analysis of TET family and miR-200a/miR-200c was analyzed by using a real-time qPCR with RNAs from breast cancer patient samples.
+(F) Proposed model of the role of miR-22 for EMT, stemness and metastasis through epigenetic inactivation of miR-200 by directly targeting the TET family. miR-22 decreases the level of 5hmC by negatively regulating TET family, followed by epigenetic inactivation of miR-200 due to the reduced 5hmC levels. Ultimately, dysfunction of miR-200 triggers EMT and stemness, which in turn increases mammary tumorigenesis and metastasis.
+See Figure S5 and Table S1.
+Figure options
+To further evaluate the relationship between miR-22 overexpression and tumor aggressiveness in non-TNBC patients, we analyzed miR-22 levels in breast cancer tissue samples positive for ERα by real-time qPCR, using RNU6B as an internal control. Critically, the breast cancer patients found to have high expression levels of miR-22 had high-grade tumors of an advanced stage (p = 0.047; Figure 7B), and poor survival rates as compared to the patients with low miR-22 expression levels (p = 0.022, Figure 7C).
+
+Interestingly, in this analysis miR-22 was also found to be significantly coexpressed with genes involved in breast cancer metastasis, including those that encode matrix metalloproteases 11 and 1 (Pearson r = 0.536 and 0.392, respectively), cathepsin B (0.500), integrin α11 (0.425), TGF-βR-associated protein (0.416), collagen Xα1 (0.411), TGF-β1 (0.407), fibronectin 1 (0.403), and laminin α5 (0.399) ( Bierie and Moses, 2006, McCarthy et al., 1985, Melisi et al., 2008, Radisky and Radisky, 2010, Vuoristo et al., 2007 and Withana et al., 2012) ( Table S1). This observation also supports the notion that in breast cancer miR-22 is prometastatic and contributes to aggressive disease.
+
+More importantly, and consistent with our functional studies, miR-22 expression was directly anticorrelated with the expression of TET1 and TET2 in human breast cancer patients; in addition, a statistically significant anticorrelation between miR-22 and TET3 was also observed but only in the non-TNBC breast cancer subset (Figure 7D and p = 0.014, Figure S5B).
+
+Full-size image (49 K)
+Figure S5. 
+miR-22 Is Highly Expressed and Correlates with the TET3-miR-200 Axis in Non-TNBC Patients, Related to Figures 7
+(A) miR-22 expression profiling was analyzed from a previously published Illumina Human RefSeq-8 and miRNAv1 array data set (superSeries GSE22220). Breast tumors were classified by molecular subtypes, estrogen receptor (ER), progesterone receptor (PR), ERBB2 (HER-2) and epithelial clusters.
+(B) Anticorrelation between miR-22 and TET3 expression was analyzed using a real-time qPCR analysis with RNAs from non-TNBC patient samples.
+(C) Coexpression analysis of TET3 and miR-200a/miR-200c was analyzed by using a real-time qPCR analysis with RNAs from non-TNBC patient samples.
+Figure options
+Lastly, we examined whether downregulation of TET family members by miR-22 can explain its effects on miR-200s expression in human breast cancer tissues. In support of this possibility, we found a clear correlation between the expression of TET1 and TET2 and miR-200s in human breast cancer patients; although a correlation was also found between TET3 and miR-200s, this was not statistically significant (Figures 7E and S5C). Taken together, these results reveal miR-22 as a crucial and unexpected switch for a metastatic phenotype of breast cancer via repression of TET family members/miR-200s.
+
+Discussion
+Collectively, our findings have allowed us to reach a number of important conclusions:
+
+miR-22 promotes EMT and tumor invasion and metastasis. Using in vivo miR-22 transgenic mouse models, we further show miR-22 can promote lobuloalveolar structures and MSCs stemness and impart mammary tumor development and invasive and metastatic properties. Other studies have demonstrated that miR-22 could play a role in the pathogenesis of breast cancer by interacting with the 3′ UTR region of ERα and regulating ERα expression ( Pandey and Picard, 2009 and Xiong et al., 2010). However, we and others found no effect of miR-22 on expression of ERα in either clinical samples or miR-22F/+;MMTV-Cre transgenic animals ( Figures 1H and S1I and Yoshimoto et al., 2011).
+
+The findings presented here are coherent with a proto-oncogenic role for miR-22, and with previous findings implicating miR-22 in the regulation of PTEN (phosphatase and tensin homolog deleted on chromosome 10) tumor suppressor (Poliseno et al., 2010). Although inactivation of PTEN may contribute to the role of miR-22 in breast cancer initiation, it has little effect on EMT in the various tissues including breast (S.J.S. and P.P.P., unpublished data and Mulholland et al., 2012, Shorning et al., 2011 and Wang et al., 2012). Moreover, unlike miR-22F/+;MMTV-Cre transgenic mice, the 5hmC levels in precancerous mammary glands of Pten mutant mice were not appreciably different from littermate controls, indicating that miR-22 functions as an epigenetic modifier and EMT promoter independently of its ability to target PTEN ( Figure S3H).
+
+We propose a mechanism and a model for antagonistic miRNA crosstalks whereby one miRNA (e.g., miR-22) can suppress the expression of another miRNA (e.g., miR-200) via direct targeting of chromatin remodeling enzymes such as TET family members, which in this specific example in turn leads to the hypermethylation of the mir-200 promoter and induction of EMT and stemness ( Figure 7F). Indeed, aberrant DNA methylation of CpG islands from mir-200 family appears to be closely linked to their silencing during EMT and metastasis, whereas epigenetic modifier drugs such as 5-aza-2′-deoxycytidine can reactivate miR-200 family expression, indicating that epigenetic mechanisms play a functional role for controlling the expression of this family in cancer ( Davalos et al., 2012, Li et al., 2010 and Vrba et al., 2010).
+
+TET2-inactivating deletion and mutations have been observed in hematopoietic malignancies ( Shih et al., 2012), and yet to date, whether TET family members play a role in solid tumors and metastasis remained an open question. Our results, i.e., that inhibition of TET proteins triggers a similar phenotype as miR-22 overexpression in EMT and stemness and that the phenotypes caused by miR-22 are abolished by ectopic expression of TET proteins, demonstrate that the TET family acts as a major target in mediating the function of miR-22 in breast cancer and metastasis. In turn, these data suggest that the functional and concomitant loss of TET family members may be extremely relevant to the pathogenesis of solid tumors.
+
+It has also been recently reported that mutations of the isocitrate dehydrogenase genes IDH1 and IDH2 can lead to the aberrant production of 2-hydroxyglutarate (2-HG), a metabolite that inhibits TET2 enzymatic activity, resulting in a hypermethylated promoter phenotype in acute myeloid leukemia (AML) tumors carrying IDH1/2 mutations ( Figueroa et al., 2010), further highlighting a possible critical role for TET family members in the epigenetic deregulation observed in many cancers. Importantly, beside mutations specifically targeting TET2 or IDH1/2 genes, our results now reveal an additional and global silencing mechanism of the whole TET family by miR-22, which can block the 5mC-to-5hmC conversion and thus DNA demethylation. The fact that miR-22 can target multiple TET family members at once explains on the one hand its powerful effects on the global epigenetic landscape but also its potent proto-oncogenic role in multiple tissues ( Song et al., 2013).
+
+Our findings not only help at further defining the molecular basis of tumor metastasis, but also have important implications for the diagnosis, prognosis and treatment of cancer. As miR-22 triggers EMT and a metastatic phenotype and its overexpression correlates with poor clinical outcomes in patients, it might be utilized as a useful biomarker to identify metastatic forms of breast cancer. Critically, our results that inhibiting miR-22 by the miR-22 sponge in highly metastatic cells leads to a reduction of metastatic phenotypes, as well as an elevation of the expression of TET and miR-200, provide a rationale for the therapeutic targeting of miR-22 (e.g., by using the LNA [locked nucleic acid] miR-22 inhibitors) in order to prevent EMT and metastatic phenotypes.
+
+Experimental Procedures
+Mice
+Cre-inducible miR-22 expression construct was generated in which a LoxP-flanked transcriptional STOP element was inserted between a CAGGS promoter and mir-22. This construct was targeted into the mouse Collagen A1 locus using Flp recombinase-mediated genomic integration. Mouse embryonic stem cells carrying a single copy of the mir-22 STOP construct were identified by resistance to the antibiotic marker hygromycin and Southern blotting. Selected clones were injected into blastocysts to generate pups. To generate MMTV-Cre;miR-22F/+ mice, miR-22F/+ mice were bred to MMTV-Cre transgenic strain (Jackson Laboratory). To generate MMTV-PyVT;miR-22F/+;MMTV-Cre or MMTV-neu;miR-22F/+;MMTV-Cre compound transgenic mice, MMTV-miR-22F/+ mice were crossed with MMTV-PyVT or MMTV-neu (unactivated) transgenic mice, respectively (Jackson Laboratory). Animal experiments were approved by the Animal Care Committee of Harvard Medical School/Beth Israel Deaconess Medical Center. The sources of primers used for genotyping are described in the Extended Experimental Procedures.
+
+Immunohistochemistry
+Tissues were fixed in 4% Paraformaldehyde and wash with PBS and transfer to 70% ethanol and then embedded in paraffin in accordance with standard procedures. Sections were stained for hematoxylin and eosin (H&E), Ki-67 (Novocastra), GFP (Cell Signaling), MECA-32 (BioLegend), ERα (Abcam), TTF1 (DAKO), Cytokeratin-8 (Abcam), and cytokeratin-14 (Novus Biologicals). 5-hydroxymethylcytosine-specific antibody (Active Motif) was applied at 1:1,000 dilutions for tissue immunofluorescence analysis.
+
+Orthotopic Injection
+Four-week-old female Nu/Nu immunodeficient mice (Jackson Laboratory) were used for surgery. Mice were anaesthetized with isoflurane. The skin was incised and the endogenous mammary epithelial was removed from the 4th fat pad from the nipple connect to the part distal of the mammary lymph node by electrocauterization before the implantation. Then, MCF-7 or LM2 cells (1 × 105) in 50 μl growth medium/matrigel (BD Biosciences) were injected into the rest of mammary fat pad (n = 6). For an E2 supplementation, mice have been given injections of β-estradiol (Sigma) dissolved in pure sesame oil (0.1 mg per 0.05 ml sesame oil per mouse, subcutaneously) 1 day before orthotopic injection of MCF-7 cells, and then at weekly intervals until the conclusion of the experiment.
+
+Whole-Mount Staining
+The fourth inguinal glands were dissected at the indicated ages and were spread on a glass slide. After fixation with acidic alcohol for 2 hr, the tissues were hydrated and stained in Carmine alum for overnight as described (Jackson-Fisher et al., 2004). Samples were then dehydrated, cleared with xylene, and mounted.
+
+Mouse Mammary Stem Cell Analysis
+Mammary glands were dissected from 7-week-old female mice. After mechanical dissociation, the cells were prepared and analyzed. All reagents were from StemCell Technologies. Cells were stained with biotinylated anti-CD45, -Ter119, -CD31, and -CD140a (eBioscience) for 1 hr on ice. After extensive washing with PBS/2%FBS, cells were stained with anti-CD24-FITC, -CD29-PE, -CD49f and streptavidin-APC-eBluor 780 (eBioscience) for 45 min on ice. For a flow cytometric analysis, DAPI-negative cells were gated and analyzed. Mammary stem cell transplantation assay was performed as previously described (Shimono et al., 2009).
+
+Human Patient Samples
+Human patient samples were analyzed as described in detail in the Extended Experimental Procedures. This study was approved by the institutional review boards of Dana Farber/Harvard Cancer Center.
+
+Glucosylation of Genomic 5hmC Followed by Methylation-Sensitive qPCR
+Genomic DNA was treated with T4 Phage β-glucosyltransferase (T4-BGT, New England Biolabs) according to the manufacturer’s instruction. Glucosylated genomic DNA (100 ng) was digested with 10 U of HpaII, MspI or no enzyme (mock digestion) at 37°C overnight, followed by inactivation for 20 min at 80°C. The HpaII- or MspI-resistant fraction was quantified by qPCR using primers designed around at least one HpaII/MspI site, and normalizing to the mock digestion control. Resistance to MspI directly translates into percentage of 5hmC, whereas 5mC levels were obtained by subtracting the 5hmC contribution from the total HpaII resistance.
+
+Methylation-Specific PCR
+DNA methylation status was examined by the methylation-specific PCR with genomic DNA treated with sodium bisulfite using the EZ DNA Methylation-Direct kit (Zymo Research). Primers as described were used (Davalos et al., 2012).
+
+Statistical Analysis
+Student’s t test was utilized to determine statistical significance unless otherwise specified. p values lower than 0.05 were considered statistically significant.
+
+The details of plasmids, cell culture and transfection, immunocytochemistry, real-time quantitative PCR, luciferase reporter assay, dot and western blot analyses and cell migration and invasion assay are also described in the Extended Experimental Procedures.
+
+open menuExtended Experimental Procedures
+Acknowledgments
+We are grateful to all members of the Pandolfi lab and in particular to Keisuke Ito and Leonardo Salmena for advice and discussion. We thank Thomas Garvey for critical editing of the manuscript as well as Yvonne Tay, Luo Man-Lee, April Greene-Colozzi, and Soon Jung Kim for experimental and technical support. This work was supported by NIH grant CA 082328-14 awarded to P.P.P.
+
+Supplemental Information
+ 
+Document S1. Table S1.  
+Help with PDF filesOptions
+ 
+Document S2. Article plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Adam et al., 2009
+L. Adam, M. Zhong, W. Choi, W. Qi, M. Nicoloso, A. Arora, G. Calin, H. Wang, A. Siefker-Radtke, D. McConkey et al.
+miR-200 expression regulates epithelial-to-mesenchymal transition in bladder cancer cells and reverses resistance to epidermal growth factor receptor therapy
+Clin. Cancer Res., 15 (2009), pp. 5060–5072
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (169)
+Bartel, 2004
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (9806)
+Bendoraite et al., 2010
+A. Bendoraite, E.C. Knouf, K.S. Garg, R.K. Parkin, E.M. Kroh, K.C. O’Briant, A.P. Ventura, A.K. Godwin, B.Y. Karlan, C.W. Drescher et al.
+Regulation of miR-200 family microRNAs and ZEB transcription factors in ovarian cancer: evidence supporting a mesothelial-to-epithelial transition
+Gynecol. Oncol., 116 (2010), pp. 117–125
+
+Article |  PDF (1032 K) | View Record in Scopus | Citing articles (73)
+Betel et al., 2008
+D. Betel, M. Wilson, A. Gabow, D.S. Marks, C. Sander
+The microRNA.org resource: targets and expression
+Nucleic Acids Res., 36 (Database issue) (2008), pp. D149–D153
+
+View Record in Scopus | Citing articles (618)
+Bierie and Moses, 2006
+B. Bierie, H.L. Moses
+Tumour microenvironment: TGFbeta: the molecular Jekyll and Hyde of cancer
+Nat. Rev. Cancer, 6 (2006), pp. 506–520
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (567)
+Breving and Esquela-Kerscher, 2010
+K. Breving, A. Esquela-Kerscher
+The complexities of microRNA regulation: mirandering around the rules
+Int. J. Biochem. Cell Biol., 42 (2010), pp. 1316–1329
+
+Article |  PDF (1048 K) | View Record in Scopus | Citing articles (68)
+Buffa et al., 2011
+F.M. Buffa, C. Camps, L. Winchester, C.E. Snell, H.E. Gee, H. Sheldon, M. Taylor, A.L. Harris, J. Ragoussis
+microRNA-associated progression pathways and potential therapeutic targets identified by integrated mRNA and microRNA expression profiling in breast cancer
+Cancer Res., 71 (2011), pp. 5635–5645
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (63)
+Calin et al., 2005
+G.A. Calin, M. Ferracin, A. Cimmino, G. Di Leva, M. Shimizu, S.E. Wojcik, M.V. Iorio, R. Visone, N.I. Sever, M. Fabbri et al.
+A MicroRNA signature associated with prognosis and progression in chronic lymphocytic leukemia
+N. Engl. J. Med., 353 (2005), pp. 1793–1801
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1304)
+Chaffer and Weinberg, 2011
+C.L. Chaffer, R.A. Weinberg
+A perspective on cancer cell metastasis
+Science, 331 (2011), pp. 1559–1564
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (442)
+Davalos et al., 2012
+V. Davalos, C. Moutinho, A. Villanueva, R. Boque, P. Silva, F. Carneiro, M. Esteller
+Dynamic epigenetic regulation of the microRNA-200 family mediates epithelial and mesenchymal transitions in human tumorigenesis
+Oncogene, 31 (2012), pp. 2062–2074
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (59)
+Ebert et al., 2007
+M.S. Ebert, J.R. Neilson, P.A. Sharp
+MicroRNA sponges: competitive inhibitors of small RNAs in mammalian cells
+Nat. Methods, 4 (2007), pp. 721–726
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (621)
+Enerly et al., 2011
+E. Enerly, I. Steinfeld, K. Kleivi, S.K. Leivonen, M.R. Aure, H.G. Russnes, J.A. Rønneberg, H. Johnsen, R. Navon, E. Rødland et al.
+miRNA-mRNA integrated analysis reveals roles for miRNAs in primary breast tumors
+PLoS ONE, 6 (2011), p. e16915
+
+Full Text via CrossRef
+Esteller, 2008
+M. Esteller
+Epigenetics in cancer
+N. Engl. J. Med., 358 (2008), pp. 1148–1159
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (14)
+Fidler, 2003
+I.J. Fidler
+The pathogenesis of cancer metastasis: the ‘seed and soil’ hypothesis revisited
+Nat. Rev. Cancer, 3 (2003), pp. 453–458
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1485)
+Figueroa et al., 2010
+M.E. Figueroa, O. Abdel-Wahab, C. Lu, P.S. Ward, J. Patel, A. Shih, Y. Li, N. Bhagwat, A. Vasanthakumar, H.F. Fernandez et al.
+Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation
+Cancer Cell, 18 (2010), pp. 553–567
+
+Article |  PDF (2150 K) | View Record in Scopus | Citing articles (506)
+Gregory et al., 2008
+P.A. Gregory, A.G. Bert, E.L. Paterson, S.C. Barry, A. Tsykin, G. Farshid, M.A. Vadas, Y. Khew-Goodall, G.J. Goodall
+The miR-200 family and miR-205 regulate epithelial to mesenchymal transition by targeting ZEB1 and SIP1
+Nat. Cell Biol., 10 (2008), pp. 593–601
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1224)
+Griffiths-Jones et al., 2006
+S. Griffiths-Jones, R.J. Grocock, S. van Dongen, A. Bateman, A.J. Enright
+miRBase: microRNA sequences, targets and gene nomenclature
+Nucleic Acids Res., 34 (Database issue) (2006), pp. D140–D144
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+Gupta and Massagué, 2006
+G.P. Gupta, J. Massagué
+Cancer metastasis: building a framework
+Cell, 127 (2006), pp. 679–695
+
+Article |  PDF (1298 K) | View Record in Scopus | Citing articles (1028)
+Guy et al., 1992a
+C.T. Guy, R.D. Cardiff, W.J. Muller
+Induction of mammary tumors by expression of polyomavirus middle T oncogene: a transgenic mouse model for metastatic disease
+Mol. Cell. Biol., 12 (1992), pp. 954–961
+
+View Record in Scopus | Citing articles (567)
+Guy et al., 1992b
+C.T. Guy, M.A. Webster, M. Schaller, T.J. Parsons, R.D. Cardiff, W.J. Muller
+Expression of the neu protooncogene in the mammary epithelium of transgenic mice induces metastatic disease
+Proc. Natl. Acad. Sci. USA, 89 (1992), pp. 10578–10582
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (680)
+Haffner et al., 2011
+M.C. Haffner, A. Chaux, A.K. Meeker, D.M. Esopi, J. Gerber, L.G. Pellakuru, A. Toubaji, P. Argani, C. Iacobuzio-Donahue, W.G. Nelson et al.
+Global 5-hydroxymethylcytosine content is significantly reduced in tissue stem/progenitor cell compartments and in human cancers
+Oncotarget, 2 (2011), pp. 627–637
+
+View Record in Scopus | Citing articles (69)
+He et al., 2005
+L. He, J.M. Thomson, M.T. Hemann, E. Hernando-Monge, D. Mu, S. Goodson, S. Powers, C. Cordon-Cardo, S.W. Lowe, G.J. Hannon, S.M. Hammond
+A microRNA polycistron as a potential human oncogene
+Nature, 435 (2005), pp. 828–833
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1820)
+Ibarra et al., 2007
+I. Ibarra, Y. Erlich, S.K. Muthuswamy, R. Sachidanandam, G.J. Hannon
+A role for microRNAs in maintenance of mouse mammary epithelial progenitor cells
+Genes Dev., 21 (2007), pp. 3238–3243
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (119)
+Iliopoulos et al., 2010
+D. Iliopoulos, M. Lindahl-Allen, C. Polytarchou, H.A. Hirsch, P.N. Tsichlis, K. Struhl
+Loss of miR-200 inhibition of Suz12 leads to polycomb-mediated repression required for the formation and maintenance of cancer stem cells
+Mol. Cell, 39 (2010), pp. 761–772
+
+Article |  PDF (752 K) | View Record in Scopus | Citing articles (124)
+Ito et al., 2009
+K. Ito, R. Bernardi, P.P. Pandolfi
+A novel signaling network as a critical rheostat for the biology and maintenance of the normal stem cell and the cancer-initiating cell
+Curr. Opin. Genet. Dev., 19 (2009), pp. 51–59
+
+Article |  PDF (989 K) | View Record in Scopus | Citing articles (29)
+Ito et al., 2010
+S. Ito, A.C. D’Alessio, O.V. Taranova, K. Hong, L.C. Sowers, Y. Zhang
+Role of Tet proteins in 5mC to 5hmC conversion, ES-cell self-renewal and inner cell mass specification
+Nature, 466 (2010), pp. 1129–1133
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (593)
+Jackson-Fisher et al., 2004
+A.J. Jackson-Fisher, G. Bellinger, R. Ramabhadran, J.K. Morris, K.F. Lee, D.F. Stern
+ErbB2 is required for ductal morphogenesis of the mammary gland
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 17138–17143
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Jones and Baylin, 2007
+P.A. Jones, S.B. Baylin
+The epigenomics of cancer
+Cell, 128 (2007), pp. 683–692
+
+Article |  PDF (588 K) | View Record in Scopus | Citing articles (1818)
+Ko et al., 2010
+M. Ko, Y. Huang, A.M. Jankowska, U.J. Pape, M. Tahiliani, H.S. Bandukwala, J. An, E.D. Lamperti, K.P. Koh, R. Ganetzky et al.
+Impaired hydroxylation of 5-methylcytosine in myeloid cancers with mutant TET2
+Nature, 468 (2010), pp. 839–843
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (337)
+Langemeijer et al., 2009
+S.M. Langemeijer, R.P. Kuiper, M. Berends, R. Knops, M.G. Aslanyan, M. Massop, E. Stevens-Linders, P. van Hoogen, A.G. van Kessel, R.A. Raymakers et al.
+Acquired mutations in TET2 are common in myelodysplastic syndromes
+Nat. Genet., 41 (2009), pp. 838–842
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (307)
+Lewis et al., 2005
+B.P. Lewis, C.B. Burge, D.P. Bartel
+Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets
+Cell, 120 (2005), pp. 15–20
+
+Article |  PDF (304 K) | View Record in Scopus | Citing articles (4418)
+Li et al., 2010
+A. Li, N. Omura, S.M. Hong, A. Vincent, K. Walter, M. Griffith, M. Borges, M. Goggins
+Pancreatic cancers epigenetically silence SIP1 and hypomethylate and overexpress miR-200a/200b in association with elevated circulating miR-200a and miR-200b levels
+Cancer Res., 70 (2010), pp. 5226–5237
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (96)
+Ling et al., 2012
+B. Ling, G.X. Wang, G. Long, J.H. Qiu, Z.L. Hu
+Tumor suppressor miR-22 suppresses lung cancer cell progression through post-transcriptional regulation of ErbB3
+J. Cancer Res. Clin. Oncol., 138 (2012), pp. 1355–1361
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (10)
+Lujambio et al., 2007
+A. Lujambio, S. Ropero, E. Ballestar, M.F. Fraga, C. Cerrato, F. Setién, S. Casado, A. Suarez-Gauthier, M. Sanchez-Cespedes, A. Git et al.
+Genetic unmasking of an epigenetically silenced microRNA in human cancer cells
+Cancer Res., 67 (2007), pp. 1424–1429
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (442)
+Ma et al., 2007
+L. Ma, J. Teruya-Feldstein, R.A. Weinberg
+Tumour invasion and metastasis initiated by microRNA-10b in breast cancer
+Nature, 449 (2007), pp. 682–688
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1060)
+Malanchi et al., 2012
+I. Malanchi, A. Santamaria-Martínez, E. Susanto, H. Peng, H.A. Lehr, J.F. Delaloye, J. Huelsken
+Interactions between cancer stem cells and their niche govern metastatic colonization
+Nature, 481 (2012), pp. 85–89
+
+McCarthy et al., 1985
+J.B. McCarthy, M.L. Basara, S.L. Palm, D.F. Sas, L.T. Furcht
+The role of cell adhesion proteins—laminin and fibronectin—in the movement of malignant and metastatic cells
+Cancer Metastasis Rev., 4 (1985), pp. 125–152
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (45)
+Melisi et al., 2008
+D. Melisi, S. Ishiyama, G.M. Sclabas, J.B. Fleming, Q. Xia, G. Tortora, J.L. Abbruzzese, P.J. Chiao
+LY2109761, a novel transforming growth factor beta receptor type I and type II dual inhibitor, as a therapeutic approach to suppressing pancreatic cancer metastasis
+Mol. Cancer Ther., 7 (2008), pp. 829–840
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+Mulholland et al., 2012
+D.J. Mulholland, N. Kobayashi, M. Ruscetti, A. Zhi, L.M. Tran, J. Huang, M. Gleave, H. Wu
+Pten loss and RAS/MAPK activation cooperate to promote EMT and metastasis initiated from prostate cancer stem/progenitor cells
+Cancer Res., 72 (2012), pp. 1878–1889
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+Nestor et al., 2012
+C.E. Nestor, R. Ottaviano, J. Reddington, D. Sproul, D. Reinhardt, D. Dunican, E. Katz, J.M. Dixon, D.J. Harrison, R.R. Meehan
+Tissue type is a major modifier of the 5-hydroxymethylcytosine content of human genes
+Genome Res., 22 (2012), pp. 467–477
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (57)
+Neves et al., 2010
+R. Neves, C. Scheel, S. Weinhold, E. Honisch, K.M. Iwaniuk, H.I. Trompeter, D. Niederacher, P. Wernet, S. Santourlidis, M. Uhrberg
+Role of DNA methylation in miR-200c/141 cluster silencing in invasive breast cancer cells
+BMC Res Notes, 3 (2010), p. 219
+
+Full Text via CrossRef
+Olson et al., 2009
+P. Olson, J. Lu, H. Zhang, A. Shai, M.G. Chun, Y. Wang, S.K. Libutti, E.K. Nakakura, T.R. Golub, D. Hanahan
+MicroRNA dynamics in the stages of tumorigenesis correlate with hallmark capabilities of cancer
+Genes Dev., 23 (2009), pp. 2152–2165
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+Pandey and Picard, 2009
+D.P. Pandey, D. Picard
+miR-22 inhibits estrogen signaling by directly targeting the estrogen receptor alpha mRNA
+Mol. Cell. Biol., 29 (2009), pp. 3783–3790
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (91)
+Park et al., 2008
+S.M. Park, A.B. Gaur, E. Lengyel, M.E. Peter
+The miR-200 family determines the epithelial phenotype of cancer cells by targeting the E-cadherin repressors ZEB1 and ZEB2
+Genes Dev., 22 (2008), pp. 894–907
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (718)
+Peinado et al., 2007
+H. Peinado, D. Olmeda, A. Cano
+Snail, Zeb and bHLH factors in tumour progression: an alliance against the epithelial phenotype?
+Nat. Rev. Cancer, 7 (2007), pp. 415–428
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1056)
+Poliseno et al., 2010
+L. Poliseno, L. Salmena, L. Riccardi, A. Fornari, M.S. Song, R.M. Hobbs, P. Sportoletti, S. Varmeh, A. Egia, G. Fedele et al.
+Identification of the miR-106b∼25 microRNA cluster as a proto-oncogenic PTEN-targeting intron that cooperates with its host gene MCM7 in transformation
+Sci. Signal., 3 (2010), p. ra29
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (158)
+Radisky and Radisky, 2010
+E.S. Radisky, D.C. Radisky
+Matrix metalloproteinase-induced epithelial-mesenchymal transition in breast cancer
+J. Mammary Gland Biol. Neoplasia, 15 (2010), pp. 201–212
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (82)
+Saito et al., 2006
+Y. Saito, G. Liang, G. Egger, J.M. Friedman, J.C. Chuang, G.A. Coetzee, P.A. Jones
+Specific activation of microRNA-127 with downregulation of the proto-oncogene BCL6 by chromatin-modifying drugs in human cancer cells
+Cancer Cell, 9 (2006), pp. 435–443
+
+Article |  PDF (635 K) | View Record in Scopus | Citing articles (686)
+Shih et al., 2012
+A.H. Shih, O. Abdel-Wahab, J.P. Patel, R.L. Levine
+The role of mutations in epigenetic regulators in myeloid malignancies
+Nat. Rev. Cancer, 12 (2012), pp. 599–612
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (116)
+Shimono et al., 2009
+Y. Shimono, M. Zabala, R.W. Cho, N. Lobo, P. Dalerba, D. Qian, M. Diehn, H. Liu, S.P. Panula, E. Chiao et al.
+Downregulation of miRNA-200c links breast cancer stem cells with normal stem cells
+Cell, 138 (2009), pp. 592–603
+
+Article |  PDF (1770 K) | View Record in Scopus | Citing articles (413)
+Shorning et al., 2011
+B.Y. Shorning, D. Griffiths, A.R. Clarke
+Lkb1 and Pten synergise to suppress mTOR-mediated tumorigenesis and epithelial-mesenchymal transition in the mouse bladder
+PLoS ONE, 6 (2011), p. e16209
+
+Full Text via CrossRef
+Song et al., 2013
+S.J. Song, K. Ito, U. Ala, L. Kats, K. Webster, S.M. Sun, M. Jongen-Lavrencic, K. Manova-Todorova, J. Teruya-Feldstein, D.E. Avigan et al.
+The oncogenic microRNA miR-22 targets the TET2 tumor suppressor to promote hematopoietic stem cell self-renewal and transformation
+Cell Stem Cell, 13 (2013), pp. 87–101
+
+Article |  PDF (2772 K) | View Record in Scopus | Citing articles (24)
+Song et al., 2011
+C.X. Song, K.E. Szulwach, Y. Fu, Q. Dai, C. Yi, X. Li, Y. Li, C.H. Chen, W. Zhang, X. Jian et al.
+Selective chemical labeling reveals the genome-wide distribution of 5-hydroxymethylcytosine
+Nat. Biotechnol., 29 (2011), pp. 68–72
+
+Full Text via CrossRef
+Tahiliani et al., 2009
+M. Tahiliani, K.P. Koh, Y. Shen, W.A. Pastor, H. Bandukwala, Y. Brudno, S. Agarwal, L.M. Iyer, D.R. Liu, L. Aravind, A. Rao
+Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1
+Science, 324 (2009), pp. 930–935
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1125)
+Toyota et al., 2008
+M. Toyota, H. Suzuki, Y. Sasaki, R. Maruyama, K. Imai, Y. Shinomura, T. Tokino
+Epigenetic silencing of microRNA-34b/c and B-cell translocation gene 4 is associated with CpG island methylation in colorectal cancer
+Cancer Res., 68 (2008), pp. 4123–4132
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (297)
+Visvader and Lindeman, 2008
+J.E. Visvader, G.J. Lindeman
+Cancer stem cells in solid tumours: accumulating evidence and unresolved questions
+Nat. Rev. Cancer, 8 (2008), pp. 755–768
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1066)
+Vrba et al., 2010
+L. Vrba, T.J. Jensen, J.C. Garbe, R.L. Heimark, A.E. Cress, S. Dickinson, M.R. Stampfer, B.W. Futscher
+Role for DNA methylation in the regulation of miR-200c and miR-141 expression in normal and cancer cells
+PLoS ONE, 5 (2010), p. e8697
+
+Full Text via CrossRef
+Vuoristo et al., 2007
+M. Vuoristo, P. Vihinen, T. Vlaykova, C. Nylund, J. Heino, S. Pyrhönen
+Increased gene expression levels of collagen receptor integrins are associated with decreased survival parameters in patients with advanced melanoma
+Melanoma Res., 17 (2007), pp. 215–223
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (12)
+Wang et al., 2012
+T. Wang, L. Zhang, C. Shi, H. Sun, J. Wang, R. Li, Z. Zou, X. Ran, Y. Su
+TGF-β-induced miR-21 negatively regulates the antiproliferative activity but has no effect on EMT of TGF-β in HaCaT cells
+Int. J. Biochem. Cell Biol., 44 (2012), pp. 366–376
+
+Article |  PDF (1594 K) | View Record in Scopus | Citing articles (11)
+Withana et al., 2012
+N.P. Withana, G. Blum, M. Sameni, C. Slaney, A. Anbalagan, M.B. Olive, B.N. Bidwell, L. Edgington, L. Wang, K. Moin et al.
+Cathepsin B inhibition limits bone metastasis in breast cancer
+Cancer Res., 72 (2012), pp. 1199–1209
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (23)
+Wu and Zhang, 2010
+S.C. Wu, Y. Zhang
+Active DNA demethylation: many roads lead to Rome
+Nat. Rev. Mol. Cell Biol., 11 (2010), pp. 607–620
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (345)
+Xiong et al., 2010
+J. Xiong, D. Yu, N. Wei, H. Fu, T. Cai, Y. Huang, C. Wu, X. Zheng, Q. Du, D. Lin, Z. Liang
+An estrogen receptor alpha suppressor, microRNA-22, is downregulated in estrogen receptor alpha-positive human breast cancer cell lines and clinical samples
+FEBS J., 277 (2010), pp. 1684–1694
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+Yang et al., 2013
+H. Yang, Y. Liu, F. Bai, J.Y. Zhang, S.H. Ma, J. Liu, Z.D. Xu, H.G. Zhu, Z.Q. Ling, D. Ye et al.
+Tumor development is associated with decrease of TET gene expression and 5-methylcytosine hydroxylation
+Oncogene, 32 (2013), pp. 663–669
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (51)
+Yoshimoto et al., 2011
+N. Yoshimoto, T. Toyama, S. Takahashi, H. Sugiura, Y. Endo, M. Iwasa, Y. Fujii, H. Yamashita
+Distinct expressions of microRNAs that directly target estrogen receptor α in human breast cancer
+Breast Cancer Res. Treat., 130 (2011), pp. 331–339
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+Supplemental References
+Davis and Vaisvila, 2011
+T. Davis, R. Vaisvila
+High sensitivity 5-hydroxymethylcytosine detection in Balb/C brain tissue
+J. Vis. Exp., 48 (2011), p. e2661
+
+View Record in Scopus | Citing articles (1)
+Debnath et al., 2003
+J. Debnath, S.K. Muthuswamy, J.S. Brugge
+Morphogenesis and oncogenesis of MCF-10A mammary epithelial acini grown in three-dimensional basement membrane cultures
+Methods, 30 (2003), pp. 256–268
+
+Article |  PDF (487 K) | View Record in Scopus | Citing articles (761)
+Ficz et al., 2011
+G. Ficz, M.R. Branco, S. Seisenberger, F. Santos, F. Krueger, T.A. Hore, C.J. Marques, S. Andrews, W. Reik
+Dynamic regulation of 5-hydroxymethylcytosine in mouse ES cells and during differentiation
+Nature, 473 (2011), pp. 398–402
+
+Full Text via CrossRef
+Firestein et al., 2008
+R. Firestein, G. Blander, S. Michan, P. Oberdoerffer, S. Ogino, J. Campbell, A. Bhimavarapu, S. Luikenhuis, R. de Cabo, C. Fuchs et al.
+The SIRT1 deacetylase suppresses intestinal tumorigenesis and colon cancer growth
+PLoS ONE, 3 (2008), p. e2020
+
+Full Text via CrossRef
+Gewinner et al., 2009
+C. Gewinner, Z.C. Wang, A. Richardson, J. Teruya-Feldstein, D. Etemadmoghadam, D. Bowtell, J. Barretina, W.M. Lin, L. Rameh, L. Salmena et al.
+Evidence that inositol polyphosphate 4-phosphatase type II is a tumor suppressor that inhibits PI3K signaling
+Cancer Cell, 16 (2009), pp. 115–125
+
+Article |  PDF (1140 K) | View Record in Scopus | Citing articles (122)
+Hardman et al., 1999
+W.E. Hardman, M.P. Moyer, I.L. Cameron
+Fish oil supplementation enhanced CPT-11 (irinotecan) efficacy against MCF7 breast carcinoma xenografts and ameliorated intestinal side-effects
+Br. J. Cancer, 81 (1999), pp. 440–448
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (53)
+Kasukabe et al., 2005
+T. Kasukabe, J. Okabe-Kado, N. Kato, T. Sassa, Y. Honma
+Effects of combined treatment with rapamycin and cotylenin A, a novel differentiation-inducing agent, on human breast carcinoma MCF-7 cells and xenografts
+Breast Cancer Res., 7 (2005), pp. R1097–R1110
+
+View Record in Scopus | Citing articles (35)
+Shackleton et al., 2006
+M. Shackleton, F. Vaillant, K.J. Simpson, J. Stingl, G.K. Smyth, M.L. Asselin-Labat, L. Wu, G.J. Lindeman, J.E. Visvader
+Generation of a functional mammary gland from a single stem cell
+Nature, 439 (2006), pp. 84–88
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (902)
+Stingl et al., 2006
+J. Stingl, P. Eirew, I. Ricketson, M. Shackleton, F. Vaillant, D. Choi, H.I. Li, C.J. Eaves
+Purification and unique properties of mammary epithelial stem cells
+Nature, 439 (2006), pp. 993–997
+
+View Record in Scopus | Citing articles (715)
+Zhou et al., 2008
+J. Zhou, H. Zhang, P. Gu, J. Bai, J.B. Margolick, Y. Zhang
+NF-kappaB pathway inhibitors preferentially inhibit breast cancer stem-like cells
+Breast Cancer Res. Treat., 111 (2008), pp. 419–427
+
+Article |  PDF (983 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (20)
+Corresponding author contact information
+Corresponding author
+6
+Present address: Oncogenomics Unit, Core Research Laboratory, Istituto Toscano Tumori (CRL-ITT), c/o IFC-CNR Via Moruzzi 1, 56124 Pisa, Italy
+7
+Present address: Department of Molecular and Cellular Oncology, MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA
+8
+These authors contributed equally to this work
+Copyright © 2013 Elsevier Inc. All rights reserved.

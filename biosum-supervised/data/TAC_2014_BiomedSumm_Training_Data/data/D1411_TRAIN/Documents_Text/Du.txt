@@ -1,0 +1,227 @@
+Experimental validation and complexity of miRNA–mRNA target interaction during zebrafish primitive erythropoiesis
+Ting-Ting Dua, b, 1, Yan-Fang Fua, b, 1, Mei Dongb, Lei Wanga, b, Hong-Bo Fana, b, Yi Chena, b, Yi Jina, b, Sai-Juan Chena, b, Zhu Chena, b, Min Denga, b, Qiu-Hua Huanga, Corresponding author contact information, 2, E-mail the corresponding author, Ting Xi Liua, b, c, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2009.02.122
+Get rights and content
+Abstract
+MicroRNAs (miRNAs) are endogenous small non-protein coding RNAs that play important regulatory roles in animals and plants by binding to target transcripts for cleavage or translational repression. Despite increasing number of genes has been predicted to be miRNA targets by bioinformatics analysis and luciferase-based reporter assay in vitro (RA-In Vitro), few of them have been experimentally validated in physiological context. Using transient reporter assay in vivo (TRA-In Vivo), we identified hydroxymethylbilane synthase b (hmbsb) and Krüppel-like transcription factor d (klfd) as potential target gene for miR-451 and miR-144, respectively. Although hmbsb, miR-451, klfd and miR-144 are all co-expressed in the developing erythroid progenitors during zebrafish erythropoiesis, only klfd can be validated as a bona fide physiological target of miR-144 using a transgene-based physiological reporter assay in vivo (PRA-In Vivo). Thus, failure to verify hmbsb as miR-451 target in physiological context raises a crucial question as to how to determine bona fide target of miRNA. The results address the importance of using multiple approaches combined with Western blot analysis to validate the physiological target of a given miRNA.
+
+Keywords
+miRNA; Physiological target gene; Transgene
+MicroRNAs are an abundant class of short ∼22 nucleotide non-coding RNAs that modulate the expression of target gene post-transcriptionally. In animals, they play critical roles in numerous biological processes by binding to imperfect complementary target site(s) within 3′UTR of target mRNAs to induce cleavage or translational inhibition [1].
+
+To date, increasing number of microRNAs has been predicted or identified bioinformatically and experimentally [2], and approximately 30% of human protein-coding genes are predicated to be targeted by microRNAs [3]. In order to dissect the biological function of miRNA, it is necessary to identify the target gene of miRNAs. Several approaches have been commonly utilized to confirm miRNA targets. Firstly, numerous bioinformatic algorithms are used to predict potential miRNA target within their 3′UTRs based on the free energy (ΔG) of miRNA-recognition element (MRE) or 5′ and 3′ sequences flanking the MRE, RNA secondary structure and evolutionary conservation [4], [5] and [6]; Secondly, a luciferase-based reporter assay in vitro (RA-In Vitro), in which the entire 3′UTR of putative target gene is cloned into the downstream of luciferase, has been used for rapid detection of miRNA-target interaction in vitro. This approach results in the identifications of LAMC1 and ITGB1, and NFI-A as miR-124 and miR-223 targets, respectively [7] and [8]; Finally, a fluorescent protein-based transient reporter assay in vivo (TRA-In Vivo) has recently been developed and successfully utilized for miRNA target screen and validation in zebrafish embryos [9], [10] and [11]. In this strategy, in vitro synthesized capped mRNAs containing entire 3′UTRs (or 2–3 tandem MREs) from predicted target genes downstream of EGFP reporter are co-injected with control mRNAs encoding red fluorescent protein plus either miRNA duplex or control duplex into one-cell stage embryos. The levels of EGFP fluorescence and protein are compared to identify potential miRNA-target interaction in vivo in a living animal body. Using this method, several groups including our laboratory successfully identified target genes for zebrafish miR-430, miR-451, miR-214 and miR-144 [9], [10], [11], [12], [13] and [14].
+
+An important limitation for the RA-In Vitro and TRA-In Vivo approaches is that either reporter gene or miRNA was presented in supra-physiological concentrations or in incorrect cellular/cofactor environment, which may lead to non-physiological interactions as previously documented [15] and [16] and suggests that a potential target should be evaluated in its physiological and original cellular context.
+
+Using the commonly used TRA-In Vivo assay in zebrafish embryo, we previously screened 11 bioinformatically predicated targets of miR-144 and identified klfd as a potential target gene [14]. Because miR-144, klfd and gata-1 are co-expressed in the erythroid progenitors of posterior intermediate cell mass (ICM) in 20–24 h post fertilization (hpf) zebrafish embryos, we took use of transgenic approach through using a 5.6 kb-long gata-1 promoter to direct the expression of EGFP reporter carrying the entire 3′UTR of klfd to the ICM erythroid progenitors where endogenous miR-144 is present. The physiological interaction between miR-144 and klfd 3′UTR was subsequently validated in the F1 and F2 offspring of all three established transgenic lines [14]. Thus, the TRA-In Vivo appears to be an efficient and reproducible method to replace the laborious transgene-based physiological reporter assay in vivo (PRA-In Vivo). In this study, we show that the zebrafish orthologue of human hydroxymethylbilane synthase, hmbsb that is originally recognized as a target of another erythroid-specific miR-451 by TRA-In Vivo, is not a bona fide target of miR-451 in physiological cellular context by PRA-In Vivo. The results demonstrate an unexpected complexity of interaction between miRNA and its target site and indicate that the PRA-In Vivo is an alternative approach to validate the miRNA target in a physiological circumstance although it is relatively time-consuming and laborious.
+
+Materials and methods
+Cloning and plasmid construction. Target sequences for 2 × PT and 2 × MRE were synthesized as DNA oligonucleotides (Invitrogen) and cloned into the 3′UTR of pCS2+-EGFP plasmid described previously [14]. All primer sequences and plasmid constructions are available in the Supplemental Table 3.
+
+miRNA duplexes, LNA, morpholino, capped mRNA synthesis. The miR-451 duplex and its 2-base pair mismatch control were synthesized from Shanghai GeneChem Co. The miR-451 LNA-modified oligonucleotides labeled with digoxigenin were purchased from Takara. The miR-451 morpholino antisense oligonucleotides and its 5-mismatch control were purchased from GENE TOOLS. Capped mRNAs were synthesized with the Message machine kit according to manufacturer’s instructions (Ambion). All sequences are available in the Supplemental Table 3.
+
+Whole-mount miRNA and mRNA in situ hybridization. Whole-mount in situ hybridization with Dig-labeled LNA, EGFP and hmbsb mRNA antisense probes were performed as described previously [14].
+
+Generation of anti-hmbsb antibody. A rabbit polyclonal antiserum against zebrafish hmbsb protein was generated using a C-terminal peptide of zebrafish hmbsb as an antigen source, and used to immune a rabbit (AbMART).
+
+Western blot. Western blot was performed as described previously [14]. Signals were detected with mouse anti-actin antibody (1:2000) (Sigma) and rabbit anti-zebrafish hmbsb antibody (1:300).
+
+Establishment of Tg(zgata-1:EGFP-hmbsb 3′UTR) and Tg(zgata-1:EGFP-klfd 3′UTR) transgenic lines. Injected embryos were raised to sexual maturity (F0 founders) and crossed to wild-type zebrafish to generate F1 progeny, which were screened for EGFP expression in the P-LPM and ICM at 16 and 24 hpf as previously described [14].
+
+Results
+miR-451/miR-144 locus is evolutionarily conserved and expressed in erythroid progenitors at specific developmental stages
+Our previous study has shown that miR-144, an erythroid lineage-specific microRNA gene negatively regulates the embryonic α-globin during zebrafish embryogenesis through physiologically targeting an erythroid-specific Krüppel-like transcription factor klfd [14]. Interestingly, another miR-451 localized 92 bp downstream the miR-144, along with eral1 and tbx6 genes, defined an evolutionarily conserved genomic region syntenic to human miR-144/miR-451 locus ( Fig. 1A). The result suggests that the two miRNAs might share the same set of transcriptional regulatory machinery. We examined the spatio-temporal expression of miR-451 by whole-mount miRNA in situ hybridization (WISH) using a digoxigenin (Dig)-labeled locked nucleic acid (LNA)-modified DNA oligonucleotides as a probe. As expected, the results showed that like miR-144, the miR-451 was first detected at 20 hpf, maintained and weakly expressed at 36 hpf in the erythroid progenitors of posterior intermediate cell mass (ICM) ( Fig. 1B, arrows), consistent with the expression pattern observed for miR-144 [14].
+
+Full-size image (111 K)
+Fig. 1. 
+miR-451 is essential for erythropoiesis in zebrafish. (A) Genomic locus of miR-144/451 was evolutionarily conserved between human and zebrafish. (B) Whole-mount miRNA in situ hybridization (WISH) was performed at the indicated stages. Embryos are lateral views with the head to the left. Note that the earliest expression of miR-451 was detected at 20 hpf (arrows), which recapitulated the spatio-temporary expression pattern of miR-144 [14]. (C) Effective knockdown of endogenous miR-451 by antisense morpholino oligonucleotides. Note that the miR-451 expression was not detected by WISH analysis in miR-451 morpholino-injected embryos at 24 hpf (arrow). (D–F) O-dianisidine staining for hemoglobin levels was performed at 30 (D), 36 (E) and 48 hpf (F) in embryos injected with either 5-mismatch control or miR-451 morpholino. Embryos are lateral (left) and ventral view (right).
+Figure options
+miR-451 is essential for erythropoiesis during zebrafish early development
+To explore the biological function of miR-451 during erythroid development, we took advantage of morpholino technology which had been shown to specifically silence miRNA functions in zebrafish [13]. Injection of 16 ng miR-451 morpholino nucleotides ( Fig. 1C, right; n = 94/94, arrow), but not its 5-mismatch morpholino control ( Fig. 1C, left; n = 64/65, arrow) into one-cell stage embryos, was able to efficiently knockdown endogenous miR-451 expression as evidenced by WISH analysis (n = 94/94). Thus, we used 16 ng of morpholino to investigate the phenotypes resulting from a knockdown of the miR-451 gene. O-dianisidine staining showed that the embryonic hemoglobins were obviously decreased in the miR-451-deficient embryos at 30 ( Fig. 1D, bottom; n = 46/48), 36 ( Fig. 1E, bottom; n = 28/45 for medium and n = 17/45 for severe) and 48 hpf ( Fig. 1F, bottom; n = 64/96 for medium and n = 12/96 for severe), compared with morpholino control-injected embryos ( Fig. 1D–F, upper panels; n = 53/60 in D; n = 56/63 in E and n = 42/44 in F, respectively). The results were consistent with previous observation and indicated that miR-451 was essential for differentiation and maturation of erythroid progenitors during zebrafish embryogenesis [17].
+
+Identification of hmbsb, an enzyme in the heme biosynthesis, as a potential target of miR-451 by TRA-In Vivo
+To identify the potential physiological targets for miR-451, the 3′UTR of 138 ICM-expressing genes registered at ZFIN database were computationally screened for potential miR-451 recognition elements (MRE) using RNAhybrid, miRanda and mfold software. Six genes (ets1b, fos, gata2, lmo2, zgc:64051, and hmbsb) were identified as putative miR-451 targets, most of which carried one putative MRE, except that gata2 had two potential MREs (referred to as gata-2a and gata-2b) ( Supplemental Table 1). We then used the TRA-In Vivo assay that had been successfully used to identify targets for miR-430 and miR-144 [9] and [14], to validate the six candidates for miR-451. We inserted two tandem predicted target sites (2 × MRE) of these candidates into the 3′UTR of an EGFP reporter. Meanwhile, we used two tandem perfectly complementary target sites (2 × PT) of miR-451 as a positive control. Co-microinjection of the in vitro synthesized capped EGFP, EGFP-2 × PT or EGFP-2 × MREs mRNAs, with DsRed mRNAs plus either control or miR-451 duplex into one-cell stage zebrafish embryos, resulted in a significant reduction of EGFP fluorescence in the embryos injected with EGFP-2 × PT and EGFP-hmbsb 2 × MRE reporter ( Fig. 2B and H), compared to EGFP reporter without any target sequence in its 3′UTR ( Fig. 2A). No detectable changes were observed in the levels of EGFP fluorescence for EGFP reporters carrying 2 × MREs of ets1b, fos, gata-2a, lmo2 and zgc:64051 ( Fig. 2C–G). We also verified the robust reduction of EGFP protein in the embryos injected with EGFP-2 × PT or EGFP-hmbsb 2 × MRE by Western blot with an antibody against EGFP ( Fig. S1, lanes 4 and 6). The result suggests that hmbsb is a potential target of miR-451 by TRA-In Vivo assay.
+
+Full-size image (132 K)
+Fig. 2. 
+MRE of hmbsb 3′UTR can be efficiently targeted by miR-451 based on transient reporter assay in vivo (TRA-In Vivo). (A and B) EGFP mRNAs without any target sequences (A) or with two perfectly complementary miR-451 targeting sites (2 × PT) (B) were co-injected with either miR-451 duplex control or miR-451 duplex into one-cell stage embryos. (C–H) EGFP mRNAs with two miR-451 recognition element (2 × MRE) from 3′UTR of ets1b (C), fos (D), gata2-a (E), lmo2 (F), zgc:64051 (G) and hmbsb (H) were co-injected with either miR-451 duplex control or miR-451 duplex into one-cell stage embryos. In all panels, dsRed mRNAs was co-injected as an injection control. Alignment of miR-451, PT and MRE sequences were shown (bottom). The fluorescences were evaluated at 22 hpf embryos (lateral views with head to the top).
+Figure options
+The zebrafish hmbsb (hydroxymethylbilane synthase, b) is the orthologue of mammalian hmbs gene that functions as third enzyme in the heme biosynthesis to catalyze the production of hydroxymethylbilane by stepwise condensation of four porphobilinogen units [18]. Whole-mount in situ hybridization showed that zebrafish hmbsb was not maternally expressed ( Fig. 3A–E), and was first detected in the posterior bilateral plate mesoderm (P-LPM) at 14 hpf ( Fig. 3F–H, arrows), and later in the erythroid ICM of 20–26 hpf embryos ( Fig. 3I–L, arrow). The hmbsb-positive erythroid cells were subsequently detected in circulating blood cells and posterior-ICM at 28–36 hpf ( Fig. 3M–P, arrow), and became undetectable at 48 hpf due to the wane of primitive erythropoiesis wave ( Fig. 3Q). The reappearance of hmbsb was observed in the caudal hematopoietic tissue at 72 and 120 hpf, suggesting its involvement in the definitive erythropoiesis ( Fig. 3R and S, arrows) [19].
+
+Full-size image (58 K)
+Fig. 3. 
+Spatio-temporal expression pattern of hmbsb during zebrafish early development. (A–S) WISH analysis of hmbsb expression at the indicated stages. Note that the hmbsb was first detected at 14 hpf in the P-LPM (arrows).
+Figure options
+hmbsb is not physiologically targeted by miR-451 in developing erythroid progenitors
+To test whether the hmbsb is a physiological target of miR-451 during erythropoiesis, we took advantage of transgene-based PRA-In Vivo approach that had been successfully used to validate klfd gene as a physiological target of miR-144 [14]. We placed the entire 3′UTR of hmbsb downstream the EGFP reporter under the control of an erythroid-specific gata-1 promoter, and then injected this transgene construct into one-cell stage embryos [14] and [20]. We screened 56 microinjected zebrafish adults and established four transgenic founders referred to as Tg(zgata-1:EGFP-hmbsb 3′UTR) line 1–4 ( Supplemental Table 2). Two previously established transgenic lines Tg(zgata-1:EGFP) line 2 and Tg(zgata-1:EGFP-klfd 3′UTR) line 5 were used as negative and positive control, respectively. In the control Tg(zgata-1:EGFP) line 2 line, the F1 embryos expressed appropriate levels of EGFP transcripts and fluorescences in the P-LPM at 16 hpf and ICM at 24 hpf ( Fig. 4A, arrows), with some ectopic EGFP expression in dorsal neurons observed (star). In the F2 embryos derived from the Tg(zgata-1:EGFP-klfd 3′UTR) line 5 line, the EGFP transcripts and fluorescences were only observed in the P-LPM at 16 hpf when the miR-144 is not expressed yet, but were absent in the ICM of the same embryo at 24 hpf due to the onset of miR-144 expression in the ICM at 20 hpf ( Fig. 4B).
+
+Full-size image (71 K)
+Fig. 4. 
+Endogenous miR-451 does not target the 3′UTR of hmbsb in a physiological context based on the transgene-based physiological reporter assay in vivo (PRA-In Vivo). (A–C) Expression of EGFP transcripts and EGFP fluorescences in 16 and 24 hpf F1 or F2 embryos derived from Tg(zgata-1:EGFP) line 2 (A), Tg(zgata-1:EGFP-klfd 3′UTR) line 5 (B) and Tg(zgata-1:EGFP-hmbsb 3′UTR) line 4 (C). (D) Western blot analyses of endogenous hmbsb protein levels in miR-451-deficient and hmbsb mRNAs-injected embryos at 24 hpf.
+Figure options
+If hmbsb is a physiological target of miR-451 as clearly displayed by the TRA-In Vivo assay ( Fig. 2H), we should be able to detect the EGFP expression at 16 hpf, but unable at 24 hpf in the ICM of F1 embryos derived from the Tg(zgata-1:EGFP-hmbsb 3′UTR) line 4. However, the expression of EGFP reporter appeared completely normal in all tested embryos at 24 hpf ( Fig. 4C). No changes were observed in additional Tg(zgata-1:EGFP-hmbsb 3′UTR) line 1 and 2 transgenic lines ( Fig. S2). Thus, chromosomal positional effects appeared unlikely to interfere with the physiological interaction between miR-451 and hmbsb in the developing erythroid progenitors. Furthermore, Western blot analysis using an antibody specifically against zebrafish hmbsb also showed that the endogenous hmbsb protein was not affected in the miR-451-deficient embryos ( Fig. 4D). The results suggest that hmbsb is unlikely to be physiological target of miR-451 during zebrafish primitive erythropoiesis, although it was strongly predicated as miR-451 target by bioinformatics and experimentally evidenced by TRA-In Vivo.
+
+Discussion
+Precise predication and identification of miRNA targets in a physiological background has been a great challenge in the miRNA field. The correct cellular environment coupled with strict spatio-temporary control and levels of miRNA and its targets are all important factors to identify bona fide miRNA targets [21] and [22]. The data demonstrate an unexpected complexity of interaction between miRNA and its target sites during zebrafish primitive erythropoiesis. Multiple approaches including PRA-In Vivo in combination with Western blot should be exploited to identify the physiological target of miRNA not only in the zebrafish, but also in other commonly used model organisms.
+
+Acknowledgments
+We thank Dr. Shuo Lin at UCLA for gata-1 promoter plasmid. The work was supported in part by National Basic Research Program of China (2007CB947003), National Natural Science Foundation of China (30525019), and Hundred Scholars Award of Chinese Academy of Sciences, Chinese National High Tech Program 863 (2006AA02A405), and Key Discipline Program of Shanghai Municipal Education Commission (Y0201). We thank all members of the laboratory for helpful discussions.
+
+Appendix A. Supplementary data
+
+Full-size image (24 K)
+Supplementary Fig. S1. 
+Interaction of hmbsb MRE with miR-451 revealed by TRA-In Vivo was confirmed by Western blot analysis. Western blot analysis of lysates prepared from embryos injected with capped EGFP, EGFP-2 × PT and EGFP-hmbsb 2 × MRE mRNAs individually with either miR-451 duplex control or miR-451 duplex. Actin was used as a loading control.
+Figure options
+Full-size image (23 K)
+Supplementary Fig. S2. 
+Endogenous miR-451 does not target the 3′UTR of hmbsb in additional two Tg(zgata-1:EGFP-hmbsb 3′UTR) transgenic lines. (A and B) EGFP mRNAs and fluorescence were normally expressed in the ICM of F1 embryos at 24 hpf derived from line 1 and line 2 of Tg(zgata-1:EGFP-hmbsb 3′UTR).
+Figure options
+ 
+Supplementary Table 1.  
+Help with DOC filesOptions
+ 
+Supplementary Table 2.  
+Help with DOC filesOptions
+ 
+Supplementary Table 3.  
+Help with DOC filesOptions
+References
+[1]
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (9544)
+[2]
+P. Landgraf, M. Rusu, R. Sheridan, A. Sewer, N. Iovino, A. Aravin, S. Pfeffer, A. Rice, A.O. Kamphorst, M. Landthaler, C. Lin, N.D. Socci, L. Hermida, V. Fulci, S. Chiaretti, R. Foa, J. Schliwka, U. Fuchs, A. Novosel, R.U. Muller, B. Schermer, U. Bissels, J. Inman, Q. Phan, M. Chien, D.B. Weir, R. Choksi, G. De Vita, D. Frezzetti, H.I. Trompeter, V. Hornung, G. Teng, G. Hartmann, M. Palkovits, R. Di Lauro, P. Wernet, G. Macino, C.E. Rogler, J.W. Nagle, J. Ju, F.N. Papavasiliou, T. Benzing, P. Lichter, W. Tam, M.J. Brownstein, A. Bosio, A. Borkhardt, J.J. Russo, C. Sander, M. Zavolan, T. Tuschl
+A mammalian microRNA expression atlas based on small RNA library sequencing
+Cell, 129 (2007), pp. 1401–1414
+
+Article |  PDF (1351 K) | View Record in Scopus | Citing articles (1379)
+[3]
+L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel, P.S. Linsley, J.M. Johnson
+Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs
+Nature, 433 (2005), pp. 769–773
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2223)
+[4]
+B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge
+Prediction of mammalian microRNA targets
+Cell, 115 (2003), pp. 787–798
+
+Article |  PDF (342 K) | View Record in Scopus | Citing articles (2189)
+[5]
+S. Griffiths-Jones, R.J. Grocock, S. van Dongen, A. Bateman, A.J. Enright
+miRBase: microRNA sequences, targets and gene nomenclature
+Nucleic Acids Res, 34 (2006), pp. D140–D144
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1)
+[6]
+A. Krek, D. Grun, M.N. Poy, R. Wolf, L. Rosenberg, E.J. Epstein, P. MacMenamin, I. da Piedade, K.C. Gunsalus, M. Stoffel, N. Rajewsky
+Combinatorial microRNA target predictions
+Nat Genet, 37 (2005), pp. 495–500
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2008)
+[7]
+X. Cao, S.L. Pfaff, F.H. Gage
+A functional study of miR-124 in the developing neural tube
+Genes Dev., 21 (2007), pp. 531–536
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (174)
+[8]
+F. Fazi, A. Rosa, A. Fatica, V. Gelmetti, M.L. De Marchis, C. Nervi, I. Bozzoni
+A minicircuitry comprised of microRNA-223 and transcription factors NFI-A and C/EBPalpha regulates human granulopoiesis
+Cell, 123 (2005), pp. 819–831
+
+Article |  PDF (793 K) | View Record in Scopus | Citing articles (528)
+[9]
+A.J. Giraldez, Y. Mishima, J. Rihel, R.J. Grocock, S. Van Dongen, K. Inoue, A.J. Enright, A.F. Schier
+Zebrafish MiR-430 promotes deadenylation and clearance of maternal mRNAs
+Science, 312 (2006), pp. 75–79
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (700)
+[10]
+Y. Mishima, A.J. Giraldez, Y. Takeda, T. Fujiwara, H. Sakamoto, A.F. Schier, K. Inoue
+Differential regulation of germline mRNAs in soma and germ cells by zebrafish miR-430
+Curr. Biol., 16 (2006), pp. 2135–2142
+
+Article |  PDF (1094 K) | View Record in Scopus | Citing articles (134)
+[11]
+W.Y. Choi, A.J. Giraldez, A.F. Schier
+Target protectors reveal dampening and balancing of Nodal agonist and antagonist by miR-430
+Science, 318 (2007), pp. 271–274
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (227)
+[12]
+J.G. Doench, C.P. Petersen, P.A. Sharp
+siRNAs can function as miRNAs
+Genes Dev., 17 (2003), pp. 438–442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (722)
+[13]
+A.S. Flynt, N. Li, E.J. Thatcher, L. Solnica-Krezel, J.G. Patton
+Zebrafish miR-214 modulates Hedgehog signaling to specify muscle cell fate
+Nat. Genet., 39 (2007), pp. 259–263
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+[14]
+Y.F. Fu, T.T. Du, M. Dong, K.Y. Zhu, C.B. Jing, Y. Zhang, L. Wang, H.B. Fan, Y. Chen, Y. Jin, G.P. Yue, S.J. Chen, Z. Chen, Q.H. Huang, Q. Jing, M. Deng, T.X. Liu
+Mir-144 selectively regulates embryonic {alpha}-hemoglobin synthesis during primitive erythropoiesis
+Blood (2008)
+
+[15]
+J.G. Doench, P.A. Sharp
+Specificity of microRNA target selection in translational repression
+Genes Dev., 18 (2004), pp. 504–511
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (825)
+[16]
+Y. Zhao, E. Samal, D. Srivastava
+Serum response factor regulates a muscle-specific microRNA that targets Hand2 during cardiogenesis
+Nature, 436 (2005), pp. 214–220
+
+View Record in Scopus | Citing articles (805)
+[17]
+L.C. Dore, J.D. Amigo, C.O. Dos Santos, Z. Zhang, X. Gai, J.W. Tobias, D. Yu, A.M. Klein, C. Dorman, W. Wu, R.C. Hardison, B.H. Paw, M.J. Weiss
+A GATA-1-regulated microRNA locus essential for erythropoiesis
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 3333–3338
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (126)
+[18]
+N. Raich, P.H. Romeo, A. Dubart, D. Beaupain, M. Cohen-Solal, M. Goossens
+Molecular cloning and complete primary sequence of human erythrocyte porphobilinogen deaminase
+Nucleic Acids Res., 14 (1986), pp. 5955–5968
+
+View Record in Scopus | Citing articles (50)
+[19]
+E. Murayama, K. Kissa, A. Zapata, E. Mordelet, V. Briolat, H.F. Lin, R.I. Handin, P. Herbomel
+Tracing hematopoietic precursor migration to successive hematopoietic organs during zebrafish development
+Immunity, 25 (2006), pp. 963–975
+
+Article |  PDF (3660 K) | View Record in Scopus | Citing articles (145)
+[20]
+Q. Long, A. Meng, H. Wang, J.R. Jessen, M.J. Farrell, S. Lin
+GATA-1 expression pattern can be recapitulated in living transgenic zebrafish using GFP reporter gene
+Development, 124 (1997), pp. 4105–4111
+
+View Record in Scopus | Citing articles (252)
+[21]
+D. Didiano, O. Hobert
+Perfect seed pairing is not a generally reliable predictor for miRNA-target interactions
+Nat. Struct. Mol. Biol., 13 (2006), pp. 849–851
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (235)
+[22]
+R.J. Johnston, O. Hobert
+A microRNA controlling left/right neuronal asymmetry in Caenorhabditis elegans
+Nature, 426 (2003), pp. 845–849
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (438)
+Corresponding author contact information
+Corresponding authors. Address: Laboratory of Development and Diseases, Institute of Health Sciences (IHS), Room 408, Building 1, 225 South Chong Qing Road, Shanghai 200025, China. Fax: +86 21 63857029.
+1
+These authors contributed to this work equally.
+2
+Present address: State Key Laboratory for Medical Genomics, Shanghai Institute of Hematology, RuiJin Hospital, 197 RuiJin Road II, Shanghai 200025, China.

@@ -1,0 +1,515 @@
+An Evolutionarily Conserved Mechanism for MicroRNA-223 Expression Revealed by MicroRNA Gene Profiling
+Taro Fukao1, Corresponding author contact information, E-mail the corresponding author, Yoko Fukuda2, Kotaro Kiga1, Jafar Sharif1, Kimihiro Hino1, Yutaka Enomoto1, Aya Kawamura1, Kaito Nakamura1, Tsutomu Takeuchi3, Masanobu Tanabe3
+ Show more
+DOI: 10.1016/j.cell.2007.02.048
+Under an Elsevier user license
+  Open Archive
+Summary
+Many microRNAs (miRNAs) are evolutionarily conserved and have intriguing expression patterns. Tissue and/or time-specific expressions of some miRNAs are presumably controlled by unique cis-acting regulatory elements that coevolved with the miRNA sequences. Exploiting bioinformatics, we identified several miRNAs whose primary transcripts could be regulated by conserved genomic elements proximal to their transcription start sites. Such miRNAs include microRNA-223 (miR-223), which is reportedly controlled by a unique regulatory mechanism during granulopoiesis. Here, we define a mechanism distinct from that previously proposed to regulate miR-223 expression. We find that the mir-223 gene resembles a “myeloid gene” and might be driven by the myeloid transcription factors, PU.1 and C/EBPs. This mechanism is specified by the conserved proximal cis-regulatory element and might be common among different species. Hence, it needs to be considered that two distinct mechanisms that would play critical roles in myeloid functions and differentiation are actually concerned with the regulation of miR-223.
+
+Introduction
+The miRNAs are a growing class of tiny noncoding RNAs (Lagos-Quintana et al., 2001, Lau et al., 2001 and Lee and Ambros, 2001) that regulate the expression of genes by hybridizing the target sites with complementary sequences that are followed by translational repression, mRNA cleavage, or destabilization (Bartel, 2004 and Yekta et al., 2004). Hundreds of miRNAs have been found in various organisms, and many miRNAs are evolutionarily conserved, suggesting their potential roles in essential physiological events (Bartel, 2004). Some miRNAs have limited expression patterns with strict tissue, cell, and temporal specificities, while others demonstrate ubiquitous or constitutive expression (Pasquinelli et al., 2005). Therefore, studies of regulatory mechanisms governing expression of specific miRNAs would contribute to better understanding of their physiological roles.
+
+Despite growing knowledge on miRNA biology, little is known about the transcriptional regulation of miRNAs. However, cumulative evidence suggests that many miRNAs are transcribed by RNA polymerase II (Lee et al., 2004). This is consistent with spatiotemporally limited expression of miRNAs and indicates that numerous lineage-specific transcription factors would take part in transcriptional regulation of miRNAs. It is now widely accepted that most miRNAs are transcribed from their own promoters, even though a few primary transcripts have been fully defined to date. These primary miRNA transcripts, called pri-miRNAs, are generally thought to be much longer than the conserved stem loops currently used to define miRNA genes, as suggested by several observations. For example, clustered miRNAs are generated from a single primary transcript (Lagos-Quintana et al., 2001 and Lau et al., 2001). Furthermore, some RT-PCR experiments amplified large fragments of the pri-miRNAs (Lee et al. 2002). Identification of full-length primary transcripts with regulatory genomic elements would therefore be a critical step for studying the transcriptional mechanisms for every single miRNA.
+
+The hematopoietic system is a paradigm for the differentiation of distinct cell lineages from multipotent progenitors (Orkin and Zon, 2002). Although lineage commitment decisions in hematopoiesis involve a variety of modulators that are influenced by each other in an unusually complex manner, the central role of transcription factors in this bioprocess has been highlighted to date (Sieweke and Graf, 1998 and Zhu and Emerson, 2002). The current concept favors the emerging hematopoietic lineages being controlled by a unique combination of transcription factors, each of which may appear singly in different lineages (Sieweke and Graf, 1998), rather than the lineages being regulated by single master transcription factors. Thus, diverse combinations of transcription factors specify the fate of distinct cell types by selection and maintenance of a lineage-specific gene-expression program.
+
+Previous studies demonstrated that some miRNAs, such as miR-142, miR-181, and miR-223, are preferentially expressed in the hematopoietic system (Chen et al., 2004 and Chen and Lodish, 2005). For example, miR-181 is highly expressed in lymphoid tissues and cells (Chen et al., 2004). Ectopic expression of miR-181 in murine hematopoietic progenitors resulted in significant increase of B lineage fraction, underscoring possible miRNA involvement in lymphopoiesis (Chen et al., 2004). Furthermore, a very recent study demonstrated the mechanism that specifies myeloid expression of miR-223 and proposed a unique “minicircuitry” comprised of miR-223 and transcription factors, NFI-A and CAAT enhancer-binding protein α (C/EBPα; Fazi et al., 2005). As shown previously, miR-223 is highly conserved, and its myeloid-specific expression is also well characterized in both human and mouse (Chen et al., 2004 and Fazi et al., 2005), suggesting that the regulatory system is expected to be phylogenetically conserved.
+
+Here, we demonstrate a comprehensive strategy for understanding miRNA gene expression and make use of transcriptome data, an integrated database of genome sequences or transcription factors, and bioinformatics; in addition, we follow experimental validation. With this approach, we identified dozens of cDNAs encoding miRNA precursor sequences. These cDNAs are actually considered as pri-miRNAs, and some of them are characterized with genomic information that implicates for their regulatory mechanisms.
+
+As a result of this screening, we defined a regulatory mechanism for myeloid expression of miR-223, which is distinct from the previously proposed machinery but would be common among different species. We thus found that miR-223 originates in a relatively long noncoding RNA (pri-miR-223) driven by the conserved proximal genomic element in which possible binding sites for myeloid transcription factors, PU.1 and C/EBP, are present. Our analyses revealed an essential role of PU.1 in transcription of pri-miR-223. Moreover, C/EBP was shown to strongly enhance the promoter activity, especially in combination with PU.1. Therefore, the conserved proximal cis-acting regulatory element of pri-miR-223 shows general myeloid promoter characteristics, consistent with preferential expression of miR-223 in the myeloid lineage. This evolutionarily conserved promoter is distinct from the previously characterized promoter ( Fazi et al., 2005). Importantly, our reassessment revealed that this conserved promoter is probably active in the induction of miR-223 during All-trans retinoic acid (ATRA)-induced differentiation of the APL cell line, NB4 cells, which is the main experimental system adopted in the previous study ( Fazi et al., 2005). As a result of our study on miR-223 regulation and our reassessment of some parts in the previous report, it needs to be considered how two distinct mechanisms regulate the expression of miR-223.
+
+Results
+Genome-Wide Screening and Characterization of Primary miRNA Transcripts
+It is now widely accepted that many miRNAs are transcribed by RNA polymerase II (Lee et al., 2004 and Kim, 2005). Therefore, we hypothesized that primary transcripts of some miRNAs could appear as mRNA-like RNAs. Recent fruits of FANTOM3, the project of mouse transcriptome analyses, published approximately 103,000 nonredundant cDNA sequences from various tissues (Carninci et al., 2005). Based upon the above hypothesis, we made use of this library for genome-wide screening of mRNA-like primary miRNAs. As an initial approach, we searched for cDNAs encoding full-length miRNA precursor sequences and reasoned that such cDNAs represent primary transcripts of “exonic” miRNAs (Kim and Nam, 2006).
+
+Based on the homology, 102,802 cDNAs of the FANTOM3 database were exhaustively aligned with the 337 registered murine miRNA precursor sequences by BLASTN program (Figure 1A). We identified 42 pairings of cDNA-pre-miRNAs with a perfect match (Table 1). The majority of these miRNA precursors is present on paired cDNAs with +/+ direction, while a few miRNA precursors are on paired cDNAs with opposite direction (+/−; Table 1). Although these antisense transcripts could be involved in important gene-regulatory events as reported recently (Katayama et al., 2005), we excluded them from the candidates for this round of screening.
+
+Full-size image (70 K)
+Figure 1. 
+Mouse Pri-miR-223 Identified by Genome-Wide Screening of Pri-miRNAs
+(A) Schematic for identification of cDNAs encoding known pre-miRNA sequences with conserved upstream genomic regions in FANTOM3.
+(B) Two cDNAs, AK036748 and AK170206, encoding murine miR-223 precursor sequences (upper panel) and their gene structures (lower). The numbers denote the corresponding position at the Mus musculus genomic clone, RP23-23B17.
+(C) Conservation of pri-miR-223 5′ proximal genomic region (upper). A luciferase reporter assay was performed in RAW264.7 cells with indicated reporters (lower). 1 indicates ppri-mmiR-223−758-Luc, 2 indicates ppri-mmiR-223−476-Luc, 3 indicates ppri-mmiR-223−233-Luc, 4 indicates ppri-mmiR-223−146-Luc, 5 indicates ppri-mmiR-223−77-Luc, and 6 indicates pGL3 basic.
+(D) Upper panel: The 5′ proximal promoter region of mouse pri-miR-223 with putative binding motifs for several transcription factors. The transcription start site of AK036748 is fixed as +1. Lower panel: Highly conserved genomic site that contains PU.1- and C/EBP-binding motifs.
+Figure options
+Table 1.
+Murine cDNA Clones Encoding Known miRNA Precursors
+miRNAs	Lengtha	Strandb	Clone	Locationc	Tissue Origin
+mmu-let-7d	103	+/+	AK160312	1006–1108	Wolffian duct includes surrounding region
+mmu-let-7i	85	+/+	AK052706	109–193	kidney
+mmu-mir-100	80	+/+	AK045205	1522–1601	parthenogenote
+mmu-mir-101a	83	+/+	AK021368	207–289	eyeball
+mmu-mir-124a-1	85	+/+	AK044422	736–820	retina
+mmu-mir-130a	64	+/+	AK033350	467–530	testis
+mmu-mir-133b	119	+/+	AK132542	3750–3868	head (brain, eyeball, and pituitary gland)
+mmu-mir-144	66	+/+	AK158085	357–422	inner ear
+mmu-mir-191	74	+/+	AK076537	788–861	head (brain, eyeball, and pituitary gland)
+mmu-mir-196b	85	+/+	AK054058	368–452	oviduct
+mmu-mir-202	72	+/+	AK144366	157–228	testis
+mmu-mir-205	68	+/+	AK014513	1438–1505	skin
+mmu-mir-21	92	+/+	AK043091	2481–2572	cerebellum
+mmu-mir-214	110	+/+	AK051872	1754–1863	eyeball
+mmu-mir-22	95	+/+	AK008813	133–227	stomach
+mmu-mir-22	95	+/+	AK018628	242–336	cecum
+mmu-mir-22	95	+/+	AK021103	151–245	corpus striatum
+mmu-mir-223	110	+/+	AK036748	2437–2546	bone (os femoris)
+mmu-mir-223	110	+/+	AK170206	1937–2046	NOD-derived CD11c +ve dendritic cells
+mmu-mir-331	96	+/+	AK031192	1073–1168	forelimb
+mmu-mir-339	96	+/+	AK019591	2509–2604	testis
+mmu-mir-377	68	+/+	AK077315	913–980	pituitary gland
+mmu-mir-423	109	+/+	AK038056	266–374	thymus
+mmu-mir-425	85	+/+	AK076537	1246–1330	head (brain, eyeball, and pituitary gland)
+mmu-mir-433	124	+/+	AK018276	194–317	olfactory brain
+mmu-mir-451	72	+/+	AK158085	522–593	inner ear
+mmu-mir-546	121	+/+	AK049271	3088–3208	ES cells
+mmu-mir-678	84	+/+	AK077456	1829–1912	whole body
+mmu-mir-678	84	+/+	AK144412	1827–1910	spinal cord
+mmu-mir-678	84	+/+	AK145829	1829–1912	liver
+mmu-mir-678	84	+/+	AK146754	1890–1973	kidney
+mmu-mir-678	84	+/+	AK146966	1926–2009	heart
+mmu-mir-678	84	+/+	AK159186	1835–1918	osteoclast-like cell
+mmu-mir-686	109	+/+	AK133839	260–368	whole body
+mmu-mir-698	109	+/+	AK163187	431–539	cerebellum
+mmu-mir-705	82	+/+	AK078938	53–82	cecum
+mmu-mir-705	82	+/+	AK154922	4698–4779	NOD-derived CD11c +ve dendritic cells
+mmu-mir-707	73	+/+	AK030571	360–432	pituitary gland
+mmu-mir-29c	88	+/−	AK081202	1364–1277	corpus striatum
+mmu-mir-29b-2	81	+/−	AK081202	1871–1791	corpus striatum
+mmu-mir-135a-1	90	+/−	AK052709	2901–2812	kidney
+mmu-mir-181b-2	89	+/−	AK082091	1112–1024	cerebellum
+The method used for extraction of these pre-miRNA/cDNA pairings is described in Experimental Procedures.
+
+a
+Length of each predicted miRNA precursor in miRBase is shown.
+b
+Coding direction of miRNA: cDNA pairing is shown as miRNA strand/cDNA strand.
+c
+Position of each pre-miRNA sequence is shown as corresponding nucleotide numbers of pairing cDNA sequence.
+Table options
+As is well known, 5′ genomic regions proximal to transcription start sites often act as critical cis-regulatory elements for gene transcription ( Lipman, 1997 and Venkatesh and Yap, 2004). Moreover, such proximal cis-acting regulatory elements are often highly conserved among different species. To identify 5′ proximal cis-regulatory elements for each pri-miRNA candidate, we then extracted upstream genomic regions of 38 cDNAs paired with pre-miRNAs with a +/+ direction ( Figure 1A). A BLAT search of a 250 bp upstream sequence of each cDNA screened out 12 pri-miRNA candidates whose 5′ proximal genomic regions are highly conserved among mouse, rat, dog, and human ( Table 2). Putative binding motifs for transcription factors of these 12 regions were then explored by conducting the TESS program ( Table 2).
+
+Table 2.
+miRNA-Containing cDNAs with Conserved Upstream Genomic Elements
+cDNAs (miRNAs)	Chromosome, Strand, Positiona	Transcription Factors and Consensus Sequences
+AK021368 (mmu-mir-101A)	4(−)	ZF5 (1b) [GGCGCG]	IL-6 RE-BP (1) [CTGGAA]
+100854121–100854208	C/EBPβ (1) [CTGGRAA]	Sp1 (1) [GGCGGG]
+AK144366 (mmu-mir-202)	7(−)	GR (1) [TGTGCC]	RAP1 (1) [CANCCNNNCA]
+139809438–139809493	TDEF (1) [CACGTG]	CAC-binding protein (1) [GGGGTG]
+C-Myb (1) [GGTGAG]	
+NF-1/L (1) [TTGGCA]	NF-1 (-like proteins) (1) [CTTGGC]
+AK018628 AK008813 (mmu-mir-22)	11(+)	Sp1 (1) [GTGGGTGTGGc (GTGGGcGTGGT) (GGGCGG)]
+75277745–75277835	TEF-2 (2) [GGGTGTGG]	AML1 (1) [TGTGGT]
+SpRunT-1(1) [TGTGGTC]	Core-binding factor (1)[TGTGGTCA]
+C/EBPAlpha (1) [CGTTGCNNNGCAAcG]
+AP-2 (1) [GCCCAGCA]	CP1 (1) [GATTGG]
+CACCC-binding factor (1) [GGGTGG]	AP-1 (1) [TGCGTCA]
+XPF-1 (1) [CAGCTG]	E4F1 (1) [CGTNACG]
+AK170206 AK036748 (mmu-mir-223)	X(+)	DEF (1) [TTGTCAgTTT]	H4TF-1 (1) [GATTTC]
+92442511–92442611	HNF-1 (1) [GGTTAG]	BBF1 (1) [ACTTTA]
+GATA-1 (1) [TTATCT]	PU.1 (2) [TTCCTC]
+NF-ATp (1) [TGTTTCCT (TTTCCTC)]	C/EBPα (1) [TCATGACACCAt]
+AK044422 (mmu-mir-124a-1)	14(+)	Sp1 (3) [GGGCAG (GGGGGAGGGG) (GGGGC{C/G}GGGC)]
+63542041–63542225	bZIP911 (1) [gGTGACGTGTGC]	E4F1 (1) [GTGACGT]
+ATF (1) [TGACGT]	bZIP910 (1) [TGACGTG]
+bZIP911 (1) [TGACGTGT]	HiNF-C (1) [GAGGGcGGGG]
+BGP1 (1) [GGGGGGG(7-16)]	Pur-1 (1) [AGGGGGGGGGTG]
+NF-S (1) [YGTCAGC]	E47 (1) [CAGATG]
+PU.1 (1) [CTTCTC]	C-MyC (1) [TCTCTTA]
+Tll (1) [AATAATCC]	Kr (1) [tTAATCCGTT]
+C-ETs-2 (1) [AAGGAA]	N-OCT-3 (1) [MATNNWAAT]
+MEF-2 (1) [TTATTTTTAA(YTWWAAAtAR)]
+AnTp (1) [TAATTaTTAAA]	SEF4 (1) [RTTTTTR]
+Dof2 (1) [AAAAAGGAgC]	
+AK018276 (mmu-mir-433)	12(+)	PU.1 (4) [TTCCTC]	GR (6) [TCTTCT]
+110039132–110039250		
+AK049271 (mmu-mir-546)	10(+)	HiNF-C (1) [GAGgGCGGGG]	CAC-binding protein (1) [GGGGTG]
+126381790–126381867	CACCC-binding factor (1) [GGGTGG]	PuF (1) [GGGTGGG]
+Sp1 (2) [GGTGGG (gGGGGAGGGGa)]
+TTF-1 (1) [GCNCTNNAG]	Adf-1 (1) [GCYGYyGYCGY]
+HFH-8 (1) [TGTTTATNYR]	ANF (1) [cTTTATCTGG]
+GATA-1, -2, -3 (1) [TTATCT]	MAZ (1) [GGGAGGG]
+NF-Atp (1) [GGAGCC]	IL-6 RE-BP (1) [CTGGAA]
+C/EBPβ (1) [CTGGRAA]	
+AK133839 (mmu-mir-686)	14(−)	Sp1 (1) [GAGGgGTGGT]	AML1 (1) [TGTGGT]
+53572279–53572320		
+AK163187 (mmu-mir-698)	4(+)	IL-6 RE-BP (1) [CTGGGA]	Zmhox1a (1) [GCTGcCCGTC]
+124244095–124244140		
+AK030571 (mmu-mir-707)	7(+)	N-Oct-3 (1) [MATNNWAAT]	GCF (2) [NNGCGGGGCN]
+44717300–44717355		
+Predicted transcription factors that bind to highly conserved, upstream regions of cDNA sequences.
+
+a
+The position of conserved genomic regions.
+b
+Denotes number of binding sites.
+Table options
+Our screening strategy here demonstrated that available cDNA libraries might be sources of information on mRNA-like primary transcripts of miRNAs. Furthermore, subsequent genome-based profiling of pri-miRNA indicated that some miRNA sequences might have coevolved with genomic elements residing close to their transcription start sites. Such genomic elements contain several consensus motifs for intriguing transcription factors (Table 2), suggesting that these conserved genomic regions would act as cis-acting regulatory elements for pri-miRNAs and that miRNA expression might be regulated by such transcription factors.
+
+Identification of Pri-miR-223 Candidates in FANTOM3
+Of particular interest, AK170206 screened out as pri-miR-223 is derived from the cDNA library of CD11c+ dendritic cells (Table 1), consistent with previous studies reporting myeloid-specific expression of miR-223 (Chen et al., 2004). Furthermore, AK170206 could be regulated by myeloid transcription factors, PU.1 and C/EBP, as the conserved upstream genomic region contains binding motifs for these transcription factors (Table 2). Thus, this case may represent consistency between the tissue specificity and potential regulatory transcription factors.
+
+Although another cDNA clone, AK036748, is also a candidate of pri-miR-223 (Table 1), we found that this clone is practically transcribed from the same gene locus for AK170206 (Figure 1B). Of note, the AK036748 clone is actually expressed in vivo with strict myeloid specificity, and ectopic expression of its splicing variant resulted in the generation of functional mature miR-223, indicating that AK036748 and AK170206 are probably mouse pri-miR-223 in vivo (Figures S1 and S2).
+
+Since the conserved genomic region found by our genome profiling was supposed to be included in the proximal promoter of pri-miR-223, the 5′ flanking genomic region was amplified from mouse genome, which was followed by progressive deletions, and a set of reporter vectors was generated as shown in Figure 1C. Relative reporter activity in miR-223-expressing monocytic cell line, RAW264.7, was examined for each reporter vector using a luciferase reporter assay (Figure 1C). Transcriptional activity was readily detected in the presence of regions that had been deleted for up to −146 bp of mouse pri-miR-223, although significant reduction was observed when the region from −233 bp to −146 bp was removed (Figure 1C). Strikingly, the promoter activity was completely abolished to the basal level when the region from −146 bp to −77 bp was deleted (Figure 1C), indicating that this region contains the essential promoter domain for mouse pri-miR-223 transcription. Notably, this region is actually the highly conserved region identified in the initial genome profiling and contains two binding motifs for PU.1: one nonconventional binding site for C/EBP (Grove and Plumb, 1993) and one site for GATA-1 (Figure 1D).
+
+Together, our data suggest that the highly conserved genomic region that contains consensus motifs for hematopoietic transcription factors is probably the core promoter of mouse pri-miR-223.
+
+Myeloid Transcription Factors Act on the Conserved Promoter of Pri-miR-223
+To examine whether the myeloid transcription factors physically interact with the conserved promoter region in vivo, we performed chromatin immunoprecipitation (ChIP). DNA fragments containing mouse pri-miR-223 promoter as well as mouse Cathepsin C promoter were immunoprecipitated from genomic DNA of WEHI-3 by α-PU.1 and α-C/EBPβ antibodies, suggesting that these myeloid transcription factors are actually interacting with the corresponding promoter sites (Figure 2A).
+
+Full-size image (45 K)
+Figure 2. 
+PU.1 and C/EBPβ Activate Mouse Pri-miR-223 Promoter
+(A) Interactions of PU.1 and C/EBPβ with the core promoter region of mouse pri-miR-223 were examined in WEHI-3 cells using ChIP assay as described in Experimental Procedures. As controls, Cathepsin C promoter (positive control) and c-Myc promoter (negative control) were assayed. Two percent of input DNA was used as a positive control of PCR. The antibody against MKP-1 was used as negative control for ChIP.
+(B) A graded amount (1[0.5 μg], 1/3, and 1/9) of each expression vector together with reporter vectors (Firefly Luc (FL): 0.2 μg; Renilla Luc (RL): 0.05 μg) was transfected into NIH3T3 cells and assayed for a luciferase reporter assay.
+(C) A graded dose (1[0.3μg], 1/3, and 1/9) of C/EBPβ expression vector together with PU.1 expression plasmid (0.2 μg) and reporter vectors (FL: 0.2 μg; RL: 0.05 μg) were transfected in NIH3T3 and examined for the pri-miR-223 promoter activity by a luciferase reporter assay.
+(D) A graded amount (1[0.5μg], 1/3, and 1/9) of mouse GATA-1 expression vector together with reporter vectors (FL: 0.2 μg; RL: 0.05 μg) was transfected into RAW264.7 cells and examined for pri-miR-223 promoter activity by a luciferase reporter assay. All data are represented as mean ± standard deviation (SD) from triplicate assays.
+Figure options
+The action of those transcription factors on the promoter was then examined. Single expression of PU.1 weakly activated mouse pri-miR-223 promoter in miR-223-negative NIH3T3 (Figure 2B). C/EBPβ alone stimulated mouse pri-miR-223 promoter activity, but such activation was weakened in a dose-dependent manner (Figure 2B). However, coexpression of PU.1 and C/EBPβ induced potent promoter activity, and C/EBPβ enhanced it in a dose-dependent manner (Figure 2C), indicating that the combinatorial action of PU.1 and C/EBP confers stable and high-level activity of mouse pri-miR-223 promoter.
+
+We also examined action of GATA-1 on mouse pri-miR-223 promoter and observed a repression of the endogenous activity of pri-miR-223 promoter by this transcription factor (Figure 2D). Notably, however, such repression was observed even in the absence of the consensus-binding motif (data not shown), implying that GATA-1-mediated suppression of mouse pri-miR-223 promoter activity would be due to mechanisms without its DNA binding, as previously reported elsewhere (Nerlov et al., 2000).
+
+Together these data suggest that the activity of mouse pri-miR-223 promoter is highly induced in the presence of myeloid transcription factors, PU.1 and C/EBP, whereas the erythroid transcription factor GATA-1 represses it, which is consistent with myeloid-specific expression of miR-223.
+
+Critical Roles of Myeloid Transcription Factors in Mouse Pri-miR-223 Transcription
+To test whether the putative binding sites for myeloid transcription factors in pri-miR-223 promoter are essential for its transcriptional activity, we introduced various mutations into those binding motifs (Figure 3A) and examined effects of those mutations on the transcriptional activity using a luciferase reporter assay in the RAW264.7 cell line. Although the promoter activity declined significantly with every single mutation (mutations 1, 2, and 3; Figure 3A), the mutation in the downstream PU.1-binding motif (mutation 2) resulted in a drastic decrease of transcriptional activity (Figure 3A), suggesting a dominant role of the corresponding site in transcriptional control of mouse pri-miR-223. Nonetheless, the most striking effect was observed when mutations were introduced in both of the two binding sites for PU.1 (mutation 4) and the transcriptional activity was completely abolished by this combination of mutations (Figure 3A), indicating that these two PU.1-binding sites are essential for induction of mouse pri-miR-223 promoter activity. Mutations in all three sites (mutation 7) logically resulted in the complete extinction of promoter activity, too (Figure 3A). Of note, physical binding of PU.1 to those putative binding sites was also confirmed (Figures S3A and S3B).
+
+Full-size image (84 K)
+Figure 3. 
+PU.1 as Well as C/EBP as a Regulator of Pri-miR-223 Transcription
+(A) The mutant sequences of mouse pri-miR-223 promoter reporter vector are shown (left). The effects of mutations on endogenous pri-miR-223 promoter activity were examined by a luciferase reporter assay. Data are shown as promoter activity relative to the basal endogenous pri-miR-223 promoter activity.
+(B and C) Repression of the endogenous mouse pri-miR-223 promoter activity by overexpression of dominant-negative PU.1 (DN-PU.1; B) or C/EBPβ (C). Together with reporter vectors (FL: 0.2 μg, RL; 0.05 μg), indicated expression vectors (0.5 μg) were transfected into RAW264.7 cells. The activity of mouse pri-miR-223 promoter was then examined by a luciferase reporter assay. For DN-PU.1 expression, each expression vector was used with two doses (1[0.5μg] or 1/10). Data are represented as mean ± SD from triplicate assays. ∗ indicates p < 0.05 in a Student's t test.
+(D) The levels of pri-miR-223 and mature miR-223 in RAW264.7 cells transfected with either pcDNA3, DN-PU.1 (PU.1ΔAD), or DN-C/EBPβ were examined by quantitative real-time RT-PCR as detailed in the Experimental Procedures. Transfectants were enriched as described in the Supplemental Data. Data are shown as mean ± SD from triplicate measurements.
+(E) The level of pri-miR-223 in undifferentiated and differentiated M1 cells was examined by quantitative real-time RT-PCR. Data are shown as mean of triplicate assays.
+(F) Stable transfectants of M1 cells with either control (pcDNA3) or DN-PU.1 (PU.1ΔAD) expression vector were prepared as described in the Supplemental Data and were cultured in the presence of mrIL-6 for 4 days to induce differentiation. The level of pri-miR-223 in each transfectant was then examined by quantitative RT-PCR. Data are represented as mean ± SD from triplicate tests.
+Figure options
+These results demonstrate that transcription of mouse pri-miR-223 is optimally induced in the presence of both of two PU.1-binding sites in the conserved promoter, therefore implying a critical role of PU.1 in pri-miR-223 transcription.
+
+To further confirm the role of PU.1 in pri-miR-223 transcription, we investigated the effect of dominant-negative PU.1 (DN-PU.1) expression on pri-miR-223 promoter activity. Two kinds of DN-PU.1 constructs with deletions of distinct regions in the transactivation domain were prepared (Figure S3C). We then examined actions of DN-PU.1 on mouse pri-miR-223 promoter activity using a luciferase reporter assay and observed that the expression of PU.1ΔAD, but not PU.1ΔGD, significantly repressed the promoter activity, demonstrating that PU.1 plays a significant role in mouse pri-miR-223 transcription and that the acidic domain of PU.1 is critical for transcriptional control of mouse pri-miR-223 (Figure 3B).
+
+In addition to the assays with DN-PU.1, effects of dominant-negative C/EBPβ (DN-C/EBPβ) expression on the pri-miR-223 promoter activity were also examined, and reduction of the promoter activity was observed as well, confirming a significant role of C/EBPs in activation of the pri-miR-223 promoter (Figure 3C).
+
+Consistent with the roles of PU.1 and C/EBPβ in pri-miR-223 promoter activation, endogenous levels of pri- and mature miR-223 were significantly downregulated by the expression of DN-PU.1 (PU.1ΔAD) or DN-C/EBPβ in RAW264.7 cells (Figure 3D).
+
+Regulation of pri-miR-223 by PU.1 further implicates that the inducible level of miR-223 expression would be synchronous with myeloid differentiation. Indeed, we observed significant upregulation of pri-miR-223 level in M1 cells along with IL-6-induced differentiation into macrophage-like cells (Figure 3E). Consistent with the above results, PU.1 appeared as a critical regulator also for differentiation-induced pri-miR-223 upregulation in M1 cells. The M1-PU.1ΔAD line that is stably transfected with PU.1ΔAD vector demonstrated a significantly lower level of pri-miR-223 than that in the M1-mock line after IL-6-induced differentiation (Figure 3F); this also indicates a significant role of PU.1 in pri-miR-223 regulation during myeloid differentiation.
+
+Taken together, our observations indicated that hematopoietic transcription factor PU.1 as well as C/EBPβ are key transcription factors for pri-miR-223 transcription and, therefore, for miR-223 expression.
+
+Regulation of Human miR-223
+Given the mechanism for miR-223 expression in the mouse system, we realized a difference between our results and the previous work reporting the mechanism of human miR-223 regulation (Fazi et al., 2005). Hence, we sought to re-examine human miR-223 regulation.
+
+We first searched for the candidate transcript of human pri-miR-223 and found one registered transcript, LOC389865 RNA (XM_374329), which encodes human pre-miR-223 sequence (Figure 4A). This transcript is actually expressed in human bone marrow as detected by RT-PCR (Figure 4A). We then cloned the transcript, and two alternative splicing forms were obtained (Figure 4B). A genome plot of these transcripts demonstrated that this gene has a conventional exon-intron structure as observed in the mouse miR-223 gene ( Figure 4B).
+
+Full-size image (64 K)
+Figure 4. 
+Cloning and Characterization of Human Pri-miR-223 in Bone Marrow
+(A) Detection of the putative human pri-miR-223, LOC389865 mRNA, in bone marrow cDNA by RT-PCR with indicated primers.
+(B) Cloning of human pri-miR-223. Two alternative splicing forms (Long, L, and Short, S) were cloned as human pri-miR-223, and their genome plots are shown. Numbers denote the position at H. sapiens genomic clone, RP6-159A1 from Xq12-13.3.
+(C) Cloning of full-length 5′ ends of human pri-miR-223. Full-length transcripts were purified from bone marrow total RNA or HeLa cells and were reverse transcribed with GSP3 to obtain full-length human pri-miR-223 5′ ends.
+(D) Schematic for positions of the conserved genomic region, identified transcription start sites, and pre-miR-223 sequence (upper panel). Details of sequences around the transcription start sites of human pri-miR-223 are shown (lower panel). Shaded region indicates the conserved site as shown in Figure 1D and contains the core promoter region. Faint letters denote the first intronic sequence of human pri-miR-223. MTSS indicates major transcription start site. Thin arrows indicate the positions of minor transcription start sites.
+(E) Luciferase reporter assays were performed in either THP-1 or U937 cells using indicated reporters. 1 indicates ppri-hmiR-223−669-Luc, 2 indicates ppri-hmiR-223−293-Luc, 3 indicates ppri-hmiR-223−198-Luc, 4 indicates ppri-hmiR-223−96-Luc, 5 indicates ppri-hmiR-223−16-Luc, and 6 indicates pGL3 basic.
+Figure options
+As LOC389865 may not be full-length transcript, we next performed rapid amplification of cDNA ends (RACE) to obtain the information from its 5′ end. This assay would also be informative in discovering whether other alternative transcripts are present or not. We obtained two distinct 5′ RACE products and estimated the consistent lengths for the scales from two alternative splicing forms of human pri-miR-223 (Figure 4C). We then sequenced a total of 36 clones of the RACE products, and 34 clones indicated the exact same transcription start site; also, the other two clones pointed to two sites that are near the major transcription start site (Figure 4D, lower panel).
+
+The region proximal to the transcription start sites of human pri-miR-223 is that genomic region that is highly conserved among different species and is actually homologous to the core promoter of mouse pri-miR-223 (Figure 4D). A reporter assay similar to one in Figure 1C revealed that the 5′-flanking genomic region of cloned human pri-miR-223 has a potent promoter activity in human monocytic leukemia cell lines, THP-1 and U-937, both of which express a substantial level of miR-223 (Figure 4E). Moreover, the deletion of the conserved region completely abolished the promoter activity, showing the promoter structure similar to that of mouse pri-miR-223 (Figure 4E).
+
+Together, our results strongly indicate that, under physiological condition, human miR-223 is probably regulated by the conserved promoter identified in our study as observed in the mouse miR-223 gene.
+
+Regulation of miR-223 in Acute Promyelocytic Leukemia Cells
+We then sought to reassess the regulation of miR-223 in the exactly same experimental system adopted in the previous work (Fazi et al., 2005).
+
+We first determined the transcription start sites of pri-miR-223 in both nontreated and ATRA-treated NB4 cells. Two relatively abundant RACE products (RP1 and RP2) and one minor product (RP3) were obtained in ATRA-treated NB4 cells (Figure 5A). In addition to these products, another minor RACE product (RP4) was detected in nontreated NB4 cells (Figure 5A). Cloning and sequencing of the RACE products revealed that transcripts represented by RP1, RP2, and RP4 are all generated from the exact same major transcription start site identified in the bone marrow sample (Figure 5A, lower panel). The RP4 is the other splicing variant of human pri-miR-223, which was undetectable in either bone marrow or ATRA-treated NB4 cells. The minor product, RP3, was undetectable in bone marrow RNA, and this revealed one alternative transcription start site at 2039 bp downstream of the major transcription start site (Figure 5A, lower panel). Despite the presence of this minor transcription start site, we were convinced that pri-miR-223 in NB4 cells is mainly transcribed from the exact same major transcription start site identified in human bone marrow. Although it is reported that some pri-miRNAs are hardly detectable due to Drosha activity (Lee et al., 2004), this is not the case for pri-miR-223 since the repertoire of pri-miR-223 transcripts in NB4 cells is not altered even by siRNA-mediated Drosha knockdown (Figure S4A).
+
+Full-size image (73 K)
+Figure 5. 
+miR-223 Regulation during ATRA-Induced Differentiation of NB4 Cells
+(A) Transcription start sites of pri-miR-223 in NB4 cells were determined by 5′ RACE. The 5′ RACE products (RPs) from total RNA samples of bone marrow (BM), NB4 cells (None), ATRA-treated NB4 cells, and HeLa cells are shown (upper panel). M1 indicates 100 bp step ladder; M2 indicates 1 kb DNA ladder (G5711, Promega). The transcription start sites indicated by the 5′ RACE products are shown (lower panel).
+(B) Detection of the human pri-miR-223, LOC389865 mRNA, in ATRA-treated and non-treated NB4 cells using PCR with primer set 3 as indicated in Figure 4A (upper panel). BM indicates bone marrow; ×5 indicates five times more RNA template; and DW indicates distilled water. M1 indicates 100 bp step ladder; M2 indicates 1 kb DNA ladder (G5711, Promega). (Middle panel) The target site of human pri-miR-223 for a specific primer set for real-time PCR is shown. (Lower panel) Upregulation of pri-miR-223 (left) and mature miR-223 (right) during ATRA-induced differentiation of NB4 was observed by quantitative real-time PCR.
+(C) Potent activation of the conserved pri-hmiR-223 promoter in NB4 cells during ATRA-induced differentiation. Luciferase reporter assay was performed as described in Experimental Procedures. 1 indicates ppri-hmiR-223−669-Luc, 2 indicates ppri-hmiR-223−293-Luc, 3 indicates ppri-hmiR-223−198-Luc, 4 indicates ppri-hmiR-223−96-Luc, 5 indicates ppri-hmiR-223−16-Luc, and 6 indicates pGL3 basic. Data are shown as mean ± SD of triplicate measurements.
+(D) Effects of synthetic siRNA-mediated PU.1 or C/EBPα knockdown on ATRA-induced pri-miR-223 promoter activity. NC indicates negative control. Data are shown with mean ± SD of triplicate measurements.
+(E and F) Knockdown of PU.1 (left) or C/EBPα (p42 isoform; right) by corresponding shRNA vectors was confirmed by western blotting (E). Note that there is significant upregulation of PU.1 upon ATRA-treatment as reported previously (Mueller et al., 2006). A portion of each sample was subjected to measurement of the pri-miR-223 level (F). Transfectants were enriched as described in the Supplemental Data. Data in (F) were shown with mean ± SD of triplicate assays.
+Figure options
+Using a specific primer set detecting only the major pri-miR-223 transcripts (Figure 5B, middle), we found that the major variants were upregulated in NB4 cells upon ATRA treatment and that this increase of pri-miR-223 was correlated with the upregulation of mature miR-223 (Figure 5B, lower panel). Strikingly, the promoter containing the conserved genomic region was highly activated in NB4 cells during ATRA-induced differentiation (Figure 5C), consistent with the upregulation of pri-miR-223 and the resultant mature miR-223 level in NB4 cells by ATRA treatment.
+
+The roles of PU.1 and C/EBPα in the ATRA-induced pri-miR-223 promoter activity were also examined using RNAi against these molecules. Knockdown of PU.1 resulted in a significant reduction of basal and ATRA-induced pri-miR-223 promoter activity (Figure 5D). The ATRA-inducible pri-miR-223 promoter activity was slightly reduced by a siRNA against C/EBPα (Figure 5D). Consistently, the endogenous level of pri-miR-223 in ATRA-treated NB4 cells was significantly repressed by knockdown of PU.1 using shRNA expression-vector-based RNAi (Figures 5E and 5F). Again, RNAi against C/EBPα resulted in only a slight reduction of ATRA-induced pri-miR-223 upregulation (Figures 5E and 5F). The levels of mature miR-223 were also assayed at the same time and found to be consistent with the levels of pri-miR-223 (Figure S4B). Weak effects of C/EBPα knockdown in the above assays are probably due to redundant activities of other inducible C/EBP members such as C/EBPβ (K.K. and T.F., unpublished data; Duprez et al. 2003) during ATRA-induced differentiation of NB4 cells. Indeed, we observed more effective reduction of the promoter activity and endogenous level of pri-miR-223 in ATRA-treated NB4 cells transfected with DN-C/EBPβ that would suppress actions of multiple C/EBPs (Figures S4C and S4D).
+
+With these results taken together, we concluded that the conserved genomic region acts as pri-miR-223 promoter in steady state and during ATRA-induced differentiation of NB4 cells and is probably driven by PU.1 and C/EBPs as observed in the mouse miR-223 regulation.
+
+Discussion
+Lineage specificity of miR-223 expression is strict as it is detected exclusively in the myeloid compartment of the hematopoietic system (Chen et al., 2004; Figure S2). In this study, we concluded that myeloid expression of miR-223 might be specified by the conserved 5′ proximal cis-regulatory element that the myeloid transcription factors, PU.1 and C/EBP, cooperatively act on. In myeloid lineage, there is no single master transcription factor that alone governs myeloid differentiation as seen with Pax5 in B lymphopoiesis ( Sieweke and Graf, 1998, Friedman, 2002, Zhu and Emerson, 2002 and Rosmarin et al., 2005). Instead, multiple transcription factors work cooperatively and coordinately to control myeloid gene expression ( Sieweke and Graf, 1998, Friedman, 2002, Rosmarin et al., 2005 and Tenen et al., 1997). Although more than a dozen transcription factors are known to play critical roles in myeloid gene expression ( Sieweke and Graf, 1998, Friedman, 2002 and Rosmarin et al., 2005), PU.1 and C/EBPs are particularly important as they regulate numerous myeloid genes and are specifically required for myeloid differentiation ( Sieweke and Graf, 1998, Friedman, 2002, Rosmarin et al., 2005 and Tenen et al., 1997). In this view, together with its myeloid-specific expression, miR-223 would now be categorized as a member of the so-called “myeloid genes.” Neither PU.1 nor C/EBP is truly myeloid restricted since PU.1 is also found in B cells, and C/EBPs are expressed in multiple organs such as liver and adipocytes ( Rosmarin et al., 2005). Therefore, myeloid-specific expression of miR-223 probably requires both of these transcription factors. In the presence of a substantial amount of PU.1, C/EBPβ could activate the core promoter in a dose-dependent manner ( Figure 2C), indicating that both PU.1 and C/EBP are required for the proper activation of the pri-miR-223 promoter. Together, we speculate that high-level PU.1 confers stable inducibility of the pri-miR-223 promoter activity, and the C/EBP level determines magnitude of the promoter activation in myeloid cells. This idea is consistent with the notion that miR-223 is upregulated during the myeloid differentiation that is associated with increase of PU.1 and C/EBP levels. In addition, we observed repression of endogenous activity of pri-miR-223 promoter by overexpression of erythroid transcription factor, GATA-1 ( Figure 2D). This indicates a critical regulatory role of the conserved element in determining pri-miR-223 expression at the turning point of lineage choice between myeloid and erythroid fates, showing an analogy to the regulation of other myeloid genes ( Sieweke and Graf, 1998).
+
+Through careful molecular analyses, our study contradicts some aspects of a previous study (Fazi et al., 2005). The miR-223 is evolutionarily conserved, and its expression pattern during myeloid differentiation is also similar in human and mouse systems. However, we did not find the unique C/EBPα-binding element that overlaps with NFI-A-binding site in mouse miR-223 gene, suggesting that the previously proposed machinery reported in human miR-223 regulation might not be a conserved mechanism of miR-223 regulation. In general, critical genomic elements regulating gene transcription have been conserved during evolution. Furthermore, it has been proposed that the essential genomic elements of miRNAs, including the precursor sequences, might be evolutionary conserved ( Berezikov et al., 2005).
+
+Fazi et al. (2005) performed most of their experiments based on the assumption that the unique element for C/EBPα and NFI-A lies in the promoter that they identified for the human miR-223. However, the transcription start sites of human pri-miR-223 that we identified in this study indicated a distinct promoter site. Major transcription start sites are found in a genomic region at a rather large distance from the pre-miR-223 sequence. This region is adjacent to the core promoter of pri-miR-223, which was initially found to be the genomic region highly conserved among different species, including human, mouse, rat, and dog. According to our study, the unique element for C/EBPα and NFI-A competition actually lies in the second intronic region. Therefore, it was still thought to be possible that the element would act as an intronic regulatory element such as an intronic enhancer or repressor. In many cases, intronic regulatory elements are also evolutionarily conserved (Himes et al., 2001). However, there are a few exceptional cases reporting nonconserved intronic enhancers such as in the human adiponectin gene (Qiao et al., 2005). However, even this possibility is unlikely since we could not observe any effects of the intronic sequence on the activity of actual promoter we defined (Figure S4E). Therefore, the actual role of the intronic domain should be revisited in future investigations.
+
+We believe that our study clearly demonstrated the importance of gaining information on pri-miRNAs and neighboring genomic elements for studying miRNA expression. In this view, our approach of finding cDNAs encoding miRNA precursors and following genomic profiling was successful and demonstrated that previously established databases are rich sources of primary miRNA transcripts. Because the databases, like FANTOM3, can provide some information on the tissue origin of each cDNA collection (Yamanaka et al., 2001 and Okazaki et al., 2002) in association with EST databases, for example, we can estimate tissue-expression patterns of desired miRNAs by tracing distribution atlases of pairing cDNAs. Indeed, in this study, we could confirm this idea and found an overlapping tissue-expression pattern of miR-223 and its primary transcript, AK036748 (Table 1; Figure S2). In the FANTOM3 database, cDNAs were cloned using the Cap-trapper method that accumulates mRNAs with Cap structure, generating a trustworthy full-length cDNA library (Carninci et al., 2000 and Carninci and Hayashizaki, 1999). Determining the exact transcription start sites is a necessary process for analyzing transcriptional regulation of pri-miRNAs, and, therefore, our strategy of adopting FANTOM3 was feasible and allowed us to perform a genomic analysis by searching the highly conserved genomic region proximal to the transcription start sites. Such conserved regions were supposed to be critical cis-regulatory elements that are actually gene promoters. Here, we could demonstrate that this genome-based analysis lead to the identification of a highly conserved genomic region proximal to the pri-miR-223 transcription start sites that is the actual core promoter and most likely determines myeloid-specific expression of this miRNA. Further, we could identify PU.1 and C/EBP transcription factor-binding motifs, suggesting our approach might prove useful for studying the regulation of other miRNAs. Because gene-expression pattern is regulated by the unique combination of tissue-specific transcription factors, knowing that a specific set of transcription factors binds to a conserved genomic element would give clues for the tissue- and/or cellular-expression pattern of a specific miRNA. Our strategy would also be prominent in this view since many miRNAs have not yet been precisely characterized for their expression patterns and regulatory mechanisms.
+
+Upon the homology search for cDNAs encoding pre-miRNAs, we identified a total of 42 complete pairings of cDNA-pre-miRNAs and practically complete pairings for 33 miRNAs. Further screening for miRNAs with highly conserved genomic regions around the transcription start sites resulted in the identification of ten miRNAs that fit the criterion. Since hundreds of miRNAs have been cloned to date (Bartel and Chen, 2004 and Bentwich et al., 2005), this number appears to be very small. However, we should note that cDNAs as putative pri-miRNA candidates presented in this study are for so-called “exonic” miRNAs (Kim and Nam, 2006). There are many miRNAs derived from intronic regions of mRNA-like RNAs that are designated as “intronic” miRNAs (Kim and Nam, 2006). Indeed, a preliminary screening for pri-miRNAs of intronic miRNAs that used a similar approach identified candidate cDNA clones for more than 100 miRNAs (Y.F. and T.F. unpublished data), with many of them bearing conserved genomic elements.
+
+In summary, by exploiting the combination of bioinformatics and biological approaches, we found a transcriptional mechanism for the myeloid expression of mouse miR-223 that is conserved in human miR-223 regulation. Our study thus proposes an evolutionarily conserved mechanism for miR-223 expression, and we propose an alternative to the previous model of Fazi et al. (2005). Further investigation will have to clarify which of the two mechanisms contributes to the regulation of miR-223, whereby the two need not be mutually exclusive.
+
+Experimental Procedures
+Bioinformatics
+Extraction of mRNA-like RNAs Encoding miRNA Precursor Sequences
+A total of 337 precursor sequences of Mus musculus miRNA were obtained from the miRBase Sequence Database, Release 8.1 (http://microrna.sanger.ac.uk/sequences/ftp.shtml; Griffiths-Jones, 2004). The Riken FANTOM3 database provides mouse nonredundant, full-length cDNA sequences, and a total 102,802 of those sequences were downloaded (ftp://fantom.gsc.riken.jp/FANTOM3/). A homology search was exhaustively conducted between miRNA precursor sequences and cDNA sequences by using BLAST 2.2.12 with a cutoff value of E = 1.0e−5. Among resultant cDNA-pre-miRNA pairs (294 pairs for 61 miRNAs), those with a perfect homology were extracted.
+
+Analyses of Transcription Factor-Binding Sites and Genome Conservation
+To identify the transcription start site, cDNA sequences containing pre-miRNA were mapped to the mouse genome, referring to the NCBI database (http://www.ncbi.nlm.nih.gov). Phylogenetic conservation from 250 bp upstream sequence of each 5′ boundary was analyzed in a Mouse BLAT search of the UCSC Genome Browser (http://genome.ucsc.edu/cgi-bin/hgGateway). Putative binding sites for transcription factors of conserved genomic regions were explored by conducting the Transcription Element Search System (http://www.cbil.upenn.edu/tess/index.html).
+
+Cell Culture, Transfection, and DNA Constructs
+Conditions of cell cultures and transfections are detailed in the Supplemental Data. Details of plasmid constructions are also described in the Supplemental Data.
+
+Chromatin Immunoprecipitation Assay
+ChIP was performed with Chromatin Immunoprecipitation Assay Kit (Upstate Biotechnology, Charlottesville, VA) according to the manufacturer's recommendation. Antibodies used for ChIP were all purchased from Santa Cruz Biotechnology (Santa Cruz, CA). Genomic regions corresponding to promoters of mouse pri-miR-223, Cathepsin C, and c-Myc were amplified by PCR using specific primers shown in Table S1.
+
+Quantitative Real-Time RT-PCR
+Total RNA was isolated from cells using mirVana miRNA Isolation Kit (Ambion) or miRNeasy mini kit (Qiagen) with the protocol specialized for total RNA purification. Relative quantification of human pri-miR-223 was performed by real-time PCR with SYBR green I. Level of mouse pri-miR-223 was determined with Taqman technology. Primers amplifying the mouse pre-miR-223 region and a specific Taqman probe were designed with PrimerExpress software (Applied Biosystems). Taqman MicroRNA Assay (Applied Biosystems) technology with a mature miR-223-specific probe and RT and PCR primers were used for quantification of mature miR-223, according to the manufacturer's instructions. Amplification of HPRT mRNA (for pri-miR-223; Applied Biosystems) and U6 small RNA (for mature miR-223; Applied Biosystems) was done with each experimental sample as an endogenous control to account for differences in the amount and quality of total RNA added to each reaction. All primers and the Taqman probe are shown in Table S1.
+
+RACE
+Total RNA from human bone marrow was obtained from Clontech and used for 5′ RACE. For isolation of total RNA from NB4 cells and to avoid any loss of small RNA fractions, we used the mirVana miRNA Isolation Kit or the miRNeasy mini kit (Qiagen) with the protocol specialized for total RNA purification. The 5′ RACE was performed using the GeneRacer kit (Invitrogen). RACE products were obtained by PCR using TaKaRa Ex Taq (TAKARA Bio. Inc., Tokyo, Japan) with the sense primer provided in the GeneRacer kit and the antisense primer specific for human miR-223 gene listed in Table S1 and were sequenced to determine 5′ ends of human pri-miR-223. For sequencing, RACE products were separated on agarose gels by electrophoresis, and individual bands were cloned using pGEM-T Easy Vector Systems (Promega).
+
+RNA Interference
+Knockdown of hPU.1 and hC/EBPα by RNAi was accomplished by transfections of either duplex siRNAs (for the promoter-reporter assay) or shRNA expression vectors. Duplex siRNAs were synthesized by Japan Bio Services Co., LTD. (Saitama, Japan). Both synthetic and vector-based siRNAs target the same sites in corresponding transcription-factor mRNAs, and the sequences are shown in Table S1. The RNAi target sites for hPU.1 and hC/EBPα have been evaluated empirically and literally (Mueller et al., 2006). AllStars Negative Control siRNA was purchased from Qiagen and was used as the negative-control synthetic siRNA.
+
+Western Blotting
+Western blotting was performed as described previously (Fukao et al. 2002) and is also detailed in the Supplemental Data. Affinity-purified rabbit anti-PU.1 and -C/EBPα antisera were obtained from Santa Cruz Biotechnology (Santa Cruz, CA). Anti-β-actin antibody was purchased from Sigma.
+
+Acknowledgments
+We would like to thank Drs. Michael Lanotte and Masahiro Kizaki for providing us NB4 cells and Prof. Takatsu and Dr. Takaki for WEHI-231 cells. This work is supported by grants from The Sumitomo Foundation (T.F.), Schering Japan (T.F.), and the Keio Gijuku Fukuzawa Memorial Fund (M.T.).
+
+Supplemental Data
+ 
+Document S1. Supplemental Experimental Procedures, Supplemental References, Four Figures, and One Table.  
+Help with PDF filesOptions
+References
+Bartel, 2004
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Citing articles (9544)
+Bartel and Chen, 2004
+D.P. Bartel, C.Z. Chen
+Micromanagers of gene expression: the potentially widespread influence of metazoan microRNAs
+Nat. Rev. Genet., 5 (2004), pp. 396–400
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (619)
+Bentwich et al., 2005
+I. Bentwich, A. Avniel, Y. Karov, R. Aharonov, S. Gilad, O. Barad, A. Barzilai, P. Einat, U. Einav, E. Meiri et al.
+Identification of hundreds of conserved and nonconserved human microRNAs
+Nat. Genet., 37 (2005), pp. 766–770
+
+View Record in Scopus | Citing articles (957)
+Berezikov et al., 2005
+E. Berezikov, V. Guryev, J. van de Belt, E. Wienholds, R.H. Plasterk, E. Cuppen
+Phylogenetic shadowing and computational identification of human microRNA genes
+Cell, 120 (2005), pp. 21–24
+
+Article |  PDF (191 K) | View Record in Scopus | Citing articles (691)
+Carninci and Hayashizaki, 1999
+P. Carninci, Y. Hayashizaki
+High-efficiency full-length cDNA cloning
+Methods Enzymol., 303 (1999), pp. 19–44
+
+Article |  PDF (2483 K) | View Record in Scopus | Citing articles (161)
+Carninci et al., 2000
+P. Carninci, Y. Shibata, N. Hayatsu, Y. Sugahara, K. Shibata, M. Itoh, H. Konno, Y. Okazaki, M. Muramatsu, Y. Hayashizaki
+Normalization and subtraction of cap-trapper-selected cDNAs to prepare full-length cDNA libraries for rapid discovery of new genes
+Genome Res., 10 (2000), pp. 1617–1630
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (209)
+Carninci et al., 2005
+P. Carninci, T. Kasukawa, S. Katayama, J. Gough, M.C. Frith, N. Maeda, R. Oyama, T. Ravasi, B. Lenhard, C. Wells
+The transcriptional landscape of the mammalian genome
+Science, 309 (2005), pp. 1559–1563
+
+View Record in Scopus | Citing articles (1184)
+Chen and Lodish, 2005
+C.Z. Chen, H.F. Lodish
+MicroRNAs as regulators of mammalian hematopoiesis
+Semin. Immunol., 17 (2005), pp. 155–165
+
+Article |  PDF (291 K) | View Record in Scopus | Citing articles (123)
+Chen et al., 2004
+C.Z. Chen, L. Li, H.F. Lodish, D.P. Bartel
+MicroRNAs modulate hematopoietic lineage differentiation
+Science, 303 (2004), pp. 83–86
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1529)
+Duprez et al., 2003
+E. Duprez, K. Wagner, H. Koch, D.G. Tenen
+C/EBPβ: a major PML-RARA-responsive gene in retinoic acid-induced differentiation of APL cells
+EMBO J., 22 (2003), pp. 5806–5816
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+Fazi et al., 2005
+F. Fazi, A. Rosa, A. Fatica, V. Gelmetti, M.L. De Marchis, C. Nervi, I. Bozzoni
+A minicircuitry comprised of microRNA-223 and transcription factors NFI-A and C/EBPα regulates human granulopoiesis
+Cell, 123 (2005), pp. 819–831
+
+Article |  PDF (793 K) | View Record in Scopus | Citing articles (528)
+Friedman, 2002
+A.D. Friedman
+Transcriptional regulation of granulocyte and monocyte development
+Oncogene, 21 (2002), pp. 3377–3390
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (212)
+Fukao et al., 2002
+T. Fukao, M. Tanabe, Y. Terauchi, T. Ota, S. Matsuda, T. Asano, T. Kadowaki, T. Takeuchi, S. Koyasu
+PI3K-mediated negative feedback regulation of IL-12 production in DCs
+Nat. Immunol., 3 (2002), pp. 875–881
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (331)
+Griffiths-Jones, 2004
+S. Griffiths-Jones
+The microRNA Registry
+Nucleic Acids Res., 32 (2004), pp. D109–D111
+
+View Record in Scopus | Citing articles (1043)
+Grove and Plumb, 1993
+M. Grove, M. Plumb
+C/EBP, NF-kappa B, and c-Ets family members and transcriptional regulation of the cell-specific and inducible macrophage inflammatory protein 1 alpha immediate-early gene
+Mol. Cell. Biol., 13 (1993), pp. 5276–5289
+
+View Record in Scopus | Citing articles (130)
+Himes et al., 2001
+S.R. Himes, H. Tagoh, N. Goonetilleke, T. Sasmono, D. Oceandy, R. Clark, C. Bonifer, D.A. Hume
+A highly conserved c-fms gene intronic element controls macrophage-specific and regulated expression
+J. Leukoc. Biol., 70 (2001), pp. 812–820
+
+View Record in Scopus | Citing articles (49)
+Katayama et al., 2005
+S. Katayama, Y. Tomaru, T. Kasukawa, K. Waki, M. Nakanishi, M. Nakamura, H. Nishida, C.C. Yap, M. Suzuki, J. Kawai et al.
+Antisense transcription in the mammalian transcriptome
+Science, 309 (2005), pp. 1564–1566
+
+View Record in Scopus | Citing articles (681)
+Kim, 2005
+V.N. Kim
+MicroRNA biogenesis: coordinated cropping and dicing
+Nat. Rev. Mol. Cell Biol., 6 (2005), pp. 376–385
+
+View Record in Scopus | Citing articles (940)
+Kim and Nam, 2006
+V.N. Kim, J.W. Nam
+Genomics of microRNA
+Trends Genet., 22 (2006), pp. 165–173
+
+Article |  PDF (211 K) | View Record in Scopus | Citing articles (419)
+Lagos-Quintana et al., 2001
+M. Lagos-Quintana, R. Rauhut, W. Lendeckel, T. Tuschl
+Identification of novel genes coding for small expressed RNAs
+Science, 294 (2001), pp. 853–858
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2071)
+Lau et al., 2001
+N.C. Lau, L.P. Lim, E.G. Weinstein, D.P. Bartel
+An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans
+Science, 294 (2001), pp. 858–862
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1728)
+Lee and Ambros, 2001
+R.C. Lee, V. Ambros
+An extensive class of small RNAs in Caenorhabditis elegans
+Science, 294 (2001), pp. 862–864
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1426)
+Lee et al., 2002
+Y. Lee, K. Jeon, J.T. Lee, S. Kim, V.N. Kim
+MicroRNA maturation: stepwise processing and subcellular localization
+EMBO J., 21 (2002), pp. 4663–4670
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (915)
+Lee et al., 2004
+Y. Lee, M. Kim, J. Han, K.H. Yeom, S. Lee, S.H. Baek, V.N. Kim
+MicroRNA genes are transcribed by RNA polymerase II
+EMBO J., 23 (2004), pp. 4051–4060
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1526)
+Lipman, 1997
+D.J. Lipman
+Making (anti)sense of non-coding sequence conservation
+Nucleic Acids Res., 25 (1997), pp. 3580–3583
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (73)
+Mueller et al., 2006
+B.U. Mueller, T. Pabst, J. Fos, V. Petkovic, M.F. Fey, N. Asou, U. Buergi, D.G. Tenen
+ATRA resolves the differentiation block in t(15;17) acute myeloid leukemia by restoring PU.1 expression
+Blood, 107 (2006), pp. 3330–3338
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (90)
+Nerlov et al., 2000
+C. Nerlov, E. Querfurth, H. Kulessa, T. Graf
+GATA-1 interacts with the myeloid PU.1 transcription factor and represses PU.1-dependent transcription
+Blood, 95 (2000), pp. 2543–2551
+
+View Record in Scopus | Citing articles (206)
+Okazaki et al., 2002
+Y. Okazaki, M. Furuno, T. Kasukawa, J. Adachi, H. Bono, S. Kondo, I. Nikaido, N. Osato, R. Saito, H. Suzuki et al.
+Analysis of the mouse transcriptome based on functional annotation of 60,770 full-length cDNAs
+Nature, 420 (2002), pp. 563–573
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (826)
+Orkin and Zon, 2002
+S.H. Orkin, L.I. Zon
+Hematopoiesis and stem cells: plasticity versus developmental heterogeneity
+Nat. Immunol., 3 (2002), pp. 323–328
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (193)
+Pasquinelli et al., 2005
+A.E. Pasquinelli, S. Hunter, J. Bracht
+MicroRNAs: a developing story
+Curr. Opin. Genet. Dev., 15 (2005), pp. 200–205
+
+Article |  PDF (142 K) | View Record in Scopus | Citing articles (158)
+Qiao et al., 2005
+L. Qiao, P.S. Maclean, J. Schaack, D.J. Orlicky, C. Darimont, M. Pagliassotti, J.E. Friedman, J. Shao
+C/EBPα regulates human adiponectin gene transcription through an intronic enhancer
+Diabetes, 54 (2005), pp. 1744–1754
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (97)
+Rosmarin et al., 2005
+A.G. Rosmarin, Z. Yang, K.K. Resendes
+Transcriptional regulation in myelopoiesis: Hematopoietic fate choice, myeloid differentiation, and leukemogenesis
+Exp. Hematol., 33 (2005), pp. 131–143
+
+Article |  PDF (241 K) | View Record in Scopus | Citing articles (90)
+Sieweke and Graf, 1998
+M.H. Sieweke, T. Graf
+A transcription factor party during blood cell differentiation
+Curr. Opin. Genet. Dev., 8 (1998), pp. 545–551
+
+Article |  PDF (909 K) | View Record in Scopus | Citing articles (129)
+Tenen et al., 1997
+D.G. Tenen, R. Hromas, J.D. Licht, D.E. Zhang
+Transcription factors, normal myeloid development, and leukemia
+Blood, 90 (1997), pp. 489–519
+
+View Record in Scopus | Citing articles (552)
+Venkatesh and Yap, 2004
+B. Venkatesh, W.H. Yap
+Comparative genomics using fugu: a tool for the identification of conserved vertebrate cis-regulatory elements
+Bioessays, 27 (2004), pp. 100–107
+
+Yamanaka et al., 2001
+I. Yamanaka, H. Kiyosawa, K. Yagi, Y. Tomaru, Y. Hasegawa, A. Nogami, C. Schonbach, T. Gojobori, R. Baldarelli, D.P. Hill et al.
+Functional annotation of a full-length mouse cDNA
+Nature, 409 (2001), pp. 685–690
+
+Yekta et al., 2004
+S. Yekta, I.H. Shih, D.P. Bartel
+MicroRNA-directed cleavage of HOXB8 mRNA
+Science, 304 (2004), pp. 594–596
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (924)
+Zhu and Emerson, 2002
+J. Zhu, S.G. Emerson
+Hematopoietic cytokines, transcription factors and lineage commitment
+Oncogene, 21 (2002), pp. 3295–3313
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (163)
+Corresponding author contact information
+Corresponding author
+Copyright © 2007 Elsevier Inc. All rights reserved.

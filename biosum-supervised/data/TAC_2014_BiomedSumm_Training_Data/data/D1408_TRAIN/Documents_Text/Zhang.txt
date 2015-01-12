@@ -1,0 +1,293 @@
+MicroRNA-21 protects from mesangial cell proliferation induced by diabetic nephropathy in db/db mice
+Edited by Laszlo Nagy
+Zheng Zhanga, b, Corresponding author contact information, E-mail the corresponding author, Huimin Penga, b, Corresponding author contact information, E-mail the corresponding author, Junxia Chena, b, Xin Chenc, Fei Hana, Xiaoming Xua, Xiaoyan Hea, Ning Yana
+Show more
+http://dx.doi.org/10.1016/j.febslet.2009.05.021
+  Open Archive
+Abstract
+Diabetic nephropathy (DN) is a major diabetic complication. But the initiating molecular events triggering DN are unknown. Recent researches have addressed the role of microRNAs in diabetes and its complications. In this study, we looked for microRNAs expression during early DN, and showed microRNA-21 (miR-21) expression was downregulated in response to early DN in vitro and in vivo. Over-expression of miR-21 inhibited proliferation of mesangial cells and decreased the 24-h urine albumin excretion rate in diabetic db/db mice. Moreover, we identified PTEN as a target of miR-21. We also found PI3 K and p-Akt increased in miR-21 treated mesangial cells and db/db mice. Overall, these studies for the first time provide evidence for the potential role of miR-21 in early DN.
+
+Keywords
+Diabetic nephropathy; Mesangial cell; MicroRNAs; PTEN phosphohydrolase
+1. Introduction
+Diabetes is the leading cause of end-stage renal failure, and much of the morbidity and mortality of diabetes can be attributed to nephropathy. Diabetic nephropathy (DN) is characterized early in its course by glomerular hypertrophy and, importantly, mesangial hypertrophy, which is associated with the eventual glomerulosclerosis [1]. Despite the great progresses that have been made in recent decades, the mechanism involved in mesangial hypertrophy is not fully understood.
+
+MicroRNAs (miRNAs) are a group of endogenous, small non-coding RNAs that can modulate protein expression [2]. Recently, it has been reported that miRNAs play a role in diabetes mellitus and its complications [3]. The pancreatic islet-specific miRNA, miR-375, plays a negative role in insulin secretion, and it is also a key determinant of blood homeostasis [4]. The over-expression of miR-29 aggravates insulin resistance [5]. MiR-133 promotes diabetic cardiopathy by inhibiting kalium ion channel of ERG gene, indicating the participation of miRNAs in diabetes mellitus and its complications [6]. However, the role of miRNAs in mediating mesangial hypertrophy of DN has never been studied.
+
+In this study, we investigated the potential role of miRNA in mesangial hypertrophy during early DN in vitro and in vivo. Through a screen with miRNA array, we identified miR-21 as a regulator of early DN. First, over-expression of miR-21 inhibited proliferation of mesangial cells in high glucose condition. In addition, the 24-h urine albumin excretion rate (UAE) of diabetic db/db mice was decreased after being treated with plasmids containing miR-21 (30 mg/kg/d) for 4 weeks. Consistent with its function in vitro and in vivo, miR-21 regulates the expression of the DN-related genes, including PTEN [7], which has a role in organ size [8] and [9]. This has been well established. Taken together, our results strongly suggest that there is an important regulatory role of miR-21 in DN mesangial cell proliferation, implying that it might be a novel potential target for intervention and prevention of DN.
+
+2. Materials and methods
+2.1. Animals
+C57BL/6JLepr background db/db, db/m mice from SLACCAS (Shanghai, China) were used and the guidelines on humane use and care of laboratory animals for biomedical research published by NIH (No. 85-23, revised 1996) were strictly complied for all animal experiments. Nine 8-week-old male db/db mice and nine db/m controls were killed for microarray and cell culture studies when significant elevation of UAE was detected in db/db mice. Glomeruli were taken from mice in both groups and were sieved from renal cortical tissue, as described previously [10]. A further 48 male mice at 4 weeks of age were randomized into 4 groups: control group (12 normal untreated db/m mice), miR-21-treated db/db group (12 mice), empty plasmid pGenesil-1-treated db/db group (12 mice), or untreated db/db group (12 mice). Mice were injected intraperitoneally with plasmids (30 mg/kg/d of miR-21 or 30 mg/kg/d of pGenesil-1) until UAE was significantly higher in the untreated db/db mice than the db/m normal control mice. Whole blood was obtained from the retro-orbital sinus of fed mice, and glucose and UAE were measured using an automatic biochemistry analyzer (Hitachi Ltd., Tokyo, Japan). After mice were killed, cortical sections of both kidneys from each mouse were pooled. A slice of renal cortical tissue from each mouse was also immediately frozen in liquid nitrogen for later use.
+
+2.2. Cell culture, cloning and expression of miR-21
+Primary mouse mesangial cells isolated and cultured as described previously [7] and [10], cultured in RPMI 1640 medium with 5 mmol/l glucose and 10% fetal bovine serum (FBS). Mmu-miR-21 gene sequences were selected from the miRBase at http://microrna.sanger.ac.uk/sequences/. Mir-21 (mmu-miR-21, MIMAT0000530) was chemically synthesized (Takara Shuzo, Shiga, Japan), and contained a SacI restriction enzyme cut site: mmu-miR-21-A 5′-CACCTAGCTTATCAGACTGATGTTGATTTTTTG-3′; mmu-miR-21-B 5′-AGCTCAAAAAATCAACATCAGTCTGATAAGCTA-3′. The DNA segments were cloned into pGenesil-1 expression vectors (Wuhan Genesil Biotechnology Co. Ltd., Wuhan, China) and confirmed by DNA sequencing. The expression of miR-21 was induced by transfection of the plasmid into the cells using Lipofectamine 2000 (Invitrogen, CA, USA) according to the manufacturer’s instructions. Cells were maintained in serum-free medium with 5 mmol/l glucose for 24 h, which was followed by incubation with fresh serum-free medium with 25 mmol/l glucose (high glucose) for 48 h. Control cells were incubated with 5 mmol/l glucose plus 20 mmol/l mannitol (low glucose) for 48 h. Mesangial cells in this study were divided into four groups: cells in low glucose as the normal control group, a miR-21-transfected high glucose group, empty plasmid pGenesil-1-transfected high glucose group, and untransfected high glucose group.
+
+2.3. Isolation of total RNA
+RNA was extracted by Trizol reagent (Invitrogen) as standard method.
+
+2.4. MiRNA microarray
+Small RNA separating, quality control, labeling, hybridization and scanning were performed by LC Sciences (Houston, TX, USA) using miRMouse_10.0_071620 miRNA array chip, based on Sanger miRBase Release 10.0. The array was repeated twice. Preliminary statistical analysis was performed by LC sciences on mean value normalized by Locally-weighted Regression (LOWESS) method on the background-subtracted data. Then, Student’s test was performed to identify the different miRNA expression. MiRNAs with P < 0.01 was considered as having significant difference between DN and control.
+
+2.5. Real time reverse transcription (RT)-PCR
+MiR-21 expression was measured by real time RT-PCR (details shown in Supplementary data).
+
+2.6. Growth inhibition test
+MTT Cell Proliferation Assay Kit (Invitrogen) was employed to analyze cell proliferation (details shown in Supplementary data).
+
+2.7. Glomerular morphological observation
+Sieved renal glomeruli taken from mice were observed and measured under the microscope with a micrometer. The average diameter of 100 glomeruli in a group was counted in three different visual fields.
+
+2.8. Bioinformatics analysis
+Three programs, PicTar, miRanda, and TargetScan [11], [12] and [13], were used to predict the targets of miR-21.
+
+2.9. Western blot analysis
+PTEN, PI3K p85α and phospho-Akt (Ser473) proteins were measured by Western blot using mouse anti-PTEN (Santa Cruz, CA), mouse anti-PI3K (Santa Cruz, CA) and rabbit anti- phospho-Akt (Cell Signaling Technology, Beverly, MA), respectively (details shown in Supplementary data).
+
+2.10. Immunocytochemistry and immunohistochemistry
+PTEN protein of mesangial cells was analyzed by immunocytochemistry, and PTEN protein of renal tissues was tested by immunohistochemistry using mouse anti-PTEN (Santa Cruz, CA) (details shown in Supplementary data). The average gray value of 50 sections in each group was measured by Beihang CM-2000 Biomedical Image Analysis System software (Beihang, Beijing, China).
+
+2.11. Immunofluorescence staining
+PI3K p85α and phospho-Akt (Ser473) proteins were detected by immunofluorescence using mouse anti-PI3K (Santa Cruz, CA) and rabbit anti-phospho-Akt antibody (Cell Signaling Technology), respectively (details shown in Supplementary data).
+
+2.12. Statistical analysis
+All statistical tests were performed using SPSS software (SPSS, Chicago, IL). Comparisons between groups were carried out by ANOVA or Kruskal–Wallis tests, as appropriate, according to the Gaussian or non-Gaussian distribution of the data. Changes in each group were analyzed using one-way ANOVA or non-parametric tests. P-values < 0.05 were considered statistically significant. All data are presented as means ± standard deviation (S.D.).
+
+3. Results and discussion
+3.1. Reduced expression of miR-21 in db/db DN mice
+To study the potential role of miRNA in DN, we used the miRMouse_10.0_071620 miRNA array, which contained 568 probes, to scan miRNAs that were differentially expressed between db/db DN mice and controls. We used db/db mice with hyperglycemia and significant elevation of urinary albumin excretion were used as animal model of the early stage of DN because db/db mice develop kidney disease with similarities to human diabetic nephropathy [14]. Among 568 miRNAs screened, 66 miRNAs exhibited significantly different expression level between glomerular tissues of db/db DN mice and db/m controls (Supplementary Table 1). Of these potential candidates, we focused on miR-21 because its one of the most obviously altered miRNAs and inhibited cell growth in many pathological changes [15], [16] and [17]. Consistent with the array results, real-time RT-PCR further validated that down-regulation of miR-21 in DN was a recurrent event (Supplementary Fig. 1A). Together, it suggested that expression level of miR-21 was inversely related to DN.
+
+3.2. Over-expression of miR-21 in miR-21-transfected cells and miR-21-treated mice kidneys
+Results of real-time RT-PCR showed that miR-21 was significantly increased in the miR-21-transfected cells compared with the empty plasmid pGenesil-1-transfected cells (P < 0.01), suggesting miR-21 can be over-expressed by Lipofectamine 2000 transfection in the cells ( Supplementary Fig. 1B). Also, the expression of miR-21 was significantly enhanced in the kidneys of miR-21-treated db/db mice compared with the pGenesil-1-treated mice (P < 0.01). It suggested that miR-21 was over-expressed in the kidneys of miR-21-treated db/db mice by injection plasmids containing miR-21 (30 mg/kg/d) for 4 weeks ( Supplementary Fig. 1C).
+
+3.3. MiR-21 prevents mesangial cells proliferation in vitro
+We cultured mesangial cells under high glucose conditions to mimics diabetic pathology [7]. The cloning of miR-21 is shown in Supplementary Fig. 2. The cells proliferation of cells in the miR-21-transfected group was significantly inhibited compared with the empty plasmid pGenesil-1-transfected and untransfected groups (all: P < 0.01). Thus, our results showed that miR-21 inhibited mesangial cells proliferation in high glucose conditions ( Supplementary Fig. 3).
+
+3.4. Effects of miR-21 on biochemical parameters and glomerular morphology in vivo
+At 4 weeks of age, db/db mice already showed significant hyperglycemia, whereas UAE did not increase compared with db/m mice (Table 1). At 8 weeks of age, db/db mice showed significant elevation of UAE (Table 1). Thus, 4-week-old db/db mice exhibited features similar to the human normoalbuminuric stage, and 8-week-old mice showed features similar to the human early stage of diabetic nephropathy.
+
+Table 1.
+Body weight, blood glucose and UAE of mice.
+Groups	Body weight (g)	Blood glucose (mmol/l)	24-h urine albumin excretion (UAE; μg/24 h)
+4 weeks
+The miR-21-treated db/db group	18.5 ± 0.3⁎⁎	10.1 ± 1.2⁎	11.7 ± 1.1
+The pGenesil-1-treated db/db group	18.9 ± 0.6⁎⁎	10.1 ± 1.0⁎	11.5 ± 0.7
+The untreated db/db group	19.5 ± 0.2⁎⁎	10.2 ± 0.5⁎	11.0 ± 1.2
+The control db/m group	13.6 ± 0.1	8.8 ± 0.6	10.4 ± 0.7
+
+8 weeks
+The miR-21-treated db/db group	29.0 ± 1.4⁎⁎	20.1 ± 3.7⁎⁎	22.5 ± 7.1
+The pGenesil-1-treated db/db group	29.9 ± 1.5⁎⁎	27.6 ± 4.7⁎⁎	88.0 ± 13.8⁎⁎,⁎⁎⁎
+The untreated db/db group	31.2 ± 1.5⁎⁎	24.4 ± 3.8⁎⁎	91.8 ± 9.9⁎⁎,⁎⁎⁎
+The control db/m group	18.6 ± 1.2	9.9 ± 0.5	11.5 ± 0.9
+⁎
+P < 0.05 vs. controls.
+⁎⁎
+P < 0.01 vs. controls.
+⁎⁎⁎
+P < 0.01 vs. the miR-21-treated group.
+Table options
+Plasmids containing miR-21 (30 mg/kg/d) were injected into 4-week-old db/db mice for 4 weeks. Body weight and blood glucose were significantly higher in the three diabetic groups compared with the normal control group between 4 and 8 weeks of age, but there were no significant differences between the three diabetic groups. Additionally, UAE did not differ significantly between the four groups of mice at 4 weeks of age. However, in the 8-week-old mice (i.e., 4 weeks after starting injection of plasmids), UAE was significantly decreased in miR-21 treated group among the three diabetic groups (Table 1).
+
+The diameter of glomeruli of 8-week-old mice was significantly greater in the pGenesil-1-treated and untreated db/db groups than that in the control group. Interestingly, it was smaller in miR-21-treated group than in the pGenesil-1-treated and untreated groups (Supplementary Fig. 4). Together, our results demonstrated that miR-21 played a protective role in glomerular hypertrophy and the onset of early DN.
+
+3.5. PTEN was a target of miR-21 in DN
+All known mRNA 3′-UTRs were scanned as potential targets for miR-21 by in silico analysis. Of all the miR-21 targets predicted, PTEN was found to be most appropriate. It was predicted PTEN, which contained the binding site of miR-21 in its 3′ UTR, could be regulated by miR-21 (Supplementary Fig. 5). And it was reported PTEN gene was a direct target of miR-21 by cloning a fragment of the 3′-UTR of PTEN mRNA containing the putative miR-21-binding sequence into a firefly luciferase reporter construct using the dual-luciferase reporter assay system (Promega) in other diseases [18] and [19]. Interestingly, previous works have demonstrated that PTEN expression was associated with DN [7]. Therefore, it is tempting to speculate that over-expression of miR-21 might prevent mesangial hypertrophy via down-regulation of PTEN in DN.
+
+To test this hypothesis, we examined PTEN protein expression by Western blot in vitro and in vivo. Our data showed PTEN protein expression was reduced in the cells in the miR-21-transfected group compared with the cells in the pGenesil-1-transfected and the untransfected groups (Fig. 1A). Similarly, in the renal tissues of 8-week-old db/db mice, PTEN protein levels were significantly decreased in the miR-21-treated group compared with the pGenesil-1-treated group and the untreated group (Fig. 1B).
+
+Full-size image (66 K)
+Fig. 1. 
+MiR-21 can reduce PTEN protein expression in mesangial cells incubated in high glucose conditions and in db/db mice. (A) The protein expression of PTEN was decreased in the miR-21-transfected cells compared with that in the pGenesil-1-transfected and untransfected cells. (B) Protein expression of PTEN was significantly lower in the kidneys of the miR-21-treated db/db mice group than that in the pGenesil-1-treated and untreated db/db mice groups. (C) Immunohistochemical analysis of PTEN protein expression in mesangial cells showed PTEN was decreased in the miR-21-transfected cells compared with that in the pGenesil-1-transfected and untransfected cells. Arrows indicate mesangial cells. Figures are shown at ×200 magnification. (D) Immunohistochemical analysis of PTEN protein expression in the glomeruli of mice showed PTEN was decreased in the miR-21-treated group compared with that in the pGenesil-1-treated and untreated groups. Arrows indicate renal glomerular tissue. Figures are shown at ×400 magnification. (E) Bar graphs show the average gray value of PTEN protein level in cells of each group. Results are showed as means ± S.D. ∗∗P < 0.01 vs. controls, ▴▴P < 0.01 vs. the miR-21-transfected group. (F) Bar graphs show the average gray value of PTEN protein level in glomeruli of each group. Results are showed as means ± S.D. ∗∗P < 0.01 vs. controls, ▴▴P < 0.01 vs. the miR-21-treated group.
+Figure options
+Furthermore, the expression profile of PTEN protein was reduced in cells (Fig. 1C and E) or animals (Fig. 1D and F) treated with plasmid miR-21, as tested by immunohistochemistry. Our results suggested that over-expression of PTEN may act as an originator or promoter of DN, which is consistent with the report of Mahimainathan [7]. Moreover, the proliferation of mesangial cells may be delayed when PTEN was specifically inhibited by miR-21 in early DN.
+
+3.6. MiR-21 regulates the PI3K/Akt signal pathway
+Western blotting revealed that PI3K p85α and phospho-Akt (Ser 473) were increased in the cells in miR-21-transfected group than the pGenesil-1-transfected and the untransfected groups. Moreover, in the renal tissues of 8-week-old db/db mice, PI3K p85α and phospho-Akt (Ser 473) were increased in the miR-21-treated group than those in the pGenesil-1-treated and the untreated groups (Fig. 2)
+
+Full-size image (22 K)
+Fig. 2. 
+Effect of miR-21 on protein levels of p-Akt (Ser 473) and PI3K p85α in DN. (A) In mesangial cells, p-Akt (Ser 473) and PI3K protein levels were significantly higher in the miR-21-transfected and control groups than that in the pGenesil-1-transfected and untransfected groups. (B) In db/db DN mice, p-Akt (Ser 473) and PI3K protein levels were significantly higher in the miR-21-treated and control groups than that in the pGenesil-1-treated and untreated groups.
+Figure options
+Dual-fluorescence staining was used to assess the localizations of PI3K p85α and phospho-Akt (Ser 473) in renal tissues of 8-week-old mice. PI3K protein was fluorescently labeled with FITC green and p-Akt (Ser 473) with labeled with TRITC red, which were visualized with confocal laser scanning fluorescence microscopy. Merging both images (yellow-color) for the co-expression of PI3K p85α and p-Akt (Ser 473) demonstrated that they were co-increased in the renal tissues in the miR-21-treated group compared with those in the pGenesil-1-treated and the untreated groups (Fig. 3). Interestingly, previous works have suggested that the PI3K pathway is a crucial pathway involved in the metabolic responses to insulin. Binding of insulin to the insulin receptor activates the PI3K pathway. Defects in PI3K signaling have been demonstrated in type 2 diabetes mellitus [20] and [21]. Additionally, the PI3K pathway is altered in renal mesangial cells by advanced glycation end products (AGEs), which contribute to diabetic complications, including DN [22]. The main biological function of PTEN is to block PI3K signaling [23]. These results link mesangial hypertrophy to miR-21 in response to PTEN/Akt signaling, miR-21 could be a causal factor of the down-regulation of PTEN and activation of PI3K/Akt pathway in renal mesangial cell hypertrophy in early period of DN.
+
+Full-size image (222 K)
+Fig. 3. 
+Immunofluorescence staining of PI3K (green) and p-Akt (red) by dual-fluorescence staining. Merging of both images (yellow) showed co-localization of PI3K and p-Akt (Ser473) in renal tissues of 8-week-old mice. Representative photographs were taken from renal tissues of the normal control (A), miR-21-treated (B), pGenesil-1-treated (C) and untreated (D) groups. PI3K and p-Akt were increased in the renal tissues in the miR-21-treated group compared with those in the pGenesil-1-treated and untreated groups. Arrows indicate renal glomerular tissue. Figures are shown at ×400 magnification.
+Figure options
+In summary, miR-21 prevented mesangial hypertrophy by targeting the PTEN/PI3K/Akt pathway in vivo and in vitro. Therefore, miR-21 might play an important role in the pathogenesis of DN and offers a potential target for intervention and prevention of DN. Further investigations are required, including a larger number of specimens, and more studies on the “crosstalk” of the network over the deregulated miRNAs in DN are also needed.
+
+Acknowledgments
+This work was supported by grants from the National Natural Science Foundation of China (No. 30800534) and Scientific Research Foundation of Chongqing Medical University of China (No. NSFYY200719).
+
+Appendix A. Supplementary data
+
+Full-size image (32 K)
+Fig. S1. 
+Expression of miRNAs by real-time RT-PCR. (A) Median fold-change differences in differentially expressed miRNAs between renal glomerular tissues of db/db DN mice and db/m control mice. Three up-regulated (miR-196a, miR-762 and miR-98) and four down-regulated miRNA species (miR-21, miR-451, miR-92a and miR-709) were examined in tissues of db/db DN mice compared with those of db/m mice. Relative fold changes of expression were calculated by the CT method. Results are means of six independent experiments. Three samples from the microarray studies and three for which tissue was not used in the microarray studies. (B) Over-expression of miR-21 in miR-21-transfected cells. The expression of miR-21 was significantly increased in cells of the miR-21-transfected group compared with the empty plasmid pGenesil-1-transfected group by Lipofectamine 2000 transfection. Data are presented as the means of three independent experiments. (C) Over-expression of miR-21 in kidneys of miR-21-treated mice. The expression of miR-21 was significantly enhanced in the kidneys of miR-21-treated db/db mice compared with the empty control plasmid pGenesil-1-treated group mice after the injection of plasmids containing miR-21 or empty plasmid p-Genesil-1 (30 mg/kg/d) into 4-week-old db/db mice for 4 weeks.
+Figure options
+Full-size image (32 K)
+Fig. S2. 
+Identification of recombinant pGenesil-miR-21. (A) Structure map of the pGenesil-miR-21 clone plasmid. The size of the recombinant plasmid was 5192 bp with two Sac I restriction sites (1232 bp and 2148 bp, respectively). (B) Sequencing analyses of recombinant pGenesil-miR-21 showed the sequence of miR-21 was contained.
+Figure options
+Full-size image (20 K)
+Fig. S3. 
+Effect of miR-21 on cell proliferation in mouse mesangial cells. The cells proliferation was measured by the MTT assay. Cells were seeded in 24-well plate at a concentration of 0.5×104 in triplicate wells. After 24 hour, three wells of every kind of cell were trypsinized and counted with a hemocytometer per 24 hours for 4 days to make a growth curve. The O.D. values were markedly lower in the miR-21-transfected group than the empty plasmid pGenesil-1-transfected and untransfected groups at day 1, 2, 3, 4 (all: p<0.01). Each point represents the mean ± S.D. of three independent samples.
+Figure options
+Full-size image (20 K)
+Fig. S4. 
+The comparison of mouse glomerular diameter in each group. The glomerular diameter in the miR-21-treated group was significantly smaller than those in the empty plasmid pGenesil-1-treated and untreated groups. ∗∗p<0.01 vs. controls (normal db/m mice), ## p<0.01 vs. the miR-21-treated group.
+Figure options
+Full-size image (5 K)
+Fig. S5. 
+Sequence alignment of mouse miR-21 with 3’-UTR of PTEN. The sequence of miR-21 (top) matches 3’-UTR of PTEN (bottom) partly.
+Figure options
+ 
+Table S1.  
+
+Different miRNA expression between glomerular tissues of db/db DN mice and db/m controls.
+
+Help with DOC filesOptions
+ 
+Supplementary material.  
+
+Supplementary data.
+
+Help with DOC filesOptions
+References
+[1]
+R.M. Mason, N.A. Wahab
+Extracellular matrix metabolism in diabetic nephropathy
+J. Am. Soc. Nephrol., 14 (2003), pp. 1358–1373
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (238)
+[2]
+D.P. Bartel
+MicroRNAs: genomics, biogenesis, mechanism, and function
+Cell, 116 (2004), pp. 281–297
+
+Article |  PDF (655 K) | View Record in Scopus | Cited By in Scopus (9535)
+[3]
+M. Lagos-Quintana, R. Rauhut, W. Lendeckel, T. Tuschl
+Identification of novel genes coding for small expressed RNAs
+Science, 294 (2001), pp. 853–858
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2070)
+[4]
+M.N. Poy, L. Eliasson, J. Krutzfeldt, S. Kuwajima, X. Ma, P.E. Macdonald, S. Pfeffer, T. Tuschl, N. Rajewsky, P. Rorsman, M. Stoffel
+A pancreatic islet-specific microRNA regulates insulin secretion
+Nature, 432 (2004), pp. 226–230
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (874)
+[5]
+A. He, L. Zhu, N. Gupta, Y. Chang, F. Fang
+Overexpression of micro ribonucleic acid 29, highly up-regulated in diabetic rats, leads to insulin resistance in 3T3-L1 adipocytes
+Mol. Endocrinol., 21 (2007), pp. 2785–2794
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (141)
+[6]
+J. Xiao, X. Luo, H. Lin, Y. Zhang, Y. Lu, N. Wang, Y. Zhang, B. Yang, Z. Wang
+MicroRNA miR-133 represses HERG K+ channel expression contributing to QT prolongation in diabetic hearts
+J. Biol. Chem., 282 (2007), pp. 12363–12367
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (153)
+[7]
+L. Mahimainathan, F. Das, B. Venkatesan, G.G. Choudhury
+Mesangial cell hypertrophy by high glucose is mediated by downregulation of the tumor suppressor PTEN
+Diabetes, 55 (2006), pp. 2115–2125
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (71)
+[8]
+M.A. Crackower, G.Y. Oudit, I. Kozieradzki, R. Sarao, H. Sun, T. Sasaki, E. Hirsch, A. Suzuki, T. Shioi, J. Irie-Sasaki, R. Sah, H.Y. Cheng, V.O. Rybin, G. Lembo, L. Fratta, A.J. Oliveira-dos-Santos, J.L. Benovic, C.R. Kahn, S. Izumo, S.F. Steinberg, M.P. Wymann, P.H. Backx, J.M. Penninger
+Regulation of myocardial contractility and cell size by distinct PI3K-PTEN signaling pathways
+Cell, 110 (2002), pp. 737–749
+
+Article |  PDF (500 K) | View Record in Scopus | Cited By in Scopus (358)
+[9]
+S.A. Backman, V. Stambolic, A. Suzuki, J. Haight, A. Elia, J. Pretorius, M.S. Tsao, P. Shannon, B. Bolon, G.O. Ivy, T.W. Mak
+Deletion of Pten in mouse brain causes seizures, ataxia and defects in soma size resembling Lhermitte–Duclos disease
+Nat. Genet., 29 (2001), pp. 396–403
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (246)
+[10]
+P.J. Shultz, P.E. DiCorleto, B.J. Silver, H.E. Abboud
+Mesangial cells express PDGF mRNAs and proliferate in response to PDGF
+Am. J. Physiol., 255 (1988), pp. F674–684
+
+[11]
+A. Krek, D. Grun, M.N. Poy, R. Wolf, L. Rosenberg, E.J. Epstein, P. Macmenamin, I. da Piedade, K.C. Gunsalus, M. Stoffel, N. Rajewsky
+Combinatorial microRNA target predictions
+Nat. Genet., 37 (2005), pp. 495–500
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2004)
+[12]
+B. John, A.J. Enright, A. Aravin, T. Tuschl, C. Sander, D.S. Marks
+Human MicroRNA targets
+PLoS Biol., 2 (2004), p. e363
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1)
+[13]
+B.P. Lewis, I.H. Shih, M.W. Jones-Rhoades, D.P. Bartel, C.B. Burge
+Prediction of mammalian microRNA targets
+Cell, 115 (2003), pp. 787–798
+
+Article |  PDF (342 K) | View Record in Scopus | Cited By in Scopus (2185)
+[14]
+K. Sharma, P. McCue, S.R. Dunn
+Diabetic kidney disease in the db/db mouse
+Am. J. Physiol., 284 (2003), pp. F1138–F1144
+
+View Record in Scopus | Cited By in Scopus (196)
+[15]
+N. Dahiya, C.A. Sherman-Baust, T.L. Wang, B. Davidson, I.M. Shih, Y. Zhang, W. Wood III, K.G. Becker, P.J. Morin
+MicroRNA expression and identification of putative miRNA targets in ovarian cancer
+PLoS ONE, 3 (2008), p. e2436
+
+Full Text via CrossRef
+[16]
+Y. Ladeiro, G. Couchy, C. Balabaud, P.B. Sage, L. Pelletier, S. Rebouissou, J. Zucman-Rossi
+MicroRNA profiling in hepatocellular tumors is associated with clinical features and oncogene/tumor suppressor gene mutations
+Hepatology, 47 (2008), pp. 1955–1963
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (314)
+[17]
+M. Tatsuguchi, H.Y. Seok, T.E. Callis, J.M. Thomson, J.F. Chen, M. Newman, M. Rojas, S.M. Hammond, D.Z. Wang
+Expression of microRNAs is dynamically regulated during cardiomyocyte hypertrophy
+J. Mol. Cell Cardiol., 42 (2007), pp. 1137–1141
+
+Article |  PDF (634 K) | View Record in Scopus | Cited By in Scopus (231)
+[18]
+F. Meng, R. Henson, H. Wehbe-Janek, K. Ghoshal, S.T. Jacob, T. Patel
+MicroRNA-21 regulates expression of the PTEN tumor suppressor gene in human hepatocellular cancer
+Gastroenterology, 133 (2007), pp. 647–658
+
+Article |  PDF (2262 K) | View Record in Scopus | Cited By in Scopus (1008)
+[19]
+S. Roy, S. Khanna, S.R. Hussain, S. Biswas, A. Azad, C. Rink, S. Gnyawali, S. Shilo, G.J. Nuovo, C.K. Sen
+MicroRNA expression in response to murine myocardial infarction: miR-21 regulates fibroblast metalloprotease-2 via phosphatase, tensin homologue
+Cardiovasc. Res., 82 (2009), pp. 21–29
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (219)
+[20]
+L.C. Cantley
+The phosphoinositide 3-kinase pathway
+Science, 296 (2002), pp. 1655–1657
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2656)
+[21]
+G. Jiang, B.B. Zhang
+Pi 3-kinase and its up- and down-stream modulators as potential targets for the treatment of type II diabetes
+Front. Biosci., 7 (2002), pp. 903–907
+
+[22]
+D. Xu, J.M. Kyriakis
+Phosphatidylinositol 3′-kinase-dependent activation of renal mesangial cell Ki-Ras and ERK by advanced glycation end products
+J. Biol. Chem., 278 (2003), pp. 39349–39355
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (36)
+[23]
+M.L. Sulis, R. Parsons
+PTEN: from pathology to biology
+Trends Cell Biol., 13 (2003), pp. 478–483
+
+Article |  PDF (155 K) | View Record in Scopus | Cited By in Scopus (237)

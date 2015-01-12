@@ -1,0 +1,749 @@
+Mitochondria, Oxidants, and Aging
+Robert S. Balaban1, Shino Nemoto2, Toren Finkel2, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2005.02.001
+  Open Archive
+The free radical theory of aging postulates that the production of intracellular reactive oxygen species is the major determinant of life span. Numerous cell culture, invertebrate, and mammalian models exist that lend support to this half-century-old hypothesis. Here we review the evidence that both supports and conflicts with the free radical theory and examine the growing link between mitochondrial metabolism, oxidant formation, and the biology of aging.
+
+Main Text
+Many believe that the seeds of aging can be traced back to a chance encounter that occurred sometime between one and two billion years ago. The event of note involved the presumed incorporation of an uninvited eubacteria into an Archea-type host. This was presumably not the first such encounter between a host cell and invading bacteria. Nonetheless, it is generally presumed that previous interactions had led to the death of the invader, the host, or more likely both organisms. However, on this day, rather then a case of mutual destruction, the results of this incursion led to an agreement between host and bacteria that has persisted more or less intact until this day. Although most of the initial details are unknown, over time, the two initial antagonists began to rely on each other in ever more intricate and interconnected ways. The eubacteria is believed to have evolved into the mitochondria, able to safely replicate within limits inside its host. Slowly, as it became more comfortable in its new environment, more and more responsibility for its own replication and maintenance was shifted to the cell. Indeed, today, of the thousand or so proteins that make up the mitochondria, only a handful are still encoded by mitochondrial DNA. The host, too, began to rely more heavily on its onetime invader. It began to see the advantage of specialization and compartmentalization. Although the cell still retained the capacity to produce energy independent of the mitochondria, more and more of the day-to-day responsibility was turned over to this new organelle. Suddenly, the ability of these onetime unwanted invaders to efficiently produce chemical energy seemed to allow the possibility of powerful muscles or prodigiously beating hearts.
+
+Our story might have ended there, a heart-warming tale of two potential enemies that joined forces to work together for the common good. Yet old habits are indeed hard to break. And although it is true that, on that day, the invading eubacteria did not immediately kill its host, it has also become increasingly clear that it may not have entered the agreement with full disclosure. For, although mitochondria are marvels of energy production, they also have another, less beneficial legacy in the cell. Increasingly, this other property, the continuous production of potentially harmful reactive oxygen species (ROS), has become a central focus of aging research. The purpose of this review is therefore to reexamine the terms of a now nearly two billion-year-old agreement and in particular to evaluate to what degree the mitochondrial production of ROS and the cellular response to oxidative stress may be a major determinant of how we age.
+
+The Free Radical Theory
+It has been nearly 50 years since Harman proposed the “free radical theory” of aging (Harman, 1956). The initial theory suggested that aging, as well as the associated degenerative diseases, could be attributed to deleterious effects of free radicals on various cell components. When originally proposed, the notion that cells actually produced free radicals remained unproven and hotly debated. Even after Harman’s proposal, this controversy raged for the next decade or so, until it was ultimately settled with the discovery of the enzyme superoxide dismutase (McCord and Fridovich, 1969). The existence of an intracellular enzyme whose sole function was to scavenge superoxide seemed indirect but powerful evidence that cells must continuously produce their own free radicals. Nonetheless, with relatively little direct experimental support, Harman initially speculated that the source of age-inducing free radicals was most likely “the interaction of the respiratory enzymes involved in the direct utilization of molecular oxygen.” Such a hypothesis was also generally consistent with early theories suggesting a correlation between overall metabolic rate and life span. In the 1920s, Pearl proposed the “rate of living” hypothesis that directly linked metabolic rate with the longevity of an organism (Pearl, 1928). Pearl was unclear what the precise mechanism was that linked metabolism with life span and therefore suggested that some vital cellular element was somehow consumed in proportion to overall metabolic rate. His concept was that, when this unknown but vital element was exhausted, death occurred.
+
+Since Harman’s initial formulation, ensuing experimentation has solidified but not proven his underlying theory. Today, although aerobic metabolism and the corresponding generation of ROS remain the most widely accepted cause of aging, substantial gaps and unknowns persist. Indeed, fundamental questions regarding what governs the relationship between overall metabolic rate and the production of ROS remain unclear. Perhaps more important, relatively little is known about what are the relevant intracellular targets for ROS and how oxidative modification of these targets might influence life span. Fifty years after its formulation, we now know that cells make free radicals on a continuous basis, yet we are still uncertain as to whether they cause or merely correlate with aging.
+
+Mitochondrial ROS Generation: The Belly of the Beast
+ROS are generated in multiple compartments and by multiple enzymes within the cell. Important contributions include proteins within the plasma membrane, such as the growing family of NADPH oxidases (Lambeth 2004); lipid metabolism within the peroxisomes; as well as the activity of various cytosolic enzymes such as cyclooxygenases. Although all these sources contribute to the overall oxidative burden, the vast majority of cellular ROS (estimated at approximately 90%) can be traced back to the mitochondria. The generation of mitochondrial ROS is a consequence of oxidative phosphorylation, a process that uses the controlled oxidation of NADH or FADH to generate a potential energy for protons (ΔΨ) across the mitochondrial inner membrane. This potential energy is in turn used to phosphorylate ADP via the F1-F0 ATPase. At several sites along the cytochrome chain, electrons derived from NADH or FADH can directly react with oxygen or other electron acceptors and generate free radicals. In the past, the generation of ROS or other free radicals was thought of as “slippage” or an unproductive side reaction. More recently, as will be discussed later in more detail, it has been proposed that mitochondrial ROS may actually be important in various redox-dependent signaling processes (Nemoto et al., 2000, Werner and Werb, 2002 and Dada et al., 2003) as well as in the aging clock.
+
+A schematic diagram of the flow of electrons through the cytochrome chain is presented in Figure 1. NADH, generated by associated Krebs cycle dehydrogenases (DH) (Robinson and Srere 1985), is initially oxidized at site I. As the electrons from NADH are passed to the first mobile electron acceptor, oxidized coenzyme Q, the energy is dissipated by the ejection of protons. Coenzyme Q can also accept electrons from the site II complex donated by FADH, thereby bypassing site I and one proton ejection site. Coenzyme Q next donates electrons to cytochrome b in site III in a near potential energy neutral process. In site III, the electrons are passed to cytochrome c1 with the dissipative ejection of protons. Cytochrome c1 transfers its electrons to the second mobile element in the cytochrome chain, cytochrome c. Cytochrome c in turn reduces cytochrome a,a3 (i.e., cytochrome oxidase [COX] referring to the terminal electron acceptor) in site IV, which ultimately reduces molecular oxygen to form water. This final dissipation of the redox energy in NADH/FADH at site IV is also associated with a final ejection of protons. In this manner, the cytochrome chain transforms the redox energy of the rather stable molecules NADH and FADH into a ΔΨ across the inner mitochondrial. In this complex reaction sequence, several important questions naturally arise: Where are ROS generated? What is the basal rate of mitochondrial ROS generation? What regulates mitochondria ROS generation? How are ROS eliminated?
+
+Full-size image (60 K)
+Figure 1. 
+A Schematic Model of ROS Generation in the Mitochondria
+The major production sites of superoxide anions at sites I and III are identified along with the major ROS scavenging pathways. Antioxidant enzymes include various isoforms of peroxiredoxin (Prx), superoxide dismutase (SOD), and glutathione peroxidase (GP). The scavenging reaction of the peroxiredoxin family requires other cellular dithiol proteins such as thioredoxin (TrxS2). Similarly, the enzymatic action of GP requires reduced glutathione (GSH). Specific family members of SOD, GP, and Prx are found inside the mitochondria, while other family members localize to the cytosol or extracellular space. The different complexes of oxidative phosphorylation are color coded with regard to the magnitude of Eox for reducing oxygen, with red (dehydrogenases [DH] and site I) having the highest potential and pink (site IV) the lowest potential. The family of uncoupling protein (UCP), here denoted in green, reduces the overall mitochondrial membrane potential (ΔΨ). This is believed to result in a generalized decrease in Eox for both sites I and III and hence a reduction in ROS formation. See text for details.
+Figure options
+Where Are ROS Generated in the Cytochrome Chain?
+The two major sites for ROS generation are believed to be at sites I and III where large changes in the potential energy of the electrons, relative to the reduction of oxygen, occur (see Figure 1). Experimental manipulations that increase the redox potential of site I (Kushnareva et al., 2002) or site III (Chen et al., 2003) generally increase the rate of ROS generation, supporting the notion that the redox potential of these reactive sites is important in free radical formation. Site I remains the least understood of the cytochrome chain elements (Yagi and Matsuno-Yagi, 2003). This multisubunit complex is believed to be composed of ∼46 proteins with a combined molecular weight exceeding 1 MDa and is thought to contain at least one bound flavin mononucleotide (FMN) and eight iron sulfur groups. Both the iron sulfur groups (Genova et al., 2001) and FMN sites have been implicated in ROS generation (Liu et al., 2002). At site III, an even more complicated story is found with the Q cycle contributing to the generation of O2− through reduced ubisemiquinone either on the inner or outer membrane surfaces (Turrens et al., 1985 and Aguilaniu et al., 2003 ). Surprisingly, the terminal oxidation step at cytochrome oxidase is not believed to be a significant source of ROS in intact systems, despite the fact that this site is capable of in vitro ROS generation (Fridovich and Handler, 1961).
+
+Since the precise mechanisms of ROS generation are unknown, we can construct a simple relationship that might globally describe the generation of ROS in the mitochondria. First, we will define the term Eox as the net driving force for the reduction of oxygen. Eox can be estimated as the difference between the redox potential for donating a single electron to oxygen (Eo = −160 mV, Wood [1988]) and the redox potential of a particular electron donor at a given reaction site. Also important is the oxygen tension, PO2, and a hypothetical first order reaction constant, Kox, resulting in the following simple equation for total net ROS generation (QROS):
+
+equation(1)
+View the MathML source
+Turn MathJax on
+
+In the equation, “site” represents all of the mitochondrial ROS-generating sites in a given cell. Since the concentration of aqueous O2 is significantly higher than that of O2− or H2O2 ( Cadenas and Davies 2000), under most conditions, the reverse reaction rate can be ignored.
+
+Based on this simplistic approach, any perturbation to oxidative phosphorylation that changes these terms, including the number of mitochondria or cytochrome chain equivalents within a cell, would increase the production of ROS. The regulation of QROS can be evaluated for each one of these elements. For instance, putting the mitochondria in a reduced state without ADP or Pi for oxidative phosphorylation (state 4) (Loschen et al., 1971) or the addition of electron transport inhibitors that secondarily increase the Eox of site I or site III all tend to increase QROS (Staniek and Nohl, 2000, Aguilaniu et al., 2003 and Loschen et al., 1971 ). Experimentally, a large increase in ROS formation is often seen in the condition known as reverse electron flow. This is usually achieved when a site II substrate, succinate, is added in the presence of a site III inhibitor, thereby generating a reverse flow of electrons from site II to site I (Loschen et al., 1971 and Aguilaniu et al., 2003 ). Reverse electron flow might also be responsible for the high ROS generation occurring with fatty acid oxidation that also generates electrons for site II via FADH (Boveris et al., 1972 and Boveris and Chance, 1973). Another “endogenous” example in which Eox and ROS are increased is with the release of cytochrome c during apoptosis. In this condition, the absence of cytochrome c results in a block in electron flow and a rise in the Eox of site I (Kushnareva et al., 2002) with a subsequent rise in ROS produced at this site (Kushnareva et al., 2002). This does not appear to happen at site III since in the absence of electron transport there is also an inhibition of Q cycle turnover that is required for generating the active ubisemiquinone (Turrens et al., 1985). Finally, another important physiological regulator of Eox is the family of uncoupling proteins (UCPs) (Echtay et al., 2002 and Casteilla et al., 2001). Since Eox and ΔΨ are coupled through the proton ejection process, these parameters are proportional under most conditions. If ΔΨ is reduced by the action of uncoupling proteins “leaking” protons across the inner membrane (see Figure 1), then predictably Eox and therefore QROS would be decreased. Thus, uncoupling has been proposed as an important mechanism to reduce ROS levels (Casteilla et al., 2001 and Brand et al., 2004). Interestingly, UCPs might also be directly activated by superoxide anions, thereby providing an overall feedback circuit for ROS production (Echtay et al., 2002).
+
+An additional recent proposal for ROS regulation is that the entry of electrons into and through the cytochrome chain, especially at the level of the DH-site I complex, is highly regulated. This electron gate would presumably only permit oxidative phosphorylation to occur when it was required by cellular energetic needs (Bose et al., 2003 and Joubert et al., 2004). This mechanism potentially permits the modulation of oxidant formation without the requirement to dissipate ΔΨ through the energetically nonproductive action of UCPs. There is also growing appreciation that the activity of components of the electron transport chain can also be altered by covalent modification and that these modifications may be important in ROS formation (Ludwig et al., 2001). Finally, oxygen tension represents another variable known to regulate the rate of mitochondrial ROS production (Turrens et al., 1982). The mechanisms underlying the matching of tissue oxygen level to metabolic demand are poorly understood. Yet it is clear that tissue pO2 can be dynamically regulated, and, indeed, the increase in venous oxygen content observed during brain activation is the physiological parameter that forms the basis for fMRI detection (Ogawa et al., 1992).
+
+From this brief review, it is clear that there are indeed many factors that can regulate mitochondria ROS generation. Presumably, this complexity contributes in part to the numerous conflicting reports in the literature regarding the nature, control, and degree of mitochondrial ROS generation. The above discussion does, however, raise an important caveat concerning the relationship between oxidant formation and metabolic rate (i.e., oxygen consumption). In general, the higher the rate of oxidative phosphorylation and oxygen consumption, the lower the overall value of cytochrome chain Eox. Consistent with this notion was the early observation obtained from isolated mitochondria that augmenting oxidative phosphorylation resulted in a reduction, not an augmentation, of ROS generation (Loschen et al., 1971). Although it is commonly assumed that an increase in oxygen consumption produces an increase in ROS production, we would argue that this positive correlation is only true if the increase in oxygen consumption was secondary to a higher tissue pO2 or an increase in the number of “sites”, i.e., functional mitochondria. In contrast, an increase in oxygen consumption in the setting of constant tissue oxygen concentrations and a fixed number of mitochondria would favor a decrease in ROS levels.
+
+Basal Rate and Elimination of ROS Generation
+There is a wide variance in the literature regarding what percentage of basal mitochondrial oxygen consumption ultimately leads to ROS generation. This is not surprising, since most of these conclusions are based on isolated mitochondria studies in which the Eox of many of the redox elements were held at very unphysiological states or under conditions in which reverse electron flow was possible. Based on these initial observations (for review, see Chance et al. [1979]), it was suggested that ∼2% of the total oxygen consumption was funneled to ROS generation. This number has been widely cited despite the fact that, even in these early studies, it was appreciated that the ROS measurements were made under artificial conditions. Subsequent studies, under more physiological conditions, have reduced this basal value to ∼0.2% (Staniek and Nohl, 2000 and Aguilaniu et al., 2003 ). This lower value does not imply that the baseline production is unimportant but does suggest that the mitochondrial ROS load on most tissues may not be as severe as once thought.
+
+The discovery of superoxide dismutase (SOD), as discussed previously, was a major step in establishing the generation of ROS or H2O2 in the mitochondria. Two intracellular SOD enzymes exist within the cell: SOD2, a manganese-dependent enzyme in the matrix, and SOD1, a copper-containing enzyme primarily in the cytosol. Both of these enzymes convert O2− into H2O2 that is then further deactivated by catalase (Radi et al., 1991) to water and oxygen or by the various glutathione peroxidases to reduced glutathione and water. The discovery of the peroxiredoxins (Chang et al., 2004) represents yet another family of important scavenging enzymes in the mitochondria (Taylor et al., 2003). Superoxide that is not immediately scavenged can directly react with oxidized cytochrome c (Joubert et al., 2004 and Butler et al., 1975) or cytochrome oxidase (Orii, 1982). The ability of the matrix to withstand large transient loads of free radicals with minimal damage using these protection mechanisms has been demonstrated during the extremely rapid photooxidation of ∼1 mM matrix NADH to NAD+ + 2ROS in intact mitochondria (Joubert et al., 2004). These highly efficient scavenging systems suggest that any measured release of ROS from mitochondria may represent only a small fraction of the total ROS generated.
+
+Age-Related Changes in Mitochondrial Function
+A number of studies have demonstrated that mitochondrial integrity declines as a function of age (Shigenaga et al., 1994). Age-dependent increases in the level of damaged DNA have been commonly assessed through biomarkers such as the formation of 8-oxo-2′-deoxyguanosine (oxo8dG). In postmitotic tissue such as brain, the levels of oxo8dG are significantly higher in mitochondrial compared to nuclear DNA (Richter et al., 1988). Reasons for these differences are thought to include the proximity of mitochondrial DNA to the source of oxidants and the lack of any protective histone covering. This postulated and observed increased sensitivity of mitochondrial DNA to oxidative damage has led to the concept of the “vicious cycle” in which an initial ROS-induced impairment of mitochondria leads to increase oxidant production that, in turn, leads to further mitochondrial damage.
+
+Experimental evidence both for and against the vicious cycle exists. For instance, many studies have demonstrated that old mitochondria appear morphologically altered and functionally produce more oxidants and less ATP (Shigenaga et al., 1994). Nonetheless, other investigators have recently criticized the methodology employed in some of these studies (Maklashina and Ackrell, 2004). Therefore, whether or not there is a significant impairment of electron transport activity as mitochondria age remains somewhat of an open question. Recent genomic studies, however, suggest that, transcriptionally, components of the electron transport chain are indeed affected by aging. In one interesting study, the authors compared microarray data between two organisms (C. elegans and Drosophila) as they aged in an effort to obtain a consensus aging transcriptisome. In both species, there was a small but approximate 2-fold decrease in a large set of genes involved in ATP synthesis and mitochondrial respiration ( McCarroll et al., 2004). Although these studies would seem to support the vicious cycle concept, two caveats are worth mentioning. First, these authors were studying nuclear-encoded, not mitochondria-encoded, transcripts. Second, the exact timing of the downregulation for these transcripts occurred when the animal was at the early adult stage. This transcriptional change therefore appears to occur before the usually observed decline in mitochondrial function and presumably also before one would expect the cumulative effects of oxidants to begin having their peak effects.
+
+Since the formation of ROS species is a function of ambient oxygen concentration (Turrens, 2003), the cellular and organismal response to high oxygen concentrations may represent an insightful stress to explore the mechanisms of aging. Here again, transcriptional profiling may provide a glimpse of underlying mechanism. For instance, comparison of the gene expression patterns of Drosophila undergoing normal aging and those flies exposed to acute hyperoxia revealed significant concordance ( Landis et al., 2004). In another recent study, the biological resistance to hyperoxia was used as a genetic screen to obtain Drosophila mutants that are either overly sensitive or resistant to this stress ( Walker and Benzer, 2004). A careful analysis of the morphological changes that mitochondria underwent after high oxygen exposure demonstrated that individual mitochondria develop a previously unknown “swirl” phenomenon. This altered morphology presumably occurs due to a rapid reorganization of mitochondrial cristae in response to oxidative stress. Interestingly, mitochondria from older flies have significantly more swirls then younger flies, and mutants selected for increased swirl formation have a significantly shorter life span.
+
+The cellular response to high oxygen also supports a role for intracellular oxidants as at least one important determinant of the life span of mammalian cells in culture. Cellular senescence is an interesting biological phenomenon whereby nonimmortalized cells, after a discrete number of passages, undergo a permanent withdrawal from the cell cycle. The senescent state is accompanied by consistent morphological and biochemical changes, suggesting it may be programmed in much the same way as differentiation or apoptosis. Significant questions persist as to whether the molecular mechanisms underlying cellular senescence are relevant to overall organismal aging. With that said, it has been recognized for some time that lowering the ambient oxygen concentration can significantly extend the life span of primary cells in culture (Packer and Fuehr, 1977). Similar prolongation of cellular life span can be achieved by augmenting antioxidant levels. For instance, increasing the level of superoxide dismutase extends the life span of primary fibroblasts as well as decreasing the rate of telomere shortening (Serra et al., 2003). Conversely, knockdown of SOD using RNAi was demonstrated to induce senescence (Blander et al., 2003). Interestingly, reducing SOD by RNAi resulted in the induction of p53, and this induction was required for senescence. Cellular induction of p53 can result in either apoptosis or senescence, and there is some evidence that the decision for what cell fate pathway is chosen may depend on the intracellular level of ROS (Macip et al., 2003). In a similar fashion, expression of an activated form of Ras proteins can induce senescence in some primary fibroblasts (Serrano et al., 1997). This Ras-induced senescence is also accompanied by p53 induction as well as a rise in ROS levels. Again, either antioxidant augmentation or lowering the level of ambient oxygen rescued Ras-expressing cells from entering senescence (Lee et al., 1999). Recently, seladin-1, a gene previously implicated in cholesterol metabolism, was implicated as an important redox-sensitive intermediary between Ras and p53 (Wu et al., 2004).
+
+Mitochondria and Aging in Yeast and Worms
+The use of simple organisms such as worms and flies would seem the ideal testing ground for a free radical or metabolic theory of aging. Indeed, there are a growing number of studies that support a central role for mitochondrial metabolism in the aging process. While it is impossible for us to highlight all such studies, we will attempt to review a selected number of what we view as some of the most important observations.
+
+Perhaps the most straightforward relationship between metabolic rate and aging is the observation that global manipulations that effect metabolism or metabolic substrates can also lead to alterations in life span. For instance, lowering ambient temperature in worms or flies slows the metabolic rate and also results in an concomitant extension of life span (Miquel et al., 1976). Similarly, in yeast, a simple reduction of available glucose in the media results in life extension. This paradigm has been used as a model of caloric restriction (CR), and experimental evidence suggest that life extension under these conditions requires the NAD-dependent deacetylase Sir2 (Lin et al., 2002). It has also been shown that CR activates Sir2 activity, although the precise details remain controversial. More relevant to our discussion is that S. cerevisiae appear to shift their utilization of glucose from fermentation under normal conditions to predominantly mitochondria-based aerobic respiration when glucose is limiting. This metabolic shift results in an increase in overall oxygen consumption ( Lin et al., 2002). In yeast, therefore, CR leads to longer life but a presumably higher metabolic rate. These observations would appear to conflict with the straightforward predictions of the free radical theory of aging that would suggest that higher rates of aerobic metabolism would decrease life span. Nonetheless, as discussed previously, the relationship between oxygen consumption and ROS generation is complex. Further measurements in this model of the level of oxidative stress under normal and CR conditions are therefore needed.
+
+The role of Sir2 and its mammalian ortholog SIRT1 is an active area of research, and there are a number of recent reviews that describe the biology of this family of proteins (Denu, 2003, North and Verdin, 2004 and Blander and Guarente, 2004). Relevant to our discussion, Sir2, although essential for the yeast CR response, does not appear to directly alter antioxidant defenses in yeast (Lin et al., 2002). Interestingly, however, in aging yeast there appears to be an accumulation of oxidatively modified proteins that accumulate with replicative age. Under normal conditions, these modified proteins are asymmetrically distributed between mother and daughter cell, and the daughter cell is usually born without inheriting its equal share of damaged proteins. This sparing of the daughter cell does not occur in Sir2-deficient yeast, suggesting that the deacetylase may be important for protecting the cell against the consequences of oxidative damage (Aguilaniu et al., 2003). Consistent with this, the mammalian deacetylase SIRT1 also appears to protect cells from direct oxidative stress (Luo et al., 2001 and Brunet et al., 2004).
+
+The dauer phase in C. elegans represents another global metabolic shift that is relevant to life span determination. Under optimal conditions, a developing worm passes quickly from a second stage larva (L2) to a third stage larva (L3). When conditions are less then optimal, perhaps because of a lack of food or overcrowding, rather than proceeding to the L3 stage, the worm enters an alternative stage known as dauer. In this somewhat suspended state, the worm can exist for up to 3–6 months. This represents a significant increase in life span, since, under normal conditions, the worm survives for less than a month. Once in the dauer stage, the larvae undergo a number of morphological and metabolic changes. Among these changes is the development of a hard and impermeable cuticle. The dauer larvae no longer actually feeds but rather depends on internal (primarily fat) stores to maintain their energetic needs. Of particular interest is that there is also a significant shift away from the use of the tricarboxylic acid (TCA) cycle and the use of electron transport and a heavier reliance on alternative energetic pathways ( Wadsworth and Riddle, 1989). The entry into dauer also results in a nearly 4-fold decrease in oxygen consumption when compared to third stage larva ( Vanfleteren and De Vreese, 1996).
+
+Entry into dauer is stimulated by harsh external environmental conditions and is under the control of several distinct signaling pathways. One such well-studied pathway is homologous to the insulin/IGF pathway in mammalian tissues. As discussed in more detail in the accompanying reviews, this pathway ultimately controls the activity of DAF-16, a transcription factor that belongs to the Forkhead family of proteins. Mutations along this pathway that moderately increase the activity of DAF-16 appear to result in an extension of life span, while stronger mutations result in a constitutive dauer phenotype. Typically, the long-lived mutants, like their dauer counterparts, are more resistant to harsh environmental conditions such as increased heat or exposure to oxidative stress (Johnson et al., 2001). The basis for this heartiness appears in part to lie in the recently revealed transcriptional targets of DAF-16. Three separate groups have analyzed the DAF-16 transcriptosome. Each used slightly different methodologies, but all groups agree that DAF-16 regulates a large set of genes that modulate oxidative stress, as well as genes involved in overall metabolic regulation (Murphy et al., 2003, Lee et al., 2003a and McElwee et al., 2003). Interestingly, the property of modulating oxidative stress appears well conserved, as the mammalian ortholog of DAF-16, the transcription factor Foxo3a, also regulates many of the same antioxidant proteins (Nemoto and Finkel, 2002 and Kops et al., 2002).
+
+Included among the metabolic genes induced by DAF-16 are a number of enzymes involved in mitochondrial transport as well as in fat metabolism and utilization. For instance, DAF-16 appears to regulate genes involved in the glyoxylate cycle, a process of fat utilization that usually involves the peroxisomes. Indeed, a recent intriguing hypothesis is that a number of long-lived C. elegans mutants can best be understood by tracing the various energy-generating pathways in worms ( Rea and Johnson, 2003). In particular, these authors suggest that diversion away from the TCA cycle and the classic electron transport chain and toward alternative energy pathways is a common element of both the dauer as well as many long-lived phenotypes. This hypothesis therefore differs slightly from the previously discussed metabolic adaptation that occurs during CR in yeast ( Lin et al., 2002). Nonetheless, in worms, these alternative energetic pathways, by reducing flux through the electron transport chain, were postulated to result in reduced ROS generation ( Figure 2). It is important to note that the increased reliance on these alternative pathways can often result in energetically crippled, albeit long-lived animals. Mitochondrial-based metabolism and the TCA cycle presumably evolved in large part because of the ability to produce the most ATP molecules per unit of nutrient consumed. Reducing an organism’s reliance on such pathways may allow a worm to survive for an extended period of time in the controlled laboratory environment but would probably place this animal at a significant disadvantage in the real world, where only the fastest and reproductively fittest survive. Finally, in the context of the whole organism, it will be interesting to understand how circulating hormones such as insulin or IGF-1 may affect these same global parameters and in particular whether these ligands may shorten life by increasing the dependence on TCA-mediated metabolism.
+
+Full-size image (27 K)
+Figure 2. 
+A Simplified Model to Describe the ‘Energy Switch’ Hypothesis for Longevity Mutants in C. elegans
+In brief, the relative balance between TCA-based mitochondrial-dependent metabolism and alternative pathways that do not involve the entire cytochrome chain or are independent of the mitochondria may determine the overall oxidant burden and hence life span. In worms, alternate energy pathways include malate dismutation. If a similar model is extended to mammals, these alternative energy pathways might include glycolysis that occurs in the cytosol. For more details, see Rea and Johnson (2003).
+Figure options
+The link between mitochondrial metabolism and longevity is also supported by several studies demonstrating that direct disruption of the electron transport chain can have a significant effect on life span. One of the first such long-lived mutants characterized is isp-1. This mutant consists of a missense mutation in a component of complex III of the respiratory chain ( Feng et al., 2001). Isp-1 mutants demonstrate a generalized slowing in many developmental milestones and a corresponding reduction in oxygen consumption, consistent with a block in electron transport. The results from these initial isp-1 studies have been significantly extended by two RNAi-based screens to uncover additional genes that regulate life span. In one study, it was demonstrated that reducing the level of various components of respiratory chain complexes I, III, IV, or V resulted in smaller but longer-lived worms ( Dillin et al., 2002). Interestingly this phenotype was only evident if RNAi treatment began at an early age, since similar treatment after the worm had reached the young adult stage did not prolong life. Similarly, a systematic RNAi screen that sought to inactivate over 5600 random C. elegans genes also implicated the mitochondria ( Lee et al., 2003b). Although a large number of life span-determining genes were identified in this screen, the largest functional class appeared to be genes that, in some fashion, regulate mitochondrial activity. This class, comprising nearly 15% of the total pool of life-extending genes, included a host of electron transport chain elements, mitochondrial carriers, and mitochondrial ribosomal subunits. In general, these mitochondrial mutants, although long lived, had grossly altered mitochondrial morphology as well as significantly reduced oxygen consumption and steady-state ATP levels. In contrast to these consistent findings regarding energetics, there was a much more heterogeneous response of these mutants to exogenous superoxide or hydrogen peroxide challenge. While this latter result was interpreted as a lack of consistency for these mutants with regard to endogenous ROS levels, it is important to note that there have been few if any reports that directly measure levels of reactive oxygen species in living worms. Although oxidant levels are commonly assessed in mammalian tissue culture cells through the use of cell-permeant dyes or spin trapping reagents, such methods do not appear to work in adult C. elegans due to their hard exterior cuticle. As such, it is unclear what the resting levels of ROS were in these various mitochondrial crippled but long-lived mutants. Until such direct measurements are made in these mutants, the precise role of ROS levels in the observed increase in life span cannot be fully assessed.
+
+Several other mutants that regulate life span are also worth mentioning here. Although life-shortening mutants are in general less instructive then life-extending mutants, studies with the mev-1 strain stand out as particularly notable exception. This short-lived mutant was initially isolated because of increase sensitivity to the ROS generator methyl violet. Subsequent studies have demonstrated that the mutation maps to a subunit of complex II ( Ishii et al., 1998). Mev-1 animals have significant mitochondrial structural abnormalities and indirect evidence of increased ROS generation ( Senoo-Matsuda et al., 2001). These worms also were shown recently to exhibit increased levels of nuclear DNA damage ( Hartman et al., 2004), arguing that mitochondrial oxidants might be an important source of overall genomic instability. This conjecture is also supported by observations in mice that are heterozygous for mitochondrial superoxide dismutase (Sod2+/−). These mice also demonstrate an increased incidence of nuclear DNA damage as well as a significant increase in tumor formation ( Van Remmen et al., 2003). Together, these observations raise important questions as to what are the most important intracellular targets for mitochondrial-derived oxidants. For instance, are the damaging effects of oxidants generated within the mitochondria confined to the mitochondria, or do they extend to the nucleus? Although the mev-1 and Sod2 experiments suggest that genomic DNA may indeed be an important target, it remains unclear whether, under normal circumstances, the production of mitochondria-derived ROS are high enough and the half-life of oxidants are long enough to cause significant nuclear damage.
+
+One additional mutant in C. elegans is worth mentioning since it provides another important potential link between metabolism, oxidants, and aging. A long-lived mutant known as clk-1 lacks an enzyme required in the biosynthesis of ubiquinone ( Ewbank et al., 1997). As previously discussed, ubiquinone, also known as coenzyme Q, is an important and well-conserved electron acceptor for both complex I- and II-dependent respiration. The synthesis of ubiquinone involves the sequential addition of isoprenyl subunits to the tail of the molecule, and long-lived clk-1 mutants accumulate a precursor of coenzyme Q containing eight rather the usual nine isoprenyl subunit tail. While all are agreed that clk-1 mutants are developmentally slowed and long lived, controversy remains as to whether metabolic rate as assessed by total oxygen consumption is reduced or unchanged in the clk-1 mutants ( Branicky et al., 2000 and Braeckman et al., 2002). Interestingly, although coenzyme Q is often sold in health stores as a beneficial, life-extending antioxidant, withdrawal of the compound from the diet of wild-type worms can actually increase life span by 60% ( Larsen and Clarke, 2002). Two other recent observations of the clk-1 mutant provide potentially important insights. The first is that a very recent study using intact functional mitochondria has found a specific deficit in complex I-dependent respiration in clk-1 mutants, while complex II-dependent respiration was normal ( Kayser et al., 2004). This contrasts with previous measurements made with isolated cytochrome complexes that demonstrated a modest reduction in complex II activity ( Felkai et al., 1999). It is presently unknown how this specific deficit in oxidative phosphorylation is achieved since, as mentioned, coenzyme Q was previously thought to be involved in both complex I- and II-dependent respiration. Nonetheless, these results suggest a potential caveat in measuring total oxygen consumption or isolated individual mitochondrial complex activity and assuming that electron transport is unchanged. Although difficult, more precise biochemical studies using intact functional mitochondrial preparations derived from either wild-type or long-lived C. elegans animals would seem to be an important avenue of investigation. Another observation that might be relevant to understanding the link between the clk-1 mutant and oxidants involved an attempt to understand why these animals undergo a profound slowing of multiple developmental processes. A recent study implicated a decrease in cytoplasmic ROS levels as the culprit for these developmental delays in the clk-1 animals ( Shibata et al., 2003). Interestingly, these altered levels of cytoplasmic ROS appear to effect development not as random, destructive elements but rather as specific signaling molecules. In the case of clk-1 mutants, ROS appear to act in part as downstream effectors of the small GTPase Ras to modulate developmental signals. This result is consistent with a growing appreciation that a number of signaling pathways are regulated in some fashion by redox modulation ( Finkel, 2003). In these varied cases, ROS are acting as specific signaling molecules. If, in fact, alterations in ROS regulate the developmental delay in clk-1 by acting as specific messengers, it raises the possibility that ROS may potentially regulate aging in a similar, specific fashion.
+
+Aging in Flies
+Many of the pathways operational in C. elegans also appear to regulate life span in Drosophila. In particular, the insulin/IGF pathway appears as an important regulator of longevity. For instance, a null mutation in the insulin substrate chico results in an approximate 40% increase in maximal life span of female flies ( Clancy et al., 2001). Similarly, increased activity of the Forkhead transcription factor dFoxo appears to slow aging in Drosophila as it does in C. elegans ( Giannakou et al., 2004). Drosophila have also been extensively used to assess the role of antioxidant enzyme overexpression in determining life span. Several studies have suggested that expression of superoxide dismutase alone or in conjunction with the peroxide scavenging enzyme catalase could slow aging ( Orr and Sohal, 1994, Parkes et al., 1998 and Sun and Tower, 1999). More recent evidence suggests that these initial results, which would strongly support the free radical theory of aging, may have been inadvertently biased by using relatively short-lived control strains. Repeat experiments in long-lived strains suggest that the expression of various antioxidant proteins is without significant effect ( Orr et al., 2003).
+
+Another instructive Drosophila life span mutant is the colorfully named Indy (I’m not dead yet, a tribute Monty Python fans will recognize). This mutant demonstrates a 50% increase in maximal life span ( Rogina et al., 2000). Analysis of the Indy gene product demonstrated that it belongs to a family of proteins that, in mammalian cells, handle the uptake of Krebs cycle intermediates such as citrate and succinate. While this mutant would seem to fit the general paradigm of altered mitochondrial metabolism leading to altered life span, it should be noted that direct measurement of metabolic rates in Indy mutants revealed they were indistinguishable from wild-type flies ( Marden et al., 2003). Similarly, dietary-restricted flies and flies with mutant chico genes also failed to have detectable alterations in their overall metabolic rate and/or oxygen consumption ( Hulbert et al., 2004). Therefore, as attractive as the notion is that mutants such as chico and Indy have altered metabolism and that these metabolic alterations are the basis for their longevity, direct proof that this mechanism is operational remains elusive.
+
+One additional interesting Drosophila mutant originally isolated from a genetic screen is the long-lived strain methuselah (mth). This mutant exhibited a 35% increase in average life span and was resistant to numerous stressors including heat, starvation, and oxidants ( Lin et al., 1998). Analysis of the mth gene product demonstrated that it belonged to the family of GTP binding protein-coupled receptors (GPCR), the family of seven transmembrane spanning receptors that modulate a host of signaling pathways. These results suggested that, at least in Drosophila, GPCR-regulated pathways might modulate stress resistance. It also raised the possibility that small molecule antagonists for the endogenous ligand of mth may extend life span. Until recently, however, the endogenous ligand of mth has remained unknown. However, a fascinating new study suggested that the cognate ligand is encoded by the Drosophila gene product stunted ( Cvejic et al., 2004). There are two splice variants of the stunted gene, one encoding a 60 amino acid peptide and the other a slightly smaller 56 amino acid peptide. Both peptides encode for a highly conserved protein that corresponds to the ϵ subunit of the F1F0-ATP synthase of the electron transport chain. This provocative result suggests a potentially important connection between metabolism, stress resistance, and GPCR signaling. Nonetheless, it also raises a number of important unanswered questions including how a presumed mitochondrial protein can function as a ligand for a cell surface receptor. Finally, the intersection between GPCR signaling and metabolism was recently strengthen by another fascinating observation that the citric acid intermediates succinate and α-ketoglutarate are actually the endogenous ligands for two separate mammalian orphan GPCR ( He et al., 2004). Together, these results hint that classical cell surface signal transduction pathways and intracellular metabolism may be significantly more interconnected than previously suspected.
+
+The theme of stress signaling and life span has also been bolstered by another recent report in which the authors demonstrated that JNK-dependent pathways were stimulated by cellular stress and were responsible for inhibiting the toxic effects of intracellular ROS (Wang et al., 2003). Augmenting JNK signaling in Drosophila resulted in less evidence of oxidative damage and a significant increase in life span. Given that JNK activity is also regulated by intracellular oxidants in mammalian cells, this suggests an important and perhaps evolutionary conserved target for intervention. Nonetheless, these results also suggest that there are many potential intracellular targets for ROS, and it is not yet clear which of these targets is the most relevant for regulating life span ( Figure 3).
+
+Full-size image (33 K)
+Figure 3. 
+Potential Targets of ROS within Cells that May Determine the Rate of Aging
+ROS generated within the mitochondria can potentially feed back on the organelle and directly damage mitochondrial DNA and other components in a putative vicious cycle. Similarly, mitochondrial oxidants can damage nuclear DNA leading to activation of p53 and other DNA damage pathways. Cytosolic elements including stress-activated kinases such as JNK and p38 may be potential targets. Finally, direct oxidative modification of proteins may be an important element of aging (see Berlett and Stadtman [1997]).
+Figure options
+Mammalian Models of Aging
+The development of mammalian models of aging in many ways appears to support and converge with the previously described invertebrate studies. For instance, there are a number of long-lived mutant mice that appear to modulate the insulin/IGF-1 pathway in a manner that is analogous to the daf-2/age-1/daf-16 mutants in C. elegans. Among these previously described mice are the Ames, Snell, and Laron strains. All of these mice are smaller then their wild-type counterparts, with their dwarf status a result of deficiencies in several secreted factors including growth hormone, thyroid hormone, and often IGF-1 ( Quarrie and Riabowol, 2004). Besides their smaller size, these long-lived strains exhibit other potentially important characteristics such as a decrease in basal body temperature and a modest increase in antioxidant scavenging capacity. Recently, the role of the insulin/IGF-1 pathway in mammalian aging was examined in a more directed fashion. Two studies have suggested that these pathways are indeed important determinants of life span. Although complete knockout of the IGF-1 receptor (IGF-1R) is lethal, heterozygotes are viable. Analysis of the life span of such animals demonstrated that female heterozygotes lived approximately 30% longer than control wild-type mice, while male heterozygotes had roughly a 15% life span extension ( Holzenberger et al., 2003). Similar to the daf-2 mutants, IGF-1R heterozygotes also exhibit an increase in oxidative stress resistance. A related study in which an adipose-specific knockout of the insulin receptor was analyzed also demonstrated a significant (approximately 18%) increase in life span in these animals ( Bluher et al., 2003). Again, this life span extension was a result of inhibiting insulin signaling in a tissue-specific fashion, as the complete abrogation of insulin signaling is incompatible with life. These results are reminiscent of observations made in C. elegans, in which strong mutations in the daf-2 pathway result in a constitutive dauer phenotype with complete growth arrest, while weaker mutations appear to have the potential to increase life span.
+
+Another interesting example of a long-lived mammalian species is the targeted disruption of the p66shc gene. These mice live 30% longer than control mice and also exhibit an increased resistance to oxidative stress (Migliaccio et al., 1999). The p66shc protein belongs to a family of adaptor molecules that regulate protein-protein interaction for a number of cell surface receptors, including the insulin receptor. Interestingly, cells derived from p66shc-disrupted animals also exhibit a decrease in basal and stress-induced levels of ROS (Nemoto and Finkel, 2002 and Trinei et al., 2002). Since the measured level of ROS represents a balance between oxidant generation and scavenging, alterations in ROS levels can come from either decrease generation or increased destruction. There is some evidence that p66shc may regulate mammalian Forkhead activity and that this in turn may lead to an increase in antioxidants such as catalase and superoxide dismutase (Nemoto and Finkel, 2002 and Kops et al., 2002). In addition, recent evidence that a fraction of p66shc localizes to the mitochondria suggests that this protein may also be involved in regulating mitochondrial oxidant generation, although no direct proof of this currently exists (Orsini et al., 2004).
+
+One other recent study in genetically altered mice provided some of the best support for the previously described vicious cycle of mitochondrial damage leading to aging. These investigators developed a knockin mice that expressed a proofreading-deficient form of a nuclear-encoded mitochondrial DNA polymerase (Trifunovic et al., 2004). Mice expressing this altered polymerase exhibited a significantly higher number of mitochondrial point mutations as well as deletions. Interestingly, these mutations did not significantly increase with the age of the animal, suggesting that they tended to occur at some early point in development. The mice containing the altered polymerase exhibited a significantly shortened life span as well as the appearance of a number of age-related phenotypes, including hair loss, kyphosis, and reduced fertility. There was also a reduction in respiratory chain activity and ATP generation in postmitotic tissue such as heart. All of these biochemical and physiological changes appear, therefore, to be secondary to the initial defect exhibited in the mitochondrial DNA and suggest that damaged mitochondria can accelerate the aging process. The reciprocal experiment involving mice that are genetically engineered to have a reduced rate of mitochondrial DNA mutations has not yet been performed. If these mice were, in fact, capable of living longer, the central role of mitochondrial damage in the aging process would be significantly strengthened.
+
+Finally, in addition to genetically altered mice, examination of normal variations within outbred strains has yielded some important insights concerning the relationship between metabolism and life span. The classic rate of living theory would predict that increased metabolic rate would lead to increased ROS generation and reduced life span. As mentioned earlier, mitochondrial uncoupling represents an important exception to the previously believed positive correlation between metabolic rate and oxidant formation. This notion that inefficiency in mitochondrial ATP generation may be necessary to reduce ROS generation has led to an “uncoupling to survive” hypothesis (Brand, 2000). Support of this comes from a recent study demonstrating that, in an outbred strain of mice, those animals with higher metabolic intensities and oxygen consumption lived longer then animals with lower metabolic intensities (Speakman et al., 2004). These long-lived, high metabolic rate mice also had significant increases in their degree of metabolic uncoupling, suggesting that these animals may decrease ROS generation even in the setting of increased oxygen consumption by reducing the mitochondrial membrane potential.
+
+Conclusions
+Some 50 years after its initial proposal, the free radical theory remains perhaps the most vigorous contender to explain the basis of aging in a wide range of species. Certainly, as described here, there are a host of either short- or long-lived organisms that appear to have changes in mitochondrial metabolism, ROS generation, or oxidative stress resistance as their primary alteration. This concurrence in numerous species does not prove causality but does at least hint at a strong underlying relationship. The additional observations that direct oxidant challenge can mimic many of the cellular and transcriptional changes seen with aging also strengthens the link between the level of ROS and the rate of aging. In Harman’s original hypothesis, he suggested that both aging and age-related diseases were regulated by intracellular free radicals. The recent discovery that certain metabolic genes involved in the TCA cycle can act as tumor suppressors (Pollard et al., 2003) and that genes that slow overall aging also slow the development of chronic disease such as atherosclerosis (Napoli et al., 2003) suggest that Harman’s initial intuition may ultimately prove correct. In the end, the seeds of both our immediate vitality and our ultimate mortality would seem to be intertwined in the combustible combination of nutrients and oxygen that continuously occurs within our mitochondria. Economists often warn us that there is no such thing as a free lunch. Biologists are beginning to understand that this maxim appears to apply not only to economic models but equally well to an agreement negotiated billions of years ago between an unsuspecting host and an uninvited intruder.
+
+Acknowledgments
+We are grateful to Ilsa Rovira for help with the manuscript preparation.
+
+References
+Aguilaniu et al., 2003
+H. Aguilaniu, L. Gustafsson, M. Rigoulet, T. Nystrom
+Asymmetric inheritance of oxidatively damaged proteins during cytokinesis
+Science, 299 (2003), pp. 1751–1753
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (285)
+Berlett and Stadtman, 1997
+B.S. Berlett, E.R. Stadtman
+Protein oxidation in aging, disease, and oxidative stress
+J. Biol. Chem., 272 (1997), pp. 20313–20316
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1743)
+Blander and Guarente, 2004
+G. Blander, L. Guarente
+The Sir2 family of protein deacetylases
+Annu. Rev. Biochem., 73 (2004), pp. 417–435
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (807)
+Blander et al., 2003
+G. Blander, R.M. de Oliveira, C.M. Conboy, M. Haigis, L. Guarente
+Superoxide dismutase 1 knock-down induces senescence in human fibroblasts
+J. Biol. Chem., 278 (2003), pp. 38966–38969
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (93)
+Bluher et al., 2003
+M. Bluher, B.B. Kahn, C.R. Kahn
+Extended longevity in mice lacking the insulin receptor in adipose tissue
+Science, 299 (2003), pp. 572–574
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (691)
+Bose et al., 2003
+S. Bose, S. French, F.J. Evans, F. Joubert, R.S. Balaban
+Metabolic network control of oxidative phosphorylation: multiple roles of inorganic phosphate
+J. Biol. Chem., 278 (2003), pp. 39155–39165
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (96)
+Boveris and Chance, 1973
+A. Boveris, B. Chance
+The mitochondrial generation of hydrogen peroxide. General properties and effect of hyperbaric oxygen
+Biochem. J., 134 (1973), pp. 707–716
+
+View Record in Scopus | Cited By in Scopus (1272)
+Boveris et al., 1972
+A. Boveris, N. Oshino, B. Chance
+The cellular production of hydrogen peroxide
+Biochem. J., 128 (1972), pp. 617–630
+
+View Record in Scopus | Cited By in Scopus (633)
+Braeckman et al., 2002
+B.P. Braeckman, K. Houthoofd, K. Brys, I. Lenaerts, A. De Vreese, S. Van Eygen, H. Raes, J.R. Vanfleteren
+No reduction of energy metabolism in Clk mutants
+Mech. Ageing Dev., 123 (2002), pp. 1447–1456
+
+Article |  PDF (683 K) | View Record in Scopus | Cited By in Scopus (37)
+Brand, 2000
+M.D. Brand
+Uncoupling to survive? The role of mitochondrial inefficiency in ageing
+Exp. Gerontol., 35 (2000), pp. 811–820
+
+Article |  PDF (718 K) | View Record in Scopus | Cited By in Scopus (311)
+Brand et al., 2004
+M.D. Brand, C. Affourtit, T.C. Esteves, K. Green, A.J. Lambert, S. Miwa, J.L. Pakay, N. Parker
+Mitochondrial superoxide: production, biological effects, and activation of uncoupling proteins
+Free Radic. Biol. Med., 37 (2004), pp. 755–767
+
+Article |  PDF (475 K) | View Record in Scopus | Cited By in Scopus (455)
+Branicky et al., 2000
+R. Branicky, C. Benard, S. Hekimi
+clk-1, mitochondria, and physiological rates
+Bioessays, 22 (2000), pp. 48–56
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (57)
+Brunet et al., 2004
+A. Brunet, L.B. Sweeney, J.F. Sturgill, K.F. Chua, P.L. Greer, Y. Lin, H. Tran, S.E. Ross, R. Mostoslavsky, H.Y. Cohen et al.
+Stress-dependent regulation of FOXO transcription factors by the SIRT1 deacetylase
+Science, 303 (2004), pp. 2011–2015
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1357)
+Butler et al., 1975
+J. Butler, G.G. Jayson, A.J. Swallow
+The reaction between the superoxide anion radical and cytochrome c
+Biochim. Biophys. Acta, 408 (1975), pp. 215–222
+
+Article |  PDF (478 K) | View Record in Scopus | Cited By in Scopus (49)
+Cadenas and Davies, 2000
+E. Cadenas, K.J. Davies
+Mitochondrial free radical generation, oxidative stress, and aging
+Free Radic. Biol. Med., 29 (2000), pp. 222–230
+
+Article |  PDF (89 K) | View Record in Scopus | Cited By in Scopus (1190)
+Casteilla et al., 2001
+L. Casteilla, M. Rigoulet, L. Penicaud
+Mitochondrial ROS metabolism: modulation by uncoupling proteins
+IUBMB Life, 52 (2001), pp. 181–188
+
+Full Text via CrossRef
+Chance et al., 1979
+B. Chance, H. Sies, A. Boveris
+Hydroperoxide metabolism in mammalian organs
+Physiol. Rev., 59 (1979), pp. 527–605
+
+View Record in Scopus | Cited By in Scopus (2732)
+Chang et al., 2004
+T.S. Chang, C.S. Cho, S. Park, S. Yu, S.W. Kang, S.G. Rhee
+Peroxiredoxin III, a mitochondrion-specific peroxidase, regulates apoptotic signaling by mitochondria
+J. Biol. Chem., 279 (2004), pp. 41975–41984 http://dx.doi.org/10.1074/jbc.M407707200.
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (186)
+Chen et al., 2003
+Q. Chen, E.J. Vazquez, S. Moghaddas, C.L. Hoppel, E.J. Lesnefsky
+Production of reactive oxygen species by mitochondria: central role of complex III
+J. Biol. Chem., 278 (2003), pp. 36027–36031
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (617)
+Clancy et al., 2001
+D.J. Clancy, D. Gems, L.G. Harshman, S. Oldham, H. Stocker, E. Hafen, S.J. Leevers, L. Partridge
+Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein
+Science, 292 (2001), pp. 104–106
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (716)
+Cvejic et al., 2004
+S. Cvejic, Z. Zhu, S.J. Felice, Y. Berman, X.Y. Huang
+The endogenous ligand Stunted of the GPCR Methuselah extends lifespan in Drosophila
+Nat. Cell Biol., 6 (2004), pp. 540–546
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (44)
+Dada et al., 2003
+L.A. Dada, N.S. Chandel, K.M. Ridge, C. Pedemonte, A.M. Bertorello, J.I. Sznajder
+Hypoxia-induced endocytosis of Na, K-ATPase in aveolar epithelial cells is mediated by mitochondrial reactive oxygen species and PKC-zeta
+J. Clin. Invest., 111 (2003), pp. 1057–1064
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (165)
+Denu, 2003
+J.M. Denu
+Linking chromatin function with metabolic networks: Sir2 family of NAD(+)-dependent deacetylases
+Trends Biochem. Sci., 28 (2003), pp. 41–48
+
+Article |  PDF (468 K) | View Record in Scopus | Cited By in Scopus (149)
+Dillin et al., 2002
+A. Dillin, A.L. Hsu, N. Arantes-Oliveira, J. Lehrer-Graiwer, H. Hsin, A.G. Fraser, R.S. Kamath, J. Ahringer, C. Kenyon
+Rates of behavior and aging specified by mitochondrial function during development
+Science, 298 (2002), pp. 2398–2401
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (373)
+Echtay et al., 2002
+K.S. Echtay, D. Roussel, J. St-Pierre, M.B. Jekabsons, S. Cadenas, J.A. Stuart, J.A. Harper, S.J. Roebuck, A. Morrison, S. Pickering et al.
+Superoxide activates mitochondrial uncoupling proteins
+Nature, 415 (2002), pp. 96–99
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (754)
+Ewbank et al., 1997
+J.J. Ewbank, T.M. Barnes, B. Lakowski, M. Lussier, H. Bussey, S. Hekimi
+Structural and functional conservation of the Caenorhabditis elegans timing gene clk-1
+Science, 275 (1997), pp. 980–983
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (208)
+Felkai et al., 1999
+S. Felkai, J.J. Ewbank, J. Lemieux, J.C. Labbe, G.G. Brown, S. Hekimi
+CLK-1 controls respiration, behavior and aging in the nematode Caenorhabditis elegans
+EMBO J., 18 (1999), pp. 1783–1792
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (142)
+Feng et al., 2001
+J. Feng, F. Bussiere, S. Hekimi
+Mitochondrial electron transport is a key determinant of life span in Caenorhabditis elegans
+Dev. Cell, 1 (2001), pp. 633–644
+
+Article |  PDF (421 K) | View Record in Scopus | Cited By in Scopus (238)
+Finkel, 2003
+T. Finkel
+Oxidant signals and oxidative stress
+Curr. Opin. Cell Biol., 15 (2003), pp. 247–254
+
+Article |  PDF (167 K) | View Record in Scopus | Cited By in Scopus (770)
+Fridovich and Handler, 1961
+I. Fridovich, P. Handler
+Detection of free radicals generated during enzymic oxidations by the initiation of sulfite oxidation
+J. Biol. Chem., 236 (1961), pp. 1836–1840
+
+View Record in Scopus | Cited By in Scopus (17)
+Genova et al., 2001
+M.L. Genova, B. Ventura, G. Giuliano, C. Bovina, G. Formiggini, C.G. Parenti, G. Lenaz
+The site of production of superoxide radical in mitochondrial Complex I is not a bound ubisemiquinone but presumably iron-sulfur cluster N2
+FEBS Lett., 505 (2001), pp. 364–368
+
+Article |  PDF (111 K) | View Record in Scopus | Cited By in Scopus (187)
+Giannakou et al., 2004
+M.E. Giannakou, M. Goss, M.A. Junger, E. Hafen, S.J. Leevers, L. Partridge
+Long-lived Drosophila with overexpressed dFOXO in adult fat body
+Science, 305 (2004), p. 361
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (260)
+Harman, 1956
+D. Harman
+Aging: a theory based on free radical and radiation chemistry
+J. Gerontol., 11 (1956), pp. 298–300
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3158)
+Hartman et al., 2004
+P. Hartman, R. Ponder, H.H. Lo, N. Ishii
+Mitochondrial oxidative stress can lead to nuclear hypermutability
+Mech. Ageing Dev., 125 (2004), pp. 417–420
+
+Article |  PDF (93 K) | View Record in Scopus | Cited By in Scopus (35)
+He et al., 2004
+W. He, F.J. Miao, D.C. Lin, R.T. Schwandner, Z. Wang, J. Gao, J.L. Chen, H. Tian, L. Ling
+Citric acid cycle intermediates as ligands for orphan G-protein-coupled receptors
+Nature, 429 (2004), pp. 188–193
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (242)
+Holzenberger et al., 2003
+M. Holzenberger, J. Dupont, B. Ducos, P. Leneuve, A. Geloen, P.C. Even, P. Cervera, Y. Le Bouc
+IGF-1 receptor regulates lifespan and resistance to oxidative stress in mice
+Nature, 421 (2003), pp. 182–187
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (996)
+Hulbert et al., 2004
+A.J. Hulbert, D.J. Clancy, W. Mair, B.P. Braeckman, D. Gems, L. Partridge
+Metabolic rate is not reduced by dietary-restriction or by lowered insulin/IGF-1 signalling and is not correlated with individual lifespan in Drosophila melanogaster
+Exp. Gerontol., 39 (2004), pp. 1137–1143
+
+Article |  PDF (213 K) | View Record in Scopus | Cited By in Scopus (75)
+Ishii et al., 1998
+N. Ishii, M. Fujii, P.S. Hartman, M. Tsuda, K. Yasuda, N. Senoo-Matsuda, S. Yanase, D. Ayusawa, K. Suzuki
+A mutation in succinate dehydrogenase cytochrome b causes oxidative stress and ageing in nematodes
+Nature, 394 (1998), pp. 694–697
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (390)
+Johnson et al., 2001
+T.E. Johnson, E. de Castro, S. Hegi de Castro, J. Cypser, S. Henderson, P. Tedesco
+Relationship between increased longevity and stress resistance as assessed through gerontogene mutations in Caenorhabditis elegans
+Exp. Gerontol., 36 (2001), pp. 1609–1617
+
+Article |  PDF (103 K) | View Record in Scopus | Cited By in Scopus (82)
+Joubert et al., 2004
+F. Joubert, H.M. Fales, H. Wen, C.A. Combs, R.S. Balaban
+NADH enzyme-dependent fluorescence recovery after photobleaching (ED-FRAP): applications to enzyme and mitochondrial reaction kinetics, in vitro
+Biophys. J., 86 (2004), pp. 629–645
+
+Article |  PDF (297 K) | View Record in Scopus | Cited By in Scopus (21)
+Kayser et al., 2004
+E.B. Kayser, M.M. Sedensky, P.G. Morgan, C.L. Hoppel
+Mitochondrial oxidative phosphorylation is defective in the long-lived mutant clk-1
+J. Biol. Chem., 279 (2004), pp. 54479–54486
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (51)
+Kops et al., 2002
+G.J. Kops, T.B. Dansen, P.E. Polderman, I. Saarloos, K.W. Wirtz, P.J. Coffer, T.T. Huang, J.L. Bos, R.H. Medema, B.M. Burgering
+Forkhead transcription factor FOXO3a protects quiescent cells from oxidative stress
+Nature, 419 (2002), pp. 316–321
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (680)
+Kushnareva et al., 2002
+Y. Kushnareva, A.N. Murphy, A. Andreyev
+Complex I-mediated reactive oxygen species generation: modulation by cytochrome c and NAD(P)+ oxidation-reduction state
+Biochem. J., 368 (2002), pp. 545–553
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (332)
+Lambeth, 2004
+J.D. Lambeth
+NOX enzymes and the biology of reactive oxygen
+Nat. Rev. Immunol., 4 (2004), pp. 181–189
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1281)
+Landis et al., 2004
+G.N. Landis, D. Abdueva, D. Skvortsov, J. Yang, B.E. Rabin, J. Carrick, S. Tavare, J. Tower
+Similar gene expression patterns characterize aging and oxidative stress in Drosophila melanogaster
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 7663–7668
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (179)
+Larsen and Clarke, 2002
+P.L. Larsen, C.F. Clarke
+Extension of life-span in Caenorhabditis elegans by a diet lacking coenzyme Q
+Science, 295 (2002), pp. 120–123
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (147)
+Lee et al., 1999
+A.C. Lee, B.E. Fenster, H. Ito, K. Takeda, N.S. Bae, T. Hirai, Z.X. Yu, V.J. Ferrans, B.H. Howard, T. Finkel
+Ras proteins induce senescence by altering the intracellular levels of reactive oxygen species
+J. Biol. Chem., 274 (1999), pp. 7936–7940
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (322)
+Lee et al., 2003a
+S.S. Lee, S. Kennedy, A.C. Tolonen, G. Ruvkun
+DAF-16 target genes that control C. elegans life-span and metabolism
+Science, 300 (2003), pp. 644–647
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (316)
+Lee et al., 2003b
+S.S. Lee, R.Y. Lee, A.G. Fraser, R.S. Kamath, J. Ahringer, G. Ruvkun
+A systematic RNAi screen identifies a critical role for mitochondria in C. elegans longevity
+Nat. Genet., 33 (2003), pp. 40–48
+
+View Record in Scopus | Cited By in Scopus (454)
+Lin et al., 1998
+Y.J. Lin, L. Seroude, S. Benzer
+Extended life-span and stress resistance in the Drosophila mutant methuselah
+Science, 282 (1998), pp. 943–946
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (497)
+Lin et al., 2002
+S.J. Lin, M. Kaeberlein, A.A. Andalis, L.A. Sturtz, P.A. Defossez, V.C. Culotta, G.R. Fink, L. Guarente
+Calorie restriction extends Saccharomyces cerevisiae lifespan by increasing respiration
+Nature, 418 (2002), pp. 344–348
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (590)
+Liu et al., 2002
+Y. Liu, G. Fiskum, D. Schubert
+Generation of reactive oxygen species by the mitochondrial electron transport chain
+J. Neurochem., 80 (2002), pp. 780–787
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (505)
+Loschen et al., 1971
+G. Loschen, L. Flohe, B. Chance
+Respiratory chain linked H(2)O(2) production in pigeon heart mitochondria
+FEBS Lett., 18 (1971), pp. 261–264
+
+Article |  PDF (319 K) | View Record in Scopus | Cited By in Scopus (206)
+Ludwig et al., 2001
+B. Ludwig, E. Bender, S. Arnold, M. Huttemann, I. Lee, B. Kadenbach
+Cytochrome C oxidase and the regulation of oxidative phosphorylation
+ChemBioChem, 2 (2001), pp. 392–403
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (127)
+Luo et al., 2001
+J. Luo, A.Y. Nikolaev, S. Imai, D. Chen, F. Su, A. Shiloh, L. Guarente, W. Gu
+Negative control of p53 by Sir2alpha promotes cell survival under stress
+Cell, 107 (2001), pp. 137–148
+
+Article |  PDF (443 K) | View Record in Scopus | Cited By in Scopus (1154)
+Macip et al., 2003
+S. Macip, M. Igarashi, P. Berggren, J. Yu, S.W. Lee, S.A. Aaronson
+Influence of induced reactive oxygen species in p53-mediated cell fate decisions
+Mol. Cell. Biol., 23 (2003), pp. 8576–8585
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (145)
+Maklashina and Ackrell, 2004
+E. Maklashina, B.A. Ackrell
+Is defective electron transport at the hub of aging?
+Aging Cell, 3 (2004), pp. 21–27
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (33)
+Marden et al., 2003
+J.H. Marden, B. Rogina, K.L. Montooth, S.L. Helfand
+Conditional tradeoffs between aging and organismal performance of Indy long-lived mutant flies
+Proc. Natl. Acad. Sci. USA, 100 (2003), pp. 3369–3373
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (102)
+McCarroll et al., 2004
+S.A. McCarroll, C.T. Murphy, S. Zou, S.D. Pletcher, C.S. Chin, Y.N. Jan, C. Kenyon, C.I. Bargmann, H. Li
+Comparing genomic expression patterns across species identifies shared transcriptional profile in aging
+Nat. Genet., 36 (2004), pp. 197–204
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (234)
+McCord and Fridovich, 1969
+J.M. McCord, I. Fridovich
+Superoxide dismutase. An enzymic function for erythrocuprein (hemocuprein)
+J. Biol. Chem., 244 (1969), pp. 6049–6055
+
+View Record in Scopus | Cited By in Scopus (39)
+McElwee et al., 2003
+J. McElwee, K. Bubb, J.H. Thomas
+Transcriptional outputs of the Caenorhabditis elegans forkhead protein DAF-16
+Aging Cell, 2 (2003), pp. 111–121
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (217)
+Migliaccio et al., 1999
+E. Migliaccio, M. Giorgio, S. Mele, G. Pelicci, P. Reboldi, P.P. Pandolfi, L. Lanfrancone, P.G. Pelicci
+The p66shc adaptor protein controls oxidative stress response and life span in mammals
+Nature, 402 (1999), pp. 309–313
+
+View Record in Scopus | Cited By in Scopus (1019)
+Miquel et al., 1976
+J. Miquel, P.R. Lundgren, K.G. Bensch, H. Atlan
+Effects of temperature on the life span, vitality and fine structure of Drosophila melanogaster
+Mech. Ageing Dev., 5 (1976), pp. 347–370
+
+Article |  PDF (4183 K)
+Murphy et al., 2003
+C.T. Murphy, S.A. McCarroll, C.I. Bargmann, A. Fraser, R.S. Kamath, J. Ahringer, H. Li, C. Kenyon
+Genes that act downstream of DAF-16 to influence the lifespan of Caenorhabditis elegans
+Nature, 424 (2003), pp. 277–283
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1)
+Napoli et al., 2003
+C. Napoli, I. Martin-Padura, F. de Nigris, M. Giorgio, G. Mansueto, P. Somma, M. Condorelli, G. Sica, G. De Rosa, P. Pelicci
+Deletion of the p66Shc longevity gene reduces systemic and tissue oxidative stress, vascular cell apoptosis, and early atherogenesis in mice fed a high-fat diet
+Proc. Natl. Acad. Sci. USA, 100 (2003), pp. 2112–2116
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (194)
+Nemoto and Finkel, 2002
+S. Nemoto, T. Finkel
+Redox regulation of forkhead proteins through a p66shc-dependent signaling pathway
+Science, 295 (2002), pp. 2450–2452
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (479)
+Nemoto et al., 2000
+S. Nemoto, K. Takeda, Z.X. Yu, V.J. Ferrans, T. Finkel
+Role for mitochondrial oxidants as regulators of cellular metabolism
+Mol. Cell. Biol., 20 (2000), pp. 7311–7318
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (205)
+North and Verdin, 2004
+B.J. North, E. Verdin
+Sirtuins: Sir2-related NAD-dependent protein deacetylases
+Genome Biol., 5 (2004), p. 224
+
+Full Text via CrossRef
+Ogawa et al., 1992
+S. Ogawa, D.W. Tank, R. Menon, J.M. Ellermann, S.G. Kim, H. Merkle, K. Ugurbil
+Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging
+Proc. Natl. Acad. Sci. USA, 89 (1992), pp. 5951–5955
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1856)
+Orii, 1982
+Y. Orii
+The cytochrome c peroxidase activity of cytochrome oxidase
+J. Biol. Chem., 257 (1982), pp. 9246–9248
+
+View Record in Scopus | Cited By in Scopus (19)
+Orr and Sohal, 1994
+W.C. Orr, R.S. Sohal
+Extension of life-span by overexpression of superoxide dismutase and catalase in Drosophila melanogaster
+Science, 263 (1994), pp. 1128–1130
+
+View Record in Scopus | Cited By in Scopus (947)
+Orr et al., 2003
+W.C. Orr, R.J. Mockett, J.J. Benes, R.S. Sohal
+Effects of overexpression of copper-zinc and manganese superoxide dismutases, catalase, and thioredoxin reductase genes on longevity in Drosophila melanogaster
+J. Biol. Chem., 278 (2003), pp. 26418–26422
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (116)
+Orsini et al., 2004
+F. Orsini, E. Migliaccio, M. Moroni, C. Contursi, V.A. Raker, D. Piccini, I. Martin-Padura, G. Pelliccia, M. Trinei, M. Bono et al.
+The life span determinant p66Shc localizes to mitochondria where it associates with mitochondrial heat shock protein 70 and regulates trans-membrane potential
+J. Biol. Chem., 279 (2004), pp. 25689–25695
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (147)
+Packer and Fuehr, 1977
+L. Packer, K. Fuehr
+Low oxygen concentration extends the lifespan of cultured human diploid cells
+Nature, 267 (1977), pp. 423–425
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (147)
+Parkes et al., 1998
+T.L. Parkes, A.J. Elia, D. Dickinson, A.J. Hilliker, J.P. Phillips, G.L. Boulianne
+Extension of Drosophila lifespan by overexpression of human SOD1 in motorneurons
+Nat. Genet., 19 (1998), pp. 171–174
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (538)
+Pearl, 1928
+R. Pearl
+The Rate of Living
+University of London Press, London (1928)
+
+Pollard et al., 2003
+P.J. Pollard, N.C. Wortham, I.P. Tomlinson
+The TCA cycle and tumorigenesis: the examples of fumarate hydratase and succinate dehydrogenase
+Ann. Med., 35 (2003), pp. 632–639
+
+View Record in Scopus | Cited By in Scopus (59)
+Quarrie and Riabowol, 2004
+Quarrie, J.K., and Riabowol, K.T. (2004). Murine models of life span extension. Sci. Aging Knowledge Environ. 31, August 4, 2004, re5.
+Radi et al., 1991
+R. Radi, J.F. Turrens, L.Y. Chang, K.M. Bush, J.D. Crapo, B.A. Freeman
+Detection of catalase in rat heart mitochondria
+J. Biol. Chem., 266 (1991), pp. 22028–22034
+
+View Record in Scopus | Cited By in Scopus (222)
+Rea and Johnson, 2003
+S. Rea, T.E. Johnson
+A metabolic model for life span determination in Caenorhabditis elegans
+Dev. Cell, 5 (2003), pp. 197–203
+
+Article |  PDF (194 K) | View Record in Scopus | Cited By in Scopus (70)
+Richter et al., 1988
+C. Richter, J.W. Park, B.N. Ames
+Normal oxidative damage to mitochondrial and nuclear DNA is extensive
+Proc. Natl. Acad. Sci. USA, 85 (1988), pp. 6465–6467
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (876)
+Robinson and Srere, 1985
+J.B. Robinson Jr., P.A. Srere
+Organization of Krebs tricarboxylic acid cycle enzymes in mitochondria
+J. Biol. Chem., 260 (1985), pp. 10800–10805
+
+View Record in Scopus | Cited By in Scopus (48)
+Rogina et al., 2000
+B. Rogina, R.A. Reenan, S.P. Nilsen, S.L. Helfand
+Extended life-span conferred by cotransporter gene mutations in Drosophila
+Science, 290 (2000), pp. 2137–2140
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (263)
+Senoo-Matsuda et al., 2001
+N. Senoo-Matsuda, K. Yasuda, M. Tsuda, T. Ohkubo, S. Yoshimura, H. Nakazawa, P.S. Hartman, N. Ishii
+A defect in the cytochrome b large subunit in complex II causes both superoxide anion overproduction and abnormal energy metabolism in Caenorhabditis elegans
+J. Biol. Chem., 276 (2001), pp. 41553–41558
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (158)
+Serra et al., 2003
+V. Serra, T. von Zglinicki, M. Lorenz, G. Saretzki
+Extracellular superoxide dismutase is a major antioxidant in human fibroblasts and slows telomere shortening
+J. Biol. Chem., 278 (2003), pp. 6824–6830
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (125)
+Serrano et al., 1997
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+Shibata et al., 2003
+Y. Shibata, R. Branicky, I.O. Landaverde, S. Hekimi
+Redox regulation of germline and vulval development in Caenorhabditis elegans
+Science, 302 (2003), pp. 1779–1782
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (76)
+Shigenaga et al., 1994
+M.K. Shigenaga, T.M. Hagen, B.N. Ames
+Oxidative damage and mitochondrial decay in aging
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 10771–10778
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1310)
+Speakman et al., 2004
+J.R. Speakman, D.A. Talbot, C. Selman, S. Snart, J.S. McLaren, P. Redman, E. Krol, D.M. Jackson, M.S. Johnson, M.D. Brand
+Uncoupled and surviving: individual mice with high metabolism have greater mitochondrial uncoupling and live longer
+Aging Cell, 3 (2004), pp. 87–95
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (248)
+Staniek and Nohl, 2000
+K. Staniek, H. Nohl
+Are mitochondria a permanent source of reactive oxygen species?
+Biochim. Biophys. Acta, 1460 (2000), pp. 268–275
+
+Article |  PDF (289 K) | View Record in Scopus | Cited By in Scopus (103)
+St-Pierre et al., 2002
+J. St-Pierre, J.A. Buckingham, S.J. Roebuck, M.D. Brand
+Topology of superoxide production from different sites in the mitochondrial electron transport chain
+J. Biol. Chem., 277 (2002), pp. 44784–44790
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (700)
+Sun and Tower, 1999
+J. Sun, J. Tower
+FLP recombinase-mediated induction of Cu/Zn-superoxide dismutase transgene expression can extend the life span of adult Drosophila melanogaster flies
+Mol. Cell. Biol., 19 (1999), pp. 216–228
+
+View Record in Scopus | Cited By in Scopus (286)
+Taylor et al., 2003
+S.W. Taylor, E. Fahy, B. Zhang, G.M. Glenn, D.E. Warnock, S. Wiley, A.N. Murphy, S.P. Gaucher, R.A. Capaldi, B.W. Gibson, S.S. Ghosh
+Characterization of the human heart mitochondrial proteome
+Nat. Biotechnol., 21 (2003), pp. 281–286
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (437)
+Trifunovic et al., 2004
+A. Trifunovic, A. Wredenberg, M. Falkenberg, J.N. Spelbrink, A.T. Rovio, C.E. Bruder, Y.M. Bohlooly, S. Gidlof, A. Oldfors, R. Wibom et al.
+Premature ageing in mice expressing defective mitochondrial DNA polymerase
+Nature, 429 (2004), pp. 417–423
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (984)
+Trinei et al., 2002
+M. Trinei, M. Giorgio, A. Cicalese, S. Barozzi, A. Ventura, E. Migliaccio, E. Milia, I.M. Padura, V.A. Raker, M. Maccarana et al.
+A p53-p66Shc signalling pathway controls intracellular redox status, levels of oxidation-damaged DNA and oxidative stress-induced apoptosis
+Oncogene, 21 (2002), pp. 3872–3878
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (250)
+Turrens, 2003
+J.F. Turrens
+Mitochondrial formation of reactive oxygen species
+J. Physiol., 552 (2003), pp. 335–344
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1322)
+Turrens et al., 1982
+J.F. Turrens, B.A. Freeman, J.D. Crapo
+Hyperoxia increases H2O2 release by lung mitochondria and microsomes
+Arch. Biochem. Biophys., 217 (1982), pp. 411–421
+
+Article |  PDF (909 K) | View Record in Scopus | Cited By in Scopus (142)
+Turrens et al., 1985
+J.F. Turrens, A. Alexandre, A.L. Lehninger
+Ubisemiquinone is the electron donor for superoxide formation by complex III of heart mitochondria
+Arch. Biochem. Biophys., 237 (1985), pp. 408–414
+
+Article |  PDF (620 K) | View Record in Scopus | Cited By in Scopus (717)
+Vanfleteren and De Vreese, 1996
+J.R. Vanfleteren, A. De Vreese
+Rate of aerobic metabolism and superoxide production rate potential in the nematode Caenorhabditis elegans
+J. Exp. Zool., 274 (1996), pp. 93–100
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (67)
+Van Remmen et al., 2003
+H. Van Remmen, Y. Ikeno, M. Hamilton, M. Pahlavani, N. Wolf, S.R. Thorpe, N.L. Alderson, J.W. Baynes, C.J. Epstein, T.T. Huang et al.
+Life-long reduction in MnSOD activity results in increased DNA damage and higher incidence of cancer but does not accelerate aging
+Physiol. Genomics, 16 (2003), pp. 29–37
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (15)
+Wadsworth and Riddle, 1989
+W.G. Wadsworth, D.L. Riddle
+Developmental regulation of energy metabolism in Caenorhabditis elegans
+Dev. Biol., 132 (1989), pp. 167–173
+
+Article |  PDF (891 K) | View Record in Scopus | Cited By in Scopus (62)
+Walker and Benzer, 2004
+D.W. Walker, S. Benzer
+Mitochondrial “swirls” induced by oxygen stress and in the Drosophila mutant hyperswirl
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 10290–10295
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (55)
+Wang et al., 2003
+M.C. Wang, D. Bohmann, H. Jasper
+JNK signaling confers tolerance to oxidative stress and extends lifespan in Drosophila
+Dev. Cell, 5 (2003), pp. 811–816
+
+Article |  PDF (301 K) | View Record in Scopus | Cited By in Scopus (165)
+Werner and Werb, 2002
+E. Werner, Z. Werb
+Integrins engage mitochondrial function for signal transduction by a mechanism dependent on Rho GTPases
+J. Cell Biol., 158 (2002), pp. 357–368
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (142)
+Wood, 1988
+P.M. Wood
+The potential diagram for oxygen at pH 7
+Biochem. J., 253 (1988), pp. 287–289
+
+View Record in Scopus | Cited By in Scopus (104)
+Wu et al., 2004
+C. Wu, I. Miloslavskaya, S. Demontis, R. Maestro, K. Galaktionov
+Regulation of cellular response to oncogenic and oxidative stress by Seladin-1
+Nature, 432 (2004), pp. 640–645
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (112)
+Yagi and Matsuno-Yagi, 2003
+T. Yagi, A. Matsuno-Yagi
+The proton-translocating NADH-quinone oxidoreductase in the respiratory chain: the secret unlocked
+Biochemistry, 42 (2003), pp. 2266–2274
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (191)

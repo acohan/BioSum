@@ -1,0 +1,70 @@
+All Roads Lead to IKKɛ
+Reuven Agami1, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2007.05.048
+  Open Archive
+Extensive genetic alterations have been found in many epithelial malignancies. Using three complementary genetic approaches, Boehm et al. (2007) identify IKBKE—which encodes IKKɛ, a component of the NF-κB pathway—as a breast cancer oncogene.
+
+Main Text
+During malignant transformation, cancer cells acquire genetic alterations that surmount the normal controls regulating proliferation and cell survival. High-resolution comparative genomic analyses reveal that genomic instability is a hallmark of cancer development and that cancer-causing mutations are only a tiny fraction of the genetic modifications, most of which are “bystander” mutations. Thus, the discovery of the genetic alterations that contribute to tumor formation is crucial to the rational design of cancer therapeutics. But how can we distinguish cancer-causing mutations from other more benign mutations, and how do we identify genes whose activities either promote tumor development or protect us from cancer? In a report in this issue, Boehm et al. (2007) combine two functional genetic screens together with data from comparative genomic analyses to identify new protein kinases that promote tumor formation (Figure 1). These efforts have led to the identification of a new oncogene in breast cancer, IKBKE (I-kappa-B kinase epsilon), which encodes IKKɛ, an upstream regulator of the transcription factor NF-κB.
+
+Full-size image (36 K)
+Figure 1. 
+IKBKE Is a Breast Cancer Oncogene
+(Left) Identification of the IKBKE gene using three different genetic approaches. (Right) The RAS oncogenic pathway in breast cancer. Ras-induced transformation requires deregulation of the MAPK and PI3K signaling pathways. The IKBKE gene product, IKKɛ, acts downstream of the dysregulated AKT kinase signaling pathway. By activating the NF-κB pathway through induction of nuclear accumulation of cRel, IKKɛ, together with dysregulated MAPK signaling, induces tumor growth.
+Figure options
+In the first genetic screen conducted by Boehm et al. (2007), a library of activated protein kinases was used in a cellular transformation system to recapitulate aspects of neoplastic transformation in vivo (Hahn et al., 1999). In this system, SV40 small t antigen and oncogenic RAS genes are overexpressed in primary human cells to stimulate tumorigenesis, and the p53 and the p16/pRb pathways are inhibited to prevent DNA-replication-damage-induced cellular senescence ( Bartkova et al., 2006 and Di Micco et al., 2006). Previous studies have shown that new oncogenes and tumor suppressor genes can be identified using primary human cells genetically designed to be one step short of full-blown transformation ( Kolfschoten et al., 2005, Peeper et al., 2002, Voorhoeve et al., 2006 and Westbrook et al., 2005). In the current study, Boehm and colleagues dissected the downstream pathways sufficient for RAS to induce neoplastic transformation. Although RAS can stimulate many pathways, such as the MAPK, PI3K, and RALGDS signaling pathways, a full-blown transformation phenotype of immortalized human cells could be acquired only by the simultaneous introduction of activated MEK (a kinase downstream of MAPK) together with a deregulated (myristoylated) AKT (a kinase downstream of PI3K; Figure 1). This observation presented the authors with an opportunity to screen a myristoylated kinase expression library for kinases that act in the place of AKT in the RAS-AKT pathway to promote cellular transformation. By doing this, the authors were able to identify the IKBKE gene and three other genes whose overexpression induced tumorigenesis.
+
+In their second screen, Boehm et al. (2007) used an RNAi library designed to target 1200 kinases to find genes whose inactivation compromises cell growth and survival of a transformed (i.e., anchorage-independent) human breast cancer cell line but not the growth of an immortalized nontransformed cell line. Several RNAi constructs were identified, and among them three (out of five) constructs target the IKBKE gene. Blocking IKBKE expression through RNAi impeded the proliferation and survival of transformed MCF-7 cells but not of immortalized nontransformed MCF-10A cells.
+
+These two functional genetic approaches yielded several candidate oncogenes. To identify the genes among those candidates that not only alter normal cellular behavior but also are actively involved in human breast cancer development, Boehm et al. (2007) performed a comparative genomic analysis on a number of breast cancer cell lines and tumor specimens from cancer patients. Interestingly, IKBKE was the only candidate gene found to reside in a genomic region (1q32) that was amplified in many of the tumors analyzed, producing high expression levels of IKBKE RNA and protein. Furthermore, in many other tumor specimens, elevated expression of IKBKE was detected without being associated with gene amplification, indicating that several mechanisms can upregulate IKBKE expression. Yet mutations in IKBKE were not found, suggesting that IKBKE overexpression is more potent than activating mutations. Alternatively, it is also possible that mechanisms increasing IKBKE expression have greater effects on tumorigenesis than mutations or that there is a collaborating oncogene in the vicinity of IKBKE. Nonetheless, further investigation confirmed that IKBKE acts as an oncogene in breast cancer. Only breast cancer cell lines containing high IKBKE expression exhibited reduced viability when IKBKE levels were reduced by RNAi.
+
+But how exactly does IKBKE function to promote cancer? The IKBKE gene product (IKKɛ) is a protein that stimulates the activity of IRF-3 (interferon regulatory factor 3) and thus interferon responses to viral infections. Intriguingly, this function was not involved in the oncogenic capacity of IKBKE. IKKɛ is also known to activate the NF-κB signaling pathway by inducing phosphorylation and nuclear accumulation of cRel, an NF-κB component ( Harris et al., 2006). Boehm et al. (2007) determined that IKKɛ exerts its oncogenic function through cRel. In particular, NF-κB-responsive genes were upregulated when IKKɛ was deregulated, IκB was destabilized, and nuclear accumulation of cRel was induced. Indeed, inhibition of the NF-κB pathway by overexpression of a degradation-resistant IκB suppressed the transforming activity of IKBKE. Activation of the NF-κB pathway has been observed in many breast cancers, but a molecular explanation for this activation has not been clear. The identification by Boehm et al. (2007) of IKBKE as an oncogene and activator of the NF-κB pathway in breast cancer explains this observation.
+
+Could IKKɛ be a potential target for cancer therapy? Developing and testing inhibitors that block activity of IKKɛ should be an interesting future strategy for treating breast cancer. Obviously, the specificity and toxicity of such inhibitors will determine the success of this strategy. It is promising that blocking IKBKE expression affected only the viability of cancer cells with deregulated IKBKE expression. Interestingly, IKBKE has a very close homolog called TBK1. Although breast cancer cell lines showed dependence on IKBKE, some prostate tumor cell lines were sensitive to inhibition of TBK1 activity. Whether TBK1 is an oncogene in prostate cancer, in a manner similar to IKBKE's oncogenic effects in breast cancer, awaits further study. The similarity between these two kinases also suggests that tumor cells treated with IKBKE inhibitors could rapidly develop drug resistance through upregulation of TBK1. Therefore, the best approach may be to develop an inhibitor capable of blocking the activity of both the IKKɛ and TBK1 kinases.
+
+References
+Bartkova et al., 2006
+J. Bartkova, N. Rezaei, M. Liontos, P. Karakaidos, D. Kletsas, N. Issaeva, L.V. Vassiliou, E. Kolettas, K. Niforou, V.C. Zoumpourlis et al.
+Nature, 444 (2006), pp. 633–637
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (725)
+Boehm et al., 2007
+J.S. Boehm, J.J. Zhao, J. Yao, S.Y. Kim, R. Firestein, I.F. Dunn, S.K. Sjostrom, L.A. Garraway, S. Weremowicz, A.L. Richardson et al.
+Cell (2007) this issue
+
+Di Micco et al., 2006
+R. Di Micco, M. Fumagalli, A. Cicalese, S. Piccinin, P. Gasparini, C. Luise, C. Schurra, M. Garre, P.G. Nuciforo, A. Bensimon et al.
+Nature, 444 (2006), pp. 638–642
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (622)
+Hahn et al., 1999
+W.C. Hahn, C.M. Counter, A.S. Lundberg, R.L. Beijersbergen, M.W. Brooks, R.A. Weinberg
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1481)
+Harris et al., 2006
+J. Harris, S. Oliere, S. Sharma, Q. Sun, R. Lin, J. Hiscott, N. Grandvaux
+J. Immunol., 177 (2006), pp. 2527–2535
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (53)
+Kolfschoten et al., 2005
+I.G. Kolfschoten, B. van Leeuwen, K. Berns, J. Mullenders, R.L. Beijersbergen, R. Bernards, P.M. Voorhoeve, R. Agami
+Cell, 121 (2005), pp. 849–858
+
+Article |  PDF (663 K) | View Record in Scopus | Cited By in Scopus (164)
+Peeper et al., 2002
+D.S. Peeper, A. Shvarts, T. Brummelkamp, S. Douma, E.Y. Koh, G.Q. Daley, R. Bernards
+Nat. Cell Biol., 4 (2002), pp. 148–153
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (64)
+Voorhoeve et al., 2006
+P.M. Voorhoeve, C. le Sage, M. Schrier, A.J. Gillis, H. Stoop, R. Nagel, Y.P. Liu, J. van Duijse, J. Drost, A. Griekspoor et al.
+Cell, 124 (2006), pp. 1169–1181
+
+Article |  PDF (863 K) | View Record in Scopus | Cited By in Scopus (622)
+Westbrook et al., 2005
+T.F. Westbrook, E.S. Martin, M.R. Schlabach, Y. Leng, A.C. Liang, B. Feng, J.J. Zhao, T.M. Roberts, G. Mandel, G.J. Hannon et al.
+Cell, 121 (2005), pp. 837–848
+
+Article |  PDF (713 K) | View Record in Scopus | Cited By in Scopus (302)

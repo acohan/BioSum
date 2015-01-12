@@ -1,0 +1,754 @@
+New roles for the RB tumor suppressor protein
+Huiping Liu, Benjamin Dibling, Benjamin Spike, Alexandra Dirlam, Kay Macleod E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.gde.2003.11.005
+Get rights and content
+Abstract
+For a gene whose existence was first postulated in 1971, was cloned in 1986 and whose functions have been extensively characterized ever since, you might be inclined to think there was not much new to report regarding the retinoblastoma tumor suppressor gene (RB) — but you would be wrong to make such an assumption. RB is still piquing our interest with several activities defined over the past year that reveal new and exciting roles for this key tumor suppressor gene. These functions include regulation of senescence through specific gene silencing mechanisms, control of developmental processes in extra-embryonic tissues, maintaining tissue homeostasis and determining survival responses to chemotherapy.
+
+Abbreviations
+Cdk, cyclin-dependent kinase; CNS, central nervous system; DKO, double knockout; MEFs, mouse embryo fibroblasts; METS, mitogenic Ets transcriptional suppressor; PCNA, proliferating cell nuclear antigen A; pRB, RB protein; RB, retinoblastoma gene; RNAi, RNA interference
+Introduction
+The retinoblastoma tumor suppressor gene (RB) is functionally inactivated in most human neoplasms [1] either by direct mutation/deletion — such as occurs in retinoblastoma, osteosarcoma and small cell lung carcinoma — or indirectly through altered expression/activity of upstream regulators. These regulators include cyclin D1 in breast carcinoma, head and neck tumors and mantle cell lymphomas, CDK4 in glioblastomas, p16/INK4A loss in melanoma, pancreatic carcinoma and T cell lymphoma and Bmi-1 in B-cell lymphomas [2]. Thus, integrity of the RB pathway is required for normal growth control [1].
+
+At the cellular level, RB protein (pRB) has been shown to control a major G1 checkpoint (the so-called restriction point) thereby inhibiting S-phase entry and progression [1], promote terminal differentiation by inducing both cell-cycle exit and tissue-specific gene expression [3], be required for the permanent state of growth arrest defined as replicative senescence [4], and mediate cellular survival in the face of various pro-apoptotic stresses, such as DNA damaging agents, activated oncogene expression, and serum/cytokine depletion 5. and 6..
+
+At the molecular level, most of these functions are dependent on the repressor activity of RB–E2F complexes on the promoters of cell cycle regulatory genes such as cyclin E and the E2F transcription factor genes themselves [7]. The ability of pRB to suppress apoptosis has been attributed to its repression of a distinct pro-apoptotic set of E2F target genes, which includes Apaf-1 and caspases 8. and 9.•. The capacity to repress E2F-mediated transcriptional control is a function of the phosphorylation state of pRB, which is regulated in turn by cyclin D–Cdk4/6 and Cyclin E–Cdk2 complexes. Growth factors in serum inactivate pRB to promote growth by inducing the expression of cyclin D1 whereas cytostatic agents, such as TGF-β, can arrest cells by inhibiting Cdk-mediated phosphorylation of pRB, through induced expression of Cdk inhibitors, such as p21/Waf1 and p27/Kip1 [10]. The p16/Ink4a Cdk inhibitor acts specifically on D-type cyclin associated Cdks (i.e. Cdk4 and Cdk6) to promote cellular senescence, as shown recently in response to DNA-damaging chemotherapeutic drugs [11••], most likely in an RB-dependent manner [12].
+
+RB is a key regulator of cellular senescence
+Our appreciation of the relative roles of pRB and its pocket protein cousins, p107 and p130, has been refined recently by the use of conditional targeting of the Rb locus in mouse [13••]. When senescence assays were carried out previously using mouse embryo fibroblasts (MEFs) with germline deletion of pocket proteins, it appeared as though the three pocket proteins compensated for each other’s function such that only loss of all three genes, Rb, p107 and p130, completely ablated the ability of MEFs to maintain quiescence or replicative senescence 14. and 15.. However, MEFs that are acutely inactivated for Rb loss by Cre–lox-mediated recombination in culture, can re-enter cell cycle from either a quiescent or senescent state suggesting that Rb alone is sufficient to maintain growth arrest of either quiescent or senescent MEFs.
+
+In germline Rb null MEFs, p107 expression was up-regulated relative to wild-type and knockdown of p107 by RNA interference (RNAi) confirmed the ability of p107 to compensate for loss of Rb function [13••]. It is unclear whether the adaptation of germline Rb null MEFs by up-regulation of p107 initiates in vivo or during the process of generating MEFs from embryos and acclimatizing to the stressful environment of the tissue-culture dish. It has been shown that the high oxygen concentrations used in tissue culture promote DNA damage and premature senescence in contrast to growth in physiological oxygen concentration [16]. Consistent with these observations, even conditionally targeted Rb null MEFs adapted by up-regulating p107 after several passages in culture [13••]. Nevertheless, these results illustrate that pRb plays a critical role in maintaining cells in a state of growth arrest, a function that is undoubtedly relevant to its tumor-suppressor activities. The ability of pRb to promote senescent growth arrest may determine the response of tumor cells to cancer chemotherapeutic drugs. Furthermore, it has been shown that p16/Ink4a, acting to modulate pRb activity, promotes senescence in response to such DNA-damaging agents [11••].
+
+The specific genes targeted by pRB for repression during growth arrest have been a matter for debate given that relatively few genes are altered in expression following either chronic or acute RB loss 13.••, 17. and 18. and the failure to detect pRB on the promoters of E2F-regulated genes during either quiescence (G0) or mid to late G1 of the cell cycle 19. and 20.. The issue has been illuminated recently by the observation that pRB does indeed associate with these promoters in senescent cells [21••] suggesting that the ability of pRB to recruit chromatin-remodeling proteins such as histone deacetylases [22], histone methyltransferases [23] and HP1 [24] to E2F-regulated promoters, is an important aspect of its growth suppressive function in cells. Given that pRB appears to mediate the stable repression of key E2F target genes (cyclin A and PCNA) and is associated with heterochromatic foci in senescent cells, it may be interesting to determine whether pRB performs a similar gene-silencing activity in terminally differentiated cells that have also undergone permanent growth arrest, or whether this is achieved in differentiating cells by p130/E2F complexes. It will also be important to determine whether pRB silences E2F targets genes in senescent cells through a specific E2F family member.
+
+Understanding a complex developmental phenotype in Rb null mice
+Gene targeting in mice revealed important roles for the Rb tumor suppressor gene in tissue differentiation and survival that had not been appreciated previously 25., 26. and 27.. In particular, pRb was shown to be required for neuronal, hematopoietic, lens and muscle differentiation 28., 29. and 30.. The phenotype in these tissues appeared to consist of defects in cell-cycle exit during terminal differentiation, accompanied by apoptosis 28. and 29.. Apoptosis in the nervous and hematopoietic systems could be compensated for by the presence of wild-type cells suggesting that this aspect of the phenotype was non-cell autonomous 31. and 32., whereas the cell cycle exit defects were cell intrinsic [33]. Apoptosis in the lens appeared to be cell intrinsic consistent with the growth factor sufficiency of this tissue [34].
+
+Use of conditional gene targeting has shed new light on the nature of the non-cell autonomous defects in Rb null mice 35.••, 36.••, 37.•• and 38.. By specifically targeting Rb deletion to the nervous system, it was shown that the non-cell autonomous defect causing central nervous system (CNS) apoptosis in Rb null mice was determined by cell types outwith the nervous system 35.•• and 36.••. The peripheral nervous system in conditionally targeted mice continued to show significant cell death suggesting that survival of cells in this tissue was determined at least in part by neuronally programmed factors [36••]. Induction of hypoxia-inducible genes in the CNS of Rb null mice suggested that apoptosis was caused by oxygen deprivation, possibly as a consequence of the erythroid defect in the mice [39••].
+
+Interpretation of this data has been complicated by the realization that Rb is required for placental development [37••]. As for other tissues affected by Rb loss, it was shown that the placenta required pRb function to ensure cell-cycle exit during terminal differentiation of trophoblast stem cells during development. Interestingly a similar phenotype was observed in mice lacking the function of the p27 and p57 Kip Cdk inhibitors [40]. Trophoblasts undergo polyploidization as they differentiate [41] and p57/Kip2 expression is regulated during the endocycle [42]. Curiously, Rb is required for megakaryocyte maturation [39••], a cell type that also undergoes polyploidization during terminal differentiation [43]. Ablation of the key RB/E2F target gene, cyclin E, also impairs both megakaryocyte and trophoblast development [44••]. Further work is required to determine how pRb might regulate endoreduplication (through regulation of cyclin E expression?) and whether this function of pRb explains why it is critical for trophoblast and megakaryocyte differentiation.
+
+The increased proliferation and failure of Rb null trophoblast stem cells to differentiate resulted in a placenta that was functionally compromised showing reduced vascular capacity and exchange of nutrients and oxygen between mother and fetus. The authors postulated that the placental defect could explain the non-cell autonomous defect in Rb null embryos and indeed by conditionally targeting Rb loss to the embryo, while maintaining expression in extra-embryonic tissues, including the placenta, the authors were able to show rescue of apoptosis in the CNS and lengthened survival of Rb null embryos to birth 37.•• and 38.. Ectopic proliferation of differentiating neurons in the Rb null CNS was not affected by a wild-type placenta nor was apoptosis in the lens [38] confirming previous work that these defects are cell intrinsic [33].
+
+It was not as clear how a wild-type placenta affected red blood cell development because higher than normal enucleation rates and abnormal red cell morphology continued to be observed in conditionally targeted mice despite a wild-type placenta [38]. Previous work with DKO (double knockout chimeras derived by injection of wild-type blastocysts with Rb null embryonic stem cells) embryos, and have a wild-type placenta, also showed an incomplete rescue of the enucleation defect in fetal-liver-derived red blood cells at E16.5 [32]. Further, the hematopoietic defect is transplantable to adult host mice and although the red cell enucleation defect was apparently rescued in adult DKO mice, this may have been a result of the reduced ability of nucleated red cells to escape the bone marrow as opposed to the fetal liver [39••]. Recent studies have identified hematopoietic defects in the bone marrow of DKO and reconstituted mice, including a block to megakaryocyte differentiation and megaloblastic anemia, suggesting that some of the hematopoietic defects in the Rb null hematopoietic system are cell intrinsic [39••]. Similar erythroid defects are observed in mice lacking other components of the RB pathway, including E2F-2 [45], and cyclins D2 and D3 [46•]. These mice show no placental abnormalities, suggesting that a functional Rb pathway is an intrinsic requirement for red cell maturation.
+
+Interestingly, cell death in the fetal liver of Rb null mice was necrotic in nature, as opposed to apoptotic, consistent with ischemia resulting from reduced oxygen supply caused either by the placental defect or aberrant red cell maturation [39••]. These observations may be explained if there are cell-intrinsic defects in erythroid and megakaryocyte differentiation but also non-cell autonomous fetal liver cell death as a result of oxygen deprivation. The placental defect appears to be the major cause of the non-cell autonomous cell death and mid-gestational lethality of Rb null mice, although this phenotype may be aggravated by the red cell defect. Conditional targeting of Rb loss to the red cell compartment will clarify this interpretation of data.
+
+Clearly the placental defect explains many aspects of the non-cell-autonomous defects in Rb null mice. The ability of E2f-1 loss [47], E2f-3 loss [48] or p53 loss [28] to rescue apoptosis in the CNS of Rb null mice needs to be revisited in light of this new data to determine whether these effectors of Rb are playing critical roles in the CNS or placenta. Hypoxia is known to induce Hif1α-mediated stabilization of p53 [49] and p53 loss compromises hypoxia-induced apoptosis in tumors [50], so it would not be surprising if p53 acted in the CNS of Rb null embryos to induce apoptosis in response to hypoxia. Nevertheless, the role of E2fs in the placenta and the non-cell autonomous defect in Rb null mice must still be clarified. Interestingly, the ability of Id2 loss to rescue the Rb null phenotype [51] may be explained by the key role of Id2 in placental development [52].
+
+In summary, pRb has critical cell intrinsic functions in promoting cell-cycle exit and terminal differentiation of neurons, muscle fibers, lens fibers, megakaryocytes, erythroblasts and trophoblast stem cells. The secondary consequences of defective differentiation of trophoblast stem cells results in abnormal placental development and non-cell-autonomous cell death in the embryo most likely because of oxygen deprivation.
+
+Functions of pRb in terminal differentiation
+Conditional targeting is now revealing important functions for pRb in the terminal differentiation of many tissues that were not previously available for study because of Rb null mouse embryonic lethality. For example, Rb is required for terminal differentiation of cerebellar granule cells [53], and keratinocytes [54••]. Furthermore, in vitro studies demonstrate a role for pRb in adipocyte differentiation 55. and 56.•. Terminal differentiation involves not just permanent cell-cycle exit but also entails tissue-specific gene expression and the realization that Rb coordinates proliferation and differentiation during terminal differentiation suggests that it may have distinct functions in tissue-specific gene expression.
+
+pRb expression is up-regulated in many tissue types undergoing terminal differentiation and given that p130/E2F-4 complexes take over from pRb/E2F complexes in silencing many cell-cycle genes in differentiating cells, it is interesting to speculate about the possible role of high level expression of active pRb in regulating tissue-specific transcription factors. Interestingly, a naturally occurring point mutant of pRB (R661W) identified in low-penetrance retinoblastoma [57] retains the ability to promote differentiation even though it is defective for E2F binding [58]. These low-penetrance alleles of RB retain some tumor-suppressor activity and are not as deleterious as mutants from full-penetrance retinoblastoma [59]. This suggests that the ability to induce tissue-specific gene expression contributes to the tumor-suppressor functions of pRB. The interaction of pRB with CBFA-1 has been particularly well studied [60] but pRB has also been shown to positively regulate the activity of other tissue-specific transcription factors, such as PU.1, GATA-1, NF-Il6, C/EBPα and GRα [3]. There is growing interest in this area following the identification, on the basis of microarray data, of new classes of E2F target genes that are clearly associated with differentiation 61.•• and 62..
+
+The extent to which pRb regulates tissue-specific differentiation through E2Fs is not entirely resolved because both pRB and E2Fs have been reported to interact independently with tissue-specific transcription factors. For example, the ability of C/EBPα to promote myelopoiesis in vivo is dependent on its interaction with and inhibition of E2F-1 63. and 64.. Cell-cycle arrest brought about by this interaction is thereby coordinated with C/EBPα-dependent induction of myeloid-specific gene expression and repression of FOG-1 [65]. In adipogenesis, E2F1 and E2F4 play opposing roles by alternately activating and repressing the expression of the adipogenic nuclear receptor, PPARγ [66]. During macrophage differentiation, a similar interplay occurs between E2F-1 and E2F-4 on the promoters of cell-cycle genes such as c-Myc and Cdc2, such that E2F-1 occupies the E2F site in progenitors, whereas E2F-4 complexed with p130 and METS (mitogenic Ets transcriptional suppressor) sits there in differentiated macrophages [67•]. It is not clear how the interaction of pRb with E2Fs affects the interaction of E2Fs with tissue-specific transcription factors or vice versa.
+
+Maintaining a homeostatic balance in tissues
+In certain self-renewing tissues such as the blood and skin, the balance between stem-cell renewal, progenitor proliferation and terminal differentiation is critical. Recent work in these systems reveals a critical role for pRb in tissue homeostasis by maintaining the stem-cell pool and promoting terminal differentiation 39.•• and 54.••.
+
+Conditional targeting of the Rb tumor suppressor gene loss to the epidermis using the keratin 14 gene promoter to drive Cre recombinase demonstrated that pRb is critical for maintenance of epidermal stem cells and the balance between progenitor proliferation and differentiated keratinocytes [54••]. These functions of pRb can be partially compensated for by p107 because defects observed by inactivating Rb in the skin are worsened by loss of p107. Using carefully defined markers of keratinocyte differentiation and stem cell/transit amplifying cell proliferation, it was shown that pRb is required to maintain the post-mitotic state of keratinocytes, to maintain the stem cell pool in the epidermis and to regulate the balance between the two. Furthermore, in the absence of pRb, proliferation and differentiation become uncoupled such that proliferating cells initiate tissue-specific gene expression prematurely. The disruption caused to skin homeostasis by Rb loss leads to epidermal hyperplasia and sebaceous gland carcinoma, clearly demonstrating how the tumor-suppressor properties of pRb must take account of its role as a regulator of tissue homeostasis. Rb loss uncouples proliferation control from differentiation, expanding the pool of proliferating progenitors and the possibility of clonal outgrowth of tumor cells (Figure 1).
+
+Full-size image (55 K)
+Figure 1. 
+pRB regulation of tissue homeostasis. pRB maintains tissue homeostasis by coordinating cell-cycle exit with tissue-specific gene expression during terminal differentiation, as has been demonstrated in self-renewing tissues such as blood [39••] and skin [54••]. Loss of pRB results in defective differentiation and homeostatic feedback mechanisms that induce progenitor hyperplasia and stem-cell depletion. The effect of Rb loss on stem-cell self-renewal may be intrinsic to the stem cell, or may be a secondary consequence of the homeostatic response to the differentiation block. Progenitor proliferation may predispose to tumorigenesis by providing an increased pool size from which a transformed cell may emerge and clonally expand. In both the blood [39••] and in skin [54••], Rb loss resulted in tumor formation suggesting that the role of pRb in maintaining tumor homeostasis is a critical component of its tumor-suppressor activities.
+Figure options
+Complementary observations have been made concerning the role of pRb in blood homeostasis [39••]. pRb was shown to be required for terminal erythroid and megakaryocyte differentiation and in its absence, there was reduced red cell and platelet differentiation, increased myeloid progenitor proliferation and depletion of bone marrow stem cells in reconstituted host mice [39••]. Over time, significant numbers of these mice developed myeloproliferative disorders and megakaryoblastic leukemia [39••]. p53 appeared to compensate for some of the functions of pRb in hematopoietic homeostasis in that loss of both pRb and p53 appeared to cooperate in the genesis of a more primitive acute myeloid leukemia [68]. These results demonstrate how loss of Rb promotes tumorigenesis by increasing progenitor pool size, the homeostatic consequence of a block to terminal differentiation, thereby increasing the chance that a transforming event will lead to clonal expansion of a tumor (Figure 1). This work suggests that the ability to promote terminal differentiation is a key component of the tumor-suppressor functions of Rb in self-renewing tissues such as the skin and the hematopoietic system.
+
+In mouse tumor models where Rb loss has been shown to promote tumor development, it may be instructive to examine how pRb regulates terminal differentiation of normal tissue. For example, it has been shown recently that Rb inactivation cooperates with p53 loss, resulting in small cell lung carcinoma despite all cell types in the lung being targeted for loss of these tumor suppressors [69•]. This suggests a specific role for pRb in the differentiation of neuroendocrine cells that may also explain why Rb loss leads to pituitary, thyroid and adrenal tumors in Rb heterozygous mice [25], and why RB loss is specifically associated with mammary neuroendocrine tumors in humans [70].
+
+Functional RB is the key determinant of chemotherapy sensitivity
+The ability of pRB to suppress apoptosis during tumorigenesis is somewhat contradictory for a tumor suppressor, because this activity is more likely to promote tumor growth. Hence it is not surprising that Rb loss is not selected for during lymphomagenesis in Eμ–Myc transgenic mice, unlike the selection that occurs for p53 or Arf loss 71. and 72.. It has been proposed that the dual/opposing functions of pRB have evolved to select against cells that acquire RB mutations [73]. RB loss would only provide emerging tumors with a growth advantage, if a second mutation, such as p53 loss, occurred coincidentally to overcome the ensuing apoptosis 74., 75. and 76.. Alternatively, the pro-survival functions of pRB may have evolved to serve developmental functions because pRb promotes survival of certain differentiating cells during development [29].
+
+Despite the dichotomy in the tumor-suppressor functions of pRB, its ability to suppress apoptosis suggests a possible use in treating human tumors in vivo. It suggests that tumor cells with a functionally disrupted RB pathway would be more susceptible to the apoptosis-inducing effects of chemotherapeutic agents than cells with an intact RB pathway. Indeed, various studies have shown a key role for the RB tumor suppressor in determining response to cancer chemotherapy. RB-deficient cells show increased sensitivity to apoptosis induced by DNA-damaging agents such as cisplatin, methotrexate, etoposide, campothecin, and mitomycin C 77., 78. and 79.. These drugs induce apoptosis in RB– cells but growth arrest in RB+ cells. It is not clear whether drug-induced growth arrest occurring in RB+ cells is akin to cellular senescence induced by p16 expression in cyclophosamide treated Eμ–Myc–Bcl2 lymphomas [11••]. Nevertheless, RB status appears to distinguish between normal cells and tumor cells in a manner that may be targeted by drugs to eliminate the cancer cell while protecting normal cells.
+
+As mentioned previously, the ability of pRB to suppress apoptosis has been attributed to its repression of pro-apoptotic E2F target genes, including Apaf-1 and pro-caspases 8. and 9.•. It is still contentious whether the pro-survival functions of pRB are mediated through repression of multiple E2Fs, or whether E2F-1 has unique pro-apoptotic properties not shared by E2Fs-2 and -3 80. and 81.. Although, work in fibroblasts suggested that the ability of the c-Myc oncogene to promote cell death was uniquely dependent on E2F1, and did not require functional E2F2 or E2f3 [81], more recent data in vivo using the well defined Eμ–Myc lymphoma mouse model suggested that, in contrast to fibroblasts, c-Myc required E2f1 for tumor cell proliferation, but not for apoptosis [82••]. The specific requirement for E2F1 for apoptosis of fibroblasts may be a cell-type specific effect, a tissue-culture phenomenon, or perhaps, a feature of primary cells as opposed to transformed cells.
+
+Other work suggests that E2F1 does indeed have unique properties that may explain its specific functions in apoptosis. E2F1 was shown to interact with pRB in a manner not shared by E2Fs-2 and -3 [83••]. Furthermore, this work suggested that part of the reason pRB is not found frequently on the promoters of E2F target genes in vivo is that the pRB–E2F1 complex has limited DNA-binding activity [83••]. The C-terminal domain of pRB mediates a specific interaction with E2F-1 through a region of E2F1 that includes its DNA-binding domain, resulting in loss of E2F DNA binding activity and inhibition of the pro-apoptotic functions of E2F-1. This interaction is disrupted following DNA damage [83••] possibly as a result of the ATM/ATR-mediated phosphorylation of E2F-1 [84]. It remains to be determined what factors determine whether pRB interacts with E2Fs through the classically defined pRB pocket and E2F pocket binding domain, or with E2F1 specifically through the ‘S’ type interaction defined here [83••].
+
+RB loss engages the p53 pathway through at least two distinct E2F target genes, the Arf tumor suppressor gene [80], and the Pin1 prolyl isomerase [85]. Arf induces p53 by sequestering Mdm2 and preventing p53 degradation [86•], whereas Pin1 induces activating conformational changes in p53 [87,88••]. Arf is specifically induced by oncogene-activated checkpoints, such as overexpression of c-myc, ras or inactivation of pRB 89.••, 90. and 91., whereas Pin1 activates p53 as a function of DNA damage induced phosphorylation of p53 on serine–proline residues 87. and 88.••. Arf is not induced by DNA damage and p53 can be effectively induced in Arf null cells following DNA damage [72]. Furthermore, loss of Arf does not impact the incidence of cell death in Rb null embryos suggesting that Arf is not likely to be a key target of pRB in mediating the p53 response to DNA-damaging agents. Pin1 could clearly mediate an RB-dependent p53 response to DNA damage because both E2F-1 and p53 are induced by signaling downstream of ATM/ATR kinases 92. and 93. but it seems unlikely that Pin1 explains why wild-type MEFs growth arrest whereas Rb-deficient MEFs apoptose in response to DNA damage despite equivalent levels of p53 induction 77. and 78.. It seems more likely that RB promotes survival downstream of p53 activation, as described for RB-dependent stabilization of Bcl-XL [94••].
+
+pRB blocks the deamidation and turnover of the anti-apoptotic Bcl-XL protein by poorly defined E2F-independent mechanisms and points to a direct role for pRB in promoting survival [94••] (Figure 2). The ability of pRB to protect drug-treated Saos2 cells from apoptosis was shown to be dependent on expression of active Bcl-XL, demonstrating that growth arrest per se did not ensure protection from apoptosis. Ectopic expression of pRB in Saos2 cells induces an initial E2F-dependent growth arrest in G1 followed by E2F-independent, p27/Kip1-dependent permanent growth arrest 58. and 95.. PRB-expressing Saos2 cells differentiate in this senescent state to form ‘flat cells’ that express many markers of osteogenic differentiation [60]. The mechanism by which pRB protects Bcl-XL from deamidation is not clear but is a matter of undoubted interest given that expression of Bcl-XL more than any other gene, including p53, has been shown to correlate tightly with sensitivity of tumor cells to chemotherapy [96]. Furthermore, deamidation of Bcl-XL is suppressed in certain primary human tumors [97•].
+
+Full-size image (45 K)
+Figure 2. 
+RB status is a critical determinant of chemotherapy responses. pRB promotes survival downstream of p53 activation in response to DNA-damaging agents by blocking deamidation of the anti-apoptotic regulator BCl-XL[94••]. This pro-survival function of pRB is independent of its growth-arrest properties and is mediated by unknown downstream effectors.
+Figure options
+DNA-damaging agents are used frequently in cancer therapy and the p53-mediated response to these agents has been considered key to their ability to induce apoptosis of tumor populations 98. and 99.. However, clinical experience has indicated that an intact p53 response to DNA damage does not ensure sensitivity to apoptosis induced by drugs [100] and it has been suggested that in some instances loss of p53 may actually sensitize to cell death in response to chemotherapeutics 101. and 102.. p53 deficiency sensitizes MEFs to apoptosis induced by DNA-damaging agents and this appears to be a consequence of a failure to activate pRB and prevent Bcl-XL deamidation [94••]. Inhibition of pRB phosphorylation by treatment of p53 null MEFs with Cdk inhibitors restores wild-type resistance to DNA-damage-induced apoptosis. These observations do not contradict previous observations because these earlier studies were carried out using cells that had inactivated pRB by overexpression of dominantly acting oncoproteins such as E1A [98]. However, these new and exciting results suggest that pRB status may be a key determinant of how a tumor cell responds to therapy.
+
+Conclusions
+Over the past year, advances in gene targeting in mice have had a particularly profound impact on our understanding of how the Rb tumor suppressor works in vivo. In particular, these studies have expanded our appreciation of how pRb regulates terminal differentiation and permanent growth arrest, such as that occurring during cellular senescence. An understanding of the molecular mechanisms underlying Rb function has also emerged that suggests a key role in activation of tissue-specific gene expression on the one hand and silencing of cell cycle gene expression on the other. Integrating our knowledge of how Rb functions in these different systems has advanced a concept that may help identify the tissues that are most susceptible to transformation following RB loss. Regulation of the homeostatic balance in tissues includes promoting the survival of terminally differentiated cells, a function of pRB that may permit the targeting of tumor cells that lack RB while protecting healthy cells with an intact pathway.
+
+References and recommended reading
+Papers of particular interest, published within the annual period of review, have been highlighted as:
+
+•
+of special interest
+••
+of outstanding interest
+References
+1.
+R.A. Weinberg
+The retinoblastoma protein and cell cycle control
+Cell, 81 (1995), pp. 323–330
+
+Article |  PDF (817 K) | View Record in Scopus | Citing articles (3491)
+2.
+C.J. Sherr, F. McCormick
+The RB and p53 pathways in cancer
+Cancer Cell, 2 (2002), pp. 103–112
+
+Article |  PDF (313 K) | View Record in Scopus | Citing articles (813)
+3.
+M.M. Lipinski, T. Jacks
+The retinoblastoma gene family in differentiation and development
+Oncogene, 18 (1999), pp. 7873–7882
+
+View Record in Scopus | Citing articles (292)
+4.
+W.C. Hahn, R.A. Weinberg
+Modelling the molecular circuitry of cancer
+Nat Rev Cancer, 2 (2002), pp. 331–341
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (619)
+5.
+E.S. Hickman, M.C. Moroni, K. Helin
+The role of p53 and pRB in apoptosis and cancer
+Curr Opin Genet Dev, 12 (2002), pp. 60–66
+
+Article |  PDF (101 K) | View Record in Scopus | Citing articles (131)
+6.
+B.N. Chau, J.Y. Wang
+Coordinated regulation of life and death by RB
+Nat Rev Cancer, 3 (2003), pp. 130–138
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+7.
+O. Stevaux, N.J. Dyson
+A revised picture of the E2F transcriptional network and RB function
+Curr Opin Cell Biol, 14 (2002), pp. 684–691
+
+Article |  PDF (423 K) | View Record in Scopus | Citing articles (273)
+8.
+M.C. Moroni, E.S. Hickman, E.L. Denchi, G. Caprara, E. Colli, F. Cecconi, H. Muller, K. Helin
+Apaf-1 is a transcriptional target for E2F and p53
+Nat Cell Biol, 3 (2001), pp. 552–558
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (437)
+9.•
+Z. Nahle, J. Polakoff, R.V. Davuluri, M.E. McCurrach, M.D. Jacobson, M. Narita, M.Q. Zhang, Y. Lazebnik, D. Bar-Sagi, S.W. Lowe
+Direct coupling of the cell cycle and cell death machinery by E2F
+Nat Cell Biol, 4 (2002), pp. 859–864
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (297)
+9.•
+The authors show that inactivation of pRb by over-expression of the E1A oncoprotein induces procaspase expression in a p53- and Arf-independent manner. The authors show that procaspases -3, -7, -8, and -9 are direct transcriptional targets of E2f-1.
+
+10.
+M.J. Sherr, J.M. Roberts
+CDK inhibitors: positive and negative regulators of G1-phase progression
+Genes Dev, 13 (1999), pp. 1501–1512
+
+11.••
+C.A. Schmitt, J.S. Fridman, M. Yang, S. Lee, E. Baranov, R.M. Hoffman, S.W. Lowe
+A senescence program controlled by p53 and p16/Ink4a contributes to the outcome of cancer therapy
+Cell, 109 (2002), pp. 335–346
+
+Article |  PDF (525 K) | View Record in Scopus | Citing articles (536)
+11.••
+Using the Eμ–Myc lymphoma model, the authors show that p16/Ink4a-induced senescence promotes improved survival of mice following chemotherapy treatment and suggest that senescence, like apoptosis, is a cellular mechanism utilized by cells to modulate cancer therapy responses.
+
+12.
+S.W. Lowe, C.J. Sherr
+Tumor suppression by Ink4a-Arf: progress and puzzles
+Curr Opin Genet Dev, 13 (2003), pp. 77–83
+
+Article |  PDF (138 K) | View Record in Scopus | Citing articles (474)
+13.••
+J. Sage, A.L. Miller, P.A. Perez-Mancera, J.M. Wysocki, T. Jacks
+Acute mutation of retinoblastoma gene function is sufficient for cell cycle re-entry
+Nature, 424 (2003), pp. 223–228
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (325)
+13.••
+Germline-targeted Rb null MEFs adapt to cell-culture conditions by up-regulating p107 thus explaining why inactivation of all three pocket proteins is required in these cells to circumvent growth arrest during quiescence and senescence. In contrast, conditionally targeted MEFs only need to inactivate Rb (by Cre–lox recombination) in order to re-enter the cell cycle from either a quiescent or senescent state.
+
+14.
+J. Sage, G.J. Mulligan, L.D. Attardi, A. Miller, S.Q. Chen, B. Williams, E. Theodorou, T. Jacks
+Targeted disruption of the three Rb-related genes leads to loss of G1 control and immortalisation
+Genes Dev, 14 (2000), pp. 3037–3050
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (404)
+15.
+J.H. Dannenberg, A. van Rossum, L. Schuijff, H. te Riele
+Ablation of the retinoblastoma gene family deregulates G1 control causing immortalisation and increased cell turnover under growth restricting conditions
+Genes Dev, 14 (2000), pp. 3051–3064
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (274)
+16.
+S. Parrinello, E. Samper, A. Krtolica, J. Goldstein, S. Melov, J. Campisi
+Oxygen sensitivity severely limits the replicative lifespan of murine fibroblasts
+Nat Cell Biol, 5 (2003), pp. 741–747
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (504)
+17.
+R.E. Herrera, V.P. Sah, B.O. Williams, T.P. Makela, R.A. Weinberg, T. Jacks
+Altered cell cycle kinetics, gene expression and G1 restriction point regulation in Rb-deficient fibroblasts
+Mol Cell Biol, 16 (1996), pp. 2402–2407
+
+View Record in Scopus | Citing articles (246)
+18.
+R.K. Hurford, D. Cobrinik, M.H. Lee, N. Dyson
+pRB and p107/p130 are required for the regulated expression of different sets of E2F responsive genes
+Genes Dev, 11 (1997), pp. 1447–1463
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (346)
+19.
+Y. Takahashi, J.B. Rayman, B.D. Dynlacht
+Analysis of promoter binding by the E2F and pRB families in vivo: distinct E2F proteins mediate activation and repression
+Genes Dev, 14 (2000), pp. 804–816
+
+View Record in Scopus | Citing articles (456)
+20.
+H. Cam, B.D. Dynlacht
+Emerging roles for E2F: beyond the G1/S transition and DNA replication
+Cancer Cell, 3 (2003), pp. 311–316
+
+Article |  PDF (221 K) | View Record in Scopus | Citing articles (210)
+21.••
+M. Narita, S. Nunez, E. Heard, M. Narita, A.W. Lin, S.A. Hearn, D.L. Spector, G.J. Hannon, S.W. Lowe
+Rb-mediated heterochromatin formation and silencing of E2F target genes during cellular senescence
+Cell, 113 (2003), pp. 703–716
+
+Article |  PDF (772 K) | View Record in Scopus | Citing articles (815)
+21.••
+The authors show that pRB specifically associates with E2F sites in the promoters of cell cycle genes in senescent cells. Using chromatin immunoprecipitation, pRB was found in ‘senescence-associated heterochromatic foci’ (or ‘SAHF’) on the promoters of E2F target genes such as cyclin A and PCNA that had been stably repressed or silenced by histone methylation on lysine 9 of histone H3 providing a docking site for the pRB-interacting protein, HP1.
+
+22.
+H.S. Zhang, M. Gavin, A. Dahiya, A.A. Postigo, D. Ma, R.X. Luo, J.W. Harbour, D.C. Dean
+Exit from G1 and S phase of the cell cycle is regulated by repressor complexes containing HDAC-Rb-hSWI/SNF and Rb-hSWI/SNF
+Cell, 101 (2000), pp. 79–89
+
+Article |  PDF (237 K) | View Record in Scopus | Citing articles (439)
+23.
+L. Vandel, E. Nicolas, O. Vaute, R. Ferreira, S. Ait-si-ali, D. Trouche
+Transcriptional repression by the retinoblastoma protein through recruitment of a histone methyltransferase
+Mol Cell Biol, 21 (2001), pp. 6484–6494
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (136)
+24.
+S.J. Nielsen, R. Schneider, U.M. Bauer, A.J. Bannister, A. Morrison, D. O’Carroll, R. Firestein, M. Cleary, T. Jenuwein, R. Herrera, T. Kouzarides
+Rb targets histone methylation and HP1 to promoters
+Nature, 412 (2001), pp. 561–565
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (596)
+25.
+T. Jacks, A. Fazeli, E. Schmidt, R. Bronson, M. Goodell, R. Weinberg
+Effects of an Rb mutation in the mouse
+Nature, 359 (1992), pp. 295–300
+
+Full Text via CrossRef
+26.
+A.R. Clarke, E.R. Maandag, M. van Roon, N.M.T. van der Lugt, M. van der Valk, M.L. Hooper, A. Berns, H. te Riele
+Requirement for a functional Rb-1 gene in murine development
+Nature, 359 (1992), pp. 328–330
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (657)
+27.
+E.Y.-H.P. Lee, C.-Y. Chang, N. Hu, Y.-C.J. Wang, C.-C. Lai, K. Herrup, W.-H. Lee
+Mice deficient for Rb are nonviable and show defects in neurogenesis and haematopoiesis
+Nature, 359 (1992), pp. 288–295
+
+28.
+K. Macleod, Y. Hu, T. Jacks
+Loss of Rb activates both p53-dependent and -independent cell death pathways in the developing mouse nervous system
+EMBO J, 15 (1996), pp. 6178–6188
+
+View Record in Scopus | Citing articles (249)
+29.
+S.D. Morgenbesser, B.O. Williams, T. Jacks, R.A. DePinho
+p53-dependent apoptosis produced by Rb-deficiency in the developing mouse lens
+Nature, 371 (1994), pp. 72–74
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (467)
+30.
+E. Zacksenhaus, Z. Jiang, D. Chung, J.D. Marth, R.A. Philips, B.L. Gallie
+pRb controls proliferation, differentiation, and death of skeletal muscle cells and other lineages during embryogenesis
+Genes Dev, 10 (1996), pp. 3051–3064
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (225)
+31.
+B.O. Williams, E.M. Schmitt, L. Remington, R.T. Bronson, D.M. Albert, R.A. Weinberg, T. Jacks
+Extensive contribution of Rb-deficient cells to adult chimeric mice with limited histopathological consequences
+EMBO J, 13 (1994), pp. 4251–4259
+
+View Record in Scopus | Citing articles (198)
+32.
+E.C. Robanus-Maandag, M. van der Valk, M. Vlaar, C. Feltkamp, J. O’Brien, M. van Roon, N. van der Lugt, A. Berns, H. te Riele
+Developmental rescue of an embryonic-lethal mutation in the retinoblastoma gene in chimeric mice
+EMBO J, 13 (1994), pp. 4260–4268
+
+View Record in Scopus | Citing articles (182)
+33.
+M. Lipinski, K.F. Macleod, D. Crowley, T. Mullaney, T. Jacks
+Cell-autonomous and non-cell autonomous developmental functions of the retinoblastoma tumor suppressor gene in vivo
+EMBO J, 20 (2001), pp. 3402–3413
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (72)
+34.
+M.C. Raff, B.A. Barres, J.F. Burne, H.S. Coles, Y. Ishizaki, M.D. Jacobson
+Programmed cell death and the control of cell survival: lessons from the nervous system
+Science, 262 (1993), pp. 695–700
+
+View Record in Scopus | Citing articles (1064)
+35.••
+K.L. Ferguson, J.L. Vanderluit, J.M. Hebert, W.C. McIntosh, E. Tibbo, J.G. MacLaurin, D.S. Park, V.A. Wallace, M. Vooijs, S.K. McConnell, R.S. Slack
+Telencephalon-specific Rb knockouts reveal enhanced neurogenesis, survival and abnormal cortical development
+EMBO J, 21 (2002), pp. 3337–3346
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (108)
+35.••
+The authors generated mice in which Rb was conditionally inactivated in the telencephalon by crossing Rb-floxed mice to Foxg1 Cre transgenic mice. Rb null neurons continued to show the proliferation defects (ectopic S phase entry) observed in Rb homozygous mutants but did not show the apoptosis that is widespread in the CNS of the Rb homozygous mutants.
+
+36.••
+D. Macpherson, J. Sage, D. Crowley, A. Trumpp, R.T. Bronson, T. Jacks
+Conditional mutation of Rb causes cell cycle defects without apoptosis in the central nervous system
+Mol Cell Biol, 23 (2003), pp. 1044–1053
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (105)
+36.••
+In this study, nestin–Cre transgenic mice were used to conditionally target Rb loss to the nervous system. Inactivation of Rb in the nervous system resulted in ectopic S phase entry but no apoptosis, resulting in an enlarged brain in these mice that survived longer in development than the homozygous mutant embryo. Demonstrating induced expression of hypoxia-inducible genes, the authors suggest that the apoptosis observed in the Rb null CNS was a result of the erythroid defects in the embryo.
+
+37.••
+L. Wu, A. de Bruin, H.I. Saavedra, M. Starivic, A. Trimboli, Y. Yang, J. Opavska, P. Wilson, J.C. Thompson, M.C. Ostrowski et al.
+Extra-embryonic function of Rb is essential for embryonic development and viability
+Nature, 421 (2003), pp. 942–947
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (251)
+37.••
+The authors demonstrate a critical role for pRb in the differentiation of trophoblast stem cells and the consequent defects in the labyrinth layer of the placenta, that result in reduced oxygen/nutrient exchange between the maternal and fetal blood supplies. The authors suggest this may explain the non-cell-autonomous defects in the Rb null embryo and pursue this idea by conditionally targeting Rb in the embryo while leaving it intact in extra-embryonic tissues. This is achieved by crossing Rb-floxed mice to Meox2–Cre transgenic mice and is further supported by the results of tetraploid aggregation experiments. The authors show rescue of cell death in the nervous system of the Rb null embryo and survival of the embryo to birth. Defects in lens and erythroid maturation are still apparent in these mice.
+
+38.
+A. de Bruin, S. Wu, P. Wilson, Y. Yang, T.J. Rosol, M. Weinstein, M.L. Robinson, G. Leone
+Rb function in extraembryonic tissue lineages suppresses apoptosis in the CNS of Rb-deficient mice
+Proc Natl Acad Sci USA, 100 (2003), pp. 6546–6551
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (84)
+39.••
+Spike BT, Dibling B, Green M, Williams BO, Jacks T, Macleod KF: Cell intrinsic defects in Rb null hematopoiesis. Genes Dev 2003, in press.
+39.••
+We used adoptive transplant and competitive repopulation studies to demonstrate an intrinsic defect in erythroid and megakaryocyte differentiation that is accompanied by increased progenitor proliferation and stem cell depletion. We show that the erythroid defect is a result of the failure to exit the cell cycle in a timely manner, a failure to down-regulate c-Kit and up-regulate markers of the post-mitotic erythroid state such as TER119. Further, we have separated cell death in the Rb null fetal liver from differentiation defects and show that this death is necrotic as opposed to apoptotic.
+
+40.
+P. Zhang, C. Wong, R.A. DePinho, J.W. Harper, S.J. Elledge
+Cooperation between the cdk inhibitors p27KIP1 and p57KIP2 in the control of tissue growth and development
+Genes Dev, 12 (1998), pp. 3162–3167
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (209)
+41.
+A. MacAuley, J.C. Cross, Z. Werb
+Reprogramming the cell cycle for endoreduplication in rodent trophoblast cells
+Mol Biol Cell, 9 (1998), pp. 795–807
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (131)
+42.
+N. Hattori, T.C. Vavies, L. Anson-Cartwright, J.C. Cross
+Periodic expression of the cyclin-dependent kinase inhibitor p57/Kip2 in trophoblast giant cells defines a G2-like gap phase of the endocycle
+Mol Biol Cell, 11 (2000), pp. 1037–1045
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (73)
+43.
+K. Ravid, J. Lu, J.M. Zimmet, M.R. Jones
+Roads to polyploidy: the megakaryocyte example
+J Cell Physiol, 190 (2002), pp. 7–20
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (138)
+44.••
+Y. Geng, Q. Yu, E. Sicinska, M. Das, J.E. Schneider, S. Bhattacharya, W.M. Rideout, R.T. Bronson, H. Gardner, P. Sicinski
+Cyclin E ablation in the mouse
+Cell, 114 (2003), pp. 431–443
+
+Article |  PDF (641 K) | View Record in Scopus | Citing articles (422)
+44.••
+Germ-line targeting of cyclins E1 and E2 demonstrate that E-type cyclins are required for trophoblast differentiation and placental development. Tetraploid aggregation is used to show that E-type cyclins are dispensable for embryonic development despite their requirement for extra-embryonic tissues. Cyclin E deficient mice develop cardiac problems around birth. Cyclin E is also required for endoreduplication in megakaryocytes.
+
+45.
+F.X. Li, J.W. Zhu, C.J. Hogan, J. DeGregori
+Defective gene expression, S phase progression and maturation during hematopoiesis in E2F1/E2F2 mutant mice
+Mol Cell Biol, 23 (2003), pp. 3607–3622
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+46.•
+M.A. Ciemerych, A.M. Kenney, E. Sicinska, I. Kalaszczynska, R.T. Bronson, D.H. Rowitch, H. Gardner, P. Sicinski
+Development of mice expressing a single D-type cyclin
+Genes Dev, 16 (2002), pp. 3277–3289
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (180)
+46.•
+Mice expressing only one of the three mammalian D-type cyclins, D1, D2 or D3, were generated by gene targeting and interbreeding. Single D cyclin embryos survive to late stages of development and up-regulate the remaining cyclin in tissues where the other two would have been expressed suggesting that the D-type cyclins are functionally interchangeable and differ mainly in their pattern of expression. Cyclin-D1-only mice develop megaloblastic anemia suggesting that one of the other two cyclins, most likely D3 given its expression pattern, has important functions in blood development.
+
+47.
+K.Y. Tsai, Y. Hu, K.F. Macleod, D. Crowley, L. Yamasaki, T. Jacks
+Mutation of E2f-1 suppresses apoptosis and inappropriate S-phase entry and extends survival of Rb-deficient mouse embryos
+Mol Cell, 2 (1998), pp. 283–292
+
+48.
+U. Ziebold, T. Reza, A. Caron, J.A. Lees
+E2F3 contributes both to the inappropriate proliferation and to the apoptosis arising in Rb mutant embryos
+Genes Dev, 15 (2001), pp. 386–391
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (146)
+49.
+W.G. An, M. Kanekal, M.C. Simon, E. Maltepe, M.V. Blagosklonny, L.M. Neckers
+Stabilisation of wild-type p53 by hypoxia-inducible factor1α
+Nature, 392 (1998), pp. 405–408
+
+View Record in Scopus | Citing articles (471)
+50.
+T.G. Graeber, C. Osmanian, T. Jacks, D.E. Housman, C.J. Koch, S.W. Lowe, A.J. Giaccia
+Hypoxia mediated selection of cells with diminished apoptotic potential in solid tumors
+Nature, 379 (1996), pp. 88–91
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1754)
+51.
+A. Lasorella, M. Noseda, M. Beyna, A. Iavarone
+Id2 is a retinoblastoma protein target and mediates signalling by Myc oncoproteins
+Nature, 407 (2000), pp. 592–598
+
+View Record in Scopus | Citing articles (370)
+52.
+M.J. Janatpour, M.T. McMaster, O. Genbacev, Y. Zhou, J.Y. Dong, J.C. Cross, M.A. Israel, S.J. Fisher
+Id-2 regulates critical aspects of human cytotrophoblast differentiation, invasion and migration
+Development, 127 (2000), pp. 549–558
+
+View Record in Scopus | Citing articles (81)
+53.
+S. Marino, D. Hoogervoorst, S. Brandner, A. Berns
+Rb and p107 are required for normal cerebellar development and granule cell survival but not for Purkinje cell persistence
+Development, 130 (2003), pp. 3359–3368
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+54.••
+Ruiz S, Santos M, Segrelles C, Leis H, Jorcano JL, Berns A, Paramio JM, Vooijs M: Unique and overlapping functions of Rb and p107 in the control of epidermal proliferation and differentiation. Personal communication.
+54.••
+The authors target inactivation of Rb to tissues expressing keratin 14 — skin, nasopharyngeal epithelia, mammary epithelia — and demonstrate that Rb is required for homeostasis in the skin by promoting stem-cell renewal and coupling proliferation of the transit-amplifying progenitor to terminal differentiation of keratinocytes. Normal patterns of keratin differentiation are disrupted, resulting in progenitor hyperplasia and sebaceous gland carcinomas, demonstrating how regulation of tissue homeostasis is a key aspect of the tumor suppressor functions of pRb.
+
+55.
+M. Classon, B. Kennedy, R. Mulloy, E. Harlow
+Opposing roles of pRB and p107 in adipocyte differentiation
+Proc Natl Acad Sci USA, 97 (2000), pp. 10826–10831
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+56.•
+R.L. Landsberg, J.E. Sero, P.S. Danielian, T.L. Yuan, E.Y. Lee, J.A. Lees
+The role of E2F4 in adipogenesis is independent of its cell cycle regulatory activity
+Proc Natl Acad Sci USA, 100 (2003), pp. 2456–2461
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+56.•
+By examining the ability of MEFs, mutant for different E2F and pocket proteins, to differentiate into adipocytes under the influence of hormones, the authors examined the roles of E2F4, p107 and p130 in promoting terminal adipocyte differentiation. E2f4 deficient MEFs undergo adipogenesis spontaneously without hormones in a manner independent of p107 or p130 that appear to inhibit differentiation. The activity of E2f4 in this differentiation assay is separable from its ability to promote growth arrest.
+
+57.
+G.A. Otterson, W. Chen, A.B. Coxon, S.N. Khleif, F.J. Kaye
+Incomplete penetrance of familial retinoblastoma linked to germ-line mutations that result from partial loss of RB function
+Proc Natl Acad Sci USA, 94 (1997), pp. 12036–12040
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+58.
+W.R. Sellers, B.G. Novitch, S. Miyake, A. Heith, G.A. Otterson, F.J. Kaye, A.B. Lassar, W.G. Kaelin
+Stable binding to E2F is not required for the retinoblastoma protein to activate transcription, promote differentiation and suppress tumor cell growth
+Genes Dev, 12 (1998), pp. 95–106
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (235)
+59.
+J.W. Harbour
+Molecular basis of low-penetrance retinoblastoma
+Arch Ophthalmol, 119 (2001), pp. 1699–1704
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+60.
+D.M. Thomas, S.A. Carty, D.M. Piscopo, J. Lee, W. Wang, W.C. Forrester, P.W. Hinds
+Retinoblastoma protein acts as a transcriptional coactivator required for osteogenic differentiation
+Mol Cell, 8 (2001), pp. 303–316
+
+Article |  PDF (651 K) | View Record in Scopus | Citing articles (237)
+61.••
+D.K. Dimova, O. Stevaux, M.V. Frolov, N.J. Dyson
+Cell cycle-dependent and cell cycle-independent control of transcription by the Drosophila E2F/RB pathway
+Genes Dev, 17 (2003), pp. 2308–2320
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+61.••
+By knocking down individual components of the Drosophila RB/E2F families using RNAi, the authors identify distinct programs of gene expression regulated by specific groups of RB/E2F. dE2F1/RBF1 regulates the classic group of E2F target genes required for cell-cycle progression. The striking observation is that dE2F2/RBF1 and dE2F2/RBF2 repress a distinct program of differentiation factors in proliferating cells and presumably allow their derepression in differentiating tissues. Surprisingly, the regulation of these genes is also gender specific.
+
+62.
+H. Muller, A.P. Bracken, R. Vernell, M.C. Moroni, F. Christians, E. Grassilli, E. Prosperini, E. Vigo, J.D. Oliner, K. Helin
+E2Fs regulate the expression of genes involved in differentiation, development, proliferation and apoptosis
+Genes Dev, 15 (2001), pp. 267–285
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (512)
+63.
+B.A. Slomiany, K.L. D’Arigo, M.M. Kelly, D.T. Kurtz
+C/EBPα inhibits cell growth via direct repression of E2F-DP mediated transcription
+Mol Cell Biol, 20 (2000), pp. 5986–5997
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+64.
+B.T. Porse, T.A. Pedersen, X. Xu, B. Lindberg, U.M. Wewer, L. Frils-Hansen, C. Nerlov
+E2F repression by C/EBPα is required for adipogenesis and granulopoiesis in vivo
+Cell, 107 (2001), pp. 247–258
+
+Article |  PDF (705 K) | View Record in Scopus | Citing articles (210)
+65.
+A.D. Friedman
+Transcriptional regulation of granulocyte and monocyte differentiation
+Oncogene, 21 (2002), pp. 3377–3390
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (212)
+66.
+L. Fajas, R.L. Landsberg, Y. Huss-Garcia, C. Sardet, J.A. Lees, J. Auwerx
+E2Fs regulate adipocyte differentiation
+Dev Cell, 3 (2002), pp. 39–49
+
+Article |  PDF (450 K) | View Record in Scopus | Citing articles (164)
+67.•
+G.W. Klappacher, V.V. Lunyak, D.B. Sykes, D. Sawka-Verhelle, J. Sage, G. Brard, S.D. Ngo, D. Gangadharan, T. Jacks, M.P. Kamps et al.
+An induced Ets repressor complex regulates growth arrest during macrophage differentiation
+Cell, 109 (2002), pp. 169–180
+
+Article |  PDF (675 K) | View Record in Scopus | Citing articles (60)
+67.•
+The authors identify a repressor of Ets transactivation in differentiating macrophages, termed METS, which blocks Ras-induced proliferation and is dependent on the function of members of the RB/E2F family for activity.
+
+68.
+Spike BT, Macleod KF: Loss of pRb and p53 cooperates in the genesis of acute myeloid leukemia. J Exp Hematol 2003, in press.
+69.•
+R. Meuwissen, S.C. Linn, R.I. Linnoila, J. Zevenhoven, W.J. Mooi, A. Berns
+Induction of small cell lung cancer by somatic inactivation of both Trp53 and Rb1 in a conditional mouse model
+Cancer Cell, 4 (2003), pp. 181–189
+
+Article |  PDF (644 K) | View Record in Scopus | Citing articles (169)
+69.•
+The authors examine the effects of combined Rb and p53 loss on tumorigenesis in the lung and demonstrate that although the entire lung epithelium is targeted for Cre-mediated recombination, neuroendocrine tumors are the tumor type to emerge suggesting a unique function for these genes in the homeostasis of lung neuroendocrine cells.
+
+70.
+S.E. Shackney, T.V. Shankey
+Common patterns of genetic evolution in human solid tumors
+Cytometry, 29 (1997), pp. 1–27
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (96)
+71.
+C.M. Eischen, J.D. Weber, M.F. Roussel, C.J. Sherr, J.L. Cleveland
+Disruption of the ARF-Mdm2-p53 tumor suppressor pathway in Myc-induced lymphomagenesis
+Genes Dev, 13 (1999), pp. 2658–2669
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (507)
+72.
+C.A. Schmitt, M.E. McCurrach, E. de Stanchina, R.R. Wallace-Brodeur, S.W. Lowe
+INK4a/ARF mutations accelerate lymphomagenesis and promote chemoresistance by disabling p53
+Genes Dev, 13 (1999), pp. 2670–2677
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (316)
+73.
+G. Evan, T. Littlewood
+A matter of life and death
+Science, 281 (1998), pp. 1317–1322
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1191)
+74.
+H. Symonds, L. Krall, L. Remington, M. Saenz-Robles, S. Lowe, T. Jacks, T. Van Dyke
+p53-dependent apoptosis suppresses tumor growth and progression in vivo
+Cell, 78 (1994), pp. 703–711
+
+Article |  PDF (11077 K) | View Record in Scopus | Citing articles (698)
+75.
+B.O. Williams, L. Remington, R.T. Bronson, S. Mukai, D.M. Albert, T. Dryja, T. Jacks
+Cooperative tumorigenic effects of germline mutations in Rb and p53
+Nat Genet, 7 (1994), pp. 480–484
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (272)
+76.
+D.R. Green, G.I. Evan
+A matter of life and death
+Cancer Cell, 1 (2002), pp. 19–30
+
+Article |  PDF (761 K) | View Record in Scopus | Citing articles (701)
+77.
+A. Almasan, Y. Yin, R. Kelly, Y.-H.P. Lee, A. Bradley, W. Li, J.R. Bertino, G.M. Wahl
+Deficiency of retinoblastoma protein leads to inappropriate S-phase entry, activation of E2F-responsive genes and apoptosis
+Proc Natl Acad Sci USA, 92 (1995), pp. 5436–5440
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (247)
+78.
+E.A. Harrington, J.L. Bruce, E. Harlow, N. Dyson
+pRB plays an essential role in cell cycle arrest induced by DNA damage
+Proc Natl Acad Sci USA, 95 (1998), pp. 11945–11950
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (171)
+79.
+K.E. Knudsen, D. Booth, S. Naderi, Z. Sever-Chroneos, A.F. Fribourg, I.C. Hunton, J.R. Feramisco, J.Y.J. Wang, E.S. Knudsen
+RB-dependent S-phase response to DNA damage
+Mol Cell Biol, 20 (2000), pp. 7751–7763
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (148)
+80.
+J. DeGregori, G. Leone, A. Miron, L. Jakoi, J.R. Nevins
+Distinct roles for E2F proteins in cell growth control and apoptosis
+Proc Natl Acad Sci USA, 94 (1997), pp. 7245–7250
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (513)
+81.
+G. Leone, R. Sears, E. Huang, R. Rempel, F. Nuckolls, C. Park, P. Giangrande, L. Wu, H.I. Saavedra, S.J. Field, M.A. Thompson, H. Yang, Y. Fujiwara, M.E. Greenberg, S.H. Orkin, C. Smith, J.R. Nevins
+Myc requires distinct E2F activities to induce S phase and apoptosis
+Mol. Cell, 8 (2001), pp. 105–113
+
+Article |  PDF (206 K) | View Record in Scopus | Citing articles (139)
+82.••
+T. Baudino, K. Maclean, J. Brennan, E. Parganas, C. Yang, A. Asianian, J.A. Lees, C.J. Sherr, M.F. Roussel, J.L. Cleveland
+Myc-mediated proliferation and lymphomagenesis, but not apoptosis, are compromised by E2f1 loss
+Mol Cell, 11 (2003), pp. 905–914
+
+Article |  PDF (437 K) | View Record in Scopus | Citing articles (63)
+82.••
+Eμ–Myc transgenic mice used in 11.••, 71. and 72. were in this study crossed with E2f1-deficient mice to show that loss of even one allele of E2f1 retarded tumor cell proliferation but had little effect on the incidence of apoptosis in the B-cell lymphomas that did develop. Consistent with these observations, the frequency of p53 and Arf mutations in lymphomas was unaffected by E2f1 loss. The ability of Myc to promote proliferation in an E2f1-dependent manner was in turn dependent on increased turnover of the p27 Kip1 Cdk inhibitor.
+
+83.••
+F.A. Dick, N. Dyson
+pRB contains an E2F1-specific binding domain that allows E2F1-induced apoptosis to be regulated separately from other E2F activities
+Mol Cell, 12 (2003), pp. 639–649
+
+Article |  PDF (356 K) | View Record in Scopus | Citing articles (82)
+83.••
+The authors generated a mutant form of pRB, termed RBΔE2F-G, by substitution of 11 amino acids in the pocket domain that has dramatically reduced affinity for E2Fs and is also defective for repression of E2Fs in transactivation assays. However, the RBΔE2F-G mutant retains E2F1-binding ability that is mediated by the C domain of pRB and N-terminal sequences of E2F1 that includes its DNA-binding domain. This ‘S’ type interaction, as the authors have termed it, results in loss of E2F1 DNA binding activity and inhibition of E2F1-induced apoptosis. The interaction is lost following treatment of cells with DNA damaging agents.
+
+84.
+W. Lin, F. Lin, J.R. Nevins
+Selective induction of E2F1 in response to DNA damage, mediated by ATM-dependent phosphorylation
+Genes Dev, 15 (2001), pp. 1833–1844
+
+View Record in Scopus | Citing articles (275)
+85.
+S. Bates, A.C. Phillips, P.A. Clark, F. Stott, G. Peters, R.L. Ludwig, K.H. Vousden
+p14ARF links the tumor suppressors RB and p53
+Nature, 395 (1998), pp. 124–125
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (699)
+86.•
+A. Ryo, Y. Liou, G. Wulf, M. Nakamura, S.W. Lee, K.P. Lu
+PIN1 is an E2F target gene essential for Neu/Ras induced transformation of mammary epithelial cells
+Mol Cell Biol, 22 (2002), pp. 5281–5295
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (136)
+86.•
+The Pin1 prolyl isomerase induces conformational changes in proteins following Ser-/Thr–Pro phosphorylation. Key targets of Pin1 include p53, and cyclin D1 and inhibition of Pin1 suppresses Neu- and Ras- transformation. The authors show here that E2F regulates transcription of Pin1 through several functional E2F sites in the proximal region of the Pin1 promoter.
+
+87.
+J. Pomerantz, N. Schreiber-Agus, N.J. Liegois, A. Silverman, L. Alland, L. Chin, J. Potes, K. Chen, I. Orlow, H. Lee et al.
+The Ink4a tumor suppressor gene product p19ARF interacts with mdm2 and neutralises mdm2’s inhibition of p53
+Cell, 92 (1998), pp. 713–723
+
+Article |  PDF (1859 K) | View Record in Scopus | Citing articles (1115)
+88.••
+H. Zheng, H. You, X. Zhou, S.A. Murray, T. Uchida, G. Wulf, L. Gu, X. Tang, K.P. Lu, Z.J. Xiao
+The prolyl isomerase Pin1 is a regulator of p53 in genotoxic response
+Nature, 419 (2002), pp. 849–853
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (230)
+88.••
+The Pin1 prolyl isomerase regulates p53 activity in response to DNA damage by inducing activating conformational changes of serine phosphorylated p53. Pin1-null MEFs show reduced p53 induction in response to DNA damage.
+
+89.••
+P. Zacchi, M. Gostissa, T. Uchida, C. Salvagno, F. Avolio, S. Volinia, Z. Ronai, G. Blandino, C. Schneider, G. Del Sal
+The prolyl isomerase Pin1 reveals a mechanism to control p53 functions after genotoxic insults
+Nature, 419 (2002), pp. 853–857
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+89.••
+Published together, these papers 88.•• and 89.•• show similar data demonstrating that the interaction between p53 and Pin1 is dependent on serine/threonine phosphorylation of p53 on residues 33, 81 and 315 and that this interaction is required for activation of p53 following DNA damage. Pin1 null cells were defective for p53 activation.
+
+90.
+F. Zindy, C.M. Eischen, D.H. Randle, T. Kamijo, J.L. Cleveland, C.J. Sherr, M.F. Roussel
+Myc signalling via the ARF tumor suppressor regulates p53-dependent apoptosis
+Genes Dev, 12 (1998), pp. 2424–2433
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (872)
+91.
+M. Serrano, A.W. Lin, M.E. McCurrach, D. Beach, S.W. Lowe
+Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Citing articles (2474)
+92.
+E. de Stanchina, M.E. McCurrach, F. Zindy, S.Y. Shieh, G. Ferbeyre, A.V. Samuelson, C. Prives, M.F. Roussel, C.J. Sherr, S.W. Lowe
+E1A signalling to p53 involves the 19ARF tumor suppressor
+Genes Dev, 12 (1998), pp. 2434–2442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (495)
+93.
+A.J. Giaccia, M.B. Kastan
+The complexity of p53 modulation: emerging patterns from divergent signals
+Genes Dev, 12 (1998), pp. 2973–2983
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (977)
+94.••
+B.E. Deverman, B.L. Cook, S.R. Manson, R.A. Niederhoff, E.M. Langer, I. Rosova, L.A. Kulans, X. Fu, J.S. Weinberg, J.W. Heinecke et al.
+Bcl-XL deamidation is a critical switch in the regulation of the response to DNA damage
+Cell, 111 (2002), pp. 51–62
+
+Article |  PDF (513 K) | View Record in Scopus | Citing articles (149)
+94.••
+The authors show that deamidation of asparagines 52 and 66 in the unstructured loop of Bcl-XL inhibits the ability of this anti-apoptotic regulator to block the pro-apoptotic activity of BH3-only domain factors, such as the p53 targets Noxa and Puma. The deamidation of Bcl-XL is induced by DNA-damaging agents and can be blocked by activation of the RB tumor suppressor in a cell-cycle-independent manner. The mechanisms regulating Bcl-XL deamidation are not yet clear.
+
+95.
+K. Alexander, P.W. Hinds
+Requirement for p27KIP1 in retinoblastoma protein-mediated senescence
+Mol Cell Biol, 21 (2001), pp. 3616–3631
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+96.
+S.A. Amundson, T.G. Myers, D. Scudiero, S. Kitada, J.C. Reed, A.J. Fornace Jnr.
+An informatics approach identifying markers of chemosensitivity in human cancer cell lines
+Cancer Res, 60 (2000), pp. 6101–6110
+
+View Record in Scopus | Citing articles (246)
+97.•
+T. Takehara, H. Takahashi
+Suppression of Bcl-XL deamidation in human hepatocellular carcinomas
+Cancer Res, 63 (2003), pp. 3054–3057
+
+View Record in Scopus | Citing articles (41)
+97.•
+Bcl-XL is over-expressed in at least one third of tumors and Takehara and Takahashi show that this may be as a result of a block in the deamidation of Bcl-XL that promotes its turnover in addition to affecting its activity. These studies suggest that one mechanism by which tumor cells evade apoptosis is by blocking deamidation of Bcl-XL.
+
+98.
+S.M. Lowe, H.E. Ruley, T. Jacks, D.E. Housman
+p53-dependent apoptosis modulates the cytoxicity of anticancer agents
+Cell, 74 (1993), pp. 957–967
+
+Article |  PDF (3224 K) | View Record in Scopus | Citing articles (2418)
+99.
+S.W. Lowe, S. Bodis, A. McClatchey, L. Remington, H.E. Ruley, D.E. Fisher, D.E. Housman, T. Jacks
+p53 status and the efficacy of cancer therapy in vivo
+Science, 266 (1994), pp. 807–810
+
+View Record in Scopus | Citing articles (1296)
+100.
+J.M. Brown, B.G. Wouters
+Apoptosis, p53 and tumor cell sensitivity to anticancer agents
+Cancer Res, 59 (1999), pp. 1391–1399
+
+View Record in Scopus | Citing articles (601)
+101.
+D.S. Hawkins, G.W. Demers, D.A. Galloway
+Inactivation of p53 enhances sensitivity to multiple chemotherapeutic agents
+Cancer Res, 56 (1996), pp. 892–898
+
+View Record in Scopus | Citing articles (292)
+102.
+S. Fan, M.L. Smith, D.J. Rivet, D. Duba, Q. Zhan, K.W. Kohn, A.J. Fornace Jnr., P.M. O’Connor
+Disruption of p53 function sensitizes breast cancer MCF-7 cells to cis-platin and pentoxyfylline
+Cancer Res, 55 (1995), pp. 1649–1654
+
+View Record in Scopus | Citing articles (490)

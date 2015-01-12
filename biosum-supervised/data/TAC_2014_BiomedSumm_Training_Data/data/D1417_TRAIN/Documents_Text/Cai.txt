@@ -1,0 +1,476 @@
+﻿The Structural Basis for Activation of the Rab Ypt1p by the TRAPP Membrane-Tethering Complexes
+Yiying Cai1, 4, Harvey F. Chin2, Darina Lazarova1, 4, Shekar Menon1, 4, Chunmei Fu1, Huaqing Cai1, 4, Anthony Sclafani1, 4, David W. Rodgers3, Enrique M. De La Cruz2, Susan Ferro-Novick1, 4, Corresponding author contact information, E-mail the corresponding author, Karin M. Reinisch1, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2008.04.049
+Under an Elsevier user license
+Referred to by
+Ryan M. Nottingham, Suzanne R. Pfeffer
+Team Effort by TRAPP Forces a Nucleotide Fumble
+Cell, Volume 133, Issue 7, 27 June 2008, Pages 1141-1143
+ PDF (564 K)
+  Open Archive
+Summary
+The multimeric membrane-tethering complexes TRAPPI and TRAPPII share seven subunits, of which four (Bet3p, Bet5p, Trs23p, and Trs31p) are minimally needed to activate the Rab GTPase Ypt1p in an event preceding membrane fusion. Here, we present the structure of a heteropentameric TRAPPI assembly complexed with Ypt1p. We propose that TRAPPI facilitates nucleotide exchange primarily by stabilizing the nucleotide-binding pocket of Ypt1p in an open, solvent-accessible form. Bet3p, Bet5p, and Trs23p interact directly with Ypt1p to stabilize this form, while the C terminus of Bet3p invades the pocket to participate in its remodeling. The Trs31p subunit does not interact directly with the GTPase but allosterically regulates the TRAPPI interface with Ypt1p. Our findings imply that TRAPPII activates Ypt1p by an identical mechanism. This view of a multimeric membrane-tethering assembly complexed with a Rab provides a framework for understanding events preceding membrane fusion at the molecular level.
+
+Author Keywords
+CELLBIO; SIGNALING
+Introduction
+In eukaryotic cells, vesicles transport materials between membrane-bound compartments. After a vesicle buds from a donor membrane, it travels through the cytoplasm to its target membrane, where it fuses to deliver its cargo. This membrane-fusion event is mediated by SNAREs, a family of membrane proteins located on the vesicle and target membranes (Jahn and Scheller, 2006). Vesicle transport, however, also requires the interplay of a large number of peripheral membrane proteins that act upstream of the SNAREs. These include coat proteins that are needed for cargo selection and vesicle budding, tethering proteins, and small GTPases of the Rab family involved in regulation. Tethers are either long coiled-coil proteins or large multimeric complexes that mediate the initial interaction of the vesicle and its target membrane (reviewed in Cai et al., 2007a).
+
+TRAPPI is one of the best-characterized multiprotein tethering complexes. First described in the yeast S. cerevisiae ( Sacher et al., 1998), TRAPPI subunits are present in all eukaryotes ( Koumandou et al., 2007). In yeast, TRAPPI mediates the tethering of endoplasmic reticulum (ER)-derived COPII-coated vesicles at the cis-Golgi ( Sacher et al., 1998). Tethering involves interactions between the TRAPPI subunit Bet3p and Sec23p ( Cai et al., 2007b), a component of the COPII coat adaptor complex ( Kuehn et al., 1998). This interaction targets a COPII vesicle to the Golgi ( Cai et al., 2007b). Critically, TRAPPI also functions as a guanine nucleotide exchange factor (GEF) for the Rab GTPase Ypt1p ( Sacher et al., 2001), facilitating the conversion of the inactive GDP-bound form of Ypt1p to the active GTP-bound form. Membrane fusion proceeds only once Ypt1p is activated by TRAPPI ( Cai et al., 2007a). TRAPPI shares multiple subunits with the TRAPPII complex, which mediates trafficking events within the Golgi and from the early endosome to the late Golgi ( Cai et al., 2005).
+
+The TRAPPI complex comprises seven small subunits (two copies of Bet3p and one copy each of Bet5p, Trs20p, Trs23p, Trs31p, and Trs33p), which range in size from 18 to 33 kDa, as well as a larger 80 kDa protein Trs85p (Sacher et al., 1998 and Sacher et al., 2000). Except for Trs33p and Trs85p, all of the TRAPPI subunits are required for cell viability (Sacher et al., 1998 and Sacher et al., 2000). Unusually, TRAPPI GEF activity does not reside on any one subunit (Kim et al., 2006 and Cai et al., 2007b) but requires a minimal complex of Bet3p, Bet5p, Trs23p, and Trs31p (Kim et al., 2006). The requirement of complex assembly as a prerequisite for GEF activity may allow for additional regulation of vesicle transport.
+
+To understand how TRAPPI subunits cooperate in activating Ypt1p, we have determined the crystal structure of a TRAPPI subassembly in complex with Ypt1p at a resolution of 3.7 Å. The structure offers a snapshot of the interactions between a multimeric membrane-tethering complex and a Rab GTPase. The TRAPPI subcomplex studied contains the minimum number of subunits (two copies of Bet3p and one each of Bet5p, Trs23p, and Trs31p) needed to activate Ypt1p (Kim et al., 2006), and in the structure, this assembly stabilizes the GTPase in its intermediate, nucleotide-free form. A comparison of nucleotide-free Ypt1p with existing nucleotide-bound structures of the enzyme (PDB ID 1YZN; Eathiraj et al., 2005) or its mammalian homolog Rab1a (PDB ID 2FOL) allows us to propose a mechanism for guanine nucleotide exchange in which each subunit in the TRAPPI subassembly contributes to the activity of this multimeric GEF.
+
+Results and Discussion
+Overview of the TRAPPI Subcomplex
+The crystal structure of a TRAPPI subassembly (Figures 1A–1C) consisting of one copy each of Bet5p, Trs23p, and Trs31p and two copies of Bet3p (named Bet3p-A and Bet3p-B) was determined in complex with a C-terminally truncated Ypt1p (residues 1–180). Data collection and refinement statistics are shown in Table S1 (see Supplemental Data available online). The 26 residue Ypt1p C terminus that was truncated is not required for activation of nucleotide exchange by TRAPPI (data not shown).
+
+Full-size image (112 K)
+Figure 1. 
+Structure of Ypt1p Bound to TRAPPI Subcomplex
+(A) The TRAPPI complex is shown as a surface representation, and Ypt1p is shown as a backbone worm. In TRAPPI, different polypeptide chains are colored differently. In Ypt1p, switch regions I and II are yellow. At left, the positions of Cys80 and the hydrophobic channels in the two copies of Bet3p are labeled with red arrows. The right panel shows the same complex rotated about the horizontal axis indicated.
+(B) A surface representation of TRAPPI colored by electrostatic potential (blue = basic; red = acidic) with Ypt1p shown as a backbone worm. The orientations of the protein complexes are identical in (A) and (B).
+(C) A ribbons representation of TRAPPI oriented as shown on the left in (A). The palmitoylate group modeled into the Bet3p-A hydrophobic channel is yellow.
+Figure options
+The TRAPPI subassembly is about 135 Å long and 30–75 Å in diameter (Figure 1A). One of its surfaces is largely acidic, whereas the other has both basic and acidic regions (Figure 1B). Bet3p-A, Bet5p, Trs23p, and Bet3p-B are arranged end to end along the length of the complex (Figures 1A and 1C). Bet3p-A/Bet5p and Bet3p-B/Trs23p are related by a 2-fold rotation around an axis centered at the Bet5p/Trs23p interface. Trs31p binds at one end of the otherwise cylindrical complex, interacting with both Trs23p and Bet3p-B.
+
+The yeast small TRAPPI subunits in the crystal structure have mixed α/β topologies (Figure 1C) similar to those previously described for their vertebrate homologs (Kim et al., 2006, Kim et al., 2005b and Turnbull et al., 2005). Despite limited sequence homology, Bet5p and Trs23p (20% sequence identity) share a common fold, as do Bet3p and Trs31p (15% sequence identity). The yeast Trs23p protein does not have the PDZ-like domain described for the mammalian protein, and insertions in the yeast proteins with respect to the mammalian sequences are for the most part disordered in the crystal structure. These insertions include residues 76–103 and 148–168 in Trs23p and residues 1–54 and 104–164 in Trs31p. Bet3p has an additional N-terminal α helix, which plays a role in subunit interactions. Importantly, the C-terminal residues of Bet3p, disordered in all existing structures of the mammalian homolog (Kim et al., 2005a, Kim et al., 2005b, Turnbull et al., 2005 and Kummel et al., 2006b; and in TRAPP subcomplexes as in Kim et al., 2006), are ordered in the Ypt1p/TRAPPI complex, where they are involved in intermolecular contacts with Ypt1p.
+
+A deep channel lined by hydrophobic residues traverses each of the Bet3p subunits. Bet3p is palmitoylated via a thioester linkage to a conserved cysteine (C80) (Turnbull et al., 2005). We have modeled a palmitoylate group into the channel of Bet3p-A, where we find density continuous with Cys80 in averaged composite omit maps (Figure S1). The bound fatty acid is less well defined in Bet3p-B, though there is electron density deep in the channel corresponding to eight to nine methylene groups of the hydrocarbon tail. The palmitoyl group has been shown to contribute to the stability of Bet3p (Kummel et al., 2006a). Mutational analysis suggests, however, that neither the palmitoyl group (Kim et al., 2005a and Turnbull et al., 2005) nor the hydrophobic channel (Figure S2) are essential for TRAPP function.
+
+Ypt1p Interactions with TRAPPI
+The Ypt1p binding site is on the acidic surface of the TRAPPI subassembly. The interface is formed primarily by the Trs23p subunit with smaller contributions from the two copies of Bet3p and Bet5p (see Figures 1A and 1B). The total accessible surface buried in the interface between Ypt1p and TRAPPI is 2990 Å2. Accessible surfaces buried in the interfaces with Trs23p, Bet3p-A, Bet3p-B, and Bet5p measure ∼1870, ∼650, ∼250, and ∼250 Å2, respectively. There is no direct interaction between Ypt1p and Trs31p. TRAPPI interacts (Figure 2) primarily with residues in the central β sheet of Ypt1p (in strands S1, S2, and S3), the switch I and II regions (residues 31–45 and 64–78), and the phosphate-binding loop, or P loop (residues 15–23). Switches I and II are those regions in the nucleotide-binding pocket that adopt different conformations in the active and inactive forms of Ypt1p, and the P loop is important in binding the β- and γ-phosphates of nucleotides.
+
+Full-size image (67 K)
+Figure 2. 
+The Ypt1p/TRAPPI Interface
+(Top) The complex is shown with Ypt1p in purple, except for switches I and II (orange) and the P loop (yellow). The TRAPPI complex is white, except for the C terminus of Bet3p-A (green).
+(Bottom) Ypt1p has been pulled away from the TRAPPI surface and rotated by 180° about a vertical axis. Cα positions of residues within 4 Å of the interface are labeled and colored.
+Figure options
+Structures are available for Ypt1p in complex with the nonhydrolysable GTP analog guanosine-5′ (β,γ) imidotriphosphate (GppNHP) (PDB ID 1YZN; Eathiraj et al., 2005) and its mammalian homolog Rab1a bound to GDP (PDB ID 2FOL). Rab1a is nearly identical to Ypt1p over most of its sequence. In the Ypt1p/TRAPPI complex, the Ypt1p N terminus (residues 4–10, where 7–10 are in β strand S1) contacts Trs23p and has shifted with respect to nucleotide-bound forms (Figure 2 and Figure 3). Small shifts in adjacent structural elements, the loop between strands S2 and S3 (residues 53–54), as well as the C terminus (residues 150–174, including H5) accompany the change in the N terminus.
+
+Full-size image (68 K)
+Figure 3. 
+The Mechanism for Nucleotide Exchange
+Comparison of the nucleotide-free form of Ypt1p in the Ypt1p/TRAPPI complex with (A) GDP-bound Rab1a (PDB ID 2FOL) and (B) GppNHp-bound Ypt1p (1YZN). The nucleotide-free form of Ypt1p is purple, except for the switch regions and the P loop (lavender). The C terminus of Bet3p-A, including the E192 and D193 side chains, is green. Nucleotide-bound forms of Ypt1p/Rab1a are white, including the Y33 side chain. Nucleotide is gray, and the magnesium cation is blue.
+(C) GDP dissociates from the Ypt1p (Y33A) mutant approximately ten times faster than from WT Ypt1p. Time course of [3H]-GDP dissociation from 400 nM Ypt1p (black) and Ypt1p(Y33A) (green) is shown; it was measured by a filter-binding assay described in the Supplemental Data. The solid line through the data is the best fit to a single exponential yielding the GDP dissociation rate constant (k−GDP) of 1.21 ± 0.22 × 10−4 s-1 for Ypt1p and 16.3 ± 0.6 × 10−4 for Ypt1p(Y33A). The inset shows the same data over a shorter time interval.
+(D) GDP associates with Ypt1p and Ypt1p(Y33A) at similar rates. MantGDP binding to nucleotide-free Ypt1p or Ypt1p(Y33A) was continuously monitored by fluorescence (Figure S6A). The concentration dependence of kobs for Ypt1p (black) and Ypt1p(Y33A) (green) is shown. The second-order association rate constants for GDP binding (k+GDP) determined from the slopes of the best fits to the data over this range are 0.05 ± 0.01 μM−1 s−1 for Ypt1p and 0.07 ± 0.01 μM−1 s−1 for Ypt1p(Y33A).
+Figure options
+The most dramatic changes in Ypt1p, however, are in the nucleotide-binding pocket. Residues 150–155 in a loop at the Ypt1p C terminus form part of this pocket. In the Ypt1p/TRAPPI complex, they are shifted into the pocket close to the position occupied by the guanosine base in nucleotide-bound structures. The Ala152 Cβ would be within 2 Å of atoms in the guanosine base, in a position incompatible with nucleotide binding.
+
+The nucleotide-binding pocket is further perturbed by the insertion of the Bet3p-A C terminus, which would clash sterically (particularly at residues 189–193) with switch I as oriented in nucleotide-bound forms of Ypt1p/Rab1a (Figures 3A and 3B). The switch I region (residues 27–45) of Ypt1p is rearranged relative to its nucleotide-bound conformations (Figures 3A and 3B), opening up the nucleotide-binding pocket. In their new conformation, switch I residues 37–45 contact the Bet3-A C terminus as well as residues in helix H1 of Bet5p and helix H1 of Trs23p (Figure 2). Residues 32–36 in the middle of switch I are not well ordered in the complex structure. In the nucleotide-bound form, the highly conserved Tyr33 from this sequence contacts the guanine base via an edge-to-face aromatic interaction (Eathiraj et al., 2005; PDB IDs 1YZN, 2FOL). Mutating this residue to alanine (Y33A) accelerates GDP release by ∼10-fold (Figure 3C) while not affecting nucleotide uptake (Figure 3D), thereby lowering Ypt1p affinity for GDP by an order of magnitude. Thus, the perturbation of Tyr33 during switch I reorganization would similarly be expected to weaken the affinity for GDP in the TRAPPI-bound form of Ypt1p and accelerate GDP release by roughly an order of magnitude.
+
+The switch II region of the nucleotide-binding pocket also alters its conformation in the Ypt1p/TRAPPI complex. Switch II residues are disordered in the Rab1a/GDP structure (PDB ID 2FOL), and their conformation differs in the active and TRAPPI-bound forms of Ypt1p (Figures 3A and 3B). In the Ypt1p/TRAPPI complex, switch II is folded against a surface formed by helices H1 of Trs23p, H1 of Bet5p, and residues near the C terminus of Bet3p-B of TRAPPI. This interaction drives the formation of a helix (H2; Figures 2, 3A, and 3B) and moves switch II residues out of the nucleotide-binding pocket as compared with their position in activated Ypt1p. We will discuss the implications of switch II folding below.
+
+The conformation of the P loop in TRAPPI-bound Ypt1p is similar to that of nucleotide-bound forms of Ypt1p and Rab1a. In the Ypt1p/TRAPPI complex, the loop is stabilized in part by a hydrogen-bonding interaction between the P loop residue Lys21 and Glu192 in the Bet3p-A C terminus (Figures 3A and 3B). As modeled, this glutamate side chain (including Cβ and Cγ as well as the carboxylate group) would be within 1.6 Å of the nucleotide phosphates in the nucleotide-bound forms of Ypt1/Rab1a, in a position incompatible with nucleotide binding. However, the sequence identity of residue 192 is not critical for nucleotide exchange, as the E192A/D193A double mutation in the Bet3p C terminus has only a small effect on GEF efficiency (Table 1 and Figure 4A).
+
+Table 1.
+Activation of Ypt1p by TRAPPI and TRAPPI Mutants
+Construct	Color in Figure 4D	[TRAPPI] (μM)	k-GDP,obs (s−1) a	Relative Rate Increaseb	“kcat/KM” c (μM−1 s−1)	Growth Phenotyped
+No TRAPPI		0	1.21 × 10−4 ± 0.22 × 10−4	1	N.A.	N.A.
+TRAPPI, WT		3.5	>0.07	>400	0.016 ± 0.001	+
+TRAPPI Bet3p (E192A/D193A)	green	10	>0.03	>400	0.003 ± 0.001	N.A.
+TRAPPI Bet3p truncation (1–185 only)		18	7.43 × 10−4 ± 0.98 × 10−4	6	<0.0001	+
+TRAPPI Bet3p truncation (1–188 only)		24	7.03 × 10−4 ± 1.93 × 10−4	6	<0.0001	+
+TRAPPI Bet3p truncation (1–191 only)		15	1.22 × 10−3 ± 0.19 × 10−4	10	<0.0001	N.A.
+TRAPPI Bet5p (G46W/S50K)	cyan	28	1.14 × 10−4 ± 0.33 × 10−4	1	<0.0001	−
+TRAPPI Trs23p (H41A/G42M/A45W/I46R)	indigo	30	2.03 × 10−4 ± 0.29 × 10−4	2	<0.0001	+
+TRAPPI Trs23p (M200A/P201W/R203S)	purple	26	1.30 × 10−4 ± 0.24 × 10−4	1	<0.0001	−
+TRAPPI Trs23p (S38R)	yellow	35	1.16 × 10−4 ± 0.084 × 10−4	1	<0.0001	−
+TRAPPI Trs23p (S12K/G14M/L34K)	orange	28	7.2 × 10−5 ± 9.6 × 10−6	1	<0.0001	−
+a
+Observed GDP dissociation rate constant.
+b
+Relative to Ypt1p in the absence of TRAPPI.
+c
+Catalytic efficiency, taken as initial slope of TRAPPI concentration dependence on exchange rate k-GDP,obs at subsaturating TRAPPI concentration (see Delprato et al., 2004).
+d
++/− indicates viability/inviability; N.A. means “not available/applicable.”
+Table options
+Full-size image (110 K)
+Figure 4. 
+Kinetic and Mutational Analysis of TRAPPI
+Data in (A) and (B) were used in calculating “kcat/KM” and k−GDP,obs values reported in Table 1.
+(A) MantGDP dissociation from Ypt1p (250 nM) in the presence of TRAPPI (Bet3p, Bet5p, Trs20p, Trs23p, and Trs31p) and TRAPPI mutants was continuously monitored by fluorescence (λex = 280 nm, λem = 435 nm; Figure S6C). TRAPPI (red) and Bet3p (E192A/D193A) mutant (blue) concentration dependence of the observed GDP dissociation rate constant (k-mGDP,obs) is shown. The solid lines are best fits of the data to linear functions, yielding the catalytic efficiencies (apparent kcat/KM) from the slopes.
+(B) Other mutants had only residual GEF activities. Time courses of [3H]-GDP dissociation from 400 nM Ypt1p in the absence (black) or presence (blue) of the indicated TRAPPI mutant are shown; Table 1 lists TRAPPI concentrations. Solid lines are the best fits to single exponentials yielding the observed GDP dissociation rate constant (k-GDP,obs).
+(C) Yeast cells harboring mutations in bet5 and trs23, which reduce GEF activity in vitro, were grown at 25°C on 5-FOA plates. All these mutants were inviable, except for trs23 (H41A/G42M/A45W/I46R), which also grows at 37°C (data not shown). Yeast cells harboring C-terminal truncations in bet3, which reduce GEF activity in vitro, were grown at 25°C and 37°C on YPD plates. The 37°C plate is shown. The bet3 truncation mutants were viable.
+(D) TRAPPI oriented as in Figure 1A on the left. Residues that were mutated are indicated. Green, residues 192–193 in Bet30p; cyan, 46, 50 in Bet5p; orange, 12, 14, 34 in Trs23p; purple, 200–201, 203 in Trs23p; yellow, 38 in Trs23p; indigo, 41–42, 45–46 in Trs23p.
+(E) TRAPPI-bound Ypt1p associates with GTP ∼30 times faster than Ypt1p alone. MantGTP binding to nucleotide-free Ypt1p or Ypt1p/TRAPPI complex was monitored by fluorescence (Figure S6B). MantGTP concentration dependence of kobs for Ypt1p (black) and Ypt1p/TRAPPI complex (red) is shown. The second-order association rate constants for mantGTP binding (k+GTP) determined from the slopes of the best fits of the data are 0.10 ± 0.01 μM−1 s−1 for Ypt1p and 3.2 ± 0.1 μM−1 s−1 for Ypt1p/TRAPPI.
+Figure options
+TRAPPI Mutants with Impaired GEF Activity
+Our structural studies suggest that the Bet3p-A C terminus, which is inserted into the Ypt1p nucleotide-binding site, may play an important role in guanine nucleotide exchange. The C terminus may be important for initiating the conformational changes in switch I that help to catalyze nucleotide exchange. Additionally, contacts with the Bet3p C terminus seen in the structure (Figure 2) may be important for stabilizing switch I in its new conformation. To assess the importance of the Bet3p C terminus for exchange, we prepared TRAPPI subassemblies that incorporate C-terminally truncated versions of Bet3p. Constructs of Bet3p that contained 185, 188, or 191 residues of the 193 amino acid sequence catalyzed nucleotide exchange at least 150-fold less efficiently than the TRAPPI complex with full-length Bet3p (Table 1 and Figures 4A and 4B), consistent with a critical role for the entire Bet3p C terminus in the exchange mechanism.
+
+Mutations in other TRAPPI surfaces at the Ypt1p interface would also be expected to affect Ypt1p recognition and possibly nucleotide exchange. Indeed, we were able to entirely, or almost entirely, eliminate TRAPPI GEF activity by mutating surface patches on any one of three different subunits: Bet3p, Bet5p, or Trs23p (Table 1 and Figures 4B and 4D). We found that mutations in the Trs23p surface that interacts with strand S1 in the Ypt1p N terminus (S12K/G14M/L34k and M200A/P201W/R203S) abrogate GEF activity entirely (Table 1 and Figure 4B). Similarly, mutations designed to interfere with a switch I interaction, a double mutation in Bet5p (G46W/S50K), or a point mutation in Trs23p (S38R) completely inactivated TRAPPI (Table 1 and Figure 4B). Finally, a quadruple mutation in Trs23p (H41A/G42M/A45W/I46R) at the switch II binding surface of TRAPPI reduced the catalytic efficiency to residual levels (Table 1 and Figure 4B).
+
+In addition to assessing the consequences of each of these mutations in vitro, we also examined their effect on viability in yeast. Two different methods were used to construct the mutants. The C-terminal truncations of Bet3p were constructed using the method of Longtine et al. (1998). For the other mutations, a mutant copy of each gene was constructed by site-directed mutagenesis on a CEN plasmid (LEU2) and then transformed into a strain in which the sole copy of the wild-type gene was on a CEN balancing plasmid (URA3). The balancing plasmid with the wild-type gene was subsequently lost on a 5-fluoroorotic acid (5-FOA) plate, allowing us to evaluate the effect of the mutation on growth. We found that TRAPP mutants lacking all GEF activity in vitro were inviable ( Table 1 and Figure 4C). However, mutants with residual in vitro activity grew as well as wild-type at 25°C or 37°C and did not display defects in invertase secretion ( Table 1 and Figures 4C and S3). A likely explanation for this apparent anomaly is that TRAPPI may act more effectively in the cell than in vitro. Soluble TRAPPI and Ypt1p were used in vitro, whereas in cells, Ypt1p is anchored to a membrane via its prenylated C terminus, and exchange occurs at the membrane. Thus, the effect of certain mutations may be less pronounced in vivo than in vitro.
+
+Mechanism for Ypt1p Activation
+Biochemical solution studies of nucleotide binding and exchange reveal the kinetic basis of Ypt1p activation by TRAPPI. TRAPPI accelerates the dissociation of Ypt1p-bound GDP (k-GDP) >400-fold ( Table 1 and Figure 4A). The initial velocities of TRAPPI-dependent nucleotide exchange ( Table 1 and Figure 4A) yield apparent second-order rate constants for TRAPPI activation of nucleotide exchange from Ypt1p (equivalent to the enzymatic kcat/Km) and serve as a practical reference with which to assess the catalytic efficiency of a GEF ( Itzen et al., 2007). The catalytic efficiency of TRAPPI, .016 ± .001 μM−1s−1, is intermediate between two other characterized Rab GEFs, Vps9 and Sec2p ( Esters et al., 2001 and Itzen et al., 2007). In addition, TRAPPI accelerates GTP binding to Ypt1p (k+GTP) ∼30-fold ( Figure 4E), more than has been observed for other Rab GEFs ( Esters et al., 2001 and Itzen et al., 2007) but comparable to non-Rab GEFs ( Klebe et al., 1995). The acceleration of nucleotide dissociation and binding serves as a framework for formulating structure-based models of TRAPPI-mediated nucleotide exchange from Ypt1p.
+
+The structure and kinetic analysis of TRAPPI mutants (Table 1 and Figure 4) suggest an important role for the Bet3p-A C terminus in the guanine nucleotide-exchange mechanism. In the structure, which represents an intermediate in exchange following release of bound nucleotide, the Bet3p-A C terminus invades the GTPase nucleotide-binding pocket. We propose that the Bet3p-A C terminus functions in the remodeling of switch I that promotes the release of bound nucleotide. Conformational changes in switch I open the nucleotide-binding pocket and, in effect, uncage bound nucleotide to facilitate GDP release. Additionally, switch I remodeling removes Tyr33, which stabilizes bound nucleotide (Eathiraj et al., 2005), from the binding site. This likely also plays a role in accelerating GDP release. Based on our kinetic analysis of the Ypt1p Y33A mutant, however, we would expect at most a 10-fold increase in GDP release with loss of the Tyr33 contact. The >400-fold acceleration in GDP release effected by TRAPPI must also result from other factors, such as the opening of the nucleotide-binding pocket discussed above. The Tyr33 perturbation does, however, help to explain the lower affinity of the TRAPPI-bound form of Ypt1p for GDP, which is an order of magnitude weaker than that of Ypt1p (unpublished data). The shift of the Ypt1p 150 s loop (residues 150–155) into a site close to that normally occupied by the guanosine base, which is induced by interactions with TRAPPI, may also weaken the affinity of Ypt1p for nucleotide. The final step of the nucleotide exchange reaction involves GTP uptake, which is accelerated by TRAPPI (Figure 4E). Holding switch I in an open conformation, which makes the pocket more solvent accessible, likely accounts at least partly for this acceleration. The folding of switch II, which adopts similar conformations in the Ypt1p/TRAPPI complex and the GTP-bound form of Ypt1p (Figures 3A and 3B), would also contribute to faster GTP association with the TRAPPI-bound form of the GTPase. Elements of TRAPP, particularly the Bet3p-A C terminus, occupy a part of the nucleotide-binding pocket in the complex with Ypt1p. Any decrease in the rate of GTP binding that results from the need for these elements to exit the binding site must be more than compensated for by the favorable conformations of switches I and II.
+
+All known GEFs reconfigure the nucleotide-binding pocket, often opening it by rearranging the switch regions (reviewed in Bos et al., 2007). Many GEFs facilitate this rearrangement by inserting a protein “wedge” into either the magnesium or the nucleotide-binding site (Bos et al., 2007). With TRAPPI, the C-terminal end of Bet3p-A may be functionally equivalent to a wedge, though it differs mechanistically in that it is not a rigid structural element and may be poorly ordered in the absence of Ypt1p. TRAPPI is similar to GEFs for Ras and several of the Rab GTPases (Boriack-Sjodin et al., 1998, Delprato and Lambright, 2007, Dong et al., 2007 and Sato et al., 2007) in that the guanine nucleotide-exchange mechanism involves the displacement of a conserved aromatic residue required for nucleotide stabilization. In Ypt1p, this aromatic side chain is Tyr33.
+
+TRAPPI differs most strikingly from other GEFs in that its exchange activity is linked to the assembly of a multimeric subcomplex. Our structure delineates a role for each of the subcomplex proteins in nucleotide exchange. TRAPPI provides a surface against which regions of Ypt1p are reorganized into their nucleotide-free conformation. Most of this surface is formed by the Trs23p subunit, but smaller contributions from Bet3p (A and B) and Bet5p are also important (Figure 2). Indeed, we have shown that mutations in the surfaces of any of the three proteins can interfere with TRAPPI GEF activity (Table 1 and Figure 4). Additionally, Bet5p has a major structural role both as a linker between Trs23p and Bet3p-A and in directing the Bet3p-A C-terminal residues toward the Ypt1p nucleotide-binding pocket. The C terminus of Bet3p-A, which perturbs the nucleotide-binding pocket in the Ypt1p/TRAPP complex, enhances the efficiency of guanosine nucleotide exchange.
+
+Trs31p does not interact directly with Ypt1p, and yet a TRAPPI subcomplex lacking Trs31p does not activate Ypt1p (Kim et al., 2006). Comparison of our structure with those of the vertebrate complexes Trs20/Bet3-B/Trs31 and Trs23/Bet5/Bet3-A/Trs33 (PDB IDs 2J3W, 2J3T; Kim et al., 2006), neither of which has GEF activity (Kim et al., 2006 and Cai et al., 2007b), suggests that Trs31p promotes GEF activity by affecting the conformation of Trs23p at the Ypt1p-binding interface. Bet3p-B/Trs31p and Trs23p/Bet5p/Bet3p-A subcomplexes from yeast and vertebrates superimpose well (rmsd values of just 1.8 Å on 317 equivalent Cα positions and 2.4 Å on 414 equivalent Cα positions, respectively). However, the structures differ significantly at the three-way interface between Trs23p, Trs31p, and Bet3p-B (Figure 5). The formation of this TRAPPI interface, which is not present in either of the vertebrate complex structures, causes complementary shifts in elements of Trs31p and Trs23p. In particular, the connecting loop between strand S2 and helix H4 of Trs31p moves toward Trs23p, and helices H2 and H3 of Trs23p with their connecting loop shift by up to 12 Å to accommodate the new position of the Trs31p loop. The shifted connecting loop in Trs23p interacts with Ypt1p (strand S1) in the Ypt1p/TRAPPI complex (see Figure 2), and this interaction is important for GEF activity because mutations in the loop (M200A/P201W/R203S) abolish GEF function (Table 1 and Figure 4B). Thus, binding of the GTPase may depend on conformational changes resulting from the formation of the Trs23p/Trs31p/Bet3p-B interface. Alternatively, the formation of the three-way interface may stabilize conformational changes that only occur upon Ypt1p binding. The importance of the Trs23p/Trs31p/Bet3p-B interface for GEF activity is supported by the finding that a double mutation in Trs23p (T136E/Y183D) at this interface abolishes TRAPPI activation of Ypt1p (Kim et al., 2006).
+
+Full-size image (78 K)
+Figure 5. 
+Model of the TRAPPI Complex
+(A) Superposition of the yeast subcomplex containing Trs31p/Bet3p-B/Trs23p/Bet5p/Bet3p-A with /Trs31/Bet3-B (yellow, PDB ID 2J3W) and Trs23/Bet5/Bet3-A/Trs33 (white, 2J3T) complexes from vertebrates. A PDZ-like domain is present only in mammalian Trs23. Yeast proteins are colored as in Figures 1A and 1C, and the complex is oriented as in Figures 1A–1C, left. The largest deviations between the yeast and vertebrate assemblies are at the three-way interface between Trs23p, Trs31p, and Bet3p-B (arrow).
+(B) Model for the mammalian TRAPP core as it tethers two COPII-coated vesicles via interactions between Bet3 subunits of TRAPP and Sec23 of the COPII coat. The two copies of Bet3 and the two vesicles are related by the same 2-fold rotation about an axis perpendicular to the plane of the page. Equivalent surface patches on Bet3-A and Bet3-B are accessible to both vesicles only if TRAPP is oriented as shown. The C-terminal residues (175–206) absent from Ypt1p (purple) in our structure could span the ∼40 Å to the membrane. Ypt1p/Rab1a becomes anchored in the membrane by its prenylated C terminus.
+Figure options
+In summary, Bet3p, Bet5p, and Trs23p are essential for Ypt1p binding, with the C terminus of Bet3p-A playing a critical catalytic role in the exchange mechanism. Bet5p is necessary for the assembly of the GEF core; and Trs31p, and likely Bet3p-B, appears to function allosterically by affecting the conformation of Trs23p.
+
+TRAPPII Is Also a Ypt1p Exchange Factor
+To date, ten different TRAPP subunits have been identified (Sacher et al., 2000). TRAPPI and TRAPPII share seven of these subunits, while three subunits (Trs65p, Trs120p, and Trs130p) are unique to the larger TRAPPII complex (Sacher et al., 2001). The observation that TRAPPII contains all of the subunits that are essential for Ypt1p activation prompted us to determine whether TRAPPII is also a Ypt1p GEF. To isolate fully assembled TRAPPI and TRAPPII complexes, we used a yeast strain in which Protein A-tagged Bet3p replaced the endogenous protein. The tag we used has no appreciable effect on the assembly of the TRAPP complexes (Cai et al., 2005) or on Ypt1p activation (Wang et al., 2000). Lysate prepared from this strain was sieved on a Superdex-200 column to separate TRAPPI and TRAPPII, as described previously (Sacher et al., 2001). Fractions containing either complex were then incubated with IgG Sepharose beads and washed. An analysis of the subunits present showed that both Trs33p and Trs130p were on the TRAPPII-containing beads, while TRAPPI-coated beads contained only Trs33p (data not shown). We found that TRAPPII potently stimulates nucleotide exchange on Ypt1p (Figure 6A). Furthermore, when we normalized guanine nucleotide exchange activity to the amount of Trs33p present in each fraction, TRAPPII and TRAPPI had comparable activity (Figure 6A). As would be expected for a Ypt1p GEF, TRAPPII binds to both nucleotide-bound forms of the GTPase and preferentially to the GDP-bound form (Figure 6B). Our results differ from earlier studies that suggested that TRAPPII is not an exchange factor for Ypt1p (Morozova et al., 2006). In that study, TRAPP complexes were isolated from a strain overexpressing GST-tagged Bet5p, and one explanation is that the GST tag on Bet5p may have interfered with Ypt1p activation.
+
+Full-size image (24 K)
+Figure 6. 
+Yeast TRAPPII Potently Stimulates the GEF Activity of Ypt1p but Not Ypt31p or Ypt32p
+(A) Protein A-tagged TRAPPI and TRAPPII were prepared as described in the Supplemental Data. The GEF activity on Ypt1p, stimulated by TRAPPI and TRAPPII, was normalized to Trs33p. The assay is described in the Supplemental Data. The data shown were obtained from four separate experiments. Error bars are SEM.
+(B) Equivalent amounts of recombinant GST, GST-Ypt1p-GDP, and GST-Ypt1p-GTP were loaded with nucleotide as described in Supplemental Data, incubated with yeast lysate as before (Wang et al., 2000), and blotted for the TRAPPII-specific subunit Trs130p.
+(C) The TRAPPII complex, isolated as described above, was assayed for its ability to stimulate nucleotide exchange on Ypt31p and (D) Ypt32p. For comparison, an equivalent amount of TRAPPII was assayed for its ability to activate Ypt1p. The amount of TRAPPII assayed in (C) and (D) was not equivalent. Error bars are SEM.
+Figure options
+The same study suggested that the addition of TRAPPII-specific subunits converts TRAPPI into a GEF for Ypt31p and its functionally redundant homolog Ypt32p (Morozova et al., 2006; also Jones et al., 2000), but we have been unable to repeat these results with our TRAPPII preparations (Figures 6C and 6D). We have also found that a mixture of TRAPP complexes, isolated using TAP-tagged Trs33p, did not activate Ypt32p efficiently (Wang and Ferro-Novick, 2002). The result that TRAPPII does not efficiently stimulate exchange for Ypt31p/Ypt32p is consistent with a previous report showing that depletion of TRAPPI and TRAPPII from yeast lysates eliminates Ypt1p GEF activity without affecting GEF activity on Ypt32p (Wang and Ferro-Novick, 2002). Also consistent with the finding that TRAPPII is not a GEF for Ypt31p/Ypt32p, we are unable to detect an interaction between TRAPPII and Ypt31p-GDP in vitro (data not shown). Thus, we conclude that TRAPPII is an exchange factor for Ypt1p and unlikely to be the exchange factor for Ypt31p/Ypt32p in vivo.
+
+In addition to acting in ER-Golgi traffic, Ypt1p also functions at the late Golgi (A.S. and S.F.-N., unpublished data; Cai et al., 2007a). In this respect, it differs from its mammalian homolog Rab1, which only mediates membrane transport between the ER and Golgi (Moyer et al., 2001). Our data indicate that TRAPPII is the Ypt1p GEF that functions at the late Golgi. Importantly, the finding that TRAPPII is a Ypt1p GEF implies that the Ypt1p-binding site that we identified for TRAPPI remains accessible in TRAPPII. We conclude that TRAPPI and TRAPPII almost certainly activate Ypt1p by an identical mechanism.
+
+TRAPP Tethering
+The superposition, described here, of the two vertebrate subcomplexes Trs20/Bet3-B/Trs31 and Bet3-A/Bet5/Bet3-A/Trs23/Trs33 with yeast Bet3p-A/Bet5p/Trs23p/Bet3p-B/Trs31p gives a model of the intact TRAPPI complex (Figure 5A). In the larger assembly, Trs20 interacts with Bet3-B/Trs31 and Trs33 interacts with Bet3-A/Bet5. The model is in agreement with a model proposed on the basis of the vertebrate subcomplexes and an ∼30 Å single particle reconstruction of yeast TRAPPI (Kim et al., 2006).
+
+The symmetry of TRAPPI suggests a mechanism by which this complex mediates vesicle tethering. It is known that Bet3p interacts with the Sec23p subunit of the COPII vesicle coat (Cai et al., 2007b). In mammals, it has been demonstrated that the TRAPP complex mediates homotypic tethering between two COPII-coated vesicles (Yu et al., 2006). We therefore speculate that TRAPP interacts similarly with both vesicles via the two copies of Bet3 (see also Cai et al., 2007b) located at either end of the core complex as shown in Figure 5B. Bet3-A and Bet3-B would interact with the COPII subunit Sec23 using the same surfaces because of symmetry present in the TRAPP complex. Equivalent surfaces on Bet3-A and Bet3-B are accessible to both vesicles only if TRAPP is oriented as shown, because in any other orientation, binding by only one vesicle would block access to both of the equivalent Bet3 surfaces. In yeast, the architecture of the secretory pathway differs, and TRAPPI mediates heterotypic tethering of a COPII vesicle with the Golgi. Thus, in yeast cells, TRAPPI must have the ability to bind a Golgi receptor as well as Sec23p, but we speculate that the arrangement of the tethering complex with respect to membranes is similar to that of homotypic fusion. This model is consistent with a scenario in which TRAPPI first tethers the secretory vesicle to the Golgi membrane and then, with the Ypt1p-binding site still accessible, binds and activates the Rab protein. Our model differs from one previously proposed (Kim et al., 2006), which would predict that in homotypic fusion, vesicles would interact with TRAPP in two different ways. (Mutational studies presented in Figure S4 show that data previously cited to support this other model are incorrect.)
+
+Our recent observation that Ypt1p regulates both ER-Golgi transport and traffic between the early endosome and late Golgi (A.S. and S.F.-N., unpublished data) implies that Ypt1p is activated by one or more GEFs at distinct membrane-trafficking events. Accordingly, we have shown that TRAPPI, which functions in ER-Golgi traffic, and TRAPPII, which mediates trafficking events within the Golgi and at the late Golgi (Cai et al., 2005), both activate Ypt1p. Presumably, TRAPPI and TRAPPII activate Ypt1p by the same mechanism using subunits shared by both complexes. The TRAPP complexes also function as tethers, however, that tether different membranes. TRAPPI, but not TRAPPII, binds to COPII-coated vesicles in vitro (Sacher et al., 2001), whereas TRAPPII has been implicated in tethering COPI-coated vesicles (Cai et al., 2005). Thus, the addition of TRAPPII-specific subunits (Trs65p, Trs120p, and Trs130p) must convert TRAPPI from a tether that mediates interactions between the COPII coat and early Golgi to one that functions in recognition between the COPI coat and late Golgi. Such a conversion implies that the TRAPPII-specific subunits not only mediate these new interactions but also mask binding sites on TRAPPI that would allow for interactions with the COPII coat and early Golgi.
+
+Concluding Remarks
+A formidable obstacle in understanding membrane traffic has been the limited knowledge regarding the interactions between the many proteins that coordinate these events. In this work, we have visualized the five proteins of the GEF core of TRAPP as they cooperate to activate Ypt1p. We propose that interactions with four proteins (Bet3p-A, Bet3p-B, Bet5p, and Trs23) in the complex stabilize Ypt1p in an open conformation facilitating nucleotide exchange. The Trs31p subunit does not interact directly with Ypt1p but regulates the conformation of Trs23p at the Ypt1p interaction surface.
+
+Experimental Procedures
+Cloning Strategies and Protocols Used for Constructing the bet3, bet5, and trs23 Mutants
+Details are in the Supplemental Data.
+
+Overexpression and Purification
+We prepared several TRAPPI subcomplexes. We were able to obtain crystals only with a complex containing Bet3p, Bet5p, Trs23p, and Trs31p but not additional TRAPPI subunits (Trs20p and/or Trs33p). We used a larger complex that additionally contained Trs20p for guanosine nucleotide-exchange assays. This second complex contains all essential TRAPPI subunits and was reported to be indistinguishable from intact TRAPPI, as monitored by GDP release and GTP uptake assays (Kim et al., 2006 and Cai et al., 2007b).
+
+For overexpression of TRAPPI subcomplexes, three Duet plasmids harboring genes for BET3, BET5, TRS23, TRS31, and optionally TRS20 were cotransformed into E. coli BL21(DE3) cells by electroporation. When the cells reached an OD600 of ∼0.6–0.8, they were shifted to 25°C, and protein expression was induced with 0.5 mM IPTG. Cells were harvested 18 hr after induction. Selenomethionine-substituted protein was produced similarly, according to established protocols ( Doublie, 1997). TRAPPI subcomplex was purified by Ni-NTA chromatography (QIAGEN). Complexes used in guanine nucleotide-exchange assays were further purified by gel filtration on a Superdex-200 column (GE Healthcare) to remove the Bet3p/Trs31p heterodimer. The gel filtration buffer (A) contains 10 mM Tris (pH 8.0), 300 mM NaCl, and 1 mM DTT. Complexes used in crystallization were treated with TEV to remove the Trs31p hexahistidine tag.
+
+His6-Ypt1p was also overexpressed in E. coli BL21(DE3) cells at 25°C, as was the selenomethionine-substituted Ypt1p, and purified using Ni-NTA resin (QIAGEN).
+
+To prepare the His6-Ypt1p/TRAPPI complex for crystallization, a TRAPPI complex consisting of Bet3p, Bet5p, Trs23p, and Trs31p was incubated at room temperature overnight with a molar excess of His6-Ypt1p (residues 1–180) and 20 mM EDTA. EDTA strips magnesium and nucleotides from Ypt1p, thereby facilitating the formation of the Ypt1p/TRAPPI complex. Similar protocols have been used in purifying a number of other GTPase/GEF complexes (see Goldberg, 1998 and Renault et al., 2001; or Delprato and Lambright, 2007), and the EDTA treatment does not inactivate Ypt1p (Figures 4A and 4E; Esters et al., 2001). The protein mixture was loaded onto a Superdex-200 column (GE Healthcare, in buffer A with 10 mM DTT) to separate the Ypt1p/TRAPPI complex from uncomplexed Ypt1p, excess Bet3p/Trs31p heterodimer, and TEV protease. Ni-NTA resin was used to separate His6-Ypt1p/TRAPPI from TRAPPI. Protein was exchanged into buffer A and concentrated to ∼20 mg/ml.
+
+Crystallization
+Crystals of the selenomethionine-substituted Ypt1p/TRAPPI complex were grown at 22°C by the hanging-drop vapor diffusion method. Drops consisted of 1.5 μl each of protein solution and reservoir solution (100 mM MES [pH 6.5], 3%–5% [w/v] PEG 20,000, 3% [w/v] sorbitol, and 5 mM DTT). Crystals were crosslinked with glutaraldehyde (Heras and Martin, 2005) and then transferred through a solution of mother liquor augmented to contain 20% glycerol (v/v), mounted in nylon loops, and flash-frozen in liquid nitrogen (Rodgers, 2001). Data were collected at beamline 24-ID-C at the Advanced Photon Source, Argonne National Laboratory and processed with HKL2000 (Otwinowski and Minor, 1997). Crystals belong to space group P21 (a = 115.1, b = 115.4, c = 290.1 Å, β = 90.3°) and diffract to 3.7 Å. They show no evidence of twinning.
+
+Data Collection and Structure Determination
+For phasing, data sets were collected at the selenium edge and at a remote wavelength. To locate the selenium positions, we initially worked in a higher symmetry space group, P41212, a strategy allowed by pseudosymmetry in the crystal lattice. Once the selenium positions had been located using SHELXD (Schneider and Sheldrick, 2002), we worked in the P21 space group. One hundred selenium sites were used in calculating phases. The selenium positions were refined and initial density-modified phases calculated using SHARP (de La Fortelle and Bricogne, 1997). There are four copies of each Ypt1p/TRAPPI complex in the asymmetric unit. The four copies were averaged using the RAVE suite of programs (Kleywegt et al., 2001) in conjunction with CCP4 (Collaborative Computational Project, 1994) for improved maps. Electron density maps used for model building were sharpened, with B-factors ranging between −55 and −100 Å2 (Figure S5). In building the model, we were guided by the selenium positions, as well as by structures available for vertebrate subunits of TRAPP and for nucleotide-bound forms of Ypt1p/Rab1a. Neither the Bet3p C termini nor the palmitoylate groups in the Bet3p-A channels were modeled initially, and they were added only during refinement. The final model includes residues 6–193 and 8–193 of Bet3p-A and Bet3p-B; 1–21 and 35–156 of Bet5p; 2–55, 67–75, 104–148, and 169–219 of Trs23p; and 55–103 and 165–282 of Trs31p. For Ypt1p, residues 4–31 and 37–174 were modeled.
+
+The initial model was built with O (Kleywegt and Jones, 1997). The structure was refined by iterative cycles of manual refitting, torsion angle dynamics, and B-factor refinement in CNS (Brunger et al., 1998). Phi/psi restraints were placed on helical regions, and the four complexes in the asymmetric unit were restrained to be similar. Composite omit maps were a valuable tool in rebuilding, though high temperatures (4000 K) were necessary during the torsion angle dynamics in order to remove phase bias. One round of averaging was applied to the omit maps, and the averaged map was consulted for rebuilding. The density for the Bet3p C termini and the Bet3p-B palmitoylate groups is clear in all composite omit maps (see Figure S1). Final refinement statistics are shown in Table S1.
+
+Figures were prepared using the programs Ribbons (Carson, 1997) or Grasp (Nicholls, 1993).
+
+Transient Kinetic Analysis
+Kinetic analysis of nucleotide binding and dissociation was done following established procedures (Hannemann et al., 2005) and is described in the Supplemental Data. Briefly, nucleotide binding to Ypt1p was measured from the fluorescence enhancement associated with Forster resonance energy transfer from Ypt1p tryptophan residues to bound mant- (N-methylanthraniloyl-) nucleotide (Invitrogen) after rapid mixing under pseudo-first-order conditions ([nucleotide] > > [Ypt1p] or [Ypt1p/TRAPPI]). GDP exchange from Ypt1p is limited by dissociation of bound GDP and was measured by quantitation of tritiated GDP using a filter-based binding assay (Wang et al., 2000) and/or from the fluorescence of mantGDP.
+
+Nucleotide Exchange Assays and In Vitro Binding with TRAPPII
+Details are in the Supplemental Data.
+
+Acknowledgments
+We are grateful to Yunrui Du for her gift of yeast genomic DNA, to Hong Zheng for help in overexpressing and purifying mutant TRAPPI subcomplexes, to Wei Wang for data used to assemble Figure 6A, and to the staff at 24-ID at the Advanced Photon Source for help in data collection. We thank P. Novick for discussions regarding this manuscript. This work was supported by grants to K.M.R. from the Mathers Foundation and the NIH (GM080616) and to S.F.-N. from the Howard Hughes Medical Institute. E.M.D.L.C. is supported by grants from the NIH (GM071688), the NSF (MCB-0546353), and the American Heart Association (0655849T). D.W.R. is supported by grants from the NIH (NS38041, DA02243, RR020171). H.F.C. is supported by NIH predoctoral award 1F31DC009143-01. A.S. was supported by NIH predoctoral training grant T32-GM07223.
+
+Accession Numbers
+The coordinates for the Ypt1p/TRAPPI complex have been deposited in the Protein Data Bank with the accession code 3CUE.
+
+Supplemental Data
+ 
+Document S1. Supplemental Experimental Procedures, Tables, and Figures.  
+Help with PDF filesOptions
+References
+Boriack-Sjodin et al., 1998
+P.A. Boriack-Sjodin, S.M. Margarit, D. Bar-Sagi, J. Kuriyan
+The structural basis of the activation of Ras by Sos
+Nature, 394 (1998), pp. 337–343
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (379)
+Bos et al., 2007
+J.L. Bos, H. Rehmann, A. Wittinghofer
+GEFs and GAPs: Critical elements in the control of small G proteins
+Cell, 129 (2007), pp. 865–877
+
+Article |  PDF (2409 K) | View Record in Scopus | Citing articles (470)
+Brunger et al., 1998
+A.T. Brunger, P.D. Adams, G.M. Clore, W.L. DeLano, P. Gros, R.W. Grosse-Kunstleve, J.S. Jiang, J. Kuszewski, M. Nilges, N.S. Pannu et al.
+Crystallography and NMR System (CNS): A new software suite for macromolecular structure determination
+Acta Crystallogr. D Biol. Crystallogr., 54 (1998), pp. 905–921
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15278)
+Cai et al., 2005
+H. Cai, Y. Zhang, M. Pypaert, L. Walker, S. Ferro-Novick
+Mutants in trs120 disrupt traffic from the early endosome to the late Golgi
+J. Cell Biol., 171 (2005), pp. 823–833
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+Cai et al., 2007a
+H. Cai, K. Reinisch, S. Novick
+Coats, tethers, Rabs, and SNAREs work together to mediate the intracellular destination of a transport vesicle
+Dev. Cell, 12 (2007), pp. 671–682
+
+Article |  PDF (889 K) | View Record in Scopus | Citing articles (243)
+Cai et al., 2007b
+H. Cai, S. Yu, S. Menon, Y. Cai, D. Lazarova, C. Fu, K. Reinisch, J.C. Hay, S. Ferro-Novick
+TRAPPI tethers COPII vesicles by binding the coat subunit Sec23
+Nature, 445 (2007), pp. 941–944
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (120)
+Carson, 1997
+M. Carson
+Ribbons
+Methods Enzymol., 277 (1997), pp. 493–505
+
+Article |  PDF (9367 K) | View Record in Scopus | Citing articles (613)
+Collaborative Computational Project, Number 4., 1994
+Collaborative Computational Project, Number 4.
+The CCP4 suite: Programs for protein crystallography
+Acta Crystallogr. D Biol. Crystallogr., 50 (1994), pp. 760–763
+
+de La Fortelle and Bricogne, 1997
+E. de La Fortelle, G. Bricogne
+Maximum-likelihood heavy-atom parameter refinement for multiple isomorphous replacement and multiwavelength anomalous diffraction methods
+Methods Enzymol., 276 (1997), pp. 472–494
+
+Article |  PDF (1172 K) | View Record in Scopus | Citing articles (1649)
+Delprato and Lambright, 2007
+A. Delprato, D.G. Lambright
+Structural basis for Rab GTPase activation by VPS9 domain exchange factors
+Nat. Struct. Mol. Biol., 14 (2007), pp. 406–412
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Delprato et al., 2004
+A. Delprato, E. Merithew, D.G. Lambright
+Structure, exchange determinants, and family-wide Rab specificity of the tandem helical bundle and Vps9 domains of Rabex-5
+Cell, 118 (2004), pp. 607–617
+
+Article |  PDF (769 K) | View Record in Scopus | Citing articles (83)
+Dong et al., 2007
+G. Dong, M. Medkova, P. Novick, K.M. Reinisch
+A catalytic coiled coil: structural insights into the activation of the Rab GTPase Sec4p by Sec2p
+Mol. Cell, 25 (2007), pp. 455–462
+
+Article |  PDF (946 K) | View Record in Scopus | Citing articles (47)
+Doublie, 1997
+S. Doublie
+Preparation of selenomethionyl proteins for phase determination
+Methods Enzymol., 276 (1997), pp. 523–530
+
+Article |  PDF (441 K) | View Record in Scopus | Citing articles (639)
+Eathiraj et al., 2005
+S. Eathiraj, X. Pan, C. Ritacco, D.G. Lambright
+Structural basis of a family-wide Rab GTPase recognition by rabenosyn-5
+Nature, 436 (2005), pp. 415–419
+
+View Record in Scopus | Citing articles (94)
+Esters et al., 2001
+H. Esters, K. Alexandrov, A. Iakovenko, T. Ivanova, N. Thomä, V. Rybin, M. Zerial, A.J. Scheidig, R.S. Goody
+Vps9, Rabex-5, and DSS4: Proteins with weak but distinct nucleotide-exchange activities for Rab proteins
+J. Mol. Biol., 310 (2001), pp. 141–156
+
+Article |  PDF (292 K) | View Record in Scopus | Citing articles (44)
+Goldberg, 1998
+J. Goldberg
+Structural Basis for Activation of the ARF GTPase: Mechanisms of Guanine Nucleotide Exchange and GTP-Myristoyl Switching
+Cell, 95 (1998), pp. 237–248
+
+Article |  PDF (1015 K) | View Record in Scopus | Citing articles (321)
+Hannemann et al., 2005
+D.E. Hannemann, W. Cao, A.O. Olivares, J.P. Robblee, E.M. De La Cruz
+Magnesium, ADP, and actin binding linkage of myosin V: Evidence for multiple myosin V-ADP and actomyosin V-ADP states
+Biochemistry., 44 (2005), pp. 8826–8840
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (48)
+Heras and Martin, 2005
+B. Heras, J.L. Martin
+Post-crystallization treatments for improving diffraction quality of protein crystals
+Acta Crystallogr. D Biol. Crystallogr., 61 (2005), pp. 1173–1180
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+Itzen et al., 2007
+A. Itzen, A. Rak, R.S. Goody
+Sec2 is a highly efficient exchange factor for the Rab protein Sec4
+J. Mol. Biol., 365 (2007), pp. 1359–1367
+
+Article |  PDF (375 K) | View Record in Scopus | Citing articles (27)
+Jahn and Scheller, 2006
+R. Jahn, R.H. Scheller
+SNAREs—engines for membrane fusion
+Nat. Rev. Mol. Cell Biol., 7 (2006), pp. 631–643
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (978)
+Jones et al., 2000
+S. Jones, C. Newman, F. Liu, N. Segev
+The TRAPP complex is a nucleotide exchanger for Ypt1 and Ypt31/32
+Mol. Biol. Cell, 11 (2000), pp. 4403–4411
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (118)
+Kim et al., 2005a
+M.S. Kim, M.J. Yi, K.H. Lee, J. Wagner, C. Munger, Y.G. Kim, M. Whiteway, M. Cygler, B.H. Oh, M. Sacher
+Biochemical and crystallographic studies reveal a specific interaction between TRAPP subunits Trs33p and Bet3p
+Traffic, 6 (2005), pp. 1183–1195
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (17)
+Kim et al., 2005b
+Y.G. Kim, E.J. Sohn, J. Seo, K.J. Lee, H.S. Lee, I. Hwang, M. Whiteway, M. Sacher, B.H. Oh
+Crystal structure of Bet3 reveals a novel mechanism for Golgi localization of tethering factor TRAPP
+Nat. Struct. Mol. Biol., 12 (2005), pp. 38–45
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (36)
+Kim et al., 2006
+Y.G. Kim, S. Raunser, C. Munger, J. Wagner, Y.L. Song, M. Cygler, T. Walz, B.H. Oh, M. Sacher
+The architecture of the multisubunit TRAPP I complex suggests a model for vesicle tethering
+Cell, 127 (2006), pp. 817–830
+
+Article |  PDF (2312 K) | View Record in Scopus | Citing articles (101)
+Klebe et al., 1995
+C. Klebe, H. Prinz, A. Wittinghofer, R.S. Goody
+The kinetic mechanism of Ran-nucleotide exchange catalyzed by RCC1
+Biochemistry, 34 (1995), pp. 12543–12552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (165)
+Kleywegt and Jones, 1997
+G.J. Kleywegt, T.A. Jones
+Model building and refinement practice
+Methods Enzymol., 277 (1997), pp. 208–230
+
+Article |  PDF (1824 K) | View Record in Scopus | Citing articles (249)
+Kleywegt et al., 2001
+G.J. Kleywegt, J.Y. Zou, M., Kjeldgaard, T.A. Jones
+International Tables for Crystallography
+M.G. Rossman, E. Arnold (Eds.)Kluwer Academic Publishers, Dordrecht, NL, Boston, and London (2001), pp. 353–356 and 366–367
+
+View Record in Scopus | Citing articles (2)
+Koumandou et al., 2007
+V.L. Koumandou, J.B. Dacks, R.M.R. Coulson, M.C. Field
+Control systems for membrane fusion in the ancestral eukaryote; evolution of tethering complexes and SM proteins
+BMC Evol. Biol., 7 (2007), pp. 29–46
+
+Full Text via CrossRef
+Kuehn et al., 1998
+M.J. Kuehn, J.M. Hermann, R. Schekman
+COPPII-cargo interactions direct protein sorting into ER-derived transport vesicles
+Nature, 391 (1998), pp. 187–190
+
+View Record in Scopus | Citing articles (255)
+Kummel et al., 2006a
+D. Kummel, U. Heinemann, M. Veit
+Unique self-palmitoylation activity of the transport protein particle component Bet3: A mechanism required for protein stability
+Proc. Natl. Acad. Sci. USA, 103 (2006), pp. 12701–12706
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Kummel et al., 2006b
+D. Kummel, J.J. Muller, Y. Roske, N. Henke, U. Heinemann
+Structure of the Bet3-Tpc6B core of TRAPP: Two Tpc6 paralogs form trimeric complexes with Bet3 and Mum2
+J. Mol. Biol., 361 (2006), pp. 22–32
+
+Article |  PDF (1041 K) | View Record in Scopus | Citing articles (16)
+Longtine et al., 1998
+M.S. Longtine, A. McKenzie 3rd, D.J. Demarini, N.G. Shah, A. Wach, A. Brachat, P. Philippsen, J.R. Pringle
+Additional modules for versatile and economical PCR-based gene deletion and modification in Saccharomyces cerevisiae
+Yeast, 14 (1998), pp. 953–961
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2574)
+Morozova et al., 2006
+N. Morozova, Y. Liang, A.A. Tokarev, S.H. Chen, R. Cox, J. Andrejic, Z. Lipatova, V.A. Sciorra, S.D. Emr, N. Segev
+TRAPPII subunits are required for the specificity switch of a Ypt-Rab GEF
+Nat. Cell Biol., 8 (2006), pp. 1263–1269
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Moyer et al., 2001
+B.D. Moyer, B.B. Allan, W.E. Balch
+Rab1 interaction with GM130 effector complex regulates COPII vesicle cis-Golgi tethering
+Traffic, 2 (2001), pp. 268–276
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (143)
+Nicholls, 1993
+A. Nicholls
+GRASP: Graphical Representation and Analysis of Surface Properties (Computer Program)
+Columbia University, New York (1993)
+
+Otwinowski and Minor, 1997
+Z. Otwinowski, W. Minor
+Processing of x-ray diffraction data collected in oscillation mode
+Methods Enzymol., 276 (1997), pp. 307–326
+
+Article |  PDF (1161 K) | View Record in Scopus | Citing articles (28039)
+Renault et al., 2001
+L. Renault, J. Kuhlmann, A. Henkel, A. Wittinghofer
+Structural basis for guanine nucleotide exchange on Ran by the Regulator of Chromosome Condensation (RCC1)
+Cell, 105 (2001), pp. 245–255
+
+Article |  PDF (669 K) | View Record in Scopus | Citing articles (137)
+Rodgers, 2001
+D.W. Rodgers
+Cryocrystallography techniques and devices
+M.G. Rossman, E. Arnold (Eds.), International Tables for Crystallography, Kluwer Academic Publishers, Dordrecht, NL, Boston, and London (2001), pp. 202–208
+
+View Record in Scopus | Citing articles (10)
+Sacher et al., 1998
+M. Sacher, Y. Jiang, J. Barrowman, A. Scarpa, J. Burston, L. Zhang, D. Schieltz, J.R. Yates 3rd, H. Abeliovich, S. Ferro-Novick
+TRAPP, a highly conserved novel complex on the cis-Golgi that mediates vesicle docking and fusion
+EMBO J., 17 (1998), pp. 2494–2503
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (188)
+Sacher et al., 2000
+M. Sacher, J. Barrowman, D. Schieltz, J.R. Yates 3rd, S. Ferro-Novick
+Identification and characterization of five new subunits of TRAPP
+Eur. J. Cell Biol., 79 (2000), pp. 71–80
+
+Article |  PDF (306 K) | View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+Sacher et al., 2001
+M. Sacher, J. Barrowman, W. Wang, J. Horecka, Y. Zhang, M., Pypaert, S. Ferro- Novick
+TRAPPI implicated in the specificity of tethering in ER-to-Golgi transport
+Mol. Cell, 7 (2001), pp. 433–442
+
+Article |  PDF (386 K) | View Record in Scopus | Citing articles (139)
+Sato et al., 2007
+Y. Sato, S. Fukai, R. Ishitani, O. Nureki
+Crystal structure of Sec4p.Sec2p complex in the nucleotide exchanging intermediate state
+Proc. Natl. Acad. Sci. USA, 104 (2007), pp. 8305–8310
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (26)
+Schneider and Sheldrick, 2002
+T.R. Schneider, G.M. Sheldrick
+Substructure solution with SHELXD
+Acta Crystallogr. D Biol. Crystallogr., 58 (2002), pp. 1772–1779
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1166)
+Turnbull et al., 2005
+A.P. Turnbull, D. Kummel, B. Prinz, C. Holz, J. Schultchen, C. Lang, F.H. Niesen, K.P. Hofmann, H. Delbruck, J. Behlke et al.
+Structure of palmitoylated BET3: Insights into TRAPP complex assembly and membrane localization
+EMBO J., 24 (2005), pp. 875–884
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+Wang and Ferro-Novick, (2002)
+W. Wang, S. Ferro-Novick
+A Ypt32p exchange factor is a putative effector of Ypt1p
+Mol. Biol. Cell, 13 (2002), pp. 3336–3343
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+Wang et al., 2000
+W. Wang, M. Sacher, S. Ferro-Novick
+TRAPP stimulates guanine nucleotide exchange on Ypt1p
+J. Cell Biol., 151 (2000), pp. 289–296
+
+Full Text via CrossRef
+Yu et al., 2006
+S. Yu, A. Satoh, M. Pypaert, K. Mullen, J.C. Hay, S. Ferro-Novick
+mBet3p is required for homotypic COPII vesicle tethering in mammalian cells
+J. Cell Biol., 174 (2006), pp. 359–368
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (44)
+Corresponding author contact information
+Corresponding author
+Corresponding author contact information
+Corresponding author
+Copyright © 2008 Elsevier Inc. All rights reserved.

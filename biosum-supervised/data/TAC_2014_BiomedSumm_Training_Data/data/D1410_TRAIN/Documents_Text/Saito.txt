@@ -1,0 +1,224 @@
+Epigenetic therapy upregulates the tumor suppressor microRNA-126 and its host gene EGFL7 in human cancer cells
+Yoshimasa Saito, Jeffrey M. Friedman, Yoshitomo Chihara, Gerda Egger, Jody C. Chuang, Gangning LiangCorresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2008.12.098
+Get rights and content
+Abstract
+Studies have shown that aberrant expression of miRNAs is involved in the initiation and progression of cancer, and several miRNAs have been characterized as tumor suppressors or oncogenes. Restoring the expression of tumor suppressor genes by epigenetic therapy has great potential in cancer treatment and it has been shown that some miRNAs can be directly regulated from their own promoters by epigenetic alterations in cancer cells. However, the majority of miRNAs are located within intronic regions of transcription units and it was unclear if intronic miRNAs can also be epigenetically regulated. Here we show that the tumor suppressor miR-126, which is located within an intron of the EGFL7 gene, is downregulated in cancer cell lines and in primary bladder and prostate tumors. Mature miR-126 can be generated from three different transcripts of EGFL7 with each one having its own promoter. Interestingly, miR-126 and one of the transcripts of EGFL7 that has a CpG island promoter are concomitantly upregulated in cancer cell lines by inhibitors of DNA methylation and histone deacetylation. These findings suggest that epigenetic changes can control the expression of tumor suppressor intronic miRNAs by directly controlling their host genes. Thus, epigenetic therapy not only directly activates miRNAs from their own promoters, but also activates intronic miRNAs together with their host genes. This reveals an additional mechanism and anticancer effect of epigenetic therapy.
+
+Keywords
+Epigenetic therapy; DNA methylation; MicroRNA; Cancer; Tumor suppressor
+MicroRNAs (miRNAs) are ∼22 nucleotide (nt) non-coding RNAs that function as endogenous regulators of hundreds of target genes. Studies have shown that aberrant expression of miRNAs is involved in the initiation and progression of cancer [1], and several miRNAs have been characterized as tumor suppressors or oncogenes [2] and [3]. Recently, miR-126 was identified as a metastasis suppressing miRNA that is downregulated in relapsing breast cancer [4]. Subsequent reports showed that miR-126 targeted the oncogene IRS-1 (insulin receptor substrate-1) in breast cancer cells [5] and miR-126 was downregulated in cervical cancer [6]. In addition, miR-126 was downregulated in leukemia and targets HOXA9, the overexpression of which correlates with poor prognosis in acute myelogenous leukemia [7]. These studies showed that miR-126 not only plays a critical role in tumorigenesis but also is important in tumor progression and metastasis.
+
+The main mechanisms for successful cancer therapy are killing proliferating tumor cells, inhibiting cell growth, inhibiting oncogenes or restoring the expression of silenced tumor suppressor genes. A promising option for cancer treatment is the use of epigenetic drugs which inhibit tumor growth by several mechanisms including restoring the expression of epigenetically silenced tumor suppressor genes [8]. We and other groups have recently reported that specific miRNAs can be directly regulated from their own promoters by epigenetic alterations induced by chromatin modifying drugs, or by genetic disruption of key DNA methyltransferases (DNMT) in human cancer cells [9], [10] and [11]. These findings suggest that many miRNAs are under epigenetic control and could be therapeutic targets of cancer [12].
+
+Most human miRNAs are located within intronic regions in either coding or non-coding transcription units [13] and [14]. A recent study demonstrated that intronic miRNAs are processed from unspliced introns before splicing occurs, indicating that both the intronic miRNA and its host gene mRNA are generated from the same primary transcript [13] and [15]. These findings led us to investigate whether epigenetic therapy could restore the expression of epigenetically silenced genes containing intronic tumor suppressor miRNAs.
+
+To address this issue, we focused on the epigenetic regulation of the tumor suppressor miR-126 because our previous study suggested that miR-126 is upregulated by chromatin modifying drugs [9]. miR-126 is located within intron 7 of EGFL7, an epidermal growth factor-domain gene, which is highly expressed in endothelial cells and highly vascularized tissues, and it controls an important step in vasculogenesis [16] and [17]. We examined expression levels and epigenetic changes of miR-126 and EGFL7 in human cancer cells and our results showed that miR-126 is downregulated in cancer cells but is upregulated together with its host gene EGFL7 by epigenetic treatment.
+
+Materials and methods
+Cell lines and primary tumors. T24, HeLa, MCF7, and HUVEC cells were obtained from the American Type Culture Collection (Rockville, MD). T24 cells were cultured in McCoy’s 5A medium supplemented with 10% fetal bovine serum (FBS). HeLa and MCF7 cells were cultured in MEM medium supplemented with 10% FBS. HUVEC cells were cultured in EGM-2 medium (Cambrex, Walkersville, MD).
+
+Matched sets of primary bladder and prostate tumors and adjacent normal tissues were obtained through the USC/Norris Tissue Procurement Core Resource after informed consent and Institutional Review Board (IRB) approval (IRB # 886005 and # 926041) at the USC/Norris Comprehensive Cancer Center.
+
+5-aza-2′-deoxycytidine (5-Aza-CdR) and 4-phenylbutyric acid (PBA) treatment. Cells were seeded at 5 × 105 cells per 100 mm dish 24 h prior to treatment with 5-Aza-CdR (1 μM or 3 μM, Sigma–Aldrich, St. Louis, MO) and/or PBA (1 mM or 3 mM, Sigma–Aldrich). 5-Aza-CdR was removed after 24 h, while PBA was continuously administered by replacing the medium containing PBA every 24 h for five more days.
+
+5′-rapid amplification of cDNA ends (RACE). The 5′ ends of the primary transcripts of miR-126 were determined using the RLM-RACE kit (Ambion) according to the manufacturer’s instruction. The sequences of gene specific primers are listed in Supplementary Table S1.
+
+Northern blots. Total RNA (20 μg) was loaded onto a 15% denaturing polyacrylamide gel and transferred to a nylon membrane. The StarFire radiolabeled probes (Integrated DNA Technologies, Coralville, IA) were used according to the manufacturer’s instruction. The sequences of the probes for miR-126 and U6 loading control are listed in Supplementary Table S1.
+
+Real-time RT-PCR. Total RNA (5 μg) was used for reverse transcription using Superscript III (Invitrogen) and random hexamers (Promega, Madison, WI). Then PCR was performed with primers specific for EGFL7 mRNA ( Supplementary Table S1). GAPDH mRNA was used as an internal control. Quantitative analysis was performed by real-time PCR with CYBR green using the DNA Engine Opticon System (MJ Research, Waltham, MA).
+
+DNA methylation analysis. Genomic DNA (2 μg) was treated with sodium bisulfite. DNA methylation levels were determined by bisulfite genomic sequencing, methylation-sensitive single-nucleotide primer extension (Ms-SNuPE), and methylation-specific PCR (MSP) as previously described [9] and [18]. The sequences of the primers used are listed in Supplementary Table S1.
+
+Chromatin immunoprecipitation (ChIP). ChIP analysis of the promoter region of the EGFL7 gene was performed as previously described [9]. Ten μL of anti-acetylated histone H3 antibody (Upstate Biochemistry, Lake Placid, NY) was used. The fraction of immunoprecipitated DNA was calculated as follows: (immunoprecipitated DNA − nonspecific antibody control (NAC))/(input DNA − NAC). The sequences of the primers used are listed in Supplementary Table S1.
+
+Results
+miR-126 is downregulated in primary tumors and cancer cell lines but is activated by treatment with 5-Aza-CdR and PBA
+We first performed Northern blot analysis for miR-126 expression in matched sets of primary bladder and prostate tumors and adjacent normal tissues. miR-126 was highly expressed in the normal bladder and prostate tissues and was downregulated in the corresponding tumors in all cases except for case 2 of the prostate tumors, which showed no change in expression (Fig. 1A). EGFL7 is highly expressed in HUVEC endothelial cells so we used HUVEC cells as our positive control [16]. We found that miR-126 is highly expressed in HUVEC cells but not in T24 (bladder cancer), HeLa (cervical cancer), or MCF7 (breast cancer) cell lines ( Fig. 1B). After treatment with the DNA demethylating agent 5-aza-2′-deoxycytidine (5-Aza-CdR) and the histone deacetylase (HDAC) inhibitor 4-phenylbutyric acid (PBA), miR-126 was strongly upregulated in these cancer cell lines ( Fig. 1B). miR-126 was slightly upregulated after treatment with either 5-Aza-CdR or PBA alone (data not shown), suggesting that 5-Aza-CdR and PBA act synergistically to induce miR-126 expression.
+
+Full-size image (37 K)
+Fig. 1. 
+Northern blot analysis of miR-126 expression in matched sets of normal tissues and primary bladder and prostate tumors (A) and in HUVEC, T24, HeLa, and MCF7 cells (B). tRNA and U6 RNA were used as loading controls. N, normal; T, tumor; U, untreated; AP3, 5-Aza-CdR (3 μM) and PBA (3 mM).
+Figure options
+The primary transcripts of miR-126 correspond to multiple transcripts of EGFL7
+In order to examine if miR-126 was coexpressed with EGFL7, we designed primer set 1 for real-time RT-PCR to examine full-length EGFL7 (S1) expression ( Fig. 2A). S1 expression correlated well with miR-126 expression in HUVEC cells, but we could not detect appreciable levels of S1 in T24, HeLa, and MCF7 cancer cell lines even after treatment. Bladder and prostate tumors and their matched normal tissues also failed to show expression of S1 ( Fig. 2B). To resolve this issue, we searched the UCSC Genome Bioinformatics Site and found several potential alternative transcripts for EGFL7. A CpG island was detected in intron 2 which contained the start site for an alternative transcript, and another CpG island was located in intron 7 which contained miR-126. To determine the start site of the primary transcript of miR-126 in cell lines, we performed 5′-RACE analysis in T24 cells treated with 5-Aza-CdR and PBA. We designed two primers immediately downstream of miR-126 with one located in exon 8 and the other in intron 7 ( Fig. 2A). Two transcription start sites were found with the exonic primer and no 5′-RACE product was detected with the intronic primer, indicating that miR-126 does not have its own promoter ( Fig. 2A). The longer alternative transcript corresponds to human EST BC012377 (S2) which has its start site in the CpG island of intron 2; the shorter transcript corresponds to human EST BF667512 (S3) which starts at the beginning of exon 7 ( Fig. 2A). These results suggest that miR-126 is transcribed as part of these alternative transcripts of EGFL7 rather than from its own promoter.
+
+Full-size image (96 K)
+Fig. 2. 
+5′-RACE for the primary transcript of miR-126 and Real-time RT-PCR analysis of EGFL7 normalized to GAPDH. (A) 5′-RACE for the primary transcript of miR-126 in T24 cells treated with 5-Aza-CdR and PBA. Two transcription start sites were found (S2 and S3). miR-126 (arrowhead) is embedded within intron 7 of the EGFL7 gene. The bent arrows indicate transcription start sites determined by 5′-RACE (S2 and S3), whereas the dotted bent arrow indicates the full length start site (S1) of EGFL7. The white box indicates exon 1 of the S2 alternative transcript of EGFL7. The open arrowheads indicate primers used for 5′-RACE. The black bars indicate CpG islands. (B) Real-time RT-PCR analysis of EGFL7 normalized to GAPDH in HUVEC, T24, HeLa, and MCF7 cells and matched sets of normal tissues and primary bladder and prostate tumors. The three different primer sets described in Fig. 2A were used. The white and black bars indicate untreated (U) and treated (AP3) T24, HeLa, and MCF7 cells, respectively. The white bars indicate normal tissues (N) and the black bars indicate primary tumors (T) of bladder (B) and prostate (P).
+Figure options
+miR-126 and the alternative transcripts of EGFL7 are concomitantly regulated in cancer cell lines and primary tumors
+To verify the 5′-RACE results and to determine the transcripts for miR-126 expression, we performed real-time RT-PCR analysis of EGFL7 using three primer sets to distinguish between the different transcripts. Primer set 1 detects the full-length EGFL7 (S1); primer set 2 detects the longer alternative transcript of EGFL7 (S2); primer set 3 detects the shorter alternative transcript S3 in addition to S1 and S2. Results using primer set 1 indicated that S1 was expressed in HUVEC cells but not in cell lines or in patient samples as we mentioned above ( Fig. 2B). On the other hand, expression data using primer sets 2 and 3 showed that S2 was strongly upregulated after treatment of T24, HeLa, and MCF7 cells with 5-Aza-CdR and PBA. S2 was also expressed at high levels in normal bladder and prostate tissues, whereas it was remarkably downregulated in bladder and prostate tumors except for case 2 of the prostate tumors ( Fig. 2B).
+
+In HUVEC cells all three EGFL7 transcripts (S1, S2, S3) are expressed because primer set 3 levels are higher than the sum of primer sets 1 and 2, and miR-126 expression correlates with EGFL7 expression ( Fig. 1 and Fig. 2). In treated cancer cell lines (T24, HeLa, and MCF7) S1 is expressed at extremely low levels; expression levels were almost equal for primer sets 2 and 3 which indicated that there was no S3 expression so S2 was the major transcript activated by epigenetic treatment. Similarly high levels of expression for primer sets 2 and 3 were also observed in normal bladder tissues, but in prostate tissues expression levels for primer set 3 were greater than set 2, suggesting that both S2 and S3 were expressed ( Fig. 2B). This indicated that there is a tissue or cell specific expression pattern of EGFL7.
+
+The results from the Northern blot, 5′-RACE, and real-time RT-PCR experiments are consistent with each other and the expression patterns of miR-126 correlate closely with the expression patterns of the EGFL7 transcripts in cell lines and patient samples. Despite this, there seems to be a discrepancy in the magnitude of activation of miR-126 and S2 by 5-Aza-CdR and PBA treatment. Although the increases in the S2 expression after treatment were ∼5-fold in T24, HeLa, and MCF7 cells ( Fig. 2B), the increases in miR-126 expression were much higher than that of S2 ( Fig. 1B). This is understandable when one considers that the processing of intronic miRNAs precedes and might be more efficient than the splicing of the mRNAs of their host genes [15].
+
+Epigenetic alterations around the CpG island promoter of the S2 transcript of EGFL7
+After finding that miR-126 and S2 are upregulated after treatment with chromatin modifying drugs, we examined the DNA methylation status around the S2 CpG island promoter. DNA methylation status of the promoter and exon 1 of S2 was determined by MSP (methylation sensitive PCR) analysis (Fig. 3A). The results showed there were no fully methylated strands in either region. We used bisulfite genomic sequencing to validate the MSP results at the promoter and confirmed that there are no fully methylated strands, but there are low levels of DNA methylation (Fig. 3A). These results were also supported by Ms-SNuPE (Methylation-sensitive Single Nucleotide Primer Extension) analysis which showed very low DNA methylation levels in T24 cells and in matched primary bladder and prostate tumors and adjacent normal samples (Fig. 3D).
+
+Full-size image (54 K)
+Fig. 3. 
+Epigenetic alterations around the CpG island promoter of the alternative transcript of EGFL7. (A) Bisulfite genomic sequencing and MSP analysis of the CpG island promoter region in T24 cells. The bent arrow indicates the transcription start site of S2. The open arrowheads indicate the primers used for Ms-SNuPE analyses in Fig. 3D. Open circle, unmethylated CpG; filled circle, methylated CpG. The locations of the primers used for MSP are described as arrows. M, methylation specific primers; U, unmethylation specific primers. Sperm DNA and sperm DNA treated with SssI methylase were used as unmethylated and methylated controls, respectively. (B) and (C) ChIP analysis of the CpG island promoter region in T24 (B) and HeLa (C) cells. The levels of acetylated histone H3 were determined by (immunoprecipitated DNA − nonspecific antibody control (NAC))/(input DNA − NAC). U, untreated; AP3, 5-Aza-CdR (3 μM) and PBA (3 mM). (D) Ms-SNuPE analysis of the CpG island promoter region. The white and black bars indicate untreated (U) and treated (AP3) in T24 cells, respectively. The white bars indicate normal tissues (N) and the black bars indicate primary tumors (T) of bladder (B) and prostate (P).
+Figure options
+Because our results showed S2 was not controlled by DNA methylation, we analyzed alterations in chromatin structure around the S2 and S3 promoters by ChIP analysis in T24 and HeLa cells. The levels of the active transcription mark acetylated histone H3 were increased at both S2 and S3 in T24 and HeLa cells after treatment, but the increase was much more dramatic at S2 (Fig.3B and C). This correlated well with the expression pattern of miR-126 and S2 (Fig. 1 and Fig. 2). These results suggested that expression of S2 is regulated by histone modifications rather than by DNA methylation at the CpG island promoter.
+
+Discussion
+In the short time after we published that miR-127 was epigenetically silenced in cancer cells, several labs have shown additional examples of miRNA expression being controlled by epigenetic mechanisms around miRNA promoters [19]. However, most miRNAs are intronic and an intronic miRNA tends to be co-expressed with its host gene [14]. The mechanisms that control the transcription of the host gene should be the same as those that control expression of the intronic miRNA [13] and [15]. Elucidating these mechanisms will give us a much clearer view of the roles miRNAs play in the cell, but due to alternative splicing, it will be difficult to dissect the role each transcript has on miRNA expression.
+
+Here we show that the tumor suppressor intronic miRNA miR-126 is downregulated in human cancer cell lines and bladder and prostate tumors, and is activated by inhibitors of DNA methylation and histone deacetylation, suggesting that miR-126 could be a target of epigenetic therapy of cancer [20]. In addition, we found that the primary transcript of miR-126 corresponds to an alternative transcript of EGFL7 (S2) with a CpG island promoter and that miR-126 and S2 are concomitantly regulated in cancer cell lines and bladder tumors. Our findings indicate that epigenetic therapy activates miRNA expression in two ways: by directly activating miRNAs such as miR-127 from their own promoters as we previously reported [9] and by activating intronic miRNAs such as miR-126 together with their host genes.
+
+Intriguingly, our data suggest that the CpG island promoter of S2 is regulated by chromatin structural changes such as histone modifications rather than by DNA methylation in cancer cells. However, treatment of cancer cell lines with the HDAC inhibitor PBA alone was not able to activate miR-126 expression, indicating that the expression of S2 is strongly suppressed in cancer cells. Our lab reported that 5-Aza-CdR is highly effective not only at removing cytosine methylation but also at rapidly reversing chromatin structural changes [21], while another study indicated that 5-Aza-CdR can reactivate epigenetically silenced genes independent of its effects on DNA methylation [22]. Although this may be due to indirect effects of 5-Aza-CdR, it seems that both inhibitors of DNA methylation and histone deacetylation are necessary to activate miR-126 expression to a sufficient level.
+
+Inhibitors of DNA methylation and histone deacetylation can work synergistically to suppress growth of cancer cell lines both in vitro and in vivo. This effect may be caused by inducing cancer cells to differentiate, re-expressing aberrantly silenced tumor suppressor genes and re-expressing tumor antigens which would aid immune surveillance [8]. Many epigenetic drugs have shown promising results in clinical trials and our results suggest a new anticancer effect of this class of drugs. By inducing expression of miR-126, epigenetic therapy not only inhibits the growth of cancer, but may also inhibit the invasiveness and metastatic potential of cancer cells as well. This work improves our understanding of the mechanisms by which miRNAs are regulated and the effects of epigenetic drugs in cancer.
+
+Acknowledgments
+This work was supported by grants from National Institute of Health grant RO1 CA 82422 (P.A.J.), the Uehara Memorial Foundation of Japan (Y.S.), and the Max Kade Foundation (G.E.).
+
+We thank Yvonne C. Tsai for her assistance in isolating tissue RNA and DNA.
+
+All tissue procurement was performed by the USC/Norris Comprehensive Cancer Center Translational Pathology Core Facility, supported by the Cancer Center Support Grant P30 CA 014089.
+
+Appendix A. Supplementary data
+ 
+Supplementary data.  
+
+Supplementary tables
+
+Help with PDF filesOptions
+References
+[1]
+J. Lu, G. Getz, E.A. Miska, E. Alvarez-Saavedra, J. Lamb, D. Peck, A. Sweet-Cordero, B.L. Ebert, R.H. Mak, A.A. Ferrando, J.R. Downing, T. Jacks, H.R. Horvitz, T.R. Golub
+MicroRNA expression profiles classify human cancers
+Nature, 435 (2005), pp. 834–838
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3768)
+[2]
+A. Esquela-Kerscher, F.J. Slack
+Oncomirs–microRNAs with a role in cancer
+Nat. Rev. Cancer, 6 (2006), pp. 259–269
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2637)
+[3]
+G.A. Calin, C.M. Croce
+MicroRNA signatures in human cancers
+Nat. Rev. Cancer, 6 (2006), pp. 857–866
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2346)
+[4]
+S.F. Tavazoie, C. Alarcon, T. Oskarsson, D. Padua, Q. Wang, P.D. Bos, W.L. Gerald, J. Massague
+Endogenous human microRNAs that suppress breast cancer metastasis
+Nature, 451 (2008), pp. 147–152
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (826)
+[5]
+J. Zhang, Y.Y. Du, Y.F. Lin, Y.T. Chen, L. Yang, H.J. Wang, D. Ma
+The cell growth suppressor, mir-126, targets IRS-1
+Biochem. Biophys. Res. Commun. (2008)
+
+[6]
+X. Wang, S. Tang, S.Y. Le, R. Lu, J.S. Rader, C. Meyers, Z.M. Zheng
+Aberrant expression of oncogenic and tumor-suppressive microRNAs in cervical cancer is required for cancer cell growth
+PLoS ONE, 3 (2008), p. e2557
+
+Full Text via CrossRef
+[7]
+W.F. Shen, Y.L. Hu, L. Uttarwar, E. Passegue, C. Largman
+MicroRNA-126 regulates HOXA9 by binding to the homeobox
+Mol. Cell Biol., 28 (2008), pp. 4609–4619
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+[8]
+P.A. Jones, S.B. Baylin
+The epigenomics of cancer
+Cell, 128 (2007), pp. 683–692
+
+Article |  PDF (588 K) | View Record in Scopus | Citing articles (1823)
+[9]
+Y. Saito, G. Liang, G. Egger, J.M. Friedman, J.C. Chuang, G.A. Coetzee, P.A. Jones
+Specific activation of microRNA-127 with downregulation of the proto-oncogene BCL6 by chromatin-modifying drugs in human cancer cells
+Cancer cell, 9 (2006), pp. 435–443
+
+Article |  PDF (635 K) | View Record in Scopus | Citing articles (686)
+[10]
+A. Lujambio, S. Ropero, E. Ballestar, M.F. Fraga, C. Cerrato, F. Setien, S. Casado, A. Suarez-Gauthier, M. Sanchez-Cespedes, A. Gitt, I. Spiteri, P.P. Das, C. Caldas, E. Miska, M. Esteller
+Genetic unmasking of an epigenetically silenced microRNA in human cancer cells
+Cancer Res., 67 (2007), pp. 1424–1429
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (443)
+[11]
+B. Brueckner, C. Stresemann, R. Kuner, C. Mund, T. Musch, M. Meister, H. Sultmann, F. Lyko
+The human let-7a–3 locus contains an epigenetically regulated MicroRNA gene with oncogenic function
+Cancer Res., 67 (2007), pp. 1419–1423
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (250)
+[12]
+Y. Saito, P.A. Jones
+Epigenetic activation of tumor suppressor microRNAs in human cancer cells
+Cell Cycle, 5 (2006), pp. 2220–2222
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (131)
+[13]
+A. Rodriguez, S. Griffiths-Jones, J.L. Ashurst, A. Bradley
+Identification of mammalian microRNA host genes and transcription units
+Genome Res., 14 (2004), pp. 1902–1910
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (743)
+[14]
+S. Baskerville, D.P. Bartel
+Microarray profiling of microRNAs reveals frequent coexpression with neighboring miRNAs and host genes
+RNA, 11 (2005), pp. 241–247
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (674)
+[15]
+Y.K. Kim, V.N. Kim
+Processing of intronic microRNAs
+Embo. J., 26 (2007), pp. 775–783
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (314)
+[16]
+M.J. Fitch, L. Campagnolo, F. Kuhnert, H. Stuhlmann
+Egfl7, a novel epidermal growth factor-domain gene expressed in endothelial cells
+Dev. Dyn., 230 (2004), pp. 316–324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+[17]
+L.H. Parker, M. Schmidt, S.W. Jin, A.M. Gray, D. Beis, T. Pham, G. Frantz, S. Palmieri, K. Hillan, D.Y. Stainier, F.J. De Sauvage, W. Ye
+The endothelial-cell-derived secreted factor Egfl7 regulates vascular tube formation
+Nature, 428 (2004), pp. 754–758
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (164)
+[18]
+J.G. Herman, J.R. Graff, S. Myohanen, B.D. Nelkin, S.B. Baylin
+Methylation-specific PCR: a novel PCR assay for methylation status of CpG islands
+Proc. Natl. Acad. Sci. USA, 93 (1996), pp. 9821–9826
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4064)
+[19]
+N. Yang, G. Coukos, L. Zhang
+MicroRNA epigenetic alterations in human cancer: one step forward in diagnosis and treatment
+Int. J. Cancer, 122 (2008), pp. 963–968
+
+View Record in Scopus | Citing articles (53)
+[20]
+C.B. Yoo, P.A. Jones
+Epigenetic therapy of cancer: past, present and future
+Nat. Rev. Drug Discov., 5 (2006), pp. 37–50
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (651)
+[21]
+C.T. Nguyen, D.J. Weisenberger, M. Velicescu, F.A. Gonzales, J.C. Lin, G. Liang, P.A. Jones
+Histone H3-lysine 9 methylation is associated with aberrant gene silencing in cancer cells and is rapidly reversed by 5-aza-2′-deoxycytidine
+Cancer Res., 62 (2002), pp. 6456–6461
+
+View Record in Scopus | Citing articles (262)
+[22]
+R.J. Wozniak, W.T. Klimecki, S.S. Lau, Y. Feinstein, B.W. Futscher
+5-Aza-2′-deoxycytidine-mediated reductions in G9A histone methyltransferase and histone H3 K9 di-methylation levels are linked to tumor suppressor gene reactivation
+Oncogene, 26 (2007), pp. 77–90
+
+View Record in Scopus | Citing articles (82)
+Corresponding author contact information
+Corresponding author.
+Copyright © 2008 Elsevier Inc. All rights reserved.

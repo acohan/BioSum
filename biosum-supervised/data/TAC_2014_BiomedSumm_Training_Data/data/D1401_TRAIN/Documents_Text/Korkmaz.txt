@@ -1,0 +1,230 @@
+PLoS One. 2013; 8(12): e82556.
+Published online Dec 16, 2013. doi:  10.1371/journal.pone.0082556
+PMCID: PMC3864973
+MIR376A Is a Regulator of Starvation-Induced Autophagy
+
+Gozde Korkmaz,#¤ Kumsal Ayse Tekirdag,# Deniz Gulfem Ozturk, Ali Kosar, Osman Ugur Sezerman, and Devrim Gozuacik*
+Sebastien Pfeffer, Editor
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+Background
+
+Autophagy is a vesicular trafficking process responsible for the degradation of long-lived, misfolded or abnormal proteins, as well as damaged or surplus organelles. Abnormalities of the autophagic activity may result in the accumulation of protein aggregates, organelle dysfunction, and autophagy disorders were associated with various diseases. Hence, mechanisms of autophagy regulation are under exploration.
+
+Methods
+
+Over-expression of hsa-miR-376a1 (shortly MIR376A) was performed to evaluate its effects on autophagy. Autophagy-related targets of the miRNA were predicted using Microcosm Targets and MIRanda bioinformatics tools and experimentally validated. Endogenous miRNA was blocked using antagomirs and the effects on target expression and autophagy were analyzed. Luciferase tests were performed to confirm that 3′ UTR sequences in target genes were functional. Differential expression of MIR376A and the related MIR376B was compared using TaqMan quantitative PCR.
+
+Results
+
+Here, we demonstrated that, a microRNA (miRNA) from the DLK1/GTL2 gene cluster, MIR376A, played an important role in autophagy regulation. We showed that, amino acid and serum starvation-induced autophagy was blocked by MIR376A overexpression in MCF-7 and Huh7 cells. MIR376A shared the same seed sequence and had overlapping targets with MIR376B, and similarly blocked the expression of key autophagy proteins ATG4C and BECN1 (Beclin 1). Indeed, 3′ UTR sequences in the mRNA of these autophagy proteins were responsive to MIR376A in luciferase assays. Antagomir tests showed that, endogenous MIR376A was participating to the control of ATG4C and BECN1 transcript and protein levels. Moreover, blockage of endogenous MIR376A accelerated starvation-induced autophagic activity. Interestingly, MIR376A and MIR376B levels were increased with different kinetics in response to starvation stress and tissue-specific level differences were also observed, pointing out to an overlapping but miRNA-specific biological role.
+
+Conclusions
+
+Our findings underline the importance of miRNAs encoded by the DLK1/GTL2 gene cluster in stress-response control mechanisms, and introduce MIR376A as a new regulator of autophagy.
+
+Go to:
+Introduction
+Two major degradation pathways, namely macroautophagy (autophagy herein) and the ubiquitin-proteasome system, are operational in the maintenance of cellular homeostasis. Functional at a basal level for long-lived protein degradation and organelle turnover under normal conditions, autophagy is rapidly upregulated in response to both extracellular (e.g. nutrient starvation, hypoxia) and intracellular (e.g. accumulation of unfolded proteins, damaged organelles, pathogens) stress factors.[1] Concerted action of several protein complexes formed by at least 32 different autophagy (ATG) proteins result in the formation of double- or multi-membrane vesicles called autophagic vesicles or autophagosomes.[2] These vesicles enwrap cargo molecules and carry them to lysosomes for degradation, resulting in the recycling of their constituents for reuse by the cell.[3], [4]
+
+Protein complexes playing a role in autophagosome formation are numerous. A key event is the accumulation of a modified lipid molecule, phosphoinositol 3-phosphate on the ER and mitochondrial membranes, marking the autophagic vesicle nucleation centers.[2] A phosphoinositol 3-kinase, VPS34, is responsible for the conversion of membrane associated inositol lipids into phosphoinositol 3-phosphate (PI3-P). BECN1 was discovered as a master regulator of the VPS34 activity and autophagosome formation.[2] Autophagic vesicle membrane elongation, growth and closure occur through the action of two ubiqituination-like protein conjugation systems.[5] The first system is rather regulatory, resulting in the covalent conjugation of a ubiquitin-like protein ATG12 to ATG5, and in the eventual formation of a larger complex including the ATG16 protein. The ATG12-5-16 complex serves as a E3 ubiquitin ligase-like enzyme for the second reaction involving covalent attachment of a lipid, phosphatidylethanolamine (PE), to a carboxy-terminal (C-ter) glycine residue of the autophagy-related MAP1LC3 (or simply LC3) protein.[6] To expose the key glycine residue for conjugation, prior C-ter cleavage of pro-LC3 by ATG4 proteins is required. Lipid conjugated LC3 is necessary for the elongation of autophagic membranes and completion of the vesicles.[7] Indeed, cells lacking one of the conjugation reaction components were shown to harbor autophagy defects.[8]
+
+Recent studies introduced microRNAs (miRNAs) as novel regulators of autophagy.[9], [10], [11] miRNAs are small non-coding RNAs serving as negative regulators of gene expression.[12] By base pairing with sequences found mainly in the 3′ untranslated region (3′UTR) of specific mRNAs, miRNAs lead to mRNA instability and/or translation inhibition resulting in a decrease in target gene expression.[13] A single miRNA may target tens to hundreds of mRNAs, hence may co-regulate and coordinate a number of cellular proteins and pathways at once.[14] So far, only a handful of miRNAs were shown to directly affect the autophagic activity. Among them, MIR376B was introduced as a new regulator of starvation and mTOR-inhibition-related autophagy.[10] MIR376B blocked autophagy by affecting the expression of two key autophagy proteins, namely ATG4C and BECN1. MIR376B belongs to a miRNA gene family encoded from a gene cluster region in the human chromosome 14q32, called the DLK1/GTL2 region.[15], [16], [17] Therefore, we wondered whether other miRNAs from the same region could play a role in autophagy regulation.
+
+Here, we report that another miRNA from the DLK1/GTL2 region, namely hsa-miR-376a1 (hereafter MIR376A) containing a seed sequence similar to that of MIR376B, is a novel regulator of autophagy. Overexpression of MIR376A attenuated starvation-induced autophagic activity and did so by modulating cellular ATG4C and BECN1 mRNA and protein levels. We showed that, miRNA response elements (MRE) in the 3′UTR region of these genes were direct targets of MIR376A. Importantly, antagomir-mediated suppression of endogenous MIR376A levels led to an increase in ATG4C and BECN1 expression and resulted in autophagy stimulation. Our findings underline the importance of miRNAs coded by the DLK1/GTL2 genomic region in physiological regulation and control of the autophagic activity.
+
+Go to:
+Results
+MIR376A overexpression blocked autophagy
+
+In an unbiased screen, we discovered several miRNAs, including MIR376B and MIR181A as inhibitors of starvation-induced autophagy [10], [11] MIR376B is encoded from a gene region called, DLK1/GTL2 containing several miRNA genes (Figure 1A). Although the nucleotide sequences of at least seven miRNA genes found in this region differed considerably, the seed sequences (around 8 nucleotide long miRNA core sequences responsible for target mRNA recognition) of MIR376A1, MIR376A2 and MIRB2 were identical to that of the MIR376B (Figure 1B and C). Since in our screen, MIR376A1 was also a hit, we wondered whether this miRNA would regulate autophagy.
+
+Figure 1
+Figure 1
+MIR376 family miRNAs in the DLKI/GTL2 gene cluster.
+Firstly, we transiently overexpressed MIR376A1 (MIR376A herein) together with the autophagy marker GFP-LC3 in MCF-7 breast cancer cells. Detection of cytoplasmic puncta formation by otherwise soluble GFP-fused MAP1LC3 (shortly LC3) protein is a commonly used method to follow autophagy activation using microscopy. As shown in Figure 2A and B, overexpressed MIR376A could repress starvation-induced GFP-LC3 puncta formation. To confirm these results with a complementary technique, we analyzed the effect of MIR376A overexpression on the conversion of endogenous free LC3 protein (LC3-I) to its lipidated and autophagic vesicle-associated form (LC3-II). As seen in Figure 2C, LC3-I conversion to LC3-II was decreased in miRNA transfected MCF-7 cells compared to controls.
+
+Figure 2
+Figure 2
+Effect of MIR376A overexpression on autophagy.
+Autophagic cargo receptor protein p62/SQSTM1 is also carried by autophagosomes to lysosomes and degraded there during the process.[18] Indeed, starvation resulted in SQSTM1 degradation in cells transfected with the control miRNAs, and inhibition of the lysosomal enzymes blocked its degradation (Figure 2D). Yet, in starved cells overexpressing MIR376A, SQSTM1 was neither degraded following starvation, nor accumulated after lysosomal inhibition, confirming autophagy blocking activity of the miRNA.
+
+We also performed tests in Huh7 hepatocellular carcinoma cells. Similar to the results obtained in MCF-7 cells, MIR376A overexpression could block starvation-induced GFP-LC3 dot formation (Figure 3A and B) and LC3 lipidation (Figure 3C) in Huh7 cells as well.
+
+Figure 3
+Figure 3
+MIR376A overexpression blocked autophagy in Huh-7 cells.
+All these results showed that, MIR376A, another gene encoded by the miRNA gene cluster in the DLK1/GTL2 genomic region, was a new miRNA regulator of starvation-activated autophagy.
+
+Autophagy-related targets of MIR376A
+
+We have previously described ATG4C and BECN1 as autophagy-related targets of MIR376B. Since MIR376A seed sequence was identical to that of MIR376B, it could potentially target the MRE sequences found in the 3′ UTR regions of these autophagy genes (Figure 4A and B). Indeed, mRNA levels of both genes were decreased upon MIR376A overexpression (Figure 4C and D). Additionally, MIR376A overexpression led to a decrease in the levels of both ATG4C (Figure 4E) and BECN1 (Figure 4F) proteins. Therefore, similar to MIR376B, MIR376A could also regulate expression levels of two key proteins in the autophagy pathway.
+
+Figure 4
+Figure 4
+ATG4C and BECN1 were targets of MIR376A.
+Effect of MIR376A antagomirs on ATG4C and BECN1 levels
+
+To check whether blockage of the endogenous miRNA would affect ATG4C and BECN1 expression levels, we used antagomirs (chemically engineered oligonucleotide anti-miRNAs) specifically neutralizing MIR376A. While control antagomirs (CNT-Ant) showed no significant effect, introduction of MIR376A-specific antagomirs (Ant-376A) into cells led to a significant increase in ATG4C mRNA (Figure 5A) and protein levels (Figure 5C). Similar antagomir-related changes were observed in BECN1 mRNA (Figure 5B) and protein (Figure 5D) levels. Therefore, endogenously expressed cellular MIR376A also played a role in the suppression of autophagy-related gene expression.
+
+Figure 5
+Figure 5
+Effect of antagomirs on MIR376A target expression.
+MIR376A directly targeted ATG4C and BECN1 3′ UTR sequences
+
+To prove that negative regulation of the autophagy proteins by MIR376A was a result of a direct effect of the miRNA, reporter luciferase vectors containing predicted 3′ UTR MRE sequences in ATG4C and BECN1 mRNAs were prepared. Mutant versions of these vectors were constructed as well (Figure 6A and B). 293T cells were transfected with these constructs together with MIR-CNT or MIR376A, and luciferase activities were measured. Overexpression of MIR376A but not MIR-CNT resulted in a decrease in luciferase expression from vectors containing wild-type MRE sequences (Figure 6C and D, Wild-type). Mutation of the MREs in ATG4C or BECN1 sequences abolished the effect of the miRNA on luciferase expression (Figure 6C and D, Mutant). Therefore MIR376A controlled ATG4C and BECN1 levels by directly affecting specific MRE sequences in the 3′UTR regions of these autophagy genes.
+
+Figure 6
+Figure 6
+MIR376A controlled miRNA-response elements (MREs) in ATG4C and BECN1 mRNA 3′ UTRs.
+Role of endogenous MIR376A in the control of starvation-induced autophagic activity
+
+To further reveal the role of endogenous MIR376A in autophagy regulation, we transfected cells with control or MIR376A antagomirs, and analyzed conversion of LC3-I to LC3-II and SQSTM1 degradation as markers of the autophagic activity. Interestingly, we observed that blockage of endogenous MIR376A further increased LC3-II/I ratios (Figure 7A). Moreover, starvation-induced degradation of the autophagy receptor SQSTM1 was further increased in cells transfected with MIR376A antagomirs compared to controls (Figure 7B). These results underlined the importance of endogenous MIR376A activity in the control of the amplitude of starvation-induced autophagy responses of cells.
+
+Figure 7
+Figure 7
+Endogenous MIR376A limits starvation-induced autophagy.
+Response of endogenous MIR376A and MIR376B levels to starvation
+
+We have previously reported that autophagy-related miRNAs accumulated following starvation or mTOR inhibition.[10], [11] To check whether endogenous MIR376A and MIR376B levels were similarly increased during starvation stress, we performed a kinetic analysis using TaqMan qPCR. Although cellular levels of MIR376A and MIR376B were increased in cells exposed to starvation stress, kinetics of the upregulation was different between individual miRNAs. In starved cells, while endogenous MIR376A reached peak levels following a 6 hours lag period (Figure 8A), endogenous MIR376B levels rapidly increased after 1 hr of stress, but the response was transient (Figure 8B). Therefore, the two miRNAs responded to autophagy-inducing starvation signals with different kinetics.
+
+Figure 8
+Figure 8
+MIR376A and MIR376B level changes in response to starvation stress.
+Go to:
+Discussion
+In this study, we demonstrated that another miRNA encoded by the DLK1/GTL2 region and belonging to the MIR376 family, namely MIR376A was an autophagy regulatory miRNA. Inhibitory effect of MIR376A on autophagy was demonstrated using various autophagic tests including GFP-LC3 puncta analysis, LC3II/LC3I gel shift and p62/SQSTM1 degradation tests. The miRNA affected ATG4C and BECN1 protein levels as well as the mRNA levels. MIR376A directly and specifically affected the mRNAs of the autophagy genes, since MREs in the 3′ UTR of both ATG4C and BECN1 were responsive to the inhibitory effects of the miRNA in luciferase tests, and mutations in the relevant regions abolished the suppressive effects. Contribution of the endogenous MIR376A to the control of basal and stress-activated autophagy was documented as well. Specific antagomirs against the miRNA led to a clear increase in both ATG4C and BECN1 mRNA and protein levels, and stimulated autophagic activity in cells.
+
+Since ATG4C and BECN1 function at two different steps of autophagic vesicle formation, targeting of both of these key autophagy proteins at once by the MIR376 family of miRNAs allows a robust decrease in the autophagic activity. In fact, while BECN1 controls the production of PI3-P and regulates of autophagic vesicle nucleation sites, ATG4 is important for LC3 lipidation and in autophagic vesicle membrane elongation. In line with the importance of these proteins in autophagy control, both proteins were reported to be regulated by diverse signals and pathways. In fact, BECN1 was subject to regulation by transcriptional upregulation, protein-protein interactions, phosphorylation and ubiquitination.[19], [20], [21] ATG4 was also reported to be regulated in various ways including transcriptional upregulation and reactive oxygen species [22] Moreover, miRNAs other than MIR376 family were shown to target BECN1 or ATG4 as well. For example, miR-30a targeted BECN1 3′ UTR but at a different and unrelated MRE. Similarly, ATG4 was targeted by autophagy-related MIR101.[23]
+
+Although MIR376A and MIR376B genes are separated from each other by only hundreds of bases and their products are not identical but closely-related (Figure 1B and 1C). Hence, their cellular functions could be overlapping. Indeed, we have previously shown that MIR376B was also blocking starvation-induced autophagy through its effects on ATG4C and BECN1 levels. Yet, we observed in this study that kinetics of miRNA responses during starvation stress were divergent. While endogenous levels of MIR376A increased after 6 hours of starvation, MIR376B levels increased following a short starvation period, but declined rapidly. The observed difference in the response of MIR376A and MIR376B might be relevant to miRNA function during stress. Results presented here provide evidence that, the physiological function of these miRNAs is to control and limit the amplitude of autophagic activity which is strongly stimulated by starvation stress. A sequential accumulation of individual miRNAs might allow a sustained and a two-step control of the autophagic activity depending on the duration of stress. Since uncontrolled autophagic activity could be detrimental for cells, and under certain conditions lead to cell death [24] restriction of aberrant activation of autophagy by miRNAs under stressful conditions might prevent cellular demise and give cells a chance to recover a transient stress.
+
+Data presented here point out to the presence of distinct control mechanisms resulting in dissimilar MIR376A and MIR376B response kinetics. Transcriptional and/or post-transcriptional regulatory mechanisms might be in the origin of these observations. According to Kawahara et.al (2007), miR-376 family members were transcribed as a long primary transcript.[17] Reports by Seitz et al. and Teferedegne et al. confirmed experimentally the presence of a common transcript including MIR376A and MIR376B.[16], [25] In line with these data, a recent study showed that the expression of MIR376A, MIR376B and MIR376C was regulated by a transcription factor called AIRE in a coordinated manner.[26] Although experimental confirmation is currently missing, our bioinformatics analyses revealed that predicted short promoter regions of these two miRNAs could be responsive to overlapping but different transcription factors, indicating that single miRNA transcripts could also co-exist (unpublished data by Ilknur Melis Durasi, Osman Ugur Sezerman and Devrim Gozuacik). If the dominant transcript is a long and polycistronic mRNA coding for both MIR376A and MIR376B, observed differences in the levels and stress-related kinetics of these miRNAs might be the result of posttranscriptional regulation. Indeed, posttranscriptional events were previously shown to affect stability and function of some miRNAs. For example, regulation by DICER was reported to affect the levels of let-7.[27] Moreover, complexes Ago proteins were shown to determine the stability of various miRNAs.[28] Further studies are required to reveal the nature and molecular details of posttranscriptional events that are responsible for the differential regulation of MIR376A and MIR376B levels under stress-inducing conditions.
+
+Differential editing of MIR376 family members was reported in a number of tissues.[17] For example, while +44 site in the seed sequence of MIR376A was not edited in the mouse cortex, in the same tissue MIR376B was highly edited (around 50–60%) at this position.[17] Since editing in the seed region was shown to change target specificity of miRNAs including MIR376A*[17], [29] in addition to relative ratios of MIR376A and MIR376B, ratios between edited versus non-edited versions of MIR376 family members might be important factors leading to changes in autophagy levels in different tissues and cells. Additionally, MIR376A might be compensating autophagy-related functions of MIR376B in tissues where the latter was predominantly edited and, vice versa. Overall, editing frequencies of MIR376 family members and their relative ratios might be critical factors determining the kinetics and the amplitude of autophagic responses in individual tissue and cell types. Further studies are required to analyze and integrate these observations to cellular and organismal autophagy responses.
+
+Tissue-specific expression differences were observed between MIR376A and MIR376B under physiological conditions. While MIR376B is highly expressed in the spleen and adrenal gland, MIR376A was reported to be abundant in the brain and uterus (Fig. S1).[30] A number of studies in the literature, showed the importance of MIR376A during development and differentiation-related events including erythroid differentiation [31], keratinocyte differentiation [32] and skeletal muscle development.[33] MIR376A was also shown to be upregulated during chemical and replicative senescence in human fibroblasts.[34]
+
+Additionally, changes in MIR376 levels were observed under pathological conditions. While MIR376A was downregulated in esophageal cancer [35] and melanomas [36] and upregulated in salivary gland adenomas,[37] and pancreatic carcinomas,[38], [39] MIR376B was differentially expressed in uterine leiomyomas [40] and renal cell carcinomas.[41] Moreover, changes in MIR376A levels could be used as a marker to distinguish acute myeloid leukemia subtypes, but MIR376B could serve as a breast cancer subtype marker.[42] Additionally, MIR376A and MIR376B were subjected to variable levels of editing in glioblastomas.[43]
+
+Autophagy serves as a cellular defense mechanism against various pathogens including viruses.[44], [45] Not surprisingly, as a countermeasure, viruses evolved ways of modulating autophagy during productive and latent stages of the viral infection.[46] miRNAs of both viral and cellular origins were shown to affect cellular responses to viruses such as apoptosis, therefore, it is possible that autophagy-regulating miRNAs play a role in the battle between viruses and the host. In line with a possible role of MIR376 family in virus-host interactions, a miRNA profiling revealed differential expression of MIR376A and MIR376B in control versus HIV-1 positive peripheral blood mononuclear cells.[47] In another study, an interesting interplay between viral miRNAs and MIR376A was reported.[48] MREs for MIR376A in the 3′ UTR of the MICB mRNA (a stress-induced ligand necessary for host cell recognition and destruction by natural killer cells) overlapped with the MRE of Kaposi’s sarcoma-associated herpesvirus (KSHV) miRNA, miR-K12-7. The MIR376A MRE was also in the vicinity of that of miR-UL112 of human cytomegalo virus (HCMV). Surprisingly, when MIR376A was used in combination with KSHV or HCMV miRNA, no antagonism but an increase in target MICB downregulation was observed. In the light of our data, here contribution of MIR376A to viral infection might not be limited to the attenuation of immune responses through MICB downregulation, but it might also involve blockage of antiviral autophagic degradation, autophagy-related antigen presentation on MHC molecules and perhaps autophagic cell death. Indeed, KSHV was previously shown to downregulate autophagy, apoptosis and cell death using its viral FLIP and BCL-2 proteins that target autophagy-related proteins ATG3 and BECN1, respectively. [49], [50] MIR376A and possibly other autophagy-regulating miRNAs might be usurped by viruses to overcome the antiviral effects of autophagy.
+
+Altogether, our results underline the importance of MIR376A and MIR376B, and miRNAs in general, in the control of autophagic responses of cells and tissues. miRNA-mediated regulation provides a flexible and dynamic mechanism for the regulation of autophagy under various stress conditions, and adds another layer of regulation for critical cell death and survival decisions in health and disease.
+
+Go to:
+Materials and Methods
+Plasmid constructs
+
+The pMSCV-blast-miR plasmids, containing either hsa-miR-376a1 human miRNA or control miRNA (hTR-human telomerase RNA), were constructed as described previously.[51] For luciferase tests, miRNA response elements (MRE) located in the 3′UTR of BECN1 or ATG4C genes (ATG4C Genbank accession number: AK027773, bases 2383-2403, and BECN1 Genbank accession number: NM_003766, bases 2030-2051), or their mutant versions were cloned into the 3′UTR region of the luciferase gene in the pGL3 vector (Promega, E1741) as previously described.[10] ATG4C plasmid was purchased from Origene (SC126496). BECN1 cDNA ORF was cloned into the pcDNA3 mammalian expression plasmid using RT-PCR.
+
+Cell culture and transfection
+
+Dulbecco’s modified Eagle’s medium (DMEM; Sigma, D5671) supplemented with 10% (v/v) fetal bovine serum (FBS; Biochrom KG, S0115) and antibiotics (Penicillin/Streptomycin; Biological Industries, 03-031-1B) were used to culture MCF-7 human mammary carcinoma cells, Huh7 human hepatocellular carcinoma cells and 293T human embryonic kidney cells in a 5% CO2-humidified incubator at 37°C. Cells were cultured in Earl’s balanced salt solution (EBSS; Biological Industries, BI02-010-1A) to activate starvation-induced autophagy. For autophagic flux analyses, cells were cultured in the absence or presence of lysosomal protease inhibitors E64d (10 μg/ml) (Santa Cruz, SC201280A) and pepstatin A (10 μg/ml) (Sigma, P5318).
+
+Polyethyleneimine (PEI; PolySciences Inc., 23966) transfection method was used to transiently transfect MCF-7 and Huh7 cells.[52] For transfection of 293T cells, calcium phosphate co-precipitation method was used according to standard protocols.
+
+Quantitative GFP-LC3 analyses
+
+48h post-transfection, GFP-LC3 dot positivity was quantified following 2 hours (MCF-7 cells) or 4 hours (Huh7 cells) starvation in the EBSS medium. 10 or 15 GFP-LC3 dots per cell were considered as a threshold for the basal autophagic activity in MCF-7 and Huh7 cells, respectively. Minimum 150 GFP positive cells were counted under each condition, and percentage of GFP-LC3 positivity was expressed as a percentage of GFP-LC3 dot positive cells within the total transfected cell population.
+
+miRNA target prediction
+
+Bioinformatics tools, Microcosm Targets (http://www.ebi.ac.uk/enright-srv/microcosm/cgi-bin/targets/v5/search.pl), and MiRanda (http://www.microrna.org/microrna/home.do) were utilized to determine miRNA potential target mRNAs.
+
+Immunoblotting and antibodies
+
+Protein extracts from cells were prepared and immunoblotted as previously described [53] using antibodies specific to BECN1 (Santa Cruz, sc-11427), LC3B (Novus, NB100-2331), ATG4C (Sigma-Aldrich, AB75056), SQSTM1 (Abnova, H00008878) and ACTB (Sigma-Aldrich, A5441). ImageJ software was used to quantify protein band intensities.[54]
+
+RNA isolation, RT-PCR analysis and Real-time RT-PCR
+
+Total RNA was extracted using TRIzol reagent (Sigma-Aldrich, T9424) according to the manufacturer’s instructions. SYBR® Green Quantitative RT-PCR kit (Roche, 04-913-914-001) was utilized for single step qRT-PCR reactions. The 2−[open triangle][open triangle]CT method was applied for the quantification of mRNA changes, and GAPDH (Glyceraldehyde-3-phosphate dehydrogenase) mRNA was used as control. Primers used in the study were: BECN1 primers 5′-AGGTTGAGAAAGGCGAGACA-3′; 5′-GCTTTTGTCCACTGCTCCTC-3′; ATG4C primers 5′-GCATAAAGGATTTCCCTCTTGA-3′; 5′-GCTGGGATCCATTTTTCG-3′, and GAPDH primers 5′-AGCCACATCGCTCAGACAC-3′; 5′-GCCCAATACGACCAAATCC-3′. Reactions were performed in duplicates and independent experiment repeat numbers (n) were marked.
+
+Endogenous miRNA quantification by TaqMan RT-qPCR
+
+FastStart Universal Probe Master kit (ROCHE, 04913957001) and iCycler iQ thermal cycler (BioRad) was used for TaqMan qPCR reactions. Reactions were previously described.[11] Primers used in this study were: Stemloop primer for MIR376A: 5′-GTCGTATCCAGTGCAGGGTCCGAGGTATTCGCACTGGATACGACACGTGGATTTTCCTCTATGAT-3′; Forward primer for MIR376A: 5′-ATTAATCATAGAGGAAATCCACG-3′; Reverse primer for MIR376A: 5′-GTGCAGGGTCCGAGGT-3′; Probe for MIR376A: 5'(6-FAM)- TGCACTGGATACGACACGTGGA-(TAMRA-Sp)3'. Primers for U6 small nuclear 1, and MIR376B were previously described.[10]
+
+Dual luciferase reporter assay
+
+Firefly and renilla activities in cell extracts were measured using dual-luciferase reporter assay system (Promega, E1910) according to manufacturer’s instructions. Results were expressed as firely luciferase activity normalized to renilla luciferase activity and analyzed as described previously.[10], [11]
+
+Antagomir tests
+
+miRIDIAN® microRNA Hairpin Inhibitors (antagomirs) against hsa-miR-376a1 (IH-300683-05-0005) and a control antagomir (miRIDIAN microRNA Hairpin Inhibitor Negative Control (IN-001005-01-05)) were purchased from Dharmacon. Antagomir transfections (200 nM) were performed using the PEI transfection method.[52]
+
+Statistical analyses
+
+Statistical analyses were performed using Student’s two-tailed t-test. Data were represented as means of ± SD of n independent experiments. Values of p<0.05 were considered as significant.
+
+Go to:
+Supporting Information
+Figure S1
+
+Data extracted and analyzed using miRNA body map online website (http://www.mirnabodymap.org/) based on the high throughput microRNA expression analysis in normal tissues.[30]
+
+(TIF)
+
+Click here for additional data file.(496K, tif)
+Go to:
+Acknowledgments
+miRNA library used in the original screen was kindly provided by Reuven Agami. GFP-LC3 plasmid was kindly provided by Tomatsu Yoshimori.
+
+Go to:
+Funding Statement
+This work was supported by The Scientific and Technological Research Council of Turkey (TUBITAK) 1001 Grant and Sabanci University. D.G. and A.K are recipients the Turkish Academy of Sciences (TUBA) GEBIP Award. D.G. is a recipient of the EMBO Strategical Development and Installation Grant (EMBO-SDIG) and A.K. is a recipient of the TUBITAK Incentive Award. G.K. and K.A.T. are recipients of Yousef Jameel and TUBITAK-BIDEB PhD Scholarships, respectively. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Go to:
+References
+1. Mizushima N (2007) Autophagy: process and function. Genes Dev 21: 2861–2873. [PubMed]
+2. Mizushima N, Yoshimori T, Ohsumi Y (2011) The role of Atg proteins in autophagosome formation. Annu Rev Cell Dev Biol 27: 107–132. [PubMed]
+3. Ravikumar B, Sarkar S, Davies JE, Futter M, Garcia-Arencibia M, et al. (2010) Regulation of mammalian autophagy in physiology and pathophysiology. Physiol Rev 90: 1383–1435. [PubMed]
+4. Klionsky DJ, Abdalla FC, Abeliovich H, Abraham RT, Acevedo-Arozena A, et al. (2012) Guidelines for the use and interpretation of assays for monitoring autophagy. Autophagy 8: 445–544. [PMC free article] [PubMed]
+5. Ohsumi Y, Mizushima N (2004) Two ubiquitin-like conjugation systems essential for autophagy. Semin Cell Dev Biol 15: 231–236. [PubMed]
+6. Tanida I, Ueno T, Kominami E (2004) Human light chain 3/MAP1LC3B is cleaved at its carboxyl-terminal Met121 to expose Gly120 for lipidation and targeting to autophagosomal membranes. J Biol Chem 279: 47704–47710. [PubMed]
+7. Kabeya Y, Mizushima N, Ueno T, Yamamoto A, Kirisako T, et al. (2000) LC3, a mammalian homologue of yeast Apg8p, is localized in autophagosome membranes after processing. EMBO J 19: 5720–5728. [PMC free article] [PubMed]
+8. Mizushima N, Levine B (2010) Autophagy in mammalian development and differentiation. Nat Cell Biol 12: 823–830. [PMC free article] [PubMed]
+9. Frankel LB, Lund AH (2012) MicroRNA regulation of autophagy. Carcinogenesis 33: 2018–2025. [PubMed]
+10. Korkmaz G, le Sage C, Tekirdag KA, Agami R, Gozuacik D (2012) miR-376b controls starvation and mTOR inhibition-related autophagy by targeting ATG4C and BECN1. Autophagy 8: 165–176. [PubMed]
+11. Tekirdag KA, Korkmaz G, Ozturk DG, Agami R, Gozuacik D (2013) MIR181A regulates starvation- and rapamycin-induced autophagy through targeting of ATG5. Autophagy 9: 374–385. [PMC free article] [PubMed]
+12. Ambros V (2004) The functions of animal microRNAs. Nature 431: 350–355. [PubMed]
+13. Russo G, Giordano A (2009) miRNAs: from biogenesis to networks. Methods Mol Biol 563: 303–352. [PubMed]
+14. le Sage C, Agami R (2006) Immense promises for tiny molecules: uncovering miRNA functions. Cell Cycle 5: 1415–1421. [PubMed]
+15. Kircher M, Bock C, Paulsen M (2008) Structural conservation versus functional divergence of maternally expressed microRNAs in the Dlk1/Gtl2 imprinting region. BMC Genomics 9: 346. [PMC free article] [PubMed]
+16. Seitz H, Royo H, Bortolin ML, Lin SP, Ferguson-Smith AC, et al. (2004) A large imprinted microRNA gene cluster at the mouse Dlk1-Gtl2 domain. Genome Res 14: 1741–1748. [PMC free article] [PubMed]
+17. Kawahara Y, Zinshteyn B, Sethupathy P, Iizasa H, Hatzigeorgiou AG, et al. (2007) Redirection of silencing targets by adenosine-to-inosine editing of miRNAs. Science 315: 1137–1140. [PMC free article] [PubMed]
+18. Bjorkoy G, Lamark T, Brech A, Outzen H, Perander M, et al. (2005) p62/SQSTM1 forms protein aggregates degraded by autophagy and has a protective effect on huntingtin-induced cell death. Journal of Cell Biology 171: 603–614. [PMC free article] [PubMed]
+19. Russell RC, Tian Y, Yuan H, Park HW, Chang YY, et al. (2013) ULK1 induces autophagy by phosphorylating Beclin-1 and activating VPS34 lipid kinase. Nat Cell Biol 15: 741–750. [PMC free article] [PubMed]
+20. Wang RC, Wei Y, An Z, Zou Z, Xiao G, et al. (2012) Akt-mediated regulation of autophagy and tumorigenesis through Beclin 1 phosphorylation. Science 338: 956–959. [PMC free article] [PubMed]
+21. Platta HW, Abrahamsen H, Thoresen SB, Stenmark H (2012) Nedd4-dependent lysine-11-linked polyubiquitination of the tumour suppressor Beclin 1. Biochem J 441: 399–406. [PMC free article] [PubMed]
+22. Scherz-Shouval R, Shvets E, Fass E, Shorer H, Gil L, et al. (2007) Reactive oxygen species are essential for autophagy and specifically regulate the activity of Atg4. EMBO J 26: 1749–1760. [PMC free article] [PubMed]
+23. Frankel LB, Wen J, Lees M, Hoyer-Hansen M, Farkas T, et al. (2011) microRNA-101 is a potent inhibitor of autophagy. EMBO J 30: 4628–4641. [PMC free article] [PubMed]
+24. Gozuacik D, Kimchi A (2007) Autophagy and cell death. Curr Top Dev Biol 78: 217–245. [PubMed]
+25. Teferedegne B, Murata H, Quinones M, Peden K, Lewis AM (2010) Patterns of microRNA expression in non-human primate cells correlate with neoplastic development in vitro. PLoS One 5: e14416. [PMC free article] [PubMed]
+26. Macedo C, Evangelista AF, Marques MM, Octacilio-Silva S, Donadi EA, et al. (2013) Autoimmune regulator (Aire) controls the expression of microRNAs in medullary thymic epithelial cells. Immunobiology 218: 554–560. [PubMed]
+27. Siomi H, Siomi MC (2010) Posttranscriptional regulation of microRNA biogenesis in animals. Mol Cell 38: 323–332. [PubMed]
+28. Winter J, Diederichs S (2011) Argonaute proteins regulate microRNA stability: Increased microRNA abundance by Argonaute proteins is due to microRNA stabilization. RNA Biol 8: 1149–1157. [PubMed]
+29. Breving K, Esquela-Kerscher A (2010) The complexities of microRNA regulation: mirandering around the rules. Int J Biochem Cell Biol 42: 1316–1329. [PubMed]
+30. Mestdagh P, Lefever S, Pattyn F, Ridzon D, Fredlund E, et al. (2011) The microRNA body map: dissecting microRNA function through integrative genomics. Nucleic Acids Res 39: e136. [PMC free article] [PubMed]
+31. Wang F, Yu J, Yang GH, Wang XS, Zhang JW (2011) Regulation of erythroid differentiation by miR-376a and its targets. Cell Res 21: 1196–1209. [PMC free article] [PubMed]
+32. Hildebrand J, Rutze M, Walz N, Gallinat S, Wenck H, et al. (2011) A comprehensive analysis of microRNA expression during human keratinocyte differentiation in vitro and in vivo. J Invest Dermatol 131: 20–29. [PubMed]
+33. McDaneld TG, Smith TP, Doumit ME, Miles JR, Coutinho LL, et al. (2009) MicroRNA transcriptome profiles during swine skeletal muscle development. BMC Genomics 10: 77. [PMC free article] [PubMed]
+34. Faraonio R, Salerno P, Passaro F, Sedia C, Iaccio A, et al. (2012) A set of miRNAs participates in the cellular senescence program in human diploid fibroblasts. Cell Death Differ 19: 713–721. [PMC free article] [PubMed]
+35. Zhao BS, Liu SG, Wang TY, Ji YH, Qi B, et al. (2013) Screening of MicroRNA in Patients with Esophageal Cancer at Same Tumor Node Metastasis Stage with Different Prognoses. Asian Pac J Cancer Prev 14: 139–143. [PubMed]
+36. Zehavi L, Avraham R, Barzilai A, Bar-Ilan D, Navon R, et al. (2012) Silencing of a large microRNA cluster on human chromosome 14q32 in melanoma: biological effects of mir-376a and mir-376c on insulin growth factor 1 receptor. Mol Cancer 11: 44. [PMC free article] [PubMed]
+37. Zhang X, Cairns M, Rose B, O'Brien C, Shannon K, et al. (2009) Alterations in miRNA processing and expression in pleomorphic adenomas of the salivary gland. Int J Cancer 124: 2855–2863. [PubMed]
+38. Liu X, Sempere LF, Ouyang H, Memoli VA, Andrew AS, et al. (2010) MicroRNA-31 functions as an oncogenic microRNA in mouse and human lung cancer cells by repressing specific tumor suppressors. J Clin Invest 120: 1298–1309. [PMC free article] [PubMed]
+39. Lee EJ, Gusev Y, Jiang J, Nuovo GJ, Lerner MR, et al. (2007) Expression profiling identifies microRNA signature in pancreatic cancer. Int J Cancer 120: 1046–1054. [PMC free article] [PubMed]
+40. Wang T, Zhang X, Obijuru L, Laser J, Aris V, et al. (2007) A micro-RNA signature associated with race, tumor size, and target gene activity in human uterine leiomyomas. Genes Chromosomes Cancer 46: 336–347. [PubMed]
+41. Nakada C, Matsuura K, Tsukamoto Y, Tanigawa M, Yoshimoto T, et al. (2008) Genome-wide microRNA expression profiling in renal cell carcinoma: significant down-regulation of miR-141 and miR-200c. J Pathol 216: 418–427. [PubMed]
+42. Chan E, Prado DE, Weidhaas JB (2011) Cancer microRNAs: from subtype profiling to predictors of response to therapy. Trends Mol Med 17: 235–243. [PMC free article] [PubMed]
+43. Skalsky RL, Cullen BR (2011) Reduced expression of brain-enriched microRNAs in glioblastomas permits targeted regulation of a cell death gene. PLoS One 6: e24248. [PMC free article] [PubMed]
+44. Deretic V, Levine B (2009) Autophagy, immunity, and microbial adaptations. Cell Host Microbe 5: 527–549. [PMC free article] [PubMed]
+45. Romao S, Gannage M, Munz C (2013) Checking the garbage bin for problems in the house, or how autophagy assists in antigen presentation to the immune system. Semin Cancer Biol 23: 391–396. [PubMed]
+46. Silva LM, Jung JU (2013) Modulation of the autophagy pathway by human tumor viruses. Semin Cancer Biol 23: 323–328. [PMC free article] [PubMed]
+47. Duskova K, Nagilla P, Le HS, Iyer P, Thalamuthu A, et al. (2013) MicroRNA regulation and its effects on cellular transcriptome in human immunodeficiency virus-1 (HIV-1) infected individuals with distinct viral load and CD4 cell counts. BMC Infect Dis 13: 250. [PMC free article] [PubMed]
+48. Nachmani D, Lankry D, Wolf DG, Mandelboim O (2010) The human cytomegalovirus microRNA miR-UL112 acts synergistically with a cellular microRNA to escape immune elimination. Nat Immunol 11: 806–813. [PubMed]
+49. Lee JS, Li Q, Lee JY, Lee SH, Jeong JH, et al. (2009) FLIP-mediated autophagy regulation in cell death control. Nat Cell Biol 11: 1355–1362. [PMC free article] [PubMed]
+50. Sinha S, Colbert CL, Becker N, Wei Y, Levine B (2008) Molecular basis of the regulation of Beclin 1-dependent autophagy by the gamma-herpesvirus 68 Bcl-2 homolog M11. Autophagy 4: 989–997. [PMC free article] [PubMed]
+51. Voorhoeve PM, le Sage C, Schrier M, Gillis AJ, Stoop H, et al. (2006) A genetic screen implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell tumors. Cell 124: 1169–1181. [PubMed]
+52. Foley CJ, Freedman H, Choo SL, Onyskiw C, Fu NY, et al. (2008) Dynamics of RASSF1A/MOAP-1 association with death receptors. Mol Cell Biol 28: 4520–4535. [PMC free article] [PubMed]
+53. Oral O, Oz-Arslan D, Itah Z, Naghavi A, Deveci R, et al. (2012) Cleavage of Atg3 protein by caspase-8 regulates autophagy during receptor-activated cell death. Apoptosis 17: 810–820. [PubMed]
+54. Abramoff MD, Magalhães PJ, Ram SJ (2004) Image Processing with ImageJ. Biophotonics International 11: 36–42.

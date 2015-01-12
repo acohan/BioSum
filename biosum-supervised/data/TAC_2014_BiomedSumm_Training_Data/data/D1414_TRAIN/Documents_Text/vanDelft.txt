@@ -1,0 +1,562 @@
+The BH3 mimetic ABT-737 targets selective Bcl-2 proteins and efficiently induces apoptosis via Bak/Bax if Mcl-1 is neutralized
+Mark F. van Delft1, 2, 4, Andrew H. Wei1, 4, 6, Kylie D. Mason1, 2, Cassandra J. Vandenberg1, Lin Chen1, Peter E. Czabotar1, Simon N. Willis1, Clare L. Scott1, Catherine L. Day3, Suzanne Cory1, Jerry M. Adams1, 5, Andrew W. Roberts1, 5, David C.S. Huang1, 5, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.ccr.2006.08.027
+Under an Elsevier user license
+Referred to by
+Anthony Letai
+Restoring cancer's death sentence
+Cancer Cell, Volume 10, Issue 5, November 2006, Pages 343-345
+ PDF (688 K)
+  Open Archive
+Summary
+Since apoptosis is impaired in malignant cells overexpressing prosurvival Bcl-2 proteins, drugs mimicking their natural antagonists, BH3-only proteins, might overcome chemoresistance. Of seven putative BH3 mimetics tested, only ABT-737 triggered Bax/Bak-mediated apoptosis. Despite its high affinity for Bcl-2, Bcl-xL, and Bcl-w, many cell types proved refractory to ABT-737. We show that this resistance reflects ABT-737's inability to target another prosurvival relative, Mcl-1. Downregulation of Mcl-1 by several strategies conferred sensitivity to ABT-737. Furthermore, enforced Mcl-1 expression in a mouse lymphoma model conferred resistance. In contrast, cells overexpressing Bcl-2 remained highly sensitive to ABT-737. Hence, ABT-737 should prove efficacious in tumors with low Mcl-1 levels, or when combined with agents that inactivate Mcl-1, even to treat those tumors that overexpress Bcl-2.
+
+Author Keywords
+CELLCYCLE
+SIGNIFICANCE
+Targeting the prosurvival Bcl-2-like proteins for cancer therapy is attractive because their overactivity promotes tumor formation and often limits responses to cytotoxic agents. Hence, drugs mimicking their antagonists, BH3-only proteins, offer promise as anticancer agents. Unlike other putative BH3 mimetics tested, ABT-737 induced apoptosis by the expected mechanism. Because ABT-737 targets only certain prosurvival proteins (Bcl-2, Bcl-xL, Bcl-w), its efficacy as a single agent is restricted to tumors where prosurvival Mcl-1 is low. We show that resistant cells can be sensitized to ABT-737 by approaches that downregulate, destabilize, or inactivate Mcl-1. Our studies provide a rational basis for designing clinical trials of this highly promising agent and a benchmark for systematically evaluating BH3 mimetic compounds.
+
+Introduction
+Impaired apoptosis is a central step in tumor development (Hanahan and Weinberg, 2000) and renders the tumor cell more resistant to conventional cytotoxic therapy (Johnstone et al., 2002). Consequently, an attractive approach for anticancer therapeutics is to overcome this inherent resistance to apoptosis by directly activating the normal cell death machinery (Fesik, 2005).
+
+The key regulators of apoptosis are the interacting proteins of the Bcl-2 family (Cory et al., 2003). Its prosurvival members, Bcl-xL, Bcl-w, Mcl-1, and A1 (Bfl-1), as well as Bcl-2 itself, are countered by a subfamily of distantly related death ligands, the BH3-only proteins (Huang and Strasser, 2000), which share with other family members only the short BH3 interaction domain. When BH3-only proteins such as Bim, Bad, or Noxa are activated by developmental cues or intracellular damage, their amphipathic α-helical BH3 domain inserts into a hydrophobic groove on their prosurvival target (Liu et al., 2003, Petros et al., 2000 and Sattler et al., 1997). This key interaction initiates apoptosis, but cell death ensues only in cells that express Bax and/or Bak (Cheng et al., 2001, Lindsten et al., 2000 and Zong et al., 2001), related multidomain proapoptotic Bcl-2 family members. When activated, Bax and Bak oligomerize on the mitochondrial outer membrane and permeabilize it, inducing the release of apoptogenic proteins, including cytochrome c, that promote activation of the caspases that mediate cellular demolition.
+
+In many tumors, the capacity of the Bcl-2 family to remove damaged cells is subverted, either because a prosurvival family member is overexpressed (Cory et al., 2003), or because mutations in the p53 pathway ablate induction by p53 of the BH3-only proteins Puma and Noxa, which would otherwise trigger apoptosis (Jeffers et al., 2003, Shibue et al., 2003 and Villunger et al., 2003). Nevertheless, nearly all tumors retain the core apoptotic machinery. Therefore, there is great interest in the prospect of developing anticancer agents that directly target Bcl-2-like prosurvival proteins by mimicking the BH3 domain (Baell and Huang, 2002, Fesik, 2005 and Rutledge et al., 2002). A “BH3 mimetic” should readily kill tumor cells, even those lacking p53 function.
+
+Although targeting a protein-protein interaction for therapeutics is challenging (Cochran, 2001), several candidate BH3 mimetics, both peptidic and nonpeptidic, have now been reported (Baell and Huang, 2002, Oltersdorf et al., 2005, Rutledge et al., 2002 and Walensky et al., 2004). The search for nonpeptidyl small molecules that might act as killer BH3 ligands has included both in silico screens (e.g., Wang et al., 2000) and “wet” screening of compound libraries (e.g., Degterev et al., 2001). Most of the putative BH3 mimetics so far described, however, have an affinity for their presumed protein targets that is far lower than that of BH3-only proteins (Chen et al., 2005 and Petros et al., 2000), and the mechanism of their cytotoxic action is not well established (Baell and Huang, 2002 and Rutledge et al., 2002).
+
+To establish whether putative BH3 mimetics in fact kill via the Bcl-2-regulated pathway, we have explored whether their cytotoxic action requires the expression of Bax and Bak. Surprisingly, six of the seven putative BH3 mimetics tested killed cells lacking Bax and Bak. The exception was ABT-737, a recently described compound from Abbott Laboratories (Oltersdorf et al., 2005). ABT-737 holds great promise, as it avidly binds the prosurvival proteins most similar to Bcl-2 and induces Bax/Bak-dependent killing. Nevertheless, with many cells, ABT-737 was not cytotoxic on its own. Its behavior mirrored that of the BH3-only protein Bad, which we showed recently to be a relatively weak killer because it cannot engage the more divergent Bcl-2 homolog Mcl-1 (Chen et al., 2005 and Willis et al., 2005). Recent studies argue that Mcl-1 has a critical, distinctive role in the control of apoptosis (Cuconati et al., 2003, Nijhawan et al., 2003 and Opferman et al., 2005). Indeed, we find that Mcl-1 greatly constrains the cytotoxic action of ABT-737. Accordingly, we show that several strategies for downregulating Mcl-1, some clinically applicable, render diverse cells highly sensitive to ABT-737, even in the face of high Bcl-2 expression. These findings have notable implications for the ways potential drugs like ABT-737 might be used for treating patients with cancer.
+
+Results
+Most putative BH3 mimetics do not kill like BH3-only proteins
+BH3-only proteins require Bax or Bak to kill mouse embryo fibroblasts (MEFs) (Cheng et al., 2001 and Zong et al., 2001). As expected, infection with retroviruses encoding Bim or truncated Bid (tBid) rapidly killed wild-type (WT) MEFs, but not MEFs lacking both Bax and Bak (Figure 1A). Furthermore, we have found that MEFs lacking both Bax and Bak exhibit clonogenic survival even when a BH3-only protein such as Bim is overexpressed (Figure 1B).
+
+Full-size image (70 K)
+Figure 1. 
+Many putative BH3 mimetics do not kill like BH3-only proteins
+A: The viability of wild-type MEFs (WT) or Bax- and Bak-deficient MEFs (DKO) 24 hr after infection with the indicated retroviruses. Expression of the cDNA encoding the BH3-only protein BimS or tBid was linked by an IRES to that of GFP, and the viability of GFP+ cells was determined by PI exclusion.
+B: Representative wells showing colony formation by wild-type (WT) or Bax/Bak-deficient (DKO) MEFs after infection with the control parental retrovirus or one expressing BimL.
+C–H: The viability (percent cells excluding PI) of WT or Bax- and Bak-deficient (DKO) MEFs treated for 24 hr with graded doses of the indicated putative BH3 mimetics.
+I: Colonies formed by wild-type (WT) or Bax/Bak-deficient (DKO) MEFs in the presence of no treatment, HA14-1, or Antimycin A.
+J: The relative affinities (IC50 in nM) of a Bim BH3 peptide (as previously reported; Chen et al., 2005) and several putative BH3 mimetic compounds for Bcl-2 and/or Bcl-w. The affinities were measured in solution competition assays (Chen et al., 2005).
+Data in A and C–H represent means ± SD from three independent experiments.
+Figure options
+In contrast, Bax/Bak-deficient cells were as sensitive as WT ones to killing by several small chemical entities reported to be BH3 mimetics: HA14-1 (Wang et al., 2000), BH3I-1 (Degterev et al., 2001), Compound 6 (Enyedy et al., 2001), Antimycin A (Tzung et al., 2001), Chelerythrine (Chan et al., 2003), and Gossypol (Kitada et al., 2003), both in short-term (Figures 1C–1H) and clonogenic survival assays (Figure 1I). Clearly, as their cytotoxic activity does not depend on Bax and/or Bak, none of these compounds functioned solely as a BH3 mimetic. This may reflect their affinities for prosurvival targets, which are much lower (μM range) than those of the BH3-only proteins (nM range) (Chen et al., 2005 and Petros et al., 2000). Solution competition assays with an optical biosensor confirmed the weak affinities (Figure 1J) of some of the compounds (HA14-1, BH3I-1, Antimycin A, Gossypol) for their putative targets, in accord with another recent study (Zhai et al., 2006).
+
+ABT-737, a Bad-like BH3 mimetic compound
+In contrast to these compounds, in solution competition assays (Chen et al., 2005) the BH3 mimetic ABT-737 (Oltersdorf et al., 2005) bound with high affinity to Bcl-2, Bcl-xL, and Bcl-w (IC50 < 10 nM), but not detectably to the more divergent Mcl-1 or A1 (Figure S1A in the Supplemental Data available with this article online). Furthermore, direct binding studies using isothermal calorimetry confirmed tight stoichiometric (1:1) binding of ABT-737 to Bcl-xL (Figure S1B), akin to the binding of Bim (Figure S1C), whereas unlike Bim (Figure S1D) the drug did not bind Mcl-1 (Figure S1B). Thus, ABT-737 targets the same selected subset of prosurvival proteins as the BH3-only protein Bad (Chen et al., 2005).
+
+ABT-737 kills through Bax/Bak, but efficient killing also requires Mcl-1 neutralization
+Notably, Bax/Bak-deficient MEFs were completely resistant to ABT-737 (Figure 2A). However, even WT MEFs were unexpectedly refractory to the drug; after 48 hr of exposure to the maximal dose tested (10 μM), ∼80% of them remained viable (Figure 2A). We hypothesized that the limited cytotoxic action of ABT-737 reflects its restricted binding spectrum for the prosurvival proteins (Figure 2B and Figure S1A).
+
+Full-size image (55 K)
+Figure 2. 
+ABT-737 cooperates with Noxa to induce Bax/Bak-dependent killing
+A: The viability of wild-type MEFs (WT), Bax/Bak-deficient MEFs (DKO), and Bak- or Bax-singly deficient MEFs was determined by PI exclusion 48 hr after exposure to ABT-737 (10 μM) or Etoposide (10 μM).
+B: ABT-737 is a Bad BH3 mimetic. Based on the relative affinities (IC50 in nM) of ABT-737 for mammalian prosurvival proteins, determined in solution competition assays (Figure S1A), ABT-737 and Bad bind to the same subset of Bcl-2 prosurvival proteins. According to our model for initiating the apoptotic program (Chen et al., 2005 and Willis et al., 2005), Bad and Noxa are poor inducers of apoptosis individually because each binds only a subset of the prosurvival proteins, whereas Bim is a potent killer because it binds all of them. By this rationale, ABT-737 (like Bad) should also cooperate with Noxa to kill cells.
+C: Noxa triggers Mcl-1 degradation. Immunoblots of lysates prepared from the MEFs after retroviral infection with wild-type Noxa or the 3E mutant (an inactive mutant that does not bind Mcl-1) probed for Mcl-1 and HSP70 (loading control).
+D: Noxa sensitizes wild-type MEFs to ABT-737 killing. Wild-type MEFs expressing wild-type human Noxa or an inactive mutant (Noxa 3E) (Willis et al., 2005) were exposed to ABT-737 for 8 hr, and their viability was determined.
+E: Bax/Bak-deficient MEFs (DKO) are resistant to ABT-737 even when Mcl-1 is targeted. Long-term clonogenic survival of cells exposed to ABT-737. Equal numbers of the indicated MEFs, or their counterparts stably expressing Noxa or the inactive Noxa 3E, were plated in media containing vehicle or ABT-737 (1 μM, replenished after 3 days), and the colonies formed were scored after 6 days. The number of colonies obtained with ABT-737 treatment is expressed as a proportion of colonies formed with the vehicle alone. †, no colonies.
+F: Either Bax or Bak can mediate killing by ABT-737 provided Mcl-1 is targeted. Viability of the indicated MEFs stably expressing Noxa was determined 8 hr after exposure to ABT-737. Note that Bax/Bak-deficient MEFs (DKO) are resistant.
+G: Noxa sensitizes FDC-P1 myeloid cells to ABT-737 killing. The viabilities of FDC-P1 cells, retrovirally infected to express Noxa, mutant Noxa 3E, or Bad, were compared after a 24 hr treatment with graded doses of ABT-737.
+Data in A and D–G represent means ± SD from a representative of three experiments.
+Figure options
+In this regard, we reported recently that the cytotoxic action of Bad, which ABT-737 closely resembles, can be potently augmented by coexpression of Noxa, which selectively targets Mcl-1 and A1 (Chen et al., 2005) and promotes Mcl-1 degradation (Willis et al., 2005). Hence, we tested whether enforced Noxa expression would render the WT MEFs sensitive to ABT-737. As expected (Willis et al., 2005), WT Noxa, but not a nonbinding Noxa mutant 3E triggered marked Mcl-1 degradation (Figure 2C). Importantly, Noxa sensitized the WT cells to ABT-737 (Figure 2D), but not other cell death inducers (Figure S2 and data not shown). In striking contrast, the Bax/Bak-deficient MEFs remained entirely resistant, as assessed by either long-term clonogenicity (Figure 2E) or short-term viability (Figure 2F). Killing of Noxa-expressing cells required either Bax or Bak, but the killing was more efficient in the presence of both (Figure 2F).
+
+Sensitization to ABT-737 by Noxa is not restricted to the MEFs. The myelomonocytic cell line FDC-P1 proved to be highly resistant to treatment with ABT-737 (EC50 > 10 μM), but introduction of Noxa, ineffectual by itself (Chen et al., 2005 and Willis et al., 2005) (data not shown), increased sensitivity over 2000-fold (EC50 ∼5 nM; Figure 2G). In contrast, as anticipated from the similar binding profiles of ABT-737 and Bad (Figure 2B), introduction of Bad did not enhance sensitivity, nor did the inert Noxa mutant 3E (Figure 2G).
+
+The sensitized cells died by apoptosis, as the loss of plasma membrane integrity (measured by uptake of propidium iodide) required caspase activity (Figure 3A), and cell death was associated with release of cytochrome c from mitochondria ( Figure 3B). ABT-737 also caused Bax/Bak-dependent cytochrome c release in vitro, but only when Mcl-1 had been neutralized with Noxa ( Figure 3C).
+
+Full-size image (45 K)
+Figure 3. 
+ABT-737 induces cytochrome c release and caspase-dependent apoptosis when Mcl-1 is neutralized
+A: Cell death triggered by ABT-737 is caspase dependent. Noxa-expressing wild-type MEFs were treated with ABT-737 (1 μM), and their viability was assessed by PI exclusion; coincubation with the broad-spectrum caspase inhibitor zVAD.fmk (50 μM) abrogated ABT-737 killing at this time point. Data represent means ± SD from three independent experiments.
+B: ABT-737 induces cytochrome c release when Mcl-1 is neutralized. Noxa-expressing wild-type (WT) or Bax/Bak-deficient MEFs (DKO) were exposed to ABT-737 (10 μM for 4 hr), permeabilized with digitonin to wash out any cytochrome c released to the cytosol, and then fixed. Residual mitochondrial cytochrome c was detected by immunostaining and flow cytometry ( Waterhouse et al., 2004). ABT-737 triggered loss of cytochrome c from the mitochondria of WT MEFs, as indicated by the peak of weaker staining (compare filled with unfilled histogram; upper), but not from the Bax/Bak-deficient DKO MEFs (lower).
+C: ABT-737 and Noxa cooperate in vitro to release cytochrome c. Lysates prepared from wild-type (left) or Bax/Bak-deficient MEFs (DKO; right) stably expressing Noxa or Bad were incubated with vehicle (−) or 5 μM ABT-737 (+), before fractionation into the pellet (P) and supernatant (S) fractions. Equivalent fractions were probed for cytochrome c, Bcl-2 (membrane fraction marker), and Apaf-1 (cytosolic marker).
+Figure options
+We conclude that ABT-737 is a bona fide BH3 mimetic, since it induces Bax/Bak-mediated cell killing, but that its selective binding profile limits its cytotoxicity in some cell types. We attribute the ability of Noxa to sensitize otherwise resistant cells to its capacity to neutralize prosurvival proteins not targeted by ABT-737. Even though Noxa targets both Mcl-1 and A1 (Chen et al., 2005), absence of the latter in many cell types (see below and Willis et al., 2005) points to Mcl-1 as an important predictor of responsiveness to ABT-737.
+
+Mcl-1 downregulation sensitizes human carcinoma cells to ABT-737, which initiates apoptosis by inactivating prosurvival proteins
+Having implicated Mcl-1, we next tested whether refractory human carcinoma cell lines could be sensitized by downregulating Mcl-1, by retroviral introduction of either Noxa or a specific human Mcl-1 short hairpin RNA. Immunoblots showed that Mcl-1 levels were markedly downregulated in both HeLa cervical epithelial cells (Figure 4A, bottom) and MCF-7 breast epithelial cells (Figure 4C, bottom). Importantly, both ways of reducing the Mcl-1 level potently sensitized these cells to ABT-737 in colony formation assays (top panels of Figures 4A and 4C). In striking contrast, when Mcl-1 levels were unperturbed (e.g., by the inert Noxa mutant or the vector control), long-term growth was not impaired by ABT-737 (Figures 2E, 4A, and 4C). Importantly, reintroduction of mouse mcl-1, which is not targeted by the human mcl-1-specific RNAi hairpin used, restored colony formation ( Figures 4B and 4D), excluding the contribution of nonspecific targets.
+
+Full-size image (60 K)
+Figure 4. 
+Neutralizing Mcl-1 sensitizes different cell types to ABT-737
+A–D: Colony formation after continuous exposure to ABT-737 (1 μM, replenished every 3 days) of HeLa (A and B) or MCF-7 cells (C and D) infected with empty vectors, or stably expressing Noxa, mutant Noxa 3E, RNAi targeting Mcl-1, or RNAi to an irrelevant target (control RNAi). Introduction of mouse Mcl-1, which is not targeted by the human-specific Mcl-1 RNAi construct, restored the resistance in HeLa (B) or MCF-7 cells (D) to ABT-737. Clonogenic survival data (after 7 days) represent means ± SD from three independent experiments. A and B: The lower panels are immunoblots for Mcl-1 or HSP70 (loading control). C and D: The lower panels are immunoblots for human Mcl-1 (top), mouse Mcl-1 (middle: asterisk indicates residual signal from human Mcl-1 probe), or HSP70 (lower panel).
+E: ABT-737 triggers Bax activation when Mcl-1 is neutralized. HeLa cells expressing mutant Noxa 3E, Noxa, or Mcl-1 RNAi were treated for 4 hr with ABT-737 (10 μM), and Bax activation was detected by flow cytometric analysis after staining permeabilized cells with an antibody (clone 3) that specifically recognizes activated Bax (Willis et al., 2005).
+Figure options
+ABT-737 does not activate Bax directly
+We next considered whether the drug could kill by directly activating Bax/Bak, as proposed for certain BH3-only proteins ( Kuwana et al., 2005 and Letai et al., 2002). Direct activation appeared unlikely because most cell types contain both Bax and Bak and nevertheless tolerate high concentrations of the drug with no apparent ill effects ( Oltersdorf et al., 2005) (Figures 2 and 4A–4D). Furthermore, we established that ABT-737 does not bind Bax ( Figure S1E) and, when used on cells, only triggered Bax to undergo the conformational alteration that marks its activation ( Willis et al., 2005) if Mcl-1 had been inactivated with Noxa or by mcl-1 RNAi ( Figure 4E). We therefore conclude that ABT-737 causes Bax/Bak activation indirectly, by binding tightly and selectively to Bcl-2, Bcl-xL, and Bcl-w ( Figure 2 and Figure S1).
+
+ABT-737 effectively counters overexpression of Bcl-2
+When ABT-737 is used alone, the experiments above (Figure 2, Figure 3 and Figure 4) identify Mcl-1 as a key factor that determines if a cell responds. A1, the other prosurvival protein that the drug fails to bind (Figure S1A), is not expressed in most tumor cell lines, including MCF-7 and HeLa cells (Su et al., 2002), or in MEFs (Willis et al., 2005). To directly test if A1 also impairs response to ABT-737, we have exploited a variant Noxa BH3 that we have found to be highly selective for Mcl-1 over A1 and other prosurvival proteins, namely mouse Noxa BH3 B (mNoxaB), as well as a mutant of it (E74F) that binds both Mcl-1 and A1 (Figure 5A). Each of these BH3 sequences, inserted within an inert BimS backbone, was introduced via retroviruses into MEFs engineered to overexpress A1. When treated with ABT-737, the Mcl-1-selective ligand (mNoxaB) was less effective at blocking colony growth than the E74F mutant that binds both guardians (Figure 5B). Hence, A1 can also reduce sensitivity to ABT-737.
+
+Full-size image (33 K)
+Figure 5. 
+Prosurvival proteins differ in their ability to antagonize ABT-737
+A: Noxa variants that selectively neutralize Mcl-1 or both Mcl-1 and A1. While the human Noxa used in Figure 2, Figure 3 and Figure 4 (above) binds both Mcl-1 and A1 (Chen et al., 2005) (Figure 2), the mouse Noxa BH3 B region (mNoxaB) only binds tightly to Mcl-1 (IC50 60 nM; IC50 > 2 μM for all other prosurvival proteins). The E74F mutant of mNoxaB binds tightly to both Mcl-1 and A1 (IC50Mcl-1 24 nM, IC50A1 12 nM) but has weaker affinity (IC50 > 2 μM) for all other prosurvival proteins. The affinities were measured in solution competition assays (Chen et al., 2005).
+B: A1 expression confers partial resistance to ABT-737. Colony formation after 6 days by parental wild-type MEFs or MEFs stably overexpressing FLAG-tagged A1 in the presence of ABT-737 (1 μM, replenished after 3 days) and the indicated BH3 domains, placed within an otherwise inert BimS backbone lacking its own BH3 (Chen et al., 2005) and expressed from retroviruses.
+C and D: Killing by ABT-737 is not inhibited by Bcl-2 and is only partially inhibited by Bcl-xL. Wild-type MEFs, or MEFs overexpressing FLAG-tagged Bcl-xL or Bcl-2, were tested for their sensitivity to ABT-737 (1 μM) in the presence of human Noxa. The Bcl-2 overexpression did not rescue any colony formation, even though it inhibited apoptosis induced by 24 hr exposure to Etoposide (D). †, no colonies.
+Data in B–D represent means ± SD from a representative of three experiments.
+Figure options
+Since tumors often overexpress Bcl-2 (Tsujimoto et al., 1985) or Bcl-xL, we also tested the impact of their overexpression. Even when Mcl-1 was inactivated (by expressing Noxa), Bcl-xL overexpression conferred limited resistance to ABT-737 (Figure 5C), perhaps by raising the level of ABT-737 targets. Surprisingly, however, Bcl-2 overexpression did not prevent ABT-737-induced death (Figure 5C), even though its level was sufficient to inhibit Etoposide-induced apoptosis (Figure 5D). Thus, if Mcl-1 is inactivated, Bcl-2 overexpression does not diminish the cytotoxic activity of ABT-737, and Bcl-xL overexpression does so only moderately. This suggests that combining ABT-737 with strategies to inactivate Mcl-1 has therapeutic potential, even in the many tumors where Bcl-2 is markedly elevated.
+
+Mcl-1 overexpression confers resistance to ABT-737 in vitro and in a mouse lymphoma model
+If inactivation of Mcl-1 sensitizes cells to ABT-737 (Figure 2, Figure 3, Figure 4 and Figure 5), then overexpression of Mcl-1 might be expected to attenuate sensitivity to the drug. Unlike most other cell types that we have tested, factor-dependent myeloid (FDM) cells (Ekert et al., 2004) proved to be moderately sensitive to ABT-737. As predicted, ectopic Mcl-1 expression rendered these cells resistant to ABT-737, whereas Bcl-2 overexpression at much higher levels had no effect (Figure S3).
+
+To assess the impact of Mcl-1 expression on the response to ABT-737 in vivo, we engineered lymphomas that stably express Mcl-1 or Bcl-2. Lymphoma cells derived from two Eμ-myc/bcl-2 bitransgenic mice ( Strasser et al., 1990) were infected with retroviruses expressing Bcl-2 or Mcl-1, or a control virus. When the infected cells were transplanted into syngeneic mice, the recipients became moribund ∼30 days later if left untreated or treated with vehicle alone ( Figures 6A and 6B and data not shown). Significantly, ABT-737 therapy prolonged the survival of recipient mice transplanted with the control or Bcl-2-transduced tumors by up to 30 days ( Figures 6C and 6D). Strikingly, however, the Mcl-1-transduced tumors proved highly refractory to ABT-737. Indeed, the mice bearing these tumors succumbed between 20 and 30 days after transplantation, like the vehicle control group (compare Figure 6C with Figure 6A and Figure 6D with Figure 6B).
+
+Full-size image (25 K)
+Figure 6. 
+Mcl-1 expression blunts the in vivo response of Eμ-myc/bcl-2 bitransgenic lymphomas to ABT-737
+Two independent progenitor B cell lymphomas (#9 [A and C] and #16 [B and D]) derived from Eμ-myc/bcl-2 bitransgenic mice ( Strasser et al., 1990) were infected with the control GFP-expressing retrovirus, or ones coexpressing Bcl-2 or Mcl-1 and GFP. The mice were injected with 106 infected tumor cells before initiating therapy 4 days later with ABT-737 (75 mg/kg given daily for 2 weeks by intraperitoneal injection) (C and D) or the vehicle alone (A and B). ABT-737 improved the survival of mice transplanted with both tumors even when Bcl-2 was overexpressed. However, Mcl-1-overexpressing lymphomas were highly resistant to ABT-737, and these mice died rapidly, akin to their untreated counterparts. Kaplan-Meier survival curves were derived from an experiment with three mice in each cohort.
+Figure options
+Thus, our data identify Mcl-1 as a critical barrier to responsiveness to ABT-737. Its increased expression renders sensitive cells resistant in vitro and in vivo (Figure S3 and Figure 6), whereas its inactivation sensitizes resistant cells (Figure 2, Figure 3, Figure 4 and Figure 5).
+
+Synergy between ABT-737 and genotoxic agents, even in the face of Bcl-2 overexpression
+As most tumor cells do not die when treated with ABT-737 alone (Oltersdorf et al., 2005), we next explored potential strategies to sensitize them to it by countering Mcl-1. One therapeutic strategy would be to combine ABT-737 with genotoxic agents, as several lead to Mcl-1 downregulation (Cuconati et al., 2003, Nijhawan et al., 2003 and Willis et al., 2005), in part by p53-induced upregulation of Noxa (Shibue et al., 2003 and Villunger et al., 2003). Therefore, ABT-737 and genotoxic drugs should exhibit synergy. Indeed, in accord with results in other cell types (Oltersdorf et al., 2005), ABT-737 sensitized FDC-P1 cells, by at least 100-fold, to apoptosis induced by Cytosine Arabinoside (Ara-C), Etoposide, or γ-irradiation (Figures S4A–S4C).
+
+As chemoresistance mediated by overexpression of Bcl-2 or Bcl-xL is a major clinical problem (Cory et al., 2003 and Kaufmann and Vaux, 2003), we also assessed whether the synergy persisted in FDC-P1 cells engineered to overexpress these guardians. As expected (Huang et al., 1997a), these cells were now resistant to Ara-C or Etoposide (Figure 7A). Notably, even in the face of the overexpressed Bcl-2 or Bcl-xL, ABT-737 showed striking synergy with all three genotoxic agents (Figures 7B and 7C; Figures S4A–S4C). The Bcl-2-expressing cells were sensitized ∼100-fold and the Bcl-xL-expressing ones at least 5-fold. As reported with other triggers of DNA damage (Cuconati et al., 2003, Nijhawan et al., 2003 and Willis et al., 2005), all three genotoxic agents reduced Mcl-1 levels in the myeloid cells (Figure 7D). Similar effects were observed in Eμ-myc B lymphoma cells engineered to overexpress Bcl-2 or Bcl-xL (data not shown). In every case, the sensitization was greater in cells overexpressing Bcl-2 than Bcl-xL, even though Bcl-2 was expressed at higher levels than Bcl-xL ( Figure S4D; see Discussion).
+
+Full-size image (42 K)
+Figure 7. 
+ABT-737 potently sensitizes cells overexpressing Bcl-2 to genotoxic agents
+A: Bcl-2 or Bcl-xL overexpression renders FDC-P1 cells resistant to genotoxic agents. FDC-P1 cells or FDC-P1 cells overexpressing Bcl-2 or Bcl-xL were treated with Etoposide (25 μM) or Cytosine Arabinoside (25 μM) for 24 hr, and viability was determined by PI exclusion.
+B and C: FDC-P1 cells overexpressing Bcl-2 (B) or Bcl-xL (C) were treated with ABT-737 (0–10 μM) and Etoposide (25 μM) or Cytosine Arabinoside (Ara-C; 25 μM) or no other drug (none) for 24 hr, and viability was determined by PI exclusion. Filled lines, fold increase in killing efficacy; hatched lines, EC50 values.
+D: Cytotoxic agents trigger Mcl-1 degradation. Equivalent amounts of lysates prepared from cells overexpressing Bcl-2 or Bcl-xL that were left untreated or exposed to Etoposide for 24 hr (25 μM) or Ara-C (25 μM) were probed for Mcl-1 or HSP70 (loading control).
+Data in A–C represent means ± SD from a representative experiment.
+Figure options
+Removing cytokine support sensitizes cells overexpressing Bcl-2 or Bcl-xL to ABT-737
+Since sensitizing cells to ABT-737 with genotoxic agents (Figure 7) may be less effective in the many tumors where p53 mutations blunt genotoxic responses, we considered alternative strategies to counter Mcl-1. As Mcl-1 expression is usually maintained by cytokines in hematopoietic cells (Kozopas et al., 1993), we reasoned that eliminating cytokine support might well sensitize such cells to ABT-737, even if Bcl-2 were overexpressed. We therefore tested FDC-P1 cells overexpressing Bcl-2 or Bcl-xL, which tolerate prolonged IL-3 deprivation (Vaux et al., 1988). Upon IL-3 withdrawal, the Mcl-1 level dropped significantly and that of the BH3-only protein Bim rose (Figure 8A), but the overexpressed Bcl-2 or Bcl-xL prevented apoptosis. Nevertheless, the IL-3-deprived Bcl-2-overexpressing cells were now readily killed by ABT-737, their sensitivity rising by approximately three orders of magnitude (Figure 8B). The starved FDC-P1 cells overexpressing Bcl-xL were also sensitized to ABT-737, albeit to a much lesser degree (Figure 8B).
+
+Full-size image (39 K)
+Figure 8. 
+Alternative ways to target Mcl-1 and sensitize cells to ABT-737
+A: IL-3 withdrawal triggers Mcl-1 degradation and Bim accumulation in FDC-P1 cells. Lysates prepared from Bcl-2-overexpressing FDC-P1 cells grown for 0–24 hr in the absence of their essential growth factor, IL-3, were blotted for Mcl-1, Bim, or HSP70 (loading control).
+B: IL-3 deprivation sensitizes FDC-P1 cells overexpressing Bcl-2 (squares) or Bcl-xL (circles) to ABT-737. Viability was determined for the cells, cultured with (filled symbols) or without (unfilled symbols) IL-3 and exposed to ABT-737 (0–10 μM) for 24 hr.
+C: The protein synthesis inhibitor cycloheximide (CHX) and the CDK inhibitor Seliciclib both reduce Mcl-1 expression. HeLa cells were treated with 50 μg/ml cycloheximide or 30 μM Seliciclib (R-roscovitine/CYC202) for 12 hr, and Mcl-1 expression was measured by immunoblotting (HSP70, loading control).
+D: HeLa cells were left untreated or treated with 2.5 μM ABT-737, 50 μg/ml cycloheximide, or 30 μM Seliciclib (R-roscovitine/CYC202), or combinations of ABT-737 with cycloheximide or Seliciclib, for 14 hr. Statistical analyses were performed using a two-tailed unpaired Student's t test.
+Data in B and D represent means ± SD from three independent experiments.
+Figure options
+These results suggest that combining ABT-737 with selected cytokine antagonists in order to reduce Mcl-1 levels might be an effective strategy to eliminate Bcl-2-overexpressing malignancies in vivo.
+
+Inhibitors of Mcl-1 production also sensitize cells to ABT-737
+Since both mcl-1 mRNA and Mcl-1 protein have very short half-lives ( Craig, 2002), strategies that reduce synthesis at either level may render cells sensitive to ABT-737. Notably, the cyclin-dependent kinase inhibitor Seliciclib (R-roscovitine/CYC202), now in phase II clinical trials, has recently been shown to act by blocking production of mcl-1 mRNA ( MacCallum et al., 2005 and Raje et al., 2005). Indeed, we found that both Seliciclib and the protein synthesis inhibitor cycloheximide (CHX) reduced Mcl-1 levels ( Figure 8C) and markedly boosted the action of ABT-737 in HeLa carcinoma cells ( Figure 8D) and modestly augmented it in MEFs (data not shown). Thus, strategies exploiting the lability of Mcl-1 have promise.
+
+Discussion
+A critical but challenging task with any new therapeutic agent, such as a BH3 mimetic, is determining its biological mechanism of action. We reasoned that any agents mimicking the BH3-only proteins must act through their essential downstream effectors, Bax and Bak (Cheng et al., 2001, Lindsten et al., 2000 and Zong et al., 2001). Hence, we compared the ability of putative BH3 mimetics to kill WT cells and equivalent cells deficient for Bax and Bak. Six of the seven BH3 mimetic compounds tested at doses previously reported to be efficacious caused nonspecific toxicity, as they killed cells independently of Bax/Bak (Figure 1). Although these compounds bind Bcl-2-like proteins with low affinities, their predominant cytotoxic activity thus seems to be mediated through pathway(s) other than those regulated by Bcl-2. This nonspecific activity presumably would limit their therapeutic efficacy and potentially provoke undesirable side effects. Nevertheless, some of them could well be useful leads for developing higher-affinity derivatives that, like the BH3-only proteins, kill via Bax or Bak.
+
+Of the compounds tested, only ABT-737, developed by structure-based design and greatly improved by medicinal chemistry (Oltersdorf et al., 2005), acted like an authentic BH3 mimetic. Its highly specific action makes it a good candidate for clinical trials, as its selectivity for its targets should limit undesirable toxicity. Consistent with the absence of nonspecific effects in vitro observed here, ABT-737 appears to cause minimal adverse effects in mice (Oltersdorf et al., 2005) (A.H.W., K.D.M., A.W.R., and D.C.S.H., unpublished data). As ABT-737 effectively targets Bcl-2, Bcl-xL, and Bcl-w (Figure 2; Oltersdorf et al., 2005), the compound might have been expected to induce toxic effects in vivo related to some of the developmental defects in mice lacking each of those proteins (Cory et al., 2003 and Ranger et al., 2001). However, it seems likely that the transient, and probably partial, neutralization of these proteins in adult tissues, in contrast to their constitutive absence in the developing tissues of knockout animals, limits collateral damage. Nevertheless, more detailed in vivo studies will be required to preclude all adverse side effects.
+
+How might ABT-737 be used in the clinic? Our results suggest that ABT-737 is likely to be most efficacious as a single agent in those tumors where Mcl-1 is low, absent, or inactivated. Overexpression of A1, which ABT-737 also fails to bind, can also limit its action, but to a lesser extent (Figure 5B). ABT-737 has shown single-agent efficacy in many cases of follicular lymphoma, chronic lymphocytic leukemia, and small-cell lung carcinoma (Oltersdorf et al., 2005). Significantly, the expression of mcl-1 and a1 mRNA is very low in most malignancies of those types (see the Gene Expression Omnibus repository at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=geo). On the other hand, in those tumors where Mcl-1 is the predominant survival protein, such as multiple myeloma ( Zhang et al., 2002), ABT-737 is unlikely to be effective as a single agent. Thus, the expression levels of prosurvival proteins, particularly Mcl-1 and A1, in individual tumors should be valuable prognostic markers for responses to ABT-737. In small-cell lung cancer cell lines, resistance to ABT-737 correlates with elevated Mcl-1 expression (C. Tse, S.K. Tahir, S. Fesik, S. Rosenberg, and S. Elmore, personal communication). Our results also predict that tumors initially sensitive to ABT-737 may eventually become resistant by Mcl-1 upregulation. Indeed, the efficacy of ABT-737 to prolong survival of mice transplanted with a lymphoma is severely compromised if Mcl-1 is overexpressed ( Figure 6).
+
+ABT-737 is likely to be effective (Figure 5, Figure 6, Figure 7 and Figure 8; Figures S3 and S4) even in the presence of the very high levels of Bcl-2 or Bcl-xL found in many tumors (Cory et al., 2003). It has previously been shown to be highly cytotoxic to most follicular lymphoma cells (Oltersdorf et al., 2005), in which Bcl-2 is overexpressed due to translocation of the gene (Cory et al., 2003). We found that the drug could override overexpression of either Bcl-2 or Bcl-xL in various scenarios. A striking but consistent finding was that ABT-737 sensitized cells overexpressing Bcl-2 to a much greater extent than those overexpressing Bcl-xL (Figure 5, Figure 7 and Figure 8; Figure S4), even though the affinity of ABT-737 for Bcl-2 and Bcl-xL is comparable (Figure S1A and Oltersdorf et al., 2005). This may reflect as yet unexplored differences in the biological action or regulation of these two proteins.
+
+Although with many cells ABT-737 is not a potent cytotoxic agent when used alone, we found that most cells could be readily sensitized by eliminating Mcl-1, such as by overexpressing Noxa, or by downregulating Mcl-1 using RNA interference (Figure 2, Figure 3 and Figure 4). We also identified more clinically amenable ways to reduce Mcl-1 expression. First, Mcl-1 degradation can be induced by DNA damage (Cuconati et al., 2003 and Nijhawan et al., 2003), and we showed that genotoxic agents synergize with ABT-737, even in cells overexpressing prosurvival Bcl-2 proteins. The potent sensitization observed here (Figure 7; Figure S4) and by others (Oltersdorf et al., 2005) suggests that combination therapy with ABT-737 should render genotoxic agents more effective at lower doses, potentially reducing undesirable collateral damage or ensuring more stable remissions with conventional doses. This approach could be particularly effective in overcoming the chemoresistance imparted by overexpression of Bcl-2 or Bcl-xL (Figure 7). Nevertheless, how well normal tissues will tolerate ABT-737 in combination with a standard cytotoxic agent needs further evaluation and may require optimization of treatment protocols.
+
+Second, the observations that Mcl-1 is a labile protein (Nijhawan et al., 2003), maintained in many cell types by cytokine signaling (Kozopas et al., 1993), prompted us to test whether cytokine deprivation could sensitize cells to ABT-737. Indeed, striking synergy was obtained, even when Bcl-2 was overexpressed (Figure 8). Hence, antagonists of certain growth factors may well sensitize tumor cells to ABT-737. For example, antagonists of IL-6 or VEGF signaling may sensitize multiple myeloma, CLL, and perhaps other tumor types (e.g., Huang et al., 2000, Jourdan et al., 2003 and Le Gouill et al., 2004) to ABT-737.
+
+Third, the rapid turnover of mcl-1 mRNA and protein raised the interesting prospect of targeting intracellular signaling pathways that control its transcription and translation. The well tolerated cyclin-dependent kinase inhibitor Seliciclib (R-roscovitine/CYC202), currently in phase II clinical trials for non-small-cell lung cancer and breast tumors, is now thought to function by impairing RNA synthesis by RNA polymerase II, with mcl-1 mRNA being a key target because of its rapid turnover ( MacCallum et al., 2005 and Raje et al., 2005). Seliciclib showed notable synergy with ABT-737 in HeLa cells ( Figure 8D). We also found that interference with protein synthesis, using CHX, enhanced ABT-737 action, presumably at least in part by reducing Mcl-1 production ( Figure 8D). In accord with this notion, recent results indicate that the multikinase inhibitor BAY 43-9006, now under phase II/III clinical evaluation, acts predominantly by inhibiting Mcl-1 translation ( Rahmani et al., 2005 and Yu et al., 2005). Although this drug and CHX inhibit translation by different mechanisms ( Rahmani et al., 2005), both these and other agents such as flavopirodol ( Kitada et al., 2000) preferentially affect short-lived proteins like Mcl-1. Thus, the lability of Mcl-1 renders it vulnerable to inhibition in multiple ways.
+
+Strategies like these, which combine ABT-737 with another available therapeutic modality, may well provide substantial clinical benefit. Indeed, eventually it may prove feasible to enhance Mcl-1 degradation by augmenting the activity of the ubiquitin E3 ligase Mule (also known as ARF-BP1, Lasu, HectH9), which bears a BH3 domain targeting it to Mcl-1 (Zhong et al., 2005). Furthermore, because we have identified a Noxa BH3 domain that acts selectively on Mcl-1 (Figure 5A), it should be feasible to develop a BH3 mimetic drug that specifically neutralizes Mcl-1 (and/or A1). Thus, Mcl-1 appears to be an attractive target for pharmacological intervention, if concerns about the consequences of compromising its essential physiological roles can be addressed (Opferman et al., 2005 and Rinkenberger et al., 2000).
+
+Why is Mcl-1 downregulation so important for killing by ABT-737 or Bad? First, the rapid degradation of Mcl-1 following certain cytotoxic stimuli (Cuconati et al., 2003, Nijhawan et al., 2003 and Willis et al., 2005) (Figure 7 and Figure 8) may help to ensure irreversible commitment to apoptosis. Second, since Mcl-1 and Bcl-xL are the only prosurvival proteins that guard Bak (Willis et al., 2005), Mcl-1 is the only barrier to Bak-mediated apoptosis when ABT-737 engages Bcl-xL.
+
+Although the activation of Bax and Bak has been proposed to require their direct binding by certain “activator” BH3-only proteins, notably Bim and truncated Bid (Kuwana et al., 2005 and Letai et al., 2002), we have proposed that Bak, which is anchored in the mitochondrial outer membrane, is instead activated simply by its displacement from Mcl-1 and Bcl-xL by BH3-only proteins (Willis et al., 2005). In accord with that model, ABT-737 promoted release of cytochrome c from a mitochondrial fraction if the lysate derived from cells expressing Noxa (to neutralize Mcl-1), but not cells expressing Bad ( Figure 3C). The simplest interpretation of this result is that ABT-737 neutralized the remaining protective prosurvival proteins (e.g., Bcl-xL).
+
+In conclusion, the present studies validate the feasibility of targeting Bcl-2-like proteins using BH3 mimetics such as ABT-737 to induce apoptosis (Oltersdorf et al., 2005). The mechanistic insights provided here suggest ways in which ABT-737 might be used efficaciously as a single agent and in combination therapy. They also identify Mcl-1 and A1 as likely prognostic markers for clinical responses and suggest that Mcl-1 upregulation or stabilization may well emerge as a mechanism of resistance to the drug. The development of ABT-737 (Oltersdorf et al., 2005), together with the recent demonstration of selectivity in the action of BH3-only proteins (Chen et al., 2005) and their prosurvival targets (Willis et al., 2005), suggest that the Bcl-2-regulated gateway to apoptosis is ripe for further therapeutic manipulation.
+
+Experimental procedures
+Expression, retroviral, and RNAi constructs
+FLAG-tagged mammalian expression vectors (in pEF PGKpuro or pEF PGKhygro) for Bcl-2 or Bcl-xL, and HA-tagged Bax or Bak, have been described (Huang et al., 1997b, O'Connor et al., 1998 and Willis et al., 2005), as have retroviral expression constructs expressing BimS, BimS 4E, or BimL, and HA-tagged Bad, Noxa, or Noxa 3E (Chen et al., 2005). Constructs for HA-tagged tBid (amino acids 60–195 of mouse Bid), and FLAG-tagged human Bcl-2, Bcl-xL, Mcl-1, or A1 (Bfl-1) were made by subcloning into the same pMIG retroviral vector. The retroviral constructs that target Mcl-1 and/or A1 (Figure 5) replaced residues 51–76 of human BimS with residues 68–93 of mouse Noxa BH3 B (Oda et al., 2000) or a mutation of it (E74F). In pMIH retroviral constructs, the GFP (green fluorescent protein) cassette of pMIG is replaced by a hygromycin B resistance gene to link expression of human Noxa or Noxa 3E, and FLAG-tagged human Bcl-2, Bcl-xL, Mcl-1, or A1, to that of the selectable marker. All cDNAs used are of human origin except for mouse Bad, Bid, and Mcl-1 (in addition to the human gene).
+
+Retroviral vectors for RNA interference were constructed by ligating annealed oligonucleotides encoding short hairpin sequences into the pRetroSuper vector (Brummelkamp et al., 2002). The human Mcl-1 short hairpin targets the sequence 5′-GCAAGAGGATTATGGCTAA. The hairpin oligonucleotides are as follows: Mcl-1 sense, 5′-GATCCCCGCAAGAGGATTATGGCTAATTCAAGAGATTAGCCATAATCCTCTTGCTTTTTGGAAA-3′; Mcl-1 antisense, 5′-AGCTTTTCCAAAAAGCAAGAGGATTATGGCTAATCTCTTGAATTAGCCATAATCCTCTTGCGGG-3′. The control short hairpin targets the mouse caspase-12 sequence 5′-GGCCACATTGCCAATTCCCA-3′. All constructs were verified by sequencing, and details of all oligonucleotides and constructs are available from the authors.
+
+Mouse lymphoma model
+Eμ-myc/bcl-2 bitransgenic mice on a C57BL/6 genetic background develop disseminated lymphoid tumors with primitive markers at about 6 weeks of age ( Strasser et al., 1990). Tumors from two such mice (#9 and #16) were expanded by injecting 106 cells intravenously into syngeneic WT (nontransgenic) recipient males (6–8 weeks old). Once these mice developed tumors, lymphomatous masses harvested from their mesenteric lymph nodes were made into a single-cell suspension and infected with the indicated retroviruses by spin infection ( Schmitt et al., 2000). Twenty-four hours later, the infected (GFP+) cells were further expanded in recipient mice and their tumor mass pooled for use in the lymphoma study.
+
+Cohorts of 6- to 8-week-old mice (n = 3) were inoculated (i.v.) with 106 lymphoma cells infected with the control virus or ones overexpressing Bcl-2 or Mcl-1. Four days later, a 14 day course of daily i.p. injections of ABT-737 (75 mg/kg) (Oltersdorf et al., 2005), or vehicle alone, was initiated. The mice were culled when deemed unwell (lethargy, tremor, hindleg paralysis, >5% weight loss, palpable tumor masses) by the animal husbandry staff, who were blinded to the experiment.
+
+All mouse experiments were performed in accordance with guidelines administered by the Melbourne Health Research Directorate Animal Ethics Committee.
+
+Other procedures
+For details on tissue culture, retroviral infections, cell death induction, and apoptosis assays; immunoblotting; affinity measurements and solution competition assays; flow cytometric analysis; and in vitro cytochrome c release assays, see the Supplemental Data.
+
+Acknowledgments
+We thank Abbott Laboratories (S. Fesik, S. Rosenberg, S. Elmore, A. Shoemaker, and colleagues) for providing ABT-737; P. Colman, J. Fletcher, A. Strasser, and D. Vaux for discussions; H. Ierino, B. Kolevski, L. Parma, and T. Pham for excellent technical assistance; D. Coopper, K. Pioch, and G. Siciliano for animal care; and R. Anderson, J. Borst, G. Dewson, P. Ekert, S. Korsmeyer, J. Silke, M. Suzuki, C. Thompson, K. Watson, and W. Welch for reagents. Our work is supported by grants from the Australian NHMRC (program grant 257502), US NCI (CA80188, CA43540), Leukemia and Lymphoma Society (SCOR 7015-02), Australian Cancer Research Foundation, and Marsden Fund (NZ); a Melbourne International Research Scholarship (M.F.v.D.); and fellowships from the Leukaemia Foundation of Victoria (A.H.W.), Leukemia and Lymphoma Society (C.L.S.), Cancer Council of Victoria (K.D.M., S.N.W., and A.W.R.), Sylvia and Charles Viertel Charitable Foundation (D.C.S.H.), and NHMRC (C.L.S., J.M.A., A.W.R., and D.C.S.H.).
+
+Supplemental data
+ 
+Document S1. Supplemental experimental procedures and four supplemental figures.  
+Help with PDF filesOptions
+References
+Baell and Huang, 2002
+J.B. Baell, D.C.S. Huang
+Prospects for targeting the Bcl-2 family of proteins to develop novel cytotoxic drugs
+Biochem. Pharmacol., 64 (2002), pp. 851–863
+
+Article |  PDF (454 K) | View Record in Scopus | Citing articles (88)
+Brummelkamp et al., 2002
+T. Brummelkamp, R. Bernards, R. Agami
+Stable suppression of tumorigenicity by virus-mediated RNA interference
+Cancer Cell, 2 (2002), pp. 243–247
+
+Article |  PDF (198 K) | View Record in Scopus | Citing articles (871)
+Chan et al., 2003
+S.L. Chan, M.C. Lee, K.O. Tan, L.K. Yang, A.S. Lee, H. Flotow, N.Y. Fu, M.S. Butler, D.D. Soejarto, A.D. Buss, V.C. Yu
+Identification of chelerythrine as an inhibitor of Bcl-xL function
+J. Biol. Chem., 278 (2003), pp. 20453–20456
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (114)
+Chen et al., 2005
+L. Chen, S.N. Willis, A. Wei, B.J. Smith, J.I. Fletcher, M.G. Hinds, P.M. Colman, C.L. Day, J.M. Adams, D.C.S. Huang
+Differential targeting of pro-survival Bcl-2 proteins by their BH3-only ligands allows complementary apoptotic function
+Mol. Cell, 17 (2005), pp. 393–403
+
+Article |  PDF (837 K) | View Record in Scopus | Citing articles (950)
+Cheng et al., 2001
+E.H. Cheng, M.C. Wei, S. Weiler, R.A. Flavell, T.W. Mak, T. Lindsten, S.J. Korsmeyer
+Bcl-2, Bcl-xL sequester BH3 domain-only molecules preventing BAX- and BAK-mediated mitochondrial apoptosis
+Mol. Cell, 8 (2001), pp. 705–711
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (25)
+Cochran, 2001
+A.G. Cochran
+Protein-protein interfaces: Mimics and inhibitors
+Curr. Opin. Chem. Biol., 5 (2001), pp. 654–659
+
+Article |  PDF (317 K) | View Record in Scopus | Citing articles (117)
+Cory et al., 2003
+S. Cory, D.C.S. Huang, J.M. Adams
+The Bcl-2 family: Roles in cell survival and oncogenesis
+Oncogene, 22 (2003), pp. 8590–8607
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (845)
+Craig, 2002
+R.W. Craig
+Mcl-1 provides a window on the role of the Bcl-2 family in cell proliferation, differentiation and tumorigenesis
+Leukemia, 16 (2002), pp. 444–454
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (187)
+Cuconati et al., 2003
+A. Cuconati, C. Mukherjee, D. Perez, E. White
+DNA damage response and Mcl-1 destruction initiate apoptosis in adenovirus-infected cells
+Genes Dev., 17 (2003), pp. 2922–2932
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (208)
+Degterev et al., 2001
+A. Degterev, A. Lugovskoy, M. Cardone, B. Mulley, G. Wagner, T. Mitchison, J. Yuan
+Identification of small-molecule inhibitors of interaction between the BH3 domain and Bcl-xL
+Nat. Cell Biol., 3 (2001), pp. 173–182
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (409)
+Ekert et al., 2004
+P.G. Ekert, S.H. Read, J. Silke, V.S. Marsden, H. Kaufmann, C.J. Hawkins, R. Gerl, S. Kumar, D.L. Vaux
+Apaf-1 and caspase-9 accelerate apoptosis, but do not determine whether factor-deprived or drug-treated cells die
+J. Cell Biol., 165 (2004), pp. 835–842
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (107)
+Enyedy et al., 2001
+I.J. Enyedy, Y. Ling, K. Nacro, Y. Tomita, X. Wu, Y. Cao, R. Guo, B. Li, X. Zhu, Y. Huang et al.
+Discovery of small-molecule inhibitors of Bcl-2 through structure-based computer screening
+J. Med. Chem., 44 (2001), pp. 4313–4324
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (251)
+Fesik, 2005
+S.W. Fesik
+Promoting apoptosis as a strategy for cancer drug discovery
+Nat. Rev. Cancer, 5 (2005), pp. 876–885
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (518)
+Hanahan and Weinberg, 2000
+D. Hanahan, R.A. Weinberg
+The hallmarks of cancer
+Cell, 100 (2000), pp. 57–70
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (12781)
+Huang and Strasser, 2000
+D.C.S. Huang, A. Strasser
+BH3-only proteins—Essential initiators of apoptotic cell death
+Cell, 103 (2000), pp. 839–842
+
+Article |  PDF (293 K) | View Record in Scopus | Citing articles (709)
+Huang et al., 1997a
+D.C.S. Huang, S. Cory, A. Strasser
+Bcl-2, Bcl-xL and adenovirus protein E1B19kD are functionally equivalent in their ability to inhibit cell death
+Oncogene, 14 (1997), pp. 405–414
+
+View Record in Scopus | Citing articles (206)
+Huang et al., 1997b
+D.C.S. Huang, L.A. O'Reilly, A. Strasser, S. Cory
+The anti-apoptosis function of Bcl-2 can be genetically separated from its inhibitory effect on cell cycle entry
+EMBO J., 16 (1997), pp. 4628–4638
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (270)
+Huang et al., 2000
+H.M. Huang, C.J. Huang, J.J. Yen
+Mcl-1 is a common target of stem cell factor and interleukin-5 for apoptosis prevention activity via MEK/MAPK and PI-3K/Akt pathways
+Blood, 96 (2000), pp. 1764–1771
+
+View Record in Scopus | Citing articles (87)
+Jeffers et al., 2003
+J.R. Jeffers, E. Parganas, Y. Lee, C. Yang, J. Wang, J. Brennan, K.H. MacLean, J. Han, T. Chittenden, J.N. Ihle et al.
+Puma is an essential mediator of p53-dependent and -independent apoptotic pathways
+Cancer Cell, 4 (2003), pp. 321–328
+
+Article |  PDF (406 K) | View Record in Scopus | Citing articles (524)
+Johnstone et al., 2002
+R.W. Johnstone, A.A. Ruefli, S.W. Lowe
+Apoptosis: A link between cancer genetics and chemotherapy
+Cell, 108 (2002), pp. 153–164
+
+Article |  PDF (198 K) | View Record in Scopus | Citing articles (1290)
+Jourdan et al., 2003
+M. Jourdan, J.L. Veyrune, J.D. Vos, N. Redal, G. Couderc, B. Klein
+A major role for Mcl-1 anti-apoptotic protein in the IL-6-induced survival of human myeloma cells
+Oncogene, 22 (2003), pp. 2950–2959
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (92)
+Kaufmann and Vaux, 2003
+S.H. Kaufmann, D.L. Vaux
+Alterations in the apoptotic machinery and their potential role in anticancer drug resistance
+Oncogene, 22 (2003), pp. 7414–7430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (194)
+Kitada et al., 2000
+S. Kitada, J.M. Zapata, M. Andreeff, J.C. Reed
+Protein kinase inhibitors flavopiridol and 7-hydroxy-staurosporine down-regulate anti-apoptosis proteins in B-cell chronic lymphocytic leukemia
+Blood, 96 (2000), pp. 393–397
+
+View Record in Scopus | Citing articles (215)
+Kitada et al., 2003
+S. Kitada, M. Leone, S. Sareth, D. Zhai, J. Reed, M. Pellechia
+Discovery, characterisation, and structure-activity relationships studies of pro-apoptotic polyphenols targeting B-cell lymphocyte/leukemia-2 proteins
+J. Med. Chem., 46 (2003), pp. 4259–4264
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (237)
+Kozopas et al., 1993
+K.M. Kozopas, T. Yang, H.L. Buchan, P. Zhou, R.W. Craig
+mcl-1, a gene expressed in programmed myeloid cell differentiation, has sequence similarity to bcl-2
+Proc. Natl. Acad. Sci. USA, 90 (1993), pp. 3516–3520
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (615)
+Kuwana et al., 2005
+T. Kuwana, L. Bouchier-Hayes, J.E. Chipuk, C. Bonzon, B.A. Sullivan, D.R. Green, D.D. Newmeyer
+BH3 domains of BH3-only proteins differentially regulate Bax-mediated mitochondrial membrane permeabilization both directly and indirectly
+Mol. Cell, 17 (2005), pp. 525–535
+
+Article |  PDF (664 K) | View Record in Scopus | Citing articles (641)
+Le Gouill et al., 2004
+S. Le Gouill, K. Podar, M. Amiot, T. Hideshima, D. Chauhan, K. Ishitsuka, S. Kumar, N. Raje, P.G. Richardson, J.L. Harousseau, K.C. Anderson
+VEGF induces Mcl-1 up-regulation and protects multiple myeloma cells against apoptosis
+Blood, 104 (2004), pp. 2886–2892
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+Letai et al., 2002
+A. Letai, M. Bassik, L. Walensky, M. Sorcinelli, S. Weiler, S. Korsmeyer
+Distinct BH3 domains either sensitize or activate mitochondrial apoptosis, serving as prototype cancer therapeutics
+Cancer Cell, 2 (2002), pp. 183–192
+
+Article |  PDF (426 K) | View Record in Scopus | Citing articles (916)
+Lindsten et al., 2000
+T. Lindsten, A.J. Ross, A. King, W. Zong, J.C. Rathmell, H.A. Shiels, E. Ulrich, K.G. Waymire, P. Mahar, K. Frauwirth et al.
+The combined functions of pro-apoptotic Bcl-2 family members Bak and Bax are essential for normal development of multiple tissues
+Mol. Cell, 6 (2000), pp. 1389–1399
+
+Article |  PDF (1085 K) | View Record in Scopus | Citing articles (805)
+Liu et al., 2003
+X. Liu, S. Dai, Y. Zhu, P. Marrack, J.W. Kappler
+The structure of a Bcl-xL/Bim fragment complex: Implications for Bim function
+Immunity, 19 (2003), pp. 341–352
+
+Article |  PDF (700 K) | View Record in Scopus | Citing articles (215)
+MacCallum et al., 2005
+D.E. MacCallum, J. Melville, S. Frame, K. Watt, S. Anderson, A. Gianella-Borradori, D.P. Lane, S.R. Green
+Seliciclib (CYC202, R-roscovitine) induces cell death in multiple myeloma cells by inhibition of RNA polymerase II-dependent transcription and down-regulation of Mcl-1
+Cancer Res., 65 (2005), pp. 5399–5407
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (165)
+Nijhawan et al., 2003
+D. Nijhawan, M. Fang, E. Traer, Q. Zhong, W. Gao, F. Du, X. Wang
+Elimination of Mcl-1 is required for the initiation of apoptosis following ultraviolet irradiation
+Genes Dev., 17 (2003), pp. 1475–1486
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (368)
+O'Connor et al., 1998
+L. O'Connor, A. Strasser, L.A. O'Reilly, G. Hausmann, J.M. Adams, S. Cory, D.C.S. Huang
+Bim: A novel member of the Bcl-2 family that promotes apoptosis
+EMBO J., 17 (1998), pp. 384–395
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (640)
+Oda et al., 2000
+E. Oda, R. Ohki, H. Murasawa, J. Nemoto, T. Shibue, T. Yamashita, T. Tokino, T. Taniguchi, N. Tanaka
+Noxa, a BH3-only member of the bcl-2 family and candidate mediator of p53-induced apoptosis
+Science, 288 (2000), pp. 1053–1058
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1167)
+Oltersdorf et al., 2005
+T. Oltersdorf, S.W. Elmore, A.R. Shoemaker, R.C. Armstrong, D.J. Augeri, B.A. Belli, M. Bruncko, T.L. Deckwerth, J. Dinges, P.J. Hajduk et al.
+An inhibitor of Bcl-2 family proteins induces regression of solid tumours
+Nature, 435 (2005), pp. 677–681
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1528)
+Opferman et al., 2005
+J. Opferman, H. Iwasaki, C.C. Ong, H. Suh, S. Mizuno, K. Akashi, S.J. Korsmeyer
+Obligate role of anti-apoptotic Mcl-1 in the survival of hematopoietic stem cells
+Science, 307 (2005), pp. 1101–1104
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (248)
+Petros et al., 2000
+A.M. Petros, D.G. Nettseheim, Y. Wang, E.T. Olejniczak, R.P. Meadows, J. Mack, K. Swift, E.D. Matayoshi, H. Zhang, C.B. Thompson, S.W. Fesik
+Rationale for Bcl-xL/Bad peptide complex formation from structure, mutagenesis, and biophysical studies
+Protein Sci., 9 (2000), pp. 2528–2534
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (264)
+Rahmani et al., 2005
+M. Rahmani, E.M. Davis, C. Bauer, P. Dent, S. Grant
+Apoptosis induced by the kinase inhibitor BAY 43-9006 in human leukemia cells involves down-regulation of Mcl-1 through inhibition of translation
+J. Biol. Chem., 280 (2005), pp. 35217–35227
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (190)
+Raje et al., 2005
+N. Raje, S. Kumar, T. Hideshima, A. Roccaro, K. Ishitsuka, H. Yasui, N. Shiraishi, D. Chauhan, N.C. Munshi, S.R. Green, K.C. Anderson
+Seliciclib (CYC202 or R-roscovitine), a small-molecule cyclin-dependent kinase inhibitor, mediates activity via down-regulation of Mcl-1 in multiple myeloma
+Blood, 106 (2005), pp. 1042–1047
+
+View Record in Scopus | Citing articles (108)
+Ranger et al., 2001
+A.M. Ranger, B.A. Malynn, S.J. Korsmeyer
+Mouse models of cell death
+Nat. Genet., 28 (2001), pp. 113–118
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (192)
+Rinkenberger et al., 2000
+J.L. Rinkenberger, S. Horning, B. Klocke, K. Roth, S.J. Korsmeyer
+Mcl-1 deficiency results in peri-implantation embryonic lethality
+Genes Dev., 14 (2000), pp. 23–27
+
+View Record in Scopus | Citing articles (193)
+Rutledge et al., 2002
+S.E. Rutledge, J.W. Chin, A. Schepartz
+A view to a kill: Ligands for Bcl-2 family proteins
+Curr. Opin. Chem. Biol., 6 (2002), pp. 479–485
+
+Article |  PDF (185 K) | View Record in Scopus | Citing articles (35)
+Sattler et al., 1997
+M. Sattler, H. Liang, D. Nettesheim, R.P. Meadows, J.E. Harlan, M. Eberstadt, H.S. Yoon, S.B. Shuker, B.S. Chang, A.J. Minn et al.
+Structure of Bcl-xL-Bak peptide complex: Recognition between regulators of apoptosis
+Science, 275 (1997), pp. 983–986
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (962)
+Schmitt et al., 2000
+C.A. Schmitt, C.T. Rosenthal, S.W. Lowe
+Genetic analysis of chemoresistance in primary murine lymphomas
+Nat. Med., 6 (2000), pp. 1029–1035
+
+View Record in Scopus | Citing articles (200)
+Shibue et al., 2003
+T. Shibue, K. Takeda, E. Oda, H. Tanaka, H. Murasawa, A. Takaoka, Y. Morishita, S. Akira, T. Taniguchi, N. Tanaka
+Integral role of Noxa in p53-mediated apoptotic response
+Genes Dev., 17 (2003), pp. 2233–2238
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (183)
+Strasser et al., 1990
+A. Strasser, A.W. Harris, M.L. Bath, S. Cory
+Novel primitive lymphoid tumours induced in transgenic mice by cooperation between myc and bcl-2
+Nature, 348 (1990), pp. 331–333
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (509)
+Su et al., 2002
+A.I. Su, M.P. Cooke, K.A. Ching, Y. Hakak, J.R. Walker, T. Wiltshire, A.P. Orth, R.G. Vega, L.M. Sapinoso, A. Moqrich et al.
+Large-scale analysis of the human and mouse transcriptomes
+Proc. Natl. Acad. Sci. USA, 99 (2002), pp. 4465–4470
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (994)
+Tsujimoto et al., 1985
+Y. Tsujimoto, J. Cossman, E. Jaffe, C.M. Croce
+Involvement of the bcl-2 gene in human follicular lymphoma
+Science, 228 (1985), pp. 1440–1443
+
+View Record in Scopus | Citing articles (1040)
+Tzung et al., 2001
+S.P. Tzung, K.M. Kim, G. Basanez, C.D. Giedt, J. Simon, J. Zimmerberg, K.Y. Zhang, D.M. Hockenbery
+Antimycin A mimics a cell-death-inducing Bcl-2 homology domain 3
+Nat. Cell Biol., 3 (2001), pp. 183–191
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (343)
+Vaux et al., 1988
+D.L. Vaux, S. Cory, J.M. Adams
+Bcl-2 gene promotes haemopoietic cell survival and cooperates with c-myc to immortalize pre-B cells
+Nature, 335 (1988), pp. 440–442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1751)
+Villunger et al., 2003
+A. Villunger, E.M. Michalak, L. Coultas, F. Müllauer, G. Böck, M.J. Ausserlechner, J.M. Adams, A. Strasser
+p53- and drug-induced apoptotic responses mediated by BH3-only proteins Puma and Noxa
+Science, 302 (2003), pp. 1036–1038
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (738)
+Walensky et al., 2004
+L.D. Walensky, A.L. Kung, I. Escher, T.J. Malia, S. Barbuto, R.D. Wright, G. Wagner, G.L. Verdine, S.J. Korsmeyer
+Activation of apoptosis in vivo by a hydrocarbon-stapled BH3 helix
+Science, 305 (2004), pp. 1466–1470
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (594)
+Wang et al., 2000
+J.L. Wang, D. Liu, Z.J. Zhang, S. Shan, X. Han, S.M. Srinivasula, C.M. Croce, E.S. Alnemri, Z. Huang
+Structure-based discovery of an organic compound that binds Bcl-2 protein and induces apoptosis of tumor cells
+Proc. Natl. Acad. Sci. USA, 97 (2000), pp. 7124–7129
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (681)
+Waterhouse et al., 2004
+N.J. Waterhouse, R. Steel, R. Kluck, J.A. Trapani
+Assaying cytochrome c translocation during apoptosis
+Methods Mol. Biol., 284 (2004), pp. 307–313
+
+View Record in Scopus | Citing articles (16)
+Willis et al., 2005
+S.N. Willis, L. Chen, G. Dewson, A. Wei, E. Naik, J.I. Fletcher, J.M. Adams, D.C. Huang
+Pro-apoptotic Bak is sequestered by Mcl-1 and Bcl-xL, but not Bcl-2, until displaced by BH3-only proteins
+Genes Dev., 19 (2005), pp. 1294–1305
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (683)
+Yu et al., 2005
+C. Yu, L.M. Bruzek, X.W. Meng, G.J. Gores, C.A. Carter, S.H. Kaufmann, A.A. Adjei
+The role of Mcl-1 down-regulation in the pro-apoptotic activity of the multikinase inhibitor BAY 43-9006
+Oncogene, 24 (2005), pp. 6861–6869
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (169)
+Zhai et al., 2006
+D. Zhai, C. Jin, A.C. Satterthwait, J.C. Reed
+Comparison of chemical inhibitors of anti-apoptotic Bcl-2-family proteins
+Cell Death Differ., 13 (2006), pp. 1419–1421
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+Zhang et al., 2002
+B. Zhang, I. Gojo, R.G. Fenton
+Myeloid cell factor-1 is a critical survival factor for multiple myeloma
+Blood, 99 (2002), pp. 1885–1893
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (227)
+Zhong et al., 2005
+Q. Zhong, W. Gao, F. Du, X. Wang
+Mule/ARF-BP1, a BH3-only E3 ubiquitin ligase, catalyzes the polyubiquitination of Mcl-1 and regulates apoptosis
+Cell, 121 (2005), pp. 1085–1095
+
+Article |  PDF (1058 K) | View Record in Scopus | Citing articles (367)
+Zong et al., 2001
+W.X. Zong, T. Lindsten, A.J. Ross, G.R. MacGregor, C.B. Thompson
+BH3-only proteins that bind pro-survival Bcl-2 family members fail to induce apoptosis in the absence of Bax and Bak
+Genes Dev., 15 (2001), pp. 1481–1486
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (576)
+Corresponding author contact information
+Corresponding author
+4
+These authors contributed equally to this work.
+5
+These authors contributed equally to this work.
+6
+Present address: Department of Haematology, St. Vincent's Hospital, Victoria 3065, Australia.
+Copyright © 2006 Elsevier Inc. All rights reserved.

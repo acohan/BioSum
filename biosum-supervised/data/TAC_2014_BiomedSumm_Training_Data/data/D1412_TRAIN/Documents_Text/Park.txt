@@ -1,0 +1,344 @@
+Death domain complex of the TNFR-1, TRADD, and RIP1 proteins for death-inducing signaling
+Young-Hoon Park1, Mi Suk Jeong1, Se Bok JangCorresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.bbrc.2013.12.068
+Get rights and content
+Highlights
+•
+Interaction of the TNFR-1, TRADD, and RIP1 DDs was identified in vitro.
+•
+Interaction sites of the DD complex were predicted and identified.
+•
+DDs complex was stabilized by hydrophobic interactions.
+•
+Interaction plays an important role in identifying of the molecular mechanisms.
+Abstract
+Apoptosis can be induced by an extrinsic pathway involving the ligand-mediated activation of death receptors such as tumor necrosis factor receptor-1 (TNFR-1). TNFR-1-associated death domain (TRADD) protein is an adapter molecule that bridges the interaction between TNFR-1 and receptor-interacting serine/threonine-protein kinase 1 (RIP1). However, the molecular mechanism of the complex formation of these proteins has not yet been identified. Here, the binding among TNFR-1, TRADD, and RIP1 was identified using a GST pull-down assay and Biacore biosensor experiment. This study showed that structural characterization and formation of the death-signaling complex could be predicted using TNFR-1, TRADD, and RIP1. In addition, we found that the structure-based mutations of TNFR-1 (P367A and P368A), TRADD (F266A), and RIP1 (M637A and R638A) disrupted formation of the death domain (DD) complex and prevented stable interactions among those DDs.
+
+Keywords
+Apoptosis; TNFR-1; TRADD; RIP1
+1. Introduction
+Tumor necrosis factor alpha (TNF-α) is a cytokine that pertains to the TNF-ligand superfamily, which is important in regulating cell death and cell survival [1] and [2]. Each factor of the TNF superfamily interacts with at least one receptor of the TNFR superfamily. Some TNF factors bind several receptors [3] and [4]. For example, TNF-α is known to interact with two distinct cell surface receptors, TNFR-1 and TNFR-2 [5]. The TNFR-1 interaction site of the extracellular position has four characteristic cysteine-rich domains (CRDs) that bind directly to TNF-α trimer [6] and [7]. The interaction between these two proteins has been shown to mediate protein activation of the TRADD, RIP1, Fas-associated death domain (FADD), and TNFR-associated factor 2 (TRAF2), which is a critical step in the TNF signal transduction pathway [8], [9], [10], [11] and [12]. A subgroup of the TNF receptor superfamily can be defined by the ability of its members to induce cell death with the crucial involvement of about 80 amino acid hexahelical bundle homology domain. The intracellular death domain (DD) of TNFR-1 that has been activated by TNF-α has been shown to associate with TRADD through homotypic DD interaction [13] and [14].
+
+Protein kinase RIP1 is another DD molecule found in the TNFR-1 signaling complex. Although RIP1 contains DD, is appears to require TRADD as an adapter to indirectly associate with TNFR-1 [15] and [16]. The ubiquitination of protein kinase RIP1 determines function as a kinase that promotes cell death by FADD and caspase-8 [17] and [18]. Following internalization of the TNFR-1 receptor, the DD proteins dissociate from the death receptor of the TNF signal transduction complex and the deubiquitination of RIP1 is mediated by deubiquitination enzymes (cylindromatosis (CYLD) and tumor necrosis factor alpha-induced protein 3 (TNFAIP3)), which eliminates the K63-linked polyubiquitin chains [19] and [20]. Deubiquitination of RIP1 in the cytosol is crucial to programmed cell death of the TRADD-dependent complex (complex IIA) and TRADD-independent complex (complex IIB) [21]. Complex IIA necessitates a TRADD-FADD scaffold to recruit caspase-8, which has a death effect domain (DED) and DD site, implying an apoptotic pathway [22]. In addition, caspase-8 is inhibited by cytokine response modifier A (CrmA), while pharmacological agents interact with deubiquitinated RIP1-receptor-interacting serine/threonine-protein kinase 3 (RIP3), which binds to the RIP homotypic interaction motif (RHIM) [23], [24], [25], [26], [27], [28] and [29]. When TRADD does not exist, the formation of complex IIB involves FADD mediated recruitment and activation of caspase-8 for RIP1 and RIP3 cleavage [30].
+
+In this study, we investigated the interactions among the recombinant DDs of TNFR-1, TRADD, and RIP1 and demonstrated direct protein interactions among TNFR-1, TRADD, and RIP1 in vitro. We also found that the structure-based mutations of TNFR-1 (P367A and P368A), TRADD (F266A), and RIP1 (M637A and R638A) disrupted formation of the DD complex and prevented stable interactions among the aforementioned DDs.
+
+2. Materials and methods
+2.1. Protein cloning, expression and extraction
+TNFR-1 DD (345–455) was subcloned into the His-tagged fusion protein vector pET-28a. The TRADD (160–308) and RIP1 DDs (583–663) were subcloned into His-tagged fusion protein vector pET-26b for purification. The TNFR-1 and RIP1 DDs were subsequently subcloned into a glutathione S-transferase (GST)-fused protein vector pGEX-4T1 for the pull-down experiment.
+
+The TNFR-1, TRADD, and RIP1 DDs were transformed into the overexpression competent cell, Escherichia coli BL21(DE3). Each colony was then inoculated in 5 ml of Luria Bertani (LB) medium enriched with 10 μg/ml kanamycin at 37 °C overnight, after which the cells were incubated in 2 L of LB containing 10 μg/ml antibiotics at 37 °C until the OD600 reached 0.5–0.6. Next, expression of the protein was induced by 0.5 mM isopropyl-thio-β-d-galactopyranoside (IPTG) at 25 °C overnight, and the bacterial cells were then harvested by centrifugation at 3660×g for 25 min at 4 °C. For analysis, the TNFR-1 cell pellets were resuspended with lysis buffer [50 mM Tris–HCl (pH 7.5), 200 mM NaCl, and 6 M Urea], TRADD in buffer [50 mM sodium acetate (pH 4.2), 50 mM magnesium sulfate, and 5 mM DTT], and RIP1 [50 mM Tris–HCl (pH 7.5) and 200 mM NaCl] and then sonicated on ice to disrupt the cells using a Branson Sonifier 450 sonicator. Finally, the cell suspensions were centrifuged at 20,170×g for 45 min to remove supernatant, after which the TNFR-1 and TRADD inclusion bodies were resuspended in the same buffer on ice and centrifuged at 20,170×g for 45 min to remove the supernatant.
+
+The GST-tagged plasmid TNFR-1 and RIP1 were transformed into BL21(DE3), after which individual colonies were inoculated in 5 ml of LB medium enriched with 50 μg/ml ampicillin overnight at 37 °C. The cells were then incubated in 1 L of LB containing 50 μg/ml antibiotics and maintained at 37 °C until the OD600 reached 0.5–0.6. The expression of the protein was induced by 0.5 mM IPTG at 25 °C for 5 h.
+
+2.2. Point mutations of the TNFR-1, TRADD, and RIP1 DDs
+Double-stranded oligonucleotides were used for site-directed mutagenesis of the four different TNFR-1 residues to alanine (N365A, P367A, P368A, and C395A). Additionally, double-stranded oligonucleotides were used for site-directed mutagenesis of the two different TRADD residues to alanine (Y262A and F266A). Double-stranded oligonucleotides were used for site-directed mutagenesis of the two different RIP1 residues to alanine (M637A and R638A).
+
+2.3. Purification
+The soluble supernatant of the His-tagged TNFR-1 fusion protein was loaded onto a Ni–NTA (Amersham-Pharmacia Biotech, Orsay, France) column and pre-equilibrated with buffer A [50 mM Tris–HCl (pH 7.5) and 200 mM NaCl], after which the bound protein was eluted using buffer A containing 20–200 mM imidazole. The concentrated fractions of TNFR-1 from the Ni–NTA column were subsequently purified by gel filtration chromatography using a Superdex 200 10/300 GL fast protein liquid chromatography (FPLC) column equilibrated in buffer A.
+
+The supernatant of GST-RIP1 was loaded onto a glutathion-sepharose column that had been pre-equilibrated with PBS buffer at a flow rate of 2 ml/min. The bound protein was eluted in buffer [50 mM Tris–HCl (pH 7.5)] containing 5–30 mM glutathione.
+
+2.4. Western blotting
+Separated TNFR-1, TRADD, and RIP1 proteins by 15% SDS–PAGE were electrophoretically transferred onto an immobilon-P membrane at 105 V for 1 h, then blocked with 5% skim milk in PBS buffer containing 0.1% Tween 20 (PBS-T) for 45 min. After blocking, the membrane was incubated in primary antibody [His-probe (G-18) diluted to 1:2500 (Santa Cruz Biotechnology, Inc.), and GST (B-14) diluted to 1:5000 (Santa Cruz Biotechnology, Inc.)] for 1 h. After washing with PBS-T for 30 min, the bound antibodies were detected by His secondary antibody [goat anti-rabbit IgG-HRP (Santa Cruz Biotechnology, Inc.)] and with GST secondary antibody [goat anti-mouse IgG-HRP] diluted to 1:10,000 in blocking buffer for 1 h.
+
+2.5. GST pull-down assay
+A GST pull-down assay was performed by mixing the purified His-TNFR-1, His-TRADD, with purified GST, GST-TNFR-1, and GST-RIP1 proteins, which were incubated with glutathione-sepharose 4B beads and binding buffer A. After 3 h of reaction at 4 °C the bound proteins and beads were centrifuged at 3660×g for 3 min and then washed three times with binding buffer A. The binding proteins were then eluted with buffer [50 mM Tris–HCl (pH 7.5) and 30 mM glutathione] and analyzed by 15% SDS–PAGE. Finally, the proteins were visualized by immunoblotting assay using anti-His and anti-GST.
+
+2.6. Structural modeling
+The TNFR-1, TRADD, and RIP1 DDs models were constructed using the SWISS-MODEL software, which is a relative three-dimensional (3D) protein modeling system [31]. The 3D models of TRADD and RIP1 DDs with TNFR-1 DD were used as templates for the homology protein models of PIDD (PDB ID: 2OF5), FADD (PDB ID: 2GF5), and TNFR-1 (PDB ID: 1ICH) [32], [33] and [34]. The TNFR-1-RIP1 DDs complex and TRADD DD were bound and the most stable complex structure was selected from among the top 20 complexes obtained from each docking.
+
+2.7. Biacore biosensor analysis
+Measurements of the apparent dissociation constants (KD) among TNFR-1, TRADD, and RIP1 DDs were carried out using a Biacore 2000 biosensor (Biosensor, Sweden). Each TNFR-1, TRADD, and RIP1 DD (20 μg/mL in 10 mM sodium acetate with a pH of 5.0) was covalently bound to the carboxylated dextran matrix at a concentration corresponding to 3300, or 1000 response units (RU) using the amine-coupling method suggested by the manufacturer. For kinetic measurements at room temperature, TNFR-1, TRADD, and RIP1 DDs samples with concentrations ranging from 125 to 2000 nM were prepared by dilution in HBS buffer (150 mM of NaCl, 3 mM of EDTA, 0.005% surfactant P20 and 10 mM of HEPES) with a pH of 7.4.
+
+3. Results and discussion
+The domain structures of full-length TNFR-1, TRADD, and RIP1 are shown in Fig. 1A. The TNFR-1 sequence has N-terminal cysteine-rich repeats (Cys 1–4, 43–196) in its extracellular domains and the C-terminal death domain (DD, 356–441). The TRADD was divided into the N-terminal TRAF binding site (51–144) and the C-terminal death domain (DD, 215–304). The RIP1 was composed of the N-terminal kinase domain (KD, 17–289) and the C-terminal death domain (DD, 583–669), which were connected via an RIP homotypic interaction motif region (RHIM, 531–547). The amino acids sequences of the TNFR-1, TRADD, and RIP1 were aligned with homology protein models as shown in Fig. 1B–D. The sequence of TRADD DD was approximately 26% homologous with that of FADD, while the sequence of RIP1 DD was approximately 33% identical to that of PIDD DD. The secondary structures, including five of RIP1 and six α-helices of TNFR-1 and TRADD DDs, were predicted. The domain structures and the sequence alignments showed that the C-terminal death domains shared sequence similarity.
+
+Full-size image (123 K)
+Fig. 1. 
+Domain structure, sequence alignment, and predicted secondary structure of full-length TNFR-1, TRADD, and RIP1. (A) Schematic diagram showing domains of the full-length TNFR-1, TRADD, and RIP1. (B, C, and D) Sequence alignments and secondary structures of TNFR-1 DD and TNFR-1 DD (PDB ID: 1ICH), TRADD DD and FADD DD (PDB ID: 2GF5) and RIP1 DD and PIDD DD (PDB ID: 2OF5). Alpha helices are shown as thin red ellipses and loops as gray lines. Blue squares mark conserved residues. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+The wild-type TNFR-1, TRADD, and RIP1 DDs and their mutants were constructed and expressed in E. coli BL21(DE3) and the purified proteins were visualized by SDS–PAGE ( Fig. 2A). The TNFR-1 DD and its mutants (N365A, P367A, P368A, and C395A) showed identical positions at 17 kDa, while TRADD DD and its mutants (Y262A and F266A) were located at 21 kDa, and RIP1 DD and its mutants (M637A and R638A) were located at 10 kDa. Additionally, the proteins were identified by Western blotting and their interactions were identified using a size-exclusion column ( Fig. 2B). To accomplish this, the purified TNFR-1, TRADD, and RIP1 DDs were mixed at a 1:1:1 molar ratio, incubated at 4 °C for 12 h and then loaded onto a Superdex 200 10/300 GL column (Amersham Pharmacia Biotech). Binding of the TNFR-1, TRADD, and RIP1 DDs was detected using SDS–PAGE, which revealed that the complex band eluted earlier than each protein peak. Moreover, binding between TNFR-1 and RIP1 DDs and between TRADD and RIP1 DDs was observed ( Fig. 2C), with binding between TNFR-1 and TRADD DDs showing stronger interaction than binding between TNFR-1 and RIP1 DDs or between TRADD and RIP1 DDs ( Fig. 2D).
+
+Full-size image (66 K)
+Fig. 2. 
+Purification of TNFR-1, TRADD, and RIP1 DDs and their mutations. (A) Purification of wild-type TNFR-1, TRADD, and RIP1 DDs and their mutated proteins are shown. (B) After application of size-exclusion chromatography, the binding of TRADD and RIP1 to TNFR-1 DDs were revealed using SDS-PAGE. (C) TNFR-1 with RIP1 DDs and TRADD with RIP1 DDs complexes are shown. (D) TRADD and TNFR-1 DDs complex is shown. Elution profiles of the TNFR-1, TRADD, and RIP1 DDs complex are shown.
+Figure options
+These results indicate that the three or two DD interaction surfaces cooperate to facilitate the assembly of these oligomeric signaling complexes. One important function of these DDs is participation in homotypic protein–protein interactions in the assembly of oligomeric signaling complexes of apoptosis and inflammation. Wu et al. recently demonstrated that the TNF receptor family member Fas forms a complex with FADD through DD:DD interaction [10]. Similarly, oligomerization of PIDD and RAIDD DDs leads to formation of the PIDDosome [32]. In humans, the DD containing homologs MyD88, IRAK4, and IRAK1/2 assemble into oligomeric signaling complexes [35].
+
+Here, we provided evidence that the DD of TNFR-1 binds to the DDs of TRADD and RIP1 in vitro. To investigate the interaction between TNFR-1 and RIP1 DDs, a GST pull-down assay was conducted and the interaction was investigated by Western blotting ( Fig. 3A). Moreover, interaction of the TNFR-1, TRADD, and RIP1 DDs was evaluated ( Fig. 3B and C). Furthermore, a point mutagenesis study was implemented using residues of TNFR-1 DD (N365A, P367A, P368A, and C395A), TRADD DD (Y262A and F266A), and RIP1 DD (M637A and R638A). The GST pull down assay demonstrated that the mutated residues of TNFR-1 DD (P367A, P368A), TRADD DD (F266A), and RIP1 DD (M637A and R638A) disrupted their interactions in the DD complex. The interaction sites of the DD complex were then predicted and used to implement point mutations on the complex surface.
+
+Full-size image (95 K)
+Fig. 3. 
+Interaction analyses of TNFR-1, TRADD, and RIP1 DDs using the GST pull-down. (A) Interaction analysis of TNFR-1 and RIP1 DDs using the GST pull-down assay. (B and C) Interaction analysis of TNFR-1, TRADD, and RIP DDs and their mutants using the GST pull-down assay. The protein interactions were detected by Western blotting.
+Figure options
+In the present study, we modeled the complex structure of TNFR-1, TRADD and RIP1 DDs. The three-dimensional structure of the TNFR-1 DD has previously been identified [34]. The structure of the TNFR-1 DD (356–442) was modeled using the known structure of human TNFR-1 DD (PDB ID: 1ICH, 316–426, R347K) (Fig. S1A). The structures of the TRADD (218–306) and RIP1 (583–663) DDs were predicted using FAS-associating death domain-containing protein (FADD) (PDB ID: 2GF5, 1–191, F25Y) and human p53-induced protein with a death domain (PIDD) (PDB ID: 2OF5, 778–883) (Fig. S1B and C) [32] and [33]. TRADD DD has a hydrophobic pocket and the DD can be bound to other DDs. TNFR-1 DD is composed of six slightly bent α-helices; however, TRADD DD is composed of six side-by-side α-helices. RIP1 DD is composed of five α-helices, with a surface compose of more negatively charged amino acids than those of TNFR-1 or TRADD. In the present study, prediction of the structural formation of the death-signaling complex by TNFR-1, TRADD, and RIP1 DDs was accomplished using SWISS-MODEL [10], and the results showed that DDs of TNFR-1, TRADD, and RIP1 were formed by five or six α-helices, respectively (Fig. S4).
+
+Interactions between the TNFR-1, TRADD, and RIP1 DDs were observed (Fig. 4A), with the interaction between TNFR-1 and RIP1 localized at the residues of TNFR-1 (C395) and RIP1 (M637 and R638) in the α4-helices regions and that between TNFR-1 and TRADD localized at the residues of TNFR-1 (N365, P367, and P368) on the loop region and TRADD (Y262 and F266) on the α4-helix region. The predicted binding sites are shown in the modeled complex structure (Fig. 4B). The DD complex structure of the modeled TNFR-1, TRADD, and RIP1 DDs was also shown as a surface representation (Fig. 4C).
+
+Full-size image (112 K)
+Fig. 4. 
+The overall modeled structure of the TNFR-1–TRADD–RIP1 death domain complex. (A) Ribbon representations of the TNFR-1 (blue), TRADD (green), and RIP1 (orange) DDs complex are shown. (B) Stereoview of the modeled TNFR-1, TRADD, RIP1 DDs complex structure as a carbon stick representation. (C) The complex as surface representations. Blue and red represent positive and negative electrostatic potentials, respectively. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+Figure options
+The loop region between the α1 and α2 helices of TNFR-1 is composed of hydrophobic amino acids comprising P367, P368, and L369. The interaction site of TRADD is also composed of hydrophobic amino acids including F266, while the binding site of RIP1 is in a hydrophobic residue of M637. The three-dimensional structure of the TNFR-1–TRADD–RIP1 complex was stabilized by hydrophobic interactions between residues of the loop region and the aromatic residues. The point mutation of each protein was designed from these predicted interaction sites. Moreover, a point mutagenesis study was implemented with four residues of TNFR-1 (N365, P367, P368, and C395) to identify the interaction sites of the TNFR-1 DD. To accomplish this, four mutations were produced by substitutions of Ala, and mutations of the hydrophobic residues (P367 and P368) were found to disrupt the interaction with the DD complex (Fig. 3B). The binding site of RIP1 included a hydrophobic M637 and charged R638. Additionally, two residues of TRADD DD were selected to identify the interaction with the DD complex. The results revealed that mutations of a hydrophobic F266A in TRADD DD or M637 and R638 in RIP1 DD disrupted the interaction with the DD complex (Fig. 3B). TRADD and RIP1 were bound to the receptor–signaling complex upon trimerization of TNFR-1 by induced oligomeric TNF-α in the extracellular position, which was a crucial step in the cascade [34] and [36]. We modeled the molecular complex formation among TNFR-1, TRADD, and RIP1 proteins.
+
+The binding affinities among TNFR-1, TRADD, and RIP1 DDs were estimated using surface plasmon resonance spectroscopy. The binding affinities of TNFR-1 and RIP1 DDs to TRADD DD or TNFR-1 and TRADD DDs to RIP1 DD were also estimated using the same methods (Table 1). We found that TRADD and RIP1 DDs physically bound to TNFR-1 DD with a KD of 25 nM for the wild-type TRADD DD, 54 nM for the wild-type RIP1 DD, and 52 nM for the mutated TRADD DD (Y262A) confirming that TRADD DD binds TNFR-1 DD more strongly than RIP1 DD. In addition, four mutations of hydrophobic residues (F266A, M637A, P367A, and P368A) in TRADD and RIP1 and a charged residue (R638A) in TNFR-1 generated by substitutions of Ala disrupted the interaction with the DD complex. The three mutations of polar amino acids (Y262A, N365A, and C395A) in TRADD and TNFR-1 had no effect on the interaction of the complex.
+
+Table 1.
+Kinetic parameters of the binding of TNFR-1, TRADD, and RIP1.a
+KD (M)	Binding to TNFR-1
+TRADD DD W.T.	2.50 × 10−8	+++
+TRADD DD Y262A	5.21 × 10−8	++
+TRADD DD F266A	3.94 × 10−7	−
+RIP1 DD W.T.	5.43 × 10−8	++
+RIP1 DD M637A	2.46 × 10−7	−
+RIP1 DD R638A	3.41 × 10−7	−
+
+KD (M)	Binding to TRADD
+TNFR-1 DD W.T.	2.54 × 10−8	+++
+TNFR-1 DD N365A	4.70 × 10−8	++
+TNFR-1 DD P367A	2.42 × 10−7	−
+TNFR-1 DD P368A	1.46 × 10−7	−
+TNFR-1 DD C395A	5.03 × 10−8	++
+RIP1 DD W.T.	9.15 × 10−8	+
+
+KD (M)	Binding to RIP1
+TNFR-1 DD W.T	6.51 × 10−8	++
+TNFR-1 DD N365A	7.65 × 10−8	+
+TNFR-1 DD P367A	2.68 × 10−7	−
+TNFR-1 DD P368A	4.38 × 10−7	−
+TNFR-1 DD C395A	7.42 × 10−8	+
+TRADD DD W.T.	9.34 × 10−8	+
+a
+The association rate constant (ka) was determined using a plot of In[Abs(dR/dt)] versus time, where R was the intensity of the surface plasmon resonance signal at time t. The dissociation rate constant (kd) was determined using a plot of In(R0/R) versus time, where R0 was the resonance signal intensity at time zero. The apparent KD was calculated using the kinetic constants: KD (M) = kd/ka.
+Table options
+Taken together, a model of secondary and tertiary structures of TNFR-1, TRADD, and RIP1 DDs and their complex structures were generated by protein structure prediction programs, and the results agreed well with the experimental results. Moreover, binding of the TNFR-1, TRADD, and RIP1 DDs was identified by GST pull-down and Biacore biosensor experiments. The interaction sites of the DD complex were predicted and used to generate point mutations on the complex surface. Modeling of the complex structure of TNFR-1, TRADD, and RIP1 DDs revealed that the mutated TNFR-1 (P367A and P368A), TRADD (F266A), and RIP1 (M637A and R638A) residues disrupted formation of the DD complex, suggesting that the three-dimensional structure of the TNFR-1, TRADD, and RIP1 DDs complex was primarily stabilized by hydrophobic interactions. Overall, the results presented herein establish a basis for future structural studies of the ternary complex in the future.
+
+Acknowledgments
+This study was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science and Technology (2013-054737) to S.B.J. and (2013-054754) M.S.J. Moreover, this study was supported by the Research Fund Program of the Research Institute for Basic Sciences, Pusan National University, Korea, 2012, project No. RIBS-PNU-2012-104. This study was also supported by the Pusan National University Post-Doc. Program in 2013 to M.S.J.
+
+Appendix A. Supplementary data
+ 
+Supplementary data 1.  
+
+This document contains supplementary figures.
+
+Help with DOC filesOptions
+References
+[1]
+B.B. Aggarwal
+Signaling pathways of the TNF superfamily: a double-edged sword
+Nat. Rev. Immunol., 3 (2003), pp. 745–756
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1159)
+[2]
+H.J. Gruss, S.K. Dower
+Tumor necrosis factor ligand superfamily: involvement in the pathology of malignant lymphomas
+Blood, 85 (1995), pp. 3378–3404
+
+View Record in Scopus | Citing articles (367)
+[3]
+M. Croft
+Co-stimulatory members of the TNFR family: keys to effective T-cell immunity?
+Nat. Rev. Immunol., 3 (2003), pp. 609–620
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (525)
+[4]
+A. Ashkenazi
+Targeting death and decoy receptors of the tumour-necrosis factor superfamily
+Nat. Rev. Cancer, 2 (2002), pp. 420–430
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (785)
+[5]
+H.T. Idriss, J.H. Naismith
+TNF alpha and the TNF receptor superfamily: structure–function relationship(s)
+Microsc. Res. Tech., 50 (2000), pp. 184–195
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (229)
+[6]
+A.M. Chinnaiyan, K. O’Rourke, G.L. Yu, R.H. Lyons, M. Garg, D.R. Duar, L. Xing, R. Gentz, J. Ni, V.M. Dixit
+Signal transduction by DR3, a death domain-containing receptor related to TNFR-1 and CD95
+Science, 274 (1996), pp. 990–992
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (434)
+[7]
+G. Zhang
+Tumor necrosis factor family ligand-receptor binding
+Curr. Opin. Struct. Biol., 14 (2004), pp. 154–160
+
+Article |  PDF (360 K) | View Record in Scopus | Citing articles (43)
+[8]
+Y. Wang, T.R. Wu, S. Cai, T. Welte, Y.E. Chin
+Stat1 as a component of tumor necrosis factor alpha receptor 1-TRADD signaling complex to inhibit NF- κB activation
+Mol. Cell Biol., 20 (2000), pp. 4505–4512
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (123)
+[9]
+E. Meylan, K. Burns, K. Hofmann, V. Blancheteau, F. Martinon, M. Kelliher, J. Tschopp
+RIP1 is an essential mediator of Toll-like receptor 3–induced NF-κB activation
+Nat. Immunol., 5 (2004), pp. 503–507
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (392)
+[10]
+L. Wang, J.K. Yang, V. Kabaleeswaran, A.J. Rice, A.C. Cruz, A.Y. Park, Q. Yin, E. Damko, S.B. Jang, S. Raunser, C.V. Robinson, R.M. Siegel, T. Walz, H. Wu
+The Fas-FADD death domain complex structure reveals the basis of DISC assembly and disease mutations
+Nat. Struct. Mol. Biol., 17 (2010), pp. 1324–1329
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (61)
+[11]
+J.R. Bradley, J.S. Pober
+Tumor necrosis factor receptor-associated factors (TRAFs)
+Oncogene, 20 (2001), pp. 6482–6491
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (302)
+[12]
+F.K. Chan, H.J. Chun, L. Zheng, R.M. Siegel, K.L. Bui, M.J. Lenardo
+A domain in TNF receptors that mediates ligand-independent receptor assembly and signaling
+Science, 288 (2000), pp. 2351–2354
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (449)
+[13]
+I. Lavrik, A. Golks, P.H. Krammer
+Death receptor signaling
+J. Cell Sci., 118 (2005), pp. 265–267
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (183)
+[14]
+W.R. MacLellan, M.D. Schneider
+Death by design. Programmed cell death in cardiovascular biology and disease
+Circ. Res., 81 (1997), pp. 137–144
+
+Full Text via CrossRef
+[15]
+J.E. Vince, W.W. Wong, N. Khan, R. Feltham, D. Chau, A.U. Ahmed, C.A. Benetatos, S.K. Chunduru, S.M. Condon, M. McKinlay, R. Brink, M. Levekus, V. Tergaonkar, P. Schneider, B.A. Callus, F. Koentgen, D.L. Vaux, J. Silke
+IAP antagonists target cIAP1 to induce TNFalpha-dependent apoptosis
+Cell, 131 (2007), pp. 682–693
+
+Article |  PDF (1501 K) | View Record in Scopus | Citing articles (414)
+[16]
+H. Hsu, H.B. Shu, M.G. Pan, D.V. Goeddel
+TRADD–TRAF2 and TRADD–FADD interactions define two distinct TNF receptor 1 signal transduction pathways
+Cell, 84 (1996), pp. 299–308
+
+Article |  PDF (259 K) | View Record in Scopus | Citing articles (1433)
+[17]
+C.K. Ea, L. Deng, Z.P. Xia, G. Pineda, Z.J. Chen
+Activation of IKK by TNFalpha requires site-specific ubiquitination of RIP1 and polyubiquitin binding by NEMO
+Mol. Cell, 22 (2006), pp. 245–257
+
+Article |  PDF (781 K) | View Record in Scopus | Citing articles (413)
+[18]
+J. Li, T. McQuade, A.B. Siemer, J. Napetschnig, K. Moriwaki, Y.S. Hsiao, E. Damko, D. Moquin, T. Walz, A. McDermott, F.K. Chan, H. Wu
+The RIP1/RIP3 necrosome forms a functional amyloid signaling complex required for programmed necrosis
+Cell, 150 (2012), pp. 339–350
+
+Article |  PDF (1990 K) | View Record in Scopus | Citing articles (45)
+[19]
+E. Trompouki, E. Hatzivassiliou, T. Tsichritzis, H. Farmer, A. Ashworth, G. Msialos
+CYLD is a deubiquitinating enzyme that negatively regulates NF-kappaB activation by TNFR family members
+Nature, 424 (2003), pp. 793–796
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (472)
+[20]
+M.J. Bertrand, S. Milutinovic, K.M. Dickson, W.C. Ho, A. Boudreault, J. Durkin, J.W. Gillard, J.B. Jaquith, S.J. Morris, P.A. Barker
+CIAP1 and cIAP2 facilitate cancer cell survival by functioning as E3 ligases that promote RIP1 ubiquitination
+Mol. Cell, 30 (2008), pp. 689–700
+
+Article |  PDF (1210 K) | View Record in Scopus | Citing articles (309)
+[21]
+W. Declercq, T. Vanden Berghe, P. Vandenabeele
+RIP kinases at the crossroads of cell death and survival
+Cell, 138 (2009), pp. 229–232
+
+Article |  PDF (588 K) | View Record in Scopus | Citing articles (131)
+[22]
+A.P. Sinha Hikim, R.S. Swerdloff
+Hormonal and genetic control of germ cell apoptosis in the testis
+Rev. Reprod., 4 (1999), pp. 38–47
+
+Full Text via CrossRef
+[23]
+P.G. Ekert, J. Silke, D.L. Vaux
+Inhibition of apoptosis and clonogenic survival of cells expressing crmA variants: optimal caspase substrates are not necessarily optimal inhibitors
+EMBO J., 18 (1999), pp. 330–338
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+[24]
+I.N. Lavrik, A. Golks, P.H. Krammer
+Caspases: pharmacological manipulation of cell death
+J. Clin. Invest., 115 (2005), pp. 2665–2672
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (285)
+[25]
+Y.S. Cho, S. Challa, D. Moquin, R. Genga, T.D. Ray, M. Guildford, F.K. Chan
+Phosphorylation-driven assembly of the RIP1–RIP3 complex regulates programmed necrosis and virus-induced inflammation
+Cell, 137 (2009), pp. 1112–1123
+
+Article |  PDF (1761 K) | View Record in Scopus | Citing articles (377)
+[26]
+J.W. Upton, W.J. Kaiser, E.S. Mocarski
+Cytomegalovirus M45 cell death suppression requires receptor-interacting protein (RIP) homotypic interaction motif (RHIM)-dependent interaction with RIP1
+J. Biol. Chem., 283 (2008), pp. 16966–16970
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+[27]
+N. Vanlangenakker, M.J. Bertrand, P. Bogaert, P. Vandenabeele, T. Vanden Berghe
+TNF-induced necroptosis in L929 cells is tightly regulated by multiple TNFR1 complex I and II members
+Cell Death Dis., 2 (2011), p. e230
+
+Full Text via CrossRef
+[28]
+N. Holler, R. Zaru, O. Micheau, M. Thome, A. Attinger, S. Valitutti, J.L. Bodmer, P. Schneider, B. Seed, J. Tschopp
+Fas triggers an alternative, caspase-8-independent cell death pathway using the kinase RIP as effector molecule
+Nat. Immunol., 1 (2000), pp. 489–495
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (671)
+[29]
+A. Oberst, C.P. Dillon, R. Weinlich, L.L. McCormick, P. Fitzgerald, C. Pop, R. Hakem, G.S. Salvesen, D.R. Green
+Catalytic activity of the caspase-8–FLIPL complex inhibits RIPK3-dependent necrosis
+Nature, 471 (2011), pp. 363–367
+
+Full Text via CrossRef
+[30]
+S.L. Petersen, M. Peyton, J.D. Minna, X. Wang
+Overcoming cancer cell resistance to Smac mimetic induced apoptosis by modulating cIAP-2 expression
+Proc. Natl. Acad. Sci. USA, 107 (2010), pp. 11936–11941
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (31)
+[31]
+N. Guex, M.C. Peitsch
+SWISS-MODEL and the Swiss-PdbViewer: an environment for comparative protein modeling
+Electrophoresis, 18 (1997), pp. 2714–2723
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (6543)
+[32]
+H.H. Park, E. Logette, S. Raunser, S. Cuenin, T. Walz, J. Tschopp, H. Wu
+Death domain assembly mechanism revealed by crystal structure of the oligomeric PIDDosome core complex
+Cell, 128 (2007), pp. 533–546
+
+Article |  PDF (2380 K) | View Record in Scopus | Citing articles (116)
+[33]
+P.E. Carrington, C. Sandu, Y. Wei, J.M. Hill, G. Morisawa, T. Huang, E. Gavathiotis, Y. Wei, M.H. Werner
+The structure of FADD and its mode of interaction with procaspase-8
+Mol. Cell, 22 (2006), pp. 599–610
+
+Article |  PDF (1062 K) | View Record in Scopus | Citing articles (84)
+[34]
+S.F. Sukits, L.L. Lin, S. Hsu, K. Malakian, R. Powers, G.Y. Xu
+Solution structure of the tumor necrosis factor receptor-1 death domain
+J. Mol. Biol., 310 (2001), pp. 895–906
+
+Article |  PDF (524 K) | View Record in Scopus | Citing articles (25)
+[35]
+S.C. Lin, Y.C. Lo, H. Wu
+Helical assembly in the MyD88-IRAK4-IRAK2 complex in TLR/IL-IR signaling
+Nature, 465 (2010), pp. 885–890
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (176)
+[36]
+H. Hsu, J. Huang, H.B. Shu, V. Baichwal, D.V. Goeddel
+TNF-dependent recruitment of the protein kinase RIP to the TNF receptor-1 signaling complex
+Immunity, 4 (1996), pp. 387–396
+
+Article |  PDF (274 K) | View Record in Scopus | Citing articles (709)

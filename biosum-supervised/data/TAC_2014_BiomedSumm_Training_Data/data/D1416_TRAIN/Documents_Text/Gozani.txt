@@ -1,0 +1,584 @@
+The PHD Finger of the Chromatin-Associated Protein ING2 Functions as a Nuclear Phosphoinositide Receptor
+Or Gozani1, 10, Philip Karuman1, 10, David R. Jones3, Dmitri Ivanov4, James Cha1, Alexey A. Lugovskoy4, Cheryl L. Baird5, Hong Zhu1, Seth J. Field6, Stephen L. Lessnick7, Jennifer Villasenor1, Bharat Mehrotra2, Jian Chen2, Vikram R. Rao1, Joan S. Brugge1, Colin G. Ferguson2, 8, Bernard Payrastre9, David G. Myszka2, 5, Lewis C. Cantley1, 6, Gerhard Wagner4, Nullin Divecha3, Glenn D. Prestwich2, Junying YuanCorresponding author contact information, 1, E-mail the corresponding author
+ Show more
+DOI: 10.1016/S0092-8674(03)00480-X
+Under an Elsevier user license
+  Open Archive
+Abstract
+Phosphoinositides (PtdInsPs) play critical roles in cytoplasmic signal transduction pathways. However, their functions in the nucleus are unclear, as specific nuclear receptors for PtdInsPs have not been identified. Here, we show that ING2, a candidate tumor suppressor protein, is a nuclear PtdInsP receptor. ING2 contains a plant homeodomain (PHD) finger, a motif common to many chromatin-regulatory proteins. We find that the PHD fingers of ING2 and other diverse nuclear proteins bind in vitro to PtdInsPs, including the rare PtdInsP species, phosphatidylinositol 5-phosphate (PtdIns(5)P). Further, we demonstrate that the ING2 PHD finger interacts with PtdIns(5)P in vivo and provide evidence that this interaction regulates the ability of ING2 to activate p53 and p53-dependent apoptotic pathways. Together, our data identify the PHD finger as a phosphoinositide binding module and a nuclear PtdInsP receptor, and suggest that PHD-phosphoinositide interactions directly regulate nuclear responses to DNA damage.
+
+Introduction
+Phosphoinositides (PtdInsPs) regulate diverse cellular functions, including survival, growth, and proliferation, and their dysregulation is common in neoplasms and other diseases Cantley 2002 and Payrastre et al. 2001. The discovery of specific PtdInsP binding protein domains has been critical for elucidating the mechanism of PtdInsP function (Hurley and Misra, 2000). To date, all identified PtdInsP binding protein modules are found on proteins that are principally cytoplasmic or membrane bound (Tanaka et al., 1999). Consequently, progress in understanding PtdInsP regulatory mechanisms has centered on cytoplasmic processes, and relatively little is known about nuclear functions of PtdInsPs (Irvine, 2000).
+
+Biochemical studies have detected PtdInsPs in the nucleus (Irvine, 2000), and recently, imaging studies have identified PtdIns(3)P, PtdIns(4,5)P2, PtdIns(3,4)P2 and PtdIns(3,4,5)P3 within the nucleus Boronenkov et al. 1998, Chen et al. 2002, Gillooly et al. 2000, Watt et al. 2002 and Yokogawa et al. 2000. Moreover, functional evidence has emerged that PtdInsPs can modulate a number of nuclear processes. For example, PtdIns(4,5)P2 induces association of the SWI/SNF-like BAF complex with chromatin in T cells during antigen stimulation (Zhao et al., 1998) and likely has a role in pre-mRNA splicing Boronenkov et al. 1998 and Osborne et al. 2001. Finally, levels of nuclear PtdIns(5)P increase 20-fold during G1 in cycling cells, suggesting potential regulatory roles for PtdIns(5)P signaling in cell-cycle progression (Clarke et al., 2001). Thus, it is likely that the functions of PtdInsPs in the nucleus are as diverse and extensive as in the cytoplasm. However, the specific mechanisms of nuclear PtdInsP signaling have been difficult to elucidate, primarily due to the absence of known nuclear PtdInsP binding domains.
+
+The PHD motif is a conserved Cys4-HisCys3 orphan zinc finger domain present throughout eukaryotic proteomes (Aasland et al., 1995). A large number of chromatin regulatory factors contain PHD fingers, including the acetyltransferase proteins CBP/p300, the chromatin remodeling protein ACF, and the ING family of putative tumor suppressors Feng et al. 2002, Fyodorov and Kadonaga 2002 and Kalkhoven et al. 2002. Mutations within PHD fingers are found in tumor tissue and result in diverse genetic disorders Feng et al. 2002 and Pascual et al. 2000. Recently, a subclass of putative PHD fingers were shown to have E3-ubiquitin ligase activity, but other analyses indicate these modules are in fact RING finger variants (Aravind et al., 2003). Regardless, the PHD finger has been proposed to function in either protein-protein or protein-DNA interactions; however, a physiologic PHD binding partner has not been identified (Aasland et al., 1995).
+
+The ING family is conserved from yeast to humans and members of this family associate with and modulate the activity of histone acetyl transferase (HAT) and histone deacetylase (HDAC) complexes (Feng et al., 2002). Both ING1 and ING2 cooperate with the tumor suppressor p53 to induce cellular growth arrest and apoptosis, and ING2 overexpression stimulates acetylation of p53 Garkavtsev et al. 1998 and Nagashima et al. 2001. Thus, the ING family appears to link chromatin regulation with p53 function and tumor suppression, though the biochemical function of these proteins has not been established.
+
+In this study, we identify ING2 as a PtdInsP-interacting partner. Further, we show that the PHD fingers of ING2 and other diverse nuclear proteins bind to PtdInsPs. We also find that PtdInsPs modulate both the localization and activity of endogenous ING2. Thus, we identify the PHD finger as a nuclear receptor of PtdInsP signaling.
+
+Results
+The PHD Finger of ING2 Binds to Phosphoinositides In Vitro
+To identify novel downstream targets of PtdInsPs, a small pool library expression screen was carried out with a PtdInsP-affinity resin (Figure 1A)(Rao et al., 1999). This strategy identified ING2 as a candidate PtdInsP binding protein (Figure 1B)(Shimada et al., 1998). In a protein-lipid blot assay (Dowler et al., 2002), a GST-ING2 fusion protein interacted most strongly with PtdIns(5)P, which, to our knowledge, has no previously demonstrated protein module binding partner (Figure 1B).
+
+Full-size image (88 K)
+Figure 1. 
+Identification of the ING2 PHD Finger as a PtdInsP Binding Module
+(A) Small pool expression screen to identify PtdInsP binding proteins. 35S-labeled cDNA pools containing ∼100 cDNAs were incubated with PIP-beads or control beads and binding assays were carried out as described (Rao et al. 1999). A 34 kDa 35S-labeled protein (arrowhead) was identified in pool #517 that bound specifically to PIP-beads.
+(B) ING2 binds most strongly to PtdIns(5)P. Top, schematic of ING2 domains. Nuclear localization signal (NLS; amino acids 180–200) and plant homeodomain (PHD; amino acids 200–281) are indicated. Left, schematic of PIP strip lipid blots (Echelon Biosciences). Right, GST-ING2 or GST alone were incubated at 0.5 μg/ml with PIP strips. GST-ING2 binds most strongly to PtdIns(5)P (arrow). PE, phosphatidylethanolamine; PC, phosphatidylcholine; PA, phosphatidic acid; PS, phosphatidylserine.
+(C) The PHD finger of ING2 is sufficient for PtdInsP binding. The indicated GST-fusion proteins were tested for binding to PIP strips as in (B). Caspase-5 (GST-caspase-5 amino acids 82–266); ING2(1–40) (GST-ING2 amino acids 1–40). Arrows indicate the strongest interactions on each lipid blot.
+(D) ING2(PHD) binding to PtdInsPs by SPR. SPR traces of ING2(PHD) binding to the indicated liposomes (4:1 ratio of PC:PtdInsP) coated on L1 pioneer sensor chip. Each mixture was loaded on a separate flow cell between 5000 and 6000 RU (relative units). PC trace was subtracted for normalization.
+(E) IVT ING2(PHD) binds specifically to PtdIns(5)P-affinity resin. 35S-labeled ING2(PHD), p40(PX), or Phish/Dapp1 were incubated with the indicated PtdInsP-affinity resins and binding assays were carried out as in (A). Input denotes 10% of total IVT protein used for each assay.
+(F) Affinity and zinc-dependence of lipid binding by ING2 PHD finger. Left, schematic of “PIP arrays” (Echelon Biosciences) containing the serial dilutions of the indicated PtdInsPs (in picomoles). The indicated GST-fusions were used to probe PIP arrays as in (B). Arrows indicate lowest concentration of binding to PtdInsPs by each protein. ING2(PHD-Znmt), the PHD finger of ING2 containing mutations of the zinc coordinating residues C215S, C217S, C242S, C255S, C258S, H239P, TPEN [N,N,N',N'-tetrakis(2-pyridyl-methyl)ethylenediamine, Sigma].
+Figure options
+ING2 contains a PHD finger (Figure 1B). As this module is structurally similar to the FYVE-finger, a known PtdIns(3)P binding module Pascual et al. 2000 and Stenmark et al. 2002, we asked whether the PHD finger of ING2 mediates the ING2-PtdInsP interaction. As shown in Figure 1C, a GST fusion of the PHD finger of ING2 (ING2(PHD)) is sufficient for binding PtdIns(5)P.
+
+To control for the quality of the lipid blots, we used various protein domains that interact with different PtdInsP species as probes. As shown in Figure 1C, the PX domain of p40Phox (p40(PX)), PH (pleckstrin homology) domain of FAPP1 (FAPP1(PH)), and PHISH/DAPP1 bound to their known PtdIns(P) targets (PtdIns(3)P, PtdIns(4)P, PtdIns(3,4)P2, respectively) Dowler et al. 2000 and Ellson et al. 2001. To control for PtdIns(5)P interactions, we used the lipid kinase PIKIIβ, which phosphorylates PtdIns(5)P to generate PtdIns(4,5)P2 (Rameh et al., 1997). PIKIIβ detected PtdIns(5)P (as well as PtdIns(3)P and PtdIns(3,4)P2, its other in vitro substrates (Zhang et al., 1997)) in the lipid blot assay (Figures 1C and 1F). As negative controls, GST alone, caspase-5, and a derivative of ING2 lacking the PHD finger (ING2(1–40)) did not bind to any PtdInsPs (Figures 1B and 1C).
+
+We confirmed these results by independent methods for detecting PtdInsP-protein interactions. Surface plasmon-resonance (SPR) biosensor analysis revealed that ING2(PHD) interacted with liposomes containing PtdIns(5)P and PtdIns(3)P, but not with PtdIns(4)P or control liposomes (Figure 1D). Additionally, using different PtdInsP-coupled affinity resins, we found that in vitro translated (IVT) ING2(PHD) bound specifically to PtdIns(5)P (Figure 1E). As controls, the PtdIns(3)P and PtdIns(3,4,5)P3 affinity resins bound to their known protein interactors, p40(PX) and PHISH/DAPP1, respectively (Figure 1E)Ellson et al. 2001 and Rao et al. 1999. Thus, the ING2 PHD finger was detected interacting with PtdInsPs by three independent in vitro methods.
+
+To quantify the relative affinity of ING2 for PtdInsPs, we probed a lipid blot with serial dilutions of eight different PtdInsPs (Figure 1F). Full-length ING2 and ING2(PHD) bound most tightly to PtdIns(5)P and PtdIns(3)P (Figure 1F). The caspase-5 fusion protein did not bind to any phospholipid, and PIKIIβ bound most tightly to PtdIns(3)P, PtdIns(3,4)P2, and PtdIns(5)P, consistent with its reported substrate activity (Figure 1F)Rameh et al. 1997 and Zhang et al. 1997.
+
+The PHD finger is an interlaced zinc binding motif Capili et al. 2001 and Pascual et al. 2000. We found that the zinc chelator, TPEN, specifically decreased binding of ING2 and ING2(PHD) to PtdIns(5)P and PtdIns(3)P by nearly an order of magnitude, but had no effect on PtdInsP-PHISH/DAPP1 interactions (Figure 1F). In addition, a derivative of the PHD finger (ING2(PHD-Znmt)) with mutations in the zinc-coordinating residues bound only weakly to PtdInsPs in the absence or presence of TPEN (Figure 1F). Thus, zinc coordination by the PHD motif is necessary for ING2(PHD)-PtdInsP interactions.
+
+Structural Model of the ING2 PHD Finger-PtdInsP Complex
+The NMR solution structure of the PHD finger of the WSTF protein revealed that this domain is structurally similar to the FYVE finger Misra et al. 2001 and Pascual et al. 2000. To gain insight into the structural basis of the ING2 PHD finger-PtdInsP complex, a model of the ING2 PHD finger was built based on known PHD finger solution structures Capili et al. 2001 and Pascual et al. 2000 and superimposed onto the known structure of the FYVE finger-PtdIns(3)P complex (Figure 2A)(Kutateladze and Overduin, 2001). We focused our attention on basic residues within the PHD finger of ING2, as such residues are predicted to interact with the acidic head group of PtdInsPs. The structural alignment revealed three lysine residues that form a positively charged patch on the surface of the ING2 PHD finger (Figure 2A, red residues) and map close to four arginine residues (Figure 2A, blue residues) that are part of the PtdInsP binding surface of the FYVE finger (Kutateladze and Overduin, 2001). Two other basic residues (Figure 2A, green residues [K58, R60]) are located on a different face of the ING2 PHD finger. Finally, a stretch of basic residues is present at the very end of the ING2 PHD finger (see Figure 2E, blue residues), but these could not be modeled because the solved structures of other PHD fingers do not extend into this region. Thus, the PHD finger of ING2 has three distinct regions that contain basic residues that may participate in PtdInsP binding.
+
+Full-size image (85 K)
+Figure 2. 
+The PHD Finger Is a General PtdInsP Binding Module that Shares Structural Homology to the FYVE Finger
+(A) Superimposition of ING2 PHD finger structural model on the structure of the EEA1 FYVE finger-PtdIns(3)P complex (Kutateladze and Overduin, 2001). The two domains share the same structural core formed by two Zn-coordination spheres (balls) connected by two strands of β-sheets (ribbons). Pink: model of ING2 PHD finger; light blue: structure of EEA1 FYVE finger; gray: inositol-(1,3)-bisphosphate. Red residues correspond to (right to left) lysines K49, K51, and K53 and green residues to K58 and R60 of the ING2 PHD finger. Blue residues correspond to (right to left) arginines R1368, R1370, R1374, and R1399 of EEA1.
+(B) Schematic of ING2(PHD) (amino acids 1–81 of the PHD finger) and the indicated mutants.
+(C) Identification of basic residues within the ING2 PHD finger that are essential for PtdIns(5)P binding. The indicated GST-fusion proteins were tested for binding to lipid blots containing serial dilutions of PtdIns(5)P and PtdIns (in picomoles) as in Figure 1.
+(D) PHD fingers from diverse proteins bind to PtdInsPs. The indicated GST-fusion proteins were used to probe PIP strips as in Figure 1. ING1(PHD) (ING1, amino acids 200–279); ACF(PHD), (ATP-dependent chromatin remodeling factor [ACF], amino acids 1131–1211); MLZF(PHD), (monocytic leukemia zinc finger [MLZF], amino acids 189–336); WSTF(PHD), (Williams-Beuren syndrome transcription factor [WSTF], amino acids 1174–1254); (AIRE(PHD), autoimmune regulator gene [AIRE], amino acids 300–370); Miα2(PHD), (Miα2, amino acids 367–443). The strongest interactions on each lipid blot are labeled.
+(E) Alignment of the PHD fingers of ING2, ING1, ACF, WSTF, and Miα2. Shaded residues are identical to the ING2 PHD finger. Green boxes: zinc-coordinating residues. The basic residues between the sixth and seventh zinc-coordinating residues are shown in red, and the basic residues at the carboxyl end of the PHD fingers in blue. The alignment was generated with MegAlign in the DNASTAR program.
+(F) Identification of basic residues in the PHD fingers of ING1 and ACF that are essential for PtdIns(5)P binding. The indicated recombinant GST-fusion proteins (1 μg/ml) were tested for binding to PtdIns(5)P as described in (C).
+Figure options
+Identification of Residues Required for ING2 PHD Finger-PtdIns(5)P Interactions
+To study whether the different basic regions contribute to the ING2 PHD finger-PtdInsPs interaction, we first mutated the three lysine residues K49, K51, and K53 (Figure 2A, red residues) to alanines. Strikingly, this mutation (named “3Kmt”) reduced binding to PtdIns(5)P by ∼8-fold (Figure 2C; see Supplemental Figure S1 available at http://www.cell.com/cgi/content/full/114/1/99/DC1). We note that the ING2(PHD-3Kmt) mutant is likely to be folded properly, since (1) all the amino acid changes are predicted to occur at the surface of the molecule; (2) the ING2(PHD-3Kmt) protein behaved like the wild-type protein when monitored by fluorescence spectroscopy (data not shown) (Gaullier et al., 2000); and (3) mutation of a tyrosine residue immediately upstream of the lysine residues (Figure 2B, Y48F) did not affect PtdInsP binding (Figure 2C). Thus, as predicted by our structural model, lysine residues 49, 51, and 53 (designated the 3K motif) are required for the interaction with PtdIns(5)P.
+
+In contrast, lysine residues K58 and R60 were dispensable for the PtdInsP interaction (Figure 2C, ING2(PHD-K58A/R60A)). This is also consistent with our model, which predicts that these amino acids lie on a different face of the PHD finger and are not positioned to interact with the PtdInsP head group (Figure 2A).
+
+Finally, we tested whether the basic residues at the C-terminal end of the PHD finger (Figure 2E, blue residues) also function in PtdInsP binding. Binding to PtdIns(5)P by these residues alone (Figure 2B, named Cterm) was barely detectable (Figure 2C). However, both truncation of the PHD finger upstream of these residues (Figure 2B, 64truncmt) and mutation of the basic residues to alanines (Figure 2B, K72A/K74A/K75A/R77A/R78A/R80A, named 6K/Rmt) eliminated binding to PtdInsPs (Figure 2C; see Supplemental Figure S1). Thus, the basic residues at the C terminus of the ING2 PHD finger are necessary but not sufficient for PtdInsP binding.
+
+The PHD Finger Is a General PtdInsP Binding Module
+As shown in Figure 2D, several different PHD fingers from other proteins bind PtdInsPs, but with varying affinities and specificities. The PHD fingers of ACF and MLZF bound only to PtdIns(5)P, while the PHD fingers of ING1 and WSTF bound to both PtdIns(3)P and PtdIns(5)P and that of AIRE bound most strongly to PtdIns(3)P (Figure 2D). The binding by MLZF and WSTF was weak, while Miα2(PHD) did not bind to PtdInsPs at all (Figure 2D). Together, these data indicate that the PHD finger is a general PtdInsP binding domain.
+
+Figure 2E shows a sequence alignment of several PHD fingers with varying PtdIns binding profiles. The basic stretches that are critical for ING2 PHD finger-PtdInsP interactions (the 3K motif and the basic rich carboxyl terminus) are present in other PtdInsP binding PHD fingers (Figure 2E). Moreover, the number of basic residues in these regions correlates with PtdInsP binding strength. For instance, at the C terminus, the PHD fingers of ING2, ING1, and ACF contain 8, 7, and 6 basic residues, respectively, whereas the PHD fingers of WSTF and Miα2, have 4 and 1 basic residues, respectively (Figure 2E, blue residues).
+
+ING1 and ACF both have three basic residues that are spaced similarly to the ING2 3K motif and located between the sixth and seventh zinc-coordinating cysteines (Figure 2E, red residues). To test whether these residues function in PtdInsP binding, mutant ING1 PHD finger (K47A, K49A, K51A; ING1(PHD-3Kmt)) and mutant ACF PHD finger (R49A, K51A, K53A; ACF(PHD-3K/Rmt)) were generated (Figure 2F). Similar to the ING2(PHD-3Kmt) mutant, both the ING1(PHD-3Kmt) and ACF(PHD-3K/Rmt) mutant proteins had greatly reduced affinity for PtdIns(5)P (Figure 2F). These data suggest that the general structural basis for PtdInsP binding by different PHD fingers is conserved.
+
+In Vivo Recruitment of the ING2 PHD Finger to PtdIns(5)P Generated at the Plasma Membrane by the Lipid Phosphatase IpgD
+We next addressed whether the ING2 PHD finger can interact with PtdInsPs under physiologic conditions in vivo. The PX domain of p40phox (p40(PX)), a highly specific marker for PtdIns(3)P Ellson et al. 2001 and Kanai et al. 2001, showed no significant colocalization with ING2(PHD) (data not shown), arguing against PtdIns(3)P being a major ligand of ING2(PHD) (see below).
+
+Similar in vivo localization studies of PtdIns(5)P have not been possible due to the lack of known PtdIns(5)P binding proteins. Recently, the bacterial protein IpgD was shown to dephosphorylate PtdIns(4,5)P2 and convert it into PtdIns(5)P at the plasma membrane (Niebuhr et al., 2002). To study colocalization with PtdIns(5)P, we asked whether generation of PtdIns(5)P at the plasma membrane upon expression of IpgD can specifically recruit the ING2 PHD finger to the plasma membrane. Various GFP-fusion proteins were expressed in the presence or absence of IpgD and their subcellular localization determined. In the absence of IpgD, there is intense nuclear GFP-ING2(PHD) signal as well as weaker, diffuse cytoplasmic signal (Figure 3). In the presence of IpgD, there is recruitment of GFP-ING2(PHD) to sections of the plasma membrane and loss of the diffuse cytoplasmic distribution (Figure 3; see Supplemental Figure S2). This effect of IpgD requires an intact PHD finger, since the GFP-ING2(PHD-Znmt) and GFP-ING2(PHD-3Kmt) mutants are unaffected by IpgD expression (Figure 3). IpgD activity was robust in our system, as its expression caused a significant shift in the localization of PLCδ(PH) (which binds PtdIns(4,5)P2) from the plasma membrane to the cytoplasm (Figure 3), consistent with a reduction of PtdIns(4,5)P2 levels at the plasma membrane (Niebuhr et al., 2002). Moreover, the IpgD activity is specific for changes in PtdIns(4,5)P2 and PtdIns(5)P levels, since the localization of p40(PX) and AKT(PH) (which binds PtdIns(3,4,5)P3; James et al., 1996) were minimally affected by IpgD expression (Figure 3).
+
+Full-size image (53 K)
+Figure 3. 
+Recruitment of GFP-PHD Finger to the Plasma Membrane via IpgD-Mediated Generation of PtdIns(5)P
+Confocal images of HT1080 cells cotransfected with the indicated plasmids. GFP fusion proteins: ING2(PHD); ING2(PHD-Znmt; ING2(PHD-3Kmt); p40(px),; PLCδ(PH), PH domain of PLCδ ; AKT(PH), PH domain AKT/PKB. I, control; II, IpgD; and III, PI3K. The percent representation of the images is indicated in the upper right corner.
+Figure options
+PI3K generates PtdIns(3)P from PtdInsP, and PtdIns(3,4,5)P3 from PtdIns(4,5)P2 and can be used to alter the levels of these PtdInsPs (Cantley, 2002). As shown in Figure 3, overexpression of constitutively active PI3K had the predicted effects on the localization of the GFP-p40(PX), -AKT(PH), and -PLCδ(PH) fusion proteins. In contrast, PI3K expression did not affect the localization of GFP-ING2(PHD). We conclude that the localization of the ING2 PHD finger is influenced by changes in PtdIns(5)P but not PtdIns(3)P levels.
+
+The PHD Finger of ING2 Binds Endogenous PtdIns(5)P
+Next, we asked whether endogenous PtdIns(5)P coimmunoprecipitates with the ING2 PHD finger. We used a construct encoding three tandem repeats of the ING2 PHD finger (PHDX3), which binds to PtdIns(5)P in vitro (Figure 4A). 293 cells were transfected with GFP, GFP-PX, or GFP-PHDX3 and the overexpressed protein immunoprecipitated. Western analysis confirmed equal expression of the transfected proteins (Figure 4B). Total lipid in each immunoprecipitate (IP) was recovered and in vitro phosphorylated with the lipid kinases PIKIα (which phosphorylates PtdIns(4)P) or PIKIIβ (which phosphorylates PtdIns(3)P or PtdIns(5)P) to determine the relative quantity of monophosphorylated PtdInsP species in each sample (Clarke et al., 2001).
+
+Full-size image (27 K)
+Figure 4. 
+The PHD Finger of ING2 Binds Endogenous PtdInsPs
+(A) Triple repeat of the ING2 PHD domain binds tightly to PtdIns(5)P in vitro. GST-PHDX3 was used to probe PIP arrays as in Figure 2. Arrowhead indicates lowest concentration of PtdIns(5)P binding detected.
+(B) Western analysis demonstrates equal exogenous protein expression. Anti-GFP IPs of HEK293 cells transfected with the indicated plasmids (control, GFP; PX, GFP-PX; PHDX3, GFP-PHDX3) and immunoblotted with anti-GFP antibody. Arrows indicate the overexpressed proteins. IgG, immunoglobulin heavy chain.
+(C) Activity of PIKIα and PIKIIβ on whole-cell extracts. In vitro lipid kinase assays using PIKIα and PIKIIβ were performed on total HEK293 cell lysate.
+(D) PHDX3 coimmunoprecipitates endogenous PtdIns(5)P and/or PtdIns(3)P. PIKIIβ lipid kinase was used to in vitro phosphorylate lipids isolated in IPs of HEK293 cells transfected with the indicated plasmids. Arrow indicates the product of PIKIIβ activity.
+(E) Specific coimmunoprecipitation of PHDX3 and endogenous PtdIns(5)P and/or PtdIns(3)P. Lipid kinase assays using PIKIα were carried out as in (C). Arrow indicates product of PIKIα activity.
+Figure options
+Total cell lysates contained ∼10 times more substrate for PIKIα (PtdIns(4)P) than PIKIIβ (PtdIns(3)P and PtdIns(5)P) (Figure 4C), consistent with published reports (Payrastre et al., 2001). The same ratio was observed for the control (GFP) IP, likely reflecting nonspecific binding of cellular PtdInsPs to GFP (Figures 4D and 4E). In contrast, both the PHDX3 and the PX IPs contained greater amounts of PIKIIβ substrate (Figure 4D) relative to PIKIα substrate (Figure 4E), indicating specific PtdIns(3)P/PtdIns(5)P enrichment. However, we note that we cannot distinguish whether these interactions are established before or after cell lysis.
+
+PIKIIβ Alters the Subcellular Localization of Endogenous ING2
+To determine whether the localization of endogenous ING2 is regulated by PtdIns(5)P, we generated a rat polyclonal anti-ING2 antibody. This antibody stains the nucleus (Figure 5A) and detects multiple bright nuclear foci (see Figure 5B, column I). In addition, there is faint cytoplasmic staining. This antibody is specific for ING2 protein, as knockdown of endogenous ING2 levels with RNA interference (RNAi) (Brummelkamp et al., 2002) completely eliminated the nuclear signal and reduced the cytoplasmic signal (Figure 5A, column V; see Figure 6).
+
+Full-size image (60 K)
+Figure 5. 
+PIKIIβ Regulates the Subcellular Localization of Endogenous ING2 Protein
+(A) PIKIIβ expression decreases endogenous ING2 nuclear signal. HT1080 cells were stained with anti-ING2 antibody (green) and To-Pro-3 nuclear dye (blue). I, control transfection (pCDNA3); II, PIKIIβ transfections; III, control transfection with triton treatment; IV, PIKIIβ transfection with triton treatment; and V, ING2 RNAi-transduced cells. Representative images are shown.
+(B) High magnification (250×) view of nuclei in (A).
+(C) Overexpressed PIKIIβ is found in the nucleus. I, anti-PIKIIβ (green); II, To-Pro-3 (blue); III, merge of I and II.
+(D) Western blot analysis of indicated cellular fractions after PIKIIβ overexpression. HT1080 cells were transfected with control (pCDNA3) or PIKIIβ prior to biochemical separation into cytosolic (lanes 1–2), nucleoplasmic (lanes 3–4), and chromatin-enriched/nuclear matrix (lanes 5–6) fractions. Western antibodies are indicated at left.
+(E) Quantitation of ING2 expression levels in fractionated HT1080 cells +/− PIKIIβ transfection as in (D). Results represent the mean ± SEM of three independent experiments.
+(F) Total ING2 levels are not altered by PIKIIβ overexpression. Whole-cell extracts of HT1080 cells transfected with either control (pCDNA3) or PIKIIβ and probed with the indicated antibodies.
+Figure options
+Full-size image (40 K)
+Figure 6. 
+ING2 Induces p53-Dependent Apoptosis
+(A) The ability of overexpressed ING2 to induce p53 acetylation and p21 protein expression levels requires an intact PHD finger. Western analysis of HT1080 cells transfected with the indicated plasmids. Antibodies used are indicated.
+(B) The ability of overexpressed ING2 to induce apoptosis requires an intact PHD finger. Cell death was measured by propidium iodine exclusion in HT1080 cells transfected with 10 μg of the indicated plasmids.
+(C) Mutations that disrupt PtdInsP binding do not affect the ability of ING2 to homodimerize. GST-pull downs of 35S-labeled IVT ING2, ING2(Znmt), ING2(3Kmt), or control protein (PIAS1) incubated with either GST or GST-ING2 affinity resins. Input denotes 20% of total IVT protein used for each assay.
+(D) RNAi knockdown of endogenous p53. Western analysis of whole-cell extracts from either control RNAi or p53 RNAi-treated HT1080 cells transfected with 10 μg of pCDNA3 vector, ING2, or ING2(3Kmt). Antibodies are indicated.
+(E) ING2-induced apoptosis requires endogenous p53. Cell death was determined in control RNAi or p53 RNAi-treated HT1080 cells transfected with the indicated plasmids as in (D).
+(F) RNAi knockdown of endogenous ING2. Western analysis of whole-cell extracts from either control RNAi or ING2 RNAi-treated HT1080 cells that were incubated for 24 hr with vehicle control (DMSO) or 100 μM etoposide. Antibodies are indicated.
+(G) RNAi-mediated knockdown of ING2 renders HT1080 cells resistant to p53-mediated apoptosis. Cell death was determined in control RNAi or ING2 RNAi-treated HT1080 cells 24 hr after incubation with either vehicle (DMSO), etoposide (100 μM), hydrogen peroxide (25 μM) or Fas ligand (5 ng/ml) + cyclohexamide (1 μg/ml). All cell death results represent the mean ± SEM from at least three independent experiments.
+Figure options
+PIKIIβ has been shown to utilize PtdIns(5) as a substrate to generate PtdIns(4,5)P2 in vitro (Rameh et al., 1997). We found that overexpression of PIKIIβ altered ING2 subcellular localization in vivo (Figure 5A, panel II). Specifically, the ING2 signal became stronger in the cytoplasm than the nucleus, and the ING2 nuclear foci were fewer and less intense than in control cells (Figures 5A and 5B, panels I and II). We note that the overexpressed PIKIIβ accesses the nucleus (Figure 5C).
+
+A recent study identified ING2 as a nonstoichiometric component of the human mSin3a-HDAC complexes, suggesting that ING2 associates with chromatin (Kuzmichev et al., 2002). To detect the chromatin-associated pool of ING2, we carried out in situ fractionation of HT1080 cells prior to immunostaining with anti-ING2 antibody (Figures 5A and 5B, panels III and IV). In this method, nucleoplasmic proteins are detergent-extracted, and only proteins tightly associated with chromatin and the nuclear matrix remain (Mirzoeva and Petrini, 2001). As shown in Figure 5B, after in situ fractionation, detergent-resistant ING2 remains detectable in the nucleus and nuclear foci, indicating association with chromatin and the nuclear matrix. Strikingly, the detergent-resistant ING2 nuclear signal is selectively eliminated in cells overexpressing PIKIIβ, suggesting that reducing nuclear PtdIns(5)P levels with PIKIIβ reduces ING2-association with chromatin/nuclear matrix (Figure 5B, compare panels III and IV). We note that as controls, this in situ fractionation method gave the expected histone H3 and BRCA1 signals (data not shown).
+
+We also analyzed the effect of PIKIIβ on ING2 subcellular distribution by biochemical fractionation. HT1080 cells were separated into cytoplasmic, nucleoplasmic, and chromatin-enriched/nuclear matrix fractions (Mendez and Stillman, 2000)(Figure 5D). In control cells, endogenous ING2 was detected primarily in the chromatin/nuclear matrix fraction (Figure 5D). Overexpression of PIKIIβ decreased the levels of ING2 in this fraction, and increased ING2 levels in the other two fractions (Figure 5D; quantitated in 5E).
+
+As controls for the quality of the biochemical fractionation and protein sample loading, the cytosolic protein caspase-9 and histone H4 are detected only in the expected fractions, and HDAC1 is detected in all three fractions (Figure 5D). PIKIIβ overexpression did not change total ING2 protein levels (Figure 5F). Together, the data indicate that PIKIIβ overexpression releases ING2 protein from chromatin (see Discussion).
+
+ING2 Function Requires an Intact PtdInsP Binding Domain
+To elucidate the functional significance of the interaction between the ING2 PHD finger and PtdInsPs, we asked if ING2 activity is compromised by mutations that disrupt binding to PtdIns(5)P. Previous studies reported that ING2 overexpression stimulates acetylation of p53 and induces apoptosis (Nagashima et al., 2001). To test whether these effects are dependent on the lipid binding activity of ING2, we assessed p53 acetylation levels and cell death in response to overexpression of full-length wild-type ING2 or two different mutants, ING2(Znmt) and ING2(3Kmt), whose PHD fingers are defective in lipid binding in vitro (Figure 1 and Figure 2; data not shown). As shown in Figure 6A, p53 acetylation levels were increased upon overexpression of wild-type ING2 but not the ING2(Znmt) and ING2(3Kmt) mutants, despite equal levels of the overexpressed proteins. Total p53 levels were the same in all samples. The p53-response gene p21 was also upregulated by wild-type ING2 but not by the mutant proteins (Figure 6A).
+
+Further, the ING2(Znmt) and ING2(3Kmt) mutants were also defective in inducing cell death (Figure 6B). This inability of ING2(Znmt) and ING2(3Kmt) to induce p53 acetylation and apoptosis is unlikely due to a general disruption of ING2 protein structure, since both IVT mutant proteins, like wild-type IVT ING2, interacted with GST-ING2, but a control protein (IVT PIAS1) did not (Figure 6C). These data argue that mutations within the PHD domain do not disrupt the overall structure of the ING2 protein and indicate that the ability of overexpressed ING2 to induce p53 activation and apoptosis requires the PtdInsP binding activity of the PHD finger of ING2.
+
+Next, we asked whether the effect of ING2 on apoptosis is directly dependent on p53. To this end, p53 protein was knocked down in HT1080 cells (which have normal p53 responses) by RNAi (Figure 6D) and the activity of ING2 in these cells was determined. As shown in Figures 6D and 6E, ING2 overexpression failed to induce p21 protein and apoptosis in p53-RNAi-treated cells, demonstrating that ING2-mediated apoptosis is p53-dependent.
+
+RNAi-Mediated ING2 Knockdown Renders Cells Resistant to Cell Death Stimuli
+To determine whether endogenous ING2 functions in cell death responses, we used RNAi to knock down ING2 protein in HT1080 cells. ING2 RNAi-treatment dramatically and specifically reduced ING2 protein levels relative to control RNAi-treated cells (Figure 6F). ING2 RNAi-treated cells were highly resistant to apoptosis induced by etoposide and hydrogen peroxide treatments (Figure 6G). In contrast, p53-independent Fas ligand-induced apoptosis was unaffected by ING2 RNAi-treatment (Figure 6G).
+
+Etoposide treatment of HT1080 cells induces p53 acetylation and expression of p21 (Figure 6F). In ING2 RNAi-treated cells, both these effects were significantly reduced (Figure 6F; for quantitation see Supplemental Figure S3). Loss of ING2 had no effect on baseline p21 levels or etoposide-induced increases in total p53 levels (Figure 6F). We conclude that in HT1080 cells, endogenous ING2 protein plays a critical role in p53-regulated apoptotic pathways.
+
+The Isolated PHD Finger Has Dominant-Negative Activity on ING2 Function
+We next explored whether PtdIns(5)P is required for ING2 function. We reasoned that overexpression of GFP-PHDX3, a high avidity PtdInsP binding module (Figure 4), might function as a dominant negative of ING2 activity by competing for endogenous PtdIns(5)P. Indeed, overexpression of this fusion protein significantly reduced etoposide-induced apoptosis (Figure 7A). In contrast, overexpression of GFP-PHD(Znmt)X3, a construct encoding three tandem repeats of the zinc-chelation mutant PHD finger, had no effect on etoposide-induced apoptosis (Figure 7A). In addition, the more subtle 3Kmt mutation, which specifically targets PtdIns(5)P binding, also lacked dominant-negative activity (GFP-PHD(3Kmt)X3, see Figure 2), and did not interfere with etoposide-induced apoptosis (Figure 7A).
+
+Full-size image (77 K)
+Figure 7. 
+ING2 Function Requires Its PtdInsP Binding Activity and Is Inhibited by PIKIIβ
+(A) Isolated PHD finger inhibits etoposide-induced cell death. Cell death was determined in HT1080 cells transfected with 10 μg of the indicated plasmids and treated with vehicle (DMSO), etoposide (100 μM), or Fas ligand (5 ng/ml) and cyclohexamide (1 μg/ml) for 24 hr.
+(B) Isolated PHD finger inhibits etoposide-mediated induction of p53 acetylation and p21 protein expression. Western analysis of H1080 cells transfected with 10 μg of the indicated plasmids and treated with etoposide (100 μM) for 24 hr. Arrows indicate the overexpressed GFP fusion proteins.
+(C) Requirement of ING2 for the ability of the isolated PHD finger to inhibit etoposide-mediated cell death. Cell death was determined in control RNAi or ING2 RNAi-treated HT1080 cells transfected with 10 μg of the indicated plasmids.
+(D) Reconstitution of ING2 biochemical activity requires PtdInsP binding. Western analysis of control RNAi (lane 1) or ING2 RNAi(lanes 2–5)-treated cells transfected with 2 μg of the indicated plasmids and incubated with 100 μM etoposide for 24 hr. The control RNAi cells were transfected with 2 μg of vector control (pCDNA3).
+(E) Reconstitution of ING2 apoptosis activity requires PtdInsP binding. Cell death was determined in cells treated as in (D).
+(F) PIKIIβ expression inhibits ING2-mediated p53 acetylation and p21 protein induction. Western analysis of whole-cell extracts of HT1080 cells transfected with 10 μg total of each plasmid pair (vector, PIKIIβ, or ING2). Antibodies are indicated.
+(G) PIKIIβ expression inhibits ING2-mediated apoptosis. Cell death was determined in cells treated as in (F).
+(H) PIKIIβ inhibits doxorubicin-induced p53 acetylation in an ING2-dependent manner. Western analysis of control RNAi or ING2 RNAi-treated HT1080 cells transfected with vector control (pCDNA3) or PIKIIβ and incubated with of 1 μM doxorubicin for 16 hr. Antibodies are indicated.
+(I) PIKIIβ inhibits doxorubicin-induced apoptosis in an ING2-dependent manner. Cell death was determined in cells as in (H). All cell death results represent the mean ± SEM from at least three independent experiments.
+Figure options
+Next, we used a different PtdIns(5)P binding PHD finger from a heterologous protein, ACF, which binds in vitro to PtdIns(5)P with nearly the same affinity as the ING2 PHD finger (see Figure 2). GFP-ACF(PHDX3) (triple repeat of the ACF PHD finger) protected cells from etoposide-induced apoptosis nearly as well as PHDX3 (Figure 7A). In contrast, Fas-ligand induced apoptosis was unaffected by the PHDX3 and ACF(PHD)X3 fusions.
+
+Overexpression of the PHDX3 and ACF(PHD)X3 PtdInsP binding modules also inhibited etoposide-mediated acetylation of p53 and p21 protein induction compared to GFP control, PHD(Znmt)X3 and PHD(3Kmt)X3 (Figure 7B; for quantitation see Supplemental Figure S3). We note that the different GFP fusion proteins were expressed at similar levels, though GFP alone protein was expressed significantly better (the difference in expression was not due to differential transfection efficiency, see Experimental Procedures; Figure 7B). Together, our data argue that the triple tandem PHD finger modules of ING2 and ACF inhibit etoposide-induced apoptosis in HT1080 cells by sequestering PtdIns(5)P from target proteins such as ING2.
+
+To determine whether the dominant-negative effect of the PHD modules is dependent on ING2, we asked whether the GFP-PHDX3 module protects cells against etoposide-induced apoptosis when ING2 expression is decreased with RNAi. As shown in Figure 7C, the difference in protection between GFP-PHDX3 and GFP control in ING2 RNAi-treated cells was not statistically significant, in contrast to control RNAi cells (Figure 7C). Thus, a considerable fraction of the protective effects of the GFP-PHDX3 module can be attributed to interference with ING2 function, although other PtdIns(5)P-dependent proteins may also be affected.
+
+Reconstitution of ING2 Activity after RNAi-Mediated Knockdown of ING2 Requires PtdInsP Binding Activity
+To test the functional significance of ING2-PtdInsP interactions by an independent approach, we attempted to reconstitute ING2 activity in the ING2 RNAi-treated cells with exogenous ING2 or ING2 PtdInsP binding mutants. To avoid RNAi mediated degradation of exogenous ING2, murine ING2 (mING2) was used for reconstitution. ING2 RNAi-treated cells were transfected with low amounts of mING2, mING2(Znmt), mING2(3Kmt) expression vectors or vector control. The different ING2 constructs reconstituted ING2 protein levels in the ING2 RNAi-treated cells to levels slightly higher than control RNAi-treated cells (Figure 7D). Notably, reconstitution with wild-type mING2, but not mING2(Znmt) or mING2(3Kmt), restored etoposide-induced p53 acetylation and p21 protein expression to the levels seen in the HT1080 control RNAi-treated cells, whereas total p53 and tubulin levels are the same for all samples (Figure 7D; for quantitation see Supplemental Figure S3). Finally, wild-type mING2, but not the mING2 mutants, resensitized the ING2 RNAi-treated cells to etoposide-induced apoptosis (Figure 7E). Together, these data argue that the ability of ING2 to bind to PtdInsPs is critical for its in vivo function in p53-dependent cell death pathways.
+
+PIKIIβ Inhibits ING2 Activity
+To test whether alterations of endogenous PtdIns(5)P levels affect ING2 function, we tested the consequence of PIKIIβ overexpression on activities regulated by ING2. In cells overexpressing PIKIIβ, the ability of ING2 to induce p53 acetylation, p21 protein and apoptosis were significantly diminished (∼50%) (Figures 7F and 7G; for quantitation see Supplemental Figure S3). These results suggest that decreasing endogenous PtdIns(5)P levels inhibit ING2 function.
+
+To test whether PtdIns(5)P can regulate physiologic apoptotic stimuli, we examined the effects of PIKIIβ overexpression on doxorubicin-induced p53 acetylation and apoptosis. As shown in Figures 7H and 7I, doxorubicin-induced p53 acetylation levels and apoptosis were both significantly reduced (quantitation of acetylation see Supplemental Figure S3). These effects were absent in ING2 RNAi-treated cells, suggesting that the prosurvival function of overexpressed PIKIIβ requires ING2 protein to be present.
+
+Discussion
+The PHD Finger of ING2 Is a PtdInsP Binding Module
+In our screen of ∼100,000 proteins, ING2 was identified as one of twelve candidate PtdInsP binding proteins (Figure 1A; data not shown). We have shown by three independent in vitro assays that the PHD finger of ING2 is sufficient for interaction with PtdInsPs (Figure 1). Our conclusion that the PHD finger is a PtdInsP binding domain is consistent with observations that the PHD finger of the WSTF protein is structurally similar to the FYVE-finger, a PtdIns(3)P binding module Misra et al. 2001 and Pascual et al. 2000. Based on structural modeling and mutational analysis, we have identified two basic patches that are essential for PtdIns(5)P-ING2 PHD finger interactions (Figure 2). We propose that these two patches are located on the same surface and contact the inositol head group of PtdIns(5)P.
+
+PtdIns(5)P as a Physiologic Ligand of ING2
+The existence of PtdIns(5)P as a cellular PtdInsP species was clearly established only a few years ago (Rameh et al., 1997). Since then, PtdIns(5)P levels have been shown to undergo dynamic fluctuations in response to regulatory signals Morris et al. 2000 and Schaletzky et al. 2003 and increase 20-fold in the nucleus during G1 in cycling cells (Clarke et al., 2001). A specific function for PtdIns(5)P, however, has not been previously described.
+
+Our in vitro data suggest that the preferred substrate for the PHD finger of ING2 is PtdIns(5)P. However, since in vivo, PtdIns(4)P is ∼20-fold more abundant than PtdIns(5)P (Payrastre et al., 2001), it is not possible to determine which PtdInsP species is the physiologic ligand of ING2 without studying the interaction in a physiologic context. The ING2 PHD finger does not colocalize in vivo with any known PtdInsP-markers and is not affected by PI3K or wortmannin (Figure 3; data not shown). To examine in vivo interaction with PtdIns(5)P, we utilized the recently discovered bacterial inositol-4-phosphatase IpgD (Figure 3)(Niebuhr et al., 2002). By overexpressing IpgD, we demonstrate specific recruitment of the PHD finger of ING2 to the plasma membrane. This is likely due to in vivo colocalization between ING2 PHD finger and newly synthesized PtdIns(5)P at the plasma membrane (Figure 3)(Niebuhr et al., 2002). Further, we provide biochemical evidence that the PHD finger co-IPs endogenous PtdIns(5)P or PtdIns(3)P but not PtdIns(4)P (Figure 4). Together, the data demonstrate that PtdIns(5)P is the preferred binding partner of the ING2 PHD finger both in vitro and in vivo.
+
+Both PtdIns(5)P and PIKIIβ have been reported to exist and function in the nucleus Boronenkov et al. 1998, Clarke et al. 2001 and Rameh et al. 1997. To address whether endogenous PtdIns(5)P and endogenous ING2 interact, we overexpressed PIKIIβ and show that the association of ING2 with chromatin/nuclear matrix is weakened (Figure 5). We therefore propose that the association of ING2 with chromatin is regulated by binding to PtdIns(5)P (see below).
+
+Physiologic Role of ING2-PtdInsP Signaling
+Previous studies showed that ING2 expression is upregulated by DNA damaging agents, and that overexpression of ING2 leads to p53 acetylation and apoptosis (Nagashima et al., 2001). Consistent with this, we find that endogenous ING2 is critical for efficient p53 acetylation, p21 protein induction, and cell death following DNA damage treatments (Figure 7). Notably, these functions are abrogated by mutations in the PHD finger that specifically interfere with PtdIns(5)P binding or by PIKIIβ overexpression, which should decrease endogenous PtdIns(5)P stores. ING2 has been shown to copurify with the human Sin3a-histone deacetylase complex (Kuzmichev et al., 2002). Other ING proteins, including ING1, and the fission yeast homologs, Yng1 and Yng2 have been shown to associate with and modulate the activity of HAT complexes (Feng et al., 2002). Thus, the ability of ING2 to modulate acetylation levels may be through regulating the activity of coactivator and/or corepressor complexes. Our data indicate that PtdInsPs can modulate this function of ING2.
+
+We would like to suggest that the mechanism by which PtdInsPs regulate ING2 function could be highly analogous to the mechanism of AKT/PKB activation by PtdIns(3,4,5)P3(Vanhaesebroeck and Alessi, 2000). In the case of AKT/PKB, generation of PtdIns(3,4,5)P3 at the plasma membrane in response to extracellular stimuli recruits AKT/PKB and allosterically activates its kinase activity (Franke et al., 1997). Because previous studies detected PtdInsPs in association with chromatin (Irvine, 2000), and our data indicate that a significant portion of nuclear ING2 cofractionates with chromatin, one possibility is that chromatin bound PtdInsPs function to either recruit or stabilize ING2 at chromatin. This interaction may also lead to allosteric activation of ING2. Both these possibilities are consistent with our finding that mutations in ING2 that abrogate PtdInsP binding disrupt the function of ING2, and that overexpression of the isolated PHD finger has dominant-negative effects on ING2 functions (Figure 7). Taken together, the data suggest that the generation of PtdInsPs at specific chromatin locations could lead to localized activation of ING2.
+
+Inositol Polyphosphates as Potential Ligands of ING2
+In contrast to PtdInsPs, the role of inositol polyphosphates (IP) in nuclear function is more established (York et al., 2001). In mammalian cells, inositol hexakisphosphate (IP6) may regulate nonhomologous end-joining through binding to Ku70/80 Hanakahi and West 2002 and Ma and Lieber 2002. In budding yeast, it has recently been shown that at high concentrations, inositol tetra- and pentakisphosphate (IP4 and IP5, respectively) and IP6 can modify nucleosome remodeling in an in vitro system (Shen et al., 2003). In addition, Arg82/IPK2, an inositol phosphate kinase, is needed for efficient recruitment of chromatin remodeling complexes to the PHO5 promoter (Steger et al., 2003). Interestingly, another protein that was shown to genetically regulate PHO5 transcriptional activation is PHO23 (Lau et al., 1998), a member of the ING family, bringing up the intriguing possibilities that PHO23 directly binds IPs or that Arg82/IPK2 may modify PtdInsP metabolism in the nucleus.
+
+We have investigated whether the PHD finger of ING2 binds to IPs. Indeed, inositol-(1,5)-bisphosphate (IP(1,5)), but not IP(1,4), IP3, or IP4, binds to the PHD finger of ING2; however, this binding is ∼2 orders of magnitude weaker than PtdIns(5)P binding (O.G. and J.Y., unpublished data). These results suggest that the products of Arg82/IPK2 (IP4 and IP5) do not regulate ING2 function in mammalian cells. To the best of our knowledge, the existence of IP(1,5) in cells has not been reported; however, it is nevertheless possible that IP(1,5) is a physiologic ligand of ING2, perhaps through competing for binding with PtdIns(5)P.
+
+General Function of PHD Fingers
+In addition to the PHD finger of ING2, we have found that PHD fingers from different chromatin-associated factors bind to PtdInsPs (Figure 2D), suggesting that PHD fingers might function as general nuclear PtdInsP-receptors. Recent work proposed that some putative PHD finger domains function as cytoplasmic E3-ubiquitin ligases (reviewed in Coscoy and Ganem, 2003), but other analyses indicate that these domains are RING fingers and not bona fide PHD fingers (Aravind et al., 2003). We have not found any auto-E3-ubiquitin ligase activity for the ING2 PHD finger, but have found that the MEKK1 PHD finger, which has E3-ubiquitin ligase activity (Lu et al., 2002), binds weakly to PtdInsPs (O.G. and J.Y., unpublished data).
+
+Function of PtdInsPs in the Nucleus
+We would like to speculate that PtdInsP-PHD finger interactions might have broad roles in regulating nuclear processes. Evidence for this is the large number of nuclear proteins (over 100) that contain PHD fingers, and our demonstration that a significant number of the PHD fingers we tested had detectable PtdInsPs binding activity. The ability of PtdInsPs to undergo rapid alterations in species and mass in a temporally and spatially regulated manner within the nucleus makes them ideal molecular modulators of processes like transcriptional activation, DNA repair, and recombination. In this study, we have shown one example whereby PtdInsPs modulate p53 activity and cell death via interactions with ING2. Our observations further strengthen the argument that the function of PtdInsPs in the nucleus may be as diverse as their roles in cytoplasmic processes.
+
+Experimental Procedures
+Materials
+PtdInsPs are from Echelon Biosciences, Inc. (Salt Lake City, Utah). Antibodies: Rat polyclonal anti-ING2 was generated against full-length ING2; antiacetyl-p53(320 and 373), antitubulin, and anti-HDAC1 (Upstate Biotechnology); antiacetyl-p53(382) (from S. Saito and E. Appella); anti-p53 (Ab-6) and anti-p21 (AB-1) (Oncogene Research); and anti-PIKIIβ (Santa Cruz).
+
+Cell-Culture Assays and RNAi
+Transfections were carried out using LT1 (Mirus). Expression of GFP was used to monitor transfection efficiency. ING2-specific RNAi transfection vectors generated with pSuper as described (Brummelkamp et al., 2002). Control RNAi contained sequence with no homology to any human genes. HT1080 cells were assayed 60–72 hr after transfection of the RNAi vectors. Retroviral RNAi constructs were generated by cloning from pSuper into pBabe (ING2) or pQCXIN (Clontech) (for p53). Infected HT1080 cells were assayed after 2 days of puromycin selection. Cell death was determined by propidium iodine staining followed by sub-G1 determination or MTS assays (Promega) as previously described (Degterev et al., 2001).
+
+PtdInsP Binding Assays and In Vitro Lipid Kinase Assays
+Small pool expression screen was carried out using a murine spleen cDNA library and an affinity resin designed to emulate PtdInsPs as previously described (Rao et al., 1999). Protein lipid-blot assays, SPR and PtdInsP-affinity resin pulldowns were carried out as described Dowler et al. 2002, Rao et al. 1999 and Santagata et al. 2001. In vitro lipid kinase assays: 293 cells transfected with GFP-fusion constructs were lysed/IPed in 50 mM Tris [pH 8], 50 mM KCl, 10 mM EDTA, 1% NP40, NaF 15 mM, orthovanadate 1 mM, and protease inhibitor cocktail (Roche). Ten percent of the IP was used for western blots. The remaining 90% of the IP was subjected to lipid extraction and assayed as described (Clarke et al., 2001).
+
+Western Analysis, In Situ, and Biochemical Fractionation
+p53 acetylation assays were carried out as described (Saito et al., 2002). In situ fractionation was carried out essentially as described (Mirzoeva and Petrini, 2001), except that cells were lysed in: PBS [pH 7.4], 10% w/v Sucrose, and 0.2% triton. Rat anti-ING2 was used at 1:100. Biochemical fractionation was carried out as described (Mendez and Stillman, 2000).
+
+Homology Modeling
+Comparative models of human ING2 protein (residues 200–264) were built based on the solution structures of human WSTF and KAP-1 proteins Capili et al. 2001 and Pascual et al. 2000 using the MODELER and CHARMM programs and validated using the program ProsaII (Sali and Blundell, 1993). Superposition of the modeled ING2 PHD structure on the known structure of EEA1 FYVE finger-Inositol (1,3) bisphosphate complex (Kutateladze and Overduin, 2001) is the result of the best backbone RMSD fit of the structurally homologous N-terminal portions of the two domains (residues 13–28 and 35–39 of ING2 PHD finger; residues 12–27 and 32–36 in EEA1 FYVE finger).
+
+Supplementary data
+ 
+Figure S1.  
+
+ING2 basic residue mutants disrupt binding to PIP-arrays. The indicated GST-fusions were used to probe PIP-arrays as in Figure 1F.
+
+Help with JPG filesOptions
+ 
+Figure S2.  
+
+The nuclei of IpgD transfected cells are intact. Confocal images of HT1080 cells cotransfected with either GFP-ING2(PHD) or GFP-ING2(PHD-3Kmt) and IpgD. I: GFP (green), II: To-Pro-3 nuclear dye (red) III: merge of I and II.
+
+Help with JPG filesOptions
+ 
+Figure S3.  
+
+Quantitation of p53 Acetylation
+
+(A) Quantitation of acetylated p53 from Figure 6F. The results are normalized to control-RNAi/etoposide treated cells.
+
+(B) Quantitation of p53 acetylation levels from Figure 7B. Results are normalized to GFP transfected cells.
+
+(C) Quantitation of p53 acetylation levels from Figure 7D. The results are normalized to control-RNAi treated cells.
+
+(D) Quantitation of p53 acetylation levels from Figure 7F. The results are normalized to ING2 transfected cells.
+
+(E) Quantitation of p53 acetylation levels from Figure 7H. The results are normalized to control-RNAi treated cells transfected with pCDNA3 vector. Westerns were quantitated with NIH Image software. In Stat and Cricket Graph programs were used for statistics and graphing. All results represent the mean ± SEM from at least three independent experiments.
+
+Help with JPG filesOptions
+Acknowledgements
+We thank E. Appella and S. Saito for antibody AbLys(Ac)382; A.V. Gudkov for Ing1 cDNA; A. Hall for GFP-AKT(PH); and T. Hunter for GST-MEKK1 PHD finger expression construct. We also thank C. Pendaries, H. Tronchere, and P. Sansonetti for the IpgD construct; R.A. Anderson and K. Chua for useful discussion; and M. Boyce and K. Chua for critical reading of the manuscript. This work was supported in part by NIH grants to J.Y. (AG16674), L.C.C. (GM36624), and G.D.P. (GM57705) and (NS29632). O.G. was supported by KO8AG19245 and the Harvard/Hartford Center for Excellence in Geriatric Research and P.K. by a Singapore Cancer Society Grant.
+
+References
+Aasland et al. 1995
+R. Aasland, T.J. Gibson, A.F. Stewart
+The PHD finger: implications for chromatin-mediated transcriptional regulation
+Trends Biochem. Sci., 20 (1995), pp. 56–59
+
+Article |  PDF (1195 K) | View Record in Scopus | Citing articles (619)
+Aravind et al. 2003
+L. Aravind, L.M. Iyer, E.V. Koonin
+Scores of RINGS but no PHDs in ubiquitin signaling
+Cell Cycle, 2 (2003), pp. 123–126
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (65)
+Boronenkov et al. 1998
+I.V. Boronenkov, J.C. Loijens, M. Umeda, R.A. Anderson
+Phosphoinositide signaling pathways in nuclei are associated with nuclear speckles containing pre-mRNA processing factors
+Mol. Biol. Cell, 9 (1998), pp. 3547–3560
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (219)
+Brummelkamp et al. 2002
+T.R. Brummelkamp, R. Bernards, R. Agami
+A system for stable expression of short interfering RNAs in mammalian cells
+Science, 296 (2002), pp. 550–553
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3362)
+Cantley 2002
+L.C. Cantley
+The phosphoinositide 3-kinase pathway
+Science, 296 (2002), pp. 1655–1657
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2697)
+Capili et al. 2001
+A.D. Capili, D.C. Schultz, I.F. Rauscher, K.L. Borden
+Solution structure of the PHD domain from the KAP-1 corepressor: structural determinants for PHD, RING and LIM zinc-binding domains
+EMBO J., 20 (2001), pp. 165–177
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (137)
+Chen et al. 2002
+R. Chen, V.H. Kang, J. Chen, J.C. Shope, J. Torabinejad, D.B. DeWald, G.D. Prestwich
+A monoclonal antibody to visualize PtdIns(3,4,5)P(3) in cells
+J. Histochem. Cytochem., 50 (2002), pp. 697–708
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (49)
+Clarke et al. 2001
+J.H. Clarke, A.J. Letcher, C.S. D'Santos, J.R. Halstead, R.F. Irvine, N. Divecha
+Inositol lipids are regulated during cell cycle progression in the nuclei of murine erythroleukaemia cells
+Biochem. J., 357 (2001), pp. 905–910
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (86)
+Coscoy and Ganem 2003
+L. Coscoy, D. Ganem
+PHD domains and E3 ubiquitin ligases: viruses make the connection
+Trends Cell Biol., 13 (2003), pp. 7–12
+
+Article |  PDF (218 K) | View Record in Scopus | Citing articles (109)
+Degterev et al. 2001
+A. Degterev, A. Lugovskoy, M. Cardone, B. Mulley, G. Wagner, T. Mitchison, J. Yuan
+Identification of small-molecule inhibitors of interaction between the BH3 domain and Bcl-xL
+Nat. Cell Biol., 3 (2001), pp. 173–182
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (409)
+Dowler et al. 2000
+S. Dowler, R.A. Currie, D.G. Campbell, M. Deak, G. Kular, C.P. Downes, D.R. Alessi
+Identification of pleckstrin-homology-domain-containing proteins with novel phosphoinositide-binding specificities
+Biochem. J., 351 (2000), pp. 19–31
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (336)
+Dowler et al. 2002
+S. Dowler, G. Kular, D. Alessi
+Protein lipid overlay assay. Science's STKE;2002/129/pl6 (2002) http://stke.sciencemag.org/cgi/content/full/OC_sigtrans
+
+Ellson et al. 2001
+C.D. Ellson, S. Gobert-Gosse, K.E. Anderson, K. Davidson, H. Erdjument-Bromage, P. Tempst, J.W. Thuring, M.A. Cooper, Z.Y. Lim, A.B. Holmes et al.
+PtdIns(3)P regulates the neutrophil oxidase complex by binding to the PX domain of p40(phox)
+Nat. Cell Biol., 3 (2001), pp. 679–682
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (263)
+Feng et al. 2002
+X. Feng, Y. Hara, K. Riabowol
+Different HATS of the ING1 gene family
+Trends Cell Biol., 12 (2002), pp. 532–538
+
+Article |  PDF (531 K) | View Record in Scopus | Citing articles (120)
+Franke et al. 1997
+T.F. Franke, D.R. Kaplan, L.C. Cantley, A. Toker
+Direct regulation of the Akt proto-oncogene product by phosphatidylinositol-3,4-bisphosphate
+Science, 275 (1997), pp. 665–668
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1039)
+Fyodorov and Kadonaga 2002
+D.V. Fyodorov, J.T. Kadonaga
+Binding of Acf1 to DNA involves a WAC motif and is important for ACF-mediated chromatin assembly
+Mol. Cell. Biol., 22 (2002), pp. 6344–6353
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+Garkavtsev et al. 1998
+I. Garkavtsev, I.A. Grigorian, V.S. Ossovskaya, M.V. Chernov, P.M. Chumakov, A.V. Gudkov
+The candidate tumour suppressor p33ING1 cooperates with p53 in cell growth control
+Nature, 391 (1998), pp. 295–298
+
+View Record in Scopus | Citing articles (239)
+Gaullier et al. 2000
+J.M. Gaullier, E. Ronning, D.J. Gillooly, H. Stenmark
+Interaction of the EEA1 FYVE finger with phosphatidylinositol 3-phosphate and early endosomes. Role of conserved residues
+J. Biol. Chem., 275 (2000), pp. 24595–24600
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (88)
+Gillooly et al. 2000
+D.J. Gillooly, I.C. Morrow, M. Lindsay, R. Gould, N.J. Bryant, J.M. Gaullier, R.G. Parton, H. Stenmark
+Localization of phosphatidylinositol 3-phosphate in yeast and mammalian cells
+EMBO J., 19 (2000), pp. 4577–4588
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (558)
+Hanakahi and West 2002
+L.A. Hanakahi, S.C. West
+Specific interaction of IP6 with human Ku70/80, the DNA-binding subunit of DNA-PK
+EMBO J., 21 (2002), pp. 2038–2044
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+Hurley and Misra 2000
+J.H. Hurley, S. Misra
+Signaling and subcellular targeting by membrane-binding domains
+Annu. Rev. Biophys. Biomol. Struct., 29 (2000), pp. 49–79
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (183)
+Irvine 2000
+R. Irvine
+Nuclear lipid signaling. Science's STKE;2000/48/re1 (2000) http://www.stke.org/cgi/content/full/OC_sigtrans
+
+James et al. 1996
+S.R. James, C.P. Downes, R. Gigg, S.J. Grove, A.B. Holmes, D.R. Alessi
+Specific binding of the Akt-1 protein kinase to phosphatidylinositol 3,4,5-trisphosphate without subsequent activation
+Biochem. J., 315 (1996), pp. 709–713
+
+View Record in Scopus | Citing articles (201)
+Kalkhoven et al. 2002
+E. Kalkhoven, H. Teunissen, A. Houweling, C.P. Verrijzer, A. Zantema
+The PHD type zinc finger is an integral part of the CBP acetyltransferase domain
+Mol. Cell. Biol., 22 (2002), pp. 1961–1970
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+Kanai et al. 2001
+F. Kanai, H. Liu, S.J. Field, H. Akbary, T. Matsuo, G.E. Brown, L.C. Cantley, M.B. Yaffe
+The PX domains of p47phox and p40phox bind to lipid products of PI(3)K
+Nat. Cell Biol., 3 (2001), pp. 675–678
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (318)
+Kutateladze and Overduin 2001
+T. Kutateladze, M. Overduin
+Structural mechanism of endosome docking by the FYVE domain
+Science, 291 (2001), pp. 1793–1796
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (111)
+Kuzmichev et al. 2002
+A. Kuzmichev, Y. Zhang, H. Erdjument-Bromage, P. Tempst, D. Reinberg
+Role of the Sin3-histone deacetylase complex in growth regulation by the candidate tumor suppressor p33(ING1)
+Mol. Cell. Biol., 22 (2002), pp. 835–848
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (140)
+Lau et al. 1998
+W.W. Lau, K.R. Schneider, E.K. O'Shea
+A genetic study of signaling processes for repression of PHO5 transcription in Saccharomyces cerevisiae
+Genetics, 150 (1998), pp. 1349–1359
+
+View Record in Scopus | Citing articles (30)
+Lu et al. 2002
+Z. Lu, S. Xu, C. Joazeiro, M.H. Cobb, T. Hunter
+The PHD domain of MEKK1 acts as an E3 ubiquitin ligase and mediates ubiquitination and degradation of ERK1/2
+Mol. Cell, 9 (2002), pp. 945–956
+
+Article |  PDF (506 K) | View Record in Scopus | Citing articles (204)
+Ma and Lieber 2002
+Y. Ma, M.R. Lieber
+Binding of inositol hexakisphosphate (IP6) to Ku but not to DNA-PKcs
+J. Biol. Chem., 277 (2002), pp. 10756–10759
+
+Full Text via CrossRef
+Mendez and Stillman 2000
+J. Mendez, B. Stillman
+Chromatin association of human origin recognition complex, cdc6, and minichromosome maintenance proteins during the cell cycle: assembly of prereplication complexes in late mitosis
+Mol. Cell. Biol., 20 (2000), pp. 8602–8612
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (456)
+Mirzoeva and Petrini 2001
+O.K. Mirzoeva, J.H. Petrini
+DNA damage-dependent nuclear dynamics of the Mre11 complex
+Mol. Cell. Biol., 21 (2001), pp. 281–288
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (262)
+Misra et al. 2001
+S. Misra, G.J. Miller, J.H. Hurley
+Recognizing phosphatidylinositol 3-phosphate
+Cell, 107 (2001), pp. 559–562
+
+Article |  PDF (123 K) | View Record in Scopus | Citing articles (67)
+Morris et al. 2000
+J.B. Morris, K.A. Hinchliffe, A. Ciruela, A.J. Letcher, R.F. Irvine
+Thrombin stimulation of platelets causes an increase in phosphatidylinositol 5-phosphate revealed by mass assay
+FEBS Lett., 475 (2000), pp. 57–60
+
+Article |  PDF (134 K) | View Record in Scopus | Citing articles (70)
+Nagashima et al. 2001
+M. Nagashima, M. Shiseki, K. Miura, K. Hagiwara, S.P. Linke, R. Pedeux, X.W. Wang, J. Yokota, K. Riabowol, C.C. Harris
+DNA damage-inducible gene p33ING2 negatively regulates cell proliferation through acetylation of p53
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 9671–9676
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (133)
+Niebuhr et al. 2002
+K. Niebuhr, S. Giuriato, T. Pedron, D.J. Philpott, F. Gaits, J. Sable, M.P. Sheetz, C. Parsot, P.J. Sansonetti, B. Payrastre
+Conversion of PtdIns(4,5)P(2) into PtdIns(5)P by the S.flexneri effector IpgD reorganizes host cell morphology
+EMBO J., 21 (2002), pp. 5069–5078
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (155)
+Osborne et al. 2001
+S.L. Osborne, C.L. Thomas, S. Gschmeissner, G. Schiavo
+Nuclear PtdIns(4,5)P2 assembles in a mitotically regulated particle involved in pre-mRNA splicing
+J. Cell Sci., 114 (2001), pp. 2501–2511
+
+View Record in Scopus | Citing articles (117)
+Pascual et al. 2000
+J. Pascual, M. Martinez-Yamout, H.J. Dyson, P.E. Wright
+Structure of the PHD zinc finger from human Williams-Beuren syndrome transcription factor
+J. Mol. Biol., 304 (2000), pp. 723–729
+
+Article |  PDF (305 K) | View Record in Scopus | Citing articles (94)
+Payrastre et al. 2001
+B. Payrastre, K. Missy, S. Giuriato, S. Bodin, M. Plantavid, M. Gratacap
+Phosphoinositides: key players in cell signalling, in time and space
+Cell. Signal., 13 (2001), pp. 377–387
+
+Article |  PDF (197 K) | View Record in Scopus | Citing articles (153)
+Rameh et al. 1997
+L.E. Rameh, K.F. Tolias, B.C. Duckworth, L.C. Cantley
+A new pathway for synthesis of phosphatidylinositol-4,5-bisphosphate
+Nature, 390 (1997), pp. 192–196
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (263)
+Rao et al. 1999
+V.R. Rao, M.N. Corradetti, J. Chen, J. Peng, J. Yuan, G.D. Prestwich, J.S. Brugge
+Expression cloning of protein targets for 3-phosphorylated phosphoinositides
+J. Biol. Chem., 274 (1999), pp. 37893–37900
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+Saito et al. 2002
+S. Saito, A.A. Goodarzi, Y. Higashimoto, Y. Noda, S.P. Lees-Miller, E. Appella, C.W. Anderson
+ATM mediates phosphorylation at multiple p53 sites, including Ser(46), in response to ionizing radiation
+J. Biol. Chem., 277 (2002), pp. 12491–12494
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (151)
+Sali and Blundell 1993
+A. Sali, T.L. Blundell
+Comparative protein modeling by satisfaction of spatial restraints
+J. Mol. Biol., 234 (1993), pp. 779–815
+
+Article |  PDF (2294 K) | View Record in Scopus | Citing articles (5640)
+Santagata et al. 2001
+S. Santagata, T.J. Boggon, C.L. Baird, C.A. Gomez, J. Zhao, W.S. Shan, D.G. Myszka, L. Shapiro
+G-protein signaling through tubby proteins
+Science, 292 (2001), pp. 2041–2050
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (185)
+Schaletzky et al. 2003
+J. Schaletzky, S.K. Dove, B. Short, O. Lorenzo, M.J. Clague, F.A. Barr
+Phosphatidylinositol-5-phosphate activation and conserved substrate specificity of the myotubularin phosphatidylinositol 3-phosphatases
+Curr. Biol., 13 (2003), pp. 504–509
+
+Article |  PDF (414 K) | View Record in Scopus | Citing articles (103)
+Shen et al. 2003
+X. Shen, H. Xiao, R. Ranallo, W.H. Wu, C. Wu
+Modulation of ATP-dependent chromatin-remodeling complexes by inositol polyphosphates
+Science, 299 (2003), pp. 112–114
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (209)
+Shimada et al. 1998
+Y. Shimada, A. Saito, M. Suzuki, E. Takahashi, M. Horie
+Cloning of a novel gene (ING1L) homologous to ING1, a candidate tumor suppressor
+Cytogenet. Cell Genet., 83 (1998), pp. 232–235
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (54)
+Steger et al. 2003
+D.J. Steger, E.S. Haswell, A.L. Miller, S.R. Wente, E.K. O'Shea
+Regulation of chromatin remodeling by inositol polyphosphates
+Science, 299 (2003), pp. 114–116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (236)
+Stenmark et al. 2002
+H. Stenmark, R. Aasland, P.C. Driscoll
+The phosphatidylinositol 3-phosphate-binding FYVE finger
+FEBS Lett., 513 (2002), pp. 77–84
+
+Article |  PDF (755 K) | View Record in Scopus | Citing articles (115)
+Tanaka et al. 1999
+K. Tanaka, K. Horiguchi, T. Yoshida, M. Takeda, H. Fujisawa, K. Takeuchi, M. Umeda, S. Kato, S. Ihara, S. Nagata, Y. Fukui
+Evidence that a phosphatidylinositol 3,4,5-trisphosphate-binding protein can function in nucleus
+J. Biol. Chem., 274 (1999), pp. 3919–3922
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (101)
+Vanhaesebroeck and Alessi 2000
+B. Vanhaesebroeck, D.R. Alessi
+The PI3K–PDK1 connection: more than just a road to PKB
+Biochem. J., 346 (2000), pp. 561–576
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1129)
+Watt et al. 2002
+S.A. Watt, G. Kular, I.N. Fleming, C.P. Downes, J.M. Lucocq
+Subcellular localization of phosphatidylinositol 4,5-bisphosphate using the pleckstrin homology domain of phospholipase C delta1
+Biochem. J., 363 (2002), pp. 657–666
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (196)
+Yokogawa et al. 2000
+T. Yokogawa, S. Nagata, Y. Nishio, T. Tsutsumi, S. Ihara, R. Shirai, K. Morita, M. Umeda, Y. Shirai, N. Saitoh, Y. Fukui
+Evidence that 3′-phosphorylated polyphosphoinositides are generated at the nuclear surface: use of immunostaining technique with monoclonal antibodies specific for PI 3,4-P(2)
+FEBS Lett., 473 (2000), pp. 222–226
+
+Article |  PDF (263 K) | View Record in Scopus | Citing articles (39)
+York et al. 2001
+J.D. York, S. Guo, A.R. Odom, B.D. Spiegelberg, L.E. Stolz
+An expanded view of inositol signaling
+Adv. Enzyme Regul., 41 (2001), pp. 57–71
+
+Article |  PDF (125 K) | View Record in Scopus | Citing articles (64)
+Zhang et al. 1997
+X. Zhang, J.C. Loijens, I.V. Boronenkov, G.J. Parker, F.A. Norris, J. Chen, O. Thum, G.D. Prestwich, P.W. Majerus, R.A. Anderson
+Phosphatidylinositol-4-phosphate 5-kinase isozymes catalyze the synthesis of 3-phosphate-containing phosphatidylinositol signaling molecules
+J. Biol. Chem., 272 (1997), pp. 17756–17761
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (103)
+Zhao et al. 1998
+K. Zhao, W. Wang, O.J. Rando, Y. Xue, K. Swiderek, A. Kuo, G.R. Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Correspondence: Junying Yuan, 617-432-4170 (phone), 617-432-4177 (fax)
+10
+These authors contributed equally to this work.
+Copyright © 2003 Cell Press. All rights reserved.

@@ -1,0 +1,594 @@
+Late viral RNA export, rather than p53 inactivation, determines ONYX-015 tumor selectivity
+Clodagh C. O'Shea Corresponding author contact information, 1, 3, E-mail the corresponding author, Leisa Johnson2, 3, 4, Bridget Bagus1, Serah Choi1, Cory Nicholas1, Annie Shen2, 5, Larry Boyle2, 6, Kusum Pandey2, Conrado Soria1, John Kunich2, 7, Yuqiao Shen2, Gaston Habets2, 8, Dave Ginzinger1, Frank McCormick1
+Show more
+http://dx.doi.org/10.1016/j.ccr.2004.11.012
+  Open Archive
+Abstract
+ONYX-015 is an adenovirus that lacks the E1B-55K gene product for p53 degradation. Thus, ONYX-015 was conceived as an oncolytic virus that would selectively replicate in p53-defective tumor cells. Here we show that loss of E1B-55K leads to the induction, but not the activation, of p53 in ONYX-015-infected primary cells. We use a novel adenovirus mutant, ONYX-053, to demonstrate that loss of E1B-55K-mediated late viral RNA export, rather than p53 degradation, restricts ONYX-015 replication in primary cells. In contrast, we show that tumor cells that support ONYX-015 replication provide the RNA export function of E1B-55K. These data reveal that tumor cells have altered mechanisms for RNA export and resolve the controversial role of p53 in governing ONYX-015 oncolytic selectivity.
+
+Significance
+ONYX-015, a replication-competent oncolytic adenovirus, has entered the clinic and been found to be safe, with evidence of promising tumoricidal activity. However, the role of p53 in governing ONYX-015 tumor selectivity has proved highly controversial. Here we show that differential RNA export between normal and tumor cells is the major determinant of ONYX-015 oncolytic selectivity. This reveals altered RNA export in tumor cells as a novel and therapeutically exploitable target. We also demonstrate that in adenovirus infection, loss of E1B-55K leads to the induction, without the activation, of p53, and consequently does not restrict ONYX-015 replication in primary cells. This has important implications for understanding not only p53 inactivation, but also the design of novel p53-selective oncolytic viruses.
+
+Introduction
+There is a great need to identify therapies that trigger the rapid and specific death of tumor cells. Lytic viruses, whose replication is tumor-selective, offer a novel and specific approach to cancer therapy, with the potential to be self-perpetuating, kill tumors through regulated lytic death and spread not only within the tumor but also to distant micrometastases. dl1520/ONYX-015 is the prototype for oncolytic adenoviral therapy (Khuri et al., 2000). It was originally conceived as an oncolytic virus that would selectively replicate in tumor cells in which the p53 tumor suppressor pathway is dysfunctional (Bischoff et al., 1996).
+
+The p53 tumor suppressor pathway is inactivated in nearly all human tumors, either through direct mutation of p53 or the loss of upstream regulators such as p14ARF or downstream p53 effectors such as Bax (Sherr and McCormick, 2002). DNA damage or activated oncogenes induce p53. which activates the transcription of downstream p53 effectors, resulting in the cell cycle arrest or apoptosis of cells that may have acquired potentially tumorigenic lesions Levine 1997 and Oren 2003. Thus, inactivation of the p53 tumor suppressor pathway is a critical event for tumorigenesis.
+
+p53 was first identified through its interaction with a DNA viral protein, SV40 large T antigen Lane and Crawford 1979 and Linzer and Levine 1979. Like tumor cells, DNA viruses inactivate the p53 pathway, and many encode proteins that bind and degrade p53. Viral replication induces p53 due to expression of potent viral oncogenes, such as adenovirus E1A Chiou and White 1997 and Lowe and Ruley 1993, and/or the propagation of double-stranded DNA viral genomes (Raj et al., 2001). Thus, viral proteins that inactivate p53 are thought to play a requisite role in viral replication by preventing p53-mediated cell cycle arrest or apoptosis. In adenovirus infection, E1B-55K appears to fulfill this role, as together with E4-ORF6 and cellular proteins involved in ubiquitination, it induces the degradation of p53 Harada et al. 2002, Querido et al. 1997 and Querido et al. 2001. ONYX-015 (dl1520) is an adenovirus mutant that lacks the E1B-55K gene and, therefore, fails to degrade p53 during viral replication Barker and Berk 1987 and Bischoff et al. 1996. On this basis, it was predicted that ONYX-015 would be restricted for replication in normal cells, but would be capable of replicating in p53-deficient tumor cells. ONYX-015 has undergone extensive clinical testing, with proven safety and evidence of promising clinical activity from several indications Khuri et al. 2000, Kirn 2001, Reid et al. 2002, Ries and Korn 2002 and Rudin et al. 2003. Moreover, biopsies from patients injected with ONYX-015 revealed that the production of ONYX-015 viral particles is restricted to tumor tissue and not observed in normal tissue that had been injected adjacent to the tumor mass (Khuri et al., 2000).
+
+Nevertheless, the precise role of p53 in determining ONYX-015 selectivity remains highly controversial Goodrum and Ornelles 1998, Hall et al. 1998, Hann and Balmain 2003, Harada and Berk 1999, McCormick 2003, Nemunaitis et al. 2000, Ries et al. 2000, Rothmann et al. 1998 and Turnell et al. 1999. This is partly because ONYX-015 can replicate in several tumor cell lines that retain wild-type p53 sequences. However, this could be attributed to the indirect inactivation of the p53 pathway in tumor cells due to the loss of upstream regulators, such as p14ARF(Ries et al., 2000). More confounding has been the requirement for an E1B-55K late function for replication of ONYX-015 in some tumor cell lines but not in others, irrespective of their p53 status (Harada and Berk, 1999). Furthermore, it has been proposed that p53 may even be required for productive adenoviral replication (Hall et al., 1998).
+
+Thus, the poorly understood late functions of E1B-55K in viral replication, together with the difficulties of assessing p53 function in tumor cells, have made the mechanism underlying ONYX-015 oncolytic selectivity difficult to determine. Here we resolve the role of p53 in determining ONYX-015 selectivity in primary epithelial cells where all components of the p53 pathway are intact. In addition, we use a novel adenovirus mutant, ONYX-053, to distinguish between the p53-dependent and -independent functions of E1B-55K. We demonstrate that loss of E1B-55K leads to the induction, but not the activation, of p53 in ONYX-015-infected primary cells. Consequently, the replication of ONYX-015 in primary cells is not restricted by p53. ONYX-015 tumor-selective replication appears to be instead determined by a unique property of tumor cells to efficiently export late viral RNA in the absence of E1B-55K, a propensity not shared by primary cells. Thus, loss of E1B-55K-mediated late viral RNA export rather than p53 degradation is the major determinant of ONYX-015 tumor-selective replication. These results provide important new insights into the regulation of RNA export in tumor versus normal cells and also suggest that adenovirus has evolved a novel strategy for inactivating p53 in the absence of E1B-55K.
+
+Results
+ONYX-015 replication is defective in primary cells and induces high levels of nuclear p53
+To determine whether ONYX-015 replication is defective in primary cells in which the p53 pathway is intact, we measured replication in small airway epithelial cells (SAECs) and other low passage human primary epithelial cells. ONYX-015 production was attenuated compared to wild-type virus in primary cells. A nonreplicating control virus, ΔE1A (Table 1), is a measure of input in this assay. We next examined the kinetics of early and late viral protein expression in ONYX-015- and wild-type virus-infected SAECs, as shown in Figure 1A. The onset of early viral protein expression (E1B-19k, E2A, E4-ORF3, E4-ORF6, E4-ORF 6/7) in ONYX-015-infected SAECs closely paralleled that of wild-type virus. In contrast, the onset and level of late protein expression (hexon, penton, fiber) was impaired in ONYX-015-infected SAECs. There is a distinct lack of late protein expression in ONYX-015-infected SAECs compared to WtD at 24 hours postinfection (h.p.i.), and ultimately a 3- to 5-fold reduction (as quantitated on a phosphorimager) in the levels of late proteins at 48 h.p.i., with hexon being the most severely affected. The attenuation of ONYX-015 replication and late protein expression in normal cells correlated with the loss of E1B-55K-mediated p53 degradation, resulting in high levels of nuclear p53 (Figures 1A and 1B).
+
+Table 1.
+Restricted replication of ONYX-015 in primary human cells
+Cell type	Virus	MOI	dpi	Total pfu	Ratio WtD/015
+SAEC-CI	ΔE1A	10	d2	6.07E + 05	
+ONYX-015	10	d2	1.03E + 06	
+WtD	10	d2	2.08E + 07	20.2
+ΔE1A	10	d3	BLD	
+ONYX-015	10	d3	8.77E + 05	
+WtD	10	d3	3.13E + 07	35.7
+HMEC-CI	ΔE1A	1	d3	BLD	
+ONYX-015	1	d3	3.34E + 06	
+WtD	1	d3	2.81E + 07	8.4
+ΔE1A	1	d7	BLD	
+ONYX-015	1	d7	5.17E + 06	
+WtD	1	d7	6.83E + 07	13.2
+ΔE1A	10	d3	BLD	
+ONYX-015	10	d3	2.29E + 06	
+WtD	10	d3	1.61E + 07	7.0
+ΔE1A	10	d7	2.11E + 05	
+ONYX-015	10	d7	4.63E + 06	
+WtD	10	d7	5.08E + 07	11.0
+HMEC-P	ΔE1A	1	d3	BLD	
+ONYX-015	1	d3	4.79E + 06	
+WtD	1	d3	2.55E + 08	53.2
+ΔE1A	1	d5	BLD	
+ONYX-015	1	d5	1.60E + 07	
+WtD	1	d5	5.27E + 08	32.9
+ΔE1A	10	d3	9.75E + 04	
+ONYX-015	10	d3	3.60E + 07	
+WtD	10	d3	1.90E + 08	5.3
+ΔE1A	10	d5	4.73E + 05	
+ONYX-015	10	d5	1.70E + 08	
+WtD	10	d5	6.62E + 08	3.9
+Hepatocytes	ONYX-015	10	d1	BLD	
+WtD	10	d1	BLD	—
+ONYX-015	10	d2	1.22E + 05	
+WtD	10	d2	1.63E + 07	133.6
+ONYX-015	10	d4	5.67E + 04	
+WtD	10	d4	4.41E + 06	77.8
+MOI, multiplicity of infection; dpi, days postinfection; pfu, plaque-forming units; SAEC, small airway epithelial cells; HMEC, human mammary epithelial cells; CI, contact-inhibited; P, proliferating; BLD, below limit of detection.
+
+Table options
+Full-size image (36 K)
+Figure 1. 
+Nuclear p53 accumulates to high levels in ONYX-015-infected primary cells
+Quiescent primary small airway epithelium cells (SAECs) were infected at a multiplicity of infection (moi) of 10 with ΔE1A (dl312) control, WtD, or ONYX-015 adenovirus.
+A: At various hours postinfection (h.p.i.), lysates were generated and examined for p53, various early and late adenoviral proteins as indicated (h = hexon, p = penton, f = fiber), and β-actin (loading control) expression by Western blotting.
+B: Infected cells were fixed at 24 h.p.i. and analyzed for p53 and E1B-55K expression patterns by immunofluorescence.
+Figure options
+Accelerated S phase entry in normal cells infected with ONYX-015
+One of the best-known effects of p53 induction is cell cycle arrest. In adenovirus infection, the E1A viral protein activates E2F and drives S phase entry. To determine whether p53 blocks this process in ONYX-015-infected normal cells, we examined S phase entry at various times postinfection (Figures 2A and 2B). Unexpectedly, SAECs infected with ONYX-015 entered S phase more efficiently than cells infected with wild-type adenovirus. This correlated with sustained higher levels of E1A in ONYX-015-infected cells (Figure 2C), and over a 10-fold increase in viral genomes at 48 h.p.i. (Figure 2D) compared to wild-type virus-infected cells. We believe these effects are due to the failure of ONYX-015 to shut down translation of early viral mRNAs, such as E1A, together with cellular RNAs, as shown in Figure 5B. Nevertheless, it is of considerable interest that ONYX-015 provokes entry into S phase despite the induction of high levels of nuclear p53 in infected cells.
+
+Full-size image (42 K)
+Figure 2. 
+Accelerated S phase entry in normal cells infected with ONYX-015
+Quiescent SAECs were infected with ΔE1A, WtD, or ONYX-015 at moi 10 and cell cycle parameters examined at various h.p.i.
+A: Cell cycle analysis was performed by quantifying propidium iodide incorporation using a FACS Calibur. The time point shown is at 24 h.p.i. and is from a representative experiment.
+B: The % change in S phase relative to t = 0 is plotted at various times postinfection.
+C: Cell lysates were generated and examined for expression of p53, Cyclin A, Cyclin B, and β-actin as well as Cdc2Y15 phosphorylation by Western blot analysis.
+D: DNA was isolated and viral genomes quantified by real-time Q-PCR as described in the methods.
+Figure options
+p53 does not induce caspase-mediated apoptosis in ONYX-015-infected primary cells
+p53 induction can also promote apoptosis. Therefore, we determined whether premature p53-dependent apoptosis accounted for the attenuation of ONYX-015 replication in normal cells. However, despite extremely high levels of E1A and p53, there was never more than a minor increase in apoptosis (at most an 8% increase in Annexin V/PI positive cells) in ONYX-015 versus wild-type virus infected cells (Figure 3A). Similar conclusions were reached using an Acridine Orange/Ethidium Bromide assay for apoptosis (data not shown). Consistent with this, in ONYX-015 infection, p53 did not potentiate Caspase 3-mediated apoptosis, as evidenced by similar levels of Caspase-3 and PARP cleavage in ONYX-015 and wild-type virus infected cells (Figure 3B). Furthermore, ZVAD, which inhibits caspase activation, did not rescue ONYX-015 replication (Figure 3C), although in the same cells it was sufficient to prevent TNF/cycloheximide-mediated cell death (data not shown). Thus, p53-mediated apoptosis does not account for the dramatic attenuation of ONYX-015 replication in normal cells. Based on this evidence, we conclude that p53 does not attenuate ONYX-015 replication by preventing S phase entry or significantly increasing apoptosis.
+
+Full-size image (22 K)
+Figure 3. 
+p53 does not induce caspase-mediated apoptosis in ONYX-015-infected primary cells
+Quiescent SAECs were infected with ΔE1A (gray bar), WtD (white bar), or ONYX-015 (black bar) at moi 10 and apoptotic parameters examined at various h.p.i. A: Apoptotic extent was determined by quantifying Annexin V/PI staining. The % of cells positive for Annexin V/PI is depicted. The data and standard deviation resulting from the average of three independent experiments is plotted.
+B: Cell lysates were generated and analyzed for Caspase 3 and PARP cleavage (indicated by lower arrow) by Western blotting.
+C: The effect of the caspase inhibitor, ZVAD, on viral production was determined and the time point shown represents the average from two independent measures, each at 48 h.p.i. Standard deviation is represented. The concentrations of ZVAD used were sufficient to inhibit TNF/cycloheximide-induced apoptosis in the same cells.
+Figure options
+p53 is induced, but not activated, in ONYX-015-infected cells
+In ONYX-015-infected primary cells, supraphysiologically high levels of p53 fail to provoke the expected biological effects, suggesting that p53 activity is blocked downstream. p53 is thought to function primarily by inducing the transcription of downstream effectors Chao et al. 2000, Jimenez et al. 2000 and Oren 2003. Therefore, we examined two well-characterized p53 downstream targets, p21 and Mdm2, in infected SAECs. Surprisingly, despite the induction of both p14ARF and high levels of p53, neither p21 nor Mdm2 protein expression was induced during ONYX-015 infection over that of control ΔE1A-infected cells (Figure 4A). In contrast, exposure of SAECs to ionizing radiation induced both p53 and p21 in a dose-dependent manner, confirming that these uninfected primary cells are fully competent for p53 function (Figure 4B). In addition to p21 and Mdm2, p53 induces the transcription of several other downstream targets and effectors, including 14-3-3 σ, Cyclin G, GADD45, PIG-3, PERP, and Bax Attardi et al. 2000, Oren 2003 and Yu et al. 1999. We used real-time Q-PCR to directly determine whether the transcription of any of these p53 targets was induced in ONYX-015-infected SAECs. Irradiated SAECs exhibited only a moderate induction of p53 protein levels compared to ONYX-015-infected SAECs. Nevertheless, we observed an appreciable induction of endogenous p53 transcriptional target genes in irradiated SAECs (Figure 4C). Likewise, infection with a nonreplicating control virus also induced p53 transcriptional targets, presumably through a DNA damage/stress response, triggered either by viral DNA or the infection process itself. In contrast, despite the presence of extremely high levels of p53 in ONYX-015-infected primary SAECs, downstream p53 transcriptional targets were not induced. Similar results were also obtained in ONYX-015-infected mammary epithelial cells (data not shown). Furthermore, many p53 transcriptional targets decreased upon ONYX-015 infection, analogous to wild-type virus infection in which p53 is degraded.
+
+Full-size image (85 K)
+Figure 4. 
+Despite supraphysiologically high levels of p53 in ONYX-015-infected primary cells, downstream p53 transcriptional targets are not induced
+A: Quiescent SAECs were infected with ΔE1A, WtD, or ONYX-015 at moi 10 and examined at various h.p.i. for p53, p14ARF, p21, Mdm2, and β-actin expression by Western blot analysis.
+B: SAECs were analyzed at various time points following treatment with increasing doses of γ radiation for p53, p21, and β-actin expression by Western blotting.
+C: The induction of p53 transcriptional targets in SAECs that had either been irradiated with 8 Gy of γ radiation or infected with ΔE1A, WtD, ONYX-015, ONYX-053, ONYX-101, or ONYX-605 adenovirus was determined at various time points by real-time Q-PCR. The fold induction of mRNAs relative to t = 0 is shown. cDNAs were normalized relative to either 18S or GUS expression with similar conclusions; GUS data is plotted. p53 protein levels were determined in the same experiment by Western blot analysis.
+D: The induction of Bax mRNA in infected SAECs and H1299 tumor cells (moi 10) was determined at various h.p.i. by real-time Q-PCR. The fold induction relative to t = 0 at 24 (gray and white bars) and 36 (black bar) h.p.i. in each cell type is plotted.
+Figure options
+These data suggest that p53-mediated transcription can be inactivated independently of E1B-55K in an adenovirus infection. E1A binds and inactivates p300 Chiou and White 1997 and Thomas and White 1998, an important coactivator for p53-mediated transcription and histone acetylation (Espinosa and Emerson, 2001). Therefore, we examined an adenovirus mutant, ONYX-605, which comprises an E1A-p300 binding mutation together with an E1B-55K deletion (Figure 4C, right panel). ONYX-101 is an adenovirus mutant which encodes only the E1A-p300 binding mutation. Like ONYX-015, ONYX-605 also failed to activate p53-mediated transcription significantly. This suggests that the binding pf p300 to the amino terminus of E1A does not account for the suppression of p53-directed transcription in ONYX-015-infected primary cells.
+
+One notable exception was Bax, a p53 target gene whose mRNA levels increased significantly following ONYX-015 infection (Figure 4D). However, in ONYX-015-infected H1299 cells, which are deficient for p53, Bax mRNA was induced to similar levels and, thus, occurs due to loss of a p53-independent function of E1B-55K (Figure 4D, right panel). It is tempting to speculate that Bax induction may account for the small increase in apoptosis observed in ONYX-015-infected cells. However, we did not detect corresponding increases in Bax protein by Western blotting (data not shown). We conclude that in ONYX-015-infected primary cells, nuclear p53 accumulates to supraphysiologically high levels, but does not induce the transcription of downstream effectors and is thus unlikely to restrict ONYX-015 replication.
+
+ONYX-053 infection distinguishes between the p53-dependent and -independent functions of E1B-55K for viral replication in primary cells
+These data suggest that the restriction of ONYX-015 replication in normal cells is likely to be due to p53-independent functions of E1B-55K, or, alternatively, novel functions of p53. The best-characterized p53-independent function of E1B-55K is in mediating the shutdown of host protein synthesis, which is thought to facilitate late viral protein production. To distinguish between these possibilities, we analyzed the replication of a unique adenovirus mutant, ONYX-053, in primary cells. This mutant expresses a point mutant of E1B-55K (H260A) that fails to bind and degrade p53, yet retains all measurable late functions of E1B-55K for viral replication (Shen et al., 2001). Two other E1B-55K viral mutants, ONYX-051 and ONYX-052, were also described as having such properties in tumor cell lines (Shen et al., 2001). However, in primary cells, these viruses induced p53 degradation (data not shown), suggesting that the ability of these E1B-55K point mutants to bind p53 may be affected by tumor-specific modifications. Figure 5A shows that primary cells infected with ONYX-053, like ONYX-015, accumulate high levels of p53. Similar to ONYX-015, high levels of p53 in ONYX-053-infected cells also failed to induce downstream p53 transcriptional targets (Figure 4C), again with the exception of Bax (Figure 4D). Thus, both ONYX-015- and ONYX-053-infected SAECs accumulate high levels of p53 due to loss of E1B-55K-mediated p53 degradation.
+
+Full-size image (24 K)
+Figure 5. 
+ONYX-053 uncouples the functions of E1B-55K in p53 degradation and host protein shutoff in infected primary cells
+Quiescent SAECs were infected with ΔE1A, ONYX-015, ONYX-053, or WtD adenovirus at moi 10.
+A: Lysates were generated at various h.p.i. and examined for p53 and E1B-55K expression patterns by Western blotting.
+B: Infected cells were starved in cysteine/methionine-free media at 24 and 36 h.p.i. for 1 hr and then labeled with 35S-Met for 1 hr. Normalized protein lysates were separated by gel electrophoresis and analyzed on a STORM phosphorimager.
+Figure options
+As noted above, the best characterized functions of E1B-55K, aside from p53 binding, relate to the shutoff of host protein synthesis and the export of late viral RNAs Babiss et al. 1985, Leppard and Shenk 1989 and Pilder et al. 1986, which are thought to be necessary for a productive viral infection. Therefore, we determined the ability of ONYX-015 and ONYX-053 to shut off host protein synthesis in primary cells. We measured host protein shutoff by determining S35 methionine incorporation into cellular and viral proteins in infected cells (Figure 5B). Host protein shutoff was observed at 36 h.p.i. in wild-type virus-infected cells, consistent with its onset occurring post-DNA replication. As expected, ONYX-015 failed to shut off the translation of host RNAs, whereas ONYX-053 mediated host protein shutoff almost as efficiently as wild-type virus.
+
+Defective late viral RNA export, not p53 induction, restricts ONYX-015 replication in primary cells
+E1B-55K is thought to mediate the switch from host to viral protein synthesis by promoting the preferential export and translation of late viral RNAs, such as fiber and hexon. Consistent with this, we had observed over a 3- to 5-fold defect in the levels of fiber and hexon protein expression in ONYX-015-infected SAECs compared to WtD (Figure 1A). To determine whether this correlated with a defect in late viral RNA export in the absence of E1B-55K, we examined the cytoplasmic/nuclear ratios of spliced fiber RNA by real-time Q-PCR in ONYX-15- and WtD-infected SAECs (Figure 6A). There was a 3- to 4-fold defect in the cytoplasmic/nuclear ratio of fiber RNA in ONYX-015-infected SAECs compared to WtD, consistent with the defect observed in late viral protein expression.
+
+Full-size image (121 K)
+Figure 6. 
+Loss of E1B-55K-mediated late viral RNA export, rather than p53 degradation, is the major limitation for ONYX-015 replication in primary cells
+A: Quiescent SAECs were infected with ONYX-015 or WtD at moi 10. Nuclear and cytoplasmic RNA were isolated at 24 and 36 h.p.i. and examined by real-time Q-PCR for the levels of spliced L5-fiber mRNA. The relative level of L5-fiber mRNA was determined as a % of 18S rRNA within the same samples. The cytoplasmic/nuclear ratio of fiber mRNA is plotted; standard error is represented.
+B and C: SAECs infected with ONYX-015, ONYX-053, or WtD at moi 10 were fixed at 48 h.p.i., and fluorescent in situ hybridization (FISH) was performed with either an anti-sense digoxigenin-labeled fiber (B) or hexon (C) RNA probe. Fiber and hexon RNAs were each detected using a FITC anti-digoxigenin-labeled secondary antibody. Cells were costained with mouse anti-E1B-55K, which was detected using an Alexa-532 anti-mouse antibody. Nuclei were counterstained with Hoescht and images acquired on a Zeiss Meta-Scanning Confocal Microscope. ΔE1A infected cells showed only background staining for E1B-55K as well as fiber and hexon RNA. The specificity of the FISH probes for fiber and hexon RNAs, and not viral DNA, was confirmed by the failure to detect appreciable staining with either the digoxigenin-labeled fiber or hexon RNA probes to the coding strand in the same experiment.
+D: Virus production in quiescent SAECs infected with ONYX-015, ONYX-053, or WtD virus at moi 10 was determined at 52 and 72 h.p.i. A representative experiment that was measured in triplicate is shown.
+Figure options
+Nevertheless, real-time Q-PCR quantitates the levels of the gene of interest relative to an endogenous gene, in this case 18s rRNA, that is presumed to remain constant within the assay. However, it assumes that both ONYX-015 and WtD infection have similar effects on endogenous cellular RNA export, and moreover, that different cell types (for example, tumor versus normal) are comparable in their export of endogenous cellular RNAs. Therefore, we developed an RNA fluorescent in situ hybridization (FISH) assay, which obviates the necessity of normalization relative to endogenous RNAs, to determine unequivocally if ONYX-015-infected normal cells are defective for the export of late viral mRNAs in the absence of E1B-55K. The fiber and hexon RNA FISH probes selectively detect late viral RNAs and not viral DNA (Supplemental Figures S1A and S1B at http://www.cancercell.org/cgi/content/full/6/6/611/DC1/). RNA FISH confirmed our real-time Q-PCR analysis and demonstrated that the export of fiber (Figure 6A) and hexon (Figure 6B) RNA is defective in ONYX-015-infected SAECs compared to both ONYX-053 and wild-type virus. Clearly, late viral RNAs do enter the cytoplasm in ONYX-015-infected cells, as evidenced by cytoplasmic staining in a percentage of ONYX-015-infected cells (Figures 6A and 6B, top panel), and late viral protein expression in Figure 1A, albeit delayed and at lower levels. Based on this evidence, we conclude that there is a defect in the accumulation of late viral RNAs in the cytoplasm of ONYX-015-infected primary cells.
+
+These data also allow us to visualize by immunofluorescence the direct role of E1B-55K in the transport of late viral RNAs. In cells infected with wild-type adenovirus, E1B-55K (red) was nuclear, but localized to the cytoplasm coincident with hexon and fiber RNAs (Figures 6A and 6B, lower panels). Consistent with the failure of ONYX-053 to degrade p53 during infection, E1B-55K was localized predominantly in the cytoplasm and also did not colocalize with hexon RNA in the nucleus (Figures 6A and 6B, middle panel). A striking transition of fiber RNA from a diffuse nuclear pattern to the nuclear edge was also observed on export of viral RNAs (Figure 6A). E1B-55K is a shuttle protein that is retained in the nucleus by E4-ORF6 Goodrum et al. 1996, Kratzer et al. 2000 and Orlando and Ornelles 2002, and with which it forms a complex to degrade p53 Harada et al. 2002, Querido et al. 1997 and Querido et al. 2001. Thus, adenoviral mutants lacking E4-ORF6 also fail to degrade p53. An E1B-55K/E4-ORF6 complex is thought to be necessary for late viral RNA export, since late viral RNA export and protein expression have been reported to be defective in cells infected with E4-ORF6 adenoviral mutants Cutt et al. 1987, Gonzalez and Flint 2002, Goodrum and Ornelles 1999 and Halbert et al. 1985. The E1B-55K mutant expressed by ONYX-053 is severely compromised in its ability to bind to E4-ORF6 (Shen et al., 2001), consistent with the loss of p53 degradation and cytoplasmic localization of E1B-55K. While ONYX-053 is not completely wild-type for host protein shutoff, our data suggest that neither nuclear retention nor robust E4-ORF6 binding is absolutely required for transport of late viral RNAs by E1B-55K, and that E4-ORF6 may act independently of E1B-55K to regulate late viral protein expression. Alternatively, E1B-55K and E4-ORF6 may still depend on each other to mediate different aspects of late viral RNA export, although their colocalization may not be required.
+
+To determine whether p53 accumulation or defects in host protein shut-off/RNA export were responsible for the attenuation of ONYX-015 in normal cells, we compared ONYX-053 and ONYX-015 replication in primary cells. Remarkably, despite the failure to degrade p53, ONYX-053 replication was only attenuated 2- to 3-fold compared to wild-type virus (Figure 6C). In contrast, ONYX-015 replication was attenuated 13- to 25-fold in the same cells. The 2- to 3-fold reduction in ONYX-053 replication compared to wild-type virus may reflect a novel function of p53 in attenuating ONYX-015 replication in primary cells. Indeed, a similar reduction in ONYX-015 replication was observed in HCT-116 tumor cells when p14ARF expression and p53 were restored (Ries and Korn, 2002). Alternatively, the small reduction in ONYX-053 replication in normal cells may reflect the mild defect in host protein shutoff in ONYX-053 versus wild-type virus infected cells (Figure 5B). Nevertheless, we conclude that the major mechanism underlying the failure of ONYX-015 to replicate in normal cells is the defective export of late viral RNAs and/or defective host protein shutoff.
+
+Permissive tumor cells provide the late viral RNA export functions of E1B-55K
+These results indicate that ONYX-015 fails to replicate in normal cells primarily due to the loss of E1B-55K functions unrelated to p53 degradation. This implies that the tumor selectivity of ONYX-015 is also likely to be determined by the same function of E1B-55K. Previous studies have indicated that cytoplasmic fiber and hexon RNAs correlate with tumor cell permissivity to ONYX-015 Goodrum and Ornelles 1998, Goodrum and Ornelles 1999 and Harada and Berk 1999. Thus, we predicted that tumor cells that support ONYX-015 replication to wild-type virus levels, such as HCT-116 cells Harada and Berk 1999 and Ries and Korn 2002, do so by providing the late functions of E1B-55K. To test this prediction, we examined late viral RNA export in HCT-116 cells infected with ONYX-015 and wild-type virus (Figure 7A). Even in the absence of E1B-55K, fiber RNA is exported efficiently to the cytoplasm in ONYX-015-infected HCT-116 cells analogous to a wild-type virus infection. Similar results were obtained in infected MDA-MB-361 breast tumor cells that are also permissive for ONYX-015 replication (Supplemental Figures S2A and S2B). We next examined host protein shutoff in HCT-116 cells infected with ONYX-015 or wild-type virus. Figure 7B demonstrates that there is a shutdown in cellular but not viral protein synthesis in ONYX-015-infected HCT-116 cells despite the absence of E1B-55K. Consistent with this, and in contrast to primary cells, there was no delay in the onset or level of late viral protein expression in ONYX-015-infected HCT-116 cells (Figure 7C). This is a general property of tumor cells that support ONYX-015 replication (Supplemental Figure S3).
+
+Full-size image (96 K)
+Figure 7. 
+Tumor cells permissive for ONYX-015 replication provide the late viral RNA export/host protein shutoff function of E1B-55K
+HCT-116 cells were infected with ΔE1A, ONYX-015 or WtD at moi 30 and analyzed for late viral RNA export (A), host protein shutoff (B), and late viral protein production (C).
+A: Infected cells were fixed at 24 h.p.i. and RNA FISH performed with a digoxigenin-labeled fiber RNA probe. Fiber RNA was detected using a Rhodamine anti-digoxigenin-labeled secondary antibody. Nuclei were counterstained with Hoescht and images acquired on a Zeiss Meta-Scanning Confocal Microscope.
+B: Infected cells were starved at 24 h.p.i. in cysteine/methionine-free media for 1 hr and then labeled with 35S-Met for 1 hr. Normalized protein lysates were separated by gel electrophoresis and analyzed on a STORM phosphorimager.
+C: Lysates were generated from infected cells at various h.p.i. and analyzed for E1A and late protein expression (h = hexon, p = penton, f = fiber) by Western blotting.
+D and E: Quiescent SAECs, HCT-116, or MDA-MB-361 tumor cells were infected with either ONYX-015 or WtD. Nuclear and cytoplasmic RNA were isolated at various h.p.i. and examined by real-time Q-PCR for the levels of spliced L5-fiber and spliced L4-100K mRNAs. The relative level of L5-fiber and L4-100K mRNA was determined as a % of 18s rRNA expression within the same samples. The cytoplasmic/nuclear ratio of fiber and 100K RNA is plotted for ONYX-015-infected samples at 36 h.p.i.
+E: The % of fiber or 100K RNA within the cytoplasm is expressed as a percentage of the total cytoplasmic and nuclear levels for each message from either ONYX-015 or WtD infected SAECs (gray bar), HCT-116 (white bar), or MDA-MB-361 (black bar) cells at 36 h.p.i. In each case, standard error is depicted.
+F: Although p53 accumulates to high levels in ONYX-015-infected primary cells, it is biologically inert and thus largely irrelevant for replication. The tumor-selective replication of ONYX-015 is instead determined by a tumor cell's property to rescue the export and expression of late viral RNAs (which are required for the production of infectious virions) in the absence of E1B-55K.
+Figure options
+The mechanism by which tumor cells shut down the synthesis of cellular proteins is of considerable interest. Such a capability would be of no obvious benefit to tumor cell proliferation or survival. In adenovirus infection, expression of the late viral 100K protein inhibits the translation of capped cellular mRNAs, while viral RNAs are translated in a cap-independent manner due to their possession of a unique 5′ UTR Cuesta et al. 2000 and Hayes et al. 1990. Consistent with this, 100K mutant viruses are defective for host protein shutoff and replication Hayes et al. 1990 and Morin and Boulanger 1986. In Figure 7D we demonstrate that, in addition to fiber RNA, 100K RNA export is also defective in ONYX-015-infected SAECS. Therefore, it will be interesting to determine if the shutoff of host protein synthesis in permissive tumor cells is a secondary consequence of their ability to export late 100K RNA. Figure 7D also demonstrates that permissive tumor cells, such as HCT-116 and MDA-MB-361, export late viral RNAs 5–10 times more efficiently than primary cells upon ONYX-015 infection, and selectively complement the loss of E1B-55K in viral replication. Consequently, and in contrast to primary cells, the percentage of late viral RNA in the cytoplasm of ONYX-015-infected tumor cells is approximately equivalent to that of wild-type virus. Based on this evidence, we conclude that the tumor-selective replication of ONYX-015 is determined by a novel and unprecedented difference between tumor and normal cells for the export of late viral RNAs, as depicted in Figure 7D.
+
+Discussion
+ONYX-015 was originally conceived as a virus whose replication would be restricted to tumor cells that had inactivated p53. Consistent with this, ONYX-015 was shown to be safe and undergo tumor-selective replication in Phase I and II clinical trials Khuri et al. 2000, Kirn 2001, Reid et al. 2002, Ries and Korn 2002 and Rudin et al. 2003. However, patient responses did not necessarily correlate with the p53 status of their tumors (Khuri et al., 2000), and indeed in cell culture, ONYX-015 was shown to replicate in several tumor cell lines that retain wild-type p53 sequences Goodrum and Ornelles 1998, Harada and Berk 1999, Rothmann et al. 1998 and Turnell et al. 1999. One interpretation of this data is that a p53-independent mechanism determined ONYX-015 selectivity in tumor cells. An alternative explanation is that the p53 pathway is indirectly inactivated in these tumor cells through loss of p14ARF, p53-responsive cell cycle/apoptosis checkpoints, or novel components of the p53 pathway (Ries et al., 2000).
+
+Due to the caveats of assessing p53 function in tumor cells in which the p53 pathway is generally defective, we chose instead to study ONYX-015 replication in primary epithelial cells in which all components of the p53 pathway are intact. We demonstrate that, although nuclear p53 accumulates to high levels in ONYX-015-infected primary cells, it is biologically inert. While these data strongly suggested that p53 is, therefore, largely irrelevant for ONYX-015 replication, a novel or unknown function of p53 in limiting viral replication could not be excluded. For example, p53 has recently been shown to have transcriptionally independent effects in promoting apoptosis through localization to the mitochondria Chipuk et al. 2004 and Mihara et al. 2003. Notwithstanding, our use of a novel adenovirus expressing an E1B-55K point mutant, ONYX-053, demonstrates that the major defect in ONYX-015 replication in primary cells is due to the loss of E1B-55K late functions unrelated to p53, although obviously it is impossible to exclude a function for p53 in vivo. Furthermore, we show that tumor cells that support ONYX-015 replication provide the function of E1B-55K in late viral RNA export. Based on this evidence, we conclude that the major determinant of ONYX-015 tumor selectivity is RNA export.
+
+The assembly of replication-competent viral particles depends upon the association of many late viral proteins and is driven by a process of mass action. Therefore, changes in the concentration of multiple late viral proteins are expected to have amplified effects on assembly. This is likely to account, in part, for how a 2- to 4-fold defect in the export and expression of several late viral RNAs, such as hexon and fiber, could result in up to a 25-fold reduction in infectious viral particles. Furthermore, at least one late protein, 100K, plays multiple roles in virus production. 100K is necessary for the shutoff of host protein synthesis and late viral RNA translation Cuesta et al. 2000, Hayes et al. 1990 and Huang and Schneider 1991 and plays a critical role in the morphogenesis and assembly of virion particles Cepko and Sharp 1982 and Morin and Boulanger 1986. In addition, 100K is particularly required for hexon protein expression (Farley et al., 2004), which is one of the late proteins that is most affected by the loss of E1B-55K in ONYX-015-infected SAECS. We demonstrate that loss of E1B-55K also results in a defect in 100K RNA export which could impact the production and assembly of infectious virions at multiple levels. Thus, we favor the hypothesis that it is the cumulative defect in the export and expression of several late viral RNAs, rather than any single RNA, that accounts for the defect in ONYX-015 replication in primary cells.
+
+The loss of E1B-55K-mediated p53 degradation in ONYX-015-infected primary cells was expected to activate a p53 checkpoint that would limit viral replication. However, while both ONYX-015 and ONYX-053 induce high levels of nuclear p53 in infected cells, this did not result in inhibitory biological effects on viral replication. One interpretation of these results is that inactivation of p53 may not be required for adenoviral replication after all. However, disparate DNA viruses have functionally converged to evolve proteins that inactivate p53; for example, HPV degrades p53 through the early viral protein E6, while SV40 Large T binds and inactivates p53 directly. Thus, a more plausible explanation is that adenovirus possesses yet another strategy that inactivates p53 in the absence of E1B-55K. The adenoviral proteins E1A and E1B-19K promote cell-cycle entry and prevent apoptosis Debbas and White 1993 and White et al. 1991, respectively; these functions could perhaps override the effects of p53-induced downstream effectors on cell cycle entry or apoptosis in ONYX-015-infected cells. However, the failure of p53 to even induce the transcription of such downstream effectors in ONYX-015-infected cells suggests that p53 is inactivated more directly. One candidate for such a role is E4-ORF6, the binding partner of E1B-55K, which is also known to interact with p53 (Dobner et al., 1996). An alternative candidate is E1A, which binds and inactivates p300 Chiou and White 1997 and Thomas and White 1998, an important coactivator for p53-mediated transcription and histone acetylation (Espinosa and Emerson, 2001). Previous studies with ONYX-015 have used luciferase reporter assays to determine p53 activity in infected cells. However, here we assessed the induction of endogenous p53 transcriptional targets, as recently it has become clear that synthetic p53-responsive reporters do not necessarily reflect the regulation of the native promoters by chromatin modification (Espinosa and Emerson, 2001). Thus, it is intriguing to speculate that E1A itself may perhaps compromise p53 function in ONYX-015 infection, although our analysis of ONYX-605, a mutant comprising an E1A-p300 binding mutant in combination with an E1B-55K deletion, suggests that this is not the case. Nevertheless, E1A can modulate p300 in multiple ways. Conversely, p53 induction alone may not be sufficient for p53 activity. A second signal, perhaps through DNA damage-induced activation of Chk1/Chk2, may be necessary (Shieh et al., 2000). Interestingly, another early viral protein, E4-ORF3, disrupts Mre11/Nbs1 nuclear bodies (Stracker et al., 2002), an event that could conceivably abrogate Chk1/Chk2-mediated p53 activation following ONYX-015 infection. We are currently attempting to identify this novel mechanism. Nevertheless, this study reveals that loss of E1B-55K results in the induction, but not activation, of p53 during adenoviral replication. This has important implications for understanding p53 inactivation in both tumor cells and adenovirus replication, and ultimately, for designing new p53-selective oncolytic viral strategies.
+
+This study also reveals a novel and unprecedented difference in RNA export between tumor and normal cells. We show that this is the major determinant of ONYX-015 tumor-selective replication. These data infer that late viral RNAs may share either a molecular resemblance, or export pathway, with RNAs important for cell growth or tumorigenesis. Major late viral RNAs, such as hexon and fiber, share a common 5′ UTR that facilitates their cap-independent translation (Yueh and Schneider, 1996) as well as playing a role in their export (Huang and Flint, 1998). We are currently investigating whether cellular RNAs containing 5′ UTRs that are structurally related to the late adenoviral 5′ UTR are preferentially exported in tumor cells. Interestingly, increased replication of ONYX-015 in tumor cells has previously been shown to correlate with S phase, as tumor cells vary in the extent to which they rescue ONYX-015 replication (Goodrum and Ornelles, 1999). Therefore, the property of tumor cells to export late viral RNAs may be a result or function of deregulated proliferation, as even proliferating normal cells do not support ONYX-015 replication (Table 1 and Johnson et al., 2002). Possible insights into the mechanism of late viral RNA export in tumor cells may be derived from how E1B-55K functions in this process. While differential RNA splicing has been suggested in tumor cells (Bartel et al., 2002), alterations in RNA export remain unknown. Interestingly, NUP88 and NUP214, two nuclear pore proteins implicated in RNA export, have been found as translocation products in myeloid leukemia Arai et al. 1997, Boer et al. 1998 and Nakamura et al. 1996. However, the contributions of these mutations to tumorigenesis still remain to be elucidated, as the regulation and mechanics underlying normal mammalian RNA export are poorly understood. Nonetheless, the revelation that late viral RNA export is the major determinant of ONYX-015 tumor selectivity provides an important insight and impetus for the study of RNA transport in tumorigenesis as well as for cancer therapy.
+
+Experimental procedures
+Cell lines and culturing conditions
+Small airway epithelial cells (SAEC), mammary epithelial cells (MEC), and hepatocytes from multiple donors were obtained from BioWhittaker, Inc. and cultured as per the manufacturer's recommendations. Primary cells were rendered contact-inhibited by growing them to 100% confluency followed by prolonged (14–18 days) incubation in complete medium. HCT-116 cells were cultured in McCoy's medium with 10% fetal calf serum.
+
+Virus infections and quantification
+All primary human cells were infected in predefined growth medium, in the absence of antibiotics, with no alterations to growth factor components in a low volume of medium for 2 hrs. HCT-116 cells were infected in a low volume of McCoy's medium with 2% fetal bovine serum (FBS). Viruses were quantified on 293/E4/pIX cells using an ELISA assay as described previously (Johnson et al., 2002). Wild-type virus is WtD, a derivative of dl309 (which has a partial deletion in the E3 region), but identical to ONYX-015/dl1520 except that it includes E1B-55K. Cells were infected at multiplicity of infections determined experimentally to be the minimum required to infect 100% of the cells. Thus, SAECs were infected at an moi of 10 and HCT-116 at an moi of 30.
+
+Preparation of cell lysates and immunoblot analysis
+Protein lysates were extracted and normalized and Western blotting performed as previously described (Johnson et al., 2002). The primary antibodies used were against either E1A (M73 at 1:20, from E. Harlow, MGH Cancer Center), E1B-55K (1:20, mouse monoclonal 2A6), E1B-19K (1:500, Calbiochem), E2A (1:20, B6-8, from T. Shenk, Princeton), E4orf3 (1:1,000, from G. Ketner, Johns Hopkins), E4orf6, 6/7 (1:10, RSA-3, from T. Shenk, Princeton; or 1808-2 at 1:7,000, from P.E. Branton, McGill University), Fiber (1:1,000, American Qualex), Ad5 late proteins (1:20,000, Access BioMedical), Cyclin A (1:100, Neomarkers), Cyclin B (1:500, Neomarkers), p21 (1:100, Upstate Biotechnology), Mdm2 (1:1000, N20, Santa Cruz Biotechnology), activated caspase 3 (Pharmingen), PARP (1:1000, Transduction Labs), p53 (1:1000, DO-1, Santa Cruz Biotechnology), or β-actin (1:250, Sigma). The p14ARF antibody was obtained from rabbits immunized with a human p14ARF peptide, CPGRGAAGRARCLGPSARGPG, affinity-purified, and used at 1:1000.
+
+Immunofluorescence
+Cells were grown on chamber slides, fixed in 4% paraformaldehyde, and stored in PBS. Slides were washed 1× in PBS and blocked in 5% goat serum/0.1% fish skin gelatin/PBS for 20 min. Slides were subsequently blocked in 5% FBS/PBS for 20 min at room temperature (RT) followed by incubation with primary antibodies for 1 hr at RT. Primary antibodies used were rat anti-E1B-55K (Calbiochem) and mouse anti-p53 (DO-1, Santa Cruz Biotechnology). Slides were washed three times in PBS and then incubated with either Alexa-532 anti-rat or Alexa-488 anti-mouse antibodies (Molecular Probes) for 1 hr at RT. Slides were then washed three times in PBS and nuclei counterstained with Hoechst. Slides were mounted in Dako fluorescent mounting media and analyzed by fluorescent microscopy.
+
+Flow cytometry analysis
+Cell cycle analysis was performed as described previously (Johnson et al., 2002). For Annexin V/PI staining, following trypsinization and neutralization, cells were resuspended in 1× binding buffer (10 mM Hepes/NaOH [pH 7.4], 140 mM NaCl, 2.4 mM MgCl2) and staining carried out as per manufacturer's instructions (Pharmingen).
+
+Real-time Q-PCR analysis
+RNA was extracted using the RNase Easy kit (Qiagen) and DNase-treated. RNA (300 ng) was reverse-transcribed into cDNA using iScript (BioRad, Hercules CA). Total RNA was incubated with DNase (Ambion, Austin, TX) to remove contaminating host and viral DNA. The DNase was then inactivated and removed according to the manufacturer's specifications. Quantitative PCR analysis was performed on all samples in triplicate using an AB Prism 7900 sequence detection system. “No reverse transcriptase” controls were performed on all samples. Quantitative detection of specific nucleotide sequences was based upon the fluorogenic 5′ nuclease assay (Ginzinger, 2002) and relative expression was calculated (Livak and Schmittgen, 2001). Probes for quantifying adenoviral DNA were as previously described (Johnson et al., 2002). For the detection of p53 transcriptional targets and adenoviral RNAs, see Supplemental Table S1 at http://www.cancercell.org/cgi/content/full/6/6/611/DC1/ for primer and probe sequences.
+
+Host shutoff analysis
+Infected cells were washed and starved for 1 hr in cysteine/methionine-free media. Cells were labeled in 1 ml of fresh cysteine/methionine-free media containing 100 μCuries/ml of S35 methionine (Translabel, NEN) for 1 hr. Cells were harvested, washed, and resuspended in 1% Triton-X 100 buffer. Equal protein was loaded onto 4%–20% Tris-glycine gels, run at 150 V, fixed, washed, and enhanced in Amplify (Amersham), dried, and exposed to a phosphor screen. The gels were visualized using a phosphorimager from Molecular Dynamics.
+
+RNA fluorescent in situ hybridization
+Cells were fixed in 4% paraformaldehyde, denatured in 70% formamide, 2× SSC for 3 min at 70°C, followed by an ethanol dehydration series. FISH probes were synthesized by in vitro transcription using a Boehringher DIG RNA labeling kit and by incorporating T7 and T3 promoter sequences at the 5′ ends of forward and reverse primers, respectively, to hexon and fiber sequences (Supplemental Table S1). Detailed methods are provided in the Supplemental Data at http://www.cancercell.org/cgi/content/full/6/6/611/DC1/ and at http://biochemistry.ucsf.edu/~panning/protocols/protocol5.html. Briefly, a probe mix comprising labeled RNA, tRNA, salmon sperm, and human COT-1 DNA was prepared in Hybridsol. Probe was hybridized with slides overnight at 37°C, washed, and incubated with 25 μg/ml RNase A for 45 min at 37°C followed by washes in SSC and PBS. Immunofluorescence was carried out as described above using anti-E1B-55K 2A6 as a primary antibody and FITC-labeled sheep anti-digoxigenin and Alexa-532-labeled anti-mouse (Molecular Probes) secondary antibodies. Slides were analyzed on the Zeiss Meta Laser scanning confocal microscope.
+
+Acknowledgements
+We thank Gerard Evan and Mike Fried for critical reading of this manuscript. We also thank Abby Miller, Demetris Iacovides, Maria Christophorou, David Stokoe, and all of the members of the McCormick lab for thoughtful discussion and comments. We thank Bill Hyun, Jane Gordon, Andrew Finch, Dimitris Nussov, and Jay Sohal for technical advice and help with confocal microscopy and FISH, and also William Forrest for help with statistical data analysis. Real-time Q-PCR and sequencing was performed by the Genome Analysis Core with special thanks to Mamie Fung. Clodagh O'Shea was supported by a Leukemia Society of America fellowship. Frank McCormick and Bridget Bagus were supported, in part, by ONYX Pharmaceuticals and UC Discovery grant bio-02-10242, and Frank McCormick is a shareholder in ONYX Pharmaceuticals.
+
+Supplementary Material
+ 
+Supplemental Data.  
+Help with PDF filesOptions
+References
+Arai et al. 1997
+Y. Arai, F. Hosoda, H. Kobayashi, K. Arai, Y. Hayashi, N. Kamada, Y. Kaneko, M. Ohki
+The inv(11)(p15q22) chromosome translocation of de novo and therapy-related myeloid malignancies results in fusion of the nucleoporin gene, NUP98, with the putative RNA helicase gene, DDX10
+Blood, 89 (1997), pp. 3936–3944
+
+View Record in Scopus | Citing articles (119)
+Attardi et al. 2000
+L.D. Attardi, E.E. Reczek, C. Cosmas, E.G. Demicco, M.E. McCurrach, S.W. Lowe, T. Jacks
+PERP, an apoptosis-associated target of p53, is a novel member of the PMP-22/gas3 family
+Genes Dev, 14 (2000), pp. 704–718
+
+View Record in Scopus | Citing articles (237)
+Babiss et al. 1985
+L.E. Babiss, H.S. Ginsberg, J.E. Darnell Jr.
+Adenovirus E1B proteins are required for accumulation of late viral mRNA and for effects on cellular mRNA translation and transport
+Mol. Cell. Biol, 5 (1985), pp. 2552–2558
+
+View Record in Scopus | Citing articles (106)
+Barker and Berk 1987
+D.D. Barker, A.J. Berk
+Adenovirus proteins from both E1B reading frames are required for transformation of rodent cells by viral infection and DNA transfection
+Virology, 156 (1987), pp. 107–121
+
+Article |  PDF (2435 K) | View Record in Scopus | Citing articles (244)
+Bartel et al. 2002
+F. Bartel, H. Taubert, L.C. Harris
+Alternative and aberrant splicing of MDM2 mRNA in human cancer
+Cancer Cell, 2 (2002), pp. 9–15
+
+Article |  PDF (1205 K) | View Record in Scopus | Citing articles (113)
+Bischoff et al. 1996
+J.R. Bischoff, D.H. Kirn, A. Williams, C. Heise, S. Horn, M. Muna, L. Ng, J.A. Nye, A. Sampson-Johannes, A. Fattaey, F. McCormick
+An adenovirus mutant that replicates selectively in p53-deficient human tumor cells
+Science, 274 (1996), pp. 373–376
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1269)
+Boer et al. 1998
+J. Boer, J. Bonten-Surtel, G. Grosveld
+Overexpression of the nucleoporin CAN/NUP214 induces growth arrest, nucleocytoplasmic transport defects, and apoptosis
+Mol. Cell. Biol, 18 (1998), pp. 1236–1247
+
+View Record in Scopus | Citing articles (80)
+Cepko and Sharp 1982
+C.L. Cepko, P.A. Sharp
+Assembly of adenovirus major capsid protein is mediated by a nonvirion protein
+Cell, 31 (1982), pp. 407–415
+
+Article |  PDF (5820 K) | View Record in Scopus | Citing articles (46)
+Chao et al. 2000
+C. Chao, S. Saito, J. Kang, C.W. Anderson, E. Appella, Y. Xu
+p53 transcriptional activity is essential for p53-dependent apoptosis following DNA damage
+EMBO J, 19 (2000), pp. 4967–4975
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (189)
+Chiou and White 1997
+S.K. Chiou, E. White
+p300 binding by E1A cosegregates with p53 induction but is dispensable for apoptosis
+J. Virol, 71 (1997), pp. 3515–3525
+
+View Record in Scopus | Citing articles (78)
+Chipuk et al. 2004
+J.E. Chipuk, T. Kuwana, L. Bouchier-Hayes, N.M. Droin, D.D. Newmeyer, M. Schuler, D.R. Green
+Direct activation of Bax by p53 mediates mitochondrial membrane permeabilization and apoptosis
+Science, 303 (2004), pp. 1010–1014
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (940)
+Cuesta et al. 2000
+R. Cuesta, Q. Xi, R.J. Schneider
+Adenovirus-specific translation by displacement of kinase Mnk1 from cap- initiation complex eIF4F
+EMBO J, 19 (2000), pp. 3465–3474
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+Cutt et al. 1987
+J.R. Cutt, T. Shenk, P. Hearing
+Analysis of adenovirus early region 4-encoded polypeptides synthesized in productively infected cells
+J. Virol, 61 (1987), pp. 543–552
+
+View Record in Scopus | Citing articles (53)
+Debbas and White 1993
+M. Debbas, E. White
+Wild-type p53 mediates apoptosis by E1A, which is inhibited by E1B
+Genes Dev, 7 (1993), pp. 546–554
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (622)
+Dobner et al. 1996
+T. Dobner, N. Horikoshi, S. Rubenwolf, T. Shenk
+Blockage by adenovirus E4orf6 of transcriptional activation by the p53 tumor suppressor
+Science, 272 (1996), pp. 1470–1473
+
+View Record in Scopus | Citing articles (224)
+Espinosa and Emerson 2001
+J.M. Espinosa, B.M. Emerson
+Transcriptional regulation by p53 through intrinsic DNA/chromatin binding and site-directed cofactor recruitment
+Mol. Cell, 8 (2001), pp. 57–69
+
+Article |  PDF (613 K) | View Record in Scopus | Citing articles (295)
+Farley et al. 2004
+D.C. Farley, J.L. Brown, K.N. Leppard
+Activation of the early-late switch in adenovirus type 5 major late transcription unit expression by L4 gene products
+J. Virol, 78 (2004), pp. 1782–1791
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (29)
+Ginzinger 2002
+D.G. Ginzinger
+Gene quantification using real-time quantitative PCR: An emerging technology hits the mainstream
+Exp. Hematol, 30 (2002), pp. 503–512
+
+Article |  PDF (185 K) | View Record in Scopus | Citing articles (623)
+Gonzalez and Flint 2002
+R.A. Gonzalez, S.J. Flint
+Effects of mutations in the adenoviral E1B 55-kilodalton protein coding sequence on viral late mRNA metabolism
+J. Virol, 76 (2002), pp. 4507–4519
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (43)
+Goodrum and Ornelles 1998
+F.D. Goodrum, D.A. Ornelles
+p53 status does not determine outcome of E1B 55-kilodalton mutant adenovirus lytic infection
+J. Virol, 72 (1998), pp. 9479–9490
+
+View Record in Scopus | Citing articles (216)
+Goodrum and Ornelles 1999
+F.D. Goodrum, D.A. Ornelles
+Roles for the E4 orf6, orf3, and E1B 55-kilodalton proteins in cell cycle-independent adenovirus replication
+J. Virol, 73 (1999), pp. 7474–7488
+
+View Record in Scopus | Citing articles (47)
+Goodrum et al. 1996
+F.D. Goodrum, T. Shenk, D.A. Ornelles
+Adenovirus early region 4 34-kilodalton protein directs the nuclear localization of the early region 1B 55-kilodalton protein in primate cells
+J. Virol, 70 (1996), pp. 6323–6335
+
+View Record in Scopus | Citing articles (76)
+Halbert et al. 1985
+D.N. Halbert, J.R. Cutt, T. Shenk
+Adenovirus early region 4 encodes functions required for efficient DNA replication, late gene expression, and host cell shutoff
+J. Virol, 56 (1985), pp. 250–257
+
+View Record in Scopus | Citing articles (181)
+Hall et al. 1998
+A.R. Hall, B.R. Dix, S.J. O'Carroll, A.W. Braithwaite
+p53-dependent cell death/apoptosis is required for a productive adenovirus infection
+Nat. Med, 4 (1998), pp. 1068–1072
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (198)
+Hann and Balmain 2003
+B. Hann, A. Balmain
+Replication of an E1B 55-kilodalton protein-deficient adenovirus (ONYX-015) is restored by gain-of-function rather than loss-of-function p53 mutants
+J. Virol, 77 (2003), pp. 11588–11595
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (32)
+Harada and Berk 1999
+J.N. Harada, A.J. Berk
+p53-independent and -dependent requirements for E1B–55K in adenovirus type 5 replication
+J. Virol, 73 (1999), pp. 5333–5344
+
+View Record in Scopus | Citing articles (203)
+Harada et al. 2002
+J.N. Harada, A. Shevchenko, D.C. Pallas, A.J. Berk
+Analysis of the adenovirus E1B–55K-anchored proteome reveals its link to ubiquitination machinery
+J. Virol, 76 (2002), pp. 9194–9206
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (120)
+Hayes et al. 1990
+B.W. Hayes, G.C. Telling, M.M. Myat, J.F. Williams, S.J. Flint
+The adenovirus L4 100-kilodalton protein is necessary for efficient translation of viral late mRNA species
+J. Virol, 64 (1990), pp. 2732–2742
+
+View Record in Scopus | Citing articles (62)
+Huang and Flint 1998
+W. Huang, S.J. Flint
+The tripartite leader sequence of subgroup C adenovirus major late mRNAs can increase the efficiency of mRNA export
+J. Virol, 72 (1998), pp. 225–235
+
+View Record in Scopus | Citing articles (36)
+Huang and Schneider 1991
+J.T. Huang, R.J. Schneider
+Adenovirus inhibition of cellular protein synthesis involves inactivation of cap-binding protein
+Cell, 65 (1991), pp. 271–280
+
+Article |  PDF (2171 K) | View Record in Scopus | Citing articles (86)
+Jimenez et al. 2000
+G.S. Jimenez, M. Nister, J.M. Stommel, M. Beeche, E.A. Barcarse, X.Q. Zhang, S. O'Gorman, G.M. Wahl
+A transactivation-deficient mouse model provides insights into Trp53 regulation and function
+Nat. Genet, 26 (2000), pp. 37–43
+
+View Record in Scopus | Citing articles (164)
+Johnson et al. 2002
+L. Johnson, A. Shen, L. Boyle, J. Kunich, K. Pandey, M. Lemmon, T. Hermiston, M. Giedlin, F. McCormick, A. Fattaey
+Selectively replicating adenoviruses targeting deregulated E2F activity are potent, systemic antitumor agents
+Cancer Cell, 1 (2002), pp. 325–337
+
+Article |  PDF (612 K) | View Record in Scopus | Citing articles (150)
+Khuri et al. 2000
+F.R. Khuri, J. Nemunaitis, I. Ganly, J. Arseneau, I.F. Tannock, L. Romel, M. Gore, J. Ironside, R.H. MacDougall, C. Heise et al.
+A controlled trial of intratumoral ONYX-015, a selectively-replicating adenovirus, in combination with cisplatin and 5-fluorouracil in patients with recurrent head and neck cancer
+Nat. Med, 6 (2000), pp. 879–885
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (806)
+Kirn 2001
+D. Kirn
+Oncolytic virotherapy for cancer with the adenovirus dl1520 (ONYX-015): Results of phase I and II trials
+Expert Opin. Biol. Ther, 1 (2001), pp. 525–538
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+Kratzer et al. 2000
+F. Kratzer, O. Rosorius, P. Heger, N. Hirschmann, T. Dobner, J. Hauber, R.H. Stauber
+The adenovirus type 5 E1B–55K oncoprotein is a highly active shuttle protein and shuttling is independent of E4orf6, p53 and Mdm2
+Oncogene, 19 (2000), pp. 850–857
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (70)
+Lane and Crawford 1979
+D.P. Lane, L.V. Crawford
+T antigen is bound to a host protein in SV40-transformed cells
+Nature, 278 (1979), pp. 261–263
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (806)
+Leppard and Shenk 1989
+K.N. Leppard, T. Shenk
+The adenovirus E1B 55 kd protein influences mRNA transport via an intranuclear effect on RNA metabolism
+EMBO J, 8 (1989), pp. 2329–2336
+
+View Record in Scopus | Citing articles (86)
+Levine 1997
+A.J. Levine
+p53, the cellular gatekeeper for growth and division
+Cell, 88 (1997), pp. 323–331
+
+Article |  PDF (247 K) | View Record in Scopus | Citing articles (5338)
+Linzer and Levine 1979
+D.I. Linzer, A.J. Levine
+Characterization of a 54K dalton cellular SV40 tumor antigen present in SV40-transformed cells and uninfected embryonal carcinoma cells
+Cell, 17 (1979), pp. 43–52
+
+Article |  PDF (5145 K) | View Record in Scopus | Citing articles (550)
+Livak and Schmittgen 2001
+K.J. Livak, T.D. Schmittgen
+Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method
+Methods, 25 (2001), pp. 402–408
+
+Article |  PDF (713 K) | View Record in Scopus | Citing articles (29360)
+Lowe and Ruley 1993
+S.W. Lowe, H.E. Ruley
+Stabilization of the p53 tumor suppressor is induced by adenovirus 5 E1A and accompanies apoptosis
+Genes Dev, 7 (1993), pp. 535–545
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (473)
+McCormick 2003
+F. McCormick
+Cancer-specific viruses and the development of ONYX-015
+Cancer Biol. Ther, 2 (2003), pp. S157–S160
+
+Mihara et al. 2003
+M. Mihara, S. Erster, A. Zaika, O. Petrenko, T. Chittenden, P. Pancoska, U.M. Moll
+p53 has a direct apoptogenic role at the mitochondria
+Mol. Cell, 11 (2003), pp. 577–590
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (989)
+Morin and Boulanger 1986
+N. Morin, P. Boulanger
+Hexon trimerization occurring in an assembly-defective, 100K temperature-sensitive mutant of adenovirus 2
+Virology, 152 (1986), pp. 11–31
+
+Article |  PDF (6799 K) | View Record in Scopus | Citing articles (20)
+Nakamura et al. 1996
+T. Nakamura, D.A. Largaespada, M.P. Lee, L.A. Johnson, K. Ohyashiki, K. Toyama, S.J. Chen, C.L. Willman, I.M. Chen, A.P. Feinberg et al.
+Feb). Fusion of the nucleoporin gene NUP, 98 (to HOXA9 by the chromosome translocation t(7;11)(p15;p15) in human myeloid leukaemia. Nat. Genet. 12) (1996), pp. 154–158
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (337)
+Nemunaitis et al. 2000
+J. Nemunaitis, I. Ganly, F. Khuri, J. Arseneau, J. Kuhn, T. McCarty, S. Landers, P. Maples, L. Romel, B. Randlev et al.
+Selective replication and oncolysis in p53 mutant tumors with ONYX-015, an E1B–55kD gene-deleted adenovirus, in patients with advanced head and neck cancer: A phase II trial
+Cancer Res, 60 (2000), pp. 6359–6366
+
+View Record in Scopus | Citing articles (310)
+Oren 2003
+M. Oren
+Decision making by p53: Life, death and cancer
+Cell Death Differ, 10 (2003), pp. 431–442
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (656)
+Orlando and Ornelles 2002
+J.S. Orlando, D.A. Ornelles
+E4orf6 variants with separate abilities to augment adenovirus replication and direct nuclear localization of the E1B 55-kilodalton protein
+J. Virol, 76 (2002), pp. 1475–1487
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+Pilder et al. 1986
+S. Pilder, M. Moore, J. Logan, T. Shenk
+The adenovirus E1B–55K transforming polypeptide modulates transport or cytoplasmic stabilization of viral and host cell mRNAs
+Mol. Cell. Biol, 6 (1986), pp. 470–476
+
+View Record in Scopus | Citing articles (143)
+Querido et al. 1997
+E. Querido, R.C. Marcellus, A. Lai, R. Charbonneau, J.G. Teodoro, G. Ketner, P.E. Branton
+Regulation of p53 levels by the E1B 55-kilodalton protein and E4orf6 in adenovirus-infected cells
+J. Virol, 71 (1997), pp. 3788–3798
+
+View Record in Scopus | Citing articles (172)
+Querido et al. 2001
+E. Querido, P. Blanchette, Q. Yan, T. Kamura, M. Morrison, D. Boivin, W.G. Kaelin, R.C. Conaway, J.W. Conaway, P.E. Branton
+Degradation of p53 by adenovirus E4orf6 and E1B55K proteins occurs via a novel mechanism involving a Cullin-containing complex
+Genes Dev, 15 (2001), pp. 3104–3117
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (278)
+Raj et al. 2001
+K. Raj, P. Ogston, P. Beard
+Virus-mediated killing of cells that lack p53 activity
+Nature, 412 (2001), pp. 914–917
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (125)
+Reid et al. 2002
+T. Reid, E. Galanis, J. Abbruzzese, D. Sze, L.M. Wein, J. Andrews, B. Randlev, C. Heise, M. Uprichard, M. Hatfield et al.
+Hepatic arterial infusion of a replication-selective oncolytic adenovirus (dl1520): Phase II viral, immunologic, and clinical endpoints
+Cancer Res, 62 (2002), pp. 6070–6079
+
+View Record in Scopus | Citing articles (234)
+Ries and Korn 2002
+S. Ries, W.M. Korn
+ONYX-015: Mechanisms of action and clinical potential of a replication-selective adenovirus
+Br. J. Cancer, 86 (2002), pp. 5–11
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (76)
+Ries et al. 2000
+S.J. Ries, C.H. Brandts, A.S. Chung, C.H. Biederer, B.C. Hann, E.M. Lipner, F. McCormick, W.M. Korn
+Loss of p14ARF in tumor cells facilitates replication of the adenovirus mutant dl1520 (ONYX-015)
+Nat. Med, 6 (2000), pp. 1128–1133
+
+View Record in Scopus | Citing articles (161)
+Rothmann et al. 1998
+T. Rothmann, A. Hengstermann, N.J. Whitaker, M. Scheffner, H. zur Hausen
+Replication of ONYX-015, a potential anticancer adenovirus, is independent of p53 status in tumor cells
+J. Virol, 72 (1998), pp. 9470–9478
+
+View Record in Scopus | Citing articles (280)
+Rudin et al. 2003
+C.M. Rudin, E.E. Cohen, V.A. Papadimitrakopoulou, S. Silverman Jr., W. Recant, A.K. El-Naggar, K. Stenson, S.M. Lippman, W.K. Hong, E.E. Vokes
+An attenuated adenovirus, ONYX-015, as mouthwash therapy for premalignant oral dysplasia
+J. Clin. Oncol, 21 (2003), pp. 4546–4552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (95)
+Shen et al. 2001
+Y. Shen, G. Kitzes, J.A. Nye, A. Fattaey, T. Hermiston
+Analyses of single-amino-acid substitution mutants of adenovirus type 5 E1B–55K protein
+J. Virol, 75 (2001), pp. 4297–4307
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (61)
+Sherr and McCormick 2002
+C.J. Sherr, F. McCormick
+The RB and p53 pathways in cancer
+Cancer Cell, 2 (2002), pp. 103–112
+
+Article |  PDF (313 K) | View Record in Scopus | Citing articles (813)
+Shieh et al. 2000
+S.Y. Shieh, J. Ahn, K. Tamai, Y. Taya, C. Prives
+The human homologs of checkpoint kinases Chk1 and Cds1 (Chk2) phosphorylate p53 at multiple DNA damage-inducible sites
+Genes Dev, 14 (2000), pp. 289–300
+
+View Record in Scopus | Citing articles (628)
+Stracker et al. 2002
+T.H. Stracker, C.T. Carson, M.D. Weitzman
+Adenovirus oncoproteins inactivate the Mre11-Rad50–NBS1 DNA repair complex
+Nature, 418 (2002), pp. 348–352
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (266)
+Thomas and White 1998
+A. Thomas, E. White
+Suppression of the p300-dependent mdm2 negative-feedback loop induces the p53 apoptotic function
+Genes Dev, 12 (1998), pp. 1975–1985
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+Turnell et al. 1999
+A.S. Turnell, R.J. Grand, P.H. Gallimore
+The replicative capacities of large E1B-null group A and group C adenoviruses are independent of host cell p53 status
+J. Virol, 73 (1999), pp. 2074–2083
+
+View Record in Scopus | Citing articles (113)
+White et al. 1991
+E. White, R. Cipriani, P. Sabbatini, A. Denton
+Adenovirus E1B 19-kilodalton protein overcomes the cytotoxicity of E1A proteins
+J. Virol, 65 (1991), pp. 2968–2978
+
+View Record in Scopus | Citing articles (165)
+Yu et al. 1999
+J. Yu, L. Zhang, P.M. Hwang, C. Rago, K.W. Kinzler, B. Vogelstein
+Identification and classification of p53-regulated genes
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 14517–14522
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (362)
+Yueh and Schneider 1996
+A. Yueh, R.J. Schneider
+Selective translation initiation by ribosome jumping in adenovirus-infected and heat-shocked cells
+Genes Dev, 10 (1996), pp. 1557–1567
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (135)

@@ -1,0 +1,372 @@
+Simultaneous miRNA and mRNA transcriptome profiling of human myoblasts reveals a novel set of myogenic differentiation-associated miRNAs and their target genes.
+(PMCID:PMC3639941)
+Full Text  This article is available in Europe PMC
+Citations List of citations in Europe PMC which this record is cited by and<br/> those which it cites
+BioEntities Biological entities annotated by the EMBL EBI and NCBI teams
+Related Articles Articles closely related to the current article derived by NCBI <br/>by comparing subject headings and words in the title and abstract
+External Links External Links references added by Providers
+ Logo of bmcgeno
+BMC Genomics. 2013; 14: 265.
+Published online Apr 18, 2013. doi:  10.1186/1471-2164-14-265
+PMCID: PMC3639941
+Simultaneous miRNA and mRNA transcriptome profiling of human myoblasts reveals a novel set of myogenic differentiation-associated miRNAs and their target genes
+Petr Dmitriev,1,2 Ana Barat,1 Anna Polesskaya,5 Mary J O’Connell,4 Thomas Robert,3 Philippe Dessen,3 Thomas A Walsh,4 Vladimir Lazar,1 Ahmed Turki,2 Gilles Carnac,2 Dalila Laoudj-Chenivesse,2 Marc Lipinski,1 and Yegor S Vassetzkycorresponding author1
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+Background
+
+miRNA profiling performed in myogenic cells and biopsies from skeletal muscles has previously identified miRNAs involved in myogenesis.
+
+Results
+
+Here, we have performed miRNA transcriptome profiling in human affinity-purified CD56+ myoblasts induced to differentiate in vitro. In total, we have identified 60 miRNAs differentially expressed during myogenic differentiation. Many were not known for being differentially expressed during myogenic differentiation. Of these, 14 (miR-23b, miR-28, miR-98, miR-103, miR-107, miR-193a, miR-210, miR-324-5p, miR-324-3p, miR-331, miR-374, miR-432, miR-502, and miR-660) were upregulated and 6 (miR-31, miR-451, miR-452, miR-565, miR-594 and miR-659) were downregulated. mRNA transcriptome profiling performed in parallel resulted in identification of 6,616 genes differentially expressed during myogenic differentiation.
+
+Conclusions
+
+This simultaneous miRNA/mRNA transcriptome profiling allowed us to predict with high accuracy target genes of myogenesis-related microRNAs and to deduce their functions.
+
+Keywords: microRNA, Skeletal muscle, Myogenesis, Myoblast
+Go to:
+Background
+MicroRNAs (miRNAs) are 20–25 nt-long non-coding RNAs transcribed predominantly by the RNA polymerase II [1,2]. miRNAs play an important role in regulating gene expression at the protein and mRNA levels. They have been previously shown to inhibit translation initiation and elongation and induce deadenylation and degradation of mRNA (for review see [3]). In addition, there are indications that miRNAs may also activate translation [4].
+
+Along with transcription factors, miRNAs contribute to skeletal myogenesis (for review see [5]). Myogenic microRNAs miR-1, miR-133a/b and miR-206 (also called MyomiRs, as suggested by [6]) regulate myogenic differentiation and proliferation of myogenic cells by targeting important regulators of myogenesis [7,8] (for review see [6,9]). MiR-1 and miR-133a are expressed in both skeletal and cardiac muscles [7,10], while miR-133b and miR-206 are expressed solely in skeletal muscles [10].
+
+Most miRNAs expressed in skeletal muscles are found to be upregulated during myogenesis. These include miR-24 [11], miR-26a [12], miR-27b [13], miR-29b/c [14], miR-143 [15], miR-181 [16], miR-208b/499 [17], miR-214 [18], miR-322/424 and miR-503 [19], miR-486 [20], miR-682 [21]. Only few known miRNAs are involved in the regulation of myogenic differentiation are downregulated during myogenesis. These include miR-125b [22] and miR-221/222 [23] (for review see [5,24,25]).
+
+Altogether, myogenesis-related miRNAs have been studied during myogenic differentiation of human primary myoblasts [14,15,26,27] and in various model systems, e.g. the immortalized murine cell line C2C12 [12,16,20,28], murine primary satellite cells and myogenic progenitor cells [21] as well as quail myoblasts [29]. Several myogenesis-related miRNAs have been discovered or confirmed by expression profiling of developing muscular tissues in humans [30], pigs [31] and in the common carp [32] (Table 1).
+
+Table 1
+Table 1
+microRNAs (MR-miRs) found to be up- and downregulated during myogenic differentiation in this study
+To perform transcriptome profiling of myogenic cells, it appears interesting to use primary myogenic cells cultivated in vitro rather than whole muscle tissues. This approach minimizes biases caused by the presence of inflammatory, connective tissue-derived and other non-myogenic cells. Nevertheless, totally avoiding contamination by non-myogenic cells is difficult unless clonal populations of immortalized myogenic cells are used. An alternative to generating immortalized lines of myogenic cells is the utilization of primary cell population enriched for myogenic precursors. However, in previous miRNA and mRNA expression profiling reports, primary skeletal myoblasts cultivated in vitro have not been enriched for myogenic cells prior to analysis.
+
+In the present study, we have thus decided to profile miRNA expression in cultures of CD56+ primary myoblasts and myotubes isolated from healthy individuals using an affinity purification procedure [35]. A total of 60 miRNAs were found to be differentially expressed during myogenic differentiation induced by serum starvation of which 20 had not been previously associated with myogenesis. In addition, we have performed microarray mRNA transcriptome profiling on the same myoblasts and myotubes samples as used for miRNA expression profiling in order to assign targets for these miRNAs.
+
+Go to:
+Results
+Identification of new myogenesis-related MIRNA (MRMIRNA) in human primary myoblasts
+
+To identify new myogenesis-related miRNAs in human cells, CD56+ myogenic precursors were isolated from skeletal muscle biopsies of six healthy individuals (Additional file 1). These were then induced to differentiate in vitro using serum starvation and the progression of myogenic differentiation was monitored by following the expression of Myogenin (MYOG) and other myogenic differentiation markers including ID1, TNNT1, TNNT2, MYL4, COL15A1, VIM and CAV1 (Figure 1A). The disappearance of proliferating cells and concomitant emergence of myotubes was monitored using Ki67 staining and microscopic observation (Figure 1B and C).
+
+Figure 1
+Figure 1
+Expression of myogenic differentiation markers and miRNA profiling. A. Expression of muscle differentiation markers MYOG (myogenin, myogenic factor 4, p-value=0.0016), TNNT1 (Troponin T type 1, skeletal slow, p-value=0.00064), MYL4 (myosine light chain ...
+We observed a statistically significant difference of the expression levels of myogenesis-related markers in proliferating or differentiated myogenic cells isolated from different healthy subjects. This difference was considered as a natural heterogeneity of gene expression levels in different subjects that might be explained by their age, sex, physical activity or diet preferences, therefore, all samples analyzed were included in the study.
+
+The expression of 365 different microRNAs was then profiled in human primary myoblasts and myotubes using TaqMan Low Density Array (TLDA) (Additional file 2). In total, 60 miRNAs were found to be differentially expressed during myogenic differentiation with p-values ranging from 3.4x10-5 to 5x10-2 (Figure 2). These will be referred to as myogenesis-related miRNAs (MR-miRs). Sequences and corresponding TaqMan probe codes for these microRNAs can be found in the Additional file 3.
+
+Figure 2
+Figure 2
+miRNA profiling in proliferating myoblasts (left) and differentiated myotubes (right). Out of 365 miRNAs tested, this table shows 60 miRNAs that were differentially expressed in myotubes as compared to myoblasts. Gray levels indicates the expression level ...
+The majority (43 out of 60) of MR-miRs were found to be upregulated of which 14 had not been previously reported as involved in the regulation of myogenesis either in humans or in other species (Table 1). Of the 17 MR-miRs that were found to be downregulated during myogenesis, 6 had not been previously associated with myogenic differentiation.
+
+MRNA transcriptome profiling and functional classification of differentially expressed genes
+
+Until now, mRNA expression profiling of human myoblasts has been performed exclusively on primary cells [36]. However, primary skeletal myoblasts have not been enriched for myogenic cells prior to analysis. To avoid analyzing mixed populations of myoblasts and non-myogenic cells, we have used RNA extracted from CD56+ myoblasts purified from muscular tissues. Then, using Agilent transcriptome 44 K microarrays, we identified 6,616 differentially expressed genes of which 3,445 and 3,245 were down- or up-regulated, respectively (Additional file 4). In most cases, a functional class could be assigned to these transcripts using the DAVID Gene Ontology database (Additional file 5) [37,38].
+
+In agreement with previous reports, the majority of upregulated genes were found to control metabolism, myogenesis, insulin receptor signaling or to positively regulate transcription (Table 2). Genes involved in the control of cell cycle, DNA damage response, angiogenesis, cell motility and invasion as well as protein modification and NF-kB signaling belonged to the group of genes downregulated during myogenic differentiation (Table 2). Genes involved in the regulation of ubiquitination/proteolysis, protein transport/localization, transcription regulation and apoptosis were found to be either up- or down-regulated (Table 3). The complete list of genes found to be differentially expressed during in vitro myogenic differentiation of human primary myoblasts can be found in the Additional file 4.
+
+Table 2
+Table 2
+Specific functional classes of genes differentially expressed during myogenic differentiation
+Table 3
+Table 3
+Common functional classes unifying genes up- and downregulated during myogenic differentiation
+Predication of myogenesis-related MIRNA target genes
+
+A common practice to boost target gene predictions accuracy is to use several prediction algorithms and then to combine their predictions. However, this approach has been proved inefficient [39]. Therefore, we have used a single algorithm, e.g. RNA22 [40] to predict miRNA targets. RNA22 has been chosen for its low rate of false-positive predictions as compared to other algorithms [39]. For each miRNA, the number of target predictions varied between 261 and 3,058.
+
+According to previous reports, the proportion of correct predictions can be as low as 10% [41,42] (for recent review see [43]. To increase the accuracy of bioinformatic predictions, we used a simultaneous mRNA/miRNA expression profiling approach described in [42,44,45]. Based on the fact that MiRNA regulate gene expression by inhibiting translation or inducing deadenylation of mRNAs followed by their degradation (for review see [46,47]), we reasoned that the expression levels of mRNA and miRNA should be inversely correlated if one regulates the other. Indeed, for upregulated MR-miRNA, the majority of their predicted target genes was found to be underexpressed. Similarly, most downregulated MR-miRNAs had upregulated predicted targets. Indeed, for every microRNA tested, the distribution of Pearson correlation coefficients of its predicted target genes was shifted towards negative values. This was the case neither for randomly selected genes, nor when the sample correspondence was permuted (Figure 3A and the Additional file 6) which was used to establish a significance threshold of Pearson correlation coefficients. Target genes with correlation coefficients below the threshold had less than 5% chances to be random. We call these genes “supported targets” to underscore the fact that the prediction was supported by mRNA transcriptome profiling (Additional file 7). On average, 11% of microRNA target genes predicted by the RNA22 algorithm were “supported” by mRNA transcriptome profiling (Figure 3B).
+
+Figure 3
+Figure 3
+Bioinformatic predictions of microRNA target genes. A. Density plot of Pearson correlation coefficients between expression of miRNA and their target genes (continuous line) predicted by RNA22 algorithm. Number of genes is expressed as% of total predictions ...
+We then compared the accuracy of predictions made by RNA22 and TargetScan, another popular miRNA target prediction algorithm. As an indication of accuracy, we have used a percentage of predicted targets that were supported by transcriptome data. For 11 of 17 target genes, RNA22 demonstrated higher percentage of predictions supported by transcriptome data, for 2 more microRNAs the difference in the accuracy of predictions was insignificant (Figure 3C and Additional file 8).
+
+QRT-PCR validation of supported MIRNA target genes
+
+To demonstrate the relevance of our miRNA target predictions, we altered the expression of several microRNAs and measured the expression of their predicted target genes, supported by the transcriptome data. To illustrate the impact of miRNA repression on the expression of their target genes, we have chosen to inhibit the expression of four well-characterized myogenic microRNAs miR-1, -133a, -133b and -206 in human immortalized myoblasts using LNA (Locked Nucleic Acids) antisense microRNAs (anti-miRs). Human immortalized myoblasts were differentiated in vitro and then transfected separately with anti-miRs targeting miR-1, miR-133a, miR-133b and miR-206. miR-1 and miR-206 have the same seed sequence and, therefore, target very similar lists of genes. The same is true for miR-133a and miR-133b. We have then randomly selected 12 and 10 genes predicted to be targeted by miR-1/206 and miR-133a/b respectively and supported by our transcriptome data and tested their expression using qRT-PCR in the cells transfected with corresponding anti-miRs. Repressing miR-1/206 resulted in the upregulation of six of its targets: AP3D1 (adaptor-related proteins complex 3, delta 1 subunit), COL3A1 (collagen, type III, alpha 1), HDAC1 (histone deacetylase 1), PDCD4 (programmed cell death 4), PRKAB2 (protein kinase, AMP-activated beta 2 non-catalytic subunit) and ZNF365 (zinc finger protein 365). These target genes were considered as novel “qRT-PCR validated” target genes of miR-1 and -206 (Figures 4A). Six other target genes supported by our transcriptome data including ATP2B1, C11orf45, FOXP, G2E3, MBOAT7 and TUBB could not be validated via qRT-PCR experimentally, as we did not observe significant changes of their expression following anti-miR transfection (data not shown).
+
+Figure 4
+Figure 4
+Confirmation of bioinformatic predictions of miR targets. Human immortalized myoblasts (iMyo) cultivated in growth medium (P) or differentiation medium for 3 days (D) were transfected with either control LNA (anti-miR-C) or LNA against miR-1 and ...
+In the case of miR-133a and -133b, immortalized myotube transfection anti-miRs resulted in the upregulation of six of ten randomly selected target genes, supported by our transcriptome data. These novel qRT-PCR validated targets of miR-133a and -133b include ASAP2 (ArfGAP with SH3 domain, ankyrin repeat and PH domain 2), ARFGAP1 (ADP-ribosylation factor GTPase activating protein 1), ATP1A2 (ATPase, Na+/K+ transporting, alpha 2 polypeptide), C7orf51 (chromosome 7 open reading frame 51), RBM15B (RNA binding motif protein 15B) and TMCC2 (transmembrane and coiled-coil domain family 2) (Figures 4B). Four other target genes supported by our transcriptome data including LMCD1, NAT9, PRPF38A and SYNGR2 could not be validated via qRT-PCR, as we did not observed significant changes of their expression following anti-miR transfection (data not shown).
+
+To illustrate the impact of miRNA overexpression on the expression of their target genes, we have selected two microRNAs, miR-30 and -128, that were previously shown to be upregulated during myogenic differentiation [26,27], but their function in myogenesis is not well-established. Two plasmids coding for the corresponding pre-miRNAs or scrambled sequence were transfected separately into human rhabdomyosarcoma cells, and the expression of their target genes was then tested via qRT-PCR. Ectopic overexpression of miR-128 led to the downregulation of three of its four target genes, randomly selected among the genes supported by our transcriptome data. These novel qRT-PCR validated miR-128 target genes include EDARADD (EDAR-associated death domain), CAV1 (Caveolin 1) and DTYMK (deoxythymidylate kinase) (Figures 4C). One transcriptome-supported miR-128 target gene, RBM15B, could not be validated using qRT-PCR, as we did not observed significant changes in its expression level following miRNA precursor tranfection (data not shown).
+
+Similarly, overexpressing miR-30 led to the downregulation of three of its five randomly selected transcriptome-supported targets. These qRT-PCR validated miR-30 targets include PLXNB (plexin B2), C11orf45 (chromosome 11 open reading frame 45) and ATP2B1 (ATPase, Ca++ transporting, plasma membrane 1) (Figures 4D). Two remaining miR-30 target genes, PPIA and CASD1 could not be validated via qRT-PCR, as we did not observed significant changes in its expression level following miRNA precursor transfection (data not shown).
+
+Overall, at least 50% of the supported target genes tested in this study appeared to be regulated by their corresponding microRNA either directly or indirectly which is significantly better than the result of ordinary bioinformatic prediction with only 10% of correctly predicted target genes.
+
+Functional analysis of MR-MIRNA target genes supported by transcrptome data
+
+After functional classification of genes differentially expressed during myogenic differentiation in vitro, we thought to determine the proportion of microRNA-controlled genes within each functional class. Almost 30% of all protein coding genes contain miRNA seeds in their 3′UTRs and are, therefore, potential miRNA targets [48]. Indeed, we have found that a significant proportion of genes differentially expressed during myogenic differentiation appeared to be controlled by microRNAs. However, the proportion of genes targeted by microRNAs was not the same within different functional classes. For example, 50% to 55% of genes related to angiogenesis and NF-kB signaling were potentially targeted by miRNAs, while in the case of myogenesis, potential miRNA targets represented only 8.6% of genes (Table 2). Interestingly, more miRNA targets were found among downregulated than upregulated genes. For example, among apoptosis-related genes, 17.6% of upregulated and 38.4% of downregulated genes were found to be targeted by miRNAs (Table 3). This observation prompted us to search for known functions of each supported target gene of every MR-miRNA described in this study using DAVID functional annotation tool [37,38].
+
+miR-1 and miR-206
+
+It has been previously demonstrated that miR-1 and -206 target genes linked to the regulation of chromatin modifications [8], transcription [20,49] and cell cycle [50]. Functional analysis of predicted miR-1 target genes supported by transcriptome data indicated that these microRNAs might also target genes involved in the regulation of apoptosis, DNA damage response, cell motility and protein modification, cell signaling and kinase activity [33]. Our own functional analysis of predicted target genes of miR-1 and -206 supported by transcriptome analysis confirmed that miR-1 and miR-206 might target genes involved in in these biological processes. In addition, miRNA-1 and -206 might target genes implicated in cytoskeleton organization, ubiquitination and nucleotide biosynthesis (Figure 5, Additional file 9).
+
+Figure 5
+Figure 5
+Predicted functions of MR-miRs. Green: functions downregulated during myogenic differentiation, Red: functions upregulated during myogenic differentiation. Yellow: functions that are both up- and downregulated during myogenic differentiation. Framed are ...
+miR-21
+
+It has been demonstrated that miR-21 targets genes involved in in apoptosis [51,52] and regulation of kinase activity [53-56] and regulation of gene expression [57]. Here we confirm that miR-21 might target genes involved in these biological processes and might also target genes involved in transport, cell cycle regulation, chromatin assembly, protein modification, NF-kB signaling, protein complex assembly and DNA damage (Figure 5, Additional file 9).
+
+miR-24
+
+It has been demonstrated that miR-24 is involved in DNA damage response [58,59], regulation of cell cycle progression [59,60], regulation of kinase activity and protein phosphorylation [61], transcription [62] and apoptosis [63]. We confirm that miR-24 might control genes implicated in these biological processes. In addition, miR-24 might control genes implicated in the regulation of transport , NF-kB signaling, protein ubiquitination and complex assembly, RNA splicing and chromatin modification (Figure 5, Additional file 9).
+
+miR-26a
+
+It has been previously demonstrated that miR-26a target genes are implicated in cell cycle control [64], apoptosis [65], regulation of kinase activity and protein phosphorylation [66], as well as chromatin modification [12]. Here we confirm that miR-26a might target genes involved in the regulation of cell cycle, apoptosis, kinase activity and protein phosphorylation, but not in chromatin modification. In addition, miR-26a might target genes involved in the regulation of transport, DNA damage response, protein modification and protein complex assembly, as well as nucleotide biosynthesis and RNA splicing (Figure 5, Additional file 9).
+
+miR-27a
+
+miR-27b is involved in the regulation of transcription by inhibiting the expression of various transcription factors [13,67-70]. Here we confirm the role of miR-27b as an important transcriptional regulator, in addition, our predictions suggest that miR-27a might be involved in the regulation of intracellular transport, apoptosis, kinase activity, protein complex assembly, cytoskeleton organization and other biological functions including DNA damage response, cell cycle, motility, nucleotide biosynthesis and protein phosphorylation (Figure 5, Additional file 9).
+
+miR-30c
+
+miR-30 was shown to induce apoptosis [71] and regulate cell motility by influencing extracellular the matrix remodelling process [72-74]. This microRNA is also known to regulate protein modification e.g. sumoylation [75] and transcription [72,73,76,77]. We here confirm that miR-30c might target genes participate in the regulation of apoptosis and cell motility regulation but not transcription control. Instead, our predictions suggest that miR-30 might target genes involved in the regulation of protein phosphorylation and kinase activity, cell cycle control, intracellular transport, cytoskeleton organization, protein ubiquitination, DNA damage response and nucleotide biosynthesis (Figure 5, Additional file 9).
+
+miR-128b
+
+It has been previously demonstrated that miR-128b targets genes involved in the regulation of cell cycle [78,79], transcription [78,79] and apoptosis [79,80]. In addition, transcriptome analysis of cell transfected with miR-128 revealed an alteration of the expression of genes implicated in cytoskeleton organization, kinase activity and protein phosphorylation [81]. Here we confirm the target genes of miR-128 might be involved in these biological functions. In addition, our predictions suggest that miR-128 might target genes in DNA damage response, transport, protein modification and ubiquitination and cell motility (Figure 5, Additional file 9).
+
+miR-133a and miR-133b
+
+Previously, these microRNAs have been shown to control genes involved in the regulation of transcription [8,82], cytoskeleton structure [83-87], apoptosis [88] and mRNA splicing [89]. Here we confirm that miR-133a/b might target genes involved in these biological functions. In addition, miR-133a/b might target genes involved in intracellular transport, cell cycle regulation, DNA damage response, protein phosphorylation and ubiquitination (Figure 5, Additional file 9).
+
+miR-204
+
+It has been previously shown that miR-204 is involved in the regulation of transcription [90-92], controls cell migration cytoskeleton organization [92-94]. miR-204 has been also shown to be involved in regulation of apoptosis by targeting multiple genes [95] and in the regulation of cell signaling [94], [96]. Here we confirm that miR-204 might target genes involved in transcription regulation, cytoskeleton organization and apoptosis but not cell signaling and cell migration. Furthermore, our predictions suggest that this microRNA might target genes involved in the control of ubiquitination, cellular respiration and intracellular transport (Figure 5, Additional file 9).
+
+miR-221 and miR-222
+
+Previously, these microRNAs have been show to target genes involved in the process of protein degradation [97], apoptosis [98], kinase activity [99,100], cell cycle progression [29] and cell motility [101]. We here confirm that miR-221 and -222 might target genes involved in protein degradation (via ubiquitination), apoptosis, and kinase activity regulation, but not cell cycle progression or cell motility. In addition, miR-221 and -222 might also target genes that play a role in the regulation of transcription, insulin signaling, intracellular transport and cellular respiration (Figure 5, Additional file 9).
+
+miR-550
+
+No target genes and functions of this microRNA were not previously described. Our predictions suggest that miR-550 might target genes involved in the regulation of transcription, protein ubiquitination, phosphate metabolism, apoptosis, insulin signaling, muscle development, intracellular transport and cellular morphology (Figure 5, Additional file 9).
+
+The full list of supported target genes of MR-miRs with and without assigned functions can be found in the Additional file 7.
+
+Go to:
+Discussion and conclusion
+MicroRNAs, particularly miR-1, -206 and -133a/b, play crucial roles in myogenesis [6]. These are called MyomiRs to underscore their importance in myogenesis (for review see [24]). Previously, high-throughput profiling of miRNA expression performed in human myoblasts have resulted in identification of miRNAs differentially expressed during myogenic differentiation [26,27]. Besides that, a larger number of miRNAs have been found to be differentially expressed during myogenic differentiation of mouse C2C12 myoblasts [19,28], mouse myogenic progenitors [18,21] or at various stages of development of skeletal muscles in pig [31] or in the common carp [32].
+
+Here, we have compared miRNA expression profiles in human proliferating primary CD56+ myoblasts and differentiated myotubes. Sixty differentially expressed miRNAs were identified (MR-miRs). Twenty of these had not been previously implicated in myogenesis. Conversely, several miRNAs previously reported as related to myogenic differentiation were not identified in the present study. These included miR-214 [18], hsa-miR-424 (identical to mmu-miR-322) [19], miR-29b/c [14], miR-143, miR-208a [15], miR-208b, miR-499 [17], miR-125b [102] (Additional file 10). One miRNA, miR-682, previously shown to be upregulated in mouse myogenic precursors [21] could not be tested here. The difficulties to confirm previously reported data for several miRNAs associated with myogenesis in model organisms could be due to species-specific characteristics in the myogenesis program or could originate from differences in experimental conditions. Indeed, high-throughput miRNA expression profiling has been previously performed using mixed cell populations isolated from skeletal myoblasts [26,27]. The resulting presence of non-myogenic cells, including fibroblasts and inflammatory cells, could have altered the resulting miRNA expression profiles. It thus appears that the existing repertoire of myogenic miRNAs is still incomplete or contaminated with miRNAs unrelated to myogenesis. For example, we have demonstrated that miR-221 and miR-222 were downregulated during myogenic differentiation of human myoblasts while others reported their upregulation [26]. Our results are in agreement with previous reports demonstrating that these microRNAs are downregulated during myogenesis in mice [28,29].
+
+In addition to microRNA expression profiling, we have profiled mRNA expression in myogenic cells in the course of myogenic differentiation. Transcriptome analysis of myogenesis has been previously reported by others. In mice, several models have been used for transcriptome profiling. These include C2C12 immortalized cell line considered as the “golden standard” of in vitro myogenic differentiation [103-107], primary mouse myoblasts [108] and an in vivo model of muscle regeneration following injury [109]. In humans, the only published mRNA expression profiling has been performed on primary cells grown in vitro[36]. The transcriptome profiling of human myoblasts in the course of myogenic differentiation in vitro described here, has two important advantages over the previously published study. Firstly, we used CD56+ myogenic cells that allowed us to exclude from the analysis genes unrelated to myogenesis. Secondly, our study is the first example of a simultaneous miRNA/mRNA expression profiling of myogenic cells.
+
+Simultaneous miRNA/mRNA was used here to identify novel target genes of myogenesis-related microRNAs. This approach has been proven efficient for increasing the precision of bioinformatics predictions for miRNA targets [42], and it has been applied previously to identify miRNA target genes in neural tissue [45] and cancer cell lines [44,110], but not in myogenic cells or muscle tissue.
+
+Several methods are used to validate the target genes of miRNA. These include qRT-PCR, luciferase assays and western blot (for review see [111] and [112]). Luciferase assay based on a reporter plasmid containing miRNA recognition sites in the 3′ UTR of the luciferase gene is the method used to demonstrate the direct inhibition of mRNA expression by miRNA. However this method does not provide information as to whether the miRNA-dependent regulation occurs at the level of transcript stability or at the level of translation, nor the direct miRNA:mRNA interaction demonstrated by this method does guarantee the physiological significance of the observed miRNA effect. Here, to validate the predicted target genes, we have used qRT-PCR validation approach. This method is more physiological than luciferase assay as it measures the expression of target gene from their natural genomic context, although it can not discriminate between direct and indirect effects of miRNA expression. Hereby, we have randomly selected 32 genes targeted by 6 different microRNAs including miR-1, -206, -133a, -133b, -128 and -30 and tested their expression using pRT-PCR in the cells where corresponding microRNA was ectopically overexpressed or inhibited. We have demonstrated the miRNA-dependent inhibition for 18 of these target genes. We called these genes “qRT-PCR validated” to formally distinguish them from simply “validated”, as the latter term is usually reserved for miRNA target genes validated using luciferase reporters.
+
+On average, we estimate that the lists of predicted target genes supported by transcriptome data contain at least 50% of genes that will change their expression, according to our predictions, in response to the alterations of microRNA expression.
+
+Using the lists of target genes supported by transcriptome data we have deduced functional impact of MR-miRs using DAVID functional annotation tool [37,38]. Our predictions generally corresponded to already known functions of MR-miRs demonstrated by others, but also allowed us to make suggestions about novel functions of MR-miRs. It has to be noted, that these predictions have to be handled with caution for two reasons: (i) according to our estimation, among target genes supported by transcriptome analysis, up to 50% might not react to miRNA alteration, as predicted; (ii) the functions of MR-miR have been deduced using bioinformatic prediction algorithms that can not substitute for a true experimental validation of microRNA functions.
+
+To summarize, we have discovered 20 human miRNAs not previously known to be differentially expressed during myogenic differentiation and confirmed 40 myogenesis-related microRNAs. We then used an approach that included a simultaneous miRNA/mRNA expression profiling to predict targets genes of these microRNAs with more than 50% accuracy, although whether these are direct or indirect targets of miRNA remains unknown. Finally, we deduced novel functions of these microRNA from the known functions of their target genes. Further studies are necessary to confirm our predictions of functional contribution of newly discovered miRNAs to the process of myogenic differentiation.
+
+Go to:
+Methods
+Cell culture conditions and transfection
+
+Primary human myoblasts were isolated from skeletal muscles of healthy subjects as described in [35], for details see Additional file 4: Table S4), purified with an immuno-magnetic sorting system (Miltenyi Biotec, USA) using an anti-CD56/NCAM antibody according to the manufacturer’s instructions. CD56-positive myoblasts were seeded in collagen-coated Petri dishes (P1) and cultured in DMEM, 10% FCS, 1% Ultroser G, at 37°C with 5% CO2.All experiments were carried out between P1 and P5 to avoid cell senescence. Myoblast purity was determined by staining for Desmin. Purified myoblasts were plated in collagen-coated Petri dishes and cultured in growth medium containing DMEM supplemented with 20% fetal bovine serum at 37°C in humidified atmosphere with 5% CO2. Myogenic differentiation of confluent cells was induced after 5 days by changing to DMEM containing 2% FBS (differentiation medium). Cells were kept in differentiation medium for 3 days. Myogenic fusion index at day three was 37-70%. Human immortalized myoblasts (iMyo) (kind gift of Dr. V. Mouly) were grown and differentiated as described in [113]. RD and TE671 (a kind gift of Dr. S. Leibowitz) were grown as described [114]. phrGFP-1 vector was from Stratagen, pcDNA3.2/V5 hsa-mir-128 (#26308) [115] and pCMV-miR30 (#20875) [116] vectors were provided by Addgene. Transient transfection of RD cells was performed in 6-well plate format using Lipofectamine 2000 according to manufacturer’s instructions with minor modification: 600.000 cells were added to the transfection mixture prepared directly in the cell culture plate. To transfect human immortallized myoblasts, anti-sense LNA inhibitors of miR-1, -206, 133a and b, and the irrelevant control were purchased from Exiqon (Denmark) and were mixed with LipoRNAiMAX (Invitrogen) in 6-well plates at 100nM final concentration, using 500 000 cells per well.
+
+Reverse transcription and real-time PCR
+
+For microRNA expression analysis 400 ng of total RNA purified via Trizol (Invitrogen) was converted into cDNA using 8 independent pools of primers (#4384791, Applied Biosystems, AB) and TaqMan microRNA Reverse transcription kit (#4366596, AB). cDNA was quantified using via qPCR using TaqMan 2x Universal PCR Master Mix, No AmpErase UNG (#4324018, AB) and human microRNA panel version 1.0 TLDA (TaqMan Low Density Array, AB), data were acquired on AB7900HT Real-Time PCR machine. Sequences of microRNAs and corresponding codes of TaqMan assays can be found in Additional file 2. For mRNA expression analysis total RNA was isolated from 2x106 proliferating myoblasts, or differentiated myotubes using Trizol (Invitrogen) and reverse transcribed using the High Capacity cDNA Archive kit (Applied Biosystems, AB) according to the manufacturer protocol. cDNA was mixed with 2x Taqman PCR mix (AB) and amplified customized TLDA (TaqMan Low Density Array) using Abiprism 7900HT apparatus (AB). In case of miRNA and mRNA the expression level was calculated from Ct values using ΔΔCt method using GAPDH as a control [117]. The calculation of SEM in case of average of multiple samples has been done as described in [118].
+
+Transcriptome profiling and data processing
+
+Human primary myoblasts were sacrificed directly on plates at 30% confluency using Trizol, RNA was prepared using organic extraction and ethanol precipitation as described [119] followed by silica column cleanup on silica columns (Nucleospin RNA Extraction kit, Macherey Nagel). RNA extracted from individual myoblast lines was Cy5-labeled, mixed with with a pool of RNA samples labeled with Cy3 and hybridized to Gene Expression microarrays (4x44k #G4112F Agilent) and scanned as instructed by the manufacturer. Scanned images were then analysed using the Feature Extraction Software (Agilent), the subsequent gene expression data treatment was performed using R and Bioconductor. Spots with intensity lower than 50 or lower than background in more than 50% of biological replicates have been removed from further analysis. The background correction and intensity normalization procedures were applied for the remaining ~30 000 probes using the Bioconductor package vsn [120]. A background offset and a scaling factor for each array and dye channel were calculated using the least squares regression procedure, then the generalized log-transformation was applied. The ordinary least squares regression approach is based on the assumption that “most genes are not differentially expressed”. However, in the case of myogenic differentiation, where many genes are differentially expressed, this assumption does not hold. Therefore, to apply the above mentioned approach to myogenic differentiation, the vsn least squares model has first been applied to a subset of features, and then extended for the whole set of features. To select the subset of features, a pool of samples prepared from five different proliferating myoblast lines before and after myogenic differentiation were hybridized to two additional microarrays. Then 14.358 features that did not exceed the cutoff value of 1.23 fold change between the pools have been selected. To determine the differentially expressed genes, a t-test analysis was conducted using the limma package from Bioconductor [120]. Using this package, a linear model is fitted to the expression data for each gene. An empirical Bayes moderation of the standard errors were performed. This method borrows information across genes in order to arrive at more stable estimates of each individual gene’s variance, even for experiments with small number of arrays. The microarray data related to this paper have been submitted to the Array Express data repository at the European Bioinformatics Institute (http://www.ebi.ac.uk/arrayexpress) under the accession number E-MTAB-1577 (release date 2014-3-22).
+
+miRNA targets predictions
+
+RNA22 [40] and TargetScan algorithms [121] have been used to predict miRNA target genes in this study. miRNA targets identified by RNA22 have been downloaded from the RNA22 website http://cbcsrv.watson.ibm.com/rna22.html. Predictions were processed in the form of 3′UTR binding sites occurrence matrices, containing the number of 3′UTR binding sites for each combination of miRNA (columns) and mRNA (rows).
+
+Pearson correlation between mRNA and miRNA expression profiles and permutation tests for significance
+
+All the following has been performed using the R software. Pearson correlation values were computed using expression levels of each single transcript available and for each miRNA, found to be differentially expressed during myogenic differentiation in this study. Pearson correlation values were retained for further analysis, if they were corresponding to miRNA and mRNA pares having at least one occurrence in at least one of the two 3′UTR binding sites occurrence matrices. To distinguish between biologically significant and random correlations, we performed a permutation test. We performed nine different permutations by calculating correlation values using a miRNA table with permuted sample designations. Then, the distribution of the real and permuted data were graphically plotted. For each miRNA, the 5% percentile of the Pearson correlation obtained with the permuted data was used as a threshold (th) for selecting biologically significant target genes. For each differentially expressed miRNA, the Pearson correlation value is compared to th and if smaller, the gene is retained as a biologically significant target gene regulated by the miRNA, with a 5% risk of error.
+
+Go to:
+Competing interests
+The authors declare that they have no competing interests.
+
+Go to:
+Authors’ contributions
+YSV and PDm designed the experiments, PDm, AP, TR, TAW, VL, AT, GC and DL-C performed the experiments, PDm, AB, MO’C and PDe conducted bioinformatic analysis of the data, YSV, PDm and ML wrote the manuscript. All authors read and approved the final manuscript.
+
+Go to:
+Supplementary Material
+Additional file 1: Table S1:
+Samples of myogenic cells used in the study were isolated from six healthy subjects.
+
+Click here for file(37K, docx)
+Additional file 2: Table S2:
+Results of miRNA expression analysis using TaqMan low density arrays.
+
+Click here for file(33K, xlsx)
+Additional file 3: Table S3:
+Sequences of mature microRNAs and corresponding TaqMan probes used in this study.
+
+Click here for file(22K, xlsx)
+Additional file 4: Table S4:
+mRNAs differentially expressed during myogenic differentiation of human primary myoblasts.
+
+Click here for file(761K, xlsx)
+Additional file 5: Table S5:
+Functional classification of genes differentially expressed during myogenic differentiation.
+
+Click here for file(905K, xlsx)
+Additional file 6: Figure S1:
+A. Density plot of Pearson correlation coefficients between expression of miRNA and their target genes (continuous line) predicted by RNA22 algorithm and the the density plot of Pearson correlation coefficient after permutation of the list of microRNAs (dashed line). B. Schematic representation of ectopic overexpression/knockdown of miRNA in the cells that served to confirm their targets genes supported by transcriptome data.
+
+Click here for file(248K, pdf)
+Additional file 7: Table S6:
+Target genes of microRNAs differentially expressed during myogenic differentiation, supported by transcriptome analysis of mRNA expression.
+
+Click here for file(224K, xlsx)
+Additional file 8: Figure S2A:
+Density plot of Pearson correlation coefficients between expression of miRNA and their target genes (blue) predicted by TargetScan algorithm and the density plot of Pearson correlation coefficient after permutation of the list of microRNAs (red). B. Diagram showing the proportion of bioinformatic predictions made by TargetScan algorithm (taken for 100%) that were supported by transcriptome profiling (black). Blue bars show unsupported predictions.
+
+Click here for file(420K, pdf)
+Additional file 9: Table S8:
+Functions of miRNA target genes supported by transcriptome data. Functional classification has been performed using DAVID functional annotation tool.
+
+Click here for file(118K, pdf)
+Additional file 10: Table S7:
+microRNAs that were previously shown to be differentially expressed during myogenesis but could not be confirmed in the present study.
+
+Click here for file(37K, docx)
+Go to:
+Acknowledgements
+This research was supported by grants from the Association Française contre les Myopathies (AFM) to YSV and DL PD is co-funded by the University Montpellier I and the association “Amis FSH”.
+
+Go to:
+References
+Kim VN, Nam JW. Genomics of microRNA. Trends Genet. 2006;14(3):165–173. [PubMed]
+Olena AF, Patton JG. Genomic organization of microRNAs. J Cell Physiol. 2010;14(3):540–545. [PubMed]
+Valencia-Sanchez MA, Liu J, Hannon GJ, Parker R. Control of translation and mRNA degradation by miRNAs and siRNAs. Genes Dev. 2006;14(5):515–524. [PubMed]
+Vasudevan S, Tong Y, Steitz JA. Switching from repression to activation: microRNAs can up-regulate translation. Science (New York, NY. 2007;14(5858):1931–1934. [PubMed]
+Callis TE, Deng Z, Chen JF, Wang DZ. Muscling through the microRNA world. Experimental biology and medicine (Maywood, NJ. 2008;14(2):131–138. [PubMed]
+McCarthy JJ. MicroRNA-206: the skeletal muscle-specific myomiR. Biochim Biophys Acta. 2008;14(11):682–691. [PMC free article] [PubMed]
+Zhao Y, Samal E, Srivastava D. Serum response factor regulates a muscle-specific microRNA that targets Hand2 during cardiogenesis. Nature. 2005;14(7048):214–220. [PubMed]
+Chen JF, Mandel EM, Thomson JM, Wu Q, Callis TE, Hammond SM, Conlon FL, Wang DZ. The role of microRNA-1 and microRNA-133 in skeletal muscle proliferation and differentiation. Nat Genet. 2006;14(2):228–233. [PMC free article] [PubMed]
+Townley-Tilson WH, Callis TE, Wang D. MicroRNAs 1, 133, and 206: critical factors of skeletal and cardiac muscle development, function, and disease. Int J Biochem Cell Biol. 2009;14(8):1252–1255. [PMC free article] [PubMed]
+Rao PK, Kumar RM, Farkhondeh M, Baskerville S, Lodish HF. Myogenic factors that regulate expression of muscle-specific microRNAs. Proc Natl Acad Sci USA. 2006;14(23):8721–8726. [PMC free article] [PubMed]
+Sun Q, Zhang Y, Yang G, Chen X, Zhang Y, Cao G, Wang J, Sun Y, Zhang P, Fan M. Transforming growth factor-beta-regulated miR-24 promotes skeletal muscle differentiation. Nucleic Acids Res. 2008;14(8):2690–2699. [PMC free article] [PubMed]
+Wong CF, Tellam RL. MicroRNA-26a targets the histone methyltransferase Enhancer of Zeste homolog 2 during myogenesis. J Biol Chem. 2008;14(15):9836–9843. [PubMed]
+Crist CG, Montarras D, Pallafacchina G, Rocancourt D, Cumano A, Conway SJ, Buckingham M. Muscle stem cell behavior is modified by microRNA-27 regulation of Pax3 expression. Proc Natl Acad Sci USA. 2009;14(32):13383–13387. [PMC free article] [PubMed]
+Wang H, Garzon R, Sun H, Ladner KJ, Singh R, Dahlman J, Cheng A, Hall BM, Qualman SJ, Chandler DS. NF-kappaB-YY1-miR-29 regulatory circuitry in skeletal myogenesis and rhabdomyosarcoma. Cancer Cell. 2008;14(5):369–381. [PubMed]
+Sempere LF, Freemantle S, Pitha-Rowe I, Moss E, Dmitrovsky E, Ambros V. Expression profiling of mammalian microRNAs uncovers a subset of brain-expressed microRNAs with possible roles in murine and human neuronal differentiation. Genome Biol. 2004;14(3):R13. [PMC free article] [PubMed]
+Naguibneva I, Ameyar-Zazoua M, Polesskaya A, Ait-Si-Ali S, Groisman R, Souidi M, Cuvellier S, Harel-Bellan A. The microRNA miR-181 targets the homeobox protein Hox-A11 during mammalian myoblast differentiation. Nat Cell Biol. 2006;14(3):278–284. [PubMed]
+van Rooij E, Quiat D, Johnson BA, Sutherland LB, Qi X, Richardson JA, Kelm RJ Jr, Olson EN. A family of microRNAs encoded by myosin genes governs myosin expression and muscle performance. Dev Cell. 2009;14(5):662–673. [PMC free article] [PubMed]
+Juan AH, Kumar RM, Marx JG, Young RA, Sartorelli V. Mir-214-dependent regulation of the polycomb protein Ezh2 in skeletal muscle and embryonic stem cells. Mol Cell. 2009;14(1):61–74. [PMC free article] [PubMed]
+Sarkar S, Dey BK, Dutta A. MiR-322/424 and -503 are induced during muscle differentiation and promote cell cycle quiescence and differentiation by down-regulation of Cdc25A. Mol Biol Cell. 2010;14(13):2138–2149. [PMC free article] [PubMed]
+Dey BK, Gagan J, Dutta A. miR-206 and -486 induce myoblast differentiation by downregulating Pax7. Mol Cell Biol. 2011;14(1):203–214. [PMC free article] [PubMed]
+Chen Y, Gelfond J, McManus LM, Shireman PK. Temporal MicroRNA Expression during in vitro Myogenic Progenitor Cell Proliferation and Differentiation: Regulation of Proliferation by miR-682. Physiol Genomics. 2011;14:621–630. [PMC free article] [PubMed]
+Ge Y, Sun Y, Chen J. IGF-II is regulated by microRNA-125b in skeletal myogenesis. J Cell Biol. 2011;14(1):69–81. [PMC free article] [PubMed]
+le Sage C, Nagel R, Egan DA, Schrier M, Mesman E, Mangiola A, Anile C, Maira G, Mercatelli N, Ciafre SA. Regulation of the p27(Kip1) tumor suppressor by miR-221 and miR-222 promotes cancer cell proliferation. EMBO J. 2007;14(15):3699–3708. [PMC free article] [PubMed]
+Ge Y, Chen J. MicroRNAs in skeletal myogenesis. Cell cycle (Georgetown, Tex. 2011;14(3):441–448. [PMC free article] [PubMed]
+Guller I, Russell AP. MicroRNAs in skeletal muscle: their role and regulation in development, disease and function. J Physiol. 2010;14(Pt 21):4075–4087. [PMC free article] [PubMed]
+Ciarapica R, Russo G, Verginelli F, Raimondi L, Donfrancesco A, Rota R, Giordano A. Deregulated expression of miR-26a and Ezh2 in rhabdomyosarcoma. Cell cycle (Georgetown, Tex. 2009;14(1):172–175. [PubMed]
+Granjon A, Gustin MP, Rieusset J, Lefai E, Meugnier E, Guller I, Cerutti C, Paultre C, Disse E, Rabasa-Lhoret R. The microRNA signature in response to insulin reveals its implication in the transcriptional action of insulin in human skeletal muscle and the role of a sterol regulatory element-binding protein-1c/myocyte enhancer factor 2C pathway. Diabetes. 2009;14(11):2555–2564. [PMC free article] [PubMed]
+Sun Y, Ge Y, Drnevich J, Zhao Y, Band M, Chen J. Mammalian target of rapamycin regulates miRNA-1 and follistatin in skeletal myogenesis. J Cell Biol. 2010;14(7):1157–1169. [PMC free article] [PubMed]
+Cardinali B, Castellani L, Fasanaro P, Basso A, Alema S, Martelli F, Falcone G. Microrna-221 and microrna-222 modulate differentiation and maturation of skeletal muscle cells. PLoS One. 2009;14(10):e7607. [PMC free article] [PubMed]
+Koutsoulidou A, Mastroyiannopoulos NP, Furling D, Uney JB, Phylactou LA. Expression of miR-1, miR-133a, miR-133b and miR-206 increases during development of human skeletal muscle. BMC Dev Biol. 2011;14:34. [PMC free article] [PubMed]
+Zhou B, Liu HL, Shi FX, Wang JY. MicroRNA expression profiles of porcine skeletal muscle. Anim Genet. 2010;14(5):499–508. [PubMed]
+Yan X, Ding L, Li Y, Zhang X, Liang Y, Sun X, Teng CB. Identification and profiling of microRNAs from skeletal muscle of the common carp. PLoS One. 2012;14(1):e30925. [PMC free article] [PubMed]
+Marzi MJ, Puggioni EM, Dall’Olio V, Bucci G, Bernard L, Bianchi F, Crescenzi M, Di Fiore PP, Nicassio F. Differentiation-associated microRNAs antagonize the Rb-E2F pathway to restrict proliferation. J Cell Biol. 2012;14(1):77–95. [PMC free article] [PubMed]
+Seok HY, Tatsuguchi M, Callis TE, He A, Pu WT, Wang DZ. miR-155 inhibits expression of the MEF2A protein to repress skeletal muscle differentiation. J Biol Chem. 2011;14(41):35339–35346. [PMC free article] [PubMed]
+Barro M, Carnac G, Flavier S, Mercier J, Vassetzky Y, Laoudj-Chenivesse D. Myoblasts from affected and non-affected FSHD muscles exhibit morphological differentiation defects. J Cell Mol Med. 2010;14(1–2):275–289. [PMC free article] [PubMed]
+Sterrenburg E, Turk R, Hoen PA T, Van Deutekom JC, Boer JM, Van Ommen GJ, Den Dunnen JT. Large-scale gene expression analysis of human skeletal myoblast differentiation. Neuromuscul Disord. 2004;14(8–9):507–518. [PubMed]
+da Huang W, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat Protoc. 2009;14(1):44–57. [PubMed]
+da Huang W, Sherman BT, Lempicki RA. Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res. 2009;14(1):1–13. [PMC free article] [PubMed]
+Ritchie W, Flamant S, Rasko JE. Predicting microRNA targets and functions: traps for the unwary. Nat Methods. 2009;14(6):397–398. [PubMed]
+Miranda KC, Huynh T, Tay Y, Ang YS, Tam WL, Thomson AM, Lim B, Rigoutsos I. A pattern-based method for the identification of MicroRNA binding sites and their corresponding heteroduplexes. Cell. 2006;14(6):1203–1217. [PubMed]
+Alexiou P, Maragkakis M, Papadopoulos GL, Reczko M, Hatzigeorgiou AG. Lost in translation: an assessment and perspective for computational microRNA target identification. Bioinformatics. 2009;14(23):3049–3055. [PubMed]
+Huang JC, Babak T, Corson TW, Chua G, Khan S, Gallie BL, Hughes TR, Blencowe BJ, Frey BJ, Morris QD. Using expression profiling data to identify human microRNA targets. Nat Methods. 2007;14(12):1045–1049. [PubMed]
+Huang Y, Zou Q, Song H, Song F, Wang L, Zhang G, Shen X. A study of miRNAs targets prediction and experimental validation. Protein Cell. 2010;14(11):979–986. [PubMed]
+Wang YP, Li KB. Correlation of expression profiles between microRNAs and mRNA targets using NCI-60 data. BMC Genomics. 2009;14:218. [PMC free article] [PubMed]
+Nunez-Iglesias J, Liu CC, Morgan TE, Finch CE, Zhou XJ. Joint genome-wide profiling of miRNA and mRNA expression in Alzheimer’s disease cortex reveals altered miRNA regulation. PLoS One. 2010;14(2):e8898. [PMC free article] [PubMed]
+Sayed D, Abdellatif M. MicroRNAs in development and disease. Physiol Rev. 2011;14(3):827–887. [PubMed]
+Bartel DP. MicroRNAs: target recognition and regulatory functions. Cell. 2009;14(2):215–233. [PubMed]
+Lewis BP, Burge CB, Bartel DP. Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets. Cell. 2005;14(1):15–20. [PubMed]
+Chen JF, Tao Y, Li J, Deng Z, Yan Z, Xiao X, Wang DZ. microRNA-1 and microRNA-206 regulate skeletal muscle satellite cell proliferation and differentiation by repressing Pax7. J Cell Biol. 2010;14(5):867–879. [PMC free article] [PubMed]
+Kim HK, Lee YS, Sivaprasad U, Malhotra A, Dutta A. Muscle-specific microRNA miR-206 promotes muscle differentiation. J Cell Biol. 2006;14(5):677–687. [PMC free article] [PubMed]
+Frankel LB, Christoffersen NR, Jacobsen A, Lindow M, Krogh A, Lund AH. Programmed cell death 4 (PDCD4) is an important functional target of the microRNA miR-21 in breast cancer cells. J Biol Chem. 2008;14(2):1026–1033. [PubMed]
+Yao Q, Xu H, Zhang QQ, Zhou H, Qu LH. MicroRNA-21 promotes cell proliferation and down-regulates the expression of programmed cell death 4 (PDCD4) in HeLa cervical carcinoma cells. Biochem Biophys Res Commun. 2009;14(3):539–542. [PubMed]
+Kim YJ, Hwang SJ, Bae YC, Jung JS. MiR-21 regulates adipogenic differentiation through the modulation of TGF-beta signaling in mesenchymal stem cells derived from human adipose tissue. Stem cells (Dayton, Ohio) 2009;14(12):3093–3102. [PubMed]
+Roy S, Khanna S, Hussain SR, Biswas S, Azad A, Rink C, Gnyawali S, Shilo S, Nuovo GJ, Sen CK. MicroRNA expression in response to murine myocardial infarction: miR-21 regulates fibroblast metalloprotease-2 via phosphatase and tensin homologue. Cardiovasc Res. 2009;14(1):21–29. [PMC free article] [PubMed]
+Talotta F, Cimmino A, Matarazzo MR, Casalino L, De Vita G, D’Esposito M, Di Lauro R, Verde P. An autoregulatory loop mediated by miR-21 and PDCD4 controls the AP-1 activity in RAS transformation. Oncogene. 2009;14(1):73–84. [PubMed]
+Hatley ME, Patrick DM, Garcia MR, Richardson JA, Bassel-Duby R, van Rooij E, Olson EN. Modulation of K-Ras-dependent lung tumorigenesis by MicroRNA-21. Cancer Cell. 2010;14(3):282–293. [PMC free article] [PubMed]
+Iliopoulos D, Jaeger SA, Hirsch HA, Bulyk ML, Struhl K. STAT3 activation of miR-21 and miR-181b-1 via PTEN and CYLD are part of the epigenetic switch linking inflammation to cancer. Mol Cell. 2010;14(4):493–506. [PMC free article] [PubMed]
+Srivastava N, Manvati S, Srivastava A, Pal R, Kalaiarasan P, Chattopadhyay S, Gochhait S, Dua R, Bamezai RN. miR-24-2 controls H2AFX expression regardless of gene copy number alteration and induces apoptosis by targeting antiapoptotic gene BCL-2: a potential for therapeutic intervention. Breast Cancer Res. 2011;14(2):R39. [PMC free article] [PubMed]
+Lal A, Navarro F, Maher CA, Maliszewski LE, Yan N, O’Day E, Chowdhury D, Dykxhoorn DM, Tsai P, Hofmann O. miR-24 Inhibits cell proliferation by targeting E2F2, MYC, and other cell-cycle genes via binding to “seedless” 3′UTR microRNA recognition elements. Mol Cell. 2009;14(5):610–625. [PMC free article] [PubMed]
+To KH, Pajovic S, Gallie BL, Theriault BL. Regulation of p14ARF expression by miR-24: a potential mechanism compromising the p53 response during retinoblastoma development. BMC Cancer. 2012;14:69. [PMC free article] [PubMed]
+Dogar AM, Towbin H, Hall J. Suppression of latent transforming growth factor (TGF)-beta1 restores growth inhibitory TGF-beta signaling through microRNAs. J Biol Chem. 2011;14(18):16447–16458. [PMC free article] [PubMed]
+Melkman-Zehavi T, Oren R, Kredo-Russo S, Shapira T, Mandelbaum AD, Rivkin N, Nir T, Lennox KA, Behlke MA, Dor Y. miRNAs control insulin content in pancreatic beta-cells via downregulation of transcriptional repressors. EMBO J. 2011;14(5):835–845. [PMC free article] [PubMed]
+Singh R, Saini N. Downregulation of BCL2 by miRNAs augments drug induced apoptosis: Combined computational and experimental approach. J Cell Sci. 2012. [PubMed]
+Singh R, Saini N. Downregulation of BCL2 by miRNAs augments drug induced apoptosis: Combined computational and experimental approach. J Cell Sci. 2012;14(6):1568–1578. [PubMed]
+Zhu Y, Lu Y, Zhang Q, Liu JJ, Li TJ, Yang JR, Zeng C, Zhuang SM. MicroRNA-26a/b and their host genes cooperate to inhibit the G1/S transition by activating the pRb protein. Nucleic Acids Res. 2011;14(10):4615–4625. [PMC free article] [PubMed]
+Huse JT, Brennan C, Hambardzumyan D, Wee B, Pena J, Rouhanifard SH, Sohn-Lee C, le Sage C, Agami R, Tuschl T. The PTEN-regulating microRNA miR-26a is amplified in high-grade glioma and facilitates gliomagenesis in vivo. Genes Dev. 2009;14(11):1327–1337. [PMC free article] [PubMed]
+Chinchilla A, Lozano E, Daimi H, Esteban FJ, Crist C, Aranega AE, Franco D. MicroRNA profiling during mouse ventricular maturation: a role for miR-27 modulating Mef2c expression. Cardiovasc Res. 2011;14(1):98–108. [PubMed]
+Nishi H, Ono K, Horie T, Nagao K, Kinoshita M, Kuwabara Y, Watanabe S, Takaya T, Tamaki Y, Takanabe-Mori R. MicroRNA-27a regulates beta cardiac myosin heavy chain gene expression by targeting thyroid hormone receptor beta1 in neonatal rat ventricular myocytes. Mol Cell Biol. 2011;14(4):744–755. [PMC free article] [PubMed]
+Lee JJ, Drakaki A, Iliopoulos D, Struhl K. MiR-27b targets PPARgamma to inhibit growth, tumor progression and the inflammatory response in neuroblastoma cells. Oncogene. 2011;14(33):3818–3825. [PMC free article] [PubMed]
+Guttilla IK, White BA. Coordinate regulation of FOXO1 by miR-27a, miR-96, and miR-182 in breast cancer cells. J Biol Chem. 2009;14(35):23204–23216. [PMC free article] [PubMed]
+Yu F, Deng H, Yao H, Liu Q, Su F, Song E. Mir-30 reduction maintains self-renewal and inhibits apoptosis in breast tumor-initiating cells. Oncogene. 2010;14(29):4194–4204. [PubMed]
+Joglekar MV, Patil D, Joglekar VM, Rao GV, Reddy DN, Mitnala S, Shouche Y, Hardikar AA. The miR-30 family microRNAs confer epithelial phenotype to human pancreatic cells. Islets. 2009;14(2):137–147. [PubMed]
+Braun J, Hoang-Vu C, Dralle H, Huttelmaier S. Downregulation of microRNAs directs the EMT and invasive potential of anaplastic thyroid carcinomas. Oncogene. 2010;14(29):4237–4244. [PubMed]
+Duisters RF, Tijsen AJ, Schroen B, Leenders JJ, Lentink V, Van Der Made I, Herias V, Van Leeuwen RE, Schellings MW, Barenbrug P. miR-133 and miR-30 regulate connective tissue growth factor: implications for a role of microRNAs in myocardial matrix remodeling. Circ Res. 2009;14(2):170–178. 176p following 178. [PubMed]
+Wu F, Zhu S, Ding Y, Beck WT, Mo YY. MicroRNA-mediated regulation of Ubc9 expression in cancer cells. Clin Cancer Res. 2009;14(5):1550–1557. [PMC free article] [PubMed]
+Zaragosi LE, Wdziekonski B, Brigand KL, Villageois P, Mari B, Waldmann R, Dani C, Barbry P. Small RNA sequencing reveals miR-642a-3p as a novel adipocyte-specific microRNA and miR-30 as a key regulator of human adipogenesis. Genome Biol. 2011;14(7):R64. [PMC free article] [PubMed]
+Zhang J, Zhang H, Liu J, Tu X, Zang Y, Zhu J, Chen J, Dong L, Zhang J. miR-30 inhibits TGF-beta1-induced epithelial-to-mesenchymal transition in hepatocyte by targeting Snail1. Biochem Biophys Res Commun. 2012;14(3):1100–1105. [PubMed]
+Zhang Y, Chao T, Li R, Liu W, Chen Y, Yan X, Gong Y, Yin B, Liu W, Qiang B. MicroRNA-128 inhibits glioma cells proliferation by targeting transcription factor E2F3a. Journal of molecular medicine (Berlin, Germany) 2009;14(1):43–51. [PubMed]
+Donzelli S, Fontemaggi G, Fazi F, Di Agostino S, Padula F, Biagioni F, Muti P, Strano S, Blandino G. MicroRNA-128-2 targets the transcriptional repressor E2F5 enhancing mutant p53 gain of function. Cell Death Differ. 2011;14(6):1038–1048. [PMC free article] [PubMed]
+Adlakha YK, Saini N. MicroRNA-128 downregulates Bax and induces apoptosis in human embryonic kidney cells. Cell Mol Life Sci. 2011;14(8):1415–1428. [PubMed]
+Guidi M, Muinos-Gimeno M, Kagerbauer B, Marti E, Estivill X, Espinosa-Parrilla Y. Overexpression of miR-128 specifically inhibits the truncated isoform of NTRK3 and upregulates BCL2 in SH-SY5Y neuroblastoma cells. BMC Mol Biol. 2010;14:95. [PMC free article] [PubMed]
+Li Z, Hassan MQ, Volinia S, van Wijnen AJ, Stein JL, Croce CM, Lian JB, Stein GS. A microRNA signature for a BMP2-induced osteoblast lineage commitment program. Proc Natl Acad Sci USA. 2008;14(37):13906–13911. [PMC free article] [PubMed]
+Yoshino H, Chiyomaru T, Enokida H, Kawakami K, Tatarano S, Nishiyama K, Nohata N, Seki N, Nakagawa M. The tumour-suppressive function of miR-1 and miR-133a targeting TAGLN2 in bladder cancer. Br J Cancer. 2011;14(5):808–818. [PMC free article] [PubMed]
+Kawakami K, Enokida H, Chiyomaru T, Tatarano S, Yoshino H, Kagara I, Gotanda T, Tachiwada T, Nishiyama K, Nohata N. The functional significance of miR-1 and miR-133a in renal cell carcinoma. Eur J Cancer. 2011;14(6):827–836. [PubMed]
+Chiyomaru T, Enokida H, Tatarano S, Kawahara K, Uchida Y, Nishiyama K, Fujimura L, Kikkawa N, Seki N, Nakagawa M. miR-145 and miR-133a function as tumour suppressors and directly regulate FSCN1 expression in bladder cancer. Br J Cancer. 2010;14(5):883–891. [PMC free article] [PubMed]
+Chiyomaru T, Enokida H, Kawakami K, Tatarano S, Uchida Y, Kawahara K, Nishiyama K, Seki N, Nakagawa M. Functional role of LASP1 in cell viability and its regulation by microRNAs in bladder cancer. Urol Oncol. 2010;14(4):434–443. [PubMed]
+Rao PK, Missiaglia E, Shields L, Hyde G, Yuan B, Shepherd CJ, Shipley J, Lodish HF. Distinct roles for miR-1 and miR-133a in the proliferation and differentiation of rhabdomyosarcoma cells. FASEB J. 2010;14(9):3427–3437. [PMC free article] [PubMed]
+Uchida Y, Chiyomaru T, Enokida H, Kawakami K, Tatarano S, Kawahara K, Nishiyama K, Seki N, Nakagawa M. MiR-133a induces apoptosis through direct regulation of GSTP1 in bladder cancer cell lines. Urol Oncol. 2011;14(1):115–123. [PubMed]
+Boutz PL, Chawla G, Stoilov P, Black DL. MicroRNAs regulate the expression of the alternative splicing factor nPTB during muscle development. Genes Dev. 2007;14(1):71–84. [PMC free article] [PubMed]
+Zhang Y, Xie RL, Croce CM, Stein JL, Lian JB, van Wijnen AJ, Stein GS. A program of microRNAs controls osteogenic lineage progression by targeting transcription factor Runx2. Proc Natl Acad Sci USA. 2011;14(24):9863–9868. [PMC free article] [PubMed]
+Huang J, Zhao L, Xing L, Chen D. MicroRNA-204 regulates Runx2 protein expression and mesenchymal progenitor cell differentiation. Stem cells (Dayton, Ohio) 2010;14(2):357–364. [PMC free article] [PubMed]
+Chung TK, Lau TS, Cheung TH, Yim SF, Lo KW, Siu NS, Chan LK, Yu MY, Kwong J, Doran G. Dysregulation of microRNA-204 mediates migration and invasion of endometrial cancer by regulating FOXC1. Int J Cancer. 2012. [PubMed]
+Lam EK, Wang X, Shin VY, Zhang S, Morrison H, Sun J, Ng EK, Yu J, Jin H. A microRNA contribution to aberrant Ras activation in gastric cancer. American journal of translational research. 2011;14(2):209–218. [PMC free article] [PubMed]
+Wang FE, Zhang C, Maminishkis A, Dong L, Zhi C, Li R, Zhao J, Majerciak V, Gaur AB, Chen S. MicroRNA-204/211 alters epithelial physiology. FASEB J. 2010;14(5):1552–1571. [PMC free article] [PubMed]
+Li G, Luna C, Qiu J, Epstein DL, Gonzalez P. Role of miR-204 in the regulation of apoptosis, endoplasmic reticulum stress response, and inflammation in human trabecular meshwork cells. Invest Ophthalmol Vis Sci. 2011;14(6):2999–3007. [PMC free article] [PubMed]
+Courboulin A, Paulin R, Giguere NJ, Saksouk N, Perreault T, Meloche J, Paquet ER, Biardel S, Provencher S, Cote J. Role for miR-204 in human pulmonary arterial hypertension. J Exp Med. 2011;14(3):535–548. [PMC free article] [PubMed]
+Lu Y, Roy S, Nuovo G, Ramaswamy B, Miller T, Shapiro C, Jacob ST, Majumder S. Anti-microRNA-222 (anti-miR-222) and -181B suppress growth of tamoxifen-resistant xenografts in mouse by targeting TIMP3 protein and modulating mitogenic signal. J Biol Chem. 2011;14(49):42292–42302. [PMC free article] [PubMed]
+Zhang CZ, Zhang JX, Zhang AL, Shi ZD, Han L, Jia ZF, Yang WD, Wang GX, Jiang T, You YP. MiR-221 and miR-222 target PUMA to induce cell survival in glioblastoma. Mol Cancer. 2010;14:229. [PMC free article] [PubMed]
+Poliseno L, Tuccoli A, Mariani L, Evangelista M, Citti L, Woods K, Mercatanti A, Hammond S, Rainaldi G. MicroRNAs modulate the angiogenic properties of HUVECs. Blood. 2006;14(9):3068–3071. [PubMed]
+Rao X, Di Leva G, Li M, Fang F, Devlin C, Hartman-Frey C, Burow ME, Ivan M, Croce CM, Nephew KP. MicroRNA-221/222 confers breast cancer fulvestrant resistance by regulating multiple signaling pathways. Oncogene. 2011;14(9):1082–1097. [PMC free article] [PubMed]
+Quintavalle C, Garofalo M, Zanca C, Romano G, Iaboni M, Del Basso De Caro M, Martinez-Montero JC, Incoronato M, Nuovo G, Croce CM. miR-221/222 overexpession in human glioblastoma increases invasiveness by targeting the protein phosphate PTPmu. Oncogene. 2012;14(7):858–868. [PubMed]
+Polesskaya A, Cuvellier S, Naguibneva I, Duquet A, Moss EG, Harel-Bellan A. Lin-28 binds IGF-2 mRNA and participates in skeletal myogenesis by increasing translation efficiency. Genes Dev. 2007;14(9):1125–1138. [PMC free article] [PubMed]
+Tomczak KK, Marinescu VD, Ramoni MF, Sanoudou D, Montanaro F, Han M, Kunkel LM, Kohane IS, Beggs AH. Expression profiling and identification of novel genes involved in myogenic differentiation. FASEB J. 2004;14(2):403–405. [PubMed]
+Shen X, Collier JM, Hlaing M, Zhang L, Delshad EH, Bristow J, Bernstein HS. Genome-wide examination of myoblast cell cycle withdrawal during differentiation. Dev Dyn. 2003;14(1):128–138. [PubMed]
+Delgado I, Huang X, Jones S, Zhang L, Hatcher R, Gao B, Zhang P. Dynamic gene expression during the onset of myoblast differentiation in vitro. Genomics. 2003;14(2):109–121. [PubMed]
+Kuninger D, Kuzmickas R, Peng B, Pintar JE, Rotwein P. Gene discovery by microarray: identification of novel genes induced during growth factor-mediated muscle cell survival and differentiation. Genomics. 2004;14(5):876–889. [PubMed]
+Moran JL, Li Y, Hill AA, Mounts WM, Miller CP. Gene expression changes during mouse skeletal myoblast differentiation revealed by transcriptional profiling. Physiol Genomics. 2002;14(2):103–111. [PubMed]
+Porter JD, Israel S, Gong B, Merriam AP, Feuerman J, Khanna S, Kaminski HJ. Distinctive morphological and gene/protein expression signatures during myogenesis in novel cell lines from extraocular and hindlimb muscle. Physiol Genomics. 2006;14(3):264–275. [PubMed]
+Goetsch SC, Hawke TJ, Gallardo TD, Richardson JA, Garry DJ. Transcriptional profiling and regulation of the extracellular matrix during muscle regeneration. Physiol Genomics. 2003;14(3):261–271. [PubMed]
+Ruike Y, Ichimura A, Tsuchiya S, Shimizu K, Kunimoto R, Okuno Y, Tsujimoto G. Global correlation analysis for micro-RNA and mRNA expression profiles in human cell lines. J Hum Genet. 2008;14(6):515–523. [PubMed]
+Thomson DW, Bracken CP, Goodall GJ. Experimental strategies for microRNA target identification. Nucleic Acids Res. 2011;14(16):6845–6853. [PMC free article] [PubMed]
+Kuhn DE, Martin MM, Feldman DS, Terry AV Jr, Nuovo GJ, Elton TS. Experimental validation of miRNA targets. Methods (San Diego, Calif. 2008;14(1):47–54. [PMC free article] [PubMed]
+Zhu CH, Mouly V, Cooper RN, Mamchaoui K, Bigot A, Shay JW, Di Santo JP, Butler-Browne GS, Wright WE. Cellular senescence in human myoblasts is overcome by human telomerase reverse transcriptase and cyclin-dependent kinase 4: consequences in aging muscle and therapeutic strategies for muscular dystrophies. Aging Cell. 2007;14(4):515–523. [PubMed]
+Petrov AV, Allinne J, Pirozhkova IV, Laoudj D, Lipinski M, Vassetzky YS. A nuclear matrix attachment site in the 4q35 locus has an enhancer-blocking activity in vivo: implications for the facio-scapulo-humeral dystrophy. Genome Res. 2008;14(1):39–45. [PMC free article] [PubMed]
+Chiang HR, Schoenfeld LW, Ruby JG, Auyeung VC, Spies N, Baek D, Johnston WK, Russ C, Luo S, Babiarz JE. Mammalian microRNAs: experimental evaluation of novel and previously annotated genes. Genes Dev. 2010;14(10):992–1009. [PMC free article] [PubMed]
+Zeng Y, Cullen BR. Sequence requirements for micro RNA processing and function in human cells. RNA (New York, NY. 2003;14(1):112–123. [PMC free article] [PubMed]
+Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method. Methods. 2001;14(4):402–408. [PubMed]
+Muller PY, Janovjak H, Miserez AR, Dobbie Z. Processing of gene expression data generated by quantitative real-time RT-PCR. Biotechniques. 2002;14(6):1372–1374. 1376, 1378–1379. [PubMed]
+Chomczynski P, Sacchi N. The single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction: twenty-something years on. Nat Protoc. 2006;14(2):581–585. [PubMed]
+Smyth GK. In: Bioinformatics and Computational Biology Solutions unsing R and Bioconductor. Gentleman R, Carey V, Dudoit S, Huber W, editor. New York: Springer; 2005. Limma: linear models for microarray data; pp. 397–420.
+Lewis BP, Shih IH, Jones-Rhoades MW, Bartel DP, Burge CB. Prediction of mammalian microRNA targets. Cell. 2003;14(7):787–798. [PubMed]

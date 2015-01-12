@@ -1,0 +1,732 @@
+The GATA2 Transcriptional Network Is Requisite for RAS Oncogene-Driven Non-Small Cell Lung Cancer
+Madhu S. Kumar1, David C. Hancock1, 8, Miriam Molina-Arcas1, 8, Michael Steckel1, Phillip East2, Markus Diefenbacher3, Elena Armenteros-Monterroso1, François Lassailly4, Nik Matthews5, Emma Nye6, Gordon Stamp6, Axel Behrens3, Julian Downward1, 7, Corresponding author contact information, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.cell.2012.02.059
+Under an Elsevier user license
+  Open Archive
+Summary
+Non-small cell lung cancer (NSCLC) is the most frequent cause of cancer deaths worldwide; nearly half contain mutations in the receptor tyrosine kinase/RAS pathway. Here we show that RAS-pathway mutant NSCLC cells depend on the transcription factor GATA2. Loss of GATA2 reduced the viability of NSCLC cells with RAS-pathway mutations, whereas wild-type cells were unaffected. Integrated gene expression and genome occupancy analyses revealed GATA2 regulation of the proteasome, and IL-1-signaling, and Rho-signaling pathways. These pathways were functionally significant, as reactivation rescued viability after GATA2 depletion. In a Kras-driven NSCLC mouse model, Gata2 loss dramatically reduced tumor development. Furthermore, Gata2 deletion in established Kras mutant tumors induced striking regression. Although GATA2 itself is likely undruggable, combined suppression of GATA2-regulated pathways with clinically approved inhibitors caused marked tumor clearance. Discovery of the nononcogene addiction of KRAS mutant lung cancers to GATA2 presents a network of druggable pathways for therapeutic exploitation.
+
+Graphical Abstract
+Full-size image (33 K)
+Figure options
+Highlights
+► GATA2 is essential for RAS-pathway mutant non-small cell lung cancer (NSCLC) ► Gene expression and ChIP-seq studies reveal a GATA2 transcriptional network in NSCLC ► Gata2 loss suppresses tumor growth in autochthonous models of Kras mutant NSCLC ► Combined drug inhibition of GATA2-regulated pathways suppresses Kras mutant tumors
+
+Introduction
+Lung cancer is the most prevalent cancer type worldwide by both diagnosis and mortality, with non-small cell lung cancer (NSCLC) featuring as the most common histological subtype (Ferlay et al., 2010). Among NSCLC patients, the most frequently mutated oncogenes are the RAS family of GTPases and various receptor tyrosine kinases (RTKs), constituting nearly half of all NSCLCs. Though mutations in the RAS family in human cancers have been known for 30 years, therapeutic targeting of RAS has so far proven intractable. Moreover, although tyrosine kinase inhibitors exhibit striking efficacy in NSCLC patients with mutant RTKs, patients inevitably develop therapeutic resistance. Thus, novel therapies are needed to target RAS-pathway mutant NSCLCs.
+
+One potentially promising approach has been to target pathways acting downstream of RAS: combined inhibition of ERK and PI 3-kinase pathways with small-molecule inhibitors can impair the growth of Kras mutant mouse lung tumors ( Engelman et al., 2008). Moving beyond direct RAS effectors, several groups have screened for factors and pathways necessary for KRAS mutant cancer cell survival. An initial candidate was the TANK-binding kinase 1 (TBK1), found in a short hairpin RNA (shRNA) screen of the kinome ( Barbie et al., 2009). In RAS mutant cells, RalB activates TBK1, which maintains survival through activation of the NF-κB pathway, a signaling cascade found to be necessary in a mouse model of mutant Kras-driven NSCLC ( Chien et al., 2006 and Meylan et al., 2009).
+
+Beyond antiapoptotic factors, several groups have found targets that promote KRAS mutant cancers via maintenance of cellular proliferation. One of the initial mutant KRAS synthetic lethal shRNA screens found mitotic regulators to be specifically necessary for mutant cell fitness ( Luo et al., 2009). Conversely, Barbacid and colleagues found that both human cancer cells and a mutant Kras mouse model depend on the G1/S regulator Cdk4 ( Puyol et al., 2010). Moreover, functional analysis of an oncogenic KRAS expression signature revealed the Wilms' tumor gene WT1 to be required in mutant KRAS cells via regulation of cellular senescence ( Vicent et al., 2010). In sum, these studies suggest a broad role for cell-cycle control in oncogenic KRAS-mediated tumorigenesis.
+
+Although these investigations suggest various candidates for RAS-pathway mutant dependency in NSCLC, several important issues require deeper investigation. First, it is unclear whether these factors are required only in KRAS mutant cancer cells or more broadly in cancers that activate the RAS-signaling pathways, like activated RTKs or inactivated RAS GTPase-activating proteins (GAPs). Second, these candidates have generally focused on single processes upon which KRAS mutant cancer cells might depend. Single targeting of candidates and pathways will likely only transiently suppress tumorigenesis due to the development of resistance. Consequently, combination treatments that inhibit multiple dependencies might prove a more efficacious therapeutic route. Third, although these targets were shown to be required in mutant cancer cells, the effect of whole-body loss of these targets in the context of the tumor has in many cases not been described. Because any potential therapeutic agent will likely operate throughout the patient, it is important to determine what toxicities might be presented by target inhibition in the organismal milieu. In addition, the previous in vivo studies described have generally focused on tumor development—the effect on forming the tumor in the absence of the target—and not on the more clinically relevant issue of tumor maintenance—the effect of disabling the target in a preformed tumor. Finally, most of the previously described screens, though generating candidate factors for drug development, have not provided novel therapeutic strategies derived from clinically licensed inhibitors. Considering the significant time required for drug development and testing, it would be intriguing to envisage therapeutic regimens with compounds already in clinical use.
+
+Here we describe the transcription factor GATA2 as required for the survival of RAS-pathway mutant NSCLC. Both in vitro and in vivo, loss of GATA2 reduces mutant NSCLC cell line viability. Combined gene expression and chromatin occupancy analysis reveals a broad network of pathways controlled by GATA2 in RAS-pathway mutant NSCLC cells. These pathways are salient to GATA2-mediated survival, as their reactivation restores viability in response to GATA2 depletion. Furthermore, Gata2 is required for Kras mutant tumorigenesis in an autochthonous mouse model, and whole-organism loss of Gata2 induces regression of established Kras mutant lung tumors without drastic toxicities. Finally, combined inhibition of GATA2-regulated pathways with clinically available inhibitors recapitulates the effect of GATA2 loss, causing a robust suppression of established Kras mutant NSCLC and providing an immediately applicable therapeutic strategy for RAS-pathway mutant NSCLC.
+
+Results
+KRAS Mutant NSCLC Cells Specifically Require GATA2 for Survival
+To discover novel genes necessary in KRAS mutant cancer cells, we performed an RNA interference (RNAi) screen targeting some 7,000 human genes in a panel of KRAS mutant and wild-type (WT) cancer cells. Among other factors (including KRAS itself), we found that loss of the transcription factor GATA2 led to a decrease in KRAS mutant cell viability and an increase in apoptosis (M.S., M.M.-A., D.C.H., and J.D., unpublished data). To extend these findings, we analyzed 26 NSCLC cell lines, of which 14 were KRAS mutant and 12 were WT. Short-term GATA2 knockdown led to specific decreased cell viability and increased apoptosis in KRAS mutant NSCLC cells, comparable to the effect seen with loss of KRAS itself ( Figure 1A and Figure S1A available online). Comparison of expression across the panel revealed no significant differences in GATA2 expression between mutant and WT cells (data not shown). Interestingly, the relative effect of GATA2 loss on viability correlated with the extent of GATA2 knockdown in mutant but not WT cells ( Figure S1B). Moreover, there was a modest relationship between the effect of GATA2 knockdown and that of KRAS knockdown in mutant but not WT cells (p < 0.05 for KRAS mutant cells by Pearson's correlation). Also, comparison of the effect of GATA2 depletion in the panel with other frequent mutations in NSCLC (such as TP53, STK11, and CDKN2A) revealed no significant delineations, emphasizing the specific role for mutant KRAS in GATA2 dependency ( Figure S1C). Taken together, these findings suggest that KRAS mutant NSCLC cells depend upon GATA2 for survival.
+
+Full-size image (76 K)
+Figure 1. 
+GATA2 Is Required in RAS-Pathway Mutant NSCLC
+(A) Fourteen KRAS mutant and twelve KRAS WT NSCLC lines were transfected with control siRNA, siRNA targeting GATA2, or siRNA targeting KRAS. Cell titer blue and APO-one assays were used to measure viability and apoptosis, respectively. ∗p < 0.05.
+(B) KRAS mutant (A549), EGFR mutant (PC9), and WT (H322M) NSCLC cells were transfected with control siRNA (RISC-free), KRAS siRNA, or GATA2 siRNA. Cell numbers were counted 72 hr later.
+(C) shRNAs targeting GAPDH (shGAPDH) and GATA2 (shGATA2.1 and shGATA2.2) were infected into A549 and PC9 cells, followed by western blotting for GATA2 and tubulin.
+(D) ShRNA-infected A549, PC9, and H322M cells were plated, and cell numbers were counted as above.
+(E) Western blotting was performed on shRNA-infected A549 and PC9 cells for cleaved PARP.
+See also Figure S1.
+Figure options
+Full-size image (105 K)
+Figure S1. 
+GATA2 Is Broadly Necessary for Survival of Oncogene-Driven NSCLC, Related to Figure 1
+(A) Table of relative viabilities and apoptosis values for NSCLC panel in Figure 1A. KRAS mutant cells (KRAS mut) are listed in blue, whereas WT cells (KRAS WT) are listed in red.
+(B) The NSCLC panel from Figure 1A was transfected with control siRNA or siRNA targeting GATA2. Viability was assessed by Cell Titer Blue as in Figure 1A, and GATA2 knockdown was examined by qRT-PCR. Correlation was performed for KRAS mutant cells (KRAS mut, in blue) and WT cells (KRAS WT, in red). Statistical analysis was performed using Pearson's correlation testing. ∗∗∗p < 0.0005.
+(C) Chart showing the relative viabilities of the NSCLC panel transfected with siRNAs targeting KRAS (siKRAS, in dark blue) or GATA2 (siGATA2, in light blue) as in Figure 1A. Mutational status for KRAS, TP53, STK11, and CDKN2A is listed. Cell lines with mutations are coded with a black box; cells without mutations are coded with a white box; cells undetermined for mutations are coded with a hatched box.
+(D) EGFR mutant (H3255) and KRAS mutant (H441) NSCLC cells were transfected with control siRNA (RISC-free) or siRNA targeting GATA2. Cell numbers were counted 72 hr later.
+(E) A549, PC9, H322M, H3255, and H441 cells were transfected with control siRNA, siRNA targeting KRAS, or siRNA targeting GATA2. Twenty-four hours later, lysates were prepared, and western blotting was performed for GATA2, p38, and K-Ras.
+(F) KRAS mutant (H441, H460, H727), EGFR mutant (H1975, H1650, PC9-er), NRAS mutant (H1299), EML4-ALK mutant (H2228), and NF1 mutant (HOP-92) NSCLC cells infected with shRNAs targeting GAPDH (shC) and GATA2 (shG) were plated and cell numbers were counted 72 hr later.
+(G) WT (H520, H2170, H522) NSCLC cells infected with shRNAs targeting GAPDH (shC) and GATA2 (shG) were plated and cell numbers were counted 72 hr later.
+(H) Western blotting was performed on shRNA-infected A549, PC9, H322M, and H520 cells for STAT5 and GATA2.
+(I) Western blotting for GATA2 and ERK was performed in shRNA-infected A549 and PC9 cells expressing empty vector or an shRNA site-mutated GATA2.
+(J) shRNA-infected A549 and PC9 cells expressing empty vector or shRNA site-mutated GATA2 were plated as in Figure 1D and cell numbers were counted 72 hr later.
+(K) LKR13 cells were infected with shRNAs targeting Gapdh (shGapdh) or Gata2 (shGata2.1 and shGata2.2). Western blotting was then performed for GATA2 and S6.
+(L) shRNA-infected LKR13 cells were plated as in Figure 1D and cell numbers were counted 72 hr later.
+(M) shRNA-infected A549 and PC9 cells were fixed and stained with propidium iodide and analyzed by flow cytometry. Cell-cycle populations were compared statistically via chi-squares testing.
+Figure options
+GATA2 Is Necessary for the Viability of RAS-Pathway Mutant NSCLC Cells
+Although the above findings demonstrate that GATA2 was required in NSCLC cells with mutations in known RAS-pathway components, it was unclear whether this dependency occurred in NSCLCs containing other mutant oncogenes, such as RTKs like epidermal growth factor receptor (EGFR). To address this, we used small-interfering RNAs (siRNAs) against both KRAS and GATA2 in the NSCLC cell lines A549 (KRAS mutant), PC9 (EGFR mutant), and H322M (WT). As expected, A549 cells exhibited reduced viability with loss of either KRAS or GATA2, whereas H322M cells were unaffected ( Figure 1B). Surprisingly, PC9 cells were also dependent on GATA2 for viability. Examination of additional EGFR mutant (H3255) and KRAS mutant (H441) NSCLC cells revealed similar effects for GATA2 ( Figure S1D). Importantly, both KRAS and GATA2 were knocked down effectively with the siRNAs ( Figure S1E). In sum, these findings suggest that GATA2 is broadly required in the survival of RAS-pathway mutant NSCLC.
+
+To further validate GATA2, we designed shRNAs against GATA2. To this end, one shRNA (shGATA2.1) achieved substantial knockdown of GATA2 in A549 and PC9 cells relative to a control (shGAPDH) and a nonfunctional GATA2 shRNA (shGATA2.2) (Figure 1C). Notably, shGATA2.1-expressing A549 and PC9 cells had greatly reduced viability relative to the other shRNAs but did not affect WT H322M cells (Figure 1D). Hereafter, shGATA2.1 is referred to as “shG” and shGAPDH as “shC.”
+
+Examination of additional KRAS and EGFR mutant cells showed a striking dependency on GATA2 for mutant cell viability ( Figure S1F). Moreover, this dependency was broadly observed in oncogene-driven NSCLC cells, as cell lines with mutations in NRAS, NF1, and EML4-ALK all exhibited reduced viability in response to GATA2 knockdown. In contrast, WT NSCLC cells were unaffected by GATA2 depletion ( Figure S1G). Importantly, RAS-pathway mutant and WT lung cancer cells express comparable amounts of GATA2 and exhibit similar levels of knockdown with the shRNA ( Figure S1H). To resolve off-target effects of the shRNA, we rescued GATA2 expression with a GATA2 cDNA in which the shRNA-binding site had been mutated to prevent knockdown ( Figure S1I). Notably, the shRNA-mutated cDNA achieves a near-complete rescue of viability, demonstrating the specificity of the effect on GATA2 loss ( Figure S1J). Moreover, to determine whether this dependency was conserved from human to mouse lung cancer cells, we generated shRNAs targeting murine Gata2. These shRNAs achieved substantial knockdown of GATA2 and caused a striking decrease in the growth of a murine Kras mutant NSCLC cell line ( Figures S1K and S1L).
+
+These results indicate that GATA2 loss reduces RAS-pathway mutant cell viability but do not indicate whether this effect is due to increased apoptosis or impaired proliferation. Thus, we examined both apoptotic markers and the cell-cycle distribution in GATA2 knockdown cells. With GATA2 depletion in mutant lung cancer cells, we observed elevated PARP cleavage, a marker of apoptotic cell death (Figure 1E). Conversely, we observed no significant change in the cell-cycle profiles of mutant cancer cells with GATA2 knockdown (Figure S1M). Taken together, these results show that GATA2 is necessary for the survival of RAS-pathway mutant NSCLC.
+
+GATA2 Is Necessary for Oncogene-Driven Lung Cancer Growth In Vivo
+Although the above studies revealed that GATA2 is required for RAS-pathway mutant NSCLC viability in vitro, it was unclear whether this was maintained in vivo. Thus, we examined the ability of GATA2-depleted lung cancer cells to alter tumor xenograft growth. As seen in Figure 2A, injection of control shRNA-expressing RAS-pathway mutant NSCLC cells led to robust tumor growth. In contrast, GATA2 knockdown cells completely abrogated tumor formation, with no detectable lesions forming over 9 months. The effect of GATA2 on RAS-pathway mutant tumors was specific, as loss of GATA2 had no impact on tumor growth in WT NSCLC cells (Figure 2B). Collectively, these results indicate that GATA2 is crucial for tumorigenesis in RAS-pathway mutant lung cancer.
+
+Full-size image (41 K)
+Figure 2. 
+GATA2 Is Necessary for Oncogene-Driven Lung Tumorigenesis In Vivo
+(A) A549 and PC9 cells infected with GAPDH (shC) and GATA2 (shG) shRNAs were injected subcutaneously into nude mice. Tumor volumes were measured with calipers. Values are mean ± SEM (n = 8).
+(B) H520 and H322M cells infected with shRNAs were injected into nude mice as above. Values are mean ± SEM (n = 8).
+Figure options
+GATA2 Regulates the Proteasome via Control of Nrf1
+To elucidate the mechanisms by which GATA2 maintains RAS-pathway mutant NSCLC survival, we performed gene expression analysis on A549 and PC9 cells expressing either control or GATA2 shRNA. As GATA2 was likely to operate via broad regulatory nodes, gene set enrichment analysis (GSEA) was performed (a list of enriched gene sets is included in Figure S2A). One of the most striking candidate pathways negatively enriched in GATA2 knockdown cells was the proteasome pathway (Figure S2B). This was intriguing, as several screens for KRAS synthetic lethal factors revealed dependencies on components of the proteasome ( Barbie et al., 2009 and Luo et al., 2009). Because numerous proteasome components appeared downregulated with GATA2 loss, we suspected that transcriptional control of the proteasome was disrupted. Recent reports have described the transcription factor Nrf1 as a regulator of the proteasome ( Radhakrishnan et al., 2010). Quantitative RT-PCR (qRT-PCR) revealed downregulation of Nrf1 and proteasome components with GATA2 knockdown independent of genotype ( Figure 3A). Moreover, this transcriptional control was germane to proteasome function, as GATA2 loss impaired proteasome activity in mutant and WT NSCLC cells ( Figure 3B).
+
+Full-size image (113 K)
+Figure S2. 
+GATA2 Regulates Expression of the Proteasome, Related to Figure 3
+(A) Table of GSEA list of negatively regulated gene sets in response to GATA2 knockdown. Gene set sizes, normalized enrichment scores (NES), and p values are included. Gene sets described as part of the GATA2 network are in bold and italicized.
+(B) GSEA enrichment plot for the “PROTEASOME_DEGRADATION” pathway. Significance was determined using an empirical phenotype-based permutation test as described (Subramanian et al., 2005).
+(C) qRT-PCR was performed for control transcript, PSMA3, PSMA4, and PSMB8 in shRNA-infected A549 and PC9 cells expressing either empty vector or Nrf1. Analysis was performed as described in Figure 3A. Values are mean ± SEM (n = 3).
+(D) The panel of 26 NSCLC cell lines (14 KRAS mutant, 12 KRAS WT) described in Figure 1A were transfected with either control siRNAs or siRNAs targeting PSMD14, PSMA1, PSMA2, and PSMB6. Viability was measured by cell titer blue assays, and relative viability was determined by normalization of proteasome siRNAs to control siRNAs.
+(E) The panel of 26 NSCLC cell lines (14 KRAS mutant, 12 KRAS WT) described in Figure 1A were treated with either DMSO or 8 nM bortezomib (BTZ) for 72 hr. Viability was measured by cell titer blue assays and relative viability was determined by normalization of BTZ to DMSO treatment.
+(F) A549 cells were either transfected with control siRNA (siscr); siRNAs targeting GATA2, PSMA1, PSMA2, PSMB6, or PSMD14; DMSO or 8 nM BTZ for 24 hr. Western blotting was then performed for ubiquitin (conjugated and free), p110alpha, and Akt.
+(G) shRNA-infected A549 and PC9 cells expressing either empty vector or shRNA-resistant GATA2 were lysed. Western blotting was then performed for ubiquitin (conjugated and free), p110alpha, ERK and MLC.
+(H) shRNA-infected A549 and PC9 cells were maintained 48 hr in the absence or presence of 10 μM z-VAD-fmk (z-VAD). Western blotting was then performed for cleaved PARP and caspase 3 (full-length [FL] and cleaved).
+(I) ShRNA-infected A549 and PC9 cells were maintained 48 hr in the absence or presence of z-VAD as above. Western blotting was then performed for ubiquitin (conjugated and free), STAT5, ERK, and Ras.
+Figure options
+Full-size image (79 K)
+Figure 3. 
+GATA2 Regulates Transcription of the Proteasome via Nrf1
+(A) qRT-PCR was performed for a control transcript (PLK1), Nrf1, PSMA3, PSMA4, and PSMB8 in shRNA-infected A549, PC9, H322M, and H520 cells. Expression of target genes in shRNA cells was normalized to PLK1 levels. Target gene expression in shC cells was set to 1 to determine relative expression in shG cells. Values are mean ± SEM with propagated error (n = 3).
+(B) Western blotting was performed on shRNA-infected A549, PC9, H322M, and H520 cells for ubiquitin (conjugated and free), STAT5, ERK, and RAS.
+(C) Western blotting was performed on shRNA-infected A549 cells expressing empty vectors, dominant-negative USP14 (USP14SF), or Nrf1 for ubiquitin (conjugated and free), p110beta, Akt, and S6.
+(D) shRNA-infected A549 and PC9 cells expressing empty vectors, USP14SF, or Nrf1 were plated and counted as in Figure 1D.
+See also Figures S2 and S6.
+Figure options
+To determine the role of the proteasome in GATA2-mediated survival, we expressed either Nrf1 or a dominant-negative form of the proteasome inhibitor USP14 (USP1414) in RAS-pathway mutant cells (Lee et al., 2010). As seen in Figure 3C, expression of either dominant-negative USP14 or Nrf1 was functionally salient, as each re-established proteasome function after GATA2 depletion, with more robust rescue occurring in the USP14SF cells. Nrf1 was important for proteasome transcript levels, as it partially restored expression of several components (Figure S2C). After GATA2 loss, we observed a modest but discernible rescue of viability with both USP14SF and Nrf1 (Figure 3D); the variation in rescue is likely due to the incomplete restoration in proteasome expression by Nrf1, whereas USP14SF can posttranslationally elicit more complete rescue of proteasome function. Taken together, these findings suggest that proteasome function is sufficient for partial rescue of viability in response to GATA2 loss in RAS-pathway mutant NSCLC.
+
+To examine further the dependency of RAS-pathway mutant lung cancer cells on the proteasome, we depleted proteasome components and inhibited the proteasome with bortezomib in our panel of KRAS mutant/WT NSCLC cells. We observed no significant differential viability with either proteasome component loss or bortezomib treatment ( Figures S2D and S2E), although there is a slight tendency for mutant cells to be affected. Importantly, both approaches inhibited proteasome function comparably to GATA2 loss ( Figure S2F). Taken together, these results indicate that proteasome inhibition is insufficient to differentially affect KRAS mutant NSCLC viability. Because of the failure of proteasome loss to differentially affect mutant cell viability, we wanted to ensure that the effects of GATA2 on the proteasome were on-target. To do so, we examined whether the shRNA-resistant GATA2 cDNA restored proteasome function. With the rescue system, we observed a complete reversal or proteasome inhibition, demonstrating that the effects of GATA2 on the proteasome are on-target ( Figure S2G). We also assessed whether the effects on the proteasome were caused by elevated cell death by abrogating apoptosis with the caspase inhibitor z-VAD-fmk (z-VAD). Whereas z-VAD completely blocked the apoptosis induced by GATA2 loss, impaired proteasome function was maintained ( Figures S2H and S2I). Collectively, these results suggest that the effects of GATA2 on the proteasome are not merely a consequence of apoptosis driven by GATA2 loss.
+
+GATA2 Controls NF-κB Signaling through Regulation of the IL-1 Pathway
+Beyond the proteasome, we noted a striking transcriptional repression of the IL-1- and NF-κB-signaling pathways with GATA2 depletion (Figure S3A). The differential expression was coupled to GATA2 genome occupancy, as chromatin immunoprecipitation coupled to next-generation sequencing (ChIP-seq) of GATA2 (to be discussed below) revealed enrichment of IL-1 pathway genes like TRAF6 ( Figure S3B). Validation of GATA2 occupancy by ChIP-PCR revealed that GATA2 bound TRAF6 only in RAS-pathway mutant cells, though it bound PDK1 and ZFPM2 across all lung cancer cells ( Figure 4A). Moreover, only RAS-pathway mutant cells exhibited loss of TRAF6 expression after GATA2 knockdown ( Figure 4B). Collectively, these findings indicate that GATA2 regulates expression of the IL-1 pathway in RAS-pathway mutant NSCLC.
+
+Full-size image (80 K)
+Figure S3. 
+GATA2 Regulates IL-1 and NF-κB Signaling, Related to Figure 4
+(A) GSEA enrichment plot for the “IL1RPATHWAY” and “NFKBPATHWAY” pathways. Significance was determined as above.
+(B) Representative GATA2 ChIP-seq image for TRAF6 in A549 cells. Image was generated in the IGV Genome Browser.
+(C) ShRNA-infected A549 and PC9 cells were maintained 48 hr in the absence or presence of z-VAD as above. NF-κB and control reporter plasmids were then cotransfected into cells. Luciferase assays were performed and pathway activity was determined as in Figure 4C.
+(D) Western blotting was performed on shRNA-infected A549 and PC9 cells expressing empty vector or TRAF6 for Akt, GATA2, and TRAF6.
+(E) Western blotting was performed on A549 and PC9 cells transfected with control siRNA (siscr) or siRNAs targeting GATA2 (siGATA2) or TRAF6 (siTRAF6) for Akt, GATA2, and TRAF6.
+(F) NF-κB and control reporter plasmids were cotransfected into A549 and PC9 cells expressing empty vector or RelA infected with GAPDH and GATA2 shRNAs. Luciferase assays were performed and pathway activity was determined as in Figure 4C.
+(G) ShRNA-infected A549 and PC9 cells expressing empty vector or RelA were plated as in Figure 1D, and cell numbers were counted 72 hr later.
+(H) NF-κB and control reporter plasmids were cotransfected into A549 and PC9 cells transfected with control siRNA or siRNAs targeting GATA2, TRAF6, or NEMO as in Figure 1B. Luciferase assays were performed, and pathway activity was determined as in Figure 4C.
+(I) A549 and PC9 cells were plated as in Figure 1B and treated in the presence or absence of 20 ng/ml IL-1ra for 72 hr. NF-κB and control reporter plasmids were cotransfected and luciferase assays were performed, and pathway activity was determined as in Figure 4C.
+(J) A549 and PC9 cells were plated treated with IL-1ra as above, after which cell numbers were counted.
+Figure options
+Full-size image (85 K)
+Figure 4. 
+GATA2 Controls IL-1/NF-κB Signaling via TRAF6
+(A) ChIP was performed with a control antibody (IgG) or an antibody for GATA2 in A549, PC9, H322M, and H520 cells, and PCR was performed for TRAF6, PDK1, and ZFPM2.
+(B) qRT-PCR was performed for TRAF6 in A549, PC9, H322M, and H520 cells as in Figure 3A. Values are mean ± SEM (n = 3).
+(C) NF-κB and control reporter plasmids were cotransfected into shRNA-infected A549, PC9, H322M, and H520 cells. Twenty-four hours later, luciferase assays were performed. Pathway activity was determined by normalizing luciferase from the NF-κB reporter to the control.
+(D) NF-κB and control reporter plasmids were cotransfected into shRNA-infected A549 and PC9 cells expressing empty vector or TRAF6. Luciferase assays were performed as above.
+(E) ShRNA-infected A549 and PC9 cells expressing empty vector or TRAF6 were plated and counted as in Figure 1D.
+(F) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2, TRAF6, or NEMO as in Figure 1B. Cell numbers were counted 72 hr later.
+See also Figures S3, S4, and S6.
+Figure options
+We then assessed the consequence of this on the NF-κB pathway, an important downstream effector of IL-1 signaling (O'Neill, 2008). As seen in Figure 4C, we observed a remarkable suppression of an NF-κB pathway reporter in mutant lung cancer cells, with little change in WT cells. The reduction of NF-κB signaling was not downstream of GATA2-mediated apoptosis, as GATA2 knockdown similarly suppressed NF-κB activity when cell death was inhibited with z-VAD (Figure S3C). In sum, these results suggest that GATA2 is necessary for activation of the NF-κB cascade.
+
+To determine a functional role for the IL-1 pathway in GATA2-mediated viability, we expressed TRAF6 in RAS-pathway mutant lung cancer cells, as TRAF6 overexpression exogenously activates IL-1 signaling (Cao et al., 1996). TRAF6 expression largely restored NF-κB signaling in response to GATA2 depletion (Figure 4D). Consequently, TRAF6 substantially rescued cell viability after GATA2 loss (Figure 4E). These effects were not due to TRAF6 regulation of GATA2 expression, as neither TRAF6 rescue nor TRAF6 depletion by siRNA altered GATA2 protein levels (Figures S3D and S3E). Overall, these findings demonstrate that GATA2 regulation of IL-1 signaling is functionally germane for RAS-pathway mutant cell survival.
+
+Considering the substantial effect that the IL-1 pathway has on both NF-κB signaling and RAS-pathway mutant cell survival, we then evaluated the immediate role of NF-κB on GATA2-mediated viability. Expression of the NF-κB subunit RelA caused a striking rescue of NF-κB activity in response to GATA2 knockdown (Figure S3). Surprisingly, this only marginally affected viability after GATA2 depletion (Figure S3G). Moreover, we tested whether loss of either IL-1 or NF-κB signaling was sufficient to reduce mutant cell viability by depletion of TRAF6 or NEMO, an essential activator of canonical NF-κB signaling (Yamaoka et al., 1998). Though knockdown of either factor was able to suppress NF-κB signaling (Figure S3H), both caused only a modest reduction in viability (Figure 4F). Furthermore, inhibition of IL-1 signaling by the antagonist IL-1ra, although able to inhibit NF-κB activity (Figure S3I), had little effect on RAS-pathway mutant cell viability (Figure S3J). Collectively, these results demonstrate that whereas TRAF6 substantially rescues GATA2-mediated survival (to be discussed below), inhibition of either IL-1 or NF-κB signaling is insufficient to phenocopy GATA2 loss.
+
+GATA2 Directly Regulates Rho Target Genes to Maintain Pathway Activity
+To better understand how GATA2 maintains mutant NSCLC viability, we carried out ChIP-seq for GATA2 in mutant (A549 and PC9) and WT (H322M and H520) lung cancer cells. As corroboration of our ChIP-seq results, we assayed a set of peaks from the sequencing results across the four cell lines by ChIP-PCR and found occupancy with GATA2 (Figure S4A). Moreover, ChIP-PCR with a second, independent GATA2 antibody comparably enriched for several target genes from the ChIP-seq (Figure S4B), demonstrating the specificity of these targets for GATA2. Taken together, these findings validate the results of our ChIP-seq in a panel of lung cancer cell lines.
+
+Full-size image (115 K)
+Figure S4. 
+GATA2 ChIP-Seq Reveals Enrichment for the Rho-Signaling Cascade, Related to Figures 4 and 5
+(A) ChIP was performed for IgG and GATA2 in A549, PC9, H322M, and H520 cells as in Figure 4A and PCR was performed using primers targeting ROCK1, ZXDA, DQ57185, ABCB1, LOC143188, CLCA1, STARD4, PDK1, and TBX3.
+(B) ChIP was performed for IgG and GATA2 antibodies generated by AbCam (GATA2 AbCam) and Santa Cruz Biotechnology (GATA2 SCBT) in A549 and PC9 cells as in Figure 4A. PCR was performed using primers targeting ROCK1, EPHA3, CDC42, and TRAF6.
+(C) GeneGO pathway enrichment was performed on GATA2 ChIP-seqs for A549, PC9, H322M, and H520. Pathways that were enriched in A549 and PC9 cells but not H322M and H520 cells were determined. Statistical significance was assessed with t statistics including multiple hypothesis testing.
+(D) GSEA enrichment plot for the “CELL_ADHESION_MOLECULES” pathway. Significance was determined as above.
+(E) A549 cells were transfected with RISC-free, GATA2, and EPHA3 siRNA as in Figure 1B. Twenty-four hours later, cells were harvested for Rho-GTP pull-downs as in Figure 3D. Western blotting was then performed on the pulldowns (Rho-GTP) and total cell lysates (total Rho).
+(F) A549 cells were transfected with RISC-free, GATA2, and EPHA3 siRNA as in Figure 1B. Sixteen hours later, cells were serum starved. Twenty-four hours later, cells were treated with 2 μg/ml control-Fc or EphrinA5-Fc for 30 min. Cells were then harvested for Rho-GTP pull-downs as in Figure 3D. Western blotting was then performed on the pull-downs (Rho-GTP) and total cell lysates (total Rho).
+(G) shRNA-infected A549 and PC9 cells were maintained 48 hr in the absence or presence of z-VAD as above. Western blotting was then performed for pMLC and MLC.
+Figure options
+We then determined whether there was enrichment of gene sets particularly in mutant cells. Strikingly, we observed numerous Rho-related signaling pathways as being broadly occupied by GATA2 in mutant cells but not in WT cells (Figure S4C). Among these Rho-pathway genes is the Rho kinase ROCK1, as seen in Figure 5A. By ChIP-PCR, we verified that several of the Rho-pathway genes were bound by GATA2 in mutant but not WT NSCLC cells (Figure 5B). Furthermore, our original GSEA included Rho-related cell adhesion pathways among the GATA2-regulated gene sets (Figure S4D), and qRT-PCR revealed reduced expression of Rho-pathway targets with GATA2 depletion (Figure 5C). In total, these results suggest that GATA2 directly regulates expression of Rho-signaling components.
+
+Full-size image (138 K)
+Figure 5. 
+GATA2 Regulates Rho Pathway Signaling via a Transcriptional Complex with STAT5
+(A) Representative GATA2 ChIP-seq images from the IGV Genome Browser for ROCK1 in A549 and PC9 cells.
+(B) ChIP was performed in A549, PC9, H322M, and H520 cells as in Figure 4A, and PCR was performed for ROCK1, EPHA3, and CDC42.
+(C) qRT-PCR was performed for ROCK1, EPHA3, and CDC42 as in Figure 3A. Values are mean ± SEM (n = 3).
+(D) Rho-GTP pull-down assays were performed in shRNA-infected A549 and PC9 cells. Western blotting was performed on pull-downs (Rho-GTP) and total cell lysates (total Rho).
+(E) Western blotting was performed on shRNA-infected A549, PC9, H322M, and H520 cells for pMLC and total MLC.
+(F) Rho-GTP pull-down assays were performed in shRNA-infected A549 and PC9 cells expressing empty vector or RhoAG14V (RhoA). Western blotting was performed on pull-downs (Rho-GTP) and total cell lysates (total Rho, pMLC, and MLC).
+(G) shRNA-infected A549 and PC9 cells expressing empty vector or RhoAG14V (RhoA) were plated and counted as in Figure 1D.
+(H) Meme analysis of A549 and PC9 GATA2 ChIP peaks reveals enrichment of the STAT5 response element.
+(I) IPs were performed in A549, PC9, H322M, and H520 cells, and western blotting for GATA2 and STAT5 was performed on 5% total cell lysate (input) and the IPs.
+(J) ChIP/re-ChIP was performed in A549, PC9, H520, and H322M cells, and PCR was performed for ROCK1, EPHA3, CDC42, PDK1, and ZFPM2.
+(K) Model of GATA2 function in oncogene-driven NSCLC. GATA2 regulates a transcriptional network composed of the proteasome, IL-1-signaling, and Rho-signaling pathways, which maintain RAS-pathway mutant survival through NF-κB-dependent and NF-κB-independent mechanisms.
+See also Figures S4, S5, and S6.
+Figure options
+Recognizing this regulation of Rho targets by GATA2, we assessed the functional consequences of GATA2 loss on Rho activity. GATA2 knockdown triggered a striking decline in GTP-bound Rho (including RhoA, RhoB, and RhoC isoforms) in mutant lung cancer cells (Figure 5D). This was intriguing, as one of the GATA2-regulated Rho target genes was EPHA3, an ephrin receptor and upstream activator of Rho signaling ( Pitulescu and Adams, 2010). Notably, depletion of EPHA3 caused a reduction in GTP-bound Rho that was similar to the loss of GATA2, both at the steady state and in response to stimulation with Ephrin A5 ( Figures S4E and S4F).
+
+This effect on Rho-pathway activation was specific to RAS-pathway mutant lung cancer cells, as phosphorylation of the myosin light chain (pMLC), a substrate of ROCK1 and downstream marker for Rho signaling, was suppressed in mutant cells with GATA2 knockdown but was unaffected in WT cells (Figure 5E). To address the possibility that the effect on Rho signaling was due to apoptosis caused by GATA2 loss, we examined pMLC in GATA2-depleted cells in the presence of z-VAD. Importantly, pMLC was comparably suppressed in the presence of z-VAD (Figure S4G). Taken together, these effects demonstrate that GATA2 is necessary for Rho-pathway activation in RAS-pathway mutant NSCLC.
+
+We explored the functional role for Rho in GATA2-mediated viability by pathway rescue. Constitutively active RhoAG14V fully restored Rho-GTP levels and pathway activity (Figure 5F). When we examined viability, activated Rho substantially rescued mutant cell survival in response to GATA2 depletion (Figure 5G). Interestingly, this rescue was reversed by the ROCK inhibitor fasudil, which efficiently abrogated pMLC (Figures S5A and S5B). In line with this, restoration of ROCK function via the ROCK:ER fusion also substantially restored viability in response to GATA2 depletion (Croft et al., 2004) (Figures S5C and S5D). We then examined whether the Rho pathway was individually necessary for RAS-pathway mutant cell survival. Depletion of ROCK1 had only marginal effects on mutant cell viability, in spite of robust suppression of pMLC (Figures S5E and S5F). Moreover, knockdown of a panel of Rho-pathway components or treatment with the ROCK inhibitor fasudil exhibited no differential viability in our panel of 26 NSCLC cell lines (Figures S5G and S5H). In sum, these results suggest that although Rho pathway activation is sufficient to rescue viability in response to GATA2 loss, it is not solely necessary for mutant NSCLC survival.
+
+Full-size image (85 K)
+Figure S5. 
+GATA2 Regulates Rho/ROCK Signaling via a Transcriptional Complex with STAT5, Related to Figure 5
+(A) A549 cells were treated in duplicate with increasing concentrations of fasudil (Faz) for 24 hr, and lysates were prepared. Western blotting was then performed for pMLC and MLC.
+(B) shRNA-infected A549 and PC9 cells expressing empty vector or RhoAG14V (RhoA) were plated as in Figure 1D in the presence or absence of 10 μM Faz for 72 hr. Cell numbers were then counted as above.
+(C) A549 and PC9 cells expressing the ROCK:ER fusion were transfected with control siRNA (siscr) or siRNAs targeting GATA2 (siGATA2) in the presence or absence of 500 nM 4-hydroxytamoxifen (± TAM). Six hours later, lysates were made. Western blotting was then performed for pMLC and MLC.
+(D) A549 and PC9 cells expressing the ROCK:ER fusion were transfected with siscr or siGATA2 ± TAM as above.72 hr later, cell numbers were counted as above.
+(E) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2 or ROCK1 as in Figure 1B. Western blotting was then performed for pMLC and MLC.
+(F) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2 or ROCK1 as in Figure 1B. Cell numbers were counted 72 hr later.
+(G) The panel of 26 NSCLC cell lines (14 KRAS mutant, 12 KRAS WT) described in Figure 1A were transfected with either control siRNAs or siRNAs targeting RHOA, RHOB, RHOC, ROCK1, and ROCK2. Viability was measured by cell titer blue assays, and relative viability was determined by normalization of Rho pathway siRNAs to control siRNAs.
+(H) The 26 cell-line panel was treated with 10 μM Faz. Cell viability was assessed with Cell Titer Blue as above.
+(I) PC9 cells were treated in the presence or absence of 30 nM erlotinib for 16 hr and lysates were prepared. Western blotting was performed for phosphorylated ERK (pERK), ERK, phosphorylated STAT5 (pSTAT5), and STAT5.
+(J) ChIP assays were performed on PC9 cells with control antibody (IgG) or with GATA2 antibody from lysates in the presence or absence of 30 nM erlotinib 16 hr. PCR was then performed using primers targeting ROCK1, EPHA3, CDC42, and TRAF6.
+(K) A549 and PC9 cells were transfected with siscr, siKRAS, and siGATA2. Forty-eight hours later, lysates were prepared. Western blotting was then performed for ubiquitin (conjugated and free), pAkt, Akt, pERK, ERK, pMLC, and MLC.
+(L) A549 and PC9 cells were transfected with siscr, siKRAS, siGATA2, and siNEMO. Twenty-four hours later, cells were transfected with NF-κB reporter plasmids as before. Twenty-four hours later, luciferase assays were performed as described.
+(M) KRAS mutant (A549, H460, H727, H358, H441), EGFR mutant (PC9, H1650, H1975, H3255), and WT (H522, EKVX, H2170, H520, H322M) NSCLC cell lysates were generated. Western blotting was then performed for pSTAT5, STAT5, pERK, ERK, phosphorylated Akt at threonine 308 (pAkt), and total Akt (Akt).
+(N) EKVX and H322M cells were transfected with either empty vector or STAT5CA. ChIP was then performed in these cells as in Figure 4A and PCR was performed for ROCK1, EPHA3, CDC42, PDK1 and ZFPM2.
+(O) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2, ROCK1, STAT5A, STAT5B, or STAT5A and STAT5B as in Figure 1B. Western blotting was then performed for STAT5, ERK, pMLC, and MLC.
+(P) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2 or STAT5B as in Figure 1B. qRT-PCR was performed for control transcript, ROCK1, EPHA3, and CDC42. Analysis was performed as described in Figure 3A. Values are mean ± SEM (n = 3).
+(Q) A549 and PC9 cells were transfected with control siRNA or siRNAs targeting GATA2, ROCK1, STAT5A, STAT5B, or STAT5A and STAT5B as in Figure 1B. Cell numbers were counted 72 hr later.
+Figure options
+GATA2 Regulates Rho Target Genes via a STAT5 Transcriptional Complex
+To understand how GATA2 differentially occupied Rho targets, we examined the DNA sequence motifs enriched in the mutant versus WT GATA2 ChIPs. Strikingly, we observed the STAT5 response element as specifically enriched in mutant cells (Hennighausen and Robinson, 2008) (Figure 5H). Thus, we predicted that GATA2 and STAT5 interact at Rho-pathway target genes. We first examined this putative GATA2/STAT5 interaction by coimmunoprecipitations of the factors and found that the factors did immunoprecipitate with one another in mutant but not WT cells (Figure 5I). Furthermore, as seen in Figure 5J, by ChIP/re-ChIP analyses, we found that GATA2 and STAT5 interact at Rho target gene loci particularly in mutant lung cancer cells. Importantly, whereas Rho target genes did not ChIP in a GATA2/STAT5 complex in WT cells, GATA2 targets common to mutant and WT lung cancer cells were enriched in all cells, demonstrating the capacity to isolate GATA2 targets in WT cells. Collectively, these results demonstrate that GATA2 is bound to Rho target genes via a complex with STAT5.
+
+Considering the dependency on GATA2-regulated pathways in RAS-pathway mutant cancer cells, it was unclear whether GATA2 was regulated by activated oncogenes. To address this, we inhibited oncogenic EGFR in PC9 cells with the tyrosine kinase inhibitor erlotinib. Interestingly, although erlotinib treatment efficiently suppressed MAP kinase signaling, it did not affect STAT5 phosphorylation (Figure S5I). Consequently, erlotinib treatment had no effect on GATA2 occupancy of either IL-1 or Rho target genes (Figure S5J). To further explore the interaction of GATA2- and RAS-pathway signaling, we examined the effect of depleting KRAS on the GATA2 network. Notably, whereas KRAS knockdown did suppress phosphorylation of ERK and Akt, it did not affect proteasome activity, Rho signaling, or NF-κB activity (Figures S5K and S5L). Taken together, these results suggest that GATA2 operates orthogonally to RAS-pathway signaling.
+
+To elucidate the differential occupancy of GATA2 in RAS-pathway mutant cells, we examined a panel of KRAS mutant, EGFR mutant, and WT NSCLC cell lines. This analysis revealed a trend toward higher levels of STAT5 phosphorylation in mutant versus WT cells ( Figure S5M). Interestingly, expression of constitutively active STAT5 in WT cells was sufficient to drive GATA2 occupancy at Rho target genes ( Figure S5N). We then examined whether STAT5 was individually required in RAS-pathway mutant NSCLC. Notably, we found that depletion of a single STAT5 isoform, STAT5B, was sufficient to both deplete total STAT5 and substantially suppress Rho signaling ( Figure S5O). In addition, STAT5B knockdown caused a reduction in Rho target gene expression that was similar to the loss of GATA2 ( Figure S5P). Yet knockdown of STAT5B caused only a modest decline in viability ( Figure S5Q). In total, these findings indicate that STAT5, although necessary for Rho-pathway function, does not engender the same dependency as GATA2 itself in RAS-pathway mutant NSCLC.
+
+The GATA2 Transcriptional Network Is General and Displays Considerable Crosstalk
+Though the above results describe a dependency on GATA2-regulated pathways in two mutant lung cancers, we wanted to assess the extent of the GATA2 network in RAS-pathway mutant NSCLC. To do so, we examined GATA2-regulated pathways in three additional KRAS mutant and three additional WT lung cancer cells after GATA2 loss. Similar to the effects seen earlier, GATA2 depletion abrogated proteasome function across both genotypes ( Figure S6A). Moreover, GATA2 loss inhibited Rho signaling and suppressed NF-κB activity only in KRAS mutant cells, as seen above ( Figures S6A and S6B). In sum, these results show that GATA2-regulated pathways are broadly maintained in RAS-pathway mutant NSCLC.
+
+Full-size image (90 K)
+Figure S6. 
+The GATA2 Transcriptional Network Exhibits Substantial Crosstalk, Related to Figures 3, 4, and 5
+(A) A subset of KRAS mutant (A427, H1792, and H23) and WT (HCC95, EKVX, and LUDLU-1) were transfected with siscr and siGATA2. Lysates were generated, and western blotting was performed for ubiquitin (conjugated and free), p110alpha, Akt, pMLC, and MLC.
+(B) A subset of KRAS mutant (A427, H1792, and H23) and WT (HCC95, EKVX, and LUDLU-1) were transfected with siscr, siGATA2, and siNEMO. Twenty-four hours later, NF-κB and control reporter plasmids were cotransfected into cells. Luciferase assays were performed and pathway activity was determined as in Figure 4C.
+(C) NF-κB and control reporter plasmids were cotransfected into A549 and PC9 cells expressing empty vector or dominant-negative USP14 (USP14-SF) infected with GAPDH and GATA2 shRNAs. Luciferase assays were performed and pathway activity was determined as in Figure 4C.
+(D) NF-κB and control reporter plasmids were cotransfected into A549 and PC9 cells expressing empty vector or RhoAG14V (RhoA) infected with GAPDH and GATA2 shRNAs. Luciferase assays were performed and pathway activity was determined as in Figure 4C.
+(E) Rho-GTP pull-down assays were performed in A549 and PC9 cells expressing empty vector or TRAF6 and subsequently infected with GAPDH and GATA2 shRNAs. Western blotting was then performed on total cell lysates (total Rho, pMLC, and MLC) and Rho-GTP pull-downs (Rho-GTP).
+(F) Western blotting was performed on shRNA-infected A549 and PC9 cells expressing empty vectors, RhoAG14V (RhoA), or TRAF6 for ubiquitin (conjugated and free), STAT5, ERK, and Ras.
+Figure options
+Because of the striking dependency of mutant NSCLC on the GATA2 network, we examined whether there were interactions across GATA2-regulated pathways. Notably, we found control of NF-κB signaling by both the proteasome and Rho signaling, as activation of either was capable of restoring NF-κB activity with GATA2 loss (Figures S6C and S6D). These findings corroborate studies demonstrating an interaction of the proteasome and Rho pathways with NF-κB (Perona et al., 1997 and Xue et al., 2011). Moreover, Rho signaling in response to GATA2 knockdown was rescued by activation of the IL-1 pathway with TRAF6 (Figure S6E). This is in line with earlier observations of various cytokines, including IL-1, stimulating Rho signaling (Sanz-Moreno et al., 2011). This Rho signal induction is the likely cause of the substantial rescue observed with TRAF6 expression after GATA2 depletion that is not recapitulated with activation of NF-κB alone. In contrast, activation of IL-1 or Rho signaling had no effect on proteasome function after GATA2 loss (Figure S6F). Collectively, these results outline a multifactorial GATA2 network in RAS-pathway mutant NSCLC (Figure 5K).
+
+Gata2 Is Required for Oncogenic Kras-Driven Lung Tumorigenesis
+To determine the relevance of this network in vivo, we conditionally deleted Gata2 in an autochthonous model of Kras mutant NSCLC ( Charles et al., 2006 and Jackson et al., 2001). To do so, we generated KrasLSL-G12D; Gata2+/+,Flox/+,Flox/Flox mice (hereafter referred to as KG +/+, F/+, and F/F mice, respectively) and infected their lungs with adenovirus that expresses Cre recombinase (Ad-Cre). Eight weeks after infection, we compared the cohort histopathologically and observed a very large reduction in tumor burden in KG F/F animals compared to both KG +/+ and F/+ controls ( Figures 6A and 6B). Moreover, both KG F/+ and KG F/F mice exhibited a significant decrease in tumor number relative to KG +/+ controls, with KG F/F animals exhibiting a more striking decline ( Figure 6C). In contrast, the average sizes of the tumors that did arise were comparable among KG +/+, F/+, and F/F mice ( Figure 6D). To characterize the tumors in KG F/F mice, we prepared DNA from these lesions and analyzed recombination. Intriguingly, tumors from KG F/F mice retained an unrecombined floxed Gata2 allele, whereas the Kras allele was completely recombined in the same lesions ( Figure 6E). Taken together, these results indicate that Gata2 is requisite for oncogenic Kras-driven lung tumor initiation.
+
+Full-size image (117 K)
+Figure 6. 
+Gata2 Is Required for Kras-Driven Autochthonous Lung Tumorigenesis
+(A) Representative histological images of lungs from KG +/+, F/+, and F/F mice 8 weeks after infection with adenovirus that expresses Cre (Ad-Cre). Black arrows indicate lung adenomas. Magnification is 1×.
+(B) Tumor burden (tumor area as a percentage of total lung area) in KG +/+ (n = 15), F/+ (n = 9), and F/F (n = 13) mice 8 weeks after Ad-Cre. ∗∗∗p < 0.0005.
+(C) Tumor number in the above mice 8 weeks after Ad-Cre. ∗p < 0.05; ∗∗∗p < 0.0005.
+(D) Tumor size in the above mice 8 weeks after Ad-Cre.
+(E) Gata2 and Kras recombination was assessed in KG F/F lung tumors. Gata2F/F (F/F control) and Gata2−/− (−/− control) tissues served as controls for Gata2. KrasLSL-G12D (LSL/+ control) and KrasG12D (K/+ control) mouse embryonic fibroblasts (MEFs) served as controls for Kras.
+(F) Gata2 and Kras recombination was assessed in LG F/+ and F/F animals. Mice were fed a tamoxifen diet for 3 days. Animals were culled, and spleen, liver, and lung tumor DNA was analyzed. Gata2F/+ (F/+ control), Gata2+/− (+/− control), Gata2F/F (F/F control), and Gata2−/− (−/− control) tissues served as controls for Gata2. KrasLA2-G12D (LA2/+ control) tissue and LKR13 (K/+ control) cells served as controls for Kras.
+(G) GATA2 loss and pathway modulation were assessed in LG +/+, F/+, and F/F animals. Mice were fed a tamoxifen diet for 3 days. Animals were culled, and lung tumor lysates analyzed. Western blotting was performed for caspase 3 (full-length [FL] and cleaved), ubiquitin (conjugated and free), STAT5, GATA2, p38, pMLC, and MLC.
+(H) Representative LG +/+ and F/F lungs after tamoxifen diet. Animals were fed a tamoxifen diet for a week, monitored for 28 days, and then sacrificed. Black arrows indicate lung tumors.
+(I) Representative transaxial images of LG +/+ and F/F lungs before and after tamoxifen diet. Animals were initially scanned by micro-CT (day 0) and fed a tamoxifen diet for a week. After 2 weeks, animals were scanned once weekly for 3 weeks until sacrifice (day 35). White arrows indicate detectable lesions at days 0 and 35.
+(J) Longitudinal quantification of LG lung tumors over time as described above. Tumor volumes from day 0 are set to 1, and relative tumor sizes were recorded. Red, black, and blue lines correspond to LG +/+ (n = 3 animals), F/+ (n = 2 animals), and F/F (n = 3 animals) tumors, respectively.
+See also Figure S7.
+Figure options
+Loss of Gata2-Induced Regression in Established Kras Mutant Tumors
+Although the above findings suggest a role for Gata2 in Kras mutant NSCLC, they do not demonstrate that Gata2 is necessary for the maintenance of established Kras mutant lung tumors, only for their development. We thus generated KrasLA2-G12D/+; Rosa26CreERT2/+; Gata2+/+,Flox/+,Flox/Flox (hereafter referred to as LG +/+, F/+, and F/F mice, respectively). In these animals, lung tumors develop spontaneously from expression of mutant Kras due to spontaneous recombination ( Johnson et al., 2001). We then induce whole-body deletion of Gata2 using the CreERT2 conditional allele expressed from the Rosa26 locus ( Hameyer et al., 2007). After 3 days of tamoxifen treatment, we observed recombination of the Gata2 locus in both organs and lung tumors of LG F/+ and F/F mice, along with Kras recombination in the lung tumors ( Figure 6F). Western blot analysis revealed complete loss of GATA2 protein after 3 days of tamoxifen treatment in LG F/F lung tumors ( Figure 6G). We also observed inhibition of the proteasome and Rho-signaling pathways in LG F/F lesions, along with elevation of the apoptotic marker cleaved caspase 3. In total, these findings show that tamoxifen treatment leads to efficient, whole-body Gata2 locus recombination, with subsequent loss of GATA2 protein and inhibition of regulated pathways in lung tumors.
+
+We then assessed the effect of Gata2 loss on established lung lesions. We scanned animals by micro-CT the day before tamoxifen treatment and then treated animals for 1 week with tamoxifen. We then monitored animals by micro-CT for 1 month. As seen in Figures 6H and 6I, we found that Gata2 loss had a striking effect, with near-complete abrogation of lung tumors in treated LG F/F mice. Longitudinal analysis of LG +/+ animals revealed a substantial increase in tumor size over time; a more modest increase in LG F/+ mice; and extensive regression in LG F/F mice ( Figure 6J). Importantly, systemic Gata2 loss was well tolerated as tamoxifen treatment of Rosa26CreERT2/+; Gata2+/+,F/+,F/F mice revealed only a transient drop in body weight independent of Gata2 genotype ( Figure S7A). Although these results could be due partially to lost GATA2 function in the endothelial lineage ( Kanki et al., 2011 and Linnemann et al., 2011), these findings in Kras mutant NSCLC models demonstrate that Gata2 not only affects tumor initiation but also triggers major regression in established lesions.
+
+Full-size image (77 K)
+Figure S7. 
+Whole-Body Loss of GATA2 and Its Regulated Pathways Suppress Autochthonous Lung Tumorigenesis, Related to Figures 6 and 7
+(A) Rosa26CreERT2/+; Gata2+/+, F/+, F/F (CG +/+ [n = 5], F/+ [n = 8], and F/F [n = 6]) mice were initially weighed and fed tamoxifen diet for a week. The tamoxifen diet was ended, and mice were weighed once weekly for 4 weeks.
+(B) A subset of KRAS mutant (A427, H1792, and H23) and WT (HCC95, EKVX, and LUDLU-1) were treated with DMSO, 4 nM bortezomib (BTZ), 10 μM fasudil (Faz), or 4 nM BTZ and 10 μM Faz. Cells were counted 72 hr later.
+(C) A549 and PC9 cells were cotransfected with (1) siscr or siRNA targeting ROCK1 and (2) RISC-free or siRNAs targeting PSMA1, PSMB6, or PSMD14. Cells were counted 72 hr later.
+(D) Two WT animals each were treated for 4 weeks: (1) intraperitoneally (i.p.) with PBS and normal drinking water (PBS); (2) i.p. with BTZ and normal drinking water (BTZ); (3) i.p. with PBS and Faz in the drinking water (Faz); (4) i.p. with BTZ and Faz in the drinking water (BTZ+Faz). Animals were then sacrificed and lung lysates analyzed. Western blotting was performed for ubiquitin (conjugated and free), Akt, ERK, pMLC, and MLC.
+Figure options
+Combined Inhibition of the Proteasome and Rho Signaling Robustly Suppresses Kras Mutant Tumor Growth
+Though cellular and genetic studies reveal a dependency on GATA2 for RAS-pathway mutant NSCLC, the known difficulty of targeting transcription factors with small molecules raises issues as to how to translate this into the clinical setting. However, our studies revealed a GATA2-regulated signaling network, several components of which can be inhibited with clinically available compounds. In particular, the proteasome, and indirectly NF-κB, can be inhibited with the FDA-licensed drug bortezomib and the Rho/ROCK-signaling cascade with fasudil, which has been approved for clinical use in Japan. To examine combined inhibition of these pathways on KRAS mutant NSCLC, we first treated a subset of KRAS mutant and WT cells with the individual drugs and their combination. Notably, whereas there was a substantial effect of combined bortezomib/fasudil treatment in mutant cells, the effect was much less pronounced in WT cells ( Figure S7B). To exclude any potential off-target effects of these drugs, we also combined siRNAs targeting ROCK1 and various proteasome components in RAS-pathway mutant cells. Relative to control siRNAs or single pathway inhibition, mutual knockdown of ROCK1 and the proteasome combined to reduce mutant cell viability ( Figure S7C). Collectively, these results provide a rationale for combining proteasome and Rho-pathway inhibition in Kras mutant NSCLC.
+
+To extend these results in vivo, we treated KrasLA2-G12D mice at 12 weeks old, an age at which these animals have an extensive lung tumor burden ( Johnson et al., 2001), with either drug individually or both in combination. We found that bortezomib and fasudil treatments for 3 days clearly suppress proteasome and ROCK signaling, respectively ( Figure 7A). However, only combined treatment with bortezomib and fasudil elicited increased caspase 3 cleavage, demonstrating elevated apoptosis in those lesions. We then established a 4 week treatment protocol with bortezomib and fasudil individually or in combination. Notably, after 4 weeks of treatment, we still observed substantial repression of the proteasome and ROCK signaling in the lung ( Figure S7D). Subsequent histopathological analysis of these animals revealed a modest decrease in tumorigenesis with bortezomib or fasudil treatment alone and a very substantial decrease in tumor growth with the combination ( Figure 7B). Quantitation of these effects revealed major reductions in tumor burden, tumor number, and average tumor size with the combination therapy relative to both control and single-drug treatments ( Figures 7C–7E). Although the effect of this combination on the stroma might also contribute to inhibition of tumor growth, as seen for ROCK/JAK inhibition in squamous cell cancers ( Sanz-Moreno et al., 2011), our combined genetic and pharmacological analyses suggest a strong cell-autonomous effect of GATA2 pathway suppression on the tumor tissue, as in the KrasLSL-G12D model Gata2 is deleted only in tumor cells and not stroma, endothelial, or other host tissues. Collectively, these results demonstrate that joint treatment with clinically available inhibitors causes substantial regression of Kras-mutant NSCLC.
+
+Full-size image (77 K)
+Figure 7. 
+Combined Inhibition of the Proteasome and Rho Signaling Recapitulates the Effect of GATA2 Loss on Oncogenic Kras-Driven Tumorigenesis
+(A) Twelve-week-old KrasLA2-G12D animals were treated with PBS, bortezomib (BTZ), fasudil (Faz), or bortezomib and fasudil (BTZ+Faz). After 3 days, animals were culled, and western blotting was performed on lung tumors for caspase 3 (full-length [FL] and cleaved), ubiquitin (conjugated and free), p110alpha, p38, pMLC, and MLC. ∗ represents a nonspecific band detected with p110alpha.
+(B) Representative histological images of lungs from KrasLA2-G12D mice treated with PBS, BTZ, Faz, or BTZ+Faz for 4 weeks, starting at 12 weeks of age. Magnification is 1×.
+(C) Tumor burden in mice treated with PBS (n = 11), BTZ (n = 10), Faz (n = 10), or BTZ+Faz (n = 10) for 4 weeks, starting at 12 weeks of age. ∗p < 0.05; ∗∗p < 0.005; ∗∗∗p < 0.0005.
+(D) Tumor number in mice from (C). ∗∗p < 0.005; ∗∗∗p < 0.0005.
+(E) Tumor size in mice from (C). ∗p < 0.05; ∗∗p < 0.005; ∗∗∗p < 0.0005.
+See also Figure S7.
+Figure options
+Discussion
+The GATA2 Transcriptional Network Regulates RAS-Pathway Mutant NSCLC Survival
+In this report, we have shown that lung cancers with mutations in KRAS and other oncogenes on the RTK/RAS pathway depend upon GATA2 for survival. Through integrated analyses of gene expression and genome occupancy, we found that this dependency occurs via concurrent regulation of three pathways: the proteasome machinery; the IL-1/NF-κB signaling pathway; and the Rho-signaling cascade ( Figure 5K). These pathways exhibit extensive crosstalk, suggesting the network to be mutually reinforcing ( Figures S6C–S6E). Interestingly, the proteasome has been shown in several earlier screens to be a specific KRAS dependency ( Barbie et al., 2009 and Luo et al., 2009). Our results are in line with this, though we found that neither loss of individual proteasome components nor proteasome inhibition differentially reduces KRAS mutant cell viability ( Figures S2D and S2E). Furthermore, the NF-κB pathway has been previously described as required in KRAS-driven lung cancer in vitro and in vivo ( Barbie et al., 2009 and Meylan et al., 2009). We have seen a similar coordination of NF-κB- and RAS-pathway mutant cell survival, though we find that NF-κB inhibition is neither necessary nor sufficient for mutant NSCLC-specific killing ( Figures 4F and S3F–SJ).
+
+An intriguing discovery was the control of Rho signaling by GATA2 in complex with STAT5. Earlier work from Marshall and colleagues described interdependence between RAS and Rho signaling in oncogenic transformation (Olson et al., 1998). Moreover, an earlier KRAS synthetic lethal screen found the ephrin receptor EPHA6 to be specifically required in KRAS mutant lung cancer cells ( Barbie et al., 2009), and recent resequencing has described mutations of multiple ephrin receptors in lung adenocarcinoma ( Ding et al., 2008). As the Rho pathway is a major effector of ephrin signaling ( Pitulescu and Adams, 2010), these changes provide a basis for Rho dependency in NSCLC.
+
+Our findings expand the role of GATA2-regulated pathways to include RAS-pathway oncogene-mutated lung cancers. Intuitively, general dependencies in the RAS/RTK pathway should occur, as these factors share a common signaling axis. Moreover, resequencing of various cancers with mutations in the RAS/RTK cascade have found mutations in these components to be mutually exclusive, suggesting that they engender a common effect (Ding et al., 2008). Surprisingly, we found that GATA2 operates orthogonally to oncogenes, as suppression of oncogenic signaling did not affect GATA2 genome occupancy or regulated pathway function (Figures S5I–S5L). GATA2 has no known oncogenic function in its own right and is not controlled by signals emanating from the RTK/RAS pathway. Thus, dependency on the GATA2 transcriptional network might evolve as a stress-response mechanism in parallel to oncogene signaling during tumorigenesis, and that selection for the network in RAS-pathway mutant cells eventually converts into dependency on continued GATA2 function, a form of nononcogene addiction.
+
+Elucidation of the GATA2 Transcriptional Network Exposes a Multiplicity of Druggable Intervention Points
+Our investigations revealed a marked attenuation of autochthonous Kras mutant NSCLC growth in response to systemic Gata2 loss; similar effects were observed with whole-body inhibition of the Myc-Max interaction in a related Kras mutant lung tumor model ( Soucek et al., 2008). However, these findings face the issue of translation into clinically relevant therapies, as DNA-binding proteins are traditionally considered undruggable by the pharmaceutical industry ( Darnell, 2002).
+
+Through integrated analyses of gene expression and genome occupancy, we defined a GATA2 network of signaling pathways that present discrete avenues of therapeutic targeting. Consequently, we combined inhibition of the proteasome and Rho/ROCK signaling with the clinical compounds bortezomib and fasudil, respectively. Considering the dramatic effects observed with this regimen, we believe such a strategy may benefit patients with RAS-pathway mutant NSCLC.
+
+Beyond this initial approach, such treatment strategies could be improved further by inhibition of IL-1 signaling with IL-1 receptor monoclonal antibodies (Dinarello, 2010). Moreover, as this approach targets a network, one could envisage a multi-tiered strategy to inhibit various points within the signaling pathways. For example, along with fasudil one could inhibit Rho signaling upstream at the ephrin receptor with dasatinib (Montero et al., 2011). Finally, as GATA2 functions with STAT5 (Hennighausen and Robinson, 2008), a transcription factor regulated by phosphorylation, it would be intriguing to determine its regulatory kinase or kinases, as these factors might serve as therapeutic targets. We anticipate that this report will extend the basis for combinatorial design of targeted therapies in lung cancer.
+
+open menuExtended Discussion
+Role for RAS Effector Pathways in Tumorigenesis
+In addition to screening approaches, several candidate pathways downstream from RAS have been explored for their effect on tumorigenesis. Earlier studies found the Ral pathway, particularly RalGDS, was required for RAS-driven skin tumorigenesis (González-García et al., 2005). In addition, we have reported a requirement for the RAS-p110α interaction in the development of oncogenic Kras-driven lung tumors (Gupta et al., 2007). Moreover, a recent report has described a general dependency of cancer cells on the heat shock response and the mTOR pathway, whose repression induces irreparable endoplasmic reticulum (ER) and mitochondrial stress (De Raedt et al., 2011). Work has also described a requirement for the c-Raf kinase in mutant Kras-dependent lung tumors (Blasco et al., 2011 and Karreth et al., 2011). Taken together, these findings demonstrate a role for various downstream signaling pathways in Kras mutant lung cancer.
+
+RNAi Screen for Genes whose Knockdown Is Synthetic Lethal with Activated Mutant KRAS Expression
+A detailed description of the original RNAi screen has been submitted for publication elsewhere (M.S., M.M.-A., D.C.H., and J.D., unpublished data). In this, an initial screening of an isogenic colon cancer cell line pair was carried out on HCT-116 cells and a derivative in which the mutant KRAS allele had been deleted. Over 7,000 genes were individually targeted using Dharmacon's “druggable genome” collection of SMARTpool siRNAs, including all G protein-coupled receptors (GPCRs), protein kinases, phosphatases, ion channels, proteases, and ubiquitin-conjugating enzymes, plus genes involved with apoptosis, senescence, nucleic acid binding, autophagy, DNA repair, and characterized nuclear receptors. The assay measured both cell viability and caspase activity. The top 50 hits from this screen were then tested against a cell line panel consisting of 28 cancer cell lines (14 KRAS mutant and 14 KRAS WT) from colon, lung, pancreas, ovary, and stomach tumors. Nine cell lines overlapped between that panel and the lung-only 26 cancer cell line panel reported here in Figures 1A and S1A–S1D. Using apoptosis induction as a readout, GATA2 knockdown showed the greatest selectivity for the KRAS mutant genotype after KRAS itself.
+
+Differential Cofactor Association Determines Differential GATA2 Occupancy
+The transcription factor GATA2 has been traditionally described as a master regulator of both the hematopoietic and adipose lineages (Tong et al., 2000 and Tsai et al., 1994). Curiously, GATA2 has been described to be activated and inactivated in blast-crisis chronic myelogenous leukemia and myelodysplasia, respectively, obscuring a specific role for GATA2 in leukemogenesis (Hahn et al., 2011, Ostergaard et al., 2011 and Zhang et al., 2008a). Recently, several studies have described GATA2 genome occupancy in hematopoietic and endothelial cells (Fujiwara et al., 2009, Kanki et al., 2011, Linnemann et al., 2011 and Tijssen et al., 2011). Strikingly, though GATA2 biochemically recognizes [WGATAR], GATA2 occupancy in these lineages showed little overlap. This discordance was resolved by the determination of tissue-specific GATA2 cofactors, including Scl/Tal1 in the blood (Fujiwara et al., 2009 and Tijssen et al., 2011) and AP-1 and ETS in endothelial cells (Kanki et al., 2011 and Linnemann et al., 2011).
+
+We observed minimal overlap in GATA2 target genes between lung cancer cells and the previously described lineages (data not shown). Instead, we discovered a GATA2/STAT5 interaction in lung cancer cells. This interaction regulates Rho-pathway genes to control signaling. This occupancy appears genotype specific, likely due to the differential activation of STAT5 in mutant versus WT lung cancers (Figure S5H). As our analysis of GATA2 is one of the first to determine genome-wide occupancy of a transcription factor in various cells of one lineage but differing genotypes, it is possible that such genetic and signaling variations contribute specifically to transcription factor function.
+
+Experimental Procedures
+Detailed procedures are described in the Extended Experimental Procedures.
+
+ChIP-Seq
+ChIP assays were performed as described (Valouev et al., 2008). Both ChIP samples and total chromatin were submitted for Illumina sequencing as described (Schmidt et al., 2009). Details of computational analyses are in the Extended Experimental Procedures.
+
+Mouse Strains
+KrasLSL-G12D and KrasLA2-G12D mice were from the Mouse Models of Human Cancer Consortium ( Johnson et al., 2001 and Tuveson et al., 2004). Rosa26CreERT2 mice were from A. Berns ( Hameyer et al., 2007). Gata2F mice were from the Mutant Mouse Regional Resource Center ( Charles et al., 2006). BALB/C nude mice were from Charles River Laboratories. Animal husbandry details are in the Extended Experimental Procedures.
+
+Tamoxifen Treatment
+Mice were given a tamoxifen diet as described (Blasco et al., 2011). Further details are in the Extended Experimental Procedures.
+
+Micro-CT Analysis
+Micro-CT analysis was performed with the SkyScan 1176. LG mice were scanned, given a tamoxifen diet for 1 week, and scanned weekly. Details are in the Extended Experimental Procedures.
+
+Drug Treatment In Vivo
+Mice were treated with PBS, bortezomib, fasudil, or bortezomib and fasudil. For 3 day treatments, tumor protein was collected. For 4 week treatments, lungs were examined histologically or lung protein was collected. Details are in the Extended Experimental Procedures.
+
+Statistical Analysis
+Values represent mean ± standard error of the mean (SEM). For the NSCLC cell panel, significance was assessed with the Mann-Whitney test. For correlation analyses, significance was assessed with the Pearson's coefficient. For the cell cycle, significance was analyzed via chi-square testing. For qRT-PCR, error was propagated using standard methods. For histopathology, significance was determined using the Student's t test. For GSEA, significance was determined using an empirical phenotype-based permutation test as described (Subramanian et al., 2005). For GeneGo pathway enrichment, statistical significance was assessed with t statistics.
+
+open menuExtended Experimental Procedures
+Cell Lines
+HEK293, Phoenix-ampho, PC9, NCI-H1650, NCI-H1975, NCI-H3255, NCI-H23, NCI-H727, NCI-H358, NCI-H460, A549, A427, Calu-1, EKVX, NCI-H322M, NCI-H520, NCI-H522, NCI-H2170, NCI-H226, HOP-92, SK-MES-1, and LUDLU-1 cells were provided by Cancer Research UK Cell Services. PC9-er cells were a kind gift of Elza de Bruin. NCI-H441, NCI-H2228, NCI-H2122, NCI-H1734, NCI-H1792, and SK-LU-1 were acquired from ATCC. HCC15, HCC1171, HCC78, HCC95, and HCC193 were provided originally by Adi Gazdar. All lung cancer cell lines, HEK293, and Phoenix-ampho cells were cultured in RPMI 1640 medium with 10% FBS, 10 mM glutamine and 1% penicillin and streptomycin at 37°C in a 10% CO2/95% air incubator.
+
+siRNA Transfection
+Cells were transfected with siRNAs by reverse transfection as per the manufacturers' methods (Dharmacon). SiRNA details are in Table S1A. Pools of four oligos were used per gene (Dharmacon SMARTpools).
+
+Cell Viability
+Cells were plated in triplicate in 24-well plates. Seventy-two hours later, cell numbers were counted by haemacytometer.
+
+Retrovirus and Lentivirus Production
+MSCV-hygro empty and MSCV-Nrf1-hygro was generated by transfection of Phoenix-ampho cells with vector. 48 and 72 hr after transfection, virus particles in the medium were harvested, filtered, and transduced onto A549 and PC9 cells. ShRNA lentiviruses were generated by cotransfection of HEK293 cells with shRNA vector and packaging vectors pCMV-VSVG and pCMV-8.2. Forty-eight and seventy-two hours after transfection, virus particles in the medium were harvested, filtered, and transduced onto cells. ShRNA details are in Table S1B.
+
+Stable Cell Line Generation
+Expression vectors were initially linearized overnight using either BglII or FspI. Linearized DNA was then transfected into cells in 24-well plates, with media replaced 6 hr later. Cells were then replated into 6-well plates in the presence of 500 μg/ml G418 for selection over 2 weeks. For retroviral and lentiviral infection, cells were infected in 6-well plates and subsequently split into 10 cm dishes in the presence of 250 μg/ml hygromycin B or 2.5 μg/ml puromycin for selection over 10 days or 48 hr, respectively.
+
+Western Blotting
+Western blotting was performed by standard methods. Antibody details are provided in Table S1C.
+
+qRT-PCR
+RNA was isolated and qRT-PCR was performed using SYBR Green primers as per manufacturers' instructions (QIAGEN). Primer details are provided in Table S1D.
+
+ChIP-PCR and ChIP/re-ChIP
+ChIP assays were performed as above, and PCR analysis of specific targets was performed using standard methods. ChIP/re-ChIP was performed as described previously (Ianari et al., 2009). Primer details are provided in Table S1E.
+
+NF-κB Luciferase Assays
+Cells were seeded into 24-well plates in triplicate and cotransfected with pRL-TK (Promega) and the NF-κB reporter pGL3-HIV-Luc (Torres and Watt, 2008). Twenty-four hours later, luciferase activities were determined using the Dual-Luciferase Assay System as per manufacturers' instructions (Promega).
+
+Rho-GTP Activity Assays
+Rho-GTP activity assays were performed using the Rho Activation Assay Kit as per manufacturers' instructions (Millipore).
+
+Ephrin Stimulation Assays
+A549 cells were transfected with siRNAs in 6-well plates as per manufacturer's instructions (Dharmacon). Sixteen hours later, cells were washed thrice with PBS and serum starved for 24 hr. Cells were then stimulated with either control-Fc conjugates or Ephrin-A5-Fc conjugates at 2 μg/ml in PBS on ice as per manufacturer's instructions (R&D Systems). After 30 min at 37°, Rho-GTP activity assays were performed as above.
+
+ROCK:ER Assays
+A549 and PC9 cells were infected with ROCK:ER retrovirus as above. Cells were then transfected with siRNAs overnight. Cells were then treated with 500 nM 4-hydroxytamoxifen in ethanol for 6 hr for western analysis. Alternatively, cells were transfected with siRNAs and cotreated with 500 nM 4-hydroxytamoxifen for 72 hr for cell viability analysis as above.
+
+Coimmunoprecipitations
+Immunoprecipitations were performed with Dynabeads as per manufacturers' instructions (Invitrogen). Western blotting was subsequently performed as above.
+
+Gene Expression Array Analysis
+RNA was submitted for gene expression analysis using Illumina HT-12 arrays as per manufacturers' instructions (Illumina).
+
+Illumina Gene Expression Data Processing and Analysis
+We processed the Illumina bead level intensity data using Bead Studio from Illumina. The data was VST transformed and quantile normalized. We removed probes with a detection p value greater than 0.01 in all samples from further analysis. To determine GATA2 shRNA-dependent differential probes, we fitted a linear model using least-squares. We selected differential probes using a 0.01 FDR (false discovery rate). To increase statistical power, standard errors were corrected using an empirical Bayes shrinkage method and multiple testing was accounted for using a Benjamini & Hochberg correction. Analysis was carried out using Bioconductor (Gentleman et al., 2004). The Lumi package was used for annotation and data processing. The statistical analysis was carried out using Limma.
+
+GSEA
+GSEA was performed on expression data as described previously (Subramanian et al., 2005).
+
+ChIP-Seq Data Processing and Permutation Testing
+We aligned all Illumina GXII generated 36 base pair reads to the human reference genome (NBCI v36, hg19) using BWA with default settings, allowing for a total of two mismatches per read (Li and Durbin, 2009). We identified genomic loci enriched for aligned reads in ChIP samples when compared to corresponding input controls using the MACS algorithm (Zhang et al., 2008b). An mfold of 15 was used to initially identify enriched loci used by MACS to calculate a library insert size. We selected enriched regions using a 0.00001 p value threshold. We annotated the GATA2-bound loci with nearest TSS and TTS as well as characterizing their genomic position as either intragenic (+5 kb − TTS), promoter (−5 kb − +5 kb), enhancer (−25 kb − −5 kb), or intergenic. Transcript annotation was obtained using the knowngene table from the UCSC genome annotation database.
+
+We determined nonrandom localization of GATA2 loci to annotation landmarks by permutation test. To randomize landmark positions while maintaining a degree of local structure we split each chromosome up into twenty equally sized fragments. We constructed a null distribution for GATA2-binding site numbers mapping to each of the four annotation loci described above by permuting (10,000 cycles) over a random ordering of the fragments. We determined the significance of observed counts against the derived distributions.
+
+ChIP-Seq Motif Identification
+To identify any over represented sequence motifs within the identified GATA2-binding loci, we ran a meme analysis (version 4.4.0) (Bailey and Elkan, 1994). We removed loci larger than 300 base pairs to exclude those loci called as enriched due to sequence and alignment bias. Where more than 1,000 regions were reported, we randomly sampled 1,000 to reduce compute time. Raw genomic sequence was extracted for loci as defined in the MACS output. Meme was parameterized to search for a zero or one occurrence of a motif between 4 and 12 nucleotides wide reporting a total of 5 motifs.
+
+ChIP Pathway Enrichment by GeneGO
+ChIP-seq data for GATA2 in A549, PC9, H520, and H322M cells was entered into the GeneGO pathway enrichment system as per instructions (MetaCore). Pathway enrichment was performed for each cell line and overlapping pathway enrichment was determined. Statistical significance was assessed with t statistics including multiple hypothesis testing.
+
+Expression Vector Cloning
+GATA2shmut: pcDNA3-GATA2 was a kind gift of Susan M. Henshall (Böhm et al., 2009). The TRCN0000019268 shRNA interaction site was mutated by site-directed mutagenesis with primers 5′- caagatgaatgggcagaacAgGccGctcatcaagcccaagcgaagactg-3′ and 5′- cagtcttcgcttgggcttgatgagCggCcTgttctgcccattcatcttg-3′ as per manufacturer's instructions (QIAGEN).
+
+STAT5CA: pRSV-puro and pRSV-STAT5CA-puro were kind gifts of F. Gouilleux (Santos et al., 2001).
+
+ROCK:ER: pBabe-ROCK:ER-puro was a kind gift of E. Sahai (Croft et al., 2004).
+
+USP14SF: pCDNA3-USP14SF was a kind gift of D. Finley (Lee et al., 2010).
+
+Nrf1-hyg: MSCV-hyg empty and MSCV-Nrf1-hyg were kind gifts of R. Deshaies (Radhakrishnan et al., 2010).
+
+RelA: pUbC-RelA/PGK-Cre was a kind gift of Etienne Meylan and Wen Xue. Both RelA and pCDNA3 were digested with EcoRI and NotI and ligated together to generate pcDNA3-RelA.
+
+RhoAG14V: pCMV6-RhoAG14V was a kind gift from Erik Sahai (Sahai et al., 1999). Both RhoAG14V and pcDNA3 (a kind gift of Ralph Fritsch) were digested with EcoRI and NotI and ligated together to generate pcDNA3-RhoAG14V.
+
+TRAF6: The open reading frame of TRAF6 was PCR amplified from A549 cDNA using primers 5′- GAACAAGAATTCACCATGAGTCTGCTAAACTGTGAAAACAGC-3′ and 5′-GAACAACTCGAGCTATACCCCTGCATCAGTACTTCG-3′. Both TRAF6 and pCDNA3 were digested with EcoRI and XhoI and ligated together to generate pcDNA3-TRAF6.
+
+Cell-Cycle Analysis
+Propidium iodide staining was performed in triplicate using standard methods. Cell-cycle populations were compared statistically via chi-square testing.
+
+z-VAD-fmk Treatment
+Cells were infected with shRNAs and subsequently selected. After selection, cells were placed in the presence or absence of 10 μM z-VAD-fmk. For western blotting, z-VAD-fmk treatments were for 48 hr before lysates were generated. For luciferase assays, z-VAD-fmk treatments were for 24 hr before transfection and was maintained during transfection for 24 hr before luciferase analysis.
+
+IL-1ra Treatment
+Cells were plated in triplicate and treated with 20 ng/ml IL-1ra (R&D Systems). For cell viability studies, cells were maintained on IL-1ra for 72 hr before cell counting was performed. For luciferase assays, IL-1ra treatments were for 24 hr before transfection and were maintained during transfection for 24 hr before luciferase analysis.
+
+Fasudil Treatment
+For western analysis, cells were treated with increasing doses of fasudil for 24 hr before lysate generation. For cell viability studies, cells were plated in triplicate overnight and media was replaced in the presence or absence of 10 μM fasudil. Cells were maintained for 72 hr before either Cell Titer Blue (in the 26-cell panel) or cell counting (in the three mutant/three WT cell subset) was performed.
+
+Bortezomib Treatment
+For western analysis, cells were either transfected with siRNAs or treated with DMSO or 8 nM bortezomib for 24 hr before lysate generation. For cell viability studies, cells were plated in triplicate overnight and media was replaced in the presence or absence of 8 nM bortezomib. Cells were maintained for 72 hr before either Cell Titer Blue (in the 26-cell panel) cell counting (in the three mutant/three WT cell subset) was performed.
+
+Bortezomib/Fasudil Treatment
+Cells were plated in triplicate overnight and media was replaced in the presence of DMSO, 4 nM bortezomib, 10 μM fasudil, or both 4 nM bortezomib and 10 μM fasudil (bortezomib/fasudil). Cells were maintained on their respective drugs for 72 hr before cell counting was performed.
+
+Erlotinib Treatment
+For ChIP analysis, PC9 cells were treated with 30 nM erlotinib overnight. In parallel, protein lysates were made for western analysis and ChIP assays were performed as described. For viability studies, PC9 cells were plated in triplicate overnight. Cells were then treated with a ten-point, 5-fold dilution series of erlotinib (starting at 10 μM) along with DMSO, 4 nM bortezomib, 10 μM fasudil, or 4 nM bortezomib and 10 μM fasudil. Cells were maintained on drugs for 72 hr and viability was assessed by Cell Titer Blue as described above.
+
+Tumor Xenografts
+Lung cancer cells infected with shRNAs were prepared and injected subcutaneously at 106 cells/site into both flanks of BALB/C nude mice. Animals were monitored for tumor formation and tumor size was measured by calipers. Volumes were determined by the formula volume = 0.52 × width × height2. Once tumor size reached 1 cm3, mice were sacrificed.
+
+Mouse Strains and Husbandry
+KrasLSL-G12D and KrasLA2-G12D mice were provided by the Mouse Models of Human Cancer Consortium ( Johnson et al., 2001 and Tuveson et al., 2004). Rosa26CreERT2 mice were provided by A. Berns ( Hameyer et al., 2007). Gata2F mice were provided by the Mutant Mouse Regional Resource Center ( Charles et al., 2006). Gata2F/F mice were crossed to KrasLSL-G12D/+, KrasLA2-G12D/+, and Rosa26CreERT2/CreERT2 animals to generate compound heterozygotes. For the “KG” experiments, KrasLSL-G12D/+; Gata2F/+ mice were intercrossed to generate the experimental cohort. For the “LG” and “CG” experiments, KrasLA2-G12D/+; Gata2F/+ mice were crossed to Rosa26CreERT2/+; Gata2F/+ to generate the relevant experimental cohorts. For the drug experiments, KrasLA2-G12D/+ animals were used as the experimental cohort.
+
+Intratracheal Infection with Adenovirus
+Mice were intratracheally infected with adenovirus that expresses Cre recombinase as described (DuPage et al., 2009).
+
+Micro-CT Analysis
+Micro-CT analysis was performed using the SkyScan 1176 micro-CT analyzer. Twelve-week-old KrasLA2-G12D/+; Rosa26CreERT2/+; Gata2 (LG) animals were prescanned before beginning tamoxifen diet (day 0), given tamoxifen diet for 1 week, and scanned 2, 3, and 4 weeks later (days 21, 28, and 35, respectively). Micro-CT data were batch sorted, processed, and reconstructed using the N-Recon program as per manufacturers' instructions (SkyScan). Reconstructed data were subsequently imaged using DataViewer and tumor volumes were calculated using the CTan program as per manufacturers' instructions (SkyScan).
+
+Histopathological Analysis
+After sacrifice by CO2 asphyxiation, lungs were collected from animals and fixed overnight in 10% formalin. They were subsequently placed in 70% ethanol and submitted for embedding, sectioning, and hematoxylin and eosin (H&E) staining. H&E slides were then analyzed for tumor burden using the NIS-Elements program as per manufacturers' instructions (Nikon).
+
+Genotyping and Recombination Analysis
+For genotyping, tail DNA was prepared via proteinase K lysis and isopropanol precipitation. For recombination analysis of lung tumors in situ, tumors were collected and underwent DNA preparation as above. For recombination analysis of lung tumors from paraffin-embedded sections, tumors were initially collected by scraping from microscope slides adjacent to H&E stained sections. These sections then underwent a standard deparaffinization followed by DNA preparation as above. Both genotyping and recombination analyses were performed using previously described genotyping primers (Charles et al., 2006, Johnson et al., 2001 and Tuveson et al., 2004).
+
+Tamoxifen Treatment
+KrasLA2-G12D/+; Rosa26CreERT2/+; Gata2 (LG) animals and Rosa26CreERT2/+; Gata2 (CG) animals were given tamoxifen via the diet as described previously ( Blasco et al., 2011). For some animals, tamoxifen diet was given for 3 days and then mice were sacrificed to collect tumor DNA and protein for recombination analysis and western blotting, respectively. Otherwise, tamoxifen diet was given for 1 week, after which animals were switched to normal diet.
+
+Drug Treatment In Vivo
+Twelve-week-old KrasLA2-G12D/+ and WT mice were treated for either 3 days or 4 weeks with intraperitoneal (i.p.) delivery of PBS twice weekly, i.p. delivery of 0.5 mg/kg/day bortezomib in PBS twice weekly, 2 mg/ml of fasudil in the drinking water, or i.p. delivery of 0.5 mg/kg/day bortezomib in PBS twice weekly and 2 mg/ml of fasudil in the drinking water. Animals were examined for general health during this time. For 3 day treatments, animals were culled and tumor protein was collected for western blotting. For 4 week treatments, animals were culled and their lungs were examined histopathologically or total lung protein was collected for western blotting.
+
+Acknowledgments
+We thank S.M. Henshall for the GATA2 expression vector; D. Finley for the USP14 expression vector; R. Deshaies for the Nrf1 expression vector; D. Goubau for the NF-κB and control reporter plasmids; E. Meylan and W. Xue for the RelA expression vector; E. Sahai for the RhoA and ROCK:ER expression vectors; and F. Gouilleux for the STAT5CA expression vector. We thank the LRI FACS facility for cell-cycle assays and the Bart's Genome Centre for gene expression analysis. We thank C. Sheridan for micro-CT assistance. M.S.K. is a Long-Term Fellow of the Human Frontier Science Program and European Molecular Biology Organization. M.M. is a Marie Curie Postdoctoral Fellow. This work was supported by Cancer Research UK and by funding from the European Commission's Seventh Framework Programme (FP7/2007-2013) under the Lungtarget Grant agreement (HEALTH-F2-2010-259770).
+
+Supplemental Information
+ 
+Table S1. List of Primers, siRNAs, shRNAs, and Antibodies Used in the Study, Related to Experimental Procedures.  
+Help with XLS filesOptions
+ 
+Document S1. Article plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Barbie et al., 2009
+D.A. Barbie, P. Tamayo, J.S. Boehm, S.Y. Kim, S.E. Moody, I.F. Dunn, A.C. Schinzel, P. Sandy, E. Meylan, C. Scholl et al.
+Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1
+Nature, 462 (2009), pp. 108–112
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (313)
+Blasco et al., 2011
+R.B. Blasco, S. Francoz, D. Santamaría, M. Cañamero, P. Dubus, J. Charron, M. Baccarini, M. Barbacid
+c-Raf, but not B-Raf, is essential for development of K-Ras oncogene-driven non-small cell lung carcinoma
+Cancer Cell, 19 (2011), pp. 652–663
+
+Article |  PDF (1248 K) | View Record in Scopus | Citing articles (56)
+Cao et al., 1996
+Z. Cao, J. Xiong, M. Takeuchi, T. Kurama, D.V. Goeddel
+TRAF6 is a signal transducer for interleukin-1
+Nature, 383 (1996), pp. 443–446
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (890)
+Charles et al., 2006
+M.A. Charles, T.L. Saunders, W.M. Wood, K. Owens, A.F. Parlow, S.A. Camper, E.C. Ridgway, D.F. Gordon
+Pituitary-specific Gata2 knockout: effects on gonadotrope and thyrotrope function
+Mol. Endocrinol., 20 (2006), pp. 1366–1377
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (46)
+Chien et al., 2006
+Y. Chien, S. Kim, R. Bumeister, Y.M. Loo, S.W. Kwon, C.L. Johnson, M.G. Balakireva, Y. Romeo, L. Kopelovich, M. Gale Jr. et al.
+RalB GTPase-mediated activation of the IkappaB family kinase TBK1 couples innate immune signaling to tumor cell survival
+Cell, 127 (2006), pp. 157–170
+
+Article |  PDF (911 K) | View Record in Scopus | Citing articles (139)
+Croft et al., 2004
+D.R. Croft, E. Sahai, G. Mavria, S. Li, J. Tsai, W.M. Lee, C.J. Marshall, M.F. Olson
+Conditional ROCK activation in vivo induces tumor cell dissemination and angiogenesis
+Cancer Res., 64 (2004), pp. 8994–9001
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (98)
+Darnell, 2002
+J.E. Darnell Jr.
+Transcription factors as targets for cancer therapy
+Nat. Rev. Cancer, 2 (2002), pp. 740–749
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (516)
+Dinarello, 2010
+C.A. Dinarello
+Why not treat human cancer with interleukin-1 blockade?
+Cancer Metastasis Rev., 29 (2010), pp. 317–329
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (75)
+Ding et al., 2008
+L. Ding, G. Getz, D.A. Wheeler, E.R. Mardis, M.D. McLellan, K. Cibulskis, C. Sougnez, H. Greulich, D.M. Muzny, M.B. Morgan et al.
+Somatic mutations affect key pathways in lung adenocarcinoma
+Nature, 455 (2008), pp. 1069–1075
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (904)
+Engelman et al., 2008
+J.A. Engelman, L. Chen, X. Tan, K. Crosby, A.R. Guimaraes, R. Upadhyay, M. Maira, K. McNamara, S.A. Perera, Y. Song et al.
+Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers
+Nat. Med., 14 (2008), pp. 1351–1356
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (556)
+Ferlay et al., 2010
+J. Ferlay, H.R. Shin, F. Bray, D. Forman, C. Mathers, D.M. Parkin
+Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008
+Int. J. Cancer, 127 (2010), pp. 2893–2917
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (3896)
+Hameyer et al., 2007
+D. Hameyer, A. Loonstra, L. Eshkind, S. Schmitt, C. Antunes, A. Groen, E. Bindels, J. Jonkers, P. Krimpenfort, R. Meuwissen et al.
+Toxicity of ligand-dependent Cre recombinases and generation of a conditional Cre deleter mouse allowing mosaic recombination in peripheral tissues
+Physiol. Genomics, 31 (2007), pp. 32–41
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Hennighausen and Robinson, 2008
+L. Hennighausen, G.W. Robinson
+Interpretation of cytokine signaling through the transcription factors STAT5A and STAT5B
+Genes Dev., 22 (2008), pp. 711–721
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (141)
+Jackson et al., 2001
+E.L. Jackson, N. Willis, K. Mercer, R.T. Bronson, D. Crowley, R. Montoya, T. Jacks, D.A. Tuveson
+Analysis of lung tumor initiation and progression using conditional expression of oncogenic K-ras
+Genes Dev., 15 (2001), pp. 3243–3248
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (601)
+Johnson et al., 2001
+L. Johnson, K. Mercer, D. Greenbaum, R.T. Bronson, D. Crowley, D.A. Tuveson, T. Jacks
+Somatic activation of the K-ras oncogene causes early onset lung cancer in mice
+Nature, 410 (2001), pp. 1111–1116
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (563)
+Kanki et al., 2011
+Y. Kanki, T. Kohro, S. Jiang, S. Tsutsumi, I. Mimura, J. Suehiro, Y. Wada, Y. Ohta, S. Ihara, H. Iwanari et al.
+Epigenetically coordinated GATA2 binding is necessary for endothelium-specific endomucin expression
+EMBO J., 30 (2011), pp. 2582–2595
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (15)
+Lee et al., 2010
+B.H. Lee, M.J. Lee, S. Park, D.C. Oh, S. Elsasser, P.C. Chen, C. Gartner, N. Dimova, J. Hanna, S.P. Gygi et al.
+Enhancement of proteasome activity by a small-molecule inhibitor of USP14
+Nature, 467 (2010), pp. 179–184
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (182)
+Linnemann et al., 2011
+A.K. Linnemann, H. O'Geen, S. Keles, P.J. Farnham, E.H. Bresnick
+Genetic framework for GATA factor function in vascular biology
+Proc. Natl. Acad. Sci. USA, 108 (2011), pp. 13641–13646
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Luo et al., 2009
+J. Luo, M.J. Emanuele, D. Li, C.J. Creighton, M.R. Schlabach, T.F. Westbrook, K.K. Wong, S.J. Elledge
+A genome-wide RNAi screen identifies multiple synthetic lethal interactions with the Ras oncogene
+Cell, 137 (2009), pp. 835–848
+
+Article |  PDF (2187 K) | View Record in Scopus | Citing articles (351)
+Meylan et al., 2009
+E. Meylan, A.L. Dooley, D.M. Feldser, L. Shen, E. Turk, C. Ouyang, T. Jacks
+Requirement for NF-kappaB signalling in a mouse model of lung adenocarcinoma
+Nature, 462 (2009), pp. 104–107
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (201)
+Montero et al., 2011
+J.C. Montero, S. Seoane, A. Ocaña, A. Pandiella
+Inhibition of SRC family kinases and receptor tyrosine kinases by dasatinib: possible combinations in solid tumors
+Clin. Cancer Res., 17 (2011), pp. 5546–5552
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (42)
+O'Neill, 2008
+L.A. O'Neill
+The interleukin-1 receptor/Toll-like receptor superfamily: 10 years of progress
+Immunol. Rev., 226 (2008), pp. 10–18
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (238)
+Olson et al., 1998
+M.F. Olson, H.F. Paterson, C.J. Marshall
+Signals from Ras and Rho GTPases interact to regulate expression of p21Waf1/Cip1
+Nature, 394 (1998), pp. 295–299
+
+View Record in Scopus | Citing articles (355)
+Perona et al., 1997
+R. Perona, S. Montaner, L. Saniger, I. Sánchez-Pérez, R. Bravo, J.C. Lacal
+Activation of the nuclear factor-kappaB by Rho, CDC42, and Rac-1 proteins
+Genes Dev., 11 (1997), pp. 463–475
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (437)
+Pitulescu and Adams, 2010
+M.E. Pitulescu, R.H. Adams
+Eph/ephrin molecules—a hub for signaling and endocytosis
+Genes Dev., 24 (2010), pp. 2480–2492
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (76)
+Puyol et al., 2010
+M. Puyol, A. Martín, P. Dubus, F. Mulero, P. Pizcueta, G. Khan, C. Guerra, D. Santamaría, M. Barbacid
+A synthetic lethal interaction between K-Ras oncogenes and Cdk4 unveils a therapeutic strategy for non-small cell lung carcinoma
+Cancer Cell, 18 (2010), pp. 63–73
+
+Article |  PDF (1649 K) | View Record in Scopus | Citing articles (88)
+Radhakrishnan et al., 2010
+S.K. Radhakrishnan, C.S. Lee, P. Young, A. Beskow, J.Y. Chan, R.J. Deshaies
+Transcription factor Nrf1 mediates the proteasome recovery pathway after proteasome inhibition in mammalian cells
+Mol. Cell, 38 (2010), pp. 17–28
+
+Article |  PDF (1151 K) | View Record in Scopus | Citing articles (64)
+Sanz-Moreno et al., 2011
+V. Sanz-Moreno, C. Gaggioli, M. Yeo, J. Albrengues, F. Wallberg, A. Viros, S. Hooper, R. Mitter, C.C. Féral, M. Cook et al.
+ROCK and JAK1 signaling cooperate to control actomyosin contractility in tumor cells and stroma
+Cancer Cell, 20 (2011), pp. 229–245
+
+Article |  PDF (3017 K) | View Record in Scopus | Citing articles (55)
+Schmidt et al., 2009
+D. Schmidt, M.D. Wilson, C. Spyrou, G.D. Brown, J. Hadfield, D.T. Odom
+ChIP-seq: using high-throughput sequencing to discover protein-DNA interactions
+Methods, 48 (2009), pp. 240–248
+
+Article |  PDF (377 K) | View Record in Scopus | Citing articles (108)
+Soucek et al., 2008
+L. Soucek, J. Whitfield, C.P. Martins, A.J. Finch, D.J. Murphy, N.M. Sodir, A.N. Karnezis, L.B. Swigart, S. Nasi, G.I. Evan
+Modelling Myc inhibition as a cancer therapy
+Nature, 455 (2008), pp. 679–683
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (245)
+Subramanian et al., 2005
+A. Subramanian, P. Tamayo, V.K. Mootha, S. Mukherjee, B.L. Ebert, M.A. Gillette, A. Paulovich, S.L. Pomeroy, T.R. Golub, E.S. Lander, J.P. Mesirov
+Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles
+Proc. Natl. Acad. Sci. USA, 102 (2005), pp. 15545–15550
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (4678)
+Tuveson et al., 2004
+D.A. Tuveson, A.T. Shaw, N.A. Willis, D.P. Silver, E.L. Jackson, S. Chang, K.L. Mercer, R. Grochow, H. Hock, D. Crowley et al.
+Endogenous oncogenic K-ras(G12D) stimulates proliferation and widespread neoplastic and developmental defects
+Cancer Cell, 5 (2004), pp. 375–387
+
+Article |  PDF (814 K) | View Record in Scopus | Citing articles (360)
+Valouev et al., 2008
+A. Valouev, D.S. Johnson, A. Sundquist, C. Medina, E. Anton, S. Batzoglou, R.M. Myers, A. Sidow
+Genome-wide analysis of transcription factor binding sites based on ChIP-Seq data
+Nat. Methods, 5 (2008), pp. 829–834
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (331)
+Vicent et al., 2010
+S. Vicent, R. Chen, L.C. Sayles, C. Lin, R.G. Walker, A.K. Gillespie, A. Subramanian, G. Hinkle, X. Yang, S. Saif et al.
+Wilms tumor 1 (WT1) regulates KRAS-driven oncogenesis and senescence in mouse and human models
+J. Clin. Invest., 120 (2010), pp. 3940–3952
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (39)
+Xue et al., 2011
+W. Xue, E. Meylan, T.G. Oliver, D.M. Feldser, M.M. Winslow, R.T. Bronson, T. Jacks
+Response and resistance to NF-κB inhibitors in mouse models of lung adenocarcinoma
+Cancer Discov, 1 (2011), pp. 236–247
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (27)
+Yamaoka et al., 1998
+S. Yamaoka, G. Courtois, C. Bessia, S.T. Whiteside, R. Weil, F. Agou, H.E. Kirk, R.J. Kay, A. Israël
+Complementation cloning of NEMO, a component of the IkappaB kinase complex essential for NF-kappaB activation
+Cell, 93 (1998), pp. 1231–1240
+
+Article |  PDF (316 K) | View Record in Scopus | Citing articles (807)
+Supplemental References
+Bailey and Elkan, 1994
+Bailey, T.L., and Elkan, C. (1994). Fitting a mixture model by expectation maximization to discover motifs in biopolymers. Proc. Int. Conf. Intell. Syst. Mol. Biol. 2, 28–36.
+Blasco et al., 2011
+Blasco, R.B., Francoz, S., Santamaría, D., Cañamero, M., Dubus, P., Charron, J., Baccarini, M., and Barbacid, M. (2011). c-Raf, but not B-Raf, is essential for development of K-Ras oncogene-driven non-small cell lung carcinoma. Cancer Cell 19, 652–663.
+Böhm et al., 2009
+Böhm, M., Locke, W.J., Sutherland, R.L., Kench, J.G., and Henshall, S.M. (2009). A role for GATA-2 in transition to an aggressive phenotype in prostate cancer through modulation of key androgen-regulated genes. Oncogene 28, 3847–3856.
+Charles et al., 2006
+Charles, M.A., Saunders, T.L., Wood, W.M., Owens, K., Parlow, A.F., Camper, S.A., Ridgway, E.C., and Gordon, D.F. (2006). Pituitary-specific Gata2 knockout: effects on gonadotrope and thyrotrope function. Mol. Endocrinol. 20, 1366–1377.
+Croft et al., 2004
+Croft, D.R., Sahai, E., Mavria, G., Li, S., Tsai, J., Lee, W.M., Marshall, C.J., and Olson, M.F. (2004). Conditional ROCK activation in vivo induces tumor cell dissemination and angiogenesis. Cancer Res. 64, 8994–9001.
+De Raedt et al., 2011
+De Raedt, T., Walton, Z., Yecies, J.L., Li, D., Chen, Y., Malone, C.F., Maertens, O., Jeong, S.M., Bronson, R.T., Lebleu, V., et al. (2011). Exploiting cancer cell vulnerabilities to develop a combination therapy for ras-driven tumors. Cancer Cell 20, 400–413.
+DuPage et al., 2009
+DuPage, M., Dooley, A.L., and Jacks, T. (2009). Conditional mouse lung cancer models using adenoviral or lentiviral delivery of Cre recombinase. Nat. Protoc. 4, 1064–1072.
+Fujiwara et al., 2009
+Fujiwara, T., O'Geen, H., Keles, S., Blahnik, K., Linnemann, A.K., Kang, Y.A., Choi, K., Farnham, P.J., and Bresnick, E.H. (2009). Discovering hematopoietic mechanisms through genome-wide analysis of GATA factor chromatin occupancy. Mol. Cell 36, 667–681.
+Gentleman et al., 2004
+Gentleman, R.C., Carey, V.J., Bates, D.M., Bolstad, B., Dettling, M., Dudoit, S., Ellis, B., Gautier, L., Ge, Y., Gentry, J., et al. (2004). Bioconductor: open software development for computational biology and bioinformatics. Genome Biol. 5, R80.
+González-García et al., 2005
+González-García, A., Pritchard, C.A., Paterson, H.F., Mavria, G., Stamp, G., and Marshall, C.J. (2005). RalGDS is required for tumor formation in a model of skin carcinogenesis. Cancer Cell 7, 219–226.
+Gupta et al., 2007
+Gupta, S., Ramjaun, A.R., Haiko, P., Wang, Y., Warne, P.H., Nicke, B., Nye, E., Stamp, G., Alitalo, K., and Downward, J. (2007). Binding of ras to phosphoinositide 3-kinase p110alpha is required for ras-driven tumorigenesis in mice. Cell 129, 957–968.
+Hahn et al., 2011
+Hahn, C.N., Chong, C.E., Carmichael, C.L., Wilkins, E.J., Brautigan, P.J., Li, X.C., Babic, M., Lin, M., Carmagnac, A., Lee, Y.K., et al. (2011). Heritable GATA2 mutations associated with familial myelodysplastic syndrome and acute myeloid leukemia. Nat. Genet. 43, 1012–1017.
+Hameyer et al., 2007
+Hameyer, D., Loonstra, A., Eshkind, L., Schmitt, S., Antunes, C., Groen, A., Bindels, E., Jonkers, J., Krimpenfort, P., Meuwissen, R., et al. (2007). Toxicity of ligand-dependent Cre recombinases and generation of a conditional Cre deleter mouse allowing mosaic recombination in peripheral tissues. Physiol. Genomics 31, 32–41.
+Ianari et al., 2009
+Ianari, A., Natale, T., Calo, E., Ferretti, E., Alesse, E., Screpanti, I., Haigis, K., Gulino, A., and Lees, J.A. (2009). Proapoptotic function of the retinoblastoma tumor suppressor protein. Cancer Cell 15, 184–194.
+Johnson et al., 2001
+Johnson, L., Mercer, K., Greenbaum, D., Bronson, R.T., Crowley, D., Tuveson, D.A., and Jacks, T. (2001). Somatic activation of the K-ras oncogene causes early onset lung cancer in mice. Nature 410, 1111–1116.
+Kanki et al., 2011
+Kanki, Y., Kohro, T., Jiang, S., Tsutsumi, S., Mimura, I., Suehiro, J., Wada, Y., Ohta, Y., Ihara, S., Iwanari, H., et al. (2011). Epigenetically coordinated GATA2 binding is necessary for endothelium-specific endomucin expression. EMBO J. 30, 2582–2595.
+Karreth et al., 2011
+Karreth, F.A., Frese, K.K., Denicola, G.M., Baccarini, M., and Tuveson, D.A. (2011). C-Raf is required for the initiation of lung cancer by K-Ras. Cancer Discov 1, 128–136.
+Lee et al., 2010
+Lee, B.H., Lee, M.J., Park, S., Oh, D.C., Elsasser, S., Chen, P.C., Gartner, C., Dimova, N., Hanna, J., Gygi, S.P., et al. (2010). Enhancement of proteasome activity by a small-molecule inhibitor of USP14. Nature 467, 179–184.
+Li and Durbin, 2009
+Li, H., and Durbin, R. (2009). Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics 25, 1754–1760.
+Linnemann et al., 2011
+Linnemann, A.K., O'Geen, H., Keles, S., Farnham, P.J., and Bresnick, E.H. (2011). Genetic framework for GATA factor function in vascular biology. Proc. Natl. Acad. Sci. USA 108, 13641–13646.
+Ostergaard et al., 2011
+Ostergaard, P., Simpson, M.A., Connell, F.C., Steward, C.G., Brice, G., Woollard, W.J., Dafou, D., Kilo, T., Smithson, S., Lunt, P., et al. (2011). Mutations in GATA2 cause primary lymphedema associated with a predisposition to acute myeloid leukemia (Emberger syndrome). Nat. Genet. 43, 929–931.
+Radhakrishnan et al., 2010
+Radhakrishnan, S.K., Lee, C.S., Young, P., Beskow, A., Chan, J.Y., and Deshaies, R.J. (2010). Transcription factor Nrf1 mediates the proteasome recovery pathway after proteasome inhibition in mammalian cells. Mol. Cell 38, 17–28.
+Sahai et al., 1999
+Sahai, E., Ishizaki, T., Narumiya, S., and Treisman, R. (1999). Transformation mediated by RhoA requires activity of ROCK kinases. Curr. Biol. 9, 136–145.
+Santos et al., 2001
+Santos, S.C., Lacronique, V., Bouchaert, I., Monni, R., Bernard, O., Gisselbrecht, S., and Gouilleux, F. (2001). Constitutively active STAT5 variants induce growth and survival of hematopoietic cells through a PI 3-kinase/Akt dependent pathway. Oncogene 20, 2080–2090.
+Subramanian et al., 2005
+Subramanian, A., Tamayo, P., Mootha, V.K., Mukherjee, S., Ebert, B.L., Gillette, M.A., Paulovich, A., Pomeroy, S.L., Golub, T.R., Lander, E.S., and Mesirov, J.P. (2005). Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc. Natl. Acad. Sci. USA 102, 15545–15550.
+Tijssen et al., 2011
+Tijssen, M.R., Cvejic, A., Joshi, A., Hannah, R.L., Ferreira, R., Forrai, A., Bellissimo, D.C., Oram, S.H., Smethurst, P.A., Wilson, N.K., et al. (2011). Genome-wide analysis of simultaneous GATA1/2, RUNX1, FLI1, and SCL binding in megakaryocytes identifies hematopoietic regulators. Dev. Cell 20, 597–609.
+Tong et al., 2000
+Tong, Q., Dalgin, G., Xu, H., Ting, C.N., Leiden, J.M., and Hotamisligil, G.S. (2000). Function of GATA transcription factors in preadipocyte-adipocyte transition. Science 290, 134–138.
+Torres and Watt, 2008
+Torres, J., and Watt, F.M. (2008). Nanog maintains pluripotency of mouse embryonic stem cells by inhibiting NFkappaB and cooperating with Stat3. Nat. Cell Biol. 10, 194–201.
+Tsai et al., 1994
+Tsai, F.Y., Keller, G., Kuo, F.C., Weiss, M., Chen, J., Rosenblatt, M., Alt, F.W., and Orkin, S.H. (1994). An early haematopoietic defect in mice lacking the transcription factor GATA-2. Nature 371, 221–226.
+Tuveson et al., 2004
+Tuveson, D.A., Shaw, A.T., Willis, N.A., Silver, D.P., Jackson, E.L., Chang, S., Mercer, K.L., Grochow, R., Hock, H., Crowley, D., et al. (2004). Endogenous oncogenic K-ras(G12D) stimulates proliferation and widespread neoplastic and developmental defects. Cancer Cell 5, 375–387.
+Zhang et al., 2008a
+Zhang, S.J., Ma, L.Y., Huang, Q.H., Li, G., Gu, B.W., Gao, X.D., Shi, J.Y., Wang, Y.Y., Gao, L., Cai, X., et al. (2008a). Gain-of-function mutation of GATA-2 in acute myeloid transformation of chronic myeloid leukemia. Proc. Natl. Acad. Sci. USA 105, 2076–2081.
+Zhang et al., 2008b
+Zhang, Y., Liu, T., Meyer, C.A., Eeckhoute, J., Johnson, D.S., Bernstein, B.E., Nusbaum, C., Myers, R.M., Brown, M., Li, W., and Liu, X.S. (2008b). Model-based analysis of ChIP-Seq (MACS). Genome Biol. 9, R137.
+Corresponding author contact information
+Corresponding author
+8
+These authors contributed equally to this work
+Copyright © 2012 Elsevier Inc. All rights reserved.

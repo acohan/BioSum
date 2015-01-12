@@ -1,0 +1,394 @@
+Binding of Chromatin-Modifying Activities to Phosphorylated Histone H2A at DNA Damage Sites
+Jessica A. DownsCorresponding author contact information, 1, 4, 5, E-mail the corresponding author, Stéphane Allard2, 4, Olivier Jobin-Robitaille2, Ali Javaheri3, Andréanne Auger2, Nathalie Bouchard2, Stephen J. Kron3, Stephen P. Jackson1, Jacques CôtéCorresponding author contact information, 2, E-mail the corresponding author
+ Show more
+DOI: 10.1016/j.molcel.2004.12.003
+Under an Elsevier user license
+  Open Archive
+Abstract
+Yeast histone H2A is phosphorylated on Ser129 upon DNA damage, an event required for efficient repair. We show that phosphorylation occurs rapidly over a large region around DNA double-strand breaks (DSBs). Histone H4 acetylation is also important for DSB repair, and we found that the NuA4 HAT complex associates specifically with phospho-H2A peptides. A single NuA4 subunit, Arp4, is responsible for the interaction. The NuA4 complex is recruited to a DSB concomitantly with the appearance of H2A P-Ser129 and Arp4 is important for this binding. Arp4 is also a subunit of the Ino80 and Swr1 chromatin remodeling complexes, which also interact with H2A P-Ser129 and are recruited to DSBs. This association again requires Arp4 but also prior NuA4 recruitment and action. Thus, phosphorylation of H2A at DNA damage sites creates a mark recognized by different chromatin modifiers. This interaction leads to stepwise chromatin reconfiguration, allowing efficient DNA repair.
+
+Introduction
+Double-strand breaks (DSBs) in DNA are arguably the most genotoxic lesion a cell can sustain. If repaired inefficiently or inaccurately, DSBs can result in cell death or genomic instability. A growing body of evidence indicates that in multicellular eukaryotes, this is a key event in the development of cancer (Khanna and Jackson, 2001). Therefore, the ability of a cell to appropriately detect and repair double-strand breaks in DNA is of vital importance on both a cellular and organismal level.
+
+Phosphorylation of histone H2A at position Ser129 occurs in response to DNA damage in yeast, and this phosphorylation event is important for survival in the presence of agents that cause DNA DSBs Downs et al. 2000 and Redon et al. 2003. It appears that although not required for DNA damage-induced transcription or checkpoint responses, phosphorylation of histone H2A facilitates DNA repair, perhaps by directly or indirectly opening chromatin structure Downs et al. 2000 and Redon et al. 2003. This histone modification is likely related to phosphorylation of variant histone H2A.X C termini at position Ser139 in mammalian cells. Phospho-H2AX (γ-H2AX) appears early upon DNA damage and forms foci around the damaged sites, covering large chromatin domains (Redon et al., 2002). Mice lacking H2AX are sensitive to ionizing radiation (IR) and show a high incidence of cancer in the absence of p53 Bassing et al. 2003 and Celeste et al. 2003a. Phosphorylation of H2AX in the vicinity of DSBs has been shown to be dispensable for the initial DSB recognition but is required for the accumulation of the checkpoint and repair machinery in the IR-induced nuclear foci (Celeste et al., 2003b). Proteins present in these foci have been suggested to directly bind γ-H2AX through their FHA or BRCT domains Kobayashi et al. 2002, Manke et al. 2003 and Ward et al. 2003.
+
+The importance of chromatin function in DNA repair is just beginning to emerge (Peterson and Côté, 2004). Histone chaperones, acetyltransferases, deacetylases, and ATP-dependent chromatin remodelers are proposed to be important to allow access to the DNA damage site and restoration of the normal chromatin structure after repair has been completed. The work presented here demonstrates the ordered recruitment of specific yeast chromatin modifying activities near a single DSB site in vivo. Furthermore, we show that Arp4, a subunit of each of these multiprotein complexes, is required for their binding as it specifically recognizes phosphorylated histone H2A present in the chromatin surrounding the DNA break.
+
+Results
+Histone H2A Is Rapidly Phosphorylated on Serine 129 in Chromatin Surrounding DNA Double-Strand Break
+In yeast, it has been shown that after DNA damage, ATM-family kinase Mec1 localizes to sites of DNA damage (Rouse and Jackson, 2002). Because Mec1 is capable of phosphorylating H2A P-Ser129 (Downs et al., 2000), one prediction is that H2A present in chromatin proximal to sites of damage becomes phosphorylated. To test this, we performed chromatin immunoprecipitation (ChIP) assays with antisera raised against H2A P-Ser129. Using a galactose-inducible single DSB created by the HO endonuclease in vivo, we analyzed H2A P-Ser129-associated chromatin by PCR (Figure 1A). In this strain, HML and HMR cassettes have been deleted so no homologous recombination can occur after cleavage of the MAT locus by HO. Upon induction of the HO nuclease, we detect rapid enrichment of phospho-H2A in the chromatin surrounding the DSB site (lane 4 versus 3). This enrichment is detected over a large chromatin domain extending from 60 bp (HO) to at least 10 kb away from the DNA damage site but is not seen at other chromosomal loci. This is dependent on HO endonuclease expression and not an indirect effect of shift to growth in galactose, because a strain containing an empty vector does not show an increase of phospho-H2A signals (lanes 1 and 2). To have a better picture of the process of this inducible localized phosphoryation of chromatin in vivo, we performed another ChIP experiment with real-time PCR to evaluate the signals obtained after 45 and 90 min of HO induction (Figure 1B). These data show that the induction of H2A phosphorylation seems to be larger farther away from the DSB, because there is only a 2-fold increase in the chromatin just next to the HO cut. The level of phospho-H2A also seems to have reached its maximum after 45 min. We can conclude, therefore, that phosphorylation of H2A occurs very rapidly after the DNA is damaged. Very similar results have just been reported in an independent study (Shroff et al., 2004). These data indicate that, like mammalian H2AX, phosphorylation occurs in the vicinity of DNA damage.
+
+Full-size image (32 K)
+Figure 1. 
+Histone H2A Is Phosphorylated at Serine 129 Near a DNA Double-Strand Break In Vivo
+(A) Chromatin immunoprecipitation (ChIP) assay of H2A phosphoserine-129 upon induction of a single double-strand break in vivo. JKM115 cells transformed with galactose-inducible HO nuclease encoding plasmid (pGAL-HO) or empty vector (pDAD1) were incubated in glucose or galactose media for 45 min and processed for ChIPs with purified anti-H2A P-Ser129. Precipitated DNA was analyzed by PCR with primers corresponding to chromosomal regions next to the HO cutting site, 1.5 kb and 10 kb downstream or an unrelated locus (GEA2). H2A P-Ser129 signal is specifically increased around the HO site after cleavage by the nuclease.
+(B) A similar experiment with JKM179 cells (integrated GAL-HO gene) and quantification of ChIP results by real-time PCR. Occupancy is measured as the ratio of IP at the HO sites compared to a control locus (see Experimental Procedures). Data is presented as change of that ratio after 45 and 90 min where time 0 is set to 1. In this experiment, >90% of the HO site is cut after 45 min in galactose.
+Figure options
+The NuA4 HAT Complex Specifically Binds H2A P-Ser129 In Vitro through Its Arp4 Subunit
+In order to gain further insight into the function provided by phosphorylated H2A, we investigated the possibility that this modified tail may act as a docking site for protein(s) involved in facilitating DNA repair. To this end, we used synthetic peptides corresponding to the last thirteen amino acid residues of histone H2A. One peptide was unmodified (H2A), and one peptide was phosphorylated at the position corresponding to Ser129 (H2A P-Ser129). We then fractionated whole cell extracts and identified proteins that bound specifically to H2A P-Ser129. One protein identified by mass spectrometry was Eaf3, a component of the NuA4 histone acetyltransferase (HAT) complex (Eisen et al., 2001). We therefore investigated the possibility that the NuA4 complex interacts with H2A P-Ser129. Whole cell extracts (WCE) were used in binding assays with the H2A peptides followed by Western analysis with antibodies against Esa1, the catalytic HAT subunit of NuA4 (Allard et al., 1999). We found that Esa1 does interact specifically with H2A P-Ser129, but not H2A (Figure 2A). Using antisera raised against Arp4, another member of the NuA4 complex (Galarneau et al., 2000), we found that Arp4 also interacted specifically with H2A P-Ser129 (Figure 2A). Similar results were obtained with extracts from a strain in which the genomic copy of ESA1 was C-terminally tagged with the Myc epitope (data not shown). Importantly, we were also able to detect HAT activity associated with H2A P-Ser129, but not H2A or matrix alone (Figure 2B), suggesting that H2A P-Ser129 is able to associate with an enzymatically functional HAT complex. Because we used whole cell extract, it remained a possibility that the NuA4 subunits were associated with H2A P-Ser129 via a bridging factor. Purified NuA4 complex was used in pull-down assays with the H2A and H2A P-Ser129 peptides in order to determine whether NuA4 is capable of directly binding to H2A P-Ser129. In Figure 2C, the peptide-associated fractions were analyzed with antibodies directed against Esa1 and Arp4. We found both proteins present only in the H2A P-Ser129 peptide bound fractions, demonstrating that the NuA4 complex is able to bind directly and specifically to the H2A P-Ser129 peptide.
+
+Full-size image (53 K)
+Figure 2. 
+The NuA4 Complex Interacts Directly with Histone H2A P-Ser129 through Its Arp4 Subunit
+(A) H2A peptide pull-down assay with protein extract from yeast cells. Whole cell extract (input), matrix bound (beads), H2A bound, or H2A P-Ser129 bound fractions were analyzed by Western blotting with anti-Esa1 and anti-Arp4 antibodies.
+(B) Analysis of HAT activity in samples prepared as in (A) with free histones as a substrate.
+(C) Assays were performed as in (A) with purified NuA4 complex.
+(D) H2A peptide pull-down assays with purified recombinant NuA4 subunits were performed as in (A). Western blots were probed for the indicated proteins.
+(E) H2A peptide pull-down assays with NuA4 complexes purified from wild-type and arp4-12 mutant strains were analyzed by Western blot with anti-Esa1.
+(F) HAT activity analysis of samples prepared as in (E).
+(G) Arp4 preferentially binds P-Ser129-containing peptides. Peptide pull-down assays were done as in (D) with recombinant Arp4 and different phosphopeptides corresponding to H2A C terminus (P-Ser122, P-Ser129) or H4 N terminus (P-Ser1).
+Figure options
+To further explore the NuA4-H2A P-Ser129 interaction, we next asked which subunit is mediating this interaction by using recombinant proteins in the pulldown assays. We tested purified recombinant Arp4 (actin-related protein), Esa1 (chromodomain, MYST-family HAT), Yng2 (PHD-finger), and N- and C-terminal GST-fusion constructs of Eaf3 (chromodomains) Boudreault et al. 2003, Eisen et al. 2001 and Galarneau et al. 2000. Strikingly, we found that Arp4 was able to specifically interact with H2A P-Ser129 (Figure 2D). In contrast, no other proteins tested were able to interact with either peptide. If Arp4 is mediating the interaction between NuA4 and H2A P-Ser129, we predicted that the NuA4 complex purified from an arp4 mutant strain might no longer interact with the phospho-peptide. We tested this hypothesis by doing peptide pull-downs with purified NuA4 complexes from wild-type and arp4-12 mutant strains. We have previously shown that NuA4 complex integrity is not affected in this mutant strain grown at room temperature (Galarneau et al., 2000). When we analyzed the peptide bound fractions for the presence of Esa1 protein, we detected a specific signal only on the H2A P-Ser129 beads incubated with wild-type extract ( Figure 2E, lane 4). No interaction was detected with the mutant complex despite the fact that Esa1 Western signal is stronger in the input. Analysis of peptide bound wild-type fractions for the presence of HAT activity showed higher levels of HAT activity reproducibly associated with H2A P-Ser129 than with either H2A or the matrix alone ( Figure 2F, lanes 1–4). Importantly, this association is completely lost when the NuA4 complex purified from arp4-12 cells is used (lanes 5–8). These data indicate that Arp4 is able to interact with H2A P-Ser129 and is necessary for mediating the interaction between the NuA4 complex and H2A P-Ser129 in vitro. Finally, to demonstrate the binding specificity toward phosphoserine-129 compared to any phosphopeptides, we tested recombinant Arp4 protein in peptide pull-downs with different phosphoserine-containing peptides. As shown in Figure 2G, Arp4 shows strong preferential binding to H2A P-Ser129 peptides when compared to H2A P-Ser122, H4 P-Ser1 or unmodified peptides.
+
+NuA4 Accumulates on H2A P-Ser129-Containing Chromatin Near a DSB In Vivo in an Arp4-Dependent Manner
+We next investigated the role of NuA4 in DNA damage responses by examining strains with mutations in NuA4 subunits for their ability to survive in the presence of DNA damage. Esa1 is essential, but a strain with a thermosensitive mutation in ESA1 that decreases NuA4 activity even at the permissive temperature (Allard et al., 1999) was found to be hypersensitive to methylmethane sulfonate (MMS) when compared with its wild-type counterpart (Figure 3A). It has been shown that NuA4 acetylates the N-terminal tails of histones H2A and H4 in vitro and in vivo Allard et al. 1999 and Boudreault et al. 2003. We therefore examined the phenotype of strains lacking either the H2A or H4 N-terminal tails and found these to be hypersensitive to the presence of MMS (Figure 3A), indicating that the in vivo substrates of NuA4 are important for DNA damage responses. These data are in agreement with a previous report showing that cells harboring point mutations in Esa1 or histone H4 N-terminal tail are sensitive to camptothecin, another DNA DSB-producing drug (Bird et al., 2002). Although Arp4 is also essential, nevertheless, three strains with thermosensitive mutations in ARP4 (arp4-3, arp4-12, and arp4-26) have been shown to affect NuA4 function (Galarneau et al., 2000). When tested for survival in the presence of MMS, these strains showed striking hypersensitivity compared with wild-type (Figure 3A). In contrast, a strain with the arp4-S23A mutation (Gorzer et al., 2003) that does not result in impaired NuA4 activity/function (S.A., L. Galarneau, U. Wintersberger, J.C., unpublished data) is not hypersensitive to MMS, demonstrating that sensitivity to DNA damage correlates with NuA4 activity/function. Cells harboring mutations in other NuA4 subunits were also shown to be hypersensitive to DSB-type DNA damage Boudreault et al. 2003, Choy and Kron 2002 and Nourani et al. 2001 (A. Auger et al., submitted).
+
+Full-size image (69 K)
+Figure 3. 
+The NuA4 Complex Is Important for DNA Repair and Accumulates Near a DNA Double-Strand Break In Vivo in an Arp4-Dependent Manner
+(A) Cells harboring mutations in NuA4 components or its substrates are highly sensitive to DNA damage. 10-fold dilutions of mid-log cultures of esa1-Δ414, hta1-ΔN(H2A), hhf2-ΔN(H4), arp4-3, arp4-12, arp4-26, arp4-S23A mutant, and isogenic wild-type yeast strains grown in the presence or absence of 0.03% MMS.
+(B) Esa1 is recruited to a double-strand break in vivo concurrently with the detection of histone H2A phosphorylated Ser129. Chromatin immunoprecipitations (ChIPs) were performed with anti-Esa1, anti-H2A P-Ser129, or preimmune serum. pGAL-HO- or pDAD1-transformed strains described in Figure 1A were grown in the presence or absence of galactose for 45 min. Upon induction of the HO nuclease, precipitated material by anti-Esa1 and anti-H2A P-Ser129, but not preimmune serum, is specifically enriched in the chromatin proximal to the double-strand break. Signal from anti-H2A P-Ser129, but not from anti-Esa1, is detected 10 kb away from the DSB.
+(C) ChIP assays as above with strains containing a C-terminal TAP tag inserted at the EPL1 locus. In this case, IgG-Sepharose and anti-H2A P-Ser129 were used to precipitate chromatin. As for Esa1, the NuA4 subunit Epl1 is enriched near the DSB after HO nuclease induction, whereas no effect is seen at an unrelated chromosomal locus (GEA2).
+(D) Real-time PCR/ChIP experiment as in Figure 1B with antibodies against Arp4, a protein found in NuA4 and other chromatin modifying complexes (see text). Arp4 occupancy is measured at 2 and 4 hr of HO nuclease induction (>90% cutting of HO).
+(E) Similar experiment using antibodies against Eaf1, a protein found exclusively in the NuA4 complex (A. Auger et al., submitted). NuA4 occupancy is measured at 45 and 90 min of HO nuclease induction (>90% of HO site cleaved).
+(F and G) Arp4 is required for NuA4 binding near a DSB in vivo. Real-time PCR/ChIP analysis with wild-type and arp4-12 mutant cells grown at room temperature with anti-Eaf1 and anti-H2A P-Ser129. HO endonuclease was induced for 45 min in galactose media (80% and 50% cutting of HO in wt and mutant cells, respectively).
+Figure options
+Altogether, these results suggest that chromatin acetylation by the NuA4 complex is important for efficient repair of DSBs and that it could act directly at the sites of DNA damage through interaction with H2A P-Ser129-containing chromatin. In order to test this hypothesis, we performed ChIP assays as in Figure 1A with antibodies against Esa1 (Figure 3B). Upon galactose induction of the HO endonuclease, we again detected appearance of phosphorylated H2A in the chromatin surrounding the HO cleavage site (compare lanes 3 and 4). Strikingly, Esa1 was also specifically detected in the vicinity of the HO DSB at the same time phospho-H2A is seen. A control experiment with preimmune serum did not show any increase in signal upon HO cleavage. Interestingly, in contrast to phosphorylated H2A (Figure 1), Esa1 enrichment is not detected 10 kb away from the DSB. We also performed ChIP assays with a strain expressing a TAP-tagged Epl1 subunit of NuA4 and, consistent with the previous result, again found enrichment of HO-proximal DNA in the Epl1/NuA4 bound fractions relative to controls (Figure 3C). We then performed real-time PCR analysis of a ChIP experiment as in Figure 1B with antibodies against Arp4 (Figure 3D) and found quantitative recruitment of Arp4 itself near an HO-induced break in vivo, consistent with a previous report (Bird et al., 2002). Because Arp4 is present in three different protein complexes in vivo (see below), we then used an antiserum against Eaf1 (Esa1-associated factor-1), a protein exclusively found in the NuA4 HAT complex (A. Auger et al., submitted) (Figure 3E). These data demonstrate that a bona fide NuA4 complex is clearly recruited upon the induction of the DSB and is found enriched on the chromatin close to the break up to 1.5 kb away. Thus, NuA4 is recruited to sites of DNA damage in vivo at the same time phosphorylation of histone H2A Ser129 occurs.
+
+We then investigated the importance of Arp4 for the association of NuA4 to the chromatin surrounding the HO break in vivo. Real-time PCR/ChIP analysis with anti-Eaf1 on wt and arp4 mutant strains showed that although NuA4 is recruited near the DSB in wild-type cells, its accumulation is clearly defective in the arp4 mutant (Figure 3F). Importantly, local phosphorylation of H2A is still induced in the mutant strain ( Figure 3G; the signals correlate with the levels of HO-induced DSB formation, i.e., 80% and 50% in wt and arp4, respectively). Although the induced P-H2A signals are lower in the mutant versus wt strains, we do not think that this could explain the lack of NuA4 binding because similar/lower P-H2A signals were obtained in other experiments in which NuA4 was detected at the break (e.g., see Figure 4D, 6A, and 6B). These data therefore confirm what we found in vitro (Figure 2) and demonstrate the critical role of Arp4 in the accumulation of the NuA4 HAT complex near a DSB.
+
+Full-size image (49 K)
+Figure 4. 
+Arp4 Is an H2A Phosphoserine-129 Recognition Interface in Multiple Chromatin Modifying/Remodeling Complexes
+(A) Tandem affinity purification of Arp4 shows association of numerous polypeptides. Purified material from untagged and Arp4-TAP strains were loaded on gel and visualized by silver staining. Bands corresponding to the NuA4 subunits are indicated on the right (italicized). Specific subunits of the Ino80 and Swr1 complexes are also labeled and underlined, including the Rvb1/2 helicases. Arp4 and Act1 are present in all three complexes. Rvb1/2 are present in both Ino80 and Swr1 complexes, whereas Eaf2(Swc4) and Yaf9 are in NuA4 and Swr1.
+(B) Ino80 specifically interacts with H2A P-Ser129 in cell extracts. H2A peptide pull-down assay as in Figure 2 with whole cell extract prepared from a Myc-tagged INO80 strain.
+(C) Ino80 is recruited to a DNA double-strand break in vivo. ChIP assays were performed as in Figure 1A with a TAP-tagged INO80 strain. The HO nuclease was induced for 0, 45, or 90 min in galactose before cross linking. PCR analysis of the chromatin precipitated by the IgG beads shows that Ino80 amount increases with time near the HO-cutting site. Ino80 is detected 1.5 kb away from the DSB but is not enriched at other genomic loci (GEA2, POL1).
+(D) Rvb1, a subunit of Ino80 and Swr1 complexes, accumulates near a DSB in vivo. Realtime PCR/ChIP analysis as in Figure 1B with anti-Rvb1, anti-H2A P-Ser129, anti-Eaf1, and anti-H3 triMe-Lys4. HO nuclease was induced for 45 min in galactose media before crosslink.
+(E) Accumulation of Ruvb1 near a DSB requires Arp4. Real-time PCR/ChIP experiments with wt and arp4-12 mutant cells grown at room temperature. Upon induction of the nuclease for 45 min, increased binding of Rvb1 and Eaf1 near the HO DSB is only detected in the wild-type cells (HO cleavage is >90% in wt and 82% in mutant cells).
+Figure options
+Arp4 Also Mediates the Binding of Chromatin Remodeling Complexes to DSB Regions
+It has been determined that only a fraction of the total cellular Arp4 is present in the NuA4 complex (Galarneau et al., 2000). If Arp4 is a protein module that specifically associates with H2A P-Ser129, any Arp4-containing complex should be able to directly bind this histone modification and accumulate near DNA damage sites. To test this idea, we inserted a TAP cassette at the end of the ARP4 gene in vivo and purified native Arp4-associated proteins by tandem affinity chromatography (Puig et al., 2001). As seen in Figure 4A, several proteins associate with Arp4 in vivo. Many of them correspond to known NuA4 subunits. Furthermore, Arp4 has been shown to be a component of the Ino80 and Swr1 ATP-dependent chromatin remodeling complexes Kobor et al. 2004, Krogan et al. 2003, Mizuguchi et al. 2004 and Shen et al. 2000, and specific subunits of these are indicated in the Arp4-TAP purified fraction. Interestingly, Arp4 seems to be restricted to these three protein complexes in vivo as no other proteins were found in the purification. The Ino80 and Swr1 chromatin remodeling complexes have also been implicated in DNA repair responses as ino80 and swr1 mutants are highly sensitive to DSB-inducing agents like MMS, hydroxyurea, and ionizing radiation Kobor et al. 2004 and Shen et al. 2000 (A. Auger et al., submitted). We decided to test if Arp4 is involved in mediating an interaction between phospho-H2A-containing chromatin and multiple chromatin modifying/remodeling complexes at sites of DNA damage in vivo. We therefore investigated the ability of the Ino80 complex to bind our H2A peptides. In Figure 4B, we performed pull-down assays with H2A and H2A P-Ser129 peptides out of whole cell extract derived from a strain in which Ino80 was genomically Myc-tagged and then analyzed the resulting fractions by Western blotting. As for NuA4, Ino80-Myc was specifically detected in the H2A P-Ser129 bound fraction, but not the H2A bound fraction (compare lanes 2 and 3). We then performed ChIP assays during HO cleavage induction with an Ino80-TAP-tagged strain. We could detect specific enrichment of Ino80 in the chromatin near the DSB site up to 1.5 kb away, but not at other undamaged chromosomal loci (Figure 4C). This specific recruitment of Ino80 to the phospho-H2A-containing chromatin around a single DSB strongly suggests that this chromatin remodeling complex is directly involved in the process of DNA repair. To achieve stronger quantifiable signals in real-time PCR/ChIP analysis, we then used antibodies for Rvb1, a helicase related to bacterial ruvB which is responsible for movement of Holliday junctions during recombination. Rvb1 and its partner Rvb2 are stable subunits of both Ino80 and Swr1 complexes but are absent in NuA4. Rvb1 occupancy, like H2A P-Ser129 and Eaf1, increased on the chromatin region around the HO-induced DSB (Figure 4D). As for Eaf1, Rvb1 seems to be enriched closer to the break. In contrast, histone H4 methylation at lysine 4, which has been implicated in DSB formation and repair during meiosis (Sollier et al., 2004), does not specifically increase upon DSB formation. In order to verify if the accumulation of Ino80/Swr1 complexes at the DSB region was dependent on Arp4, we did ChIP experiments with wt and arp4 mutant strains (Figure 4E). In wild-type conditions, both Eaf1 and Rvb1 were found to accumulate near the DSB produced by HO endonuclease. In contrast, such binding was not detected in the arp4 mutant strain even though more that 80% of the HO site was cleaved in these conditions (compared to >90% for wt, data not shown).
+
+Interestingly, the Swr1 complex has been shown to copurify with histone H2A variant Htz1 and to be responsible for its incorporation into chromatin Kobor et al. 2004, Krogan et al. 2003 and Mizuguchi et al. 2004. This raises the possibility that Swr1 could load Htz1 on chromatin around a DSB in vivo. Using purified native Swr1 complex in peptide pull-down assays, we confirmed its specific binding to H2A phosphoserine-129 peptides in vitro (Figure 5A). In the same conditions, the SAGA HAT complex does not show an interaction, as expected, because it does not contain Arp4. In order to analyze the functional relationship between Htz1 and H2A P-Ser129, we did growth analysis of different mutant strains in presence of a DSB-inducing agent, camptothecin (Figure 5B). As expected, swr1, htz1, and H2A-S129A mutant cells all showed sensitivity to camptothecin. swr1/htz1 double mutant cells did not show increased sensitivity, in agreement with their epistatic relationship. On the other hand, htz1/H2A-S129A triple mutant cells did show increased sensitivity and even growth defect without drug. These data indicate a functional interaction between Htz1 and H2A P-Ser129. DNA damage sensitivity of histone H4 acetylation mutant cells has been previously shown to be suppressed by overexpression of Arp4 (Bird et al., 2002). We were interested to see if camptothecin sensitivity of htz1 mutant cells could also be suppressed by overexpression of Arp4. As shown in Figure 5C, elevated amount of Arp4 clearly suppress DNA damage sensitivity of htz1 mutant cells. If suppression by Arp4 functions through more efficient binding of chromatin modifying complexes to phospho-H2A near DNA damage sites in vivo, mutation of H2A Ser129 should block this suppression. Indeed, Arp4 is unable to suppress camptothecin sensitivity of htz1 mutant cells when they also contain an H2A-S129A mutation ( Figure 5C, bottom). These results demonstrate that Arp4 function in vivo is directly linked to phosphorylation of H2A at Ser129, in agreement with our model of a direct physical interaction.
+
+Full-size image (54 K)
+Figure 5. 
+The Swr1/Htz1 Complex Binds H2A Phosphoserine-129 In Vitro and Functionally Interacts with It In Vivo
+(A) H2A peptide pull-down assay with purified SWR1, NuA4, and SAGA multisubunit complexes were performed as in Figure 2. Western analysis of the bound fractions were done with anti-Rvb1 for SWR1 and anti-Tra1 for NuA4 and SAGA (subunit shared between the two complexes). As for NuA4, the SWR1 complex interacts specifically with P-Ser129 peptides in vitro, whereas the Arp4-less SAGA complex does not bind.
+(B) swr1 and htz1 mutant cells are sensitive to DSB-inducing agent camptothecin and show genetic interaction with histone H2A Ser129. 10-fold dilutions of mid-log cultures were analyzed as in Figure 3A on YPD plates with or without 10 μg/ml of camptothecin.
+(C) Sensitivity of htz1 mutant cells to camptothecin is suppressed by overexpression of Arp4 in a H2A Ser129-dependent manner. Growth analysis as in (B) by using htz1 and htz1/H2A-S129A mutant cells transformed with a high copy plasmid overexpressing Arp4 or an empty vector. 30 μg/ml of camptothecin was used in this experiment.
+Figure options
+Ordered Recruitment of NuA4 and Chromatin Remodeling Complexes Near a DSB In Vivo
+To better understand the different steps of chromatin modifications during the process of DSB repair, we performed a time course analysis of the events over a 4 hr period of HO induction. As presented in Figure 6A, maximum phosphorylation of H2A Ser129 is observed within 60 min after which there is some decrease. In this specific experiment, no increase of P-H2A is detected adjacent to the HO break (60 bp). Eaf1/NuA4 also reaches its maximum occupancy within the first hour, detected mainly within 2 kb of the HO break (Figure 6B). The Rvb1-containing chromatin remodelers show the same localized accumulation, though later as maximum levels are reached between 2 and 4 hr of induction (Figure 6C). These data suggest that the NuA4 HAT complex is recruited early after DSB formation, whereas Ino80/Swr1 arrive at a later stage. It is important to note that direct binding of Arp4 to phospho-H2A may impede the ability of antiphosphoserine-129 to bind and immunoprecipitate crosslinked chromatin. High concentration of Arp4-containing complexes would explain the lower level of phospho-H2A induction detected close to the HO break. Similar low P-H2A signals close to the HO break were measured in an independent study (Shroff et al., 2004). Because many DNA repair proteins have also been suggested to directly bind phospho-H2AX near a DSB in higher eukaryotes (reviewed in Peterson and Côté [2004]), we suggest that all these direct physical interactions could in fact explain the low phospho-H2A signals obtained by ChIP very close to a DNA break. It is also possible that the phospho-H2A signal decrease that we see after 2 hr is due to maximum occupancy of Rvb1-containing complexes and/or histone dephosphorylation/replacement (Figure 6).
+
+Full-size image (52 K)
+Figure 6. 
+Chromatin Modifiers/Remodelers Are Recruited in an Ordered Fashion Near a DSB In Vivo
+A time course experiment was performed by incubating the cells in galactose-containing media for 0, 15, 30, 45, 60, 120, or 240 min before crosslinking/ChIP and analysis by real-time PCR. (A) Phosphorylation of H2A Ser129 occurs rapidly and achieves high levels within 30 min of HO induction. (B) NuA4 (Eaf1) is also recruited rapidly and achieves maximum levels within 60 min of HO induction. (C) Rvb1-containing chromatin remodeling complexes are recruited at a later stage after DSB formation. Significant increase of Rvb1 signals is only detected after 120 min of HO induction. HO cleavage at the different time points of induction is 48%, 79%, 79%, 83%, 90%, and 91% (data not shown).
+Figure options
+Because homologous recombination with HML/R cassettes is not possible in the cell system used here, most DSB repair must occur through nonhomologous end joining (Haber, 2002). After continued expression of the HO endonuclease in this strain, it has been shown that the ends of the DSB are degraded to form long 3′-ended single-stranded DNA (Lee et al., 1998), which are likely incompatible with nucleosome retention. To take this possibility into account, we measured H2A P-Ser129 and H4 acetyl-Lys8 signals after correction for occupancy of total histone H2A near the HO break (Figures 7A and 7B). Using this correction, we obtained a pattern of H2A phosphorylation similar to the uncorrected data, albeit maximum signal was obtained slightly sooner (Figure 7A). A decrease is still detected at later time as well as a much weaker induction next to the DSB. If the NuA4 complex is recruited to the break and subsequent histone H4 acetylation is important for survival in the presence of DSB-inducing agents, we would predict that NuA4-dependent acetylation of chromatin occurs in the same region where it is recruited. Indeed, we find a rapid localized increase of H4 acetylation after correction for nucleosome occupancy (Figure 7B). The increase is transient as it disappears after 60 min of HO induction. Surprisingly, H4 acetylation appears to decrease at later time points in the close vicinity of the HO break. This decrease could be explained by deacetylation activity and/or new histone deposition during chromatin restoration after the damage is repaired. Consistent with this possibility, chromatin assembly factor Asf1 is required for repair of a HO break in vivo (Qin and Parthun, 2002), and a recent study has implicated histone H4 deacetylation by the Sin3/Rpd3 complex in such processes of DSB repair by NHEJ (Jazayeri et al., 2004). Another possible explanation for the transient increase of acetylation involves the presence of Rvb1 in the Swr1 complex. Because Swr1 was also shown to contain Bdf1, a double bromodomain-containing protein genetically linked to Esa1/NuA4 and able to specifically bind acetylated histone H4 Kobor et al. 2004, Krogan et al. 2003 and Matangkasombut and Buratowski 2003, its association may impede recognition by acetyl-H4 antibodies in ChIP assays, because recruitment of Rvb1-containing complexes appears to follow NuA4 binding (Figure 6). In addition, these data raise the possibility that chromatin acetylation by NuA4 near the DSB may be required for subsequent binding of Rvb1-containing chromatin remodelers. To test this, we used wild-type and esa1 mutant strains (in conditions where cells are viable but have lower levels of esa1-dependent H4 acetylation) in a time course ChIP experiment after DSB induction by HO nuclease (Figures 7C and 7D). In normal cells, Rvb1 proteins accumulate near the HO break with kinetics similar to the one obtained in Figure 6, both at HO and 1.5 kb away ( Figures 7C and 7D, respectively). In contrast, accumulation of Rvb1 is greatly diminished in esa1 mutant cells, supporting the hypothesis that targeted chromatin acetylation by NuA4 is important for subsequent binding of Ino80/Swr1 complexes. As mentioned before, overexpression of Arp4 has been shown to suppress DNA damage sensitivity of histone H4 acetylation mutant cells (Bird et al., 2002). In light of our results, we suggest that elevated amount of Arp4 protein drives binding of Rvb1-containing complexes to chromatin near DSBs in the absence of NuA4-dependent acetylation through interaction with phospho-H2A.
+
+Full-size image (46 K)
+Figure 7. 
+Transient Increase of Histone H4 Acetylation in the Vicinity of a DSB Is Required for Efficient Recruitment of Rvb1 Helicase-Containing Complexes
+(A and B) The chromatin prepared in Figure 6 was used in ChIP with antibodies against H2A P-Ser129, total histone H2A (acidic patch), and acetylated lysine 8 of histone H4. Signals were corrected for possible nucleosome loss within 1.5 kb of the HO DSB break by normalizing with total histone H2A. (A) Kinetics of H2A phosphorylation close to the DSB shows a rapid increase to maximum levels within 30 min followed by an apparent decrease at later time points. (B) Histone H4 is rapidly acetylated within 15 min of HO break induction and seems to become deacetylated close to the break after 120 min.
+(C and D) A time course experiment was performed by incubating wild-type and esa1-L254P mutant cells at 28°C in galactose-containing media for 0, 0.5, 1, 2, or 4 hr before crosslinking/ChIP and analysis by real-time PCR. In these conditions, the mutant cells are viable but show a defect in Esa1-dependent histone H4 acetylation (Clarke et al., 1999) (data not shown). In wild-type cells, Rvb1-containing chromatin remodeling complexes are recruited near the DSB in a kinetic similar to what was seen in Figure 6C, both at the break (C) and up to 1.5 kb away from it (D). This recruitment is clearly defective in esa1 mutant cells. HO cleavage at the different time points of induction is 89%, 94%, 94%, and 94% in wild-type cells whereas 55%, 80%, 84%, and 84% in mutant cells (data not shown).
+Figure options
+Discussion
+Taken together, the data presented here demonstrate that phosphorylation of histone H2A at Ser129 creates a binding site for Arp4, a stable subunit of three chromatin modifying/remodeling complexes, including the NuA4 HAT complex. We show that phosphorylation of H2A Ser129 occurs in a large chromatin domain around DNA damage and that NuA4 and Ino80/Rvb1 complexes are recruited at a double-strand break site at the same time phosphorylation occurs. Our results indicate that the local accumulation of these complexes is dependent on their Arp4 subunit. One obvious possibility is that H2A P-Ser129 recruits NuA4 and the other Arp4-containing complexes to the sites of DNA damage in order to remodel chromatin, thus facilitating DNA repair. In agreement with this model, other nuclear actin-related proteins like Arp4 have been recently proposed to act as histone chaperones within chromatin remodeling complexes (Shen et al., 2003), and we have previously shown that Arp4 was able to interact with nucleosomes in vitro (Galarneau et al., 2000). Arp4 was also found to copurify with histone H2A from yeast extracts and interact with histones in two-hybrid assay (Harata et al., 1999). Although this inherent affinity may deliver NuA4 to sites of DNA damage in chromatin, we favor an alternative explanation in which the Arp4/H2A P-Ser129 interaction is required for local retention/accumulation subsequent to initial recruitment by another mechanism. This model would explain why the Arp4 complexes are not equally distributed over the large domain of phosphorylated chromatin, because their initial recruitment would not involve phospho-H2A. For example, it has been proposed that NuA4 could recognize and bind the DNA break itself (Bird et al., 2002). The retention/accumulation mechanism (rather than recruitment) has been recently proposed for γ-H2AX in mammals (Celeste et al., 2003b) and is reminiscent of bromodomain-acetylated histone interactions in transcription regulation (Hassan et al., 2002). In addition, arp4 mutant cells are more sensitive to DNA damaging agents than cells containing a point mutation of H2A Ser129 (data not shown). It is possible that histone phosphorylation at other residue(s) in the chromatin surrounding a DNA damage site could function redundantly with H2A P-Ser129 in binding Arp4-containing chromatin modifying complexes. Indeed, other phosphorylation sites of histones have been found, some of which have been linked to DNA damage responses (Wyatt et al., 2003) (R.T. Utley and J.C., unpublished data).
+
+The ability of other Arp4-containing chromatin modifying/remodeling complexes to interact with H2A P-Ser129 suggests that multiple activities are present at the sites of DNA lesions and facilitate repair. Indeed, Ino80 and Swr1, both Arp4-containing complexes, have been shown to be important for survival in the presence of agents producing DSBs in vivo Kobor et al. 2004 and Shen et al. 2000 (A. Auger et al., submitted) (Figure 5A). This also explains the fact that Arp4 mutant cells are the ones showing the strongest hypersensitivity to MMS (Figure 3A), because it would reflect loss of multiple chromatin modifying complexes at the damage sites. Given these large chromatin regions that contain H2A P-Ser129 (and γ-H2A in mammals), it is reasonable to consider that by using one H2A P-Ser129 binding module (Arp4), the cell can coordinate interactions between chromatin and multiple different chromatin modifying complexes at the site of damage. Indeed, we show that there is an order of recruitment in which NuA4 appears at the same time as phospho-H2A followed by the Rvb1-containing complexes (Figure 6). Furthermore, we showed that targeted chromatin acetylation by NuA4 is important for subsequent binding of the Rvb1-containing chromatin remodelers (Figure 7). It is interesting to point out that the Arp4 homolog in mammals, Baf53, is present in both the Tip60/NuA4 HAT, SWI/SNF, and other ATP-dependent chromatin remodeling complexes Doyon et al. 2004, Ikura et al. 2000 and Zhao et al. 1998. The Tip60 HAT activity has been implicated in the cellular response to DSB in vivo (Ikura et al., 2000). Interestingly, a parallel study has found that the Drosophila Tip60 complex, which harbors both NuA4 and Swr1 components/activity, is important for phospho-H2Av removal from chromatin near DNA damage in a reaction that requires prior acetylation (Kusch et al., 2004).
+
+Moreover, other proteins have been suggested to directly interact with γ-H2AX, and we have identified H2A P-Ser129 binding proteins that are not components of known Arp4-containing complexes Kobayashi et al. 2002, Manke et al. 2003 and Ward et al. 2003 (J.A.D. and S.P.J., unpublished data). Taken as a whole, this information underlines the pivotal role of the phospho-H2A mark in the process of DNA repair and maintenance of genome integrity. Accordingly, H2AX-deficient mice show a high degree of genome instability and increased tumorigenesis Bassing et al. 2003 and Celeste et al. 2003a. Our data lead us to argue that this is due at least in part to a defect in chromatin remodeling at the sites of DNA damage, which diminishes access of the DNA repair machinery. It will be very interesting to determine the precise mechanism and kinetics of recruitment of chromatin modifying complexes at DNA double-strand breaks in vivo, namely to test the binding of bromodomain-containing factors like Bdf1 to the chromatin acetylated by NuA4 and the possible exchange between phospho-H2A and Htz1. We have not excluded the possibility that other covalent histone modifications may contribute to the specificity and complexity of the interactions between protein complexes and chromatin in response to DNA damage.
+
+Experimental Procedures
+Yeast Strains and DNA Damage Sensitivity Assays
+esa1-Δ414/L254P, arp4-3/12/26/S23A, hta1-ΔN, hhf2-ΔN mutant, and isogenic wild-type strains have been described Clarke et al. 1999, Galarneau et al. 2000, Gorzer et al. 2003, Hirschhorn et al. 1995 and Zhang et al. 1998. EPL1-TAP, ARP4-TAP, SWR1-TAP, SPT7-TAP, and INO80-TAP strains were produced by C-terminal integration of the TAP-cassette at the chromosomal loci as described (Puig et al., 2001). ESA1-Myc and INO80-Myc strains were created by introducing DNA-encoding 13 C-terminal Myc repeats into the chromosomal loci as described (Longtine et al., 1998). The JKM115 and JKM179 (integrated GAL-HO cassette) strains with HML/HMR loci deleted have been described (Haber, 2002). The arp4-12 and esa1-L254P ts mutations were introduced in the JKM179 strain by gene replacement of the ARP4 and ESA1 loci following standard procedure, as for htz1, swr1, hta1-S129A/hta2-S129A mutant strains. ARP4 was overexpressed from a high-copy plasmid [YEP24-2μ-URA] (Bird et al., 2002). For DNA damage sensitivity assays, 10-fold serial dilutions of cultures in mid-log phase were plated onto medium containing 0.03% methyl methane-sulphonate or 30 ug/ml camptothecin.
+
+Chromatin Immunoprecipitation Assays
+For the Esa1, Epl1-TAP, and Ino80-TAP chromatin immunoprecipitations (ChIPs), JKM115 strains and galactose-inducible episomal HO endonuclease expression were used (pGAL-HO or an empty vector, pDAD1). Mid-log cultures in selective media were transferred into raffinose-containing media for 3 hr followed by galactose- or glucose-containing media for 45 or 90 min. In these conditions, level of HO cleavage is 20% as judged by PCR/Southern. Spheroplasts were used instead of whole cells to prepare cross-linked chromatin. 1 μl of affinity purified anti-H2A P-Ser129 (Downs et al., 2000) and 4 μl of anti-Esa1 (Allard et al., 1999) polyclonal antibodies were used for approximately 0.1 mg of chromatin. After 90 min incubation at room temperature, protein A beads were added and incubation continued for 1 hr. PCR reactions were carried out on recovered DNA in a final volume of 50 μl with 2%–5% of immunoprecipitated material and 0.1%–0.2% of input material. All other ChIP experiments were done by real-time PCR with JKM179 based strains (integrated GAL-HO cassette), which achieve higher levels of cleavage by HO (>80%). Cultures were incubated overnight in rich media containing raffinose before direct addition of galactose and incubation for the indicated period of time before crosslink and ChIP (essentially as described in Nourani et al. [2004]). In these experiments, anti-Eaf1 (3 μl; A. Auger et al., submitted), anti-Arp4 (5 μl; Galarneau et al., 2000), anti-Rvb1 (3 μl; Makino et al., 1999), anti-AcK8H4 (0.5 μl, Upstate), anti-triMeK4H3 (1 μl, Abcam), and anti-H2A (acidic patch) (1 μl, Upstate) were used. Primers used in the PCR reactions are available upon request and were analyzed for linearity range and efficiency with a LightCycler (Roche). All PCR reactions were at least duplicates, and variation was less than 15%. IP and chromatin samples were also repeated with similar results. Values were calculated as a ratio of percentage IP at the region surrounding the HO break versus a control locus (a large intergenic region on chromosome V; Nourani et al., 2004) after subtraction of signal obtained with preimmune serum. Data are presented as a fold change of this ratio after HO induction (time 0 set to 1).
+
+Peptide Pull-Down Assays
+Whole cell extracts were made from mid-log cultures by standard glass bead disruption. Extracts were dialyzed into WCE binding buffer (WBB: 40 mM HEPES [pH 7.4], 175 mM NaCl, 0.1% Tween-20, 10% glycerol, and protease inhibitors). Synthetic peptides corresponding to the C-terminal 13 amino acid residues of histone H2A (either unphosphorylated or phosphorylated on the residue corresponding to Ser129) were coupled to Sulfo-link matrix (Pierce) via an N-terminal cysteine residue according to manufacturer's instructions. In assays using a beads-alone control, the matrix was mock coupled. The matrix-coupled peptides were then equilibrated in binding buffer and incubated with whole cell extract for 2 hr on ice rotating. The beads were collected and washed five times with 1 ml of WBB. For analysis by Western blot, the beads were resuspended in 30 μl SDS sample buffer. For HAT activity analysis, the beads were resuspended in 25 μl HAT reaction mix (50 mM Tris [pH 8.0], 5% glycerol, 0.1 mM EDTA [pH 8.0], 50 mM KCl, 1 mM DTT, 1 mM AEBSF, 10 mM sodium butyrate, 0.25 μl 3H-Acetyl CoA, and 0.4 μg/μl calf thymus histones) (Sigma). Pull-down assays with purified complexes and recombinant proteins were performed in the same conditions. Native complexes were purified from TAP-tagged strains (Epl1-TAP [NuA4] [Boudreault et al., 2003]; Arp4-TAP; Swr1-TAP [SWR1]; and Spt7-TAP [SAGA]) by tandem affinity chromatography as described (Puig et al., 2001). Wild-type and arp4-12 mutant NuA4 complexes were purified by 3-step conventional chromatography as described (Galarneau et al., 2000). Recombinant proteins used in this study have been described Allard et al. 1999, Boudreault et al. 2003, Eisen et al. 2001 and Galarneau et al. 2000. Half of the reactions from pull-down assays were boiled and loaded onto 8% SDS-PAGE along with 1/50th of the input, transferred to nitrocellulose, and analyzed by chemiluminescence (Pierce) with anti-GST (for Eaf3C and Eaf3N; 1:500; Santa Cruz), anti-His (for Yng2; 1:500; Santa Cruz), anti-Myc (1:1000, Boehringer Mannheim), anti-Arp4 (Galarneau et al., 2000), or anti-Esa1 (Allard et al., 1999). Remaining samples were tested in liquid HAT assay with free histones for 30 min at 30°C as described (Allard et al., 1999).
+
+Acknowledgements
+We thank Nicolas Lacoste for performing important experiments linked to this project; Luc Galarneau for growth assays; and Nicolas Lacoste, Luc Galarneau, Rhea Utley, Amine Nourani, Dominique Cronier, Julie Savard, and Angélique Gagné-Henley for providing reagents. We are grateful to D. Stillman for anti-Arp4 and arp4-3/12/26 mutant strains, J. Haber for pGAL-HO and JKM115/JKM179 strains, Y. Makino for anti-Rvb1, M. Christman for YEP24-ARP4 vector, and J. Workman for anti-Tra1. We also thank F. Winston, S. Dent, L. Pillus, and U. Wintersberger for H2A-ΔN, H4-ΔN, esa1-Δ414/L254P, and arp4-S23A strains, respectively. This work was supported by grants from the Canadian Institutes of Health Research (CIHR) to J.C., Cancer Research UK to J.A.D./S.P.J., and Ludwig Fund for Cancer Research and NIH (R01 GM60443) to S.J.K. O.J.-R. and A.A. hold CIHR/Canadian Graduate Scholarship and National Science and Engineering Research Council scholarships, respectively. A.J. is supported by the University of Chicago Medical Scientist Training Program and an American Heart Association Greater Midwest predoctoral fellowship. J.A.D. is a Jenner Fellow of the Lister Institute, S.J.K. is a Leukemia and Lymphoma Society Scholar and J.C. is a CIHR Investigator.
+
+References
+Allard et al. 1999
+S. Allard, R.T. Utley, J. Savard, A. Clarke, P. Grant, C.J. Brandl, L. Pillus, J.L. Workman, J. Côté
+NuA4, an essential transcription adaptor/histone H4 acetyltransferase complex containing Esa1p and the ATM-related cofactor Tra1p
+EMBO J, 18 (1999), pp. 5108–5119
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (269)
+Bassing et al. 2003
+C.H. Bassing, H. Suh, D.O. Ferguson, K.F. Chua, J. Manis, M. Eckersdorff, M. Gleason, R. Bronson, C. Lee, F.W. Alt
+Histone H2AX: a dosage-dependent suppressor of oncogenic translocations and tumors
+Cell, 114 (2003), pp. 359–370
+
+Article |  PDF (534 K) | View Record in Scopus | Citing articles (327)
+Bird et al. 2002
+A.W. Bird, D.Y. Yu, M.G. Pray-Grant, Q. Qiu, K.E. Harmon, P.C. Megee, P.A. Grant, M.M. Smith, M.F. Christman
+Acetylation of histone H4 by Esa1 is required for DNA double-strand break repair
+Nature, 419 (2002), pp. 411–415
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (329)
+Boudreault et al. 2003
+A.A. Boudreault, D. Cronier, W. Selleck, N. Lacoste, R.T. Utley, S. Allard, J. Savard, W.S. Lane, S. Tan, J. Côté
+Yeast enhancer of polycomb defines global Esa1-dependent acetylation of chromatin
+Genes Dev, 17 (2003), pp. 1415–1428
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (112)
+Celeste et al. 2003a
+A. Celeste, S. Difilippantonio, M.J. Difilippantonio, O. Fernandez-Capetillo, D.R. Pilch, O.A. Sedelnikova, M. Eckhaus, T. Ried, W.M. Bonner, A. Nussenzweig
+H2AX haploinsufficiency modifies genomic stability and tumor susceptibility
+Cell, 114 (2003), pp. 371–383 a
+
+Article |  PDF (879 K) | View Record in Scopus | Citing articles (357)
+Celeste et al. 2003b
+A. Celeste, O. Fernandez-Capetillo, M. Kruhlak, D. Pilch, D. Staudt, A. Lee, R. Bonner, W. Bonner, A. Nussenzweig
+Histone H2AX phosphorylation is dispensable for the initial recognition of DNA breaks
+Nat. Cell Biol, 5 (2003), pp. 675–679 b
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (557)
+Choy and Kron 2002
+J.S. Choy, S.J. Kron
+NuA4 subunit Yng2 function in intra-S-phase DNA damage response
+Mol. Cell. Biol, 22 (2002), pp. 8215–8225
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (83)
+Clarke et al. 1999
+A.S. Clarke, J.E. Lowell, S.J. Jacobson, L. Pillus
+Esa1p is an essential histone acetyltransferase required for cell cycle progression
+Mol. Cell. Biol, 19 (1999), pp. 2515–2526
+
+View Record in Scopus | Citing articles (221)
+Downs et al. 2000
+J.A. Downs, N.F. Lowndes, S.P. Jackson
+A role for Saccharomyces cerevisiae histone H2A in DNA repair
+Nature, 408 (2000), pp. 1001–1004
+
+View Record in Scopus | Citing articles (378)
+Doyon et al. 2004
+Y. Doyon, W. Selleck, W.S. Lane, S. Tan, J. Côté
+Structural and functional conservation of the NuA4 histone acetyltransferase complex from yeast to humans
+Mol. Cell. Biol, 24 (2004), pp. 1884–1896
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (266)
+Eisen et al. 2001
+A. Eisen, R.T. Utley, A. Nourani, S. Allard, P. Schmidt, W.S. Lane, J.C. Lucchesi, J. Côté
+The yeast NuA4 and Drosophila MSL complexes contain homologous subunits important for transcription regulation
+J. Biol. Chem, 276 (2001), pp. 3484–3491
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (89)
+Galarneau et al. 2000
+L. Galarneau, A. Nourani, A.A. Boudreault, Y. Zhang, L. Héliot, S. Allard, J. Savard, W.S. Lane, D.J. Stillman, J. Côté
+Multiple links between the NuA4 histone acetyltransferase complex and epigenetic control of transcription
+Mol. Cell, 5 (2000), pp. 927–937
+
+Article |  PDF (394 K) | View Record in Scopus | Citing articles (182)
+Gorzer et al. 2003
+I. Gorzer, C. Schuller, E. Heidenreich, L. Krupanska, K. Kuchler, U. Wintersberger
+The nuclear actin-related protein Act3p/Arp4p of Saccharomyces cerevisiae is involved in transcription regulation of stress genes
+Mol. Microbiol, 50 (2003), pp. 1155–1171
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (25)
+Haber 2002
+J.E. Haber
+Uses and abuses of HO endonuclease
+Methods Enzymol, 350 (2002), pp. 141–164
+
+Article |  PDF (1894 K) | View Record in Scopus | Citing articles (31)
+Harata et al. 1999
+M. Harata, Y. Oma, S. Mizuno, Y.W. Jiang, D.J. Stillman, U. Wintersberger
+The nuclear actin-related protein of Saccharomyces cerevisiae, Act3p/Arp4, interacts with core histones
+Mol. Biol. Cell, 10 (1999), pp. 2595–2605
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (88)
+Hassan et al. 2002
+A.H. Hassan, P. Prochasson, K.E. Neely, S.C. Galasinski, M. Chandy, M.J. Carrozza, J.L. Workman
+Function and selectivity of bromodomains in anchoring chromatin-modifying complexes to promoter nucleosomes
+Cell, 111 (2002), pp. 369–379
+
+Article |  PDF (535 K) | View Record in Scopus | Citing articles (297)
+Hirschhorn et al. 1995
+J.N. Hirschhorn, A.L. Bortvin, S.L. Ricupero-Hovasse, F. Winston
+A new class of histone H2A mutations in Saccharomyces cerevisiae causes specific transcriptional defects in vivo
+Mol. Cell. Biol, 15 (1995), pp. 1999–2009
+
+View Record in Scopus | Citing articles (88)
+Ikura et al. 2000
+T. Ikura, V.V. Ogryzko, M. Grigoriev, R. Groisman, J. Wang, M. Horikoshi, R. Scully, J. Qin, Y. Nakatani
+Involvement of the TIP60 histone acetylase complex in DNA repair and apoptosis
+Cell, 102 (2000), pp. 463–473
+
+Article |  PDF (370 K) | View Record in Scopus | Citing articles (632)
+Jazayeri et al. 2004
+A. Jazayeri, A.D. McAinsh, S.P. Jackson
+Saccharomyces cerevisiae Sin3p facilitates DNA double-strand break repair
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 1644–1649
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (100)
+Khanna and Jackson 2001
+K.K. Khanna, S.P. Jackson
+DNA double-strand breaks: signaling, repair and the cancer connection
+Nat. Genet, 27 (2001), pp. 247–254
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (1185)
+Kobayashi et al. 2002
+J. Kobayashi, H. Tauchi, S. Sakamoto, A. Nakamura, K. Morishima, S. Matsuura, T. Kobayashi, K. Tamai, K. Tanimoto, K. Komatsu
+NBS1 localizes to gamma-H2AX foci through interaction with the FHA/BRCT domain
+Curr. Biol, 12 (2002), pp. 1846–1851
+
+Article |  PDF (357 K) | View Record in Scopus | Citing articles (184)
+Kobor et al. 2004
+Kobor, M.S., Venkatasubrahmanyam, S., Meneghini, M.D., Gin, J.W., Jennings, J.L., Link, A.J., Madhani, H.D., and Rine, J. (2004). A protein complex containing the conserved Swi2/Snf2-related ATPase Swr1p deposits histone variant H2A.Z into euchromatin. PLoS Biol 2(5).
+Krogan et al. 2003
+N.J. Krogan, M.C. Keogh, N. Datta, C. Sawa, O.W. Ryan, H. Ding, R.A. Haw, J. Pootoolal, A. Tong, V. Canadien et al.
+A Snf2 family ATPase complex required for recruitment of the histone H2A variant Htz1
+Mol. Cell, 12 (2003), pp. 1565–1576
+
+Article |  PDF (776 K) | View Record in Scopus | Citing articles (356)
+Kusch et al. 2004
+T. Kusch, L. Florens, W.H. Macdonald, S.K. Swanson, R.L. Glaser, J.R. Yates Iii, S.M. Abmayr, M.P. Washburn, J.L. Workman
+Acetylation by Tip60 Is Required for Selective Histone Variant Exchange at DNA Lesions
+Science, in press (2004)
+
+Lee et al. 1998
+S.E. Lee, J.K. Moore, A. Holmes, K. Umezu, R.D. Kolodner, J.E. Haber
+Saccharomyces Ku70, mre11/rad50 and RPA proteins regulate adaptation to G2/M arrest after DNA damage
+Cell, 94 (1998), pp. 399–409
+
+Article |  PDF (333 K) | View Record in Scopus
+Longtine et al. 1998
+M.S. Longtine, A. McKenzie 3rd, D.J. Demarini, N.G. Shah, A. Wach, A. Brachat, P. Philippsen, J.R. Pringle
+Additional modules for versatile and economical PCR-based gene deletion and modification in Saccharomyces cerevisiae
+Yeast, 14 (1998), pp. 953–961
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (2570)
+Makino et al. 1999
+Y. Makino, M. Kanemaki, Y. Kurokawa, T. Koji, T. Tamura
+A rat RuvB-like protein, TIP49a, is a germ cell-enriched novel DNA helicase
+J. Biol. Chem, 274 (1999), pp. 15329–15335
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (56)
+Manke et al. 2003
+I.A. Manke, D.M. Lowery, A. Nguyen, M.B. Yaffe
+BRCT repeats as phosphopeptide-binding modules involved in protein targeting
+Science, 302 (2003), pp. 636–639
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (395)
+Matangkasombut and Buratowski 2003
+O. Matangkasombut, S. Buratowski
+Different sensitivities of bromodomain factors 1 and 2 to histone H4 acetylation
+Mol. Cell, 11 (2003), pp. 353–363
+
+Article |  PDF (524 K) | View Record in Scopus | Citing articles (132)
+Mizuguchi et al. 2004
+G. Mizuguchi, X. Shen, J. Landry, W.H. Wu, S. Sen, C. Wu
+ATP-driven exchange of histone H2AZ variant catalyzed by SWR1 chromatin remodeling complex
+Science, 303 (2004), pp. 343–348
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (613)
+Nourani et al. 2001
+A. Nourani, Y. Doyon, R.T. Utley, S. Allard, W.S. Lane, J. Côté
+Role of an ING1 growth regulator in transcriptional activation and targeted histone acetylation by the NuA4 complex
+Mol. Cell. Biol, 21 (2001), pp. 7629–7640
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (71)
+Nourani et al. 2004
+A. Nourani, R.T. Utley, S. Allard, J. Côté
+Recruitment of the NuA4 complex poises the PHO5 promoter for chromatin remodeling and activation
+EMBO J, 23 (2004), pp. 2597–2607
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+Peterson and Côté 2004
+C.L. Peterson, J. Côté
+Cellular machineries for chromosomal DNA repair
+Genes Dev, 18 (2004), pp. 602–616
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (196)
+Puig et al. 2001
+O. Puig, F. Caspary, G. Rigaut, B. Rutz, E. Bouveret, E. Bragado-Nilsson, M. Wilm, B. Seraphin
+The tandem affinity purification (TAP) method: a general procedure of protein complex purification
+Methods, 24 (2001), pp. 218–229
+
+Article |  PDF (436 K) | View Record in Scopus | Citing articles (1009)
+Qin and Parthun 2002
+S. Qin, M.R. Parthun
+Histone H3 and the histone acetyltransferase Hat1p contribute to DNA double-strand break repair
+Mol. Cell. Biol, 22 (2002), pp. 8353–8365
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (117)
+Redon et al. 2002
+C. Redon, D. Pilch, E. Rogakou, O. Sedelnikova, K. Newrock, W. Bonner
+Histone H2A variants H2AX and H2AZ
+Curr. Opin. Genet. Dev, 12 (2002), pp. 162–169
+
+Article |  PDF (130 K) | View Record in Scopus | Citing articles (429)
+Redon et al. 2003
+C. Redon, D. Pilch, E. Rogakou, A. Orr, N.F. Lowndes, W. Bonner
+Yeast histone 2A serine 129 is essential for the efficient repair of checkpoint-blind DNA damage
+EMBO Rep, 4 (2003), pp. 1–7
+
+Rouse and Jackson 2002
+J. Rouse, S.P. Jackson
+Lcd1p recruits Mec1p to DNA lesions in vitro and in vivo
+Mol. Cell, 9 (2002), pp. 857–869
+
+Article |  PDF (589 K) | View Record in Scopus | Citing articles (127)
+Shen et al. 2000
+X. Shen, G. Mizuguchi, A. Hamiche, C. Wu
+A chromatin remodelling complex involved in transcription and DNA processing
+Nature, 406 (2000), pp. 541–544
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (441)
+Shen et al. 2003
+X. Shen, R. Ranallo, E. Choi, C. Wu
+Involvement of actin-related proteins in ATP-dependent chromatin remodeling
+Mol. Cell, 12 (2003), pp. 147–155
+
+Article |  PDF (350 K) | View Record in Scopus | Citing articles (184)
+Shroff et al. 2004
+R. Shroff, A. Arbel-Eden, D. Pilch, G. Ira, W.M. Bonner, J.H. Petrini, J.E. Haber, M. Lichten
+Distribution and dynamics of chromatin modification induced by a defined DNA double-strand break
+Curr. Biol, 14 (2004), pp. 1703–1711
+
+Article |  PDF (339 K) | View Record in Scopus | Citing articles (285)
+Sollier et al. 2004
+J. Sollier, W. Lin, C. Soustelle, K. Suhre, A. Nicolas, V. Geli, C. De La Roche Saint-Andre
+Set1 is required for meiotic S-phase onset, double-strand break formation and middle gene expression
+EMBO J, 23 (2004), pp. 1957–1967
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (68)
+Ward et al. 2003
+I.M. Ward, K. Minn, K.G. Jorda, J. Chen
+Accumulation of checkpoint protein 53BP1 at DNA breaks involves its binding to phosphorylated histone H2AX
+J. Biol. Chem, 278 (2003), pp. 19579–19582
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (189)
+Wyatt et al. 2003
+H.R. Wyatt, H. Liaw, G.R. Green, A.J. Lustig
+Multiple roles for Saccharomyces cerevisiae histone H2A in telomere position effect, Spt phenotypes and double-strand-break repair
+Genetics, 164 (2003), pp. 47–64
+
+View Record in Scopus | Citing articles (43)
+Zhang et al. 1998
+W. Zhang, J.R. Bone, D.G. Edmondson, B.M. Turner, S.Y. Roth
+Essential and redundant functions of histone acetylation revealed by mutation of target lysines and loss of the Gcn5p acetyltransferase
+EMBO J, 17 (1998), pp. 3155–3167
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (213)
+Zhao et al. 1998
+K. Zhao, W. Wang, O.J. Rando, Y. Xue, K. Swiderek, A. Kuo, G.R. Crabtree
+Rapid and phosphoinositol-dependent binding of the SWI/SNF-like BAF complex to chromatin after T lymphocyte receptor signaling
+Cell, 95 (1998), pp. 625–636
+
+Article |  PDF (701 K) | View Record in Scopus | Citing articles (470)
+Corresponding author contact information
+Correspondence: Jessica A. Downs, 418-525-4444 ext. 15545 (phone), 418-691-5439 (fax); and Jacques Côté
+4
+These authors contributed equally to this work.
+5
+Present address: Department of Biochemistry, University of Cambridge, 80 Tennis Court Road, Cambridge, CB2 1GA, United Kingdom.
+Copyright © 2004 Cell Press. All rights reserved.

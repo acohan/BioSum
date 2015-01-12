@@ -1,0 +1,247 @@
+Inferring the Temporal Order of Cancer Gene Mutations in Individual Tumor Samples
+Jun Guo,1,* Hanliang Guo,2 and Zhanyi Wang3
+Raya Khanin, Editor
+Author information ► Article notes ► Copyright and License information ►
+Go to:
+Abstract
+The temporal order of cancer gene mutations in tumors is essential for understanding and treating the disease. Existing methods are unable to infer the order of mutations that are identified at the same time in individual tumor samples, leaving the heterogeneity of the order unknown. Here, we show that through a complex network-based approach, which is based on the newly defined statistic –carcinogenesis information conductivity (CIC), the temporal order in individual samples can be effectively inferred. The results suggest that tumor-suppressor genes might more frequently initiate the order of mutations than oncogenes, and every type of cancer might have its own unique order of mutations. The initial mutations appear to be dedicated to acquiring the function of evading apoptosis, and some order constraints might reflect potential regularities. Our approach is completely data-driven without any parameter settings and can be expected to become more effective as more data will become available.
+
+Go to:
+Introduction
+Cancer is a genetic disease caused by the mutation of cancer genes consisting of oncogenes and tumor-suppressor genes. In most cancer cases, multiple mutations occur in a procedure known as tumor progression [1], [2]. To understand tumor progression, studies have been performed to model general regularities on the temporal order of mutations for a given type of cancer using both experimental and computational approaches [3]–[7]. As a canonical model, the order of mutations for colorectal cancer was reconstructed through tumor size and grade [8]. The latest computational models infer the typical temporal order constraints for certain type of cancers by simulating tumor progression as a stochastic process [9]–[11]. Despite this progress, there is still no well-defined method to infer the order of mutations identified at the same time in individual samples, although this inference is necessary to reveal the heterogeneity of the order of mutations in a cancer. Recently, as new generation sequencing becomes widely applied, the mutation landscapes in various cancers are being revealed one by one. The results have shown that the mutations in a cancer frequently demonstrate statistical correlations with each other or even cause-and-effect linkages of induction between the former and the latter [12]–[18]. However, these correlations/linkages have not been fully exploited in inferring the temporal order of mutations.
+
+From an informatic perspective, this study defines a statistical measurement to assign value to the correlations or linkages mentioned above and model the mutations within a complex network, through which the temporal order of the mutations in individual samples can be inferred. We call the measurement the carcinogenesis information conductivity (CIC), which measures the reachability of transferring the information of a cancer gene having mutated to the transcription process of a given un-mutated cancer gene to induce its mutation. Statistically, the reachability can be estimated by the individual occurrence frequencies and the sequential co-occurrence frequency of the two genes' mutations in cancer samples. Additionally, competition among the information sent from multiple mutated genes to the given un-mutated gene should also be considered as any successful sending will cause the target gene to mutate, thus ending the mutation process. In this study, we call any two mutations found out in the same cancer sample co-occurrent mutations. While most genomic studies provide this quantity in an indirect way, here we aim at disentangling the sequence of occurrence of two mutational events from the simple co-occurrence. From these sequences of mutation occurrence, the sequential co-occurrence frequency can be calculated (Materials and Methods). Based on this idea, we have defined the CIC from cancer gene i to cancer gene j as:
+
+equation image	(1)
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e002.jpg (An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e003.jpg) is the occurrence frequency of the mutation of gene i (j) in cancers, An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e004.jpg is the sequential co-occurrence frequency of the mutation of gene i followed by the mutation of gene j, and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e005.jpg is the priority of gene i compared to other mutant genes to send the information to gene j. We have determined that An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e006.jpg. In this equation An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e007.jpg is the set of cancer samples with mutant genes i and j, An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e008.jpg is the number of samples in the set, and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e009.jpg is an indicator function that equals 1 if An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e010.jpg for the mutant genes An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e011.jpg, j and i in sample An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e012.jpg. Otherwise it equals 0. Accordingly, the highest priority of one will be assigned if An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e013.jpg is larger than An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e014.jpg in every sample of the set, and the more times that An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e015.jpg, the larger value the An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e016.jpg. We regard formula (1) as a measurement of carcinogenesis information conductivity because the ratio An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e017.jpg is an estimate of the maximum chance that gene i sends carcinogenesis information to gene j and causes its mutation, the ratio An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e018.jpg is an estimate of the maximum chance that the mutation of gene j is caused by carcinogenesis information received from gene i, and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e019.jpg is the priority of the communication link compared with other links to gene j. The value of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e020.jpg ranges from 0 to 1. Like the definition of activation force, a measurement we previously proposed for weighting the links of complex networks [19], the definition of CIC follows the formula of gravity if we imagine the ratios An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e021.jpg and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e022.jpg as masses and the priority An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e023.jpg as distance. Statistics defined in this manner are likely to distribute their values in a power law, which is convenient for analyzing complex networks of intricate relationships including those in biology [20]–[24].
+
+One challenge in computing the CICs is the lack of cancer samples that can be used as the source of the sequential co-occurrence frequencies of the cancer gene mutations because the mutations of different genes in a cancer sample are usually identified at the same time by sequencing. To tackle this challenge, we present an iterative procedure that couples CIC computation and the inference of the probability of every potential order of cancer gene mutation. The application of this procedure to the Catalogue of Somatic Mutations in Cancer (COSMIC) database [25], [26] revealed that the iteration reached convergence within fewer than 10 loops, and the convergent results suggest significant conclusions.
+
+Go to:
+Materials and Methods
+Iterative inference scheme
+
+To perform the iterative inference procedure, a large set of cancer samples with cancer gene mutations identified by genome-wide sequencing is necessary. With the dataset, we determine the basic statistics of occurrence and non-sequential co-occurrence frequencies of cancer gene mutations. From these basic statistics, the iterative inference for the number of samples in question begins and the CIC results and probable orders of cancer gene mutation for each sample in question are determined when the iteration reaches convergence. Fig. 1 illustrates an overview of the procedure.
+
+Figure 1
+Figure 1
+Overview of the inference methodology.
+Iterative procedure of CIC computation and inference of mutation order
+
+By definition, sequential co-occurrence frequencies are necessary to estimate the CIC value. However, this requirement cannot be satisfied by the current databases, including COSMIC. To overcome this difficulty, we adopt an iterative procedure to couple the inference of the occurring mutation orders and the computation of the CICs. First, we evenly divide a non-sequential co-occurrence frequency into the two possible sequential co-occurrence frequencies to calculate the initial CICs. We then infer the mutation orders with the initial CICs to repredict the sequential co-occurrence frequencies, repeat CIC computation and inference of the mutation orders until a convergent result is obtained.
+
+Based on the principle of maximum entropy, we first use a uniform prior distribution of the occurrence orders, which means that for the non-sequential co-occurrence frequency of the mutation of two genes i and j, the two mutation orders of i→j and j→i occur with the same probability. Therefore, the necessary sequential co-occurrence frequency is set as a half of the corresponding non-sequential frequency. With this setting, we compute the initial CIC between every pair of cancer genes.
+
+We then compute the CIC that an order of more than two mutant genes possesses. In this computation, we must consider that each of the preceding genes may send the carcinogenesis information in parallel to a target gene within the order. Therefore, we borrow the principle of computing resistance in a circuit, which is a parallel-by-serial procedure; we sum all the parallel CICs from the preceding genes to a target gene within the order to determine the phase CIC of the order and then formulate the order CIC by cascading all the phase CICs. Consider the order APC→ATM→KRAS as an example; this order contains two phases of information sending, →ATM and →KRAS. During the first phase, the information can be sent from only one source, APC. Therefore,An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e050.jpg, the CIC from APC to ATM, simply becomes the CIC of the first phase. In the second phase, however, both APC and ATM can become the information source, requiring the summation of the two parallel CICs as the CIC of the second phase. After the parallel step of each phase, the reciprocals of phase CICs, regarded as resistances, are serially summed as the reciprocal of the order CIC. The steps are summarized as follows:
+
+Parallel step:
+equation image
+equation image
+Series step:
+equation image
+.
+The kth gene in the order is the information receiving gene at the (k-1)th phase and has k-1 senders of parallel information. An order consisting of n genes has n-1 phases of carcinogenesis information conduction. In general, we have the equation,
+
+equation image
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e055.jpg is the CIC of phase k, An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e056.jpg is the CIC from gene An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e057.jpg to gene An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e058.jpg, and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e059.jpg is the index of the gene at positionAn external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e060.jpg in the order.
+
+Based on the definition of the CIC, a larger CIC value of a possible order implies easier carcinogenesis information conduction within the order. Among all competing orders, the larger the CIC value of an order, the greater probability the occurrence of the order. Therefore, we presume that the CIC of an order is positively proportional to the probability of that order occurring. When estimating the probability of every potential order by a linear mapping from the CICs of all potential orders for a given set of mutant genes, the total of the probabilities of all the potential orders is equal to one. Formally, for a sample with n mutant cancer genes, the number of potential orders is n!; we map the CIC of order m (m = 1, 2, …, n!) into its probability using the equation
+
+equation image
+After determine the probabilities of every possible order of the mutations, we redetermine the predicted sequential co-occurrence frequencies as follows:
+
+equation image
+where An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e063.jpg is the probability of order m of sample l, An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e064.jpg, and L is the number of samples in question. An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e065.jpg is an indicator function that equals 1 when gene i occurs before gene j in order m of sample l and equals 0 in all other cases, and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e066.jpg is the non-sequential co-occurrence frequency between gene i and gene j. If the redetermined An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e067.jpg values are nearly identical to the old ones or become convergent, the computed CICs and thus the inferred order probabilities can be regarded as reliable outcomes. Otherwise, the CICs and the order probabilities have to be redetermined in a new loop. The iterative procedure continues in this manner until convergence is reached. In practice, the criterion of convergence can be regarded as satisfied when the absolute difference between the new and old values of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e068.jpg monotonically reduces to a sufficiently small value.
+
+Because we begin the iterative procedure with an initial prediction of the sequential co-occurrence frequencies from non-sequential frequencies based on the maximum entropy principle, which provides the maximum modification potential of the sequential co-occurrence frequencies in the first iteration, the modification will decrease gradually and finally become insignificant. This premise was verified in the study; a satisfying convergence was reached within fewer than 10 loops of the inference procedure using a set of samples from the COSMIC database.
+
+The iteration based on COSMIC data reaches convergence within 10 loops. Here, we use the computation of CIC from KRAS to APC to introduce the procedure in detail. Initially, we calculate the occurrence frequencies of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e069.jpg = 125 and An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e070.jpg = 209 and a non-sequential co-occurrence frequency An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e071.jpg = 79 from the COSMIC database. By defining half of the non-sequential co-occurrence frequency (79) as the sequential frequency, we determine that An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e072.jpg = 39.5. When comparing with the sequential co-occurrence frequencies from genes other than KRAS to the gene APC in each of the 79 samples, An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e073.jpg is found to have an average order of 1.47. Therefore the priority An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e074.jpg = 1.47, and the initial value of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e075.jpg = (39.5/125)*(39.5/209)/1.472 = 0.028.
+
+Using the initial CICs between all cancer gene pairs, we estimate the probability of every potential mutation occurrence order in each sample in the manner described above. According to the probabilities, the non-sequential co-occurrence frequencies can be unevenly divided into sequential frequencies. For the 79 samples in this example, the ratio of KRAS→APC vs. APC→KRAS based on the corresponding total probability for each order is 0.28: 0.72. Therefore, we update the value of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e076.jpg = 79*0.28 = 22.1, and the priority An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e077.jpg is then determined with the new An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e078.jpg. With these new values, we redetermine An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e079.jpg.
+
+The convergence of An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e080.jpg and its counterpart An external file that holds a picture, illustration, etc.
+Object name is pone.0089244.e081.jpg during the iterations is shown in Fig. 2. This example demonstrates that the values reach a satisfying convergence after just 6 iterations. This example also represents the common situation, thus we ended the computation of CICs after 10 iterations in this study.
+
+Figure 2
+Figure 2
+Convergence of iterative computation of CICs.
+Complexity of the inference procedure
+
+CIC computation has a complexity of O(n2) if the number of cancer genes in the study is n, and the inference of the probabilities of all potential orders for a sample with m mutant cancer genes has a complexity of O(m!m2). In our study, n is equal to 397 and m ranges from 2 to 8. Therefore, the complexity of O(m!m2) can differ greatly for different samples. In reality, during the inference for the 1,118 samples reported in the study, the majority of the time was consumed by a few samples with the maximum number of mutant cancer genes. It is worth noting that during the entire procedure, we only have to compute the CICs once in each loop to infer the order probabilities for all samples. The inference procedure with 10 iterations for the 1,118 samples was completed within 10 minutes on a platform consisting of a PC (4*2.66 GHz Quad CPU) and Matlab.
+
+Study data
+
+The results reported in this study were obtained from a recent COSMIC database (issued on September 12th, 2012) on coding point mutations. It is a table file containing the names of the mutated cancer genes in each cancer sampled. Mutant genes in the same cancer have the same tumor ID (ID_tumour), and the fields of genome-wide-screen and primary side provide the necessary information used in this study.
+
+Steps for determining the occurrence and co-occurrence frequencies of cancer gene mutations in the samples
+
+The occurrence and co-occurrence frequencies of cancer genes in the cancer samples were used to estimate the CICs in the study, and the basic statistics were determined using the following steps:
+
+Download the source file CosmicMutantExport_v61_120912.tsv through ftp://ftp.sanger.ac.uk/pub/CGP/cosmic/data_export/;
+Make a temporary file by obtaining the records with the value ‘y’ in the ‘genome-wide screen’ field from the source file;
+Make a primary file by obtaining the records of cancer genes defined by the file Table_1_full_2012-03-15.xls in the Cosmic web site from the temporary file, and refining the records into sequences of Gene_name and ID_Sample;
+Make a mutation_sequence file in which each record is a list of the mutated genes in the same sample based on the primary file, and discard the record that contains only one gene name in the mutation_sequence file;
+Count the occurrence and co-occurrence frequencies of the cancer genes based on the mutation_sequence file.
+Go to:
+Results
+Features of the estimated CICs
+
+We performed the inference on cancer gene mutation data from genome-wide scanned samples collected in a recent version of the COSMIC database. A total of 1,212 samples harboring 6,281 mutations in 397 cancer genes was available for determining the basic occurrence and co-occurrence frequencies. From these, 1,118 samples, each harboring no more than 8 mutant cancer genes, were used in the iterative procedure of CIC computation and order inference. Table S1 lists the 1,118 samples. The results were found to converge within 10 iterations. After convergence, CICs with a value greater than 1.0E-6 presented a power law-like distribution over the magnitudes, such that the overwhelming majority has a magnitude less than the average of 4.0E-4 and a very small portion has a larger than average magnitude (Fig. 3, Table S2). This feature is also true for the distribution of the magnitudes of the CICs from (or to) a given gene in most cases, which means that only a small number of partners are significant in terms of carcinogenesis information conduction for any given gene. In other words, the CICs identify the closest partners in carcinogenesis information conduction. Furthermore, the directed networks of cancer genes linked by the CICs were asymmetrical and small world-like. The CIC from gene i to gene j was usually unequal to that from gene j to gene i; the network has a number of hub genes with many more links than normal. This feature is consistent with the notion that the signaling network in cancer is analogous to the Internet, which constructs a small world with hub nodes [27]–[29]. Fig. 4 illustrates a CIC linked network covering 44 cancer genes, including the hub genes APC, TP53 and MLL3, and the links stronger than 1.0E-2 showing asymmetry. The asymmetry of the CICs implies the existence of a preference for certain mutation orders. Additionally, the three hub genes are all tumor-suppressor genes, and the strongest directed link, with a value of 0.136, is from APC to KRAS, one of the most frequently mutated oncogenes, suggesting a superior information channel from the mutation of APC to the mutation of KRAS.
+
+Figure 3
+Figure 3
+The power law-like distribution of CICs.
+Figure 4
+Figure 4
+An illustration of the asymmetry of CIC-linked cancer gene networks.
+The inference of probable orders
+
+The inferred mutation orders with a probability higher than random chance, referred to hereafter as probable orders, provided more concrete insights into tumor progression. We analyzed the probable orders inferred for the 1,118 cancer samples in question to investigate a maximum of 8 mutation steps from initiation. The primary sites of the samples were mainly located in the ovary (256), large_intestine (LI, 180), haematopoietic_and_lymphoid_tissue (HLT, 148), prostate (100), breast (97), central_nervous_system (CNS, 86), and upper_aerodigestive_tract (UAT, 72).
+
+Table S3 lists all the probable orders and their probabilities in the analyzed samples, and Table 1 shows a selection of them. Based on the probable orders, we concluded that in a given sample only a small portion of all the potential orders has a probability higher than random chance, and the sum total of the probabilities of those orders is close to the number of samples with a ratio of 1034.4/1118. This indicates that the inference identified a small portion of all the potential orders permutated by the given set of mutant cancer genes as the probable orders. For a sample harboring two mutant cancer genes, the inference always strongly suggests one of the two potential orders. However, for the samples with more than two mutant cancer genes, some orders might have comparable high probabilities. Although we cannot judge the individual plausibilities of the inferred probable orders because of the lack of ground truth for the orders in most cases, their significance could be strongly suggested by evaluating the inference with samples of a certain cancer type that have been well studied in terms of order. For example, APC, KRAS and TP53 are the three most frequently mutated genes in colon cancers, and their mutation orders have been well modeled [30], [31]. In our results, the sample with mutant cancer genes APC and KRAS, yielded an inferred probability of 0.95 for the order APC→KRAS, which was consistent with previous studies. For the sample with mutant APC, KRAS and TP53 cancer genes, three probable orders of APC→KRAS→TP53 (0.33), APC→TP53→KRAS (0.32) and TP53→APC→KRAS (0.19) were inferred from 6 potential ones, and this result was also consistent with previous studies. BRCA1 germline mutations confer a high risk of breast and ovarian cancer, but somatic loss of the wild-type BRCA1 allele has been shown to usually occur after mutation of TP53 [32]. In agreement with this observation, we inferred the somatic mutation order TP53→BRCA1 with a probability greater than 0.99. These examples provide evidence to support the inference validity.
+
+Table 1
+Table 1
+Examples of cancer gene mutation orders with a predicted probability greater than random chance.
+Initiators of probable mutation orders
+
+Identifying the initiators of mutation orders has been regarded as one of the major challenges in the study of tumor progression [1]. Our inferred probable orders of mutation provided informative hints to solving this challenge. By examining the genes that initiate the probable orders, we found that the initiators were dominated by tumor-suppressor genes. An overwhelming majority (more than 77.5%) of the probability-weighted number of the probable orders was inferred to be initiated by a tumor-suppressor gene rather than an oncogene. There were 368 cancer genes in the test cancer samples, among them only 92 were tumor suppressors. More specifically, there were 1,858 mutations of tumor suppressors among totally 3,823 mutations of all the cancer genes. Therefore the average chance for tumor suppressors to initiate the mutation orders was 48.6% (1858/3823). This demonstrates that the dominance of tumor suppressors in initiating the mutation orders could not be ascribed to chance. Additionally, the ratios of the number of times a gene was the initiator to its mutation frequency were generally different, implying that it is not certain that frequently mutated genes will mutate early (Table 2). Significantly, the probability-weighted number of the probable orders started by the top two tumor-suppressor gene initiators TP53 and APC, consisted of percentages as large as 46.9% and 11.4%, respectively. In contrast, the top two oncogene initiators, PIK3CA and KRAS, were found in percentages as small as 3.1% and 1.3%, respectively. The top initiators of mutation at the respective primary cancer sites suggested more details (Table 3). In general, all cancers at the major primary sites of the samples revealed a tumor-suppressor gene as their top initiator. In particular, TP53 was a common top initiator in four of the previously listed cancer types, ovary, UAT, breast and prostate, with percentages of 91.5%, 73.4%, 57.6% and 30.4%, respectively. In LI cancers, the top initiator was APC (57.5%), followed by TP53 (29.7%). Both CNS and HLT cancers had no obviously superior initiators, with CIC (13.6%), PIK3CA (10.1%) and TP53 (10.0%) as the top three initiators for the former, and TP53 (14.9%), NPM1 (10.4%) and MLL2 (9.9%) as the top three initiators for the latter. From the perspective of initiator distribution, ovary, LI, UAT and breast cancers were inferred to be dominated by a small number of tumor-suppressor genes, while HLT, CNS and prostate cancers were inferred to have more diverse significant initiators.
+
+Table 2
+Table 2
+The type of a cancer gene and its probability-weighted times of starting an order with a probability greater than random chance.
+Table 3
+Table 3
+The top initiators of the probable mutation orders in different cancer types.
+Previous studies have suggested a number of hallmark functions that need to be acquired for a cancer to generate, helping researchers understand the complexity in tumor progression in a way of logical, scientific manner [33], [34]. Our inferred results point to a suggestion that goes one step further. In most cancers, the earliest acquired hallmark function might be evading apoptosis because the majority of first mutated genes in every cancer type in Table 3 (TP53, APC, KRAS, PIK3CA, NPM1 and CIC) have been found to encode apoptosis-regulating proteins, and the mutation of all of these genes has been shown to lead to deficient apoptosis functions. Specifically, the mutation of TP53 can result in the removal of a key component of the DNA damage sensor, which functions to induce apoptosis [33], [34], mutant forms of the APC protein can attenuate responses to apoptotic stimuli [35], [36], the mutations in KRAS and PIK3CA can activate pathways that transmit anti-apoptotic survival signals [33], and the proteins encoded by NPM1 and CIC have been shown to function in apoptosis [37], [38].
+
+Informative transitions in the probable orders
+
+The transitions in the probable orders provided additional information on tumor progression. Though mutations in BRCA1 and BRCA2 have been regarded as key markers for breast cancer occurrence, somatic mutations in the two genes in the breast cancer samples were not very frequent, with rates of 3/97 and 6/97, respectively, and both genes were inferred to have no chance of initiating a probable order. However, among all transitions in the probable orders of the breast cancers, TP53→BRCA2 and TP53→BRCA1 were identified as the second and fourth most frequent transitions, respectively, implying that mutations in these two genes tend to occur next to the mutation of TP53. Similarly, the transition of TP53→BRCA1was ranked as the third most frequent in the probable orders in ovarian cancer, supporting the conjecture mentioned above. In LI cancers, mutations in APC, TP53 and KRAS were found to occur at extraordinarily frequencies with rates of 146/180, 111/180 and 79/180, respectively, and their mutual transitions were the top six most frequent, implying that these three genes as a group play dominating roles in LI cancers. Liquid HLT cancers were inferred to have the 3 most frequent transitions that converged on one gene, TP53→BCL2, MLL2→BCL2 and EZH2→BCL2. Given that BCL2 is a key anti-apoptotic gene [39] and was the most frequently mutated gene in HLT cancer samples, these convergent transitions suggest that HLT cancers might acquire the function of evading apoptosis in a unique way, mutation of the key anti-apoptotic gene BCL2 next to the mutations of certain tumor-suppressor genes. Informatively, among all the 36 BCL2 mutant samples, mutations at 179C and 392C of CDS (Coding DNA Sequence) were as frequent as 5 and 4 times, respectively, suggesting those to be hotspot mutations that might play a particular role in evading apoptosis. Because TP53, MLL2 and EZH2 were inferred to be the top initiators of mutation in HLT cancer samples, the function of evading apoptosis could be acquired in an early stage of tumor progression.
+
+Go to:
+Discussion
+The inferred results from individual samples firmly revealed the order heterogeneity in a given cancer type, showing the complexity of the disease. The results also highlighted the limited number of genes that are able to initiate the mutations and revealed that the hallmark function of evading apoptosis is acquired early. Other regularities implied in the results might also be significant in understanding and treating the disease.
+
+The proposed approach for inferring the temporal order of mutations is superior to existing methods in two ways: 1) it can be used to infer the order of mutation in individual samples with mutations in multiple genes which have been identified at the same time; and 2) it is completely data-driven, free from the difficulty in existing methods of setting proper parameters, such as fitness, mutation rate or waiting time [9]–[11]. When this approach is better supported by more sufficient data, it is expected to help discover more reliable information to understand the mechanism of carcinogenesis. Fortunately, the wide application of a new generation of sequencing will make this hope a reality.
+
+The key to the success of this study is finding the statistical measurement of CIC, which proved to usually be asymmetrical between a pair of cancer genes, laying the foundation of mutation order inference. Meanwhile, the iterative procedure provides a feasible way to infer the CICs from non-sequential co-occurrence frequencies. With the CICs, the linkages between cancer gene mutations are modeled as a complex network with directed links. The small world-like nature of the complex network makes the inference of the temporal order of mutations effective.
+
+Go to:
+Supporting Information
+Table S1
+
+Tumor samples used in the inference of orders (xlsx).
+
+(XLSX)
+
+Click here for additional data file.(37K, xlsx)
+Table S2
+
+CICs between cancer genes (xlsx).
+
+(XLSX)
+
+Click here for additional data file.(984K, xlsx)
+Table S3
+
+Orders of mutations in cancer genes with an estimated probability greater than random chance for all 1,118 samples in the inference (xlsx).
+
+(ZIP)
+
+Click here for additional data file.(8.5M, zip)
+Go to:
+Acknowledgments
+We thank the developers of the COSMIC database for their contribution of publicly available mutation data.
+
+Go to:
+Funding Statement
+Natural Science Foundation of China under grant no. 61273217; Chinese 111 program of ‘Advanced Intelligence and Network Service’ under grant no. B08004. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Go to:
+References
+1. Vogelstein B, Kinzler KW (2004) Cancer genes and the pathways they control. Nat. Med. 10: 789–799. [PubMed]
+2. Nowell PC (2002) Tumor progression: a brief historical perspective. Semin. Cancer Biol. 12: 261–266. [PubMed]
+3. Schaub FX, Looser R, Li S, Shen HH, Lehmann T, et al. (2010) Clonal analysis of TET2 and JAK2 mutations suggests that TET2 can be a late event in the progression of myeloproliferative neoplasms. Blood 115: 2003–2007. [PubMed]
+4. Pronier E, Quivoron C, Bernard OA, Villeval JL (2011) JAK2V617F/TET2 mutations: does the order matter? Haematologica 96: 638–640. [PMC free article] [PubMed]
+5. Ding L, Ellis MJ, Li S, Larson DE, Chen K, et al. (2010) Genome remodelling in a basal-like breast cancer metastasis and xenograft. Nature 464: 999–1005. [PMC free article] [PubMed]
+6. Notta F, Mullighan CM, Wang CY, Poeppl A, Doulatov S, et al. (2011) Evolution of human BCR–ABL1 lymphoblastic leukaemia-initiating cells. Nature 469: 362–367. [PubMed]
+7. Harbour JW, Onken MD, Roberson EDO, Duan S, Gao L, et al. (2010) Frequent Mutation of BAP1 in Metastasizing Uveal Melanomas. Science 330: 1410–1413. [PMC free article] [PubMed]
+8. Fearon E, Vogelstein BA (1990) Genetic model for colorectal tumorigenesis. Cell 61: 759–767. [PubMed]
+9. Attolini CS, Cheng YK, Beroukhim R, Getz G, Wahab OA, et al. (2010) A mathematical framework to determine the temporal sequence of somatic genetic events in cancer. Proc. Natl. Acad. Sci. USA 107: 17604–17609. [PMC free article] [PubMed]
+10. Gerstung M, Eriksson N, Lin J, Vogelstein B, Beerenwinkel N (2011) The Temporal Order of Genetic and Pathway Alterations in Tumorigenesis. PLoS ONE 6(11): e27136.doi:10.1371/journal.pone.0027136. [PMC free article] [PubMed]
+11. Sprouffske K, Pepper JW, Maley CC (2011) Accurate reconstruction of the temporal order of mutations in neoplastic progression. Cancer Prev Res 4: 1135–1144. [PMC free article] [PubMed]
+12. Gilad G, Nabet BY, Ragland RL, Schoppy DW, Smith KD, et al. (2010) Combining ATR Suppression with Oncogenic Ras Synergistically Increases Genomic Instability, Causing Synthetic Lethality or Tumorigenesis in a Dosage-Dependent Manner. Cancer Res. 70: 9693–9702. [PMC free article] [PubMed]
+13. Halazonetis TD, Gorgoulis VG, Bartek J (2008) An Oncogene-Induced DNA Damage Model for Cancer Development. Science 319: 1352–1355. [PubMed]
+14. Krejci L, Altmannova V, Spirek M, Zhao X (2012) Homologous recombination and its regulation. Nucleic Acids Res 30: 1–24. [PMC free article] [PubMed]
+15. Westermark UK, Lindberg N, Roswall P, Brazater D, Helgadottir HR, et al. (2011) RAD51 can inhibit PDGF-B–induced gliomagenesis and genomic instability. Neuro Oncol 13: 1277–1287. [PMC free article] [PubMed]
+16. Haffner MC, Marzo AMD, Meeker AK, Nelson WG, Yegnasubramanian S (2011) Transcription-Induced DNA Double Strand Breaks: Both Oncogenic Force and Potential Therapeutic Target? Clin Cancer Res 17: 3858–3864. [PMC free article] [PubMed]
+17. Verhaak RGW, Goudwaard CS, Putten W, Bijl Ma, Sanders MA, et al. (2005) Mutations in nucleophosmin (NPM1) in acute myeloid leukemia (AML): association with other gene abnormalities and previously established gene expression signatures and their favorable prognostic significance. Blood 106: 3747–3754. [PubMed]
+18. Ding L, Getz G, Wheeler DA, Mardis ER, McLellan MD, et al. (2008) Somatic mutations affect key pathways in lung adenocarcinoma. Nature 455: 1069–1075. [PMC free article] [PubMed]
+19. Guo J, Guo H, Wang Z (2011) An Activation Force-based Affinity Measure for Analyzing Complex Networks. Sci. Rep. 1: 113.DOI:10.1038/srep00113. [PMC free article] [PubMed]
+20. Barzel B, Barabasi A (2013) Network link prediction by global Silencing of indirect correlations. Nat. Biotechnol. 31: 720–725. [PMC free article] [PubMed]
+21. Feizi S, Marbach D, Medard M, Kellies M (2013) Network deconvolution as a general method to distinguish direct dependencies in networks. Nat. Biotechnol. 31: 726–733. [PMC free article] [PubMed]
+22. Palla G, Derenyi I, Farkas I, Vicsek T (2005) Uncovering the overlapping community structure of complex networks in nature and society. Nature 435: 814–818. [PubMed]
+23. Ahn YY, Bagrow JP, Lehmann S (2010) Link communities reveal multiscale complexity in networks. Nature 466: 761–764. [PubMed]
+24. Rual JF, Venkatesan K, Hao T, Kishikawa TH, Dricot A, et al. (2005) Towards a proteome-scale map of the human protein–protein interaction network. Nature 437: 1173–1178. [PubMed]
+25. Bamford S, Dawson E, Forbes S, Clements J, Pettet R, et al. (2004) The COSMIC (Catalogue of Somatic Mutations in Cancer) database and website. Br J Cancer 91: 355–358. [PMC free article] [PubMed]
+26. Forbes S, Clements J, Dawson E, Bamford S, Webb T, et al. (2006) COSMIC 2005. Br J Cancer 94: 318–322. [PMC free article] [PubMed]
+27. Vogelstein B, Lane D, Levine AJ (2000) Surfing the p53 network. Nature 408: 307–310. [PubMed]
+28. Albert R, Jeong H, Balabasi AL (2000) Error and attack tolerance of complex networks. Nature 406: 378–382. [PubMed]
+29. Dhillon A, Hagan S, Rath O, Kolch W (2007) MAP kinase signalling pathways in cancer. Oncogene 26: 3279–3290. [PubMed]
+30. Kinzler KW, Vogelstein B (1996) Lessons from Hereditary Colorectal Cancer. Cell 87: 159–170. [PubMed]
+31. Hsieh JS, Lin SR, Chang MY, Chen FM, Lu CY, et al. (2005) APC, K-ras, and p53 gene mutations in colorectal cancer patients: correlation to clinicopathologic features and postoperative surveillance. Am Surg. 71(4): 336–43. [PubMed]
+32. Martins FC, De S, Almendro V, Gonen M, Park SY, et al. (2012) Evolutionary Pathways in BRCA1-Associated Breast Tumors. Cancer Discov. 2: 503–511. [PMC free article] [PubMed]
+33. Hanahan D, Weinberg RA (2000) The hallmarks of cancer. Cell 100: 57–70. [PubMed]
+34. Hanahan D, Weinberg RA (2011) Hallmarks of Cancer: The Next Generation. Cell 144: 646–674. [PubMed]
+35. Morin PJ, Vogelstein B, Kinzler KW (1996) Apoptosis and APC in colorectal tumorigenesis. Proc. Natl. Acad. Sci. USA 93: 7950–7954. [PMC free article] [PubMed]
+36. Chen T, Yang I, Irby R, Shain KH, Wang HG, et al. (2003) Regulation of Caspase Expression and Apoptosis by Adenomatous Polyposis Coli. Cancer Res. 63: 4368–4374. [PubMed]
+37. Lindstrom MS (2011) NPM1/B23: a multifunctional chaperone in ribosome biogenesis and chromatin remodeling. Biochem Res Int 2011. [PMC free article] [PubMed]
+38. Herranz H, Xin HX, Cohen SM (2012) Mutual Repression by Bantam miRNA and Capicua Links the EGFR/MAPK and Hippo Pathways in Growth Control. Current Biology 22: 651–657. [PubMed]
+39. Adams JM, Cory S (2007) The Bcl-2 apoptotic switch in cancer development and therapy. Oncogene 26: 1324–1337. [PMC free article] [PubMed]

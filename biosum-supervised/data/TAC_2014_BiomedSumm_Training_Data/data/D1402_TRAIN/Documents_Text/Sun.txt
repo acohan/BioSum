@@ -1,0 +1,507 @@
+Activation of Multiple Proto-oncogenic Tyrosine Kinases in Breast Cancer via Loss of the PTPN12 Phosphatase
+Tingting Sun1, Nicola Aceto10, 14, Kristen L. Meerbrey1, 2, 14, Jessica D. Kessler1, 2, Chunshui Zhou11, Ilenia Migliaccio6, Don X. Nguyen13, Natalya N. Pavlova11, Maria Botero6, Jian Huang6, Ronald J. Bernardi3, Earlene Schmitt1, 2, Guang Hu11, Mamie Z. Li11, Noah Dephoure12, Steven P. Gygi12, Mitchell Rao2, Chad J. Creighton4, 5, Susan G. Hilsenbeck4, 5, Chad A. Shaw2, Donna Muzny9, Richard A. Gibbs2, 5, 9, David A. Wheeler5, 9, C. Kent Osborne5, 6, 7, 8, Rachel Schiff5, 6, 7, 8, Mohamed Bentires-Alj10, 15, Stephen J. Elledge11, 15, Thomas F. Westbrook1, 2, 3, 5, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2011.02.003
+  Open Archive
+Summary
+Among breast cancers, triple-negative breast cancer (TNBC) is the most poorly understood and is refractory to current targeted therapies. Using a genetic screen, we identify the PTPN12 tyrosine phosphatase as a tumor suppressor in TNBC. PTPN12 potently suppresses mammary epithelial cell proliferation and transformation. PTPN12 is frequently compromised in human TNBCs, and we identify an upstream tumor-suppressor network that posttranscriptionally controls PTPN12. PTPN12 suppresses transformation by interacting with and inhibiting multiple oncogenic tyrosine kinases, including HER2 and EGFR. The tumorigenic and metastatic potential of PTPN12-deficient TNBC cells is severely impaired upon restoration of PTPN12 function or combined inhibition of PTPN12-regulated tyrosine kinases, suggesting that TNBCs are dependent on the proto-oncogenic tyrosine kinases constrained by PTPN12. Collectively, these data identify PTPN12 as a commonly inactivated tumor suppressor and provide a rationale for combinatorially targeting proto-oncogenic tyrosine kinases in TNBC and other cancers based on their profile of tyrosine-phosphatase activity.
+
+Graphical Abstract
+Full-size image (53 K)
+Figure options
+Highlights
+► Tyrosine phosphatase PTPN12 suppresses transformation, tumorigenesis, and metastasis ► PTPN12 inhibits multiple oncogenic tyrosine kinases including HER2, EGFR, and PDGFR-β ► PTPN12 is frequently inactivated in human triple negative breast cancer (TNBC) ► PTPN12-deficient TNBCs can be treated with combinatorial tyrosine kinase inhibitors
+
+Introduction
+Breast cancer is the most common malignancy among women and is comprised of a heterogeneous group of diseases stratified into three major subtypes (Di Cosimo and Baselga, 2010 and Jemal et al., 2008). Two of these are defined by expression of steroid hormone receptors (estrogen receptor [ER] and progesterone receptor [PR]) or amplification/overexpression of the receptor tyrosine kinase (RTK) HER2. Agents targeting these proteins have led to significant increases in patient survival (Osborne, 1998 and Slamon et al., 1989). In contrast, the triple-negative breast cancer (TNBC) subtype is defined only by the absence of ER and PR expression or HER2 amplification, underscoring our lack of understanding of key pathways driving TNBC. TNBC comprises approximately 20% of breast cancer, and the prognosis for patients with TNBC is poor because of its propensity for recurrence and metastasis and a lack of effective targeted therapeutics (Hurvitz and Finn, 2009). Consequently, a major challenge remaining in breast cancer treatment is to identify aberrant signaling networks underlying this aggressive subtype of breast cancer.
+
+Protein tyrosine phosphorylation plays a central role in cellular physiology and in cancer (Hunter, 2009). For instance, aberrant activation of the human epidermal growth factor receptor (HER) family of RTKs occurs frequently in many malignancies, including breast, lung, and brain cancer (Yarden and Sliwkowski, 2001). Although HER2 signaling is required for tumor maintenance in HER2-amplified disease (Slamon et al., 1989), the role of HER2 and other HER family tyrosine kinases (TKs) in breast cancer subtypes lacking HER2 amplification is unclear. Notably, in the absence of TK mutational activation or amplification, other pathways that regulate HER2 and other TKs may also be involved in tumorigenesis but remain to be elucidated.
+
+Protein tyrosine phosphatases (PTPs) also regulate the equilibrium of tyrosine phosphorylation and, in principle, can serve as antagonists to TK signaling to play a prominent role in tumor suppression (Tonks, 2006). However, much less is known about the role of PTPs in suppressing tumorigenesis. In this study we have employed an unbiased functional screen for tumor suppressors and identified a role for the tyrosine phosphatase PTPN12 in TNBC. Loss of PTPN12 leads to malignant transformation of human mammary epithelial cells (HMECs) through multi-TK activation. PTPN12 function is frequently compromised in TNBC by deletions, defective sequence variants, or loss of expression, suggesting that HER2/EGFR and other RTK signaling is aberrantly activated in non-HER2-amplified breast cancers. Restoring PTPN12 expression in PTPN12-deficient TNBC cells inhibits their proliferation, tumorigenicity, and metastatic potential in vivo. These results identify PTPN12 as a tumor suppressor and suggest that combinatorial TK signaling is a key dependency in TNBC and, therefore, a target for cancer therapies.
+
+Results
+PTPN12 Suppresses Transformation of HMECs
+Signal transduction networks play key roles in the malignant behavior of cancer cells. To identify new networks that regulate cellular transformation in human breast cancer, we performed a genetic screen for kinases and phosphatases that suppress cellular transformation in genetically engineered HMECs (Figure 1A). HMECs isolated from healthy human breast tissue were transduced with lentiviruses expressing hTERT and SV40-Large T. These cells (herein termed TLM-HMECs) are immortal but do not proliferate in the absence of extracellular matrix (ECM) (Westbrook et al., 2005). For the screen we generated a shRNA library targeting all human kinases and phosphatases (six shRNAs/gene). TLM-HMECs were transduced with the shRNA library and assessed for cellular transformation by culturing in the absence of ECM. We isolated 530 anchorage-independent colonies from two independent screens and identified proviral shRNAs by sequencing. Genes identified in both replicate screens were considered candidate suppressors of transformation. Several genes were targeted by multiple independent shRNAs, including the well-documented tumor suppressors PTEN and LKB1 (Hemminki et al., 1998 and Li et al., 1997).
+
+Full-size image (102 K)
+Figure 1. 
+A Genetic Screen for Tumor Suppressors Identifies PTPN12
+(A) Schematic of genetic screen for suppressors of HMEC transformation. A pool of retroviral shRNAs was transduced into TLM-HMECs in duplicate, and assessed for anchorage-independent proliferation. shRNAs were PCR amplified and sequenced from macroscopic colonies.
+(B) Depletion of PTPN12. PTPN12 protein expression in TLM-HMECs transduced with vectors expressing the indicated shRNAs with quantification below.
+(C) PTPN12 loss of function transforms TLM-HMECs. Anchorage-independent proliferation in TLM-HMECs transduced with the indicated shRNAs.
+(D) Restoring PTPN12 expression suppresses transformation by PTPN12 shRNA. Anchorage-independent proliferation in TLM-HMECs transduced with control or PTPN12-shRNA in combination with PTPN12 cDNA as indicated.
+(E) PTPN12 regulates acinar morphogenesis. MCF10A cells expressing the indicated shRNAs were analyzed for 3D acinar morphogenesis in vitro (day 15 after seeding) and quantified for the number of aberrant mammary acini.
+(F) The enzymatic activity of PTPN12 is required for transformation suppression. TLM-HMECs expressing a PTPN12 shRNA were transduced with lentivirus-encoding control or shRNA-resistant PTPN12-C231S mutant cDNA and assessed for PTPN12 expression by western (top) and anchorage-independent proliferation (bottom).
+Error bars represent standard error.
+Figure options
+The top-scoring candidate from this genetic screen was the PTP PTPN12 (aka PTP-PEST) (Yang et al., 1993). Many TKs have been shown to be important drivers of human cancer, but PTPs that antagonize proto-oncogenic TKs have not received equal attention. Notably, PTPN12 has not been previously implicated in tumor suppression. Three independent PTPN12 shRNAs exhibited robust cellular transformation in TLM-HMECs (Figure 1C), and the degree of depletion correlated with the severity of the phenotype (Figures 1B and 1C). In addition, restoring PTPN12 expression with an exogenous PTPN12 cDNA completely suppressed transformation (Figure 1D), ruling out RNAi off-target effects. Collectively, these data indicate that PTPN12 is a potent suppressor of transformation in mammary epithelial cells.
+
+Loss of PTPN12 Disrupts Proper 3D Acinar Formation of Mammary Epithelial Cells
+Proper control of cell proliferation, survival, and polarity in the mammary epithelium is critical for normal mammary gland function, and dysregulation of these processes is considered to be a driver in breast cancer initiation and progression (Bissell et al., 2002). To determine whether PTPN12 regulates these processes during acini formation, we tested the effects of PTPN12 loss of function in 3D culture of MCF10A cells, a nontumorigenic mammary epithelial cell line. When cultured in semisolid ECM, these cells form a polarized acinar structure that resembles mammary acini in vivo (Petersen et al., 1992). MCF10A cells transduced with control- or PTPN12-shRNAs were analyzed for PTPN12 expression and formation of 3D acini (Figure 1E, and see Figure S1E available online). PTPN12 depletion significantly disrupted normal acini formation, with >85% forming aberrant structures (Figure 1E). Confocal microscopy revealed that PTPN12 loss of function significantly increased ectopic proliferation (Figures S1B and S1C) but did not lead to a compensatory increase in apoptosis (data not shown) like other oncogenic insults (Debnath et al., 2002), consistent with the significantly expanded cellularity and filled lumen in acini upon PTPN12 depletion. These observations suggest that PTPN12 is required to establish proper proliferative arrest during acinar formation.
+
+Full-size image (72 K)
+Figure S1. 
+PTPN12 Is Required for Establishment and Maintenance of Proliferative Arrest during Mammary Acinar Morphogenesis, Related to Figure 1
+(A) PTPN12 depletion in MCF10A cells expressing control or PTPN12-targeting shRNAs (from Figure 1E) were analyzed by western for PTPN12 and ERK2 (loading control) in top and bottom panels, respectively.
+(B) PTPN12 regulates proliferation during acinar morphogenesis. MCF10A cells (from Figure 1F) expressing control or PTPN12 shRNA were cultured in 3D for 15 days and analyzed for Ki67 as a marker of proliferation.
+(C) Quantification of Ki67-positive cells in mammary acini from (B).
+(D) Schematic of experimental design for testing PTPN12 function in established mammary acini using an inducible (doxycycline-dependent) shRNA system. Inducible shRNA lentiviral vector (top panel) expresses a cassette encoding Turbo-RFP (tRFP) and the shRNA of interest. MCF10A cells transduced with an inducible shRNA vector targeting PTPN12 (or control) were seeded into 3D culture in the absence of doxycycline. After formation of acini (day 9), cells were cultured ± doxycycline for 6 days and analyzed for aberrant acini.
+(E) PTPN12 depletion in MCF10A cells expressing inducible PTPN12 shRNA. MCF10A cells were infected with lentivirus expressing doxycycline-inducible control or PTPN12 shRNA and tRFP cDNA. Cells were cultured ± doxycycline for 3 days and analyzed by western for the indicated proteins. Asterisk (∗) indicates non-specific band.
+(F) PTPN12 is required to maintain proliferative arrest in established mammary acini. MCF10A cells expressing dox-inducible control- or PTPN12-targeting shRNAs and tRFP cDNA (from E) were quantified for aberrant acini formation. In the presence of dox, only acini exhibiting red fluorescence were analyzed for normal and aberrant acini.
+Error bars represent standard error.
+Figure options
+To determine whether PTPN12 is required to maintain proliferative arrest in preestablished acini, we utilized an inducible shRNA vector that encodes a shRNA and tRFP on the same inducible transcript (Figure S1D, top panel) (Meerbrey et al., 2011). Addition of doxycycline (dox) results in tRFP fluorescence and PTPN12 depletion within 72 hr (Figure S1E). MCF10A cells encoding an inducible control- or PTPN12-shRNA were seeded in 3D culture, and after acini formation (day 9), dox was added to the culture medium, and acini morphology was assessed at day 15. Addition of dox had no effect in cells expressing control shRNA, but cells expressing PTPN12 shRNA exhibited a significant increase in aberrant acini (Figure S1F). Thus, PTPN12 is required to establish and maintain proliferative arrest in mammary epithelial acini.
+
+PTPN12 Phosphatase Activity Is Required to Suppress Cellular Transformation
+To determine the role of the PTPN12 phosphatase activity in transformation, we mutated amino acid C231 to S, which is known to ablate phosphatase activity (Garton et al., 1996). A shRNA-resistant PTPN12-C231S cDNA was transduced into TLM-HMECs expressing a PTPN12 shRNA. Unlike wild-type PTPN12 (Figure 1D), the C231S mutant had no effect on HMEC transformation (Figure 1F), suggesting that the tyrosine-phosphatase activity of PTPN12 is required for suppressing transformation.
+
+PTPN12 Regulates an EGFR/HER2-Centered RTK Network in HMECs
+To elucidate the role of the phosphatase activity of PTPN12 in suppressing transformation, it is critical to identify the phosphorylation events altered in response to PTPN12 loss. Thus, we used a quantitative proteome-wide method that combines anti-phosphotyrosine peptide immunoprecipitation, differential peptide labeling, and LC-MS/MS-based phosphopeptide identification and quantitation (Hsu et al., 2003) to search for phosphotyrosine-peptides whose abundance increases when PTPN12 is depleted. TLM-HMECs engineered with an inducible PTPN12-shRNA were profiled with and without PTPN12 depletion. We identified 99 phosphotyrosine peptides corresponding to 69 proteins whose tyrosine phosphorylation increased by greater than 1.5-fold in the absence of PTPN12 (see Table S1). Many of these proteins have been previously described to interact with PTPN12, including the known substrate p130CAS (or BCAR1). However, whereas p130CAS was highly phosphorylated, depletion experiments indicate it plays only a minor role in cellular transformation due to PTPN12 loss (Figure S2), suggesting that other signaling proteins may play more important roles in the tumor-suppressive function of PTPN12.
+
+Full-size image (82 K)
+Figure S2. 
+Cytoskeletal Networks of PTPN12-Regulated Phosphoproteins and Determination that p130CAS Is Not a Primary Mediator of PTPN12's Suppression of HMEC Transformation, Related to Figure 2
+(A and B) HMECs expressing an inducible PTPN12-shRNA were profiled in the presence and absence of PTPN12 for tyrosine-phosphorylated peptides using a quantitative proteomic approach (described in Experimental Procedures). Interactions between the 69 PTPN12-regulated phosphoproteins were analyzed via (A) the Human Protein Reference Database and (B) Ingenuity and visualized using a custom software package. Shown are protein networks involved in regulating the actin-cytoskeleton.
+(C) TLM-HMECs expressing control or PTPN12-shRNA were transduced with lentiviral vectors expressing cDNAs encoding PTPN12-WT or a mutant PTPN12-P337A defective in binding p130CAS (Garton et al., 1997) as indicated. Cellular lysates were analyzed for PTPN12 expression.
+(D) PTPN12-P337 mutant suppresses transformation. TLM-HMECs engineered with the indicated shRNAs and cDNAs (cells from (C)) were measured for anchorage-independent proliferation.
+(E) Depletion of p130CAS has a modest effect on transformation upon PTPN12-depletion. TLM-HMECs encoding an inducible PTPN12-shRNA were transduced with control or p130CAS-targeting shRNAs and assessed for p130CAS expression by western (left panel) and anchorage-independent proliferation ± doxycycline (right panel).
+Error bars represent standard error.
+Figure options
+Analysis of these PTPN12-regulated proteins using Ingenuity and the Human Protein Reference Database (HPRD) resources revealed two highly connected protein-protein interaction networks. The number of interactions within this PTPN12-regulated network was highly enriched (p < 0.001, Monte Carlo procedure), consisting of 46% of all PTPN12-regulated proteins identified (Figures 2A and 2B). The first network consists of proteins and signaling pathways known to govern proliferation and survival in human cancer, with the RTK EGFR being a central component of both the literature-based Ingenuity network and the protein interaction-based HPRD network (p < 0.001, Monte Carlo procedure) (Figures 2A and 2B). The second network is comprised of proteins controlling the actin cytoskeleton, consistent with the role of PTPN12 in regulating cell motility and possibly metastasis (Angers-Loustau et al., 1999) (Figures S2A and S2B). Because EGFR and its related receptors play critical roles in breast cancer initiation and progression (Brandt et al., 2000, Muller et al., 1988 and Slamon et al., 1989), we focused our attention on the potential regulatory interaction between PTPN12 and the EGFR family of receptor TKs.
+
+Full-size image (164 K)
+Figure 2. 
+PTPN12 Interacts with and Inhibits the HER2/EGFR Signaling Axis
+(A and B) Tyrosine phosphoproteins regulated by PTPN12. HMECs expressing an inducible PTPN12-shRNA were quantified in the presence and absence of PTPN12 for tyrosine-phosphorylated peptides using a quantitative proteomic approach (described in Experimental Procedures). Interactions between the 69 PTPN12-regulated phosphoproteins were analyzed via (A) Ingenuity and (B) the HPRD.
+(C) HER2 and EGFR RTKs interact with PTPN12 in HMECs. The left panel shows the experimental design of the BiFC system. PTPN12 was fused with the N terminus of YFP, and RTKs were fused with the C terminus of YFP. HMECs were transduced with retroviruses expressing PTPN12-N-YFP and individual RTK-C-YFP cDNAs. In the right panel the interaction between PTPN12 and HER family RTKs was assessed by cellular fluorescence. Asterisk indicates p < 0.01.
+(D) Substrate-trapping PTPN12 mutant displays increased interaction with HER2. Breast cancer cells expressing PTPN12-WT-N-YFP or mutant PTPN12-C231S-N-YFP in combination with HER2-C-YFP were analyzed for cellular fluorescence.
+(E) PTPN12 loss of function elicits hyperactivation of HER2, EGFR, and a MAPK-signaling cascade. HMECs engineered with an inducible PTPN12-shRNA were cultured ± dox for 3 days, starved of growth factors, and analyzed for levels of the indicated total and phosphorylated proteins by western.
+(F) PTPN12 suppresses HER2, EGFR, and MAPK signaling. HMECs engineered with an inducible PTPN12-cDNA were cultured and analyzed as in (E).
+Error bars represent standard error.
+Figure options
+EGFR is one of four RTKs in the HER family, with HER2 playing the most prominent role in human breast cancer. These RTKs are known to promote cell survival and proliferation and signal via autophosphorylation and recruitment of additional substrates through recognition of these autophosphorylation sites (Yarden and Sliwkowski, 2001). In principle, tyrosine phosphatases can counter the activity of these RTKs by dephosphorylation of RTK substrates or the RTKs themselves. To determine if PTPN12 interacts with EGFR and other RTKs in HMECs, we employed a bimolecular fluorescence complementation (BiFC) system (Giepmans et al., 2006 and Kerppola, 2006). Each of the HER family RTKs (EGFR, HER2, HER3, and HER4) was fused on its C termini with the C-terminal half of YFP. These fusion cDNAs were transduced into TLM-HMECs expressing PTPN12 fused to the N terminus of YFP. If an interaction occurs between PTPN12 and the candidate RTK, this enables folding of the N- and C-terminal fragments of YFP to produce a fluorescent YFP protein (Figure 2C, left panel). EGFR and HER2 exhibited strong interaction with PTPN12, as determined by cellular YFP fluorescence (Figure 2C, right panel). In addition, HER2 interaction was enhanced with the substrate-trapping C231S mutant of PTPN12 (Figure 2D). These data suggest that PTPN12 may directly interact with and inhibit EGFR/HER2 signaling to suppress transformation.
+
+PTPN12 Inhibits an EGFR/HER2-MAPK Signaling Axis to Suppress Cellular Transformation
+HER2 and EGFR signal via homo- and heterodimerization and subsequent phosphorylation of their C-terminal tails on sites that serve as hubs for recruitment and activation of signaling complexes (Yarden and Sliwkowski, 2001). To determine whether PTPN12 controls EGFR and HER2, we assessed the phosphorylation status of EGFR and HER2 in cells expressing an inducible PTPN12 shRNA. Depletion of PTPN12 led to an increase in HER2 (Y1248) and EGFR (Y1148) phosphorylation. Consistent with our phosphoproteomic data, the Y1148 residue of EGFR showed the strongest differential phosphorylation (>2-fold) in response to PTPN12 depletion (Figure 2E). Reciprocally, inducible expression of a PTPN12 cDNA in TLM-HMECs decreased HER2-pY1248 and EGFR-pY1148, but not other phosphotyrosine residues on EGFR (Figure 2F; data not shown). Thus, PTPN12 selectively regulates phosphorylation of a subset of tyrosine residues on EGFR and HER2.
+
+We next evaluated the effects of PTPN12 suppression on known EGFR/HER2 effector pathways (RAS/MAPK and PI3K/AKT). PTPN12 depletion led to hyperactivation of ERK/RSK/S6 signaling but had no effect on phosphorylation of PI3K-effectors AKT and S6K1 (Figure 2E). Likewise, ectopic expression of PTPN12 decreased the phosphorylation of ERK/RSK/S6 but not PI3K signaling (Figure 2F). This is consistent with previous observations that pY1148 of EGFR serves as a binding site for the adaptor protein SHC and mediates activation of RAS-MAPK signaling (Batzer et al., 1995 and Songyang et al., 1995). Furthermore, SHC is phosphorylated upon EGFR recruitment, and we found SHC1 phosphorylation on Y317 to be regulated by PTPN12 (Table S1). Taken together, these results indicate that loss of PTPN12 function leads to hyperphosphorylation of HER2/EGFR and activation of downstream RAS/MAPK signaling in HMECs.
+
+To determine whether HER2/EGFR is required for transformation, TLM-HMECs expressing a dox-inducible PTPN12-shRNA were depleted of EGFR or HER2 (Figure 3A). Transformation by the PTPN12 shRNA was significantly impaired upon depletion of EGFR or HER2 (Figure 3B). Depletion of the adaptor protein SHC also reduced cellular transformation in response to a PTPN12 shRNA (Figures 3C and 3D), consistent with the hypothesis that PTPN12 suppresses transformation by inhibiting a HER2/EGFR/SHC/MAPK signaling axis. Furthermore, pharmacologic inhibition of HER2 and EGFR or MEK strongly suppressed transformation in cells depleted of PTPN12 (Figures 3E and 3F, respectively). Collectively, these data demonstrate that PTPN12 suppresses cellular transformation in HMECs by antagonizing HER2/EGFR phosphorylation and downstream MAPK signaling.
+
+Full-size image (60 K)
+Figure 3. 
+PTPN12 Suppresses Transformation by Inhibiting HER2/EGFR Signaling
+(A) EGFR and HER2 depletion in TLM-HMECs. TLM-HMECs expressing control, EGFR, or HER2-targeting shRNAs were analyzed by western blotting for EGFR, HER2, and vinculin (loading control) as indicated.
+(B) EGFR and HER2 RTKs are required for cellular transformation upon PTPN12 depletion. TLM-HMECs encoding an inducible PTPN12-shRNA were transduced with the indicated shRNAs and assessed for anchorage-independent proliferation ± dox.
+(C) SHC depletion in HMECs. TLM-HMECs expressing control or SHC-targeting shRNAs were analyzed by western for SHC and vinculin as indicated.
+(D) SHC is required for cellular transformation upon PTPN12 depletion. TLM-HMECs encoding an inducible PTPN12-shRNA were transduced with the indicated shRNAs and assessed for anchorage-independent proliferation ± dox.
+(E) HER2/EGFR inhibitors block PTPN12 depletion-induced transformation. TLM-HMECs expressing the indicated shRNAs were assessed for anchorage-independent growth ± a HER2/EGFR inhibitor (lapatinib).
+(F) Transformation by PTPN12 inactivation requires MAPK signaling. TLM-HMECs expressing the indicated shRNAs were assessed for anchorage-independent proliferation ± a MEK inhibitor (U0126).
+Error bars represent standard error.
+Figure options
+PTPN12 Is Inactivated by Mutation in Human TNBC
+The role of PTPN12 in transformation and control of proto-oncogenic pathways led us to ask whether PTPN12 is inactivated in breast cancer. Initially, we examined whether the PTPN12 locus is deleted frequently in breast cancer by analyzing a publicly available data set of 243 human primary breast tumors and tumor-derived cell lines for which genomic copy number has been assessed (Beroukhim et al., 2010). Indeed, 22.6% of breast cancers exhibit evidence of deletion (one homozygous deletion of 15.0 Mb) at the PTPN12 locus, though the deletions exhibit a median size of 22.9 Mb, suggesting that multiple driver mutations may exist in this region. PTPN12 deletion in lung cancer was also frequent (13.8%) and typically encompassed large chromosomal regions (median deletion size of 22.2 Mb; two homozygous deletions of 1.3 and 0.7 Mb). An analysis of focal deletions (<2.0 Mb) encompassing PTPN12 in these tumors revealed a minimum common region (MCR) of only 0.61 Mb that spans five genes (Figure S3). These data suggest that PTPN12 is inactivated, in part, via deletion in a wide range of cancers and support the hypothesis that PTPN12 is a frequently inactivated tumor suppressor.
+
+Full-size image (67 K)
+Figure S3. 
+PTPN12 Is Focally and Frequently Deleted in Human Lung Cancer, Related to Figure 4
+(A) Focal deletions target the PTPN12 locus in human non-small cell lung cancers (NSCLCs). Segmental copy-number data for 734 NSCLC samples was retrieved from tumorscape (Beroukhim et al., 2010) and analyzed for focal deletions less than 2Mb. 4 focal deletions targeting the PTPN12 locus were identified, with a minimum common region (MCR) of 0.61Mb encompassing 5 NCBI-annotated genes.
+(B) The PTPN12 locus is targeted by focal and frequent deletions in NSCLC. Table listing the characteristics of an MCR targeting PTPN12. The far right column indicates the total percentage of NSCLC tumors with evidence of PTPN12 deletion.
+Figure options
+Because PTPN12 depletion leads to hyperactivation of HER2/EGFR, PTPN12 inactivation may occur more frequently in non-HER2-amplified human breast cancers. Therefore, to search for potential tumorigenic sequence variants, we sequenced the coding exons of PTPN12 in 83 TNBCs and cell lines (75 primary tumors and eight cell lines). Primary sequence analysis revealed nonsynonymous sequence alterations in PTPN12 in 4.8% of TNBCs (three primary tumors; one tumor-derived cell line) (Figure 4A). Three variants were heterozygous, one was homozygous, and none was present in reference genomes or single-nucleotide polymorphism (SNP) databases. These amino acid changes (shown in Figure 4B) occurred in the highly conserved catalytic cleft of PTPN12 (H230Y) and within close proximity to a known protein-interaction domain (E690G and W699G) (Pao et al., 2007). In contrast we found no evidence of sequence alterations in 202 primary breast cancers from the other predominant breast cancer subtypes (ER+ and HER2-amplified), suggesting that PTPN12 may be inactivated more frequently in the TNBC subtype (p < 0.001, Fisher's exact test).
+
+Full-size image (170 K)
+Figure 4. 
+PTPN12 Is Functionally Inactivated in Human TNBC via Multiple Mechanisms
+(A) PTPN12 mutations occur more frequently in human TNBC. Frequency of mutations observed in TNBCs (75 primary tumors and eight cell lines) and 202 primary breast cancers positive for ER and/or HER2.
+(B) Schematic of PTPN12 mutations in TNBCs. Red stars indicate altered amino acids. The sequence surrounding the catalytic cysteine residue is expanded. The preceding histidine, H230, is conserved among all tyrosine phosphatases. The phosphatase domain (Phos Domain) and Proline rich regions (Pro1-5) are shown.
+(C) H230Y mutant PTPN12 fails to suppress transformation. TLM-HMECs expressing the PTPN12-shRNA were engineered with the indicated dox-inducible cDNAs. Cells were assessed for anchorage-independent growth.
+(D) E690 and W699 PTPN12 mutants fail to suppress transformation. TLM-HMECs expressing the PTPN12-shRNA were transduced with lentiviral PTPN12 cDNAs (as indicated) and assessed for anchorage-independent growth.
+(E) The PTPN12-T573A SNP is a partial loss-of-function allele for suppressing transformation. TLM-HMECs were transduced with PTPN12-shRNA in combination with lentiviral cDNAs encoding PTPN12-WT (threonine at residue 573), or PTPN12-T573A (alanine at residue 573). Cells were measured for anchorage-independent growth.
+(F) PTPN12-H230Y mutation disrupts proper acinar formation. MCF10A cells expressing control or PTPN12 shRNA in combination with wild-type or H230Y mutant PTPN12 were analyzed for 3D acinar formation (day 15 after seeding).
+(G) PTPN12-H230Y mutation disrupts proper acinar formation. Quantification of aberrant mammary acini from (F).
+(H) The PTPN12-T573A SNP allele disrupts acinar formation. MCF10A cells transduced with lentiviral cDNAs encoding control, PTPN12-WT (threonine at residue 573), or PTPN12-T573A (alanine at residue 573) as indicated were analyzed for 3D acinar morphogenesis in vitro (day 15 after seeding).
+(I) Loss of PTPN12 expression occurs more frequently in human TNBC. Primary human breast cancers (n = 185) were analyzed by immunohistochemistry for PTPN12 expression. Representative panels exhibiting positive PTPN12 expression in HER2-amplified breast cancer (left panel) and lack of expression in TNBC (right panel).
+(J) Loss of PTPN12 expression occurs predominantly in TNBC. Primary human breast cancers (n = 185) were analyzed by immunohistochemistry for PTPN12 expression. The number of samples showing no detectable PTPN12 expression (red area of bars) was quantified in HER2-positive, ER-positive, and triple-negative subtypes. Association between PTPN12 expression and breast cancer subtypes was tested by Fisher's exact test.
+Error bars represent standard error.
+Figure options
+To determine whether these sequence variants affected PTPN12 function, wild-type (WT) or mutant PTPN12 cDNAs lacking the 3′UTR were introduced into TLM-HMECs expressing PTPN12 shRNA targeting the PTPN12 3′UTR. All cDNAs restored PTPN12 protein to endogenous levels (Figures 4C and 4D, top panels). Similar to WT PTPN12, the R30Q mutant suppressed PTPN12-shRNA induced transformation. In contrast, the three remaining tumor-derived mutants (H230Y, E690G, and W699G) did not suppress transformation. In fact, TLM-HMECs expressing these mutants formed 25%–50% more colonies than cells with PTPN12 shRNA alone (Figures 4C and 4D, bottom panels), suggesting that these loss-of-function PTPN12 mutations are potentially dominant negative.
+
+We further examined whether the defective H230Y variant perturbed PTPN12 function in an independent system (MCF10A acinar formation). WT and H230Y mutant PTPN12 cDNAs were transduced into MCF10A cells expressing control- or PTPN12-shRNAs and were expressed at comparable levels (Figure S4). In contrast to WT PTPN12, the H230Y mutant did not suppress aberrant acini formation in the presence of PTPN12-shRNA (Figures 4F and 4G). In addition the H230Y mutant elicited aberrant acini in the presence of endogenous PTPN12, again suggesting dominant-negative activity. Although we were unable to determine if these defective variants were somatic tumor mutations due to the lack of patient-matched nontumor DNA, our functional data indicate that these defective PTPN12 variants are likely causal in TNBCs.
+
+Full-size image (17 K)
+Figure S4. 
+Restoring PTPN12 Expression in PTPN12-shRNA MCF10A Cells, Related to Figure 4
+MCF10A cells were transduced with a lentiviral shRNA targeting endogenous PTPN12 in combination with lentiviruses encoding control, PTPN12-WT, or PTPN12-H230Y cDNAs as indicated. These cells were analyzed in Figure 4G.
+Figure options
+During sequencing of the PTPN12 locus, we observed a SNP occurring more frequently in tumors (7.3%, n = 274) than in nondisease control patients (2.5%, n = 1142) (p = 0.004) (Easton et al., 2007). Notably, this SNP results in a threonine to alanine change in PTPN12 (T573A). We have previously shown that this threonine is phosphorylated in cells (Dephoure et al., 2008), suggesting that this residue may have a regulatory function for PTPN12. Based on these observations, we tested the hypothesis that the PTPN12-T573A allele may have reduced ability to suppress transformation. Indeed, a PTPN12-T573A cDNA did not completely suppress transformation in PTPN12-depleted TLM-HMECs (Figure 4E) and conferred aberrant acinar morphogenesis in 3D culture (Figure 4H). These results suggest that the PTPN12 T573A SNP is a partial loss-of-function allele with dominant-negative properties. Intriguingly, our analysis of primary data from a genome-wide association study (GWAS) of SNPs contributing to breast cancer (Easton et al., 2007) revealed that the homozygous PTPN12-573A genotype occurred more frequently in the germline of patients with breast cancer. Although this observation did not reach statistical significance (p = 0.2), the trend (combined with our functional studies) is consistent with the allele conferring enhanced susceptibility to breast cancer. This raises the possibility that a relatively frequent allele of PTPN12 may confer a predisposition to breast cancer, a hypothesis that will need to be rigorously tested in further experiments.
+
+Loss of PTPN12 Expression Occurs More Frequently in TNBC
+Our results suggest that PTPN12 functions as a suppressor of malignant transformation and may be inactivated in TNBC. Given the deletions and sequence alterations in PTPN12, we wished to test whether PTPN12 function may also be frequently compromised by loss of expression. Unfortunately, PTPN12 mRNA expression is high in stromal compartments, thus precluding the use of RNA profiling to evaluate PTPN12 levels in public breast cancer data sets. To circumvent this problem we developed a specific immunohistochemical assay for PTPN12 protein (Figure S5A) and evaluated expression of PTPN12 in an independent cohort of 185 breast cancers. PTPN12 protein was consistently expressed in normal breast tissue (Figure S5B). In contrast, PTPN12 was undetectable in 37% of invasive breast cancers (example images shown in Figure 4I and Figure S5C). Strikingly, loss of PTPN12 expression occurred most frequently in TNBC (60.4% of TNBCs exhibit no detectable PTPN12 protein) (Figure 4J). In contrast, HER2-amplified tumors only rarely exhibited loss of PTPN12 expression (9.1% of HER2-amplified tumors). The near-mutual exclusivity of HER2 amplification and PTPN12 loss (p < 0.0001 by Fisher's exact test) suggests functional redundancy between these two events in tumorigenesis, and is consistent with the model that PTPN12 and HER2/EGFR RTKs operate in the same genetic pathway. Collectively, these results indicate that PTPN12 is frequently inactivated by deletion, sequence variation, or loss of protein expression, and PTPN12 loss of function may be a major determinant in aggressive TNBC.
+
+Full-size image (120 K)
+Figure S5. 
+Immunohistochemical Analysis of PTPN12 Protein in Human Breast Cancer, Related to Figure 5
+(A) HMECs expressing control or PTPN12-shRNA were analyzed for PTPN12 expression via western (top panels) or immunohistochemistry (bottom panels).
+(B) PTPN12 is expressed in normal human mammary gland. Benign tissue from a biopsy was stained with anti-PTPN12.
+(C) Analysis of PTPN12 levels in human breast cancers. PTPN12 proteins levels were evaluated in 185 primary human breast cancers via immunohistochemistry. Shown are representative images from each of the 5 classes of PTPN12 levels observed.
+Figure options
+PTPN12 Is Posttranscriptionally Regulated by a REST-miR-124 Network in Human Breast Cancer
+Our observation that PTPN12 protein levels were frequently undetectable in primary human breast cancers led to us to examine the mechanism(s) by which PTPN12 expression is lost. By examining other suppressors of HMEC transformation, we observed that the tumor suppressor REST was also lost in primary breast cancers (example images in Figure 5A), and the expression of REST and PTPN12 was highly correlated (p < 0.0001; Figure 5B), suggesting that PTPN12 and REST may be coordinately regulated. REST is a transcription factor that represses neuronal genes in non-neural tissues, and plays a prominent tumor suppressor role in epithelial tissues (Westbrook et al., 2005), though the mechanism by which REST suppresses tumorigenesis is poorly understood.
+
+Full-size image (89 K)
+Figure 5. 
+PTPN12 Is Regulated by the REST Tumor Suppressor via miR-124
+(A) Loss of REST expression in human breast cancer. Primary human breast cancers (n = 185) were analyzed by immunohistochemistry for REST expression. Representative panels exhibiting negative and positive REST expression in invasive breast cancers.
+(B) Loss of REST expression strongly correlates with loss of PTPN12 expression. Primary human breast cancers (n = 185) were analyzed by immunohistochemistry for REST and PTPN12 expression. The level of PTPN12 (y axis) is plotted for tumors with absent, intermediate, or high REST levels (x axis). The median and mean PTPN12 values for each group are represented by a solid red line and plus symbol, respectively. The boxes represent the 25th to 75th percentiles. Association between PTPN12 and REST expression was tested by Fisher's exact test. Error bars represent maximum and minimum observations within inner fences.
+(C) Ectopic REST expression increases PTPN12 protein levels in REST-deficient TNBC cells. HCC70 TNBC cells were transduced with control or REST cDNA, cultured for 9 days, and analyzed for expression of REST and PTPN12 by western.
+(D) Model for REST regulation of PTPN12 expression. REST regulates transcription of the neuronal microRNA miR-124. The PTPN12 3′UTR contains three conserved binding sites for miR-124. The sequences surrounding the three miR-124 binding sites are shown for human and five other vertebrate species.
+(E) Ectopic miR-124 expression decreases PTPN12 protein levels in HMECs. HMECs were transduced with control or miR-124-containing plasmid, cultured for 7 days, and analyzed for PTPN12 expression by western.
+(F) Ectopic miR-124 expression transforms TLM-HMECs. Cells from (E) were assessed for anchorage-independent proliferation.
+Error bars represent standard error.
+Figure options
+Based on the coordinate expression of REST and PTPN12 in human breast cancers and their similar phenotypes, we tested whether REST functions in a genetic pathway with PTPN12 by regulating its expression. Consistent with this hypothesis, transgenic REST expression led to a substantial increase in endogenous PTPN12 protein level in HCC70 (Figure 5C) and other TNBC cell lines (data not shown). Based on the established role of REST as a transcriptional repressor, we hypothesized that REST positively regulates PTPN12 expression via an indirect mechanism, perhaps by repressing an inhibitor of PTPN12 protein levels.
+
+microRNAs are an emerging class of negative regulators, and we observed that the PTPN12 3′UTR has three evolutionarily conserved binding sites for miR-124 (Figure 5D), a microRNA suggested to play a role in neural development (Lim et al., 2005). Importantly, miR-124 is transcriptionally repressed by REST during organismal development, and REST inactivation leads to elevated miR-124 expression in cells and tissues (Conaco et al., 2006 and Yoo et al., 2009). To determine whether miR-124 regulates PTPN12 protein levels, we ectopically expressed miR-124-3 in HMECs. Transgenic miR-124 expression led to a significant decrease in endogenous PTPN12 protein levels (Figure 5E), suggesting that miR-124 may in part mediate REST's ability to inhibit PTPN12 protein expression.
+
+The ability of miR-124 to inhibit the PTPN12 tumor suppressor makes a strong prediction that miR-124 may function as an oncogene. Indeed, ectopic expression of miR-124 led to robust transformation of TLM-HMECs (Figure 5F), thus phenocopying PTPN12 loss of function. Consistent with the role of miR-124 as a putative human oncogene, we observed frequent and focal amplifications of the miR-124-3 locus in human breast cancers (Figures S6A and S6C). In a cohort of 243 breast cancers (Beroukhim et al., 2010), 20.1% of tumors harbored amplifications in the miR-124-3 locus, defining a MCR of amplification of ∼0.1 Mb and encompassing only two NCBI-annotated genes (including miR-124-3). miR-124-3 was similarly amplified (12.1%) in human lung cancers (Figures S6B and S6C), suggesting that miR-124-3 and possibly other oncogenes exist on these amplicons. Collectively, these data suggest that miR-124 may be a novel human oncogene in epithelial cancers that transforms cells, in part, by suppressing PTPN12 function.
+
+Full-size image (116 K)
+Figure S6. 
+miR-124 Is Focally Amplified in Human Breast and Lung Cancer, Related to Figure 5
+(A) Focal amplifications target the miR-124-3 locus in human breast cancer. Segmental copy-number data for 243 human breast cancer samples was retrieved from tumorscape (Beroukhim et al.,2010) and analyzed for focal amplifications less than 2 Mb. 13 focal amplifications targeting the miR124-3 locus were identified, with a minimum common region of 0.10 Mb encompassing 2 NCBI-annotated genes.
+(B) Focal amplifications target the miR-124-3 locus in human non-small cell lung cancers (NSCLCs). Segmental copy-number data for 734 NSCLC samples was retrieved from tumorscape (Beroukhim et al., 2010) and analyzed for focal amplifications less than 2Mb. 29 focal amplifications targeting the miR124-3 locus were identified, with a minimum common region of 0.61Mb encompassing 18 NCBI-annotated genes.
+(C) The miR-124-3 locus is targeted by focal and frequent amplifications in breast and lung cancer. Table listing the characteristics of a minimum common region (MCR) targeting miR-124-3 in breast and lung cancers (NSCLC). The far right column indicates the total percentage of breast and NSCLC tumors with evidence of miR-124 amplification.
+Figure options
+PTPN12 Suppresses Growth and Metastasis of PTPN12-Deficient Breast Cancer Cells
+The observations described above implicate PTPN12 as a tumor suppressor in TNBC. We next explored whether breast cancer cells are functionally dependent on PTPN12 inactivation. We first determined levels of PTPN12 in a panel of established breast cancer cell lines. PTPN12 levels were similar in normal HMECs and in HER2-amplified breast cancer cells (Figure 6A). In contrast, several TNBC cell lines exhibited low PTPN12 protein (Figure 6A), consistent with our observation that a significant fraction of TNBC tumors have low or undetectable PTPN12 protein (Figure 4J). To determine whether TNBC cells with low PTPN12 are sensitive to restoring PTPN12 levels, we transduced TNBC cells with control- or PTPN12-expressing retrovirus (Figure S7). As shown in Figures 6B and 6C, ectopic expression of PTPN12 decreased colony formation by TNBC cells, suggesting that these cells are sensitive to reconstituting PTPN12 function.
+
+Full-size image (95 K)
+Figure 6. 
+PTPN12 Suppresses Growth and Metastasis of TNBC Cells
+(A) PTPN12 expression is reduced in TNBC cell lines. PTPN12 protein levels were quantified by western in HMECs, TNBC cells, and HER2-amplified breast cancer cells as indicated.
+(B) Reconstituting PTPN12 expression suppresses proliferation in PTPN12-deficient breast cancer cells. TNBC cells expressing low endogenous PTPN12 were transduced with equivalent multiplicity of infection (moi) of retrovirus encoding eGFP (control) or PTPN12 cDNAs and analyzed for macroscopic colony formation in vitro.
+(C) Reconstituting PTPN12 expression suppresses proliferation in PTPN12-deficient breast cancer cells. Quantification of colony number from cells in (B).
+(D) PTPN12 expression is reduced in aggressive lung metastatic subpopulation of TNBC MDA-MB231 cells. PTPN12 protein expression was assessed in MDA-MB231 breast cancer cells (231-parent) and in MDA-MB231-LM2 subpopulation that exhibits enhanced primary and lung metastatic tumor growth. MDA-MB231-LM2 cells were engineered with an inducible PTPN12-cDNA (LM2-IP cells) that expresses similar PTPN12 levels as parental MDA-MB231 cells upon addition of dox.
+(E) Restoring PTPN12 expression suppresses primary tumor growth in aggressive TNBC cells. Cells from (D) were transplanted in the mouse mammary gland and monitored for primary tumor growth in the presence or absence of dox (n = 12 for each group).
+(F) Restoring PTPN12 expression suppresses lung metastatic growth in aggressive TNBC cells. Cells from (D) were tail vein injected and monitored for lung metastatic growth (via luminescence detection) in the presence or absence of dox (n = 6 for each group). Representative +dox and −dox images and quantification are shown in upper and lower panels, respectively.
+(G) Restoring PTPN12 expression suppresses lung metastatic growth in aggressive TNBC cells. Cells from (D) were tail vein injected (as in F) in the presence or absence of dox (n = 7) and analyzed for lung metastatic lesions via standard H&E.
+Error bars represent standard error.
+Figure options
+Full-size image (21 K)
+Figure S7. 
+Ectopic Expression of PTPN12 in Human Breast Cancer Cell Lines, Related to Figure 6
+HCC38 and HCC1937 breast cancer cells were transduced with lentivirus encoding control or PTPN12 cDNA and assessed for PTPN12 expression by western. These cells were analyzed for colony formation in Figures 6B and 6C.
+Figure options
+The ability of cancer cells to grow in microenvironments with altered or absent ECM is a hallmark of metastasis and is mimicked, in part, by in vitro culture in the absence of ECM support. Because our data indicate that PTPN12 is a potent suppressor of anchorage-independent proliferation (Figure 1), we tested the hypothesis that PTPN12 suppresses the metastatic propensity of TNBC cells. Notably, in our analysis of PTPN12 protein levels, we observed that the TNBC cell line MDA-MB231 exhibited high PTPN12, whereas a highly tumorigenic and metastatic subpopulation of MDA-MB231 (“MDA-MB231-LM2” cells; Minn et al. [2005]) exhibited 7-fold less PTPN12 (Figure 6D). We hypothesized that suppression of PTPN12 expression in this subpopulation of TNBC cells contributes to their aggressive tumorigenic and metastatic behavior. To test this hypothesis we engineered MDA-MB231-LM2 cells with a dox-inducible PTPN12 cDNA (Meerbrey et al., 2011) (termed “LM2-IP” cells) and tested whether PTPN12 restoration suppresses the tumorigenic and metastatic potential of LM2-IP cells. Addition of dox to LM2-IP cells resulted in PTPN12 protein levels comparable to parental MDA-MB231 cells (Figure 6D). To assay their tumorigenic potential, LM2-IP or parental MDA-MB231 cells were transplanted orthotopically into the mammary gland in the presence or absence of dox. As shown in Figure 6E, LM2-IP cells formed tumors rapidly. However, dox-induced PTPN12 expression significantly reduced the tumorigenicity of LM2-IP cells (Figure 6E; p < 0.0001) to the levels of parental MDA-MB231 cells. Lungs collected from these animals revealed significantly fewer metastases than dox-free animals (data not shown). However, interpretation of these results was partially confounded by the significantly larger primary tumor burden of dox-free animals.
+
+To circumvent the issue of tumor burden and directly assess the effects of PTPN12 on lung metastatic colonization and growth, we utilized an experimental model of metastasis (tail vein injection) that measures colonization and expansion in the lung. We injected LM2-IP cells into the tail vein, maintained animals in the presence or absence of dox, and monitored lung metastatic growth using luciferase luminescence-based imaging (examples shown in Figure 6F, top panels). LM2-IP cells injected into dox-free animals showed rapid expansion in the lung (Figure 6F, bottom panel), consistent with the previously reported behavior of MDA-MD231-LM2 cells (Minn et al., 2005). In contrast, LM2-IP cells exhibited a significantly reduced rate of expansion in dox-administered animals and showed no increase in lung metastatic growth after day 21. To confirm the luminescence-based readout, lungs were extracted from dox-positive and dox-negative animals at the experimental endpoint (day 35) and assessed for lung metastases. As shown in Figure 6G, dox-free animals showed significantly higher lung metastatic burden relative to dox-administered animals. Taken together, these data indicate that restoring PTPN12 function constrains the tumorigenic and metastatic behavior of aggressive TNBC cells.
+
+PTPN12 Suppresses Proliferation and Tumorigenicity of TNBCs by Inhibiting Multiple RTKs
+Together, our observations strongly suggest that restoring PTPN12 function impairs the tumorigenesis and proliferation of PTPN12-deficient TNBCs, suggesting that these cancers are dependent on the TK signaling constrained by PTPN12. Consequently, we sought to identify TKs regulated by PTPN12 in TNBC cells. Based on our observations that PTPN12 physically associates with and inhibits EGFR and HER2 RTKs in HMECs, we tested whether PTPN12 interacts with and regulates HER2 in PTPN12-deficient TNBC cells. BiFC analysis revealed a strong interaction between PTPN12 and HER2 in TNBC cells (Figure 7A, left panel). In addition, restoring PTPN12 expression in these cells decreased HER2 activity, as measured by HER2 tyrosine phosphorylation (Figure 7B). However, inhibition of HER family RTKs (HER2 and EGFR) with a pharmacologic inhibitor did not significantly affect the proliferation of these TNBC cells (Figure 7C), indicating that inhibition of HER2 and EGFR activity does not phenocopy PTPN12 restoration. Consequently, we hypothesized that PTPN12 regulates other TKs that, alone or in combination with HER2, are required for proliferation of TNBC cells.
+
+Full-size image (67 K)
+Figure 7. 
+PTPN12 Inhibits Proliferation and Survival of TNBCs by Inhibiting Multiple RTKs
+(A) HER2 and PDGFR-β RTKs interact with PTPN12 in TNBC cells. HCC1937 cells expressing PTPN12-N-YFP and individual RTK-C-YFP cDNAs (as indicated) were analyzed for cellular fluorescence using flow cytometry.
+(B) Ectopic PTPN12 expression inhibits HER2 and PDGFR-β RTK signaling in TNBC cells. HCC1937 cells engineered with control or PTPN12-cDNA were assessed for PTPN12 expression and levels of phosphorylated HER2 and PDGFR-β by western.
+(C) Combined HER family and PDGFR inhibitors suppress proliferation of PTPN12-deficient TNBC cells. HCC1937 cells were cultured ± HER2/EGFR inhibitor lapatinib (1 μM) ± PDGFR inhibitor sunitinib (5 μM) for 8 days. Cell numbers were determined by DAPI cell counting.
+(D and E) Combined HER family and PDGFR inhibitors suppress tumorigenicity of PTPN12-deficient TNBC cells. MDA-MB231-LM2 cells were transplanted in the mouse mammary gland and monitored for primary tumor growth in the presence or absence of HER2/EGFR inhibitor (lapatinib) and PDGFR inhibitor (sunitinib) as indicated (n = 10 for each group). Tumor volumes on day 26 postinjection are shown in (D). Tumor growth curves are shown in (E).
+(F) Combined HER family and PDGFR inhibitors extend event-free survival of animals harboring PTPN12-deficient TNBC tumors. Animals transplanted with MDA-MB231-LM2 cells (as above) were treated with the indicated inhibitor and monitored for tumor volume. Events are denoted as animals with tumors greater than 1000 mm3.
+Error bars represent standard error.
+Figure options
+To identify which additional TKs are regulated by PTPN12 in TNBC cells, we tested several candidate TKs from our proteomic analysis and previous reports (Cong et al., 2000 and Markova et al., 2003) for interaction with PTPN12 in TNBC cells via BiFC. Notably, we observed a strong interaction between PTPN12 and PDGFR-β (Figure 7A, right panel), and ectopic PTPN12 expression reduced tyrosine phosphorylation of endogenous PDGFR-β (Figure 7B), suggesting that PTPN12 regulates this RTK in TNBCs. Notably, whereas inhibition of PDGFR-β alone had only a modest effect on TNBC proliferation, combined inhibition of HER2 family and PDGFR-β RTKs significantly impaired TNBC proliferation (Figure 7C).
+
+To determine whether PTPN12-deficient TNBCs are combinatorially dependent on the HER family and additional RTKs, such as PDGFR-β in vivo, we tested the effects of the pharmacologic inhibitors lapatinib and sunitinib alone or in combination on the tumorigenicity of aggressive PTPN12-deficient TNBCs. Lapatinib is a dual inhibitor of HER2 and EGFR, and sunitinib is an inhibitor of PDGFR-β and other TKs. MDA-MB231-LM2 cells were transplanted orthotopically, and mice were treated for 40 days with the indicated agents. Both agents were well tolerated by all animals at the administered doses (alone and in combination). Treatment with sunitinib alone resulted in a decrease in tumor growth rate (Figures 7D and 7E). Strikingly, whereas lapatinib alone did not affect tumor growth, lapatinib treatment significantly increased the efficacy of sunitinib in reducing tumor growth rate and burden (p = 0.003; Figures 7D and 7E). In addition, combination therapy resulted in a significant extension in event-free animal survival (p = 0.002; Figure 7F). These data suggest that PTPN12-deficient TNBC tumors may be combinatorially dependent on HER2 family and other RTKs. Although our interaction and signaling studies suggest that PDGFR-β is one of these additional RTKs, and this is supported by the efficacy of sunitinib, given the broad specificity of sunitinib, it is possible that RTKs in addition to PDGFR-β may be involved. Thus, additional genetic and pharmacologic studies are necessary to determine the precise identities of the relevant RTKs driving tumorigenesis in tumors lacking PTPN12. Collectively, these studies identify PTPN12 as a significant tumor suppressor and illustrate a dependency on PTPN12-regulated TK signaling in TNBC, suggesting that these tumors may be successfully treated with the appropriate combination of TK inhibitors.
+
+Discussion
+The Tyrosine Phosphatase PTPN12 Is a Tumor Suppressor in Human Breast Cancer
+In this study, we demonstrate that the tyrosine phosphatase PTPN12 is a potent tumor suppressor in human breast cancer. Loss of PTPN12 phosphatase activity leads to aberrant acinar morphogenesis and cellular transformation in mammary epithelial cells. PTPN12 is frequently compromised in breast cancer by deletion, inactivating sequence variants, or loss of expression. Importantly, in breast cancer cells exhibiting PTPN12 deficiency, restoring PTPN12 expression to levels observed in normal mammary epithelial cells suppresses proliferation, tumorigenesis, and metastasis. Together, these observations strongly support the conclusion that PTPN12 is a suppressor of human breast cancer.
+
+A Network Governing Cellular Transformation and Tumor Suppression
+Our study shows that PTPN12 functions in concert with a collection of other oncogenes and tumor suppressors in a serial inhibitory network culminating in the regulation of proto-oncogenic RTKs. We previously discovered that the oncogenic F box protein β-TRCP acts to negatively regulate the REST tumor suppressor (Westbrook et al., 2008). Here, we find that REST positively regulates PTPN12 levels, in part, by negatively regulating miR-124 that represses PTPN12 protein levels. Ectopic miR-124 expression can also transform HMECs, and miR-124 is focally and frequently amplified in epithelial cancers of the breast and lung, and is likely to act as an oncogene in these contexts. Thus, we have discovered an extensive network of serial negative regulation with alternating oncogenes and tumor suppressors consisting of β-TRCP, REST, miR-124, and PTPN12, which inhibits proto-oncogenic RTKs such as EGFR-HER2 to control cell proliferation, survival, and tumorigenesis.
+
+The Role of PTPN12 and HER Family Receptors in “HER2-Negative” Breast Cancer
+Approximately 20% of all breast cancers exhibit amplification and overexpression of HER2, and many of these malignancies are sensitive to HER2 inhibitors (Di Cosimo and Baselga, 2010). However, there is significant controversy as to whether HER2 and other HER family RTKs play a role in breast cancers that do not exhibit amplification/overexpression of the HER2 locus (termed “HER2-negative”). Our data support a model in which PTPN12 inactivation leads to HER2/EGFR hyperactivity and cellular transformation in HER2-negative breast cancers. This is supported by several observations. First, PTPN12 interacts with the HER2 and EGFR receptors in HMECs, and loss of PTPN12 function leads to hyperactivation of HER-receptor signaling in these cells. Conversely, transgenic expression of PTPN12 suppresses HER2 signaling in HMECs and PTPN12-deficient breast cancer cells. Second, PTPN12 inactivation leads to mammary epithelial cell transformation that is at least partially dependent on HER2 and EGFR. Third, HER2 activity is diminished in PTPN12-deficient breast cancers when PTPN12 expression is restored. Fourth, inhibitors of HER2 and EGFR, when combined with other TK inhibitors, reduce proliferation and tumorigenicity of HER2-negative breast cancers lacking PTPN12. Finally, we observe frequent inactivation of PTPN12 specifically in HER2-negative breast cancers (96% of PTPN12-deficient breast cancers were HER2 negative). This mutually exclusive relationship is consistent with PTPN12 and HER2 functioning in a common genetic pathway. Moreover, the frequent inactivation of PTPN12 in HER2-negative cancers suggests that a significant subset of HER2-negative tumors may harbor aberrant HER2/EGFR signaling. Notably, whereas inhibitors targeting HER2 or EGFR individually have not been effective in HER2-negative breast cancers, dual EGFR/HER2 inhibitors have not been rigorously tested in HER2-negative cancers such as TNBC. Further studies will be necessary to determine whether dual EGFR/HER2 inhibitors in combination with other TK inhibitors are effective in HER2-negative cancers and whether PTPN12 represents a biomarker for sensitivity to such agents.
+
+A New Rationale for Combinatorially Targeting TK Signaling in TNBC and Other Cancers
+TKs have been shown to be critical pathogenetic drivers in some cancers, and the identification of oncogenic mutations and amplifications in TKs have provided important biomarkers for selecting cancers that are dependent on TK signaling and amenable to targeted therapies (Druker, 2004 and Slamon et al., 1989). In contrast, TNBC is a particularly aggressive subtype of breast cancer for which no single, dominantly acting TK has been shown to drive the disease. Our discovery that PTPN12 is a tumor suppressor frequently inactivated in TNBC that acts as a negative regulator of HER2/EGFR and other TKs, such as PDGFR-β and ABL (Markova et al., 2003), raises the possibility that inhibitors of these proto-oncogenic TKs may be therapeutic in TNBC when used in the appropriate combination. In support of this prediction, our data indicate that lapatinib combined with another TK inhibitor (sunitinib) significantly reduces the proliferation and tumorigenicity of TNBCs. Given the prevalence of PTPN12 inactivation in TNBC and the addiction of these cancers to PTPN12 dysfunction, it will be important to define the full spectrum of TKs that PTPN12 regulates in TNBC and other cancers in order to rationally combine agents targeting these kinases.
+
+In summary, these studies establish an important role for tyrosine phosphatases in antagonizing tumorigenesis. Our observations raise the important prediction that many malignancies considered to be non-TK driven because of the absence of a dominant TK mutation may indeed be dependent on TK signaling. It is likely that in different cell types, different PTPs may play roles similar to PTPN12 in suppressing tumorigenesis, possibly by antagonizing different combinations of TKs. These studies provide a rationale for identifying and employing TK inhibitors to treat cancers not previously thought to be driven by TKs due to an absence of biomarkers for TK dependency. As noted above for TNBC, it is likely that these tumors would not be fully dependent on a single TK but, rather, a combination of TKs within the cell. Thus, a combinatorial inhibitor approach would be required to treat these cancers, most of which are likely to be untreatable today. Our studies warrant a closer examination of the status of tyrosine phosphorylation in what has been previously considered non-TK driven disease and the identification of TKs whose basal activity might combinatorially contribute to cancers harboring defects in PTPs.
+
+Experimental Procedures
+Vectors
+The shRNA library targeting human kinases and phosphatases (six shRNAs/gene) was synthesized using published methods (Cleary et al., 2004) and cloned into a MSCV-based retroviral vector. Individual GIPZ lentiviral shRNAs were from the Hannon-Elledge shRNA collection (Open Biosystems). shRNAs targeting the 3′UTR region of PTPN12 were designed using the BiopredSI and RNAi Codex algorithms. For inducible RNAi or overexpression experiments, shRNAs or cDNAs were subcloned into a dox-inducible lentiviral expression system (Meerbrey et al., 2011).
+
+Cell Culture
+HMECs expressing hTERT and SV40 LT (TLM-HMECs) (Westbrook et al., 2005) were cultured in mammary epithelial growth medium (MEGM, Lonza). Lung metastatic MDA-MB231-LM2 cells (Minn et al., 2005) were cultured in DMEM (GIBCO) supplemented with 10% fetal bovine serum, 100 U/ml penicillin, and 100 μg/ml streptomycin. HCC1954, HCC38, and HCC1937 cells were cultured in RPMI-1640 (ATCC) supplemented with 10% fetal bovine serum, 100 U/ml penicillin, and 100 μg/ml streptomycin. MCF10A cells (from J. Brugge, Harvard Medical School) were grown as previously described (Petersen et al., 1992). All cell lines were incubated at 37°C and 5% CO2. Stable cell lines expressing indicated shRNAs or cDNAs were generated by retroviral/lentiviral infection in the presence of 8 μg/ml polybrene, followed by selection with appropriate antibiotic-resistance markers.
+
+Tumorigenicity and Experimental Metastasis Assays
+Orthotopic tumorigenicity assays were performed as previously described (Minn et al., 2005). In drug treatment experiments, animals were gavaged with lapatinib (100 mg/kg) and/or sunitinib (40 mg/kg) once daily and monitored for tumor growth. For event-free survival analysis, events were denoted as animals with tumors greater than 1000 mm3. Comparison between groups was performed using Wilcoxon analysis. For experimental metastasis assays, NOD/SCID female mice (NCI) aged-matched between 5 and 7 weeks were treated with PBS or dox at 2 mg/kg by intraperitoneal (IP) injection. The 2 × 105 cells were resuspended in 0.1 ml PBS and injected into the lateral tail vein. Lung metastatic progression was monitored and quantified using noninvasive bioluminescence as previously described (Minn et al., 2005). Linear model analyses (F test) were performed to test the effect of PTPN12 induction on tumorigenicity (tumor growth) or metastatic expansion (luminescence) in both assays.
+
+open menu
+Acknowledgments
+We thank J. Luo, J. Rosen, and A. Lee for suggestions and critical reading of the manuscript. We are grateful to A. Lee, J. LaBaer, O. Lee, Z. Songyang, and J. Qin for providing reagents, and A. Elia for help with phosphopeptide analysis. This work was supported by a Susan G. Komen for the Cure Career Catalyst Award (KG090355) to T.F.W., S.P.O.R.E developmental grant (P50 CA058183) to T.F.W., S.P.O.R.E. grant (P50 CA058183) to R.S. and C.K.O., grant HG3456 to S.P.G., and a U.S. Army Innovator Award (W81XWH0410197) to S.J.E. Research in the laboratory of M.B.-A. is supported by the Novartis Research Foundation, the European Research Council (ERC starting grant), the Swiss Cancer League, and the Krebsliga Beider Basel. S.J.E. is an Investigator with the Howard Hughes Medical Institute. T.F.W. is a scholar of The V Foundation and Mary Kay Ash Foundation for Cancer Research.
+
+Supplemental Information
+ 
+Table S1. Analysis of Phosphopeptides Regulated upon Depletion of PTPN12 as Determined by Phosphotyrosine Antibody Immunoprecipitation and Quantitative Mass Spectrometry, Related to Figure 2.  
+
+Phosphotyrosine-containing peptides whose levels changed by approximately 1.5-fold are shown. Only peptides containing a single tyrosine-phosphorylation site are shown because multiple phosphorylation sites preclude interpretation of which phosphorylation event is responsible for the difference in levels with and without PTPN12 depletion. The entire list of phosphopeptides identified is available upon request.
+
+Help with XLS filesOptions
+ 
+Document S1. Article Plus Supplemental Information.  
+Help with PDF filesOptions
+References
+Angers-Loustau et al., 1999
+A. Angers-Loustau, J.F. Cote, A. Charest, D. Dowbenko, S. Spencer, L.A. Lasky, M.L. Tremblay
+Protein tyrosine phosphatase-PEST regulates focal adhesion disassembly, migration, and cytokinesis in fibroblasts
+J. Cell Biol., 144 (1999), pp. 1019–1031
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (207)
+Bakalarski et al., 2008
+C.E. Bakalarski, J.E. Elias, J. Villen, W. Haas, S.A. Gerber, P.A. Everley, S.P. Gygi
+The impact of peptide abundance and dynamic range on stable-isotope-based quantitative proteomic analyses
+J. Proteome Res., 7 (2008), pp. 4756–4765
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (40)
+Batzer et al., 1995
+A.G. Batzer, P. Blaikie, K. Nelson, J. Schlessinger, B. Margolis
+The phosphotyrosine interaction domain of Shc binds an LXNPXY motif on the epidermal growth factor receptor
+Mol. Cell. Biol., 15 (1995), pp. 4403–4409
+
+View Record in Scopus | Cited By in Scopus (105)
+Beroukhim et al., 2010
+R. Beroukhim, C.H. Mermel, D. Porter, G. Wei, S. Raychaudhuri, J. Donovan, J. Barretina, J.S. Boehm, J. Dobson, M. Urashima et al.
+The landscape of somatic copy-number alteration across human cancers
+Nature, 463 (2010), pp. 899–905
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (693)
+Bissell et al., 2002
+M.J. Bissell, D.C. Radisky, A. Rizki, V.M. Weaver, O.W. Petersen
+The organizing principle: microenvironmental influences in the normal and malignant breast
+Differentiation, 70 (2002), pp. 537–546
+
+Article |  PDF (1907 K) | View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (257)
+Brandt et al., 2000
+R. Brandt, R. Eisenbrandt, F. Leenders, W. Zschiesche, B. Binas, C. Juergensen, F. Theuring
+Mammary gland specific hEGF receptor transgene expression induces neoplasia and inhibits differentiation
+Oncogene, 19 (2000), pp. 2129–2137
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (52)
+Cleary et al., 2004
+M.A. Cleary, K. Kilian, Y. Wang, J. Bradshaw, G. Cavet, W. Ge, A. Kulkarni, P.J. Paddison, K. Chang, N. Sheth et al.
+Production of complex nucleic acid libraries using highly parallel in situ oligonucleotide synthesis
+Nat. Methods, 1 (2004), pp. 241–248
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (42)
+Conaco et al., 2006
+C. Conaco, S. Otto, J.J. Han, G. Mandel
+Reciprocal actions of REST and a microRNA promote neuronal identity
+Proc. Natl. Acad. Sci. USA, 103 (2006), pp. 2422–2427
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (335)
+Cong et al., 2000
+F. Cong, S. Spencer, J.F. Cote, Y. Wu, M.L. Tremblay, L.A. Lasky, S.P. Goff
+Cytoskeletal protein PSTPIP1 directs the PEST-type protein tyrosine phosphatase to the c-Abl kinase to mediate Abl dephosphorylation
+Mol. Cell, 6 (2000), pp. 1413–1423
+
+Article |  PDF (487 K) | View Record in Scopus | Cited By in Scopus (74)
+Debnath et al., 2003
+J. Debnath, S.K. Muthuswamy, J.S. Brugge
+Morphogenesis and oncogenesis of MCF-10A mammary epithelial acini grown in three-dimensional basement membrane cultures
+Methods, 30 (2003), pp. 256–268
+
+Article |  PDF (487 K) | View Record in Scopus | Cited By in Scopus (741)
+Debnath et al., 2002
+J. Debnath, K.R. Mills, N.L. Collins, M.J. Reginato, S.K. Muthuswamy, J.S. Brugge
+The role of apoptosis in creating and maintaining luminal space within normal and oncogene-expressing mammary acini
+Cell, 111 (2002), pp. 29–40
+
+Article |  PDF (1367 K) | View Record in Scopus | Cited By in Scopus (401)
+Dephoure et al., 2008
+N. Dephoure, C. Zhou, J. Villen, S.A. Beausoleil, C.E. Bakalarski, S.J. Elledge, S.P. Gygi
+A quantitative atlas of mitotic phosphorylation
+Proc. Natl. Acad. Sci. USA, 105 (2008), pp. 10762–10767
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (629)
+Di Cosimo and Baselga, 2010
+S. Di Cosimo, J. Baselga
+Management of breast cancer with targeted agents: importance of heterogeneity
+Nat Rev Clin Oncol, 7 (2010), pp. 139–147
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (56)
+Druker, 2004
+B.J. Druker
+Imatinib as a paradigm of targeted therapies
+Adv. Cancer Res., 91 (2004), pp. 1–30
+
+Article |  PDF (463 K) | View Record in Scopus | Cited By in Scopus (227)
+Easton et al., 2007
+D.F. Easton, K.A. Pooley, A.M. Dunning, P.D. Pharoah, D. Thompson, D.G. Ballinger, J.P. Struewing, J. Morrison, H. Field, R. Luben et al.
+Genome-wide association study identifies novel breast cancer susceptibility loci
+Nature, 447 (2007), pp. 1087–1093
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1204)
+Garton et al., 1996
+A.J. Garton, A.J. Flint, N.K. Tonks
+Identification of p130(cas) as a substrate for the cytosolic protein tyrosine phosphatase PTP-PEST
+Mol. Cell. Biol., 16 (1996), pp. 6408–6418
+
+View Record in Scopus | Cited By in Scopus (202)
+Garton et al., 1997
+A.J. Garton, M.R. Burnham, A.H. Bouton, N.K. Tonks
+Association of PTP-PEST with the SH3 domain of p130cas; a novel mechanism of protein tyrosine phosphatase substrate recognition
+Oncogene, 15 (1997), pp. 877–885
+
+View Record in Scopus | Cited By in Scopus (123)
+Giepmans et al., 2006
+B.N. Giepmans, S.R. Adams, M.H. Ellisman, R.Y. Tsien
+The fluorescent toolbox for assessing protein location and function
+Science, 312 (2006), pp. 217–224
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1223)
+Hemminki et al., 1998
+A. Hemminki, D. Markie, I. Tomlinson, E. Avizienyte, S. Roth, A. Loukola, G. Bignell, W. Warren, M. Aminoff, P. Hoglund et al.
+A serine/threonine kinase gene defective in Peutz-Jeghers syndrome
+Nature, 391 (1998), pp. 184–187
+
+View Record in Scopus | Cited By in Scopus (883)
+Hsu et al., 2003
+J.L. Hsu, S.Y. Huang, N.H. Chow, S.H. Chen
+Stable-isotope dimethyl labeling for quantitative proteomics
+Anal. Chem., 75 (2003), pp. 6843–6852
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (251)
+Hunter, 2009
+T. Hunter
+Tyrosine phosphorylation: thirty years and counting
+Curr. Opin. Cell Biol., 21 (2009), pp. 140–146
+
+Article |  PDF (396 K) | View Record in Scopus | Cited By in Scopus (156)
+Hurvitz and Finn, 2009
+S.A. Hurvitz, R.S. Finn
+What's positive about ‘triple-negative’ breast cancer?
+Future Oncol., 5 (2009), pp. 1015–1025
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (7)
+Jemal et al., 2008
+A. Jemal, R. Siegel, E. Ward, Y. Hao, J. Xu, T. Murray, M.J. Thun
+Cancer statistics, 2008
+CA Cancer J. Clin., 58 (2008), pp. 71–96
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (7156)
+Kerppola, 2006
+T.K. Kerppola
+Visualization of molecular interactions by fluorescence complementation
+Nat. Rev. Mol. Cell Biol., 7 (2006), pp. 449–456
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (223)
+Li et al., 1997
+J. Li, C. Yen, D. Liaw, K. Podsypanina, S. Bose, S.I. Wang, J. Puc, C. Miliaresis, L. Rodgers, R. McCombie et al.
+PTEN, a putative protein tyrosine phosphatase gene mutated in human brain, breast, and prostate cancer
+Science, 275 (1997), pp. 1943–1947
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2940)
+Lim et al., 2005
+L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel, P.S. Linsley, J.M. Johnson
+Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs
+Nature, 433 (2005), pp. 769–773
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2219)
+Markova et al., 2003
+B. Markova, P. Herrlich, L. Ronnstrand, F.D. Bohmer
+Identification of protein tyrosine phosphatases associating with the PDGF receptor
+Biochemistry, 42 (2003), pp. 2691–2699
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (33)
+Matsuoka et al., 2007
+S. Matsuoka, B.A. Ballif, A. Smogorzewska, E.R. McDonald 3rd, K.E. Hurov, J. Luo, C.E. Bakalarski, Z. Zhao, N. Solimini, Y. Lerenthal et al.
+ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage
+Science, 316 (2007), pp. 1160–1166
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1090)
+Meerbrey et al., 2011
+K.L. Meerbrey, G. Hu, J.D. Kessler, K. Roarty, M.Z. Li, J.E. Fang, J.I. Herschkowitz, A.E. Burrows, A. Ciccia, T. Sun et al.
+The pINDUCER lentiviral toolkit for inducible RNA interference in vitro and in vivo
+Proc. Natl. Acad. Sci. USA (2011) http://dx.doi.org/10.1073/pnas.1019736108 Published online February 9, 2011
+
+Minn et al., 2005
+A.J. Minn, G.P. Gupta, P.M. Siegel, P.D. Bos, W. Shu, D.D. Giri, A. Viale, A.B. Olshen, W.L. Gerald, J. Massague
+Genes that mediate breast cancer metastasis to lung
+Nature, 436 (2005), pp. 518–524
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1034)
+Muller et al., 1988
+W.J. Muller, E. Sinn, P.K. Pattengale, R. Wallace, P. Leder
+Single-step induction of mammary adenocarcinoma in transgenic mice bearing the activated c-neu oncogene
+Cell, 54 (1988), pp. 105–115
+
+Article |  PDF (7085 K) | View Record in Scopus | Cited By in Scopus (561)
+Osborne, 1998
+C.K. Osborne
+Tamoxifen in the treatment of breast cancer
+N. Engl. J. Med., 339 (1998), pp. 1609–1618
+
+View Record in Scopus | Cited By in Scopus (693)
+Pao et al., 2007
+L.I. Pao, K. Badour, K.A. Siminovitch, B.G. Neel
+Nonreceptor protein-tyrosine phosphatases in immune cell signaling
+Annu. Rev. Immunol., 25 (2007), pp. 473–523
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (68)
+Petersen et al., 1992
+O.W. Petersen, L. Ronnov-Jessen, A.R. Howlett, M.J. Bissell
+Interaction with basement membrane serves to rapidly distinguish growth and differentiation pattern of normal and malignant human breast epithelial cells
+Proc. Natl. Acad. Sci. USA, 89 (1992), pp. 9064–9068
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (439)
+Slamon et al., 1989
+D.J. Slamon, W. Godolphin, L.A. Jones, J.A. Holt, S.G. Wong, D.E. Keith, W.J. Levin, S.G. Stuart, J. Udove, A. Ullrich et al.
+Studies of the HER-2/neu proto-oncogene in human breast and ovarian cancer
+Science, 244 (1989), pp. 707–712
+
+View Record in Scopus | Cited By in Scopus (3957)
+Songyang et al., 1995
+Z. Songyang, B. Margolis, M. Chaudhuri, S.E. Shoelson, L.C. Cantley
+The phosphotyrosine interaction domain of SHC recognizes tyrosine-phosphorylated NPXY motif
+J. Biol. Chem., 270 (1995), pp. 14863–14866
+
+View Record in Scopus | Cited By in Scopus (120)
+Tonks, 2006
+N.K. Tonks
+Protein tyrosine phosphatases: from genes, to function, to disease
+Nat. Rev. Mol. Cell Biol., 7 (2006), pp. 833–846
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (578)
+Westbrook et al., 2005
+T.F. Westbrook, E.S. Martin, M.R. Schlabach, Y. Leng, A.C. Liang, B. Feng, J.J. Zhao, T.M. Roberts, G. Mandel, G.J. Hannon et al.
+A genetic screen for candidate tumor suppressors identifies REST
+Cell, 121 (2005), pp. 837–848
+
+Article |  PDF (713 K) | View Record in Scopus | Cited By in Scopus (303)
+Westbrook et al., 2008
+T.F. Westbrook, G. Hu, X.L. Ang, P. Mulligan, N.N. Pavlova, A. Liang, Y. Leng, R. Maehr, Y. Shi, J.W. Harper, S.J. Elledge
+SCFbeta-TRCP controls oncogenic transformation and neural differentiation through REST degradation
+Nature, 452 (2008), pp. 370–374
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (140)
+Yang et al., 1993
+Q. Yang, D. Co, J. Sommercorn, N.K. Tonks
+Cloning and expression of PTP-PEST. A novel, human, nontransmembrane protein tyrosine phosphatase
+J. Biol. Chem., 268 (1993), pp. 6622–6628
+
+View Record in Scopus | Cited By in Scopus (45)
+Yarden and Sliwkowski, 2001
+Y. Yarden, M.X. Sliwkowski
+Untangling the ErbB signalling network
+Nat. Rev. Mol. Cell Biol., 2 (2001), pp. 127–137
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3384)
+Yoo et al., 2009
+A.S. Yoo, B.T. Staahl, L. Chen, G.R. Crabtree
+MicroRNA-mediated switching of chromatin-remodelling complexes in neural development
+Nature, 460 (2009), pp. 642–646
+
+View Record in Scopus | Cited By in Scopus (180)

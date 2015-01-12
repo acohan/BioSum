@@ -1,0 +1,644 @@
+﻿GEFs and GAPs: Critical Elements in the Control of Small G Proteins
+Johannes L. Bos1, Corresponding author contact information, E-mail the corresponding author, Holger Rehmann1, Alfred Wittinghofer2
+ Show more
+DOI: 10.1016/j.cell.2007.05.018
+Under an Elsevier user license
+Referred to by
+Johannes L. Bos, Holger Rehmann, Alfred Wittinghofer
+GEFs and GAPs: Critical Elements in the Control of Small G Proteins
+Cell, Volume 130, Issue 2, 27 July 2007, Page 385
+ PDF (43 K)
+  Open Archive
+Guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs) regulate the activity of small guanine nucleotide-binding (G) proteins to control cellular functions. In general, GEFs turn on signaling by catalyzing the exchange from G-protein-bound GDP to GTP, whereas GAPs terminate signaling by inducing GTP hydrolysis. GEFs and GAPs are multidomain proteins that are regulated by extracellular signals and localized cues that control cellular events in time and space. Recent evidence suggests that these proteins may be potential therapeutic targets for developing drugs to treat various diseases, including cancer.
+
+Main Text
+Small G proteins are typically between 20–25 kDa in size and cycle between an inactive GDP-bound conformation and an active GTP-bound conformation. In their active conformation G proteins interact with effector proteins, which induce downstream signaling events. The GDP-GTP cycle is highly regulated by GEFs that induce the release of the bound GDP to be replaced by the more abundant GTP and by GAPs that usually provide an essential catalytic group for GTP hydrolysis. Most small G proteins are modified at their C terminus by the addition of prenyl groups (such as farnesyl and geranylgeranyl), which act as lipid anchors and contribute to the localization of small G proteins to membranes. For a subset of small G proteins (mainly for Rab and Rho proteins) guanine nucleotide-dissociation inhibitors provide an additional level of control. These proteins remove small G proteins from membranes by sequestration of their lipid tails. In addition, certain Arf G proteins are localized by N-terminal myristoylation and acetylation.
+
+The founding father of the small G-protein family is Ras, a protein mutated in 15% of all human tumors. The human Ras superfamily consists of at least 154 members divided into five principal families: the Ras, Rho, Rab, Arf, and Ran families (Wennerberg et al., 2005). These proteins control a wide variety of cellular processes. For example, Ran G proteins are responsible for nuclear import and export, the regulation of nuclear envelope formation, and the control of spindle formation. Members of the Rab and Arf families play important roles in vesicle-associated processes, ranging from vesicle formation and transport to exocytosis. The Rho family is mainly involved in the regulation of cell shape, the cytoskeleton, and cell migration, whereas Ras family members regulate a variety of signaling pathways, resulting in transcription and cellular differentiation and proliferation.
+
+The large number of G proteins requires a multitude of GEFs and GAPs to ensure signaling specificity. A number of selective GEF families exist. GEFs that regulate members of the Ras family contain CDC25 homology domains (CDC25-HD), which occur in combination with a Ras exchange motif (REM). GEFs that regulate members of the Rho family contain a DH-PH tandem domain or an unrelated domain recently identified in DOCK proteins. GEFs for members of the Arf family contain a Sec7 domain, and the β-propeller protein RCC1 acts as a GEF for Ran. Vps9-, Sec2-, and Mss4-like proteins act as GEFs for members of the Rab family. Each individual GEF has a certain specificity profile for individual members of a G-protein family. In general, crossreactivity among members of different G-protein families does not exist. Similarly, some GAP families contain proteins that are structurally unrelated. Rho-GAPs, Ran-GAPs, and Rab-GAPs act within their specific family of G proteins, whereas the unrelated Ras-GAPs and Rap-GAPs both act on proteins of the Ras family.
+
+GEFs and GAPs have in common that they are usually multidomain proteins (Figure 1). Many of these domains are protein or lipid interaction domains, indicating that they serve as localization signals and/or as scaffolds for the formation of protein complexes. In some GEFs and GAPs, two different GEF or GAP domains are combined in one protein. This most likely has the purpose of providing an efficient means to interconnect the two signaling processes.
+
+Full-size image (164 K)
+Figure 1. 
+GEFs and GAPs Are Multidomain Proteins
+Representative GEFs and GAPs for the Rho, Ras, Rab, Ran, and Arf families are shown and named by their official gene symbol according to Entrez Gene (http://www.ncbi.nlm.nih.gov.hsl-ezproxy.ucdenver.edu/). The catalytic domain, either the GEF or the GAP domain, is highlighted in yellow. RhoGEF domains (DH domains) almost always occur together with a PH domain (light yellow), and RasGEF domains (CDC25 homolog domains) almost always occur with REM domains (light blue). Some proteins contain two GEF or GAP domains for members of different G proteins. In these cases the proteins are shown twice (for each G-protein family), and the second GEF or GAP domain is highlighted in turquoise. Ras and Rap proteins belong both to the Ras family, but RasGAPs and RapGAPs are structurally unrelated. A couple of structurally unrelated RabGEFs exist. To indicate this, the catalytic domains are referred to as MSS4, Sec2, and VSP9, respectively. The domains are labeled according to the nomenclature of the SMART database (http://smart.embl-heidelberg.de). Not included in the list are GEFs and GAPs with less clear catalytic domains such as smgGDS and the Dock family.
+Figure options
+In this review, we will highlight the molecular mechanisms by which small G proteins are regulated by GEFs and GAPs. We will describe the mechanistic basis of the GEF and the GAP reactions and discuss how these activities are controlled in individual cases. Furthermore, we will explore whether GEFs or GAPs may make suitable drug targets.
+
+General Mechanism of GEFs
+The affinity of most small G proteins for GDP/GTP is in the lower nanomolar to picomolar range. The direct consequence of this high affinity is a slow dissociation rate of nucleotides with a half-life on the order of one or more hours. Because exchange of GDP for GTP and, thus, activation of G proteins in biological processes occur within minutes or even less, exchange of GDP for GTP requires the activity of GEFs. Indeed, GEFs accelerate the exchange reaction by several orders of magnitude (Vetter and Wittinghofer, 2001). The GEFs are often the targets of biological signals, which induce, inhibit, or modulate their catalytic activity.
+
+GEFs catalyze the dissociation of the nucleotide from the G protein by modifying the nucleotide-binding site such that the nucleotide affinity is decreased and, thus, the nucleotide is released and subsequently replaced. In general the affinity of the G protein for GTP and GDP is similar, and the GEF does not favor rebinding of GDP or GTP. Thus the resulting increase in GTP-bound over GDP-bound is due to the approximately ten times higher cellular concentration of GTP compared to GDP. As shown first for the interaction between the RanGEF RCC1 and Ran the affinities of the binary complexes between the G protein and either the nucleotide or its GEF are very high. In contrast, the affinities of the exchange factor for the nucleotide-bound G protein and of the nucleotide for the exchange-factor-bound G protein (the ternary complexes) are much lower (Vetter and Wittinghofer, 2001). Thus, the interaction of a GEF weakens the affinity for the nucleotide, and visa versa, the nucleotide weakens the affinity for the GEF. In the course of the exchange reaction the GEF displaces the bound nucleotide, and subsequently a new nucleotide displaces the GEF (Figure 2A).
+
+Full-size image (83 K)
+Figure 2. 
+Mechanism of GEF-Induced Nucleotide Exchange
+(A) The exchange reaction occurs in successive reversible steps. The nucleotide (orange) interacts with the G protein (gray) via its base (B) and its phosphate moieties (P). The GEF (blue) competes with the nucleotide for binding with the G protein and thereby promotes nucleotide exchanges. The competition involves the existence of loose (subscript L) and tight (subscript T) interaction of the G protein with the nucleotide and the GEF.
+(B) GEFs are structurally unrelated and have found individual ways to destabilize the G-protein nucleotide interaction. All G proteins (gray) are shown in the same orientation. The G proteins from the GEF complexes were superimposed on the respective G protein in complex with bound GDP (shown in ball-and-stick representation; orange). In regions where the structures of the nucleotide and the GEF-bound G proteins differ, the nucleotide-bound conformation is depicted in dark gray and the GEF bound structure in red. The GEF is shown in blue. Images are based on Protein Data Bank entries 2fu5 (Rab/Mss4), 2fol (Rab), 1foe (Rac/Tiam), 2g0n (Rac), 1bkd (Ras/Sos), 4q21 (Ras), 1i2m (Ran/RCC1), and 1byu (Ran).
+Figure options
+How does the GEF weaken the affinity of the nucleotide? The G-protein-bound nucleotide is sandwiched between two loops called switch 1 and switch 2. The switch regions together with the phosphate-binding loop (P loop) interact with the phosphates and a coordinating magnesium ion. Both phosphates and the magnesium ion are essential for the high-affinity binding of the nucleotide to the G protein (Vetter and Wittinghofer, 2001). The action of the GEF on the G protein was analyzed in several structural studies. Due to the inherent instability of the ternary complexes most structural studies have been performed with stable binary complexes between GEFs and G proteins (Boriack-Sjodin et al., 1998, Worthylake et al., 2000, Renault et al., 2001, Goldberg, 1998 and Itzen et al., 2006). These have revealed that the catalytic domains of the various families of GEFs are structurally unrelated and approach the G proteins from different angles (Figure 2B). However, they all use similar principles to deform the nucleotide-binding site. GEF binding induces conformational changes in the switch regions and the P loop, while leaving the remainder of the structure largely unperturbed. For instance, the CDC25-HD of SOS makes extensive contacts with switch 2 and uses an α-helical wedge to pry open the binding site (Figure 2B; Boriack-Sjodin et al., 1998). RCC1 uses a β-turn on top of a β-propeller for insertion into the nucleotide-binding site (Renault et al., 2001), whereas MSS4 binds via one of its β strands to switch 1 and thereby forms an intermolecular β sheet (Itzen et al., 2006; Figure 2B). In all these cases the interaction of the GEF sterically occludes the magnesium-binding site either by residues of the GEF or by the repositioning of the alanine side chain from the conserved DTAG motif of switch 2. This perturbs the interaction surface in the phosphate-binding region while leaving the base-binding region mostly unperturbed. As a consequence, the phosphate groups are released first after binding of the GEF, and the base of the entering nucleotide binds first when it starts to displace the GEF (Figure 2A). This model was supported by the structure of two ternary complexes. First, a complex of Arf•GDP and the Sec7 domain of an ArfGEF was stabilized by the fungal toxin Brefeldin A. The structure of this complex shows how a glutamic acid finger of Sec7 approaches the negatively charged phosphates of GDP and thereby destabilizes phosphate binding (Renault et al., 2003). Second the structure of the ternary complex between the catalytic PRONE domain of a plant RopGEFs in complex with Rop4•GDP shows that the magnesium-binding site is occluded by the alanine residue of the DTAG motif and that a glutamate in switch 2 (E62 in H-Ras) points toward the phosphate group (Thomas et al., 2007). Considering that this glutamate is almost totally conserved in small G proteins and forms an ionic interaction in some binary complexes with the GEF, such as in the Ras-SOS (Boriack-Sjodin et al., 1998) and Dbs-Cdc42 complexes (Rossman et al., 2002), it appears that this residue is part of the driving force to reduce the affinity for the nucleotide. Thus, although the various GEFs are not conserved, their common action is to deform the phosphate-binding site, resulting in a reduced affinity of the nucleotide.
+
+General Mechanism of GAPs
+Although G proteins are also called GTPases, the actual GTP hydrolysis reaction is in fact very slow, and efficient hydrolysis requires the interaction with a GAP, which accelerates the cleavage step by several orders of magnitude. Several structural and biophysical studies have unraveled the reaction mechanism. In the crystal structure of Ras in complex with GppNHp, a nonhydrolyzable GTP analog, a water molecule is positioned optimally for an in-line nucleophilic attack to the γ-phosphate opposite to the leaving group (here the GDP; Vetter and Wittinghofer, 2001; Figure 3A). Effective catalysis of phosphoryl transfer by GAPs consists of several elements: the proper orientation of the attacking water molecule and its polarization, occlusion of water from the active site, and the stabilization of the transition state. However, as with GEFs, GAPs for the different Ras-protein families are not conserved, approach the G protein from different angles, and use various ways to enhance the GTPase activity (Figures 3B and 3C).
+
+Full-size image (158 K)
+Figure 3. 
+Mechanism of GAP-Induced GTP Hydrolysis
+(A) Schematic representation GTP hydrolysis assuming an in-line replacement reaction with an associative transition state and inversion of stereochemistry of the γ-phosphate.
+(B) Different GAPs use different ways to stimulate GTP hydrolysis. Residues of the G protein and the GAP that are directly involved in catalysis are shown in blue and red, respectively. The GTP is shown in the transition state of the hydrolysis. All figures are based on the crystal structure of the mentioned G protein in complex with the GAP and a slowly hydrolyzing GTP analog or GDP-aluminum fluoride with the exception of Rap and RapGAP, which is only a model based of the structure of Rap-GAP alone.
+(C) GAPs are structurally unrelated. The G proteins (blue) of the Ras/RasGAP, Rho/RhoGAP, Ran/RanGAP, and Rab/RabGAP complexes were superimposed to each other, and thus all complexes are shown in the same orientation with respect to the G protein. The corresponding GAP is shown in red, and the bound GDP and Aluminiumfluoride are shown in ball-and-stick representation (orange). Images based on Protein Data Bank entries 1wq1 (Ras/RasGAP), 1tx4 (Rho/RhoGAP), 1k5d (Ran/RanGAP), and 2g77 (Rab/RabGAP).
+Figure options
+First insight into GAP-assisted GTP hydrolysis was obtained from the biochemistry and structure of the Ras-RasGAP complex (Scheffzek et al., 1997). RasGAP stabilizes the position of glutamine 61 of Ras, which in turn coordinates the attacking water. In addition, an arginine, called the arginine finger, is positioned into the phosphate-binding site and stabilizes the transition state by neutralizing negative charge at the γ-phosphate. The arginine finger fulfils a function very similar to the arginine found in the helical insertion of α-subunits of large G proteins. This mechanism of catalysis is supported by biochemical and mutational studies. For instance, mutation of glutamine 61, which frequently occurs in human tumors, abolishes GAP-induced hydrolysis. Oncogenic mutations at position 12 and 13 of Ras sterically block the proper orientation of both the arginine finger and the glutamine 61 (Scheffzek et al., 1997). A similar mechanism was found for RhoGAP-assisted hydrolysis (Rittinger et al., 1997) even though RasGAP and RhoGAP are not related in terms of primary structure and are only distantly related in terms of tertiary structure (Figure 3B). The catalytic glutamine of Ras and Rho is also conserved in Rab, and the arginine finger is observed in RabGAP, but the mechanism is somewhat different. In this case the glutamine that orients the water is supplied by the GAP, and the glutamine of Rab is pointing away from the active site and is involved in the binding of GAP (Pan et al., 2006; Figure 3B). RanGAP supplies an asparagine to stabilize the orientation of the glutamine of Ran (Seewald et al., 2002; Figure 3B). In contrast, Rap—a very close homolog of Ras—is lacking the corresponding glutamine. Indeed RapGAP is structurally unrelated to RasGAP and provides an asparagine rather than an arginine residue as a major element of catalysis. It is postulated that this asparagine takes over the function of the glutamine to position the water molecule (Daumke et al., 2004). The catalytic glutamine is also not present in Sar. In this case a histidine from SarGAP positions the water molecule (Bi et al., 2002; Figure 3B). Thus, the main contribution of different GAPs to catalysis is the stabilization of the intrinsically mobile catalytic machinery of the G protein and, in most cases, the insertion of a catalytic residue in trans.
+
+Regulation of GEFs
+Almost all GEFs are multidomain proteins regulated in a highly complex fashion. This regulation includes protein-protein or protein-lipid interactions, binding of second messengers, and posttranslational modifications. These interactions and modifications induce either one or more of three major changes: a translocation to a specific compartment of the cell where the small G protein is located, the release from autoinhibition by a flanking domain or region, which covers the binding side for the small G protein, or the induction of allosteric changes in the catalytic domain.
+
+Regulation by Protein Interactions: The Sos Paradigm
+Sos1 and Sos2 combine GEF activity toward Rac and Ras because they consist of an N-terminal histone-binding domain followed by a DH-PH domain specific for Rac, a REM domain, a CDC25-HD specific for Ras, and a C-terminal proline-rich region. Sos is regulated by recruitment to the plasma membrane where Ras is located. This translocation is mediated by Grb2, a SH3-SH2-SH3-domain-containing adaptor protein that binds with its SH3 domains to the proline-rich region of Sos and with its SH2 domain to tyrosine-phosphorylated receptors or receptor-associated adaptor proteins (Aronheim et al., 1994). This translocation is under negative feedback control by the kinase ERK, which phosphorylates Sos resulting in its dissociation from Grb2 (Waters et al., 1995). Just as Sos is recruited to receptors by the adaptor protein Grb2, C3G, a GEF for the Ras-family member, Rap, is similarly recruited by the adaptor protein Crk (Tanaka et al., 1994).
+
+Differential regulation of Ras versus Rac activity of Sos is mediated by mutually exclusive interactions with adaptor proteins in vivo. Ras-GEF activity requires the interaction of Sos with Grb2 (Aronheim et al., 1994). Rac-GEF activity requires the interaction of Sos with a complex of Abi1/E3B1, Eps8, and PI3K (Innocenti et al., 2003). However, the interactions of Sos with Grb2 and of Sos with Abi1/E3B1 are both mediated by the same region of Sos and are thus mutually exclusive (Innocenti et al., 2002). In addition, p66Shc competes with Sos for the interaction with Grb2 and thus drives Sos into the Abi1/E3B1 complex (Khanday et al., 2006).
+
+Additionally, the Ras-GEF activity of Sos is allosterically regulated by RasGTP, which binds to a second allosteric binding site constituted by parts of the REM and CDC25-HD (Margarit et al., 2003). This binding site is distinct from the catalytic site in the CDC25-HD, which catalyzes nucleotide exchange toward Ras. In vitro, binding of RasGTP to the allosteric site induces a 10-fold increase in the catalytic activity of a Sos protein lacking the DH-PH domain (Margarit et al., 2003), and in vivo signal from ERK is enhanced by this positive feedback (Boykevisch et al., 2006). In the crystal structure of a fragment containing the DH-PH, the REM, and the CDC25-HD, the allosteric site is blocked by the DH domain, and consequently no stimulation of RasGEF activity by RasGTP is observed for full-length Sos in vitro (Sondermann et al., 2004; Figure 4A). How this blockage of the allosteric site by the DH domain is lifted is currently unclear, but it may include the binding of the PH domain to membranes or interaction with other regulatory proteins. In this context, it is interesting to note that the PH domain of Sos blocks the binding site of Rac to the DH domain, and, thus, relatively large structural rearrangements within the DH-PH domain are expected (Soisson et al., 1998 and Sondermann et al., 2004; see below). In addition, deletion of the C-terminal proline-rich region of Sos increases Ras-GEF activity, suggesting that this region plays an inhibitory role in addition to Grb binding (Aronheim et al., 1994). The structural basis for this effect is currently unclear.
+
+Full-size image (71 K)
+Figure 4. 
+Regulation of Exchange Factors by Masking of Binding Sites
+(A) In Sos the access of RasGTP to the allosteric binding side is blocked by the DH domain. The structure of the REM-CDC25-HD fragment of Sos in complex with the allosteric Ras and the substrate Ras was superimposed to the structure of the Sos fragment containing the DH-PH-tandem and the REM-domain and CDC25-HD. The REM domain is shown in dark gray and the CDC25-homology domain in light gray. The Ras molecule bound to the catalytic site, which undergoes nucleotide exchange, is shown in blue, whereas the GTP-bound Ras bound to the allosteric site is shown in yellow. The DH domain, which occupies parts of the space that is required for binding of the allosteric Ras, is shown in red.
+(B) In Epac the access of Rap to the catalytic site is blocked by the cAMP-binding domains. Ras (blue) was placed into the structure of the inactive Epac2 as a model for Rap based on the structure of Sos in complex with Ras. The REM domain and the CDC25-homology domain are shown in dark and light gray, respectively. The cAMP-binding domains, which block the catalytic site, are shown in red.
+(C) In inactive Vav the access of Rac to the catalytic site is blocked by a short sequence directly N-terminal to the DH domain. The core of the DH domain is shown in gray and the N-terminal auto-inhibitory sequence in red. Tyr174, which is orientated inside a hydrophobic grove formed by the DH domain and which undergoes phosphorylation in the activation process of Vav, is shown in ball-and-stick representation. Rac (blue) is modeled into the structure based on the complex of Rac and Tiam.
+Images based on Protein Data Bank 1nvu (Ras), 1xd4 (Sos fragment), 2byv (Epac2), 1bkd (Sos/Ras complex), 1f5x (Vav), and 1foe (Rac/Tiam complex).
+Figure options
+Thus, all three elements of regulation are realized in Sos: translocation to tyrosine-phosphorylated proteins, autoinhibition by both C-terminal and N-terminal domains, and an allosteric, positive feedback regulation by RasGTP. Importantly, most of the gain-of-function germline mutations in the Sos gene found in patients with Noonan syndrome (which causes abnormal development of multiple parts of the body) are located in regulatory regions of the molecule rather than the Cdc25-HD, supporting the regulatory role of these domains (Tartaglia et al., 2007 and Roberts et al., 2007).
+
+Regulation by Protein Interactions: Variations of a Theme
+A prominent example of allosteric GEF activation by protein-protein interaction is p115RhoGEF/LARG, which couples G-protein-coupled receptor (GPCR) signaling to Rho activation. p115RhoGEF contains a RGS (regulator of G-protein signaling) domain, which binds to the Gα12 and Gα13 subunits of heterotrimeric G proteins. This interaction induces RhoGEF activity and at the same time stimulates the GTPase activity of the Gα subunit (reviewed by Fukuhara et al., 2001).
+
+A classical way to regulate GEF translocation is for a GEF that regulates a particular downstream G protein to interact with an upstream GTP-bound G protein. This principle is conserved in evolution. For example, the yeast G protein Bud1 binds to CDC24, a GEF for CDC42 (Kozminski et al., 2003). In human the most notable examples are GEFs for Ral, such as RalGDS or Rlf. These GEFs contain a CDC25-HD, which acts specifically on Ral, and in addition a Ras-association (RA) domain, which interacts with the GTP-bound states of Ras and Rap. Ras induces the translocation of RalGDS to the plasma membrane and thereby increases RalGTP levels (Urano et al., 1996). This increase is most likely due to the translocation, as the same increase is observed when RalGDS is artificially targeted to the plasma membrane.
+
+In a similar way, the RabGEFs Rin1, Rin2, and Rin3 contain an RA domain. Rin1 specifically binds to RasGTP after Ras activation by receptor tyrosine kinases, which typically leads to the activation of ERK via the MAP kinase pathway. The additional activation of Rab5 via Rin enhances endocytosis of the membrane receptor, which is subjected to degradation in lysosomes, and thus a negative feedback loop is established (Tall et al., 2001). Finally, Tiam1, a GEF for the Rho family, contains an RA domain, which specifically binds to RasGTP and thereby links Ras signaling to Rac signaling (Lambert et al., 2002).
+
+Second Messenger Regulation
+A number of GEFs are directly regulated by common second messengers, such as cAMP, Ca2+, and diacylglycerol (DAG). Most notable are two GEFs for Rap proteins, Epac1 and Epac2, that are directly activated by cAMP. Epac1 has a single cyclic nucleotide-binding (CNB) domain, whereas in Epac2 an additional N-terminal CNB domain is found, which is not required for the regulation of Epac 2 in vitro (Bos, 2006). Recently the crystal structure of Epac2 was solved in the inactive conformation (Rehmann et al., 2006). Comparison with the crystal structure of the Sos-Ras-complex (Boriack-Sjodin et al., 1998) revealed that the CNB domains cover the binding site for Rap (Rehmann et al., 2006; Figure 4b). This implies that binding of cAMP induces a conformational change that results in solvent exposure of the Rap-binding site. Indeed, mutational analysis of the interface between the regulatory and catalytic region supports this model (Rehmann et al., 2006). The cellular localization of Epac is controlled by protein-protein interactions despite direct regulation by cAMP. Epac2 for example contains an RA domain, which was shown to interact with H-Ras (Li et al., 2006).
+
+A number of GEFs respond to Ca2+, diacylglycerol (DAG), or both. Most notable are RasGRP1, RasGRP2, RasGRP3, and RasGRP4, which activate either Ras, Rap, or both. Members of the RasGRP family are characterized by an N-terminal REM and Cdc25 homology domain followed by C-terminal C1 domain and a pair of EF-hands (Ebinu et al., 1998). In vivo RasGRPs induce Ras and/or Rap activation in response to increased concentration of Ca2+ and DAG, and RasGRP1 is recruited to DAG-rich membranes (Ebinu et al., 1998). The importance of proper localization for the biological function of RasGRPs is further demonstrated by the finding that RasGRP1 mediates the activation of Ras at the Golgi (Bivona et al., 2003) and that the localization of RasGRP2 at the plasma membrane is F actin dependent (Caloca et al., 2004). Interestingly a splice variant of RasGRP2 is myristoylated and palmitoylated at its N terminus, which allows a DAG-independent membrane localization (Clyde-Smith et al., 2000). It is currently unclear whether RasGRPs are in general allosterically regulated by Ca2+ or DAG.
+
+As indicated, the catalytic region of most RhoGEFs consists of a conserved DH/PH domain tandem (Rossman et al., 2005). The DH domain interacts with the G protein and mediates the GEF activity. The function of the PH domain—commonly considered to be a phosphatidylinositol phosphate-binding protein domain—is surprisingly divergent in the individual GEFs. Indeed structural analysis has shown that the relative orientation of the PH domain toward the DH domain is completely different in various GEFs (Rossman et al., 2005). As a consequence the PH domain has different functions. As indicated, in Sos the PH domain has an autoinhibitory function, whereas in Dbs and PDZ-RhoGEF the PH domain interacts with the G protein and enhances catalytic activity. To what extent phosphatidylinositol phosphate (PIP) binding to the PH domain influences catalytic activity or contributes to membrane anchoring is not entirely clear and might be different for the individual PH domains. For instance, Sos was reported to be regulated only moderately by PIP3 (Han et al., 1998), whereas Intersectin, Dbs, and Tiam1 failed to show any influence of PIP on GEF activity (Snyder et al., 2001). Indeed, residues involved in ligand interaction of lipid-binding PH domains are only poorly conserved in DH-PH domains.
+
+Posttranslational Modification
+Several members of the RhoGEF family are characterized by an autoinhibitory region directly N-terminal to the DH domain. It was identified based on the observation that N-terminal truncated versions of these GEFs have transforming properties (Schmidt and Hall, 2002). Best characterized in this respect is the Vav group, which activates members of the Rho family. These proteins consist of three regions, an N-terminal autoinhibitory region with a calponin homology (CH) domain and an acidic (Ac) region with conserved tyrosines, a central catalytic region with a DH-PH domain and a C-terminal recruitment region with a Zn-finger domain, a proline-rich sequence, and an SH3-SH2-SH3 module (Turner and Billadeau, 2002). As determined by single-particle electron microscopy the inactive conformation of the protein has a closed conformation with the CH-Ac domain close to the DH domain at the binding site for Rac (Llorca et al., 2005). Indeed, NMR studies revealed interactions between a part of the Ac region adjacent to the DH domain that contains a conserved tyrosine (Tyr 174 in Vav1) (Aghazadeh et al., 2000). Tyr174 points inside a hydrophobic pocket in the DH domain, and its phosphorylation disrupts the interaction between the Ac region and the DH domain, thereby liberating the catalytic site (Figure 4C). This phosphorylation is mediated by Lck- and Src-like kinases.
+
+Vav is recruited to tyrosine-phosphorylated adaptor proteins through its SH2 domain. Interestingly, the Zn-finger domain serves as a docking site for Rho proteins (Movilla and Bustelo, 1999). Recently it was found that Vav binds to Rap1 through its DH-PH domain and serves as an effector of Rap1 in cell adhesion (Arthur et al., 2004).
+
+A number of Rho-GEFs have a region adjacent to the DH domain that is similar to the acidic region in Vav. Indeed, as shown for TIM, potent activation of catalytic activity can be achieved by N-terminal truncations “mimicking” a natural phosphorylation event. Interestingly, a peptide derived from the N-terminal motif can be used in trans to inhibit GEF activity suggesting a putative therapeutic approach to inhibit this class of RhoGEFs ( Yohe et al., 2007).
+
+Regulation of GAPs
+GAPs are regulated by either protein-protein or protein-lipid interactions, binding of second messengers, and/or posttranslational modifications. These interactions and modifications induce translocations to the site where the small G protein is located and release from autoinhibition by a flanking domain and, in some cases, allosteric modification of the catalytic activity.
+
+Protein Translocation and Complex Formation
+RasGAP (p120GAP) was the first protein to be identified as a GAP. In addition to the GAP domain RasGAP contains SH2, SH3, PH, and C2 domains, and initial studies suggested that RasGAP, through its SH2 domains, can associate with receptor tyrosine kinases to become phosphorylated. However, to what extent RasGAP is regulated has remained unclear (Bernards and Settleman, 2004).
+
+Neurofibromatosis is an autosomal dominant disease, which is caused by mutations in the neurofibromin gene. Neurofibromin is a protein 320 kDa in size, which contains a central RasGAP domain (contributing only ∼15% of the total size). The remaining sequence lacks any recognized domains, except for a phospholipid-binding Sec14-PH module immediately adjacent to the GAP domain ( D'Angelo et al., 2006). However, missense mutations found in Neurofibromatosis patients are distributed over almost the entire gene, indicating that other functional domains are likely to exist and contribute to function ( Bernards and Settleman, 2004).
+
+Regulation by protein-protein interaction is also observed for an N-terminally extended splice variant of RapGAP, which has gained a GoLoco motif. Through this domain Rap1GAP specifically binds to the activated form of Gi, resulting in the activation of GAP activity (Mochizuki et al., 1999). Whether this is due to translocation toward Rap1 or due to allosteric regulation is currently unknown. Similarly, Rap1GAP also binds to the inactive form of Go, but this results in the inactivation of Rap1GAP (Jordan et al., 1999).
+
+RA-RhoGAP has in addition to the RhoGAP domain an RA domain and a PH domain. The GAP activity is induced by Rap1, which binds to the RA domain. In addition deletion of the RA domain also activates the protein suggesting that it serves as an autoinhibitory sequence that is released by binding to Rap1. Indeed RA-RhoGAP functions as an effector of Rap1 in the control of neurite outgrowth (Yamada et al., 2005).
+
+Similarly, proteins of the ARAP family contain a RhoGAP and an ArfGAP domain in addition to several PH domains and an RA domain. ARAP proteins are regulated at different levels. Whereas in vitro ArfGAP activity is induced by PI(3,4,5)P3 and PI(3,4)P2, phosphoinositols have no influence on RhoGAP activity (Miura et al., 2002). Instead, binding of Rap1 to the RA domain enhances RhoGAP activity (Krugmann et al., 2004).
+
+Second Messenger Regulation
+The Gap1 family of RasGAPs is constituted by Gap1, CAPRI, RASAL, and GAPIP4BP. The central catalytic domain is flanked by two N-terminal C2 domains and a C-terminal PH domain. CAPRI, RASAL, and GAPIP4BP show dual specificity for Ras and Rap (Cullen and Lockyer, 2002 and Kupzig et al., 2006). This is a surprising finding considering the different catalytic mechanisms of RasGAPs and RapGAPs. Yet, for both activities the catalytic arginine finger, typical of RasGAPs, is required. However, the RapGAP activity strongly depends on sequences flanking the RasGAP domain. How the specificity for Rap1 is induced awaits structural information of the complex but is likely to involve interactions between the domains (Kupzig et al., 2006). C2 domains often mediate Ca2+-dependent membrane targeting, and indeed Ca2+ induces the translocation of CAPRI and RASAL to the plasma membrane. However both proteins decode Ca2+ differently: RASAL follows Ca2+ fluctuations linearly by repetitively oscillating between membrane and cytosol, whereas CAPRI remains associated with the membrane after a pulse of Ca2+ (Liu et al., 2005). Different functions are suggested for the PH domains of the GAP1 family. GAP1 is recruited to the plasma membrane by binding of the PH domain to PIP3 after activation of PI3K. Translocation seems to be the sole mechanism of GAP activation because lipid binding did not affect GAP1 activity. In contrast, GAPIP4BP is constitutively membrane bound but requires binding of inositol 1,3,4,5 tetraphosphate, the PLC-mediated cleavage product of PIP3 to its PH domain for GAP activity (Cullen and Lockyer, 2002).
+
+β2-chimaerin, a GAP for Rac, contains an SH2 domain, a C1 domain responsible for DAG binding, and a RhoGAP domain. Binding of DAG results in the translocation of β2-chimaerin to the plasma membrane, and evidence for a direct enhancement of GAP activity by DAG binding was obtained from in vitro analysis (Caloca et al., 2003). In the crystal structure of full length β2-chimaerin the DAG-binding site is partially covered by the N terminus of the protein, and the extreme N terminus, which is flexible in the structure, seems to extend into the binding site for Rac in the GAP domain. Thus binding of DAG is assumed to release this block of the active site (Canagarajah et al., 2004).
+
+Posttranslational Modification
+The small G protein Rheb has a central function in pathways that control cell growth via regulation of the serine-threonine kinase mTor. Rheb is largely regulated through the modulation of the protein complex TSC1/TSC2 (also known as hamartin and tuberin). Although TSC2 carries the GAP domain for Rheb, it apparently requires TSC1 as a stabilizing factor for activity.
+
+The GAP activity of TSC2 is regulated on different levels. First, TSC2 is phosphorylated on a multitude of serine and threonine residues by a variety of kinases resulting in the inactivation of GAP activity. For instance, Akt/Protein kinase B, which mediates insulin signaling to mTOR, phosphorylates TSC2 at Ser939 and Thr1462. Other kinases that phosphorylate and inactivate TSC2 are ERK, PKC, and Rsk, indicating that multiple pathways converge on TSC2 (Avruch et al., 2006). Recently tyrosine phosphorylation of TSC2 by FAK was demonstrated, and, thus, Rheb-mediated cell growth is fine-tuned by the adhesion state of the cell (Gan et al., 2006). Secondly, TSC1/TSC2 is positively regulated by AMP-activated protein kinase (AMPK). This kinase monitors the ATP/AMP ratio as a measure of cellular energy level. At low levels of energy AMPK phosphorylates TSC2 on Thr1227 and Ser1345 thereby enhancing its GAP activity (Inoki et al., 2003). In addition, Gsk3 activates TSC2 by phosphorylation on Ser1337 and Ser1341, which may need AMPK as a priming kinase. Thirdly, the stability of the TSC1/TSC2 complex may be regulated resulting either in the release of TSC2 from the complex or in TSC2 degradation (Aicher et al., 2001).
+
+Are GEFs and GAPs Suitable Drug Targets?
+Since the discovery 20 years ago that Ras is mutated in many human tumors, one of the great challenges in cancer therapeutics has been to find an inhibitor selective for “oncogenic” Ras. Back then, the only feasible approach was to interfere with the membrane localization of Ras by blocking the machinery that provides the lipid anchor for Ras. Thus, many pharmaceutical companies developed programs to discover farnesyl transferase inhibitors and, after the discovery that K-ras was also geranyl-geranylated, to identify geranyl-geranyl transferase inhibitors. However, these inhibitors also affect normal Ras in nontumor cells and, as we now realize, a wide variety of Ras-like small G proteins. Indeed, although some of these inhibitors have clinical benefits, none are specific for “oncogenic” Ras. With the success of kinase inhibitors, such as imatinib, which blocks bcr-abl, the notion of directly targeting the regulatory machinery of small G proteins has faded. This is largely due to the lack of clear binding pockets at the active sites of GEFs and GAPs for binding of a small molecule. However, there is evidence that GEFs and perhaps GAPs can be targeted by small molecules.
+
+Inhibitors of GEFs
+ArfGEFs can be divided in two groups: large ArfGEFs (∼200 kDa), represented by BIG1 and BIG2, and small ArfGEFs (∼45 kDa), represented by ARNO and Cytohesin. In addition to the catalytic Sec7 domain both groups contain a PH domain. The activity of the large ArfGEFs was found to be inhibited by the natural compound Brefeldin A, resulting in the collapse of the Golgi structure. Brefeldin A stabilizes the ternary ARF-GDP-GEF complex and thus traps the GEF in an unproductive complex with its substrate. Structural analysis revealed that Brefeldin A binds at the binding interface between the Sec7 domain and Arf1 and thereby stabilizes the interaction (Renault et al., 2003).
+
+An elegant approach to identify inhibitors for GEFs was recently reported for the small ArfGEFs. M69 was identified in a library of RNA aptomers due to its ability to inhibit Cytohesin-1 activity in vitro (Mayer et al., 2001). Subsequently, a chemical library was screened for molecules that could compete with M69 for binding to Cytohesin-1 resulting in identification of SecinH3. SecinH3 inhibited the ARNO and Cytohesin-1 with an IC50 in the low micromolar range in vitro. Interestingly, using this inhibitor it was found that cytohesins play a role in insulin signaling, demonstrating its applicability for in vivo systems (Hafner et al., 2006).
+
+Some truncated RhoGEFs, lacking their autoinhibitory regions, have a transforming potential. Although such truncations were not found in tumors, the dominant mutation A441G in the PH domain of Tiam was found in 3 out of 30 primary renal cell cancers and in 1 out of 5 cell lines and was shown to increase the transforming capabilities of Tiam1 in NIH-3T3 cells (Engers et al., 2000). RhoGEFs are thus putative anticancer targets. The compound NSC23766 was identified by a virtual screen based on the structure of the Tiam-Rac complex as an inhibitor of the interaction between Rac and Tiam and Rac and Trio. Indeed, NSC23766 inhibits specifically Rac-induced events, like the formation of lamellipodia, cell proliferation, and anchorage-independent growth in vivo (Gao et al., 2004). Tiam1 knockout mice have no obvious phenotype, except that the induction of tumors by carcinogens is reduced (presumably due to increased apoptosis) and tumors grow slower than similar tumors in wild-type mice (Malliri et al., 2002). This may imply that inhibition of Tiam1 might be well tolerated by healthy tissues. Also, chemical inhibitors of the Rho-GEF domain of Trio (Trio-GEFD1) have been identified using a yeast-selection system (Blangy et al., 2006). However the relevance of these inhibitors as drugs is currently unclear.
+
+These examples demonstrate that the inhibition of GEFs is in principle possible and that several different approaches can be used, i.e., the inhibition of the interaction between the GEF and its G protein and the stabilization of the interaction between the GEF and its G protein. In particular the second approach of “interfacial inhibition” (Renault et al., 2003) is interesting because the compound does not have to compete with the natural substrate, and, thus, relatively low affinities may be sufficient for efficient inhibition. In addition, such inhibitors may be highly selective because they bind to a specific interaction site between two proteins. Other examples of “interfacial inhibitors,” which are already in clinical use, are the natural products rapamycin and cyclosporine A. Rapamycin targets the kinase mTOR by stabilizing a complex between mTOR and FKBP12, and cyclosporine A targets the phosphatase calcineurin by forming a complex with cyclophilin.
+
+Activators of GEFs
+For certain GEFs, such as the Epac proteins, activation rather that inhibition may have therapeutic benefits. These Rap-GEFs are activated by direct binding of cAMP and, among others, are involved in the formation of cell-cell junctions (Bos, 2006). Junctions are critically important for the integrity of epithelial and endothelial monolayers, and leakage results in severe damage, as occurs in septic shock, respiratory distress syndrome, and edema. A selective agonist of Epac, 8-pCPT-2′OMe-cAMP, has been developed (Enserink et al., 2002) that counteracts a decrease in endothelial permeability caused by leakage-inducing agents such as thrombin and VEGF. 8-pCPT-2′OMe-cAMP was shown to inhibit vessel leakage in the skin of a mouse after a challenge with VEGF (Fukuhara et al., 2005). In pancreatic β cells Epac2 mediates the modulation of glucose-induced insulin secretion by glucagon-like peptide (Ozaki et al., 2000). Treatment of these cells with 8-pCPT-2′OMe-cAMP results in insulin secretion, indicating that a selective agonist for Epac2 may be an alternative of glucagon-like peptide receptor agonists (Bos, 2006).
+
+Other Potential Therapeutic Targets
+One of the holy grails in cancer research is to find selective inhibitors of mutant Ras. One of the hallmarks of oncogenic Ras is the presence of mutations that abolish RasGAP-induced GTP hydrolysis. However, similar mutations in Rap1 do not prevent RapGAPs from hydrolyzing GTP-bound to Rap1 because the catalytic mechanism of RasGAP differs from the catalytic mechanism of RapGAP. Perhaps it is possible to redirect RasGAP to induce GTP hydrolysis on oncogenic Ras or even to redirect RapGAP to bind to and hydrolyze GTP bound to mutant Ras. Alternatively, small molecules may be developed that induce GTP hydrolysis on oncogenic Ras. Such molecules may not need to be as effective as real GAPs, as transformation experiments with different mutants of the Gly12 position of Ras (one of the few residues that is typically found mutated in cancer) have shown that a relatively low residual GTPase activity is sufficient to prevent transformation (Eccleston et al., 1993).
+
+Inhibition of the Sos-Ras interaction may be an approach to combat tumors with constitutively active receptor tyrosine kinases, such as the EGF receptor and HER2 receptor in breast tumors. One option is to screen for inhibitors that interfere directly in the Sos-Ras interaction, as shown for the Tiam1-Rac interaction. An alternative is to identify compounds that stabilize the autoinhibitory conformation. Another potential drug target is Vav1, which was recently found to be upregulated in most pancreatic tumor cell lines and in about 50% of the pancreatic ductal adenocarcinomas due to promotor demethylation (Fernandez-Zapico et al., 2005). Vav1 overexpression is associated with poorer survival. Furthermore, inhibition of Vav1 by siRNA abrogates neoplastic proliferation of pancreatic cells and induces apoptosis even in the presence of oncogenic Ras. Although the related Vav2 was also expressed in pancreatic cells, inhibition of Vav2 with siRNA did not affect neoplastic proliferation and survival, stressing the specificity of the Vav1 protein in this process (Fernandez-Zapico et al., 2005). Structural analysis of the Vav3 protein revealed that in the unbound conformation the N-terminal CH domain opposes the Rac-binding site. It may be that a compound that stabilizes the CH domain to the PH-DH domain is sufficient to inhibit Vav proteins specifically. Importantly, Vav1 knockout mice are viable, with only impaired immune function, and even mice deficient for all three Vav isotypes are viable (Fujikawa et al., 2003).
+
+Another interesting target is RalGDS. RalGDS is a downstream effector of Ras involved in Ras-mediated oncogenic transformation (Coleman et al., 2004). Knockout mice have limited defects but show greatly reduced tumorigenicity in a skin-tumor model (Gonzalez-Garcia et al., 2005). Similarly, PLCɛ knockout mice are also viable and show reduced induction of tumors following carcinogen treatment and Ras activation (Bai et al., 2004).
+
+Also, the Rap-specific RasGRP2 may be a potential drug target, as knockout mice show that platelets are severely compromised in integrin-dependent aggregation (Crittenden et al., 2004). This suggests that a drug that inhibits RasGRP2 may be beneficial in the treatment of hyperactive platelet aggregation. For this GEF, compounds that interfere in the binding with diacylglycerol or Ca2+ might be used to prevent membrane targeting.
+
+Future studies should be devoted to further validate GEFs and GAPs as therapeutic targets. In addition the molecular mechanism of activation should be elucidated, including the crystal structures of active and inactive conformations so as to design mechanisms of interference. Potential compounds might then be identified by virtual or high-throughput screening using proper assay systems. Given the versatile roles of GEFs and GAPs in signal transduction and disease much might be gained in following this approach.
+
+Acknowledgments
+We thank F. Zwartkruis for critical reading of the manuscript and discussions. H.R. is supported by the Chemical Sciences of the Netherlands Organization for Scientific Research (NWO-CW).
+
+References
+Aghazadeh et al., 2000
+B. Aghazadeh, W.E. Lowry, X.Y. Huang, M.K. Rosen
+Structural basis for relief of autoinhibition of the Dbl homology domain of proto-oncogene Vav by tyrosine phosphorylation
+Cell, 102 (2000), pp. 625–633
+
+Article |  PDF (433 K) | View Record in Scopus | Citing articles (257)
+Aicher et al., 2001
+L.D. Aicher, J.S. Campbell, R.S. Yeung
+Tuberin phosphorylation regulates its interaction with hamartin. Two proteins involved in tuberous sclerosis
+J. Biol. Chem., 276 (2001), pp. 21017–21021
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (66)
+Aronheim et al., 1994
+A. Aronheim, D. Engelberg, N. Li, N. al-Alawi, J. Schlessinger, M. Karin
+Membrane targeting of the nucleotide exchange factor Sos is sufficient for activating the Ras signaling pathway
+Cell, 78 (1994), pp. 949–961
+
+Article |  PDF (3206 K) | View Record in Scopus | Citing articles (349)
+Arthur et al., 2004
+W.T. Arthur, L.A. Quilliam, J.A. Cooper
+Rap1 promotes cell spreading by localizing Rac guanine nucleotide exchange factors
+J. Cell Biol., 167 (2004), pp. 111–122
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (157)
+Avruch et al., 2006
+J. Avruch, K. Hara, Y. Lin, M. Liu, X. Long, S. Ortiz-Vega, K. Yonezawa
+Insulin and amino-acid regulation of mTOR signaling and kinase activity through the Rheb GTPase
+Oncogene, 25 (2006), pp. 6361–6372
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (179)
+Bai et al., 2004
+Y. Bai, H. Edamatsu, S. Maeda, H. Saito, N. Suzuki, T. Satoh, T. Kataoka
+Crucial role of phospholipase Cepsilon in chemical carcinogen-induced skin tumor development
+Cancer Res., 64 (2004), pp. 8808–8810
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (106)
+Bernards and Settleman, 2004
+A. Bernards, J. Settleman
+GAP control: regulating the regulators of small GTPases
+Trends Cell Biol., 14 (2004), pp. 377–385
+
+Article |  PDF (463 K) | View Record in Scopus | Citing articles (170)
+Bi et al., 2002
+X. Bi, R.A. Corpina, J. Goldberg
+Structure of the Sec23/24-Sar1 pre-budding complex of the COPII vesicle coat
+Nature, 419 (2002), pp. 271–277
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (222)
+Bivona et al., 2003
+T.G. Bivona, D.C.I. Perez, I.M. Ahearn, T.M. Grana, V.K. Chiu, P.J. Lockyer, P.J. Cullen, A. Pellicer, A.D. Cox, M.R. Philips
+Phospholipase Cgamma activates Ras on the Golgi apparatus by means of RasGRP1
+Nature, 424 (2003), pp. 694–698
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (284)
+Blangy et al., 2006
+A. Blangy, N. Bouquier, C. Gauthier-Rouviere, S. Schmidt, A. Debant, J.P. Leonetti, P. Fort
+Identification of TRIO-GEFD1 chemical inhibitors using the yeast exchange assay
+Biol. Cell., 98 (2006), pp. 511–522
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (19)
+Boriack-Sjodin et al., 1998
+P.A. Boriack-Sjodin, S.M. Margarit, D. Bar-Sagi, J. Kuriyan
+The structural basis of the activation of Ras by Sos
+Nature, 394 (1998), pp. 337–343
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (379)
+Bos, 2006
+J.L. Bos
+Epac proteins: multi-purpose cAMP targets
+Trends Biochem. Sci., 31 (2006), pp. 680–686
+
+Article |  PDF (760 K) | View Record in Scopus | Citing articles (278)
+Boykevisch et al., 2006
+S. Boykevisch, C. Zhao, H. Sondermann, P. Philippidou, S. Halegoua, J. Kuriyan, D. Bar-Sagi
+Regulation of ras signaling dynamics by Sos-mediated positive feedback
+Curr. Biol., 16 (2006), pp. 2173–2179
+
+Article |  PDF (712 K) | View Record in Scopus | Citing articles (51)
+Caloca et al., 2003
+M.J. Caloca, H. Wang, M.G. Kazanietz
+Characterization of the Rac-GAP (Rac-GTPase-activating protein) activity of beta2-chimaerin, a ‘non-protein kinase C’ phorbol ester receptor
+Biochem. J., 375 (2003), pp. 313–321
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (62)
+Caloca et al., 2004
+M.J. Caloca, J.L. Zugaza, M. Vicente-Manzanares, F. Sanchez-Madrid, X.R. Bustelo
+F-actin-dependent translocation of the Rap1 GDP/GTP exchange factor RasGRP2
+J. Biol. Chem., 279 (2004), pp. 20435–20446
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Canagarajah et al., 2004
+B. Canagarajah, F.C. Leskow, J.Y. Ho, H. Mischak, L.F. Saidi, M.G. Kazanietz, J.H. Hurley
+Structural mechanism for lipid activation of the Rac-specific GAP, beta2-chimaerin
+Cell, 119 (2004), pp. 407–418
+
+Article |  PDF (606 K) | View Record in Scopus | Citing articles (78)
+Clyde-Smith et al., 2000
+J. Clyde-Smith, G. Silins, M. Gartside, S. Grimmond, M. Etheridge, A. Apolloni, N. Hayward, J.F. Hancock
+Characterization of RasGRP2, a plasma membrane-targeted, dual specificity Ras/Rap exchange factor
+J. Biol. Chem., 275 (2000), pp. 32260–32267
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (92)
+Coleman et al., 2004
+M.L. Coleman, C.J. Marshall, M.F. Olson
+RAS and RHO GTPases in G1-phase cell-cycle regulation
+Nat. Rev. Mol. Cell Biol., 5 (2004), pp. 355–366
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (197)
+Crittenden et al., 2004
+J.R. Crittenden, W. Bergmeier, Y. Zhang, C.L. Piffath, Y. Liang, D.D. Wagner, D.E. Housman, A.M. Graybiel
+CalDAG-GEFI integrates signaling for platelet aggregation and thrombus formation
+Nat. Med., 10 (2004), pp. 982–986
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (198)
+Cullen and Lockyer, 2002
+P.J. Cullen, P.J. Lockyer
+Integration of calcium and Ras signalling
+Nat. Rev. Mol. Cell Biol., 3 (2002), pp. 339–348
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (216)
+D'Angelo et al., 2006
+I. D'Angelo, S. Welti, F. Bonneau, K. Scheffzek
+A novel bipartite phospholipid-binding module in the neurofibromatosis type 1 protein
+EMBO Rep., 7 (2006), pp. 174–179
+
+View Record in Scopus | Citing articles (50)
+Daumke et al., 2004
+O. Daumke, M. Weyand, P.P. Chakrabarti, I.R. Vetter, A. Wittinghofer
+The GTPase-activating protein Rap1GAP uses a catalytic asparagine
+Nature, 429 (2004), pp. 197–201
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (85)
+Ebinu et al., 1998
+J.O. Ebinu, D.A. Bottorff, E.Y. Chan, S.L. Stang, R.J. Dunn, J.C. Stone
+RasGRP, a Ras guanyl nucleotide- releasing protein with calcium- and diacylglycerol-binding motifs
+Science, 280 (1998), pp. 1082–1086
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (435)
+Eccleston et al., 1993
+J.F. Eccleston, K.J. Moore, L. Morgan, R.H. Skinner, P.N. Lowe
+Kinetics of interaction between normal and proline 12 Ras and the GTPase-activating proteins, p120-GAP and neurofibromin. The significance of the intrinsic GTPase rate in determining the transforming ability of ras
+J. Biol. Chem., 268 (1993), pp. 27012–27019
+
+View Record in Scopus | Citing articles (64)
+Engers et al., 2000
+R. Engers, T.P. Zwaka, L. Gohr, A. Weber, C.D. Gerharz, H.E. Gabbert
+Tiam1 mutations in human renal-cell carcinomas
+Int. J. Cancer, 88 (2000), pp. 369–376
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (58)
+Enserink et al., 2002
+J.M. Enserink, A.E. Christensen, J. de Rooij, M. van Triest, F. Schwede, H.G. Genieser, S.O. Doskeland, J.L. Blank, J.L. Bos
+A novel Epac-specific cAMP analogue demonstrates independent regulation of Rap1 and ERK
+Nat. Cell Biol., 4 (2002), pp. 901–906
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (443)
+Fernandez-Zapico et al., 2005
+M.E. Fernandez-Zapico, N.C. Gonzalez-Paz, E. Weiss, D.N. Savoy, J.R. Molina, R. Fonseca, T.C. Smyrk, S.T. Chari, R. Urrutia, D.D. Billadeau
+Ectopic expression of VAV1 reveals an unexpected role in pancreatic cancer tumorigenesis
+Cancer Cell, 7 (2005), pp. 39–49
+
+Article |  PDF (604 K) | View Record in Scopus | Citing articles (89)
+Fujikawa et al., 2003
+K. Fujikawa, A.V. Miletic, F.W. Alt, R. Faccio, T. Brown, J. Hoog, J. Fredericks, S. Nishi, S. Mildiner, S.L. Moores et al.
+Vav1/2/3-null mice define an essential role for Vav family proteins in lymphocyte development and activation but a differential requirement in MAPK signaling in T and B cells
+J. Exp. Med., 198 (2003), pp. 1595–1608
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (137)
+Fukuhara et al., 2001
+S. Fukuhara, H. Chikumi, J.S. Gutkind
+RGS-containing RhoGEFs: the missing link between transforming G proteins and Rho?
+Oncogene, 20 (2001), pp. 1661–1668
+
+Full Text via CrossRef
+Fukuhara et al., 2005
+S. Fukuhara, A. Sakurai, H. Sano, A. Yamagishi, S. Somekawa, N. Takakura, Y. Saito, K. Kangawa, N. Mochizuki
+Cyclic AMP potentiates vascular endothelial cadherin-mediated cell-cell contact to enhance endothelial barrier function through an Epac-Rap1 signaling pathway
+Mol. Cell. Biol., 25 (2005), pp. 136–146
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (224)
+Gan et al., 2006
+B. Gan, Y. Yoo, J.L. Guan
+Association of focal adhesion kinase with tuberous sclerosis complex 2 in the regulation of s6 kinase activation and cell growth
+J. Biol. Chem., 281 (2006), pp. 37321–37329
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (33)
+Gao et al., 2004
+Y. Gao, J.B. Dickerson, F. Guo, J. Zheng, Y. Zheng
+Rational design and characterization of a Rac GTPase-specific small molecule inhibitor
+Proc. Natl. Acad. Sci. USA, 101 (2004), pp. 7618–7623
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (524)
+Goldberg, 1998
+J. Goldberg
+Structural basis for activation of ARF GTPase: mechanisms of guanine nucleotide exchange and GTP-myristoyl switching
+Cell, 95 (1998), pp. 237–248
+
+Article |  PDF (1015 K) | View Record in Scopus | Citing articles (321)
+Gonzalez-Garcia et al., 2005
+A. Gonzalez-Garcia, C.A. Pritchard, H.F. Paterson, G. Mavria, G. Stamp, C.J. Marshall
+RalGDS is required for tumor formation in a model of skin carcinogenesis
+Cancer Cell, 7 (2005), pp. 219–226
+
+Article |  PDF (426 K) | View Record in Scopus | Citing articles (100)
+Hafner et al., 2006
+M. Hafner, A. Schmitz, I. Grune, S.G. Srivatsan, B. Paul, W. Kolanus, T. Quast, E. Kremmer, I. Bauer, M. Famulok
+Inhibition of cytohesins by SecinH3 leads to hepatic insulin resistance
+Nature, 444 (2006), pp. 941–944
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (133)
+Han et al., 1998
+J. Han, K. Luby-Phelps, B. Das, X. Shu, Y. Xia, R.D. Mosteller, U.M. Krishna, J.R. Falck, M.A. White, D. Broek
+Role of substrates and products of PI 3-kinase in regulating activation of Rac-related guanosine triphosphatases by Vav
+Science, 279 (1998), pp. 558–560
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (609)
+Innocenti et al., 2002
+M. Innocenti, P. Tenca, E. Frittoli, M. Faretta, A. Tocchetti, P.P. Di Fiore, G. Scita
+Mechanisms through which Sos-1 coordinates the activation of Ras and Rac
+J. Cell Biol., 156 (2002), pp. 125–136
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (102)
+Innocenti et al., 2003
+M. Innocenti, E. Frittoli, I. Ponzanelli, J.R. Falck, S.M. Brachmann, P.P. Di Fiore, G. Scita
+Phosphoinositide 3-kinase activates Rac by entering in a complex with Eps8, Abi1, and Sos-1
+J. Cell Biol., 160 (2003), pp. 17–23
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (142)
+Inoki et al., 2003
+K. Inoki, T. Zhu, K.L. Guan
+TSC2 mediates cellular energy response to control cell growth and survival
+Cell, 115 (2003), pp. 577–590
+
+Article |  PDF (873 K) | View Record in Scopus | Citing articles (1402)
+Itzen et al., 2006
+A. Itzen, O. Pylypenko, R.S. Goody, K. Alexandrov, A. Rak
+Nucleotide exchange via local protein unfolding–structure of Rab8 in complex with MSS4
+EMBO J., 25 (2006), pp. 1445–1455
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (52)
+Jordan et al., 1999
+J.D. Jordan, K.D. Carey, P.J. Stork, R. Iyengar
+Modulation of rap activity by direct interaction of Galpha(o) with Rap1 GTPase-activating protein
+J. Biol. Chem., 274 (1999), pp. 21507–21510
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (121)
+Khanday et al., 2006
+F.A. Khanday, L. Santhanam, K. Kasuno, T. Yamamori, A. Naqvi, J. Dericco, A. Bugayenko, I. Mattagajasingh, A. Disanza, G. Scita, K. Irani
+Sos-mediated activation of rac1 by p66shc
+J. Cell Biol., 172 (2006), pp. 817–822
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Kozminski et al., 2003
+K.G. Kozminski, L. Beven, E. Angerman, A.H. Tong, C. Boone, H.O. Park
+Interaction between a Ras and a Rho GTPase couples selection of a growth site to the development of cell polarity in yeast
+Mol. Biol. Cell, 14 (2003), pp. 4958–4970
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (50)
+Krugmann et al., 2004
+S. Krugmann, R. Williams, L. Stephens, P.T. Hawkins
+ARAP3 is a PI3K- and Rap-regulated GAP for RhoA
+Curr. Biol., 14 (2004), pp. 1380–1384
+
+Article |  PDF (323 K) | View Record in Scopus | Citing articles (81)
+Kupzig et al., 2006
+S. Kupzig, D. Deaconescu, D. Bouyoucef, S.A. Walker, Q. Liu, C.L. Polte, O. Daumke, T. Ishizaki, P.J. Lockyer, A. Wittinghofer, P.J. Cullen
+GAP1 family members constitute bifunctional Ras and Rap GTPase-activating proteins
+J. Biol. Chem., 281 (2006), pp. 9891–9900
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (40)
+Lambert et al., 2002
+J.M. Lambert, Q.T. Lambert, G.W. Reuther, A. Malliri, D.P. Siderovski, J. Sondek, J.G. Collard, C.J. Der
+Tiam1 mediates Ras activation of Rac by a PI(3)K-independent mechanism
+Nat. Cell Biol., 4 (2002), pp. 621–625
+
+View Record in Scopus | Citing articles (166)
+Li et al., 2006
+Y. Li, S. Asuri, J.F. Rebhun, A.F. Castro, N.C. Paranavitana, L.A. Quilliam
+The RAP1 guanine nucleotide exchange factor Epac2 couples cyclic AMP and Ras signals at the plasma membrane
+J. Biol. Chem., 281 (2006), pp. 2506–2514
+
+View Record in Scopus | Citing articles (60)
+Liu et al., 2005
+Q. Liu, S.A. Walker, D. Gao, J.A. Taylor, Y.F. Dai, R.S. Arkell, M.D. Bootman, H.L. Roderick, P.J. Cullen, P.J. Lockyer
+CAPRI and RASAL impose different modes of information processing on Ras due to contrasting temporal filtering of Ca2+
+J. Cell Biol., 170 (2005), pp. 183–190
+
+View Record in Scopus | Citing articles (41)
+Llorca et al., 2005
+O. Llorca, E. Arias-Palomo, J.L. Zugaza, X.R. Bustelo
+Global conformational rearrangements during the activation of the GDP/GTP exchange factor Vav3
+EMBO J., 24 (2005), pp. 1330–1340
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (28)
+Malliri et al., 2002
+A. Malliri, R.A. van der Kammen, K. Clark, M. van der Valk, F. Michiels, J.G. Collard
+Mice deficient in the Rac activator Tiam1 are resistant to Ras-induced skin tumours
+Nature, 417 (2002), pp. 867–871
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (215)
+Margarit et al., 2003
+S.M. Margarit, H. Sondermann, B.E. Hall, B. Nagar, A. Hoelz, M. Pirruccello, D. Bar-Sagi, J. Kuriyan
+Structural evidence for feedback activation by Ras.GTP of the Ras- specific nucleotide exchange factor SOS
+Cell, 112 (2003), pp. 685–695
+
+Article |  PDF (618 K) | View Record in Scopus | Citing articles (194)
+Mayer et al., 2001
+G. Mayer, M. Blind, W. Nagel, T. Bohm, T. Knorr, C.L. Jackson, W. Kolanus, M. Famulok
+Controlling small guanine-nucleotide-exchange factor function through cytoplasmic RNA intramers
+Proc. Natl. Acad. Sci. USA, 98 (2001), pp. 4961–4965
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (78)
+Miura et al., 2002
+K. Miura, K.M. Jacques, S. Stauffer, A. Kubosaki, K. Zhu, D.S. Hirsch, J. Resau, Y. Zheng, P.A. Randazzo
+ARAP1: a point of convergence for Arf and Rho signaling
+Mol. Cell, 9 (2002), pp. 109–119
+
+Article |  PDF (774 K) | View Record in Scopus | Citing articles (109)
+Mochizuki et al., 1999
+N. Mochizuki, Y. Ohba, E. Kiyokawa, T. Kurata, T. Murakami, T. Ozaki, A. Kitabatake, K. Nagashima, M. Matsuda
+Activation of the ERK/MAPK pathway by an isoform of rap1GAP associated with G alpha(i)
+Nature, 400 (1999), pp. 891–894
+
+View Record in Scopus | Citing articles (166)
+Movilla and Bustelo, 1999
+N. Movilla, X.R. Bustelo
+Biological and regulatory properties of Vav-3, a new member of the Vav family of oncoproteins
+Mol. Cell. Biol., 19 (1999), pp. 7870–7885
+
+View Record in Scopus | Citing articles (164)
+Ozaki et al., 2000
+N. Ozaki, T. Shibasaki, Y. Kashima, T. Miki, K. Takahashi, H. Ueno, Y. Sunaga, H. Yano, Y. Matsuura, T. Iwanaga et al.
+cAMP-GEFII is a direct target of cAMP in regulated exocytosis
+Nat. Cell Biol., 2 (2000), pp. 805–811
+
+View Record in Scopus | Citing articles (292)
+Pan et al., 2006
+X. Pan, S. Eathiraj, M. Munson, D.G. Lambright
+TBC-domain GAPs for Rab GTPases accelerate GTP hydrolysis by a dual-finger mechanism
+Nature, 442 (2006), pp. 303–306
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (122)
+Rehmann et al., 2006
+H. Rehmann, J. Das, P. Knipscheer, A. Wittinghofer, J.L. Bos
+Structure of the cyclic-AMP-responsive exchange factor Epac2 in its auto-inhibited state
+Nature, 439 (2006), pp. 625–628
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (94)
+Renault et al., 2001
+L. Renault, J. Kuhlmann, A. Henkel, A. Wittinghofer
+Structural basis for guanine nucleotide exchange on Ran by the regulator of chromosome condensation (RCC1)
+Cell, 105 (2001), pp. 245–255
+
+Article |  PDF (669 K) | View Record in Scopus | Citing articles (137)
+Renault et al., 2003
+L. Renault, B. Guibert, J. Cherfils
+Structural snapshots of the mechanism and inhibition of a guanine nucleotide exchange factor
+Nature, 426 (2003), pp. 525–530
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (155)
+Rittinger et al., 1997
+K. Rittinger, P.A. Walker, J.F. Eccleston, S.J. Smerdon, S.J. Gamblin
+Structure at 1.65 A of RhoA and its GTPase-activating protein in complex with a transition-state analogue
+Nature, 389 (1997), pp. 758–762
+
+View Record in Scopus | Citing articles (297)
+Roberts et al., 2007
+A.E. Roberts, T. Araki, K.D. Swanson, K.T. Montgomery, T.A. Schiripo, V.A. Joshi, L. Li, Y. Yassin, A.M. Tamburino, B.G. Neel, R.S. Kucherlapati
+Germline gain-of-function mutations in SOS1 cause Noonan syndrome
+Nat. Genet., 39 (2007), pp. 70–74
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (278)
+Rossman et al., 2002
+K.L. Rossman, D.K. Worthylake, J.T. Snyder, D.P. Siderovski, S.L. Campbell, J. Sondek
+A crystallographic view of interactions between Dbs and Cdc42: PH domain-assisted guanine nucleotide exchange
+EMBO J., 21 (2002), pp. 1315–1326
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (144)
+Rossman et al., 2005
+K.L. Rossman, C.J. Der, J. Sondek
+GEF means go: turning on RHO GTPases with guanine nucleotide-exchange factors
+Nat. Rev. Mol. Cell Biol., 6 (2005), pp. 167–180
+
+View Record in Scopus | Citing articles (736)
+Scheffzek et al., 1997
+K. Scheffzek, M.R. Ahmadian, W. Kabsch, L. Wiesmuller, A. Lautwein, F. Schmitz, A. Wittinghofer
+The Ras-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants
+Science, 277 (1997), pp. 333–338
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (745)
+Schmidt and Hall, 2002
+A. Schmidt, A. Hall
+Guanine nucleotide exchange factors for Rho GTPases: turning on the switch
+Genes Dev., 16 (2002), pp. 1587–1609
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (713)
+Seewald et al., 2002
+M.J. Seewald, C. Korner, A. Wittinghofer, I.R. Vetter
+RanGAP mediates GTP hydrolysis without an arginine finger
+Nature, 415 (2002), pp. 662–666
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (113)
+Snyder et al., 2001
+J.T. Snyder, K.L. Rossman, M.A. Baumeister, W.M. Pruitt, D.P. Siderovski, C.J. Der, M.A. Lemmon, J. Sondek
+Quantitative analysis of the effect of phosphoinositide interactions on the function of Dbl family proteins
+J. Biol. Chem., 276 (2001), pp. 45868–45875
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (64)
+Soisson et al., 1998
+S.M. Soisson, A.S. Nimnual, M. Uy, D. Bar-Sagi, J. Kuriyan
+Crystal structure of the Dbl and pleckstrin homology domains from the human Son of sevenless protein
+Cell, 95 (1998), pp. 259–268
+
+Article |  PDF (6187 K) | View Record in Scopus | Citing articles (170)
+Sondermann et al., 2004
+H. Sondermann, S.M. Soisson, S. Boykevisch, S.S. Yang, D. Bar-Sagi, J. Kuriyan
+Structural analysis of autoinhibition in the Ras activator Son of sevenless
+Cell, 119 (2004), pp. 393–405
+
+Article |  PDF (1129 K) | View Record in Scopus | Citing articles (109)
+Tall et al., 2001
+G.G. Tall, M.A. Barbieri, P.D. Stahl, B.F. Horazdovsky
+Ras-activated endocytosis is mediated by the Rab5 guanine nucleotide exchange activity of RIN1
+Dev. Cell, 1 (2001), pp. 73–82
+
+Article |  PDF (460 K) | View Record in Scopus | Citing articles (173)
+Tanaka et al., 1994
+S. Tanaka, T. Morishita, Y. Hashimoto, S. Hattori, S. Nakamura, M. Shibuya, K. Matuoka, T. Takenawa, T. Kurata, K. Nagashima
+C3G, a guanine nucleotide-releasing protein expressed ubiquitously, binds to the Src homology 3 domains of CRK and GRB2/ASH proteins
+Proc. Natl. Acad. Sci. USA, 91 (1994), pp. 3443–3447
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (287)
+Tartaglia et al., 2007
+M. Tartaglia, L.A. Pennacchio, C. Zhao, K.K. Yadav, V. Fodale, A. Sarkozy, B. Pandit, K. Oishi, S. Martinelli, W. Schackwitz et al.
+Gain-of-function SOS1 mutations cause a distinctive form of Noonan syndrome
+Nat. Genet., 39 (2007), pp. 75–79
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (274)
+Thomas et al., 2007
+C. Thomas, I. Fricke, A. Scrima, A. Berken, A. Wittinghofer
+Structural evidence for a common intermediate in small G protein-GEF reactions
+Mol. Cell, 25 (2007), pp. 141–149
+
+Article |  PDF (1014 K) | View Record in Scopus | Citing articles (43)
+Turner and Billadeau, 2002
+M. Turner, D.D. Billadeau
+VAV proteins as signal integrators for multi-subunit immune-recognition receptors
+Nat. Rev. Immunol., 2 (2002), pp. 476–486
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (198)
+Urano et al., 1996
+T. Urano, R. Emkey, L.A. Feig
+Ral-GTPases mediate a distinct downstream signaling pathway from Ras that facilitates cellular transformation
+EMBO J., 15 (1996), pp. 810–816
+
+View Record in Scopus | Citing articles (267)
+Vetter and Wittinghofer, 2001
+I.R. Vetter, A. Wittinghofer
+The guanine nucleotide-binding switch in three dimensions
+Science, 294 (2001), pp. 1299–1304
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (776)
+Waters et al., 1995
+S.B. Waters, K. Yamauchi, J.E. Pessin
+Insulin-stimulated disassociation of the SOS-Grb2 complex
+Mol. Cell. Biol., 15 (1995), pp. 2791–2799
+
+View Record in Scopus | Citing articles (96)
+Wennerberg et al., 2005
+K. Wennerberg, K.L. Rossman, C.J. Der
+The Ras superfamily at a glance
+J. Cell Sci., 118 (2005), pp. 843–846
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (406)
+Worthylake et al., 2000
+D.K. Worthylake, K.L. Rossman, J. Sondek
+Crystal structure of Rac1 in complex with the guanine nucleotide exchange region of Tiam1
+Nature, 408 (2000), pp. 682–688
+
+View Record in Scopus | Citing articles (230)
+Yamada et al., 2005
+T. Yamada, T. Sakisaka, S. Hisata, T. Baba, Y. Takai
+RA-RhoGAP, Rap-activated Rho GTPase-activating protein implicated in neurite outgrowth through Rho
+J. Biol. Chem., 280 (2005), pp. 33026–33034
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (41)
+Yohe et al., 2007
+M.E. Yohe, K.L. Rossman, O.S. Gardner, A.E. Karnoub, J.T. Snyder, S. Gershburg, L.M. Graves, C.J. Der, J. Sondek
+Auto-inhibition of the Dbl-family protein Tim by an N-terminal helical motif
+J. Biol. Chem., 282 (2007), pp. 13813–13823
+
+View Record in Scopus | Full Text via CrossRef | Citing articles (18)
+Corresponding author contact information
+Corresponding author
+Copyright © 2007 Elsevier Inc. All rights reserved.

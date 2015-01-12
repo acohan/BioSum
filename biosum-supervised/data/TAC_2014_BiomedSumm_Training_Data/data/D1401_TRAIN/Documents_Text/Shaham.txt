@@ -1,0 +1,395 @@
+﻿Pax6 Regulates Gene Expression in the Vertebrate Lens through miR-204
+Ohad Shaham,#1 Karen Gueta,#1 Eyal Mor,2 Pazit Oren-Giladi,1 Dina Grinberg,1 Qing Xie,3 Ales Cvekl,3 Noam Shomron,2,4 Noa Davis,1 Maya Keydar-Prizant,1 Shaul Raviv,1 Metsada Pasmanik-Chor,5 Rachel E. Bell,1 Carmit Levy,1 Raffaella Avellino,6 Sandro Banfi,6,7 Ivan Conte,6,* and Ruth Ashery-Padan1,4,*
+Claude Desplan, Editor
+Author information ► Article notes ► Copyright and License information ►
+This article has been cited by other articles in PMC.
+Go to:
+Abstract
+During development, tissue-specific transcription factors regulate both protein-coding and non-coding genes to control differentiation. Recent studies have established a dual role for the transcription factor Pax6 as both an activator and repressor of gene expression in the eye, central nervous system, and pancreas. However, the molecular mechanism underlying the inhibitory activity of Pax6 is not fully understood. Here, we reveal that Trpm3 and the intronic microRNA gene miR-204 are co-regulated by Pax6 during eye development. miR-204 is probably the best known microRNA to function as a negative modulator of gene expression during eye development in vertebrates. Analysis of genes altered in mouse Pax6 mutants during lens development revealed significant over-representation of miR-204 targets among the genes up-regulated in the Pax6 mutant lens. A number of new targets of miR-204 were revealed, among them Sox11, a member of the SoxC family of pro-neuronal transcription factors, and an important regulator of eye development. Expression of Trpm/miR-204 and a few of its targets are also Pax6-dependent in medaka fish eyes. Collectively, this study identifies a novel evolutionarily conserved mechanism by which Pax6 controls the down-regulation of multiple genes through direct up-regulation of miR-204.
+
+Go to:
+Author Summary
+The transcription factor Pax6 is reiteratively employed in space and time for the establishment of progenitor pools and the differentiation of neuronal and non-neuronal lineages of the CNS, pancreas, and eye. Execution of these diverse developmental programs depends on simultaneous activation and repression of gene networks functioning downstream of Pax6. MicroRNAs function as inhibitors of gene expression. Many microRNA genes are transcribed through common promoters of host genes. In this study, using wide-scale analysis of changes in gene expression following Pax6 deletion in the lens, we discover that Pax6 regulates the gene Trpm3 and its hosted microRNA, miR-204. We then show that miR-204 suppresses several target genes in the lens, notably the neuronal gene Sox11. Lastly, by conducting parallel experiments in the medaka fish, we show that Pax6 control of miR-204 and its target genes is evolutionarily conserved between mammals and fish, stressing the biological importance of this pathway. Pax6 regulation of miR-204 explains part of the complex, divergent inhibitory activity of Pax6 in ocular progenitor cells, which is required to establish and maintain the identity and function of ocular tissues.
+
+Go to:
+Introduction
+Lineage-specific transcription factors (TFs) such as Pax6 direct the development of multiple tissues through the regulation of gene networks that execute discrete developmental programs. Pax6 is essential for normal development of the central nervous system (CNS), pancreas, olfactory system and eye (reviewed in [1], [2]). Pax6 is considered a “master regulator” of eye development as it specifies the multiple cell lineages that comprise the eye in vertebrate and invertebrate species [3].
+
+During embryonic development, Pax6 protein is known to activate several target genes using two DNA-binding domains and a proline-serine-threonine transcription activating domain [4]–[6]. Pax6 may also enhance gene expression by recruiting chromatin-remodeling enzymes and alleviating heterochromatin repression [4], [7], [8]. In contrast, Pax6 has been found to function as a repressor of the lens crystallin genes Cryabb1 and Crygf, and of the photoreceptor TF Crx [4], [9]–[11]. Since repression of crystallin genes was shown to be independent of the transactivation domain of Pax6, it was proposed that inhibition is mediated by competition for promoter occupancy with other TFs [4], [9], [10]. However, additional mechanisms of Pax6-dependent gene repression remain to be identified.
+
+MicroRNAs (miRNAs) direct post-transcriptional repression of a wide array of genes by adhering to miRNA-specific sequences in the 3′ untranslated region (UTR) of mRNAs [12]. In this way, a single type of miRNA can essentially bind dozens of different mRNA transcripts [13]. Therefore, regulation of a miRNA gene by a tissue-specific TF can facilitate the down-regulation of batteries of genes.
+
+To ascertain the roles of miRNAs in eye development, somatic mutations of the miRNA-maturation enzyme gene Dicer1 were examined in the mouse lens and retinal progenitors cells (RPCs, [14]–[16]). When Dicer1 was knocked out at the lens placode (LP) stage, lens development proceeded to primary lens fiber cell differentiation; however, secondary lens fiber cell differentiation was aborted and lens epithelium (LE) cells ceased to divide, undergoing apoptosis. Therefore, it is evident that miRNAs play an important role in the late stages of lens development. Somatic mutation of Dicer1 in RPCs revealed multiple activities of miRNAs in their specification, differentiation and survival [15], [16].
+
+To date, there is limited information on the function of specific miRNAs in the eye. Probably the most extensively studied example is miR-204. In medaka fish (Oryzias latipes; ol), ol-miR-204 was shown to affect lenticular and retinal development via repression of Meis2 and its transcriptional target Pax6 [17]. In addition, miR-204 was found to contribute to the epithelial physiology of human retinal pigmented epithelium (RPE) [18], [19]. However, the activity and regulation of miR-204 in the mammalian lens and retina remain unknown. The coding region for the mouse miR-204 resides in intron 6 of the transient receptor potential cation channel M3 gene (Trpm3 [20]). miR-204 appears to be concomitantly expressed with Trpm3 in the eye and CNS [18], [21], [22]. In the post-natal mouse eye, its pattern resembles that of Pax6 (Figure 1;[21], [23]).
+
+Figure 1
+Figure 1
+Trpm3/miR-204 expression is dependent on Pax6 activity during eye development.
+The present study was aimed at elucidating the molecular mechanism of Pax6-dependent transcriptional repression through unbiased analysis of up-regulated genes in Pax6-mutant lenses. We show that inhibition of gene expression by Pax6 is at least partly mediated through direct activation of miR-204. In addition, we identify Sox11 as a novel target for miR-204 in lens and retinal development. Finally, both regulation of Trpm/miR-204 by Pax6 and inhibition of Sox11 are shown to be conserved in vertebrates. This study is the first to reveal that miRNAs are part of the Pax6 genetic network in different vertebrate species, adding to the known repertoire of Pax6 activities in the course of organ development.
+
+Go to:
+Results
+Large-scale changes in the lens transcriptome as a result of Pax6 deletion
+
+To identify new Pax6 genetic targets in the developing lens, an expression microarray was performed on embryonic day 14.5 (E14.5) lenses from controls and somatic mutants of Pax6 (Pax6loxP/loxP;Mlr10-cre, [24]). Out of 28,853 mouse genes, 315 were altered at a cutoff of 2.0-fold and a P-value below 0.05. Of these, the expression levels of 235 genes were increased upon Pax6 deletion, while only 83 genes were reduced (P-values and fold change are shown Figure S1 and the genes are listed in Table S1). A bias toward up-regulated genes - 2.8[ratio]1 in the lens, has also been reported in the embryonic neocortex (1.8[ratio]1, 600 up-regulated vs. 339 down-regulated genes; [25]). This raised the possibility of Pax6's role in directly or indirectly repressing the expression of a large number of genes.
+
+To identify common targets of Pax6, we compared the list of altered genes in the lens and embryonic neocortex [25]. Interestingly, only 22 genes were found to be regulated similarly in both systems, with 18 up-regulated and 4 down-regulated in both the lens and neocortex (Table 1). The four genes that were down-regulated in both lens and neuronal lineages are potential direct transcriptional targets of Pax6. One of these - Trpm3 - contains both a coding region for Trpm3 and a non-coding miR-204 sequence. Trpm3 is a melastatin-like cation channel which is sensitive to steroids, active in insulin-producing beta cells and a chemo- and thermosensor in the somatosensory system [20], [26], [27], while miR-204 has been documented to play a role in ocular lineages in fish and mammals [17], [18] and thus may mediate Pax6's inhibitory activity in the eye.
+
+Table 1
+Table 1
+Pax6 targets that are reduced in developing lens (E14.5) and forebrain (E12.5).
+Pax6 is required for Trpm3/miR-204 expression during lens development
+
+Trpm3 transcript distribution in the post-natal eye shows some overlap with Pax6 expression [18], [21], [22]. Considering the possibility that Pax6 regulates Trpm3 expression directly during eye development, we compared the spatio-temporal expression patterns of Pax6 protein and Trpm3 mRNA during eye morphogenesis and differentiation (Figure 1). Pax6 expression initiates in the neural tube on around E8.5 [28]. On E9.5, Pax6 is detected in the ocular progenitors of the optic vesicle (OV) and LP (Figure 1A). On E9.5, Trpm3 is not yet detected in most ocular progenitors cells, and is barely observed in a small population of cells in the dorsal OV (Figure 1B, asterisk). Expression of Trpm3 on E9.5 was, however, evident in the otic vesicle, the primordium of the inner ear (Figure 1B′ inset). In contrast, from E10.5 onwards, Trpm3 mRNA was co-expressed with Pax6 protein in the lens and optic cup (OC) lineages. Both were strongly expressed in the invaginating lens vesicle and in the inner and outer layers of the OC (Figure 1C, 1D). Trpm3 expression seemed to be restricted to the developing eye, inner ear and choroid plexus and did not extend to Pax6-positive cells of the developing diencephalon (Figure 1D, Figure S2A). The expression of Trpm3 continued to follow that of Pax6 during later stages of eye development and was detected in the inner nuclear layer and ciliary body after birth (Figure 1E, 1G; Figure S2B). Therefore, Trpm3 expression in the developing eye began only after the establishment of ocular progenitor domains. From that stage onwards, Trpm3 expression recapitulated the complex ocular pattern of Pax6 expression, suggesting that Pax6 regulates Trpm3 expression in the developing lens and OC derivatives.
+
+To determine whether Pax6 simultaneously regulates Trpm3 and its hosted non-coding miR-204, Pax6 systemic knockout (Pax6lacZ/lacZ, E11.5) and Pax6 lens-specific conditional mutants (Pax6loxP/loxP;Mlr10-cre, E14.5) were examined (Figure 1). On E11.5, both Trpm3 and miR-204 were highly expressed in the lens vesicle and in the outer layer of the OC that contains the progenitors of the RPE, whereas lower levels were detected in the inner OC, where the RPCs reside (Figure 1E, 1I). Upon Pax6 ablation in Pax6lacZ/lacZ knock-out mice, Trpm3/miR-204 expression on E11.5 was lost from the optic rudiment (Figure 1F, 1J). On E14.5, Trpm3 and miR-204 were both detected in the LE and RPE. In the inner layer of the OC, expression was more prominent in the distal regions containing the ciliary body and iris primordia (Figure 1G, 1K). When Pax6 was removed specifically in the lens lineage on E14.5 (Pax6loxP/loxP;Mlr10-cre, [24]), both Trpm3 and miR-204 were lost from the mutant lens (Figure 1H, 1L). A reduction in Trpm3 expression was also detected in Pax6-deficient OC (Pax6loxP/loxP;a-cre [29], see below) and in progenitors of the iris and ciliary body (Pax6loxP/loxP;Dct-Cre mutants, Figure S3). These findings strongly support genetic regulation of Trpm3/miR-204 by Pax6 in several ocular tissue types.
+
+Pax6 directly binds Trpm3 regulatory sequences in vitro and in vivo
+
+To determine whether Pax6 regulation of the Trpm3/miR-204 gene is direct, we utilized chromatin immunoprecipitation (ChIP) assay to identify the binding region, in conjunction with in-silico TF binding site searches, followed by electrophoretic mobility shift assay (EMSA) to precisely locate Pax6 binding sites. The mammalian Trpm3 gene contains three transcription start sites based on the RefSeq data presented in the UCSC genome browser. A preliminary ChIP-on-chip experiment performed using chromatin prepared from E13.5 whole eyes indicated Pax6 binding within the region shown in Figure 2B. To examine whether Pax6 indeed binds to these Trpm3 regulatory sequences in vivo, quantitative ChIP PCR was performed on wild-type P0 lenses using anti-Pax6 antibodies. Two amplicons: A1 (chr19:22,524,578–697) and A2 (chr19:22,525,042–126) within the candidate regulatory region were enriched 16.3-fold (P = 0.0043) and 25.9-fold (P = 0.0098), respectively, compared to an upstream non-specific region (NSR-chr19:NSR-chr19:22,523,967–4079).
+
+Figure 2
+Figure 2
+Pax6 directly binds a Trpm3 enhancer sequence in vitro and in vivo.
+We tested four sequences (Trpm3.1–4) containing putative Pax6 binding sites using EMSA (prediction of target sites was performed as described in [30], EMSA described in [31], and the sequence similarities of Trpm3.1–Trpm3.4 to Pax6 binding matrices are presented in Table S2, Table S3). The probe for Trpm3.4 showed strongest binding to a flag-Pax6 protein containing both the paired domain and homeodomain (Pax6-PD-HD, Figure 2D). Increased concentrations of Pax6 protein produced stronger complex formation, while the presence of cold oligonucleotide competitors inhibited the binding (P6CON, Figure 2D). Therefore, we concluded that Pax6 directly binds Trpm3 regulatory sequences located downstream of the second promoter of Trpm3.
+
+miR-204 binds the 3′ UTR of Sox11 and down-regulates its expression
+
+Since miR-204 is down-regulated in ocular tissues depleted in Pax6, we next examined which downstream genes might be regulated by miR-204 in the developing mouse eye. Since most miRNA target sites can be found in the 3′ UTR segment of the target genes, we searched for putative miR-204 binding sites in the 3′ UTRs of all mouse genes (TargetScan Mouse, www.targetscan.org). From the list of genes containing conserved putative binding sites for miR-204, 35 were found to be up-regulated in the Pax6 mutant lens with at least a 1.5-fold change (Table 2). Statistical analysis revealed significant over-representation of miR-204 target genes among the genes negatively regulated by Pax6 (hypergeometric test, P = 0.019), making them good candidates for miR-204-mediated repression in the developing lens. Of these, Sox11 was selected due to its reported roles in ocular development [32]. Interestingly, Sox11 is encoded by a single exon and a long, 5,301-bp 3′ UTR, and was the only gene from this list that had three highly conserved putative miR-204 target sequences at positions 545–551, 916–923 and 3848–3855 (TargetScan Mouse). Sox11 is a member of the SoxC group of TFs, which are required for neurogenesis in the embryo and adult [33]–[36].
+
+Table 2
+Table 2
+Putative miR-204 targets found to be upregulated in Pax6 CKO lenses.
+To examine whether miR-204 down-regulates Sox11 expression, we utilized mouse neuroblastoma 2a (Neu-2a) cells, which show high expression of Sox11 [37]. The cells were transfected with either a miR-204 mimic plasmid (miR-204-miRVec) or a scrambled vector (scramble-miRVec) and were examined for Sox11 immunofluorescence. On average, cells transfected with scrambled miRNA had fluorescence levels similar to those of non-transfected cells (1[ratio]1.03, n = 163), whereas cells transfected with miR-204 had significantly lower levels (1[ratio]0.87, n = 150, P = 0.0104, Figure 3A–3C). This was confirmed at the mRNA level in a human lens cell line (H36CE) and mouse Neu-2a transfected with a mimic miR-204 (see below and Figure S8). Therefore, miR-204 is able to down-regulate the level of Sox11 transcript and protein in culture.
+
+Figure 3
+Figure 3
+miR-204 down-regulates the expression of Sox11.
+To determine whether Sox11 down-regulation is a result of direct binding, part of the wild-type 3′ UTR of Sox11, containing the first two putative miR-204 binding sites, was cloned downstream of the luciferase gene and compared to a mutated version of the 3′ UTR. Upon co-transfection of the wild-type Sox11 3′ UTR with miR-204, luciferase activity was reduced by 59% (P = 0.0012). In contrast, when we used a mutated version of the site that had the highest probability of conserved targeting (based on TargetScan version 6.2, position 914–921 on the 3′ UTR), luciferase levels were restored to control levels (96%, P = 0.20, Figure 3D arrow). Therefore, miR-204 binds the 3′ UTR of Sox11 and down-regulates its expression. Several miRNA binding sites on the gene's 3′ UTR usually exhibit additive effects ([38]). Yet, in the case of Sox11, mutating one site was sufficient to rescue most of the effect of miR-204. This reveals the importance of this site for the regulation of Sox11, although the other sites may contribute as well.
+
+Pax6 negatively controls Sox11 expression in vivo in the lens and retina
+
+Sox11 has been shown to be required for ocular development in mice. In Sox11−/− mutant embryos, the OC fails to close, resulting in a coloboma, a folded retina and a small lens that remains attached to the cornea [32]. This phenotype is reminiscent of heterozygous Pax6 mutations, suggesting a positive interaction between Pax6 and Sox11 in the context of early eye development [32]. However, we did not detect reduced expression of Sox11 transcript in Pax6lacZ/lacZ embryos in the OV or SE on E9.5 (Figure S4). Therefore, while both Pax6 and Sox11 are required for lens vesicle detachment and OC morphogenesis, Pax6 is not required for the expression of Sox11.
+
+In contrast, we identified a negative regulatory interaction between Pax6 and Sox11 at later stages of eye development as observed by the 2.3-fold elevation in Sox11 revealed by the microarray results above. To validate these findings, we characterized Sox11 expression in control and Pax6loxP/loxP;Mlr10-cre eyes on E14.5. In the wild-type, Sox11 transcripts were detected in the retina but not in the LE, in agreement with previous reports (Figure 3E, 3H, [32]). In contrast to previous studies, which utilized a lacZ reporter [32],[39], we did not detect Sox11 transcript in the lens fiber cells (E14.5, Figure 3E). This up-regulation of the lacZ reporter may be due to loss of miR-204 binding sites within the 3′ UTR, which were replaced with the lacZ gene, or to persistence of β-galactosidase protein in the slow-metabolizing lens fibers. Sox11 mRNA was elevated at the equator of Pax6loxP/loxP;Mlr10-cre lenses (Figure 3I, arrowheads), similar to the area of elevation seen with Sox2 [24] and Sox9 (Figure S5) in Pax6 mutant lenses. The elevation of Sox11 transcript in the Pax6loxP/loxP;Mlr10-cre lens validates Pax6's negative regulation of Sox11 in the lens.
+
+Trpm3/miR-204 is expressed in the progenitors of the OC and similar to Pax6, its expression is higher in the peripheral region of the OC, which is populated by the progenitors of the iris and ciliary body (Figure 1C, 1G, 1K and Figure 3G). While Sox11 is also expressed in the OC, its expression is lowest in the iris and ciliary body progenitors (not shown), intermediate in the neuroblastic layer (NBL) and highest in the ganglion cell layer (Figure 3H). We next examined whether Pax6 may also function in the OC to modulate Sox11 using Pax6loxP/loxP;a-Cre embryos [29]. In the region depleted of Pax6 (Figure 3J, dotted lines), Trpm3 was reduced (Figure 3K, dotted lines), while in the same region, Sox11 transcript level was markedly elevated (Figure 3L, small asterisk in area demarcated by dotted lines). The area of elevation corresponded to the Pax6−;Crx− population of RPCs in mutated Pax6loxP/loxP;a-Cre retinas [11].
+
+Therefore, Pax6 down-regulates the expression of Sox11 in progenitors of the lens and in a subclass of RPCs. Combined with the results above, these findings suggest that Pax6 modulates Sox11 via miR-204-based repression.
+
+Pax6 regulation of Trpm/miR-204 is evolutionarily conserved in vertebrates
+
+As miR-204 was previously shown to be expressed and to regulate eye morphogenesis in medaka fish [17], we hypothesized that Pax6 regulation of medaka miR-204 is evolutionarily conserved.
+
+Interestingly, while ol-Trpm3 is not expressed in the medaka at stage 24 (st 24), the expression of ol-Trpm1 corresponded with the pattern of expression of murine Trpm3 and miR-204 (mm-Trpm3, Figure 1E and Figure 4A, 4C). The ol-Trpm1 was expressed in the LP, neuroretina, ciliary marginal zone, ciliary body and presumed RPE (Figure 4C, 4F), suggesting that both ol-Trpm3 and ol-Trpm1 may have undergone a process of divergent gene functionalization, a common evolutionary process in teleost species [40]. To identify additional paralogs for both ol-Trpm1 and ol-Trpm3 genes in medaka fish, we used both available ol-Trpm1 (ENSORLT00000009435) and ol-Trpm3 (ENSORLT00000013467) sequences as queries to search public databases for the orthologous genomic locus. This search did not retrieve any additional ol-Trpm1/3 genes in the medaka genome (data not shown). Furthermore, comparison of the protein sequences together with phylogenetic analysis of many known vertebrate Trpm1 and Trpm3 proteins (human, caw, mouse, rat, chicken, Xenopus, zebrafish, Table S6) using PHYLIP package tools [41] identified ol-Trpm1 as more closely related to the mammalian Trpm3 than to mammalian Trpm1 (Figure S6). In support of these data, mouse–medaka comparative genomic analysis using MultiZ and Medaka Chain/Net package at UCSC (http://genome.ucsc.edu/) highlighted the locus for medaka ol-Trpm1 as a possible syntenic region to the mouse Trpm3 locus (Figure S7).
+
+Figure 4
+Figure 4
+Characterization of the medaka ol-Trpm1/miR-204 regulatory region.
+In medaka, ol-miR-204 is located within an ol-Trpm1 intron. Utilizing phylogenetic footprinting in sequences from related species [42], we identified putative Pax6 cis-regulatory elements within the first 1.5 kb upstream of the ol-Trpm1 coding region (Figure 4E). This region included a Pax6 binding site that resembled the Trpm3.4 region bound by Pax6 in vitro (Figure 2B, Figure 4E). To test the regulatory potential of these sequences, the medaka 1.5-kb genomic fragment was amplified and fused with a nuclear EGFP reporter to generate the p-ol-Trpm1P-GFP construct (Figure 4E). p-ol-Trpm1P-GFP was then assayed for possible enhancer activity in medaka embryos [42]. Three stable transgenic p-ol-Trpm1P-GFP lines showed comparable and robust EGFP expression in the developing fish eye in a pattern that mimicked the reported spatio-temporal distribution of the expression pattern of both ol-Trpm1 and miR-204 in medaka ([17], Figure 4D, 4G), at both embryonic (Figure 4C, 4D) and adult (not shown) stages. We thus concluded that this region contains the sequences that mediate Trpm1/miR-204 expression in the medaka fish.
+
+To examine whether Pax6 controls ol-Trpm1/miR-204 expression in vivo, we tested whether over-expression could expand ol-Trpm1/miR-204's expression domains. Injections of murine Pax6 mRNA (75–100 ng/µl) in p-ol-Trpm1P-GFP-transgenic embryos expanded and enhanced EGFP expression in both the lens and ventral retina of the OC (stage 24; Figure 4I, red arrow). Notably, no ectopic EGFP expression was observed in regions other than the retina, supporting tissue-specific Pax6-mediated activation of ol-Trpm1/miR-204 expression. Likewise, Pax6 over-expression in wild-type embryos expanded ol-Trpm1 mRNA distribution (Figure 4H) and increased both miR-204 and ol-Trpm1 transcript levels as detected by quantitative (q) RT-PCR (Figure 4J). In agreement with these results, transient transfection of HeLa cells with murine Pax6 activated a luciferase reporter construct containing the Trpm1P fragment significantly more than the luciferase activity observed in controls (Figure 4K). Collectively, these findings revealed that Pax6 is able to regulate the Trpm1/miR-204 promoter in fish, similar to its regulation of Trpm3/miR-204 in mice.
+
+miR-204 mediates Pax6 suppression of Sox11 and additional genes in the lens and in medaka embryos
+
+To further evaluate the contribution of miR-204 to the phenotype observed following loss of Pax6, we tested the response of a subset of seven additional genes (Cpn8, Satb2, Hcn2, Nfia, Myo10, Fbn2, and Elavl3) that were both up-regulated in Pax6-negative lenses and contained putative miR-204 binding sites in their 3′ UTR (Table 2) to over-expression of hsa-miR-204 mimic. Most of these genes were examined in the human lens H36CE cell line, whereas Elavl3, a member of the Hu family of neuronal RNA binding proteins, was examined in mouse Neu-2a cells (Figure S8) because of its low expression levels in the lens cell line (data not shown). From the eight genes that were tested, including Sox11, six were down-regulated in response to hsa-miR-204 mimic; the five reduced in H36CE cells were also significantly elevated following transfection with hsa-miR-204 inhibitor (Cpn8, Nfia, Myo10, Fbn2, Sox11; Figure 5A). In Neu-2a cells, Elavl3, Sox11 and Myo10 were significantly reduced (Figure S8). Luciferase assay conducted on the Elavl3 3′ UTR further supported direct regulation of Elavl3 by miR-204, and antibody labeling revealed expansion of Elavl3 expression to the posterior lens cells of Pax6loxP/loxP;Mrl10-Cre mutants (Figure S8, [43]).
+
+Figure 5
+Figure 5
+miR-204 affects expression of multiple genes and mediates Pax6 suppression of gene expression.
+As the expression pattern and regulation of miR-204 seem to be conserved between fish and mammals ([17], Figure 4), we also expected conservation of miR-204 activity. To test this, medaka embryos were injected with either hsa-miR-204 mimic for over-expression of miR-204, or with a morpholino (Mo-miR-204) for knock- down of the endogenous hsa-miR-204 [17]. Control embryos were injected with either an unrelated control Caenorhabditis elegans cel-miR-67 mimic or a six-base mismatched morpholino (MM-Mo-miR-204). The expression of ol-Sox11, ol-Nfia, ol-Fbn2, ol-Myo10, and ol-Elavl3 was monitored by qRT-PCR in embryos collected at stage 24, when the ocular phenotype of ol-miR-204 was first documented (Figure 5B, [17]). Ol-Meis2 was also monitored as it is a known target of miR-204 in medaka [17]. ol-Meis2, ol-Sox11, ol-Fbn2 and ol-Myo10 transcripts were significantly reduced following treatment with hsa-miR-204 mimic, by 28±3.7%, 23±2.8%, 43±3,4% and 21±1% relative to the control, respectively (Figure 5B); these genes were up-regulated following treatment with the Mo-miR-204 by 26.5±4.9%, 38.5±7.8%, 21±4% and 29.4±1.1%, respectively, relative to the control (Figure 5B). This finding supports the regulation of ol-Sox11 as well as ol-Myo10, and ol-Fbn2 by miR-204 in medaka, similar to the regulatory interaction observed in mammals.
+
+We next examined Pax6 regulation of ol-Sox11, ol-Fbn2 and ol-Myo10. Injection of mouse Pax6 mRNA into medaka embryos resulted in reduced expression of these three genes compared with control embryos injected with EGFP mRNA (ol-Sox11 was reduced to 45±5.1%, ol-Myo10 was reduced to 43±6.3%, and ol-Fbn2 to 56.4±2.1% Figure 5C). This reduction was significantly alleviated when embryos were co-injected with Mo-miR-204 (ol-Sox11 was rescued by 28.5±1%, ol-Myo10 by 26±3%, and ol-Fbn2 by 18.4±1.4%) (Figure 5C), indicating that at least part of the repression is mediated through miR-204 activity.
+
+Collectively, and similar to mammals, the expression of ol-Sox11, ol-Fbn2 and ol-Myo10 is negatively regulated by Pax6 and ol-miR-204 in medaka fish. These findings reveal several novel targets of miR-204 in the lens and demonstrate how Pax6 direct control of miR-204 can simultaneously inhibit multiple genes, thus tightly regulating normal lens fate and physiology.
+
+Go to:
+Discussion
+In this paper we establish Pax6 as an indirect negative regulator of gene expression through miR-204. We demonstrate that Pax6 regulation of miR-204 is conserved in vertebrates through regulation of the host gene Trpm3 in mice and ol-Trpm1 in medaka. The study identifies several targets of miR-204 repression in the lens, among them Sox11, an important factor for eye and CNS development. Additional new targets for miR-204 include neuronal factors and genes involved in cell motility. Pax6 regulation of miR-204 explains part of the complex and divergent inhibitory activity of Pax6 in ocular progenitor cells, which is required to establish and maintain the identity of ocular tissues.
+
+miR-204 in ocular physiology and development
+
+In mammals, miR-204 has a closely related paralog the miR-211. miR-204 and miR-211 differ by one or two nucleotides, depending on the species. However, they have the same seed-region sequence. Classified as a subfamily of miRNAs, they show the same set of predicted targets (TargetScan [12]). Interestingly, miR-211 first appears in mammals through the evolution of one of the two copies of miR-204, which is present in two identical copies in the genomes of early vertebrates and fish, including medaka fish [17]. In future studies it would be of interest to distinguish the different expression pattern of Trpm1/3 paralog genes and the functional activity of their hosted miRNAs in the different lineages.
+
+The roles of miR-204 in the eye have been recently examined using a primary culture of human fetal RPE. In those cells, miR-204 was shown to down-regulate levels of TgfbR2 and Snai2, genes known to be involved in the epithelial-to-mesenchymal transition (EMT, [18]). The authors provided evidence of this regulation helping to maintain epithelial phenotype and prevent EMT of the RPE [18]. EMT is characteristic of TGFβ-induced anterior subcapsular cataract formation, a pathology also associated with reduced dosage of Pax6 [44]–[46]. Interestingly, secondary cataract has recently been associated with alterations in miR-204 expression [47]. With this in mind, it is possible that part of Pax6's activity in inhibiting cataract formation is mediated by the activity of miR-204 in the lens and that restoration of miR-204 levels may prevent anterior subcapsular cataract formation.
+
+In addition, the novel miR-204 targets in lens development uncovered here include genes involved in cell motility Myo10 [48], cell matrix and regulation of the TGFβ pathway Fbn2 [49], and genes that function in neuronal or glia cells Sox11 [37], Elavl3 [43], Cpne8 [50] and Nfia [51]. The identification of multiple genes responding to miR-204, and the finding that some of these targets are conserved among vertebrates (Sox11, Fbn2, Myo10), suggest a major effect of miR-204 in regulating LE fate and cell behavior. Future studies should evaluate the contribution of each of the identified targets to maintaining lens physiology (Figure 6). Furthermore, as miR-204 is expressed in several epithelial tissues that originate from the neuroectoderm, including the ciliary body, iris and choroid plexus, it is possible that miR-204 plays a more general role in maintenance of a non-neuronal fate of various epithelia within the CNS.
+
+Figure 6
+Figure 6
+Model of Pax6 genetic regulation of Sox11 during ocular development.
+miR-204 was found to negatively regulate the expression of ol-Meis2 in the eye of medaka fish [17]. Murine Meis1 and Meis2 have been found to be upstream regulators of Pax6 during induction of the LP [52]. It was therefore proposed that miR-204 regulates ol-Pax6 in the lens through regulation of ol-Meis2 [17]. The findings presented here suggest a negative feedback loop between Meis1/2, Pax6 and miR-204 (Figure 6). This regulatory loop may only be relevant at early stages of lens development, because in the mouse lens, Meis1 and Meis2 expression is lost before E12.5 [53], whereas Pax6 and miR-204 expression is maintained throughout development (Figure 1). Further analysis is required to substantiate the relevance of the miR-204–Meis1/2–Pax6 feedback loop in maintaining correct Pax6 dosage during early stages of lens development.
+
+Pax6 regulation of neuronal SOX genes
+
+A previous global analysis of gene expression revealed a significant number of neuron-specific genes that are up-regulated in Pax6-heterozygous lenses [31]. This raised the hypothesis that Pax6 has a dual role: promoting lenticular genes, while simultaneously suppressing competing programs, such as neural development [31]. The altered expression profile in the Pax6-null embryonic lens reported here further revealed over-representation of neurogenic genes using several tools for seeking gene-ontology enrichment DAVID, (NIH, [54]), Expander (Tel-Aviv University, [55]), GATHER (Duke University, [56]) and Ontologizer2.0 (Computational Biology Group, [57]). Among these, four SOX members—Sox2, Sox6, Sox9 and Sox11—were up-regulated upon Pax6 deletion. All four are required for nervous system development [33], [34], [58]–[64]. Three of these genes were found to be regulated by Pax6 at the late stages of lens development in situ: Sox2 [24], Sox11 (Figure 3) and Sox9 (Figure S5). The propensity for Pax6 to repress SOX genes in the lens could be a way of silencing competing genetic programs.
+
+In this paper, we focused on the regulatory interaction between Pax6 and Sox11 to determine the mechanism underlying Pax6 inhibitory activity during organ formation. In the eye, Sox11 is required for normal development of both lens and retina [32]. The expression of Sox11 in the lens overlaps with that of Pax6 during the early LP stage but is reduced to below detection levels by in-situ hybridization (ISH) during the lens vesicle stage (E11, not shown). In contrast, Pax6 expression is maintained in the LE through adulthood. This expression pattern supports negative regulation of Sox11 by Pax6 from the lens vesicle stage onward. The similar phenotypes of Sox11 and Pax6 mutants suggest that during early stages of LP formation, Pax6 is a positive regulator of Sox11 [32]. However, our analysis of Sox11 expression in Pax6lacZ/lacZ mutants does not support this notion (Figure S3). The current study provides evidence for inhibition of Sox11 by Pax6, mediated by direct miR-204 repression from the stage at which Trpm3/miR-204 expression begins (Figure 1). We propose that Pax6 initially functions in parallel to Sox11 for growth and morphogenesis of the LP. At later stages, Pax6 is required for the initiation of Trpm3/miR-204 expression in both retinal and lens progenitors. In cells that express miR-204, the regulation of Sox11 by Pax6 becomes inhibitory, contributing to loss of Sox11 expression from the lens fibers (Figure 3 and Figure 6). This is further supported by the observation that over-expression of either Pax6 or miR-204 in medaka, results in reduced expression of Sox11, and that Pax6 inhibition can be rescued by knock-down of miR-204 (Figure 5). Hence, this study reveals a new level of regulatory hierarchy mediated by Pax6 during the acquisition of cell fate.
+
+Combinatorial interactions between miRNAs and TFs have been suggested based on in-silico strategies which identified a prevalent TF-miRNA feed-forward loop in which miRNA and TFs co-regulate target genes, as well as each other [65], [66]. We therefore considered the possibility that Pax6 might negatively regulate Sox11 transcription directly, in addition to repressing expression through miR-204. We did not, however, obtain substantial evidence for this possibility when examining the effects of Pax6 on Sox11 regulatory regions in cell culture (HeLa and 293T cells, D. G., and R. A-P., data not shown). Nevertheless, it is possible that binding sites, other than those tested here, play a role in the regulation of Sox11 by Pax6, and that Pax6 represses Sox11 in the presence of co-factors which are only available in the restricted developmental context of the embryonic lens in vivo.
+
+In the retina, Sox11 exhibits a dynamic pattern of expression. It is expressed in the OV and later in the inner OC. Sox11 levels are lower in RPCs than in post-mitotic neurons in the ganglion cell layer (Figure 3), in accordance with its importance in neurogenic precursors in the CNS along with Sox4 [33], [58]. It is worth noting that while Sox11 is detected in the ganglion cell layer during embryogenesis it is subsequently reduced and is not detected in the postnatal retina (K. G, R. A-P unpublished observation). Pax6 however, is maintained in terminally differentiated ganglion and amacrine cell types. Pax6 may therefore contribute to the down-regulation of Sox11 in neuronal precursors during their terminal differentiation. Pax6 is known to play a dual role in RPCs—down-regulating the cone-rod homeobox gene Crx and maintaining proliferation in the peripheral retina, while maintaining pluripotency of the more central cells of the OC [11], [29]. Therefore, Pax6 regulation of Sox11 during retinogenesis is expected to be part of a larger regulatory network, and may be repressed by miR-204 in only a subset of RPCs.
+
+In conclusion, this study reveals novel involvement of miRNA-based gene repression during lens and retinal development. Pax6, a regulator of multiple processes during eye development, is shown to execute part of its gene regulation through direct activation of miR-204.
+
+Go to:
+Materials and Methods
+Mouse lines
+
+The mouse lines employed in this study have been previously described: Pax6loxP [67], Mlr10-cre [68], αCre [29], Pax6lacz [69]. All animal work was conducted according to national and international guidelines and approved by the Tel Aviv University review board.
+
+Statistical analysis
+
+All data were examined using two-tailed student's t-test unless otherwise stated.
+
+Microarray analysis
+
+Pax6loxP/loxP;Mlr10-cre and Pax6loxP/loxP E14.5 lenses were dissected; 20 lenses from each litter were pooled, resulting in three control (Pax6loxP/loxP) and three Pax6loxP/loxP;Mlr10-cre samples. RNA purification was performed using Qiashredder and RNeasy (Qiagen). Total RNA (300 ng) was used to generate sense-strand cDNA, which was fragmented, biotin-labeled and hybridized to Affymetrix GeneChip 1.0ST microarrays. Microarray analysis was performed using Partek Genomics Suite (Partek Inc., MO, USA; www.partek.com). Differentially expressed genes with P-values lower than 0.05 and with a fold-change cutoff of 1.5 are listed in Table S1.
+
+MiRNA–target enrichment analysis
+
+We calculated the significance of miR-204-target enrichment among the up-regulated genes (fold change >1.5, P-value<0.05, n = 754 genes) using TargetScan Mouse predictions (version 5.2; http://www.targetscan.org/mmu_50/) and the hypergeometric test. The background dataset for the calculation included the differentially expressed genes (fold-change cutoff >1.5 and P-value<0.05, n = 1,013 genes). P-values were corrected using the false discovery rate (FDR) method [70].
+
+Immunofluorescence and ISH on sections
+
+Immunofluorescence analysis was performed on 10-µM paraffin sections or 14-µM frozen sections as described previously [67], using the following primary antibodies: rabbit anti-Pax6 (1[ratio]400, Covance, # prb-278b), rabbit anti-Sox9 (1[ratio]200, Chemicon, ab5535), mouse anti-Elavl3 (1[ratio]200, Invitrogen, A21272) and goat anti-CrystallinαA (1[ratio]1,000, Santa Cruz, sc-22389). Secondary antibodies were conjugated to alexa594 donkey anti rabbit/goat (1[ratio]1000, Invitrogen, A-21207/A-11058) or alexa488 donkey anti mouse/goat (1[ratio]1000, Invitrogen, A-21202/A-11055).
+
+mRNA ISH was performed as described previously [71]. Plasmids for antisense transcription were: Trpm3 [21] and Sox11—kindly donated by Kirsten Kuhlbrodt [72]. For miRNA ISH, hsa-miR-204 miRCURY LNA Detection probe (working concentration 1/150 µM/µl, Exiqon, cat number 88076-15) were hybridized to frozen sections as described previously [73].
+
+EMSA
+
+HEK293T cells were transfected with p3Xflag-CMV-10 conjugated to the first 270 amino acids of Pax6 containing PD and HD binding domains. Nuclear extracts were obtained as previously described [74]. Nuclear extract (1 µl) or 1[ratio]10 diluted nuclear extract was incubated for 10 min on ice in 8.5 mM HEPES pH 7.9, 30 mM KCl, 1.5 mM MgCl2, 0.4 mM DTT and 2 µg polydI/dC (Sigma). Binding with 1 µl double-stranded 5′-γ-ATP-labeled probe (30,000 cpm) was performed at room temperature for 20 minutes and 200 ng of “cold” Pax6 consensus site was used for competition (P6CON; Wolf et al., 2009). EMSA probes are listed in Table S2.
+
+Quantitative ChIP
+
+Groups of 400 pooled newborn lenses were fixed in 1% formaldehyde for 10–15 minutes at room temperature. The cross-linking reaction was quenched with 0.125 M glycine. The tissues were sonicated in 4 ml lysis buffer (1 mM EDTA pH 8, 0.5 mM EGTA pH 8, 10 mM Tris-HCl pH 8) by Fisher Sonic Dismembrator Model 500 for 14 min (30 s on/30 s off, amplification = 30%). Aliquots of the sheared chromatin prepared from 40 lenses were incubated with 5 µg rabbit anti-Pax6 antibody (Millipore, Cat# AB2237, epitope C-terminus) bound to 20 µl protein G-coated magnetic beads (Invitrogen). The immunoprecipitates were washed three times and resuspended in a buffer containing 10 mM Tris–HCl pH 8.0, 100 mM NaCl, and 25 mM EDTA supplemented with 0.1 mg/ml RNaseA and 0.2 mg/ml proteinase K. After 2 h incubation at 55°C, the cross-linking was reversed by overnight incubation at 65°C. Genomic DNA was eluted into 250 µl of water using QIAquick Spin Gel Purification kit (Qiagen).
+
+Amounts of each specific DNA fragment were determined by real-time qPCR using a standard curve generated for each primer set with 0.04, 0.2, and 1% input DNA samples. The copy number of each DNA fragment was compared to the copy number of that fragment in the input DNA. A control antibody (rabbit IgG, Millipore, Cat# NI01) was included for each set of qPCR experiments. The PCR products were between 80 and 130 bp in length. Primers used for PCR are listed in Table S2. The reactions were analyzed using a 7900 ABI PRISM PCR Instrument and 2× SYBR mix (Applied Biosystems). The parameters were: 95°C/10 min followed by 45 cycles of 94°C/10 s, 60°C/20 s and 72°C/30 s.
+
+Immunofluorescence quantification of protein levels
+
+For Sox11 repression by miR-204, Neuro-2a cells (ATCC) were grown on coverslips in 24-well plates for 24 h and then co-transfected with 500 ng of pCAG-GFP expression plasmid and either 500 ng of scrambled-miRVec or miR-204-miRVec expression plasmid containing the pre-miRNA of miR-204 [75]. Cells were fixed for 5 min in 4% (v/v) paraformaldehyde and then immunolabeled as described previously [37] using goat anti-Sox11 (1[ratio]100, Santa Cruz) and rabbit anti-GFP (1[ratio]500, Rockland Immunochemicals). Cell immunofluorescence was measured using ImageJ (NIH) as described previously [24]. Each pCAG-GFP-positive cell (green channel), co-transfected with either miR-204-miRVec or scrambled-miRVec, was measured for Sox11 fluorescence intensity (red channel). The fluorescence level of each transfected cell was divided by the average (red) fluorescence of non-transfected cells in the same field, resulting in a Sox11 index level for each cell calibrated for random image conditions. Sox11 index levels of all miR-204-miRVec-transfected cells were then compared to those of scrambled-miRVec-transfected controls. Fluorescence was measured blindly for the miR-204-miRVec- or scrambled-miRVec-transfected cells. In all measurements, the cells that had a mega-nucleus or multiple neurites were considered differentiated and were therefore not counted.
+
+Teleost sequence analysis and plasmid construction
+
+The available teleost Trpm1 genomic sequences were retrieved (http://genome.ucsc.edu/) and aligned for putative regulatory modules on the basis of sequence conservation [42]. A 1.5-kb region of ol-Trpm1 genomic sequence containing the start codon using the primers: ol-Trpm1 forward 5′-TGTATCATGAGCCGCTAATG-3′ and ol-Trpm1 reverse 5′-GCAGCACCAGGAGAAGGCTC-3′, was cloned in frame with an EGFP reporter gene into the pSKII-ISceI-EGFP and pGL3 basic vectors [76] to create the Trpm1P:GFP and Trpm1:Luc constructs.
+
+Phylogenetic analysis
+
+Sequence alignments were performed using the VISTA [77] and Multalign programs [78], which are available at the corresponding websites: [http://genome.lbl.gov/vista/index.shtml and [http://bioinfo.genopole-toulouse.prd.fr/multalin/multalin.html]. The criterion used for comparison was a minimum 75% nucleotide identity with a window size of over 100 bp. Phylogenetic analysis was performed using the PHYLIP package and the results were plotted using the Tree-view software package as previously described [41]). The syntenic genomic region was analyzed using MultiZ and Medaka Chain/Net package at UCSC (http://genome.ucsc.edu/).
+
+Establishment of transgenic fish lines
+
+The Cab inbred (CI) medaka strain was used throughout this study and aged with Iwamatsu staging [79]. Transgenesis and live EGFP monitoring was performed as described previously [42]. Three independent stable transgenic lines were generated for the tested construct.
+
+mRNA injection of medaka embryos
+
+In-vitro synthesis of mouse Pax6 mRNA (cDNA from [80]) was performed as described previously [76]. Pax6 mRNA was injected at 50–200 ng/µl to observe dose-dependent phenotypes. Selected working concentrations were 75–100 ng/µl. Control embryos were injected with 15 ng/µl of EGFP mRNA [76].
+
+Cell transfection and luciferase assays
+
+For miRNA-repression studies (Figure 3D), a 506-bp fragment of the Sox11 3′ UTR (spanning two miR-204 binding sites) or 484 bp of Elavl3's 3′ UTR was amplified by PCR from mouse brain cDNA and XhoI–NotI restriction sites were added with the following primers: Sox11 (F) 5′-ACACTCGAGCTGTTACTCTAGGGAGTTGA-3′ and (R) 5′-AAGGTCAAGCGGCCGCAAAGGGAAGAAGTGCCTGAA-3; Elavl3 (F) 5′-ACACTCGAGCAATGGTGCCCTACTCAGG-3′ and (R) 5′-AGGTCAAGCGGCCGCTTCCTGTGGCCATGTTTGCT-3′.
+
+The 3′ UTRs were cloned downstream of the Renilla luciferase reporter (psiCHECK™-2, Promega). For site-directed mutation, the miR-204 binding site on the 3′ UTRs (second binding site for Sox11), was mutated by PCR with PfuUltra II Fusion HS DNA Polymerase (Genex). The mutagenesis primers were: Sox11 (F) 5′-TTTGTACAGTGAAAATCTCACAATCTTGCTGTGT-3′; Elavl3 (F) 5′-CTATTTTTGTAAAAACTCCAAAAGACCTCGTGGA-3′ and complementary reverse primers. Products were then incubated with DPN1 (New England BioLabs) for digestion of the source plasmid. Co-transfection of miRVec-miR-204 [75] and the Renilla-3′ UTR plasmid was in HEK293T cells with TransIT-LT1 Transfection Reagent (Mirus). After 48 h, firefly and Renilla luciferase activities were measured using the Dual-Luciferase Reporter Assay System.
+
+Regulation of promoter activity in cell culture (Figure 4K) was performed in HeLa cells. Cells were co-transfected with the construct (100 ng), expression vector pcDNA3/Pax6 (100 ng) and RL-TK plasmid with Renilla luciferase (10 ng) as a transfection-efficiency control. Transfection was performed using Fugene Transfection Reagent (Roche) following the manufacturer's protocol [76]. Cells were harvested 48 h after transfection. Reporter activities were measured using the Dual-Luciferase Reporter Assay System (Promega). Each assay was performed in duplicate, with three biological repeats.
+
+For functional studies of miR-204 in cell culture (Figure 5A, Figure S8) the human lens cell line H36CE (Porter et al. 1998) was transfected and qRT-PCR experiments were performed as described [81]. H36CE cells were transfected with either 50 nM miRIDIAN™ Dharmacon microRNA Mimics (hsa-miR-204 mimic or control cel-miR-67) or 80 nM miRIDIAN™ Dharmacon microRNA Inhibitor (hsa-miR-204 inhibitor or negative control cel-miR-67). Neu-2a cells were transfected using HiPerFect (Qiagen) with hsa-miR-204 mimic (Ambion) or miR negative control (Applied Biosystems) oligonucleotide. The isolation of RNA and qRT-PCR for detection of miR-204 were as previously described [82]. Total cDNA was generated using SuperScript III (Invitrogen) and qRT-PCR was performed with FastStart Universal SYBR Green Master (Roche). Primers used for qRT-PCR are listed in Table S4 and sequences of for functional studies of miR204 are listed in Table S5.
+
+qRT–PCR analysis of gene expression in injected embryos
+
+At least 250 embryos were pooled in each assay. cDNA synthesis was performed using the SuperScript III First-Strand Synthesis System for RT-PCR using random hexamers (Invitrogen). ol-Hprt was used as the endogenous control as previously described [17]. Detection of miR-204 was performed by TaqMan MicroRNA Assays (Applied Biosystems) following the manufacturer's protocol. Each assay was performed in duplicate. Primers used for qRT-PCR are listed in Table S4.
+
+Go to:
+Supporting Information
+Figure S1
+
+Volcano plot demonstrating differences in gene expression between Pax6loxP/loxP;Mrl10-cre and control E14.5 lens. Each of the 1,013 differentially expressed genes is represented by a single dot. P-values are presented as -log10 values, expression differences are presented as log2 fold-changes; 754 transcripts were up-regulated and 259 were down-regulated in the Pax6-depleted E14.5 lens.
+
+(TIF)
+
+Click here for additional data file.(1.7M, tif)
+Figure S2
+
+Trpm3 and miR-204 are co-expressed in the embryonic eye. The expression pattern of Trpm3 (A,B) and miR-204 (C) detected by in-situ hybridization on a sagittal section of E12.5 head (A) and P0 optic cup (B,C). Abbreviation: CP, choroid plexus; IE, inner ear; L, lens; PE, pigmented epithelium.
+
+(TIF)
+
+Click here for additional data file.(11M, tif)
+Figure S3
+
+Reduced expression of Trpm3 and miR-204 in progenitors of iris and CB in Pax6 somatic mutants. Trpm3 (A,B) and miR-204 (C,D) in the inner and outer layers of the developing ciliary body and iris of Pax6loxP/loxP control (A,C) but not in the outer layer of the distal optic cup of Pax6loxP/loxP;Dct-Cre mutants (P5). The outer layer of the optic cup is marked with arrows.
+
+(TIF)
+
+Click here for additional data file.(8.1M, tif)
+Figure S4
+
+The expression of Sox11 is maintain in Pax6 systemic mutants. Sox11 expression detected by in-situ hybridization in control (A,B) and Pax6lacZ/lacZ (C,D) mutant eye on E9.5 (A,C) and E11.5 (B,D). Abbreviations: CE, corneal epithelium; LV, lens vesicle; OC, optic cup; OM, ocular mesenchyme; OR, ocular rudiment; PE, pigmented epithelium.
+
+(TIF)
+
+Click here for additional data file.(9.9M, tif)
+Figure S5
+
+Sox9 is elevated in Pax6 deficient lens. Sox9 detected with antibodies (green) in the Pax6loxP/loxP;Mrl10-Cre (B) but not control Pax6loxP/loxP (A) lens on E14.5.
+
+(TIF)
+
+Click here for additional data file.(3.8M, tif)
+Figure S6
+
+Phylogenetic analysis of the Trpm1 and Trpm3 genes. Phylogenetic tree comparing the amino acid sequences of the Trpm1 and Trpm3 members. Complete or partial protein sequences of all Trpm1 and Trpm3 genes were obtained from the NCBI protein database (Table S4). Genes displaying the greatest sequence similarities cluster together; branch length is proportional to divergence (percentage of amino acid changes). The numbers indicate the bootstrap confidence for each node (n = 1,000).
+
+(TIF)
+
+Click here for additional data file.(957K, tif)
+Figure S7
+
+Comparison of the genomic organization between mouse mm-Trpm3 and medaka ol-Trpm3 loci. (A) Schematic representation of the Trpm3 locus in the mouse genome obtained from the UCSC database. (B) Vista comparison of the mouse genomic region, containing the Trpm3.4 box, plotted against those of human, R. norvegicus, rhesus, dog, and horse. (C) Schematic representation of the Trpm1 locus in the medaka genome obtained from the UCSC database. (D) Vista comparison of the medaka genomic region, containing the Trpm3.4 box, plotted against those of fugu, tetraodon and zebrafish. Sequences conserved among the species (60% identity over 100 bp) are indicated in pink. Evolutionarily convergent genes are indicated with red boxes.
+
+(TIF)
+
+Click here for additional data file.(3.2M, tif)
+Figure S8
+
+Elavl3 is regulated by miR-204 in Neu-2a cells. (A) Neu-2a cells transfected with miR-204 mimic or scrambled miRNA as a control. Elavl3, Sox11 and Myo10 were significantly down-regulated to 77%, 86% and 84%, respectively. Error bars represent SEM (*P<0.01, n = 7). (B) Relative luciferase luminescence in HEK293T cells transfected with wild-type Elavl3 3′ UTR, or mutated Elavl3 3′ UTR co-transfected with a plasmid containing the pre-miR-204. Error bars represent SEM (P<0.0005; n = 3). Below is the alignment of the miR-204 RNA sequence, wild-type Elavl3 3′ UTR and mutated Elavl3 3′ UTR. (C) Elavl3 immunofluorescence of E14.5 control (D) and Pax6loxP/loxP;Mlr10-cre mutant lens. White arrowheads mark expanded equatorial region. Scale bar = 100 µM.
+
+(TIF)
+
+Click here for additional data file.(2.2M, tif)
+Table S1
+
+The list of 1,013 differentially expressed genes following Pax6 loss. The transcriptom of the Pax6loxP/loxP;Mlr10-cre E14.5 lenses was compared with that of control Pax6loxP/loxP using the Affymetrix platform. The analysis was performed using Partek Genomics Suite. Differentially expressed genes with P-values lower than 0.05 and with a fold-change cutoff of 1.5 are listed.
+
+(DOCX)
+
+Click here for additional data file.(66K, docx)
+Table S2
+
+List of oligonucleotide probes used for ChIP and EMSA.
+
+(DOCX)
+
+Click here for additional data file.(15K, docx)
+Table S3
+
+Selection of putative Pax6 binding sites. Identification of putative Pax6 binding sites within the genomic region which is bound by Pax6 based on ChIP assay (mm9- chr19:22,524,578- Chr19:22,525,126). The putative Pax6 binding motifs were selected based on the sites identified using SELEX assay (Xie and Cvekl 2011, Epstein et al., 1994). The sites with up to 3 mismatches compared to the motifs were selected using fuzznuc program (http://mobyle.pasteur.fr/cgi-bin/portal.py?#forms::fuzznuc). The patterns and number of mismatch that were identified for each of the putative binding sequences are presented.
+
+(DOCX)
+
+Click here for additional data file.(17K, docx)
+Table S4
+
+Primers used for detection of transcript levels of specific genes using q-PCR.
+
+(DOCX)
+
+Click here for additional data file.(16K, docx)
+Table S5
+
+Sequences employed for functional studies of miR-204 in cell culture and in fish embryos.
+
+(DOCX)
+
+Click here for additional data file.(14K, docx)
+Table S6
+
+The protein sequences of the Trpm1 and Trpm3 orthologues from various species for phylogenetic analysis of the Trpm1 and Trpm3 genes (Figure S6).
+
+(DOCX)
+
+Click here for additional data file.(33K, docx)
+Go to:
+Acknowledgments
+We are grateful to Michael L. Robinson for the Mlr10-cre mice, Till Marquardt for the α-Cre mice, Luc St-Onge for the Pax6lacZ mice, Peter Gruss in whose laboratory the Pax6loxP,α-Cre and Pax6lacZ were established, and we thank F. Salierno (TIGEM) for technical support.
+
+Go to:
+Funding Statement
+Research in RA-P's laboratory is supported by the Israeli Ministry of Science (grant 36494), the Ziegler Foundation, the Binational Science Foundation, the German Israeli Foundation, the Israeli Ministry of Health, Israel Science Foundation (610/10), Israel Science Foundation-Morasha (1372/11), Ministry of Science and Technology Israel, and the Ministry of Foreign Affairs Italy. Research in IC's laboratory is supported by the Italian Telethon Foundation. Research in AC's laboratory is supported by NIH R01 EY012200 and unrestricted grant to the Department of Ophthalmology and Visual Sciences from RPB, Inc. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Go to:
+References
+1. Osumi N, Shinohara H, Numayama-Tsuruta K, Maekawa M (2008) Concise review: Pax6 transcription factor contributes to both embryonic and adult neurogenesis as a multifunctional regulator. Stem Cells 26: 1663–1672 [PubMed]
+2. Shaham O, Menuchin Y, Farhy C, Ashery-Padan R (2012) Pax6: A multi-level regulator of ocular development. Prog Retin Eye Res 31: 351–376 [PubMed]
+3. Gehring WJ (1996) The master control gene for morphogenesis and evolution of the eye. Genes Cells 1: 11–15 [PubMed]
+4. Cvekl A, Yang Y, Chauhan BK, Cveklova K (2004) Regulation of gene expression by Pax6 in ocular cells: a case of tissue-preferred expression of crystallins in lens. Int J Dev Biol 48: 829–844 [PMC free article] [PubMed]
+5. Czerny T, Busslinger M (1995) DNA-binding and transactivation properties of Pax-6: three amino acids in the paired domain are responsible for the different sequence recognition of Pax-6 and BSAP (Pax-5). Mol Cell Biol 15: 2858–2871 [PMC free article] [PubMed]
+6. Epstein JA, Glaser T, Cai J, Jepeal L, Walton DS, et al. (1994) Two independent and interactive DNA-binding subdomains of the Pax6 paired domain are regulated by alternative splicing. Genes Dev 8: 2022–2034 [PubMed]
+7. He S, Pirity MK, Wang WL, Wolf L, Chauhan BK, et al. (2010) Chromatin remodeling enzyme Brg1 is required for mouse lens fiber cell terminal differentiation and its denucleation. Epigenetics Chromatin 3: 21. [PMC free article] [PubMed]
+8. Yang Y, Stopka T, Golestaneh N, Wang Y, Wu K, et al. (2006) Regulation of alphaA-crystallin via Pax6, c-Maf, CREB and a broad domain of lens-specific chromatin. Embo J 25: 2107–2118 [PMC free article] [PubMed]
+9. Duncan MK, Haynes JI 2nd, Cvekl A, Piatigorsky J (1998) Dual roles for Pax-6: a transcriptional repressor of lens fiber cell-specific beta-crystallin genes. Mol Cell Biol 18: 5579–5586 [PMC free article] [PubMed]
+10. Yang Y, Chauhan BK, Cveklova K, Cvekl A (2004) Transcriptional regulation of mouse alphaB- and gammaF-crystallin genes in lens: opposite promoter-specific interactions between Pax6 and large Maf transcription factors. J Mol Biol 344: 351–368 [PubMed]
+11. Oron-Karni V, Farhy C, Elgart M, Marquardt T, Remizova L, et al. (2008) Dual requirement for Pax6 in retinal progenitor cells. Development 135: 4037–4047 [PubMed]
+12. Lewis BP, Burge CB, Bartel DP (2005) Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets. Cell 120: 15–20 [PubMed]
+13. Grishok A, Pasquinelli AE, Conte D, Li N, Parrish S, et al. (2001) Genes and mechanisms related to RNA interference regulate expression of the small temporal RNAs that control C. elegans developmental timing. Cell 106: 23–34 [PubMed]
+14. Li Y, Piatigorsky J (2009) Targeted deletion of Dicer disrupts lens morphogenesis, corneal epithelium stratification, and whole eye development. Dev Dyn 238: 2388–2400 [PMC free article] [PubMed]
+15. Georgi SA, Reh TA (2010) Dicer is required for the transition from early to late progenitor state in the developing mouse retina. J Neurosci 30: 4048–4061 [PMC free article] [PubMed]
+16. Davis N, Mor E, Ashery-Padan R (2011) Roles for Dicer1 in the patterning and differentiation of the optic cup neuroepithelium. Development 138: 127–138 [PubMed]
+17. Conte I, Carrella S, Avellino R, Karali M, Marco-Ferreres R, et al. (2010) miR-204 is required for lens and retinal development via Meis2 targeting. Proc Natl Acad Sci U S A 107: 15491–15496 [PMC free article] [PubMed]
+18. Wang FE, Zhang C, Maminishkis A, Dong L, Zhi C, et al. (2010) MicroRNA-204/211 alters epithelial physiology. Faseb J 24: 1552–1571 [PMC free article] [PubMed]
+19. Adijanto J, Castorino JJ, Wang ZX, Maminishkis A, Grunwald GB, et al. (2012) Microphthalmia-associated transcription factor (MITF) promotes differentiation of human retinal pigment epithelium (RPE) by regulating microRNA-204/211 expression. J Biol Chem 287: 20491–20503 [PMC free article] [PubMed]
+20. Grimm C, Kraft R, Sauerbruch S, Schultz G, Harteneck C (2003) Molecular and functional characterization of the melastatin-related cation channel TRPM3. J Biol Chem 278: 21493–21501 [PubMed]
+21. Karali M, Peluso I, Marigo V, Banfi S (2007) Identification and characterization of microRNAs expressed in the mouse eye. Invest Ophthalmol Vis Sci 48: 509–515 [PubMed]
+22. Deo M, Yu JY, Chung KH, Tippens M, Turner DL (2006) Detection of mammalian microRNA expression by in situ hybridization with RNA oligonucleotides. Dev Dyn 235: 2538–2548 [PubMed]
+23. Ryan DG, Oliveira-Fernandes M, Lavker RM (2006) MicroRNAs of the mammalian eye display distinct and overlapping tissue specificity. Mol Vis 12: 1175–1184 [PubMed]
+24. Shaham O, Smith AN, Robinson ML, Taketo MM, Lang RA, et al. (2009) Pax6 is essential for lens fiber cell differentiation. Development 136: 2567–2578 [PMC free article] [PubMed]
+25. Sansom SN, Griffiths DS, Faedo A, Kleinjan DJ, Ruan Y, et al. (2009) The level of the transcription factor Pax6 is essential for controlling the balance between neural stem cell self-renewal and neurogenesis. PLoS Genet 5: e1000511.doi:10.1371/journal.pgen.1000511 [PMC free article] [PubMed]
+26. Wagner TF, Loch S, Lambert S, Straub I, Mannebach S, et al. (2008) Transient receptor potential M3 channels are ionotropic steroid receptors in pancreatic beta cells. Nat Cell Biol 10: 1421–1430 [PubMed]
+27. Vriens J, Owsianik G, Hofmann T, Philipp SE, Stab J, et al. (2011) TRPM3 is a nociceptor channel involved in the detection of noxious heat. Neuron 70: 482–494 [PubMed]
+28. Grindley JC, Davidson DR, Hill RE (1995) The role of Pax-6 in eye and nasal development. Development 121: 1433–1442 [PubMed]
+29. Marquardt T, Ashery-Padan R, Andrejewski N, Scardigli R, Guillemot F, et al. (2001) Pax6 is required for the multipotent state of retinal progenitor cells. Cell 105: 43–55 [PubMed]
+30. Xie Q, Cvekl A (2011) The orchestration of mammalian tissue morphogenesis through a series of coherent feed forward loops. J Biol Chem 286: 43259–43271 [PMC free article] [PubMed]
+31. Wolf LV, Yang Y, Wang J, Xie Q, Braunger B, et al. (2009) Identification of pax6-dependent gene regulatory networks in the mouse lens. PLoS ONE 4: e4159.doi:10.1371/journal.pone.0004159 [PMC free article] [PubMed]
+32. Wurm A, Sock E, Fuchshofer R, Wegner M, Tamm ER (2008) Anterior segment dysgenesis in the eyes of mice deficient for the high-mobility-group transcription factor Sox11. Exp Eye Res 86: 895–907 [PubMed]
+33. Bergsland M, Werme M, Malewicz M, Perlmann T, Muhr J (2006) The establishment of neuronal properties is controlled by Sox4 and Sox11. Genes Dev 20: 3475–3486 [PMC free article] [PubMed]
+34. Haslinger A, Schwarz TJ, Covic M, Chichung Lie D (2009) Expression of Sox11 in adult neurogenic niches suggests a stage-specific role in adult neurogenesis. Eur J Neurosci 29: 2103–2114 [PubMed]
+35. Penzo-Mendez AI (2010) Critical roles for SoxC transcription factors in development and cancer. Int J Biochem Cell Biol 42: 425–428 [PMC free article] [PubMed]
+36. Bhattaram P, Penzo-Mendez A, Sock E, Colmenares C, Kaneko KJ, et al. (2010) Organogenesis relies on SoxC transcription factors for the survival of neural and mesenchymal progenitors. Nat Commun 1: 9. [PMC free article] [PubMed]
+37. Jankowski MP, Cornuet PK, McIlwrath S, Koerber HR, Albers KM (2006) SRY-box containing gene 11 (Sox11) transcription factor is required for neuron survival and neurite growth. Neuroscience 143: 501–514 [PMC free article] [PubMed]
+38. Nielsen CB, Shomron N, Sandberg R, Hornstein E, Kitzman J, et al. (2007) Determinants of targeting by endogenous and exogenous microRNAs and siRNAs. Rna 13: 1894–1910 [PMC free article] [PubMed]
+39. Sock E, Rettig SD, Enderich J, Bosl MR, Tamm ER, et al. (2004) Gene targeting reveals a widespread role for the high-mobility-group transcription factor Sox11 in tissue remodeling. Mol Cell Biol 24: 6635–6644 [PMC free article] [PubMed]
+40. Ravi V, Venkatesh B (2008) Rapidly evolving fish genomes and teleost diversity. Curr Opin Genet Dev 18: 544–550 [PubMed]
+41. Esteve P, Lopez-Rios J, Bovolenta P (2004) SFRP1 is required for the proper establishment of the eye field in the medaka fish. Mech Dev 121: 687–701 [PubMed]
+42. Conte I, Bovolenta P (2007) Comprehensive characterization of the cis-regulatory code responsible for the spatio-temporal expression of olSix3.2 in the developing medaka forebrain. Genome Biol 8: R137. [PMC free article] [PubMed]
+43. Bitel CL, Perrone-Bizzozero NI, Frederikse PH (2010) HuB/C/D, nPTB, REST4, and miR-124 regulators of neuronal cell identity are also utilized in the lens. Mol Vis 16: 2301–2316 [PMC free article] [PubMed]
+44. Lovicu FJ, Schulz MW, Hales AM, Vincent LN, Overbeek PA, et al. (2002) TGFbeta induces morphological and molecular changes similar to human anterior subcapsular cataract. Br J Ophthalmol 86: 220–226 [PMC free article] [PubMed]
+45. de Iongh RU, Wederell E, Lovicu FJ, McAvoy JW (2005) Transforming growth factor-beta-induced epithelial-mesenchymal transition in the lens: a model for cataract formation. Cells Tissues Organs 179: 43–55 [PubMed]
+46. Lovicu FJ, Ang S, Chorazyczewska M, McAvoy JW (2004) Deregulation of lens epithelial cell proliferation and differentiation during the development of TGFbeta-induced anterior subcapsular cataract. Dev Neurosci 26: 446–455 [PubMed]
+47. Hoffmann A, Huang Y, Suetsugu-Maki R, Ringelberg CS, Tomlinson CR, et al. (2012) Implication of the miR-184 and miR-204 competitive RNA network in control of mouse secondary cataract. Mol Med 18: 528–538 [PMC free article] [PubMed]
+48. Sousa AD, Berg JS, Robertson BW, Meeker RB, Cheney RE (2006) Myo10 in brain: developmental regulation, identification of a headless isoform and dynamics in neurons. J Cell Sci 119: 184–194 [PubMed]
+49. Brinckmann J, Hunzelmann N, Kahle B, Rohwedel J, Kramer J, et al. (2010) Enhanced fibrillin-2 expression is a general feature of wound healing and sclerosis: potential alteration of cell attachment and storage of TGF-beta. Lab Invest 90: 739–752 [PubMed]
+50. Lloyd SE, Maytham EG, Grizenkova J, Hummerich H, Collinge J (2010) A Copine family member, Cpne8, is a candidate quantitative trait gene for prion disease incubation time in mouse. Neurogenetics 11: 185–191 [PMC free article] [PubMed]
+51. Kang P, Lee HK, Glasgow SM, Finley M, Donti T, et al. (2012) Sox9 and NFIA coordinate a transcriptional regulatory cascade during the initiation of gliogenesis. Neuron 74: 79–94 [PMC free article] [PubMed]
+52. Zhang X, Friedman A, Heaney S, Purcell P, Maas RL (2002) Meis homeoproteins directly regulate Pax6 during vertebrate lens morphogenesis. Genes Dev 16: 2097–2107 [PMC free article] [PubMed]
+53. Heine P, Dohle E, Bumsted-O'Brien K, Engelkamp D, Schulte D (2008) Evidence for an evolutionary conserved role of homothorax/Meis1/2 during vertebrate retina development. Development 135: 805–811 [PubMed]
+54. Huang da W, Sherman BT, Lempicki RA (2009) Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat Protoc 4: 44–57 [PubMed]
+55. Shamir R, Maron-Katz A, Tanay A, Linhart C, Steinfeld I, et al. (2005) EXPANDER–an integrative program suite for microarray data analysis. BMC Bioinformatics 6: 232. [PMC free article] [PubMed]
+56. Chang JT, Nevins JR (2006) GATHER: a systems approach to interpreting genomic signatures. Bioinformatics 22: 2926–2933 [PubMed]
+57. Bauer S, Grossmann S, Vingron M, Robinson PN (2008) Ontologizer 2.0–a multifunctional tool for GO term enrichment analysis and data exploration. Bioinformatics 24: 1650–1651 [PubMed]
+58. Bergsland M, Ramskold D, Zaouter C, Klum S, Sandberg R, et al. (2011) Sequentially acting Sox transcription factors in neural lineage development. Genes Dev 25: 2453–2464 [PMC free article] [PubMed]
+59. Episkopou V (2005) SOX2 functions in adult neural stem cells. Trends Neurosci 28: 219–221 [PubMed]
+60. Graham V, Khudyakov J, Ellis P, Pevny L (2003) SOX2 functions to maintain neural progenitor identity. Neuron 39: 749–765 [PubMed]
+61. Hamada-Kanazawa M, Ishikawa K, Ogawa D, Kanai M, Kawai Y, et al. (2004) Suppression of Sox6 in P19 cells leads to failure of neuronal differentiation by retinoic acid and induces retinoic acid-dependent apoptosis. FEBS Lett 577: 60–66 [PubMed]
+62. Poche RA, Raven MA, Kwan KM, Furuta Y, Behringer RR, et al. (2008) Somal positioning and dendritic growth of horizontal cells are regulated by interactions with homotypic neighbors. Eur J Neurosci 27: 1607–1614 [PMC free article] [PubMed]
+63. Sasai Y (2001) Roles of Sox factors in neural determination: conserved signaling in evolution? Int J Dev Biol 45: 321–326 [PubMed]
+64. Yokoi H, Yan YL, Miller MR, BreMiller RA, Catchen JM, et al. (2009) Expression profiling of zebrafish sox9 mutants reveals that Sox9 is required for retinal differentiation. Developmental biology 329: 1–15 [PMC free article] [PubMed]
+65. Shalgi R, Lieber D, Oren M, Pilpel Y (2007) Global and local architecture of the mammalian microRNA-transcription factor regulatory network. PLoS Comput Biol 3: e131.doi:10.1371/journal.pcbi.0030131 [PMC free article] [PubMed]
+66. Zhou Q, Melton DA (2008) Extreme makeover: converting one cell into another. Cell Stem Cell 3: 382–388 [PubMed]
+67. Ashery-Padan R, Marquardt T, Zhou X, Gruss P (2000) Pax6 activity in the lens primordium is required for lens formation and for correct placement of a single retina in the eye. Genes Dev 14: 2701–2711 [PMC free article] [PubMed]
+68. Zhao H, Yang Y, Rizo CM, Overbeek PA, Robinson ML (2004) Insertion of a Pax6 consensus binding site into the alphaA-crystallin promoter acts as a lens epithelial cell enhancer in transgenic mice. Invest Ophthalmol Vis Sci 45: 1930–1939 [PubMed]
+69. St-Onge L, Sosa-Pineda B, Chowdhury K, Mansouri A, Gruss P (1997) Pax6 is required for differentiation of glucagon-producing alpha-cells in mouse pancreas. Nature 387: 406–409 [PubMed]
+70. Benjamini Y, Drai D, Elmer G, Kafkafi N, Golani I (2001) Controlling the false discovery rate in behavior genetics research. Behav Brain Res 125: 279–284 [PubMed]
+71. Yaron O, Farhy C, Marquardt T, Applebury M, Ashery-Padan R (2006) Notch1 functions to suppress cone-photoreceptor fate specification in the developing mouse retina. Development 133: 1367–1378 [PubMed]
+72. Kuhlbrodt K, Herbarth B, Sock E, Enderich J, Hermans-Borgmeyer I, et al. (1998) Cooperative function of POU proteins and SOX proteins in glial cells. J Biol Chem 273: 16050–16057 [PubMed]
+73. Xu S, Witmer PD, Lumayag S, Kovacs B, Valle D (2007) MicroRNA (miRNA) transcriptome of mouse retina and identification of a sensory organ-specific miRNA cluster. J Biol Chem 282: 25053–25066 [PubMed]
+74. Hay-Koren A, Caspi M, Zilberberg A, Rosin-Arbesfeld R (2011) The EDD E3 ubiquitin ligase ubiquitinates and up-regulates beta-catenin. Mol Biol Cell 22: 399–411 [PMC free article] [PubMed]
+75. Voorhoeve PM, le Sage C, Schrier M, Gillis AJ, Stoop H, et al. (2006) A genetic screen implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell tumors. Cell 124: 1169–1181 [PubMed]
+76. Conte I, Marco-Ferreres R, Beccari L, Cisneros E, Ruiz JM, et al. (2010) Proper differentiation of photoreceptors and amacrine cells depends on a regulatory loop between NeuroD and Six6. Development 137: 2307–2317 [PubMed]
+77. Frazer KA, Pachter L, Poliakov A, Rubin EM, Dubchak I (2004) VISTA: computational tools for comparative genomics. Nucleic Acids Res 32: W273–279 [PMC free article] [PubMed]
+78. Corpet F (1988) Multiple sequence alignment with hierarchical clustering. Nucleic Acids Res 16: 10881–10890 [PMC free article] [PubMed]
+79. Iwamatsu T (2004) Stages of normal development in the medaka Oryzias latipes. Mech Dev 121: 605–618 [PubMed]
+80. Mui SH, Kim JW, Lemke G, Bertuzzi S (2005) Vax genes ventralize the embryonic eye. Genes Dev 19: 1249–1259 [PMC free article] [PubMed]
+81. Gennarino VA, Sardiello M, Avellino R, Meola N, Maselli V, et al. (2009) MicroRNA target prediction by expression analysis of host genes. Genome Res 19: 481–490 [PMC free article] [PubMed]
+82. Levy C, Khaled M, Iliopoulos D, Janas MM, Schubert S, et al. (2010) Intronic miR-211 Assumes the Tumor Suppressive Function of Its Host Gene in Melanoma. Mol Cell [PMC free article] [PubMed]

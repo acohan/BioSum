@@ -1,0 +1,247 @@
+Upregulation of MiR-155 in Nasopharyngeal Carcinoma is Partly Driven by LMP1 and LMP2A and Downregulates a Negative Prognostic Marker JMJD1A
+Zi-Ming Du,1,2 Li-Fu Hu,2 Hai-Yun Wang,1 Li-Xu Yan,1 Yi-Xin Zeng,1 Jian-Yong Shao,1,2,* and Ingemar Ernberg2,*
+Maria G. Masucci, Editor
+Author information ► Article notes ► Copyright and License information ►
+This article has been cited by other articles in PMC.
+Go to:
+Abstract
+The role of microRNA-155 (miR-155) has been associated with oncogenesis of several human tumors. However the expression pattern of miR-155 has not been investigated in nasopharyngeal carcinoma (NPC). The present study was to assess miR-155 expression pattern and its possible function in NPC, to identify its targets and evaluate their clinical applications in NPC. MiR-155 was found to be upregulated in two Epstein-Barr virus (EBV) negative NPC derived cell lines CNE1 and TW03, as well as in NPC clinical samples by quantitative Real-time PCR and in situ hybridization detection. EBV encoded LMP1 and LMP2A could further enhance the expression of miR-155 in NPC CNE1 and TW03 cells. JMJD1A and BACH1 were identified as putative targets of miR-155 in a bioinformatics screen. Overexpression of miR-155 downregulated a luciferase transcript fused to the 3′UTR of JMJD1A and BACH1. MiR-155 mimic could downregulate the expression of JMJD1A and BACH1, while miR-155 inhibitor could upregulate JMJD1A expression in NPC cell lines. Moreover, downregulation of JMJD1A was significantly correlated with N stage in TNM classification (p = 0.023), a lower five-year survival rate (p = 0.021), and a lower five-year disease-free survival rate (p = 0.049) of NPC patients. Taken together, up-regulation of miR-155 in NPC is partly driven by LMP1 and LMP2A, and results in downregulation of JMJD1A, which is associated with N stage and poor prognosis of NPC patients. The potential of miR-155 and JMJD1A as therapeutic targets in NPC should be further investigated.
+
+Go to:
+Introduction
+Nasopharyngeal carcinoma (NPC) is one of the most common malignancies in certain areas of South-China, Southeast-Asia and North Africa [1]. Epstein-Barr virus (EBV) infection, genetic alterations and other environmental factors have been reported to be associated with risk for NPC [2], [3]. NPC has a dominant clinicopathological behavior of loco-regional recurrence and metastasis, which differs from other types of head and neck cancers [4]. Although NPC tumors are sensitive to radiotherapy and chemotherapy, treatment failure is high due to regional lymph node metastasis, distant metastasis and local recurrence [5]. However, the pathogenesis of NPC is still unclear.
+
+MicroRNAs are an abundant class of non-coding RNAs, typically 20–23 nucleotides in length, which often are evolutionarily conserved in metazoans and expressed in a cell and tissue specific manner. MicroRNAs exert their gene regulatory activity primarily by imperfect base pairing to the 3′ UTR of their target mRNAs, leading to mRNA degradation or translational inhibition. They are involved in numerous cellular processes including proliferation, differentiation, apoptosis and metabolism [6]. MicroRNA-155 (MiR-155) is a microRNA involved in different biological processes including haematopoiesis, inflammation and immunity. Deregulation of miR-155 has been found to be associated with different kinds of cancer, cardiovascular diseases and viral infections [7]. EBV can induce miR-155 expression in B cells resulting in modulation of EBV-regulated gene expression, including attenuation of NF-kappaB signaling [8], [9], [10].
+
+Jumonji Domain 1A (JMJD1A), which is also known as KDM3A (lysine (K)-specific demethylase 3A) plays a role in stem cell differentiation and spermatogenesis and as a cofactor of the androgen receptor and is upregulated by HIF-1 (Hypoxia-inducible factor 1) in hypoxia [11], [12], [13]. BTB and CNC homology 1 (BACH1) is a transcription factor that belongs to the cap'n'collar type of basic region leucine zipper factor family (CNC-bZip) [14]. BACH1 is a recognized hypoxic regulator and functions as an inducible repressor for the HO-1 (Heme oxygenase 1) gene in several human cell types [15]. In addition, BACH1 has been identified as miR-155's direct target in many studies [8], [16], [17].
+
+Due to its proposed role in cancer and its dependence on EBV, we assessed miR-155 expression pattern in NPC, identified its direct targets and evaluated their clinical application in NPC. Here we provide evidence that miR155 is upregulated in NPC, further enhanced by EBV encoded latent membrane protein 1 (LMP1) and latent membrane protein 2A (LMP2A). This results in downregulation of JMJD1A, which is associated with N stage and poor prognosis of NPC patients.
+
+Go to:
+Results
+MiR-155 is upregulated in NPC
+
+In situ hybridization was performed to evaluate miR-155 expression in NPC tumor cells and normal nasopharyngeal epithelium. Strong expression of miR-155 was observed in NPC tumor cells, while weak expression was observed in normal adjacent nasopharyngeal epithelium (Fig. 1A). MiR-155 expression was also significantly upregulated in two EBV negative NPC-derived cell lines CNE1 and TW03, compared to NP69 cells from normal nasopharyngeal epithelium (Fig. 1B).
+
+Figure 1
+Figure 1
+miR-155 was upregulated in NPC and further enhanced by LMP1 and LMP2A.
+EBV LMP1 and LMP2A further enhance miR-155 expression in NPC
+
+In order to investigate whether EBV encoded LMP1 and LMP2A could influence miRNAs expression in NPC, miRNAs microarray was employed to analyze the differential miRNAs induced by LMP1 and LMP2A in NPC TW03 cells. We found that LMP1 could induce the expression of several miRNAs such as miR-155, miR-188, miR-181b while other cellular miRNAs such as miR-103, miR-107 were downregulated. LMP2A also induced the expression of a variety of cellular miRNAs such as miR-155, miR-188, miR-181b while some other cellular miRNAs such as miR-125b were downregulated (Table 1).
+
+Table 1
+Table 1
+The differential miRNAs induced by LMP1 and LMP2A in NPC TW03 cells with miRNAs microarray screening.
+The miRNA microarray was next validated by qPCR. According to our miRNA microarray data, we chose miR-155, which was upregulated by LMP1 and LMP2A in TW03 cells; miR-200c, which was downregulated by LMP1 and LMP2A in TW03 cells, and miR-146a, which was unaffected by LMP1 and LMP2A transfection of TW03 cells. The miRNA array data and qPCR results correlated well (Fig S1).
+
+Moreover, two CNE1LMP1 stable transfected clones (CNE1LMP1-12 and CNE1LMP1-18), one TW03LMP1 stable transfected clone (TW03LMP1), two CNE1LMP2A stable transfected clones (CNE1LMP2A-14 and CNE1LMP2A-3) and one TW03LMP2A stable transfected clone (TW03LMP2A) were used to validate the role of LMP1 and LMP2A on miR-155 (Fig. 1C and 1D). Compared with vector control, miR-155 expression was increased in two CNE1LMP1 clones and in one TW03LMP1 clone (Fig. 1E). LMP2A induced miR-155 expression in two CNE1LMP2A clones and in one TW03LMP2A clone (Fig. 1F).
+
+The prediction of putative targets of miR-155
+
+Four algorithms, miRanda (http://www.microrna.org/miranda.html) [18], TargetScan (http://genes.mit.edu/targetscan) [19], PicTar (http://pictar.bio.nyu.edu) [20] and miRBase (http://microrna.sanger.ac.uk/targets/v2) [21] were used to predict putative targets of miR-155 respectively. Forty-seven common targets which were predicted by at least 3 algorithms were indentified (Table S1). Of these, BACH1 (Fig. 2A) and JMJD1A (Fig. 2B), which have several miR-155 target sites in their 3′UTR region, were selected for further validation.
+
+Figure 2
+Figure 2
+Both JMJD1A and BACH1 were the direct targets of miR-155.
+JMJD1A and BACH1 are direct target genes of miR-155
+
+To test whether JMJD1A and BACH1 responds to miR-155 through direct 3′UTR interactions, we cloned the 3′UTR of JMJD1A and BACH1 into a reporter plasmid downstream of luciferase. The luciferase reporter assays were performed by transiently transfecting HEK 293T cells respectively, with pMIR-report-JMJD1A 3′UTR, or pMIR-report-BACH1 3′UTR, or pMIR-report-vector (control), together with miR155 mimic (Ambion, USA) or mimic control and pCMV-Renilla (internal control). After 48 hr transfection, a dual-luciferase reporter assay system (Promega, USA) was used to detect luciferase expression. We found that upregulation of miR-155 resulted in downregulation of luciferase fused to the JMJD1A and BACH1 3′UTR in HEK 293T cells. This shows that miR-155 directly targets the JMJD1A and BACH1 3′UTR leading to decreased expression (Fig. 2C).
+
+To determine whether miR-155 could repress endogenous JMJD1A and BACH1, NP69 cells was transfected with miR155 mimic (100 nM) or with a negative control (100 nM) respectively (Fig. 3A). After 48 hr transfection, cells were collected for Western blot assay of JMJD1A and BACH1. Densitometry analysis showed that both JMJD1A and BACH1 expression were decreased by miR155 mimic in NP69 cells (Fig. 3B).
+
+Figure 3
+Figure 3
+Both JMJD1A and BACH1 expression were regulated by miR-155.
+For further validation, CNE1 and TW03 cells were transfected with miR155 mimic (100 nM), miR155 inhibitor (100 nM) or a negative control (100 nM) respectively (Fig. 3C). After 48 hr transfection, cells were collected for Western blot assay of JMJD1A. Densitometry analysis showed that JMJD1A expression was decreased by miR155 overexpression in CNE1 and TW03 cells, while JMJD1A expression was increased by inhibition of miR155 (Fig. 3D).
+
+JMJD1A and BACH1 are downregulated in NPC
+
+To check the expression level of JMJD1A and BACH1 in NPC, qPCR was carried out to detect the expression of JMJD1A and BACH1 mRNA in CNE1, TW03 and NP69 cells. Compared with NP69 cells, the mRNA level of JMJD1A and BACH1 in CNE1, TW03 was significantly lower (Fig. 4A). Western blot showed that the protein level of JMJD1A and BACH1 in CNE1, TW03 was also significantly lower, compared to NP69 cells (Fig. 4B). Immunostaining was performed to evaluate the expression of JMJD1A and BACH1 in NPC tumor cells and adjacent normal nasopharyngeal epithelium. Weak expression of JMJD1A and BACH1 were observed in nuclear of NPC tumor cells, while strong expression of JMJD1A and BACH1 were observed in normal adjacent nasopharyngeal epithelium (Fig. 4C and 4D).
+
+Figure 4
+Figure 4
+JMJD1A and BACH1 were downregulated in NPC.
+Downregulation of JMJD1A predicts poor survival in NPC
+
+The expression of JMJD1A and BACH1 was detected by immunostaining in 185 NPC cases. Low expression of JMJD1A was observed in 113 (61.08%), and was associated significantly with N-stage (p = 0.023). No significant association was seen between JMJD1A expression and age, gender, T stage, TNM stage, recurrence or metastasis. In addition, no significant association was seen between BACH1 expression and age, gender, T stage, N stage, TNM stage, recurrence or metastasis (Table 2).
+
+Table 2
+Table 2
+Correlation between JMJD1A and BACH1 expression and clinicopathological parameters of NPC.
+Overall survival analysis and disease-free survival analysis was then performed (Fig. 5A and 5D). The five-year overall survival rate was 61.3% for patients with low JMJD1A expression (n = 113), and 77.2% for patients with high JMJD1A expression (n = 72), which was a significant difference (p = 0.021, Fig. 5B). The five-year overall survival rate was 66.8% for patients with low BACH1 expression (n = 94), and 68.2% for patients with high BACH1 expression (n = 91), which was no significant difference (p = 0.759, Fig. 5C). Furthermore, the five-year disease-free survival rate was 57.0% for NPC patients with low levels of JMJD1A expression (n = 113), and 68.7% for those with high levels of JMJD1A expression (n = 72), and this difference in the disease-free survival rate was significant (p = 0.049, Fig. 5E). No significant difference was seen in the disease-free survival rate of NPC patients, with or without BACH1 overexpression (p = 0.895, Fig. 5F).
+
+Figure 5
+Figure 5
+Kaplan-Meier curves for overall survival and disease-free survival of the 185 NPC patients.
+Go to:
+Discussion
+MiR-155 is upregulated in several human tumors, such as chronic lymphocytic leukemia [22], melanoma [23], head and neck squamous cell carcinoma [24], clear-cell kidney cancer [25], hepatocellular carcinoma [26], lymphoma [27], [28], [29], [30], [31], thyroid carcinoma [32], breast cancer [33], [34], [35], [36], colon cancer [33], cervical cancer [37], pancreatic cancer [38], [39], [40], and lung cancer [41], [42]. Furthermore, elevated expression of miR-155 was associated with poor prognosis of pancreatic cancer [38] and lung cancer [41], [42]. Recently, Chen et al used a stem-loop real-time-PCR method to quantify the expression levels of 270 human miRNAs in 13 NPC samples and 9 adjacent normal tissues. They identified 35 miRNAs whose expression levels were significantly altered in NPC samples, including upregulation of miR-155 [43]. In the present study, we report that miR-155 is overexpressed in NPC. Hence, our results were consistent with previous studies of miR-155 often being upregulated in other malignancies.
+
+Several studies have demonstrated that EBV could induce miR-155 expression in B cells and cell lines which in turn modulates EBV-regulated pathways [8], [9], [10]. LMP1 [8], [9], [44], [45] and EBNA2 [9] were responsible for the upregulation of miR-155 after EBV infection of B-lymphocytes, while LMP2A did not influence miR-155 expression [8], [45]. Furthermore LMP1 was demonstrated to trans-activate miR-155 transcription through the NF-kappaB and AP1 pathways [8], [45]. In contrast, EBV did not induce the expression of miR155 in HEK 293 and Hela cells [9]. We found that both LMP1 and LMP2A could induce the miR-155 expression in NPC CNE1 and TW03 cells. To our knowledge, this is the first report that LMP2A could induce miR-155 expression in NPC. Guasparri et al reported that EBV LMP2A protein could affect LMP1-mediated NF-κB signaling and survival of lymphoma cells [46], hence LMP2A might increase miR-155 expression through the NF- kappaB pathway.
+
+In addition, LMP1 was reported to induce the expression of miR-146a in B-lymphocytes [44]. However, in our study, we found that neither LMP1 nor LMP2A could induce the miR-146a expression in NPC cells (Fig S1). These differences might be due to different tumor types.
+
+LMP1 and LMP2A were expressed in approximately 65% and 45.7% NPC patients, repectively [47], [48], and miR-155 was also found to be upregulated in many human tumors, which were not related to EBV [32], [33], [34], [37], [38], [42]. Furthermore, in our study, both CNE1 and TW03 were EBV negative NPC derived cell lines, and the expression of miR-155 in these two cell lines was still higher than that of the immortalized nasopharyngeal epithelial cell line NP69. Hence there should be some other unknown factors which could also upregulate miR-155 expression in NPC. TGF-beta (Transforming Growth Factor – beta) was verified to induce miR-155 expression and promoter activity through SMAD4 (SMAD family member 5) [49], and elevated serum levels of TGF-beta1 was also found in NPC patients [50]. Hence TGF-beta and SMAD4 pathway might also contribute to miR-155 overexpression in NPC.
+
+At presently, many direct targets of miR-155 have been identified to show oncogenic features of miR-155. MiR-155 promoted the proliferation of breast cancer cells through down-regulation of SOCS1 (Suppressor of cytokine signaling 1) [35] and FOXO3a (Forkhead box O3) [36]. MiR-155 has also been reported to be involved in the development of lymphoma by targeting SMAD5 (SMAD family member 5) [30] and SHIP1 (inositol polyphosphate-5-phosphatase) [51]. MiR-155 could promote pancreatic tumor development through downregulation of TP53INP1 (Tumor protein p53 induced nuclear protein 1) [52]. Moreover, some other genes implicated in differentiation, inflammation and transcriptional regulation, were direct targets of miR-155, including HIF-1 (Hypoxia-inducible factor 1) [16], [53], BACH1 (BTB and CNC homology 1, basic leucine zipper transcription factor1) [8], [16], HIVEP2 (Human immunodeficiency virus type I enhancer binding protein 2) [8], IKKε (Inhibitor of kappa light polypeptide gene enhancer in B cells, kinase) [54], and so on. In our study, we found that miR-155 could repress endogenous JMJD1A and BACH1 protein expression in NP69 cells. Luciferase reporter assay was performed to identify both JMJD1A and BACH1 as direct targets of miR-155 in NPC cells. This is the first report that JMJD1A is a direct target of miR-155. Furthermore, JMJD1A and BACH1 are downregulated in NPC cell lines and NPC tumor tissues.
+
+Hypoxia is a common feature characteristic of many malignancies and promotes biological processes involved in tumor progression. In hypoxia, several genes are involved in erythropoiesis, angiogenesis and cellular energy metabolism, and are activated by a common transcription factor termed hypoxia inducible factor-1 (HIF-1) [55]. The expression of JMJD1A [11] and BACH1 [15] have been reported to be induced by hypoxia. Interestingly, miR-155 could directly downregulate HIF-1 expression [16], [53], BACH1 expression [8], [16] and JMJD1A expression. We therefore suggest that miR-155 is a negative feedback regulator of HIF1α. The effect of hypoxia on miR-155 itself should be considered in future studies. In this study, downregulation of JMJD1A was found to be significantly correlated with N stage, a lower five-year survival rate, and a lower five-year disease-free survival rate of NPC patients. Adam et al. [56] demonstrated that loss of JMJD1A is sufficient to reduce tumor growth of renal cell carcinoma and colon carcinoma in vivo, suggesting that the function of JMJD1A in different cells and tissues depend on cell microenvironment. Hence, the function of JMJD1A and BACH1 in NPC deserve for further study.
+
+In conclusion, upregulation of miR155 in NPC is partly driven by LMP1 and LMP2A. This results in downregaultion of JMJD1A, which is associated with N stage and poor prognosis of NPC patients. The potential of miR-155 and JMJD1A as therapeutic targets for NPC should be further investigated.
+
+Go to:
+Materials and Methods
+Cell lines, plasmids and tissue samples
+
+Human NPC cell lines CNE1 (EBV negative, from Cancer Center, Sun Yat-sen University, China), TW03 (EBV negative, the generous gift of Prof. Chin-Tarng Lin, National Taiwan University Hospital) [57] and Human Embryonic Kidney 293T cells (from American Tissue Culture Collection, ATCC, Manassas, VA) were cultured in IMEM (Gibco USA) containing 10% fetal calf serum (FCS). The immortalized nasopharyngeal epithelial cell line NP69 (EBV negative, from the University of Hong Kong, China) [58] was cultured in keratinocyte serum-free medium (Invitrogen, Carlsbad, CA) supplemented with 25 µg/ml bovine pituitary extract, and 0.2 ng/ml recombinant epidermal growth factor, as suggested by the manufacturer.
+
+LMP1 expressing vector (pJ124-A8-CAO-LMP1) [59] and LMP2A expressing vector (pLNPOX/HPH6-LMP2A) [60] were used for stable transfection. CNE1 and TW03 cells that stably expressed LMP1 were generated by Mycophenolic acid, Xanthine and Hypoxanthine selection. CNE1 and TW03 cells that stably expressed LMP2A were generated by retrovirus infection and G418 selection. All the cell lines were grown in a humidified incubator at 37°C with 5% CO2.
+
+The NPC biopsies with clinical information were obtained from Sun Yat-Sen University Cancer Center (Guangzhou, China). For this retrospective study, archival formalin-fixed, paraffin-embedded (FFPE) tissue specimens from 185 primary NPC patients (144 males and 41 females; aged from 16 to 73 years; median, 47 years) who underwent radical radiotherapy from 1999–2003 were obtained from the Sun Yat-sen University Cancer Center (Guangzhou, China). The study was approved by the Research Ethics Committee of Sun Yat-Sen University Cancer Center, Guangzhou, China (Reference number: YP-2009175) and Karolinska Institutet, Stockholm, Sweden (Reference number: 00-302). All NPC samples in our study were obtained before treatment with standard curative radiotherapy, with or without chemotherapy. The disease stages of all patients were classified or reclassified according to the China 1992 NPC staging system (see File S1) [61]. Of the 185 primary NPC patients, 3 were classified as stage I, 44 as stage II, 88 as stage III, and 50 as stage IV.
+
+MiRNA microarray analyses
+
+Total RNA samples were analyzed by CapitalBio (CapitalBio Corp. Beijing, China) for miRNA microarray. Procedures were performed as described in detail on the website of CapitalBio (http://www.capitalbio.com). Briefly, miRNA was separated from 30–50 mg total RNA using the Ambion miRNA Isolation Kit. Fluorescein-labeled miRNA [62] were used for hybridization on each miRNA microarray chip containing 509 probes in triplicate, corresponding to 435 human (including 122 predicted miRNAs), 261 mouse, and 196 rat miRNAs found in the miRNA Registry (http://microrna.sanger.ac.uk/sequences/; accessed October 2005). Image intensities were measured as a function of the median of foreground minus the background, as previously described [63]. Raw data were normalized and analyzed in GenePix Pro 4.0 software (Axon Instruments). Expression data were median-centered using the global median normalization function of the Bioconductor package (http://www.bioconductor.org). Statistical comparisons were performed with the SAM software (SAM version 2.1, http://www.stat.stanford.edu/ztibs/SAM/index.html) [64]. All microarray data, which were Minimum Information About a Microarray Experiment (MIAME) compliant, have been deposited to the Gene Expression Omnibus public database with accession number GSE26596.
+
+Prediction miRNAs target analysis
+
+We analyzed the putative targets of miRNAs as follows [65]: Firstly, the analysis was done by using four algorithms, miRanda (http://www.microrna.org/miranda.html) [18], TargetScan (http://genes.mit.edu/targetscan); [19], PicTar (http://pictar.bio.nyu.edu) [20] and miRBase (http://microrna.sanger.ac.uk/targets/v2) [21] respectively. Because any of the four approaches generates an unpredictable number of false positives, results were intersected to identify the genes commonly predicted by at least three of the methods.
+
+PCR assays
+
+For miRNAs quantitive realtime PCR (qPCR) assay, total RNA from cell lines was isolated using Trizol reagent (Invitrogen) according to the manufacturer's instructions, then was treated with RNase free DNase I (Cat#: 04716728001, Roche). The miR-155 quantitive realtime PCR assay was performed by TaqMan® MicroRNA Assays (Cat#: 4373124, Applied Biosystems, USA) and RNU6B (Cat#: 4373381, Applied Biosystems, USA) was used as internal control. The relative expression level was determined as 2−ΔΔCt. Data are presented as the expression level relative to the calibrator (control sample), with the standard error of the mean of triplicate measures for each test sample.
+
+For mRNA quantitive realtime PCR assay, total RNA was extracted from cell lines using TRIzol reagent (Invitrogen). After reverse transcription of the total RNA, the first-strand cDNA was then used as template for detection of JMJD1A, BACH1, expression by quantitative real time PCR (qPCR) with the SYBR Green I chemistry (Power SYBR Green PCR Master Mix, CAT#: 4367659, ABI Inc., USA). GAPDH was used as internal control. The primers were JMJD1A (Forward: GTC AAC TGT GAG GAG ATT CCA GC and Reverse: AAC TTC AAC ATG AAT CAG TGA CGG); BACH1 (Forward: ATT CAT GCT TCT GTT CAG CCA A and Reverse: GGC ACT GAG AAG CAG GAT CTT T); GAPDH (Forward: AGC CAC ATC GCT CAG ACA C and Reverse: GCC CAA TAC GAC CAA ATC C). The relative expression level was determined as 2−ΔΔCt. Data are presented as the expression level relative to the calibrator (control sample), with the standard error of the mean of triplicate measures for each test sample.
+
+For normal PCR assay, total RNA was extracted from cell lines using TRIzol reagent (Invitrogen). After reverse transcription of the total RNA, the first-strand cDNA was then used as templates for detection of LMP1 and LMP2A expression. GAPDH was used as internal control. The primers were LMP1 (131 bp, 55°C) (Forward: AGG TTG AAA ACA AAG GAG GTG ACC A and Reverse: GGA ACC AGA AGA ACC CAA AAG CA); LMP2A (106 bp, 60°C) (Forward: TCC CTA GAA ATG GTG CCA ATG and Reverse: GAA GAG CCA GAA GCA GAT GGA T); GAPDH (286 bp, 56°C) (Forward: CCA CCA TGG AGA AGG CTG GGG CTC A and Reverse: ATC ACG CCA CAG TTT CCC GGA GGG G).
+
+Western blot assays
+
+Cells were harvested and lysed with RIPA buffer (Upstate, USA). Equal amounts of denatured protein sample were separated by SDS-PAGE and were then transferred electrophoretically to PVDF membranes (Pall, USA) for immunoblot analysis. Antibodies used for immunoblot analysis were against JMJD1A (1[ratio]100 dilution, 12835-1-AP, Proteintech Group, Inc, USA), BACH1 (1[ratio]200 dilution, sc-14700, Santa Cruz, USA); LMP1 (1[ratio]500 dilution, S12) [66], LMP2A (1[ratio]1,000 dilution, 14B7, ITN GmbH, Neuherberg, Germany) and an anti-GAPDH antibody (1[ratio]3,000 dilution, sc-32233, Santa Cruz, USA) was used as loading control. All protein bands were detected using an enhanced chemiluminescent (ECL) Western blot Kit (Cell Signaling Technology, USA).
+
+MiRNA transfections
+
+Before transfection, 2×105 cells per well were plated into 6-well plates and grown for one day in antibiotic-free medium containing 10% FCS. When the cell confluent was reached to 40% to 60%, cells were transfected with miR-155 Pre-miR™ miRNA Precursor Molecules (Cat#: PM12601, Ambion, USA), or Pre-miR™ miRNA Precursor Molecules-Negative Control #1 (Cat#: AM17110, Ambion, USA) or miR-155 Anti-miR™ miRNA Inhibitor (Cat#: AM12601, Ambion, USA), or Anti-miR™ miRNA Inhibitors-Negative Control #1 (Cat#: AM17010, Ambion, USA) using Lipofectamine 2000 (Invitrogen, USA) according to the manufacturer's instructions. Transfected cells were grown at 37°C for 6 hr, followed by incubation with complete medium. For miR-155 assay and Western blot analysis, cells were harvested for RNA and protein respectively after 48 hr.
+
+Luciferase reporter assays
+
+3′ UTR sequences of JMJD1A and BACH1 containing the putative miR-155 target sites were isolated from TW03 cDNA by PCR and cloned immediately downstream from the luciferase reading frame in the plasmid pMIR-report-Vector (Cat#: AM5795, Ambion, USA). Primers used for PCR were as follows: JMJD1A (Forward: CAG ACT AGT TAA AAG CAA AAC CTC GTA TC and Reverse: CAG AAG CTT TAA TGC AAA ATG CTT AAC AC); BACH1 (Forward: CAG ACT AGT AAG CCA ATG GAA CCC TTG ATT and Revese: CAG AAG CTT GCC TTG AAA CAT TTT CTT AGA A). All inserts were sequenced in their entirety to verify polymerase fidelity.
+
+Luciferase reporter assays were performed by transiently transfecting HEK 293T cells respectively with 200 ng of pMIR-report-JMJD1A 3′UTR, pMIR-report-BACH1 3′UTR, pMIR-report-vector (control), together with 30 nM miR-155 Pre-miR™ miRNA Precursor Molecules (Cat#: PM12601, Ambion, USA), or Pre-miR™ miRNA Precursor Molecules-Negative Control #1 (Cat#: AM17110, Ambion, USA) and 200 ng of pCMV-Renilla (internal control) using Lipofectamine 2000 (Invitrogen) respectively. Firefly and Renilla luciferase activities were measured consecutively by using Dual Luciferase Assay (Cat#: E1910, Promega, USA) 48 hr after transfection. Firefly luciferase values have been normalized to Renilla, and the ratio of firefly/renilla was presented.
+
+In situ hybridization (ISH)
+
+In situ detection of miR-155 was performed on 5 µm FFP tissue sections of NPC. Sections were prehybridized in hybridization solution (50% formamide, 5× SSC, 0.5 mg/mL yeast tRNA, 1× Denhardt's solution) for 30 minutes before hybridization. MiR-155 miRCURY LNA™ Detection probe (Cat#: 38537-05, Exiqon, Denmark) was hybridized to the sections for 1 hr at 25°C lower than predicted Tm of the probe. After posthybridization washes, in situ hybridization signals were detected using the tyramide signal amplification system (Perkin-Elmer) according to the manufacturer's instructions. Slides were mounted in ProLong Gold containing 4′,6-diamidino-2-phenylindole (DAPI; Invitrogen) and analyzed with an Olympus MVX10 microscope equipped with a charge-coupled device camera and Olympus CellP software.
+
+Immunohistochemistry
+
+Primary antibodies against JMJD1A (1[ratio] 100 dilution, Ab75620, Abcam, USA) and BACH1 (1[ratio] 800 dilution, Ab54814, Abcam, USA) were used in this study. Briefly, tissue sections were de-waxed, incubated with hydrogen peroxide for 10 minutes, incubated in retrieval buffer solution for antigen recovery, blocked with normal serum for 10 minutes and incubated with a primary antibody for 60 minutes, followed by detection using a Catalyzed Signal Amplification Kit (DAKO, USA); signal was visualized using diaminobenzidine. Non-immune goat or rabbit serum was substituted for the primary antibody as a negative control. The immunohistochemistry results were evaluated and scored by a senior pathologist without knowledge of the clinicopathological outcomes of the patients.
+
+A semiquantitative estimation was made by using a composite score obtained by adding the values of the staining intensity and the relative abundance of positive cells. The intensity was graded as 0 (no staining), 1 (weak staining), 2 (moderate staining) and 3 (strong staining). The abundance of the positive cells was graded from 0 to 3 (0, <5% positive cells; 1, 5–25%; 2, 26–50%; 3, >50%). A composite score greater than the median value was considered as high expression, and composite scores less than or equal to the median value were considered as low expression.
+
+Statistical analysis
+
+Data was analyzed using SPSS12.0 software. The association between JMJD1A and BACH1 expression and clinicopathological parameters were assessed using a Chi-Square test. Kaplan-Meier analysis and log-rank tests were used to assess the survival rate and to compare the difference in survival curves. It was considered as significant differences when p<0.05.
+
+Go to:
+Supporting Information
+Figure S1
+
+Comparison of the results of miRNAs microarray and qRT-PCR. Comparison of miR155, miR146a and miR200c fold-changes by miRNAs microarray and qRT-PCR in the pair of TW03LMP1/TW03 (A) and the pair of TW03LMP2A/TW03 (B).
+
+(TIF)
+
+Click here for additional data file.(80K, tif)
+File S1
+
+The characteristics of the 1992 NPC staging system.
+
+(DOC)
+
+Click here for additional data file.(25K, doc)
+Table S1
+
+The potential target genes of miR-155 predicted by at least three algorithms.
+
+(XLS)
+
+Click here for additional data file.(18K, xls)
+Go to:
+Acknowledgments
+We thank Dr. Matin Corcoran in Cancer Center Karolinska Institutet for kindly providing pMIR-Report-Vector and interesting discussion. We thank Dr. Fu Chen in Dept. of Microbiology, Tumor and Cell Biology Karolinska Institutet for kindly providing CNE1 and TW03 cells that stably expressing LMP2A and technical support.
+
+Go to:
+Footnotes
+Competing Interests: The authors have declared that no competing interests exist.
+
+Funding: This work was supported in part by a grant from Swedish International Development Cooperation Agency (SIDA), the Swedish Cancer Society, the Swedish Board for International co-operation and the Maths O. Sundqvist family foundation, and a grant from Chinese Scholarship Council, National High Technology Research and Development Program of China (863 Program) (No. 20060102A4002), and the Chinese State Key Basic Research Project (No. 2010CB518708). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Go to:
+References
+1. Licitra L, Bernier J, Cvitkovic E, Grandi C, Spinazze S, et al. Cancer of the nasopharynx. Crit Rev Oncol Hematol. 2003;45:199–213. [PubMed]
+2. Kumar S, Mahanta J. Aetiology of nasopharyngeal carcinoma. A review. Indian J Cancer. 1998;35:47–56. [PubMed]
+3. Shao JY, Li YH, Gao HY, Wu QL, Cui NJ, et al. Comparison of plasma Epstein-Barr virus (EBV) DNA levels and serum EBV immunoglobulin A/virus capsid antigen antibody titers in patients with nasopharyngeal carcinoma. Cancer. 2004;100:1162–1170. [PubMed]
+4. Farias TP, Dias FL, Lima RA, Kligerman J, de Sa GM, et al. Prognostic factors and outcome for nasopharyngeal carcinoma. Arch Otolaryngol Head Neck Surg. 2003;129:794–799. [PubMed]
+5. Lee AW, Poon YF, Foo W, Law SC, Cheung FK, et al. Retrospective analysis of 5037 patients with nasopharyngeal carcinoma treated during 1976–1985: overall survival and patterns of failure. Int J Radiat Oncol Biol Phys. 1992;23:261–270. [PubMed]
+6. Bartel DP. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell. 2004;116:281–297. [PubMed]
+7. Faraoni I, Antonetti FR, Cardone J, Bonmassar E. miR-155 gene: a typical multifunctional microRNA. Biochim Biophys Acta. 2009;1792:497–505. [PubMed]
+8. Yin Q, McBride J, Fewell C, Lacey M, Wang X, et al. MicroRNA-155 is an Epstein-Barr virus-induced gene that modulates Epstein-Barr virus-regulated gene expression pathways. J Virol. 2008;82:5295–5306. [PMC free article] [PubMed]
+9. Lu F, Weidmer A, Liu CG, Volinia S, Croce CM, et al. Epstein-Barr virus-induced miR-155 attenuates NF-kappaB signaling and stabilizes latent virus persistence. J Virol. 2008;82:10436–10443. [PMC free article] [PubMed]
+10. Mrazek J, Kreutmayer SB, Grasser FA, Polacek N, Huttenhofer A. Subtractive hybridization identifies novel differentially expressed ncRNA species in EBV-infected human B cells. Nucleic Acids Res. 2007;35:e73. [PMC free article] [PubMed]
+11. Wellmann S, Bettkober M, Zelmer A, Seeger K, Faigle M, et al. Hypoxia upregulates the histone demethylase JMJD1A via HIF-1. Biochem Biophys Res Commun. 2008;372:892–897. [PubMed]
+12. Okada Y, Scott G, Ray MK, Mishina Y, Zhang Y. Histone demethylase JHDM2A is critical for Tnp1 and Prm1 transcription and spermatogenesis. Nature. 2007;450:119–123. [PubMed]
+13. Loh YH, Zhang W, Chen X, George J, Ng HH. Jmjd1a and Jmjd2c histone H3 Lys 9 demethylases regulate self-renewal in embryonic stem cells. Genes Dev. 2007;21:2545–2557. [PMC free article] [PubMed]
+14. Ohira M, Seki N, Nagase T, Ishikawa K, Nomura N, et al. Characterization of a human homolog (BACH1) of the mouse Bach1 gene encoding a BTB-basic leucine zipper transcription factor and its mapping to chromosome 21q22.1. Genomics. 1998;47:300–306. [PubMed]
+15. Kitamuro T, Takahashi K, Ogawa K, Udono-Fujimori R, Takeda K, et al. Bach1 functions as a hypoxia-inducible repressor for the heme oxygenase-1 gene in human cells. J Biol Chem. 2003;278:9125–9133. [PubMed]
+16. O'Connell RM, Rao DS, Chaudhuri AA, Boldin MP, Taganov KD, et al. Sustained expression of microRNA-155 in hematopoietic stem cells causes a myeloproliferative disorder. J Exp Med. 2008;205:585–594. [PMC free article] [PubMed]
+17. Skalsky RL, Samols MA, Plaisance KB, Boss IW, Riva A, et al. Kaposi's sarcoma-associated herpesvirus encodes an ortholog of miR-155. J Virol. 2007;81:12836–12845. [PMC free article] [PubMed]
+18. John B, Enright AJ, Aravin A, Tuschl T, Sander C, et al. Human MicroRNA targets. PLoS Biol. 2004;2:e363. [PMC free article] [PubMed]
+19. Lewis BP, Burge CB, Bartel DP. Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets. Cell. 2005;120:15–20. [PubMed]
+20. Krek A, Grun D, Poy MN, Wolf R, Rosenberg L, et al. Combinatorial microRNA target predictions. Nat Genet. 2005;37:495–500. [PubMed]
+21. Enright AJ, John B, Gaul U, Tuschl T, Sander C, et al. MicroRNA targets in Drosophila. Genome Biol. 2003;5:R1. [PMC free article] [PubMed]
+22. Vargova K, Curik N, Burda P, Basova P, Kulvait V, et al. MYB transcriptionally regulates the miR-155 host gene in chronic lymphocytic leukemia. Blood 2011 [PubMed]
+23. Philippidou D, Schmitt M, Moser D, Margue C, Nazarov PV, et al. Signatures of microRNAs and selected microRNA target genes in human melanoma. Cancer Res. 2010;70:4163–4173. [PubMed]
+24. Hui AB, Lenarduzzi M, Krushel T, Waldron L, Pintilie M, et al. Comprehensive MicroRNA profiling for head and neck squamous cell carcinomas. Clin Cancer Res. 2010;16:1129–1139. [PubMed]
+25. Juan D, Alexe G, Antes T, Liu H, Madabhushi A, et al. Identification of a microRNA panel for clear-cell kidney cancer. Urology. 2010;75:835–841. [PubMed]
+26. Wang B, Majumder S, Nuovo G, Kutay H, Volinia S, et al. Role of microRNA-155 at early stages of hepatocarcinogenesis induced by choline-deficient and amino acid-defined diet in C57BL/6 mice. Hepatology. 2009;50:1152–1161. [PMC free article] [PubMed]
+27. Kluiver J, Poppema S, de Jong D, Blokzijl T, Harms G, et al. BIC and miR-155 are highly expressed in Hodgkin, primary mediastinal and diffuse large B cell lymphomas. J Pathol. 2005;207:243–249. [PubMed]
+28. Eis PS, Tam W, Sun L, Chadburn A, Li Z, et al. Accumulation of miR-155 and BIC RNA in human B cell lymphomas. Proc Natl Acad Sci U S A. 2005;102:3627–3632. [PMC free article] [PubMed]
+29. Thompson RC, Herscovitch M, Zhao I, Ford TJ, Gilmore TD. NF-kappaB down-regulates expression of the B-lymphoma marker CD10 through a miR-155/PU.1 pathway. J Biol Chem. 2011;286:1675–1682. [PMC free article] [PubMed]
+30. Rai D, Kim SW, McKeller MR, Dahia PL, Aguiar RC. Targeting of SMAD5 links microRNA-155 to the TGF-beta pathway and lymphomagenesis. Proc Natl Acad Sci U S A. 2010;107:3111–3116. [PMC free article] [PubMed]
+31. Yamanaka Y, Tagawa H, Takahashi N, Watanabe A, Guo YM, et al. Aberrant overexpression of microRNAs activate AKT signaling via down-regulation of tumor suppressors in natural killer-cell lymphoma/leukemia. Blood. 2009;114:3265–3275. [PubMed]
+32. Nikiforova MN, Tseng GC, Steward D, Diorio D, Nikiforov YE. MicroRNA expression profiling of thyroid tumors: biological significance and diagnostic utility. J Clin Endocrinol Metab. 2008;93:1600–1608. [PMC free article] [PubMed]
+33. Volinia S, Calin GA, Liu CG, Ambs S, Cimmino A, et al. A microRNA expression signature of human solid tumors defines cancer gene targets. Proc Natl Acad Sci U S A. 2006;103:2257–2261. [PMC free article] [PubMed]
+34. Yan LX, Huang XF, Shao Q, Huang MY, Deng L, et al. MicroRNA miR-21 overexpression in human breast cancer is associated with advanced clinical stage, lymph node metastasis and patient poor prognosis. RNA. 2008;14:2348–2360. [PMC free article] [PubMed]
+35. Jiang S, Zhang HW, Lu MH, He XH, Li Y, et al. MicroRNA-155 functions as an OncomiR in breast cancer by targeting the suppressor of cytokine signaling 1 gene. Cancer Res. 2010;70:3119–3127. [PubMed]
+36. Kong W, He L, Coppola M, Guo J, Esposito NN, et al. MicroRNA-155 regulates cell survival, growth, and chemosensitivity by targeting FOXO3a in breast cancer. J Biol Chem. 2010;285:17869–17879. [PMC free article] [PubMed]
+37. Wang X, Tang S, Le SY, Lu R, Rader JS, et al. Aberrant expression of oncogenic and tumor-suppressive microRNAs in cervical cancer is required for cancer cell growth. PLoS One. 2008;3:e2557. [PMC free article] [PubMed]
+38. Greither T, Grochola LF, Udelnow A, Lautenschlager C, Wurl P, et al. Elevated expression of microRNAs 155, 203, 210 and 222 in pancreatic tumors is associated with poorer survival. Int J Cancer. 2010;126:73–80. [PubMed]
+39. Ryu JK, Hong SM, Karikari CA, Hruban RH, Goggins MG, et al. Aberrant MicroRNA-155 expression is an early event in the multistep progression of pancreatic adenocarcinoma. Pancreatology. 2010;10:66–73. [PMC free article] [PubMed]
+40. Habbe N, Koorstra JB, Mendell JT, Offerhaus GJ, Ryu JK, et al. MicroRNA miR-155 is a biomarker of early pancreatic neoplasia. Cancer Biol Ther. 2009;8:340–346. [PMC free article] [PubMed]
+41. Donnem T, Eklo K, Berg T, Sorbye SW, Lonvik K, et al. Prognostic impact of MiR-155 in non-small cell lung cancer evaluated by in situ hybridization. J Transl Med. 2011;9:6. [PMC free article] [PubMed]
+42. Yanaihara N, Caplen N, Bowman E, Seike M, Kumamoto K, et al. Unique microRNA molecular profiles in lung cancer diagnosis and prognosis. Cancer Cell. 2006;9:189–198. [PubMed]
+43. Chen HC, Chen GH, Chen YH, Liao WL, Liu CY, et al. MicroRNA deregulation and pathway alterations in nasopharyngeal carcinoma. Br J Cancer. 2009;100:1002–1011. [PMC free article] [PubMed]
+44. Motsch N, Pfuhl T, Mrazek J, Barth S, Grasser FA. Epstein-Barr virus-encoded latent membrane protein 1 (LMP1) induces the expression of the cellular microRNA miR-146a. RNA Biol. 2007;4:131–137. [PubMed]
+45. Gatto G, Rossi A, Rossi D, Kroening S, Bonatti S, et al. Epstein-Barr virus latent membrane protein 1 trans-activates miR-155 transcription through the NF-kappaB pathway. Nucleic Acids Res. 2008;36:6608–6619. [PMC free article] [PubMed]
+46. Guasparri I, Bubman D, Cesarman E. EBV LMP2A affects LMP1-mediated NF-kappaB signaling and survival of lymphoma cells by regulating TRAF2 expression. Blood. 2008;111:3813–3820. [PMC free article] [PubMed]
+47. Fahraeus R, Fu HL, Ernberg I, Finke J, Rowe M, et al. Expression of Epstein-Barr virus-encoded proteins in nasopharyngeal carcinoma. Int J Cancer. 1988;42:329–338. [PubMed]
+48. Heussinger N, Buttner M, Ott G, Brachtel E, Pilch BZ, et al. Expression of the Epstein-Barr virus (EBV)-encoded latent membrane protein 2A (LMP2A) in EBV-associated nasopharyngeal carcinoma. J Pathol. 2004;203:696–699. [PubMed]
+49. Kong W, Yang H, He L, Zhao JJ, Coppola D, et al. MicroRNA-155 is regulated by the transforming growth factor beta/Smad pathway and contributes to epithelial cell plasticity by targeting RhoA. Mol Cell Biol. 2008;28:6773–6784. [PMC free article] [PubMed]
+50. Xu J, Menezes J, Prasad U, Ahmad A. Elevated serum levels of transforming growth factor beta1 in Epstein-Barr virus-associated nasopharyngeal carcinoma patients. Int J Cancer. 1999;84:396–399. [PubMed]
+51. Pedersen IM, Otero D, Kao E, Miletic AV, Hother C, et al. Onco-miR-155 targets SHIP1 to promote TNFalpha-dependent growth of B cell lymphomas. EMBO Mol Med. 2009;1:288–295. [PMC free article] [PubMed]
+52. Gironella M, Seux M, Xie MJ, Cano C, Tomasini R, et al. Tumor protein 53-induced nuclear protein 1 expression is repressed by miR-155, and its restoration inhibits pancreatic tumor development. Proc Natl Acad Sci U S A. 2007;104:16170–16175. [PMC free article] [PubMed]
+53. Yeligar S, Tsukamoto H, Kalra VK. Ethanol-induced expression of ET-1 and ET-BR in liver sinusoidal endothelial cells and human endothelial cells involves hypoxia-inducible factor-1alpha and microrNA-199. J Immunol. 2009;183:5232–5243. [PubMed]
+54. Tili E, Michaille JJ, Cimino A, Costinean S, Dumitru CD, et al. Modulation of miR-155 and miR-125b levels following lipopolysaccharide/TNF-alpha stimulation and their possible roles in regulating the response to endotoxin shock. J Immunol. 2007;179:5082–5089. [PubMed]
+55. Wenger RH. Mammalian oxygen sensing, signalling and gene regulation. J Exp Biol. 2000;203:1253–1263. [PubMed]
+56. Krieg AJ, Rankin EB, Chan D, Razorenova O, Fernandez S, et al. Regulation of the histone demethylase JMJD1A by hypoxia-inducible factor 1 alpha enhances hypoxic gene expression and tumor growth. Mol Cell Biol. 2010;30:344–353. [PMC free article] [PubMed]
+57. Lin CT, Chan WY, Chen W, Huang HM, Wu HC, et al. Characterization of seven newly established nasopharyngeal carcinoma cell lines. Lab Invest. 1993;68:716–727. [PubMed]
+58. Tsao SW, Wang X, Liu Y, Cheung YC, Feng H, et al. Establishment of two immortalized nasopharyngeal epithelial cell lines using SV40 large T and HPV16E6/E7 viral oncogenes. Biochim Biophys Acta. 2002;1590:150–158. [PubMed]
+59. Hu LF, Zabarovsky ER, Chen F, Cao SL, Ernberg I, et al. Isolation and sequencing of the Epstein-Barr virus BNLF-1 gene (LMP1) from a Chinese nasopharyngeal carcinoma. J Gen Virol. 1991;72 (Pt 10):2399–2409. [PubMed]
+60. Chen F, Liu C, Lindvall C, Xu D, Ernberg I. Epstein-Barr virus latent membrane 2A (LMP2A) down-regulates telomerase reverse transcriptase (hTERT) in epithelial cell lines. Int J Cancer. 2005;113:284–289. [PubMed]
+61. Min H, Hong M, Ma J, Zhang E, Zheng Q, et al. A new staging system for nasopharyngeal carcinoma in China. Int J Radiat Oncol Biol Phys. 1994;30:1037–1042. [PubMed]
+62. Thomson JM, Parker J, Perou CM, Hammond SM. A custom microarray platform for analysis of microRNA gene expression. Nat Methods. 2004;1:47–53. [PubMed]
+63. Castoldi M, Schmidt S, Benes V, Noerholm M, Kulozik AE, et al. A sensitive array for microRNA expression profiling (miChip) based on locked nucleic acids (LNA). RNA. 2006;12:913–920. [PMC free article] [PubMed]
+64. He H, Jazdzewski K, Li W, Liyanarachchi S, Nagy R, et al. The role of microRNA genes in papillary thyroid carcinoma. Proc Natl Acad Sci U S A. 2005;102:19075–19080. [PMC free article] [PubMed]
+65. Rajewsky N. microRNA target predictions in animals. Nat Genet. 2006;38(Suppl):S8–13. [PubMed]
+66. Zhang X, Sanmun D, Hu L, Fadeel B, Ernberg I. Epstein-Barr virus-encoded LMP1 promotes cisplatin-induced caspase activation through JNK and NF-kappaB signaling pathways. Biochem Biophys Res Commun. 2007;360:263–268. [PubMed]

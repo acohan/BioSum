@@ -1,0 +1,783 @@
+The Hallmarks of Cancer
+Douglas Hanahan1, Corresponding author contact information, E-mail the corresponding author, Robert A Weinberg2
+Show more
+http://dx.doi.org/10.1016/S0092-8674(00)81683-9
+  Open Archive
+After a quarter century of rapid advances, cancer research has generated a rich and complex body of knowledge, revealing cancer to be a disease involving dynamic changes in the genome. The foundation has been set in the discovery of mutations that produce oncogenes with dominant gain of function and tumor suppressor genes with recessive loss of function; both classes of cancer genes have been identified through their alteration in human and animal cancer cells and by their elicitation of cancer phenotypes in experimental models (Bishop and Weinberg 1996).
+
+Some would argue that the search for the origin and treatment of this disease will continue over the next quarter century in much the same manner as it has in the recent past, by adding further layers of complexity to a scientific literature that is already complex almost beyond measure. But we anticipate otherwise: those researching the cancer problem will be practicing a dramatically different type of science than we have experienced over the past 25 years. Surely much of this change will be apparent at the technical level. But ultimately, the more fundamental change will be conceptual.
+
+We foresee cancer research developing into a logical science, where the complexities of the disease, described in the laboratory and clinic, will become understandable in terms of a small number of underlying principles. Some of these principles are even now in the midst of being codified. We discuss one set of them in the present essay: rules that govern the transformation of normal human cells into malignant cancers. We suggest that research over the past decades has revealed a small number of molecular, biochemical, and cellular traits—acquired capabilities—shared by most and perhaps all types of human cancer. Our faith in such simplification derives directly from the teachings of cell biology that virtually all mammalian cells carry a similar molecular machinery regulating their proliferation, differentiation, and death.
+
+Several lines of evidence indicate that tumorigenesis in humans is a multistep process and that these steps reflect genetic alterations that drive the progressive transformation of normal human cells into highly malignant derivatives. Many types of cancers are diagnosed in the human population with an age-dependent incidence implicating four to seven rate-limiting, stochastic events (Renan 1993). Pathological analyses of a number of organ sites reveal lesions that appear to represent the intermediate steps in a process through which cells evolve progressively from normalcy via a series of premalignant states into invasive cancers (Foulds 1954).
+
+These observations have been rendered more concrete by a large body of work indicating that the genomes of tumor cells are invariably altered at multiple sites, having suffered disruption through lesions as subtle as point mutations and as obvious as changes in chromosome complement (e.g., Kinzler and Vogelstein 1996). Transformation of cultured cells is itself a multistep process: rodent cells require at least two introduced genetic changes before they acquire tumorigenic competence, while their human counterparts are more difficult to transform (Hahn et al. 1999). Transgenic models of tumorigenesis have repeatedly supported the conclusion that tumorigenesis in mice involves multiple rate-limiting steps (Bergers et al., 1998; see Oncogene, 1999, R. DePinho and T. E. Jacks, volume 18[38], pp. 5248–5362). Taken together, observations of human cancers and animal models argue that tumor development proceeds via a process formally analogous to Darwinian evolution, in which a succession of genetic changes, each conferring one or another type of growth advantage, leads to the progressive conversion of normal human cells into cancer cells ( 33 and 71).
+
+An Enumeration of the Traits
+The barriers to development of cancer are embodied in a teleology: cancer cells have defects in regulatory circuits that govern normal cell proliferation and homeostasis. There are more than 100 distinct types of cancer, and subtypes of tumors can be found within specific organs. This complexity provokes a number of questions. How many distinct regulatory circuits within each type of target cell must be disrupted in order for such a cell to become cancerous? Does the same set of cellular regulatory circuits suffer disruption in the cells of the disparate neoplasms arising in the human body? Which of these circuits operate on a cell-autonomous basis, and which are coupled to the signals that cells receive from their surrounding microenvironment within a tissue? Can the large and diverse collection of cancer-associated genes be tied to the operations of a small group of regulatory circuits?
+
+We suggest that the vast catalog of cancer cell genotypes is a manifestation of six essential alterations in cell physiology that collectively dictate malignant growth (Figure 1): self-sufficiency in growth signals, insensitivity to growth-inhibitory (antigrowth) signals, evasion of programmed cell death (apoptosis), limitless replicative potential, sustained angiogenesis, and tissue invasion and metastasis. Each of these physiologic changes—novel capabilities acquired during tumor development—represents the successful breaching of an anticancer defense mechanism hardwired into cells and tissues. We propose that these six capabilities are shared in common by most and perhaps all types of human tumors. This multiplicity of defenses may explain why cancer is relatively rare during an average human lifetime. We describe each capability in turn below, illustrate with a few examples its functional importance, and indicate strategies by which it is acquired in human cancers.
+
+Full-size image (111 K)
+Figure 1. 
+Acquired Capabilities of Cancer
+We suggest that most if not all cancers have acquired the same set of functional capabilities during their development, albeit through various mechanistic strategies.
+Figure options
+Acquired Capability: Self-Sufficiency in Growth Signals
+Normal cells require mitogenic growth signals (GS) before they can move from a quiescent state into an active proliferative state. These signals are transmitted into the cell by transmembrane receptors that bind distinctive classes of signaling molecules: diffusible growth factors, extracellular matrix components, and cell-to-cell adhesion/interaction molecules. To our knowledge, no type of normal cell can proliferate in the absence of such stimulatory signals. Many of the oncogenes in the cancer catalog act by mimicking normal growth signaling in one way or another.
+
+Dependence on growth signaling is apparent when propagating normal cells in culture, which typically proliferate only when supplied with appropriate diffusible mitogenic factors and a proper substratum for their integrins. Such behavior contrasts strongly with that of tumor cells, which invariably show a greatly reduced dependence on exogenous growth stimulation. The conclusion is that tumor cells generate many of their own growth signals, thereby reducing their dependence on stimulation from their normal tissue microenvironment. This liberation from dependence on exogenously derived signals disrupts a critically important homeostatic mechanism that normally operates to ensure a proper behavior of the various cell types within a tissue.
+
+Acquired GS autonomy was the first of the six capabilities to be clearly defined by cancer researchers, in large part because of the prevalence of dominant oncogenes that have been found to modulate it. Three common molecular strategies for achieving autonomy are evident, involving alteration of extracellular growth signals, of transcellular transducers of those signals, or of intracellular circuits that translate those signals into action. While most soluble mitogenic growth factors (GFs) are made by one cell type in order to stimulate proliferation of another—the process of heterotypic signaling—many cancer cells acquire the ability to synthesize GFs to which they are responsive, creating a positive feedback signaling loop often termed autocrine stimulation (Fedi et al. 1997). Clearly, the manufacture of a GF by a cancer cell obviates dependence on GFs from other cells within the tissue. The production of PDGF (platelet-derived growth factor) and TGFα (tumor growth factor α) by glioblastomas and sarcomas, respectively, are two illustrative examples (Fedi et al. 1997).
+
+The cell surface receptors that transduce growth-stimulatory signals into the cell interior are themselves targets of deregulation during tumor pathogenesis. GF receptors, often carrying tyrosine kinase activities in their cytoplasmic domains, are overexpressed in many cancers. Receptor overexpression may enable the cancer cell to become hyperresponsive to ambient levels of GF that normally would not trigger proliferation (Fedi et al. 1997). For example, the epidermal GF receptor (EGF-R/erbB) is upregulated in stomach, brain, and breast tumors, while the HER2/neu receptor is overexpressed in stomach and mammary carcinomas ( 84 and 100). Additionally, gross overexpression of GF receptors can elicit ligand-independent signaling ( DiFiore et al. 1987). Ligand-independent signaling can also be achieved through structural alteration of receptors; for example, truncated versions of the EGF receptor lacking much of its cytoplasmic domain fire constitutively ( Fedi et al. 1997).
+
+Cancer cells can also switch the types of extracellular matrix receptors (integrins) they express, favoring ones that transmit progrowth signals (64 and 36). These bifunctional, heterodimeric cell surface receptors physically link cells to extracellular superstructures known as the extracellular matrix (ECM). Successful binding to specific moieties of the ECM enables the integrin receptors to transduce signals into the cytoplasm that influence cell behavior, ranging from quiescence in normal tissue to motility, resistance to apoptosis, and entrance into the active cell cycle. Conversely, the failure of integrins to forge these extracellular links can impair cell motility, induce apoptosis, or cause cell cycle arrest (Giancotti and Ruoslahti 1999). Both ligand-activated GF receptors and progrowth integrins engaged to extracellular matrix components can activate the SOS-Ras-Raf-MAP kinase pathway (1 and 36).
+
+The most complex mechanisms of acquired GS autonomy derive from alterations in components of the downstream cytoplasmic circuitry that receives and processes the signals emitted by ligand-activated GF receptors and integrins. The SOS-Ras-Raf-MAPK cascade plays a central role here. In about 25% of human tumors, Ras proteins are present in structurally altered forms that enable them to release a flux of mitogenic signals into cells, without ongoing stimulation by their normal upstream regulators (Medema and Bos 1993).
+
+We suspect that growth signaling pathways suffer deregulation in all human tumors. Although this point is hard to prove rigorously at present, the clues are abundant (Hunter 1997). For example, in the best studied of tumors—human colon carcinomas—about half of the tumors bear mutant ras oncogenes ( Kinzler and Vogelstein 1996). We suggest that the remaining colonic tumors carry defects in other components of the growth signaling pathways that phenocopy ras oncogene activation. The nature of these alternative, growth-stimulating mechanisms remains elusive.
+
+Under intensive study for two decades, the wiring diagram of the growth signaling circuitry of the mammalian cell is coming into focus (Figure 2). New downstream effector pathways that radiate from the central SOS-Ras-Raf-MAP kinase mitogenic cascade are being discovered with some regularity (48 and 77). This cascade is also linked via a variety of cross-talking connections with other pathways; these cross connections enable extracellular signals to elicit multiple cell biological effects. For example, the direct interaction of the Ras protein with the survival-promoting PI3 kinase enables growth signals to concurrently evoke survival signals within the cell (Downward 1998).
+
+Full-size image (322 K)
+Figure 2. 
+The Emergent Integrated Circuit of the Cell
+Progress in dissecting signaling pathways has begun to lay out a circuitry that will likely mimic electronic integrated circuits in complexity and finesse, where transistors are replaced by proteins (e.g., kinases and phosphatases) and the electrons by phosphates and lipids, among others. In addition to the prototypical growth signaling circuit centered around Ras and coupled to a spectrum of extracellular cues, other component circuits transmit antigrowth and differentiation signals or mediate commands to live or die by apoptosis. As for the genetic reprogramming of this integrated circuit in cancer cells, some of the genes known to be functionally altered are highlighted in red.
+Figure options
+While acquisition of growth signaling autonomy by cancer cells is conceptually satisfying, it is also too simplistic. We have traditionally explored tumor growth by focusing our experimental attentions on the genetically deranged cancer cells (Figure 3, left panel). It is, however, increasingly apparent that the growth deregulation within a tumor can only be explained once we understand the contributions of the ancillary cells present in a tumor—the apparently normal bystanders such as fibroblasts and endothelial cells—which must play key roles in driving tumor cell proliferation (Figure 3, right panel). Within normal tissue, cells are largely instructed to grow by their neighbors (paracrine signals) or via systemic (endocrine) signals. Cell-to-cell growth signaling is likely to operate in the vast majority of human tumors as well; virtually all are composed of several distinct cell types that appear to communicate via heterotypic signaling.
+
+Full-size image (127 K)
+Figure 3. 
+Tumors as Complex Tissues
+The field of cancer research has largely been guided by a reductionist focus on cancer cells and the genes within them (left panel)—a focus that has produced an extraordinary body of knowledge. Looking forward in time, we believe that important new inroads will come from regarding tumors as complex tissues in which mutant cancer cells have conscripted and subverted normal cell types to serve as active collaborators in their neoplastic agenda (right panel). The interactions between the genetically altered malignant cells and these supporting coconspirators will prove critical to understanding cancer pathogenesis and to the development of novel, effective therapies.
+Figure options
+Heterotypic signaling between the diverse cell types within a tumor may ultimately prove to be as important in explaining tumor cell proliferation as the cancer cell-autonomous mechanisms enumerated above. For example, we suspect that many of the growth signals driving the proliferation of carcinoma cells originate from the stromal cell components of the tumor mass. While difficult to validate at present, such thinking recasts the logic of acquired GS autonomy: successful tumor cells are those that have acquired the ability to co-opt their normal neighbors by inducing them to release abundant fluxes of growth-stimulating signals (Skobe and Fusenig 1998). Indeed, in some tumors, these cooperating cells may eventually depart from normalcy, coevolving with their malignant neighbors in order to sustain the growth of the latter (58 and 72). Further, inflammatory cells attracted to sites of neoplasia may promote (rather than eliminate) cancer cells (18, 22 and 46), another example of normal cells conscripted to enhance tumor growth potential, another means to acquire necessary capabilities.
+
+Acquired Capability: Insensitivity to Antigrowth Signals
+Within a normal tissue, multiple antiproliferative signals operate to maintain cellular quiescence and tissue homeostasis; these signals include both soluble growth inhibitors and immobilized inhibitors embedded in the extracellular matrix and on the surfaces of nearby cells. These growth-inhibitory signals, like their positively acting counterparts, are received by transmembrane cell surface receptors coupled to intracellular signaling circuits.
+
+Antigrowth signals can block proliferation by two distinct mechanisms. Cells may be forced out of the active proliferative cycle into the quiescent (G0) state from which they may reemerge on some future occasion when extracellular signals permit. Alternatively, cells may be induced to permanently relinquish their proliferative potential by being induced to enter into postmitotic states, usually associated with acquisition of specific differentiation-associated traits.
+
+Incipient cancer cells must evade these antiproliferative signals if they are to prosper. Much of the circuitry that enables normal cells to respond to antigrowth signals is associated with the cell cycle clock, specifically the components governing the transit of the cell through the G1 phase of its growth cycle. Cells monitor their external environment during this period and, on the basis of sensed signals, decide whether to proliferate, to be quiescent, or to enter into a postmitotic state. At the molecular level, many and perhaps all antiproliferative signals are funneled through the retinoblastoma protein (pRb) and its two relatives, p107 and p130. When in a hypophosphorylated state, pRb blocks proliferation by sequestering and altering the function of E2F transcription factors that control the expression of banks of genes essential for progression from G1 into S phase (Weinberg 1995).
+
+Disruption of the pRb pathway liberates E2Fs and thus allows cell proliferation, rendering cells insensitive to antigrowth factors that normally operate along this pathway to block advance through the G1 phase of the cell cycle. The effects of the soluble signaling molecule TGFβ are the best documented, but we envision other antigrowth factors will be found to signal through this pathway as well. TGFβ acts in a number of ways, most still elusive, to prevent the phosphorylation that inactivates pRb; in this fashion, TGFβ blocks advance through G1. In some cell types, TGFβ suppresses expression of the c-myc gene, which regulates the G1 cell cycle machinery in still unknown ways ( Moses et al. 1990). More directly, TGFβ causes synthesis of the p15INK4B and p21 proteins, which block the cyclin:CDK complexes responsible for pRb phosphorylation ( 42 and 24).
+
+The pRb signaling circuit, as governed by TGFβ and other extrinsic factors, can be disrupted in a variety of ways in different types of human tumors (Fynan and Reiss 1993). Some lose TGFβ responsiveness through downregulation of their TGFβ receptors, while others display mutant, dysfunctional receptors (34 and 65). The cytoplasmic Smad4 protein, which transduces signals from ligand-activated TGFβ receptors to downstream targets, may be eliminated through mutation of its encoding gene (Schutte et al. 1996). The locus encoding p15INK4B may be deleted (Chin et al. 1998). Alternatively, the immediate downstream target of its actions, CDK4, may become unresponsive to the inhibitory actions of p15INK4B because of mutations that create amino acid substitutions in its INK4A/B-interacting domain; the resulting cyclin D:CDK4 complexes are then given a free hand to inactivate pRb by hyperphosphorylation (Zuo et al. 1996). Finally, functional pRb, the end target of this pathway, may be lost through mutation of its gene. Alternatively, in certain DNA virus-induced tumors, notably cervical carcinomas, pRb function is eliminated through sequestration by viral oncoproteins, such as the E7 oncoprotein of human papillomavirus (Dyson et al. 1989). In addition, cancer cells can also turn off expression of integrins and other cell adhesion molecules that send antigrowth signals, favoring instead those that convey progrowth signals; these adherence-based antigrowth signals likely impinge on the pRb circuit as well. The bottom line is that the antigrowth circuit converging onto Rb and the cell division cycle is, one way or another, disrupted in a majority of human cancers, defining the concept and a purpose of tumor suppressor loss in cancer.
+
+Cell proliferation depends on more than an avoidance of cytostatic antigrowth signals. Our tissues also constrain cell multiplication by instructing cells to enter irreversibly into postmitotic, differentiated states, using diverse mechanisms that are incompletely understood; it is apparent that tumor cells use various strategies to avoid this terminal differentiation. One strategy for avoiding differentiation directly involves the c-myc oncogene, which encodes a transcription factor. During normal development, the growth-stimulating action of Myc, in association with another factor, Max, can be supplanted by alternative complexes of Max with a group of Mad transcription factors; the Mad–Max complexes elicit differentiation-inducing signals ( Foley and Eisenman 1999). However, overexpression of the c-Myc oncoprotein, as is seen in many tumors, can reverse this process, shifting the balance back to favor Myc–Max complexes, thereby impairing differentiation and promoting growth. During human colon carcinogenesis, inactivation of the APC/β-catenin pathway serves to block the egress of enterocytes in the colonic crypts into a differentiated, postmitotic state ( Kinzler and Vogelstein 1996). Analogously, during the generation of avian erythroblastosis, the erbA oncogene acts to prevent irreversible erythrocyte differentiation ( Kahn et al. 1986).
+
+While the components and interconnections between the various antigrowth and differentiation-inducing signals and the core cell cycle machinery are still being delineated, the existence of an antigrowth signaling circuitry is clear (Figure 2), as is the necessity for its circumvention by developing cancers.
+
+Acquired Capability: Evading Apoptosis
+The ability of tumor cell populations to expand in number is determined not only by the rate of cell proliferation but also by the rate of cell attrition. Programmed cell death—apoptosis—represents a major source of this attrition. The evidence is mounting, principally from studies in mouse models and cultured cells, as well as from descriptive analyses of biopsied stages in human carcinogenesis, that acquired resistance toward apoptosis is a hallmark of most and perhaps all types of cancer.
+
+Observations accumulated over the past decade indicate that the apoptotic program is present in latent form in virtually all cell types throughout the body. Once triggered by a variety of physiologic signals, this program unfolds in a precisely choreographed series of steps. Cellular membranes are disrupted, the cytoplasmic and nuclear skeletons are broken down, the cytosol is extruded, the chromosomes are degraded, and the nucleus is fragmented, all in a span of 30–120 min. In the end, the shriveled cell corpse is engulfed by nearby cells in a tissue and disappears, typically within 24 hr (Wyllie et al. 1980).
+
+The apoptotic machinery can be broadly divided into two classes of components—sensors and effectors. The sensors are responsible for monitoring the extracellular and intracellular environment for conditions of normality or abnormality that influence whether a cell should live or die. These signals regulate the second class of components, which function as effectors of apoptotic death. The sentinels include cell surface receptors that bind survival or death factors. Examples of these ligand/receptor pairs include survival signals conveyed by IGF-1/IGF-2 through their receptor, IGF-1R, and by IL-3 and its cognate receptor, IL-3R (63 and 12). Death signals are conveyed by the FAS ligand binding the FAS receptor and by TNFα binding TNF-R1 (Ashkenazi and Dixit 1999). Intracellular sensors monitor the cell's well-being and activate the death pathway in response to detecting abnormalities, including DNA damage, signaling imbalance provoked by oncogene action, survival factor insufficiency, or hypoxia (Evan and Littlewood 1998). Further, the life of most cells is in part maintained by cell–matrix and cell–cell adherence-based survival signals whose abrogation elicits apoptosis (50 and 36). Both soluble and immobilized apoptotic regulatory signals likely reflect the needs of tissues to maintain their constituent cells in appropriate architectural configurations.
+
+Many of the signals that elicit apoptosis converge on the mitochondria, which respond to proapoptotic signals by releasing cytochrome C, a potent catalyst of apoptosis (Green and Reed 1998). Members of the Bcl-2 family of proteins, whose members have either proapoptotic (Bax, Bak, Bid, Bim) or antiapoptotic (Bcl-2, Bcl-XL, Bcl-W) function, act in part by governing mitochondrial death signaling through cytochrome C release. The p53 tumor suppressor protein can elicit apoptosis by upregulating expression of proapoptotic Bax in response to sensing DNA damage; Bax in turn stimulates mitochondria to release cytochrome C.
+
+The ultimate effectors of apoptosis include an array of intracellular proteases termed caspases (Thornberry and Lazebnik 1998). Two “gatekeeper” caspases, −8 and −9, are activated by death receptors such as FAS or by the cytochrome C released from mitochondria, respectively. These proximal caspases trigger the activation of a dozen or more effector caspases that execute the death program, through selective destruction of subcellular structures and organelles, and of the genome.
+
+The possibility that apoptosis serves as a barrier to cancer was first raised in 1972, when Kerr, Wyllie, and Currie described massive apoptosis in the cells populating rapidly growing, hormone-dependent tumors following hormone withdrawal (Kerr et al. 1972). The discovery of the bcl-2 oncogene by its upregulation via chromosomal translocation in follicular lymphoma (reviewed in Korsmeyer 1992) and its recognition as having antiapoptotic activity ( Vaux et al. 1988) opened up the investigation of apoptosis in cancer at the molecular level. When coexpressed with a myc oncogene in transgenic mice, the bcl-2 gene was able to promote formation of B cell lymphomas by enhancing lymphocyte survival, not by further stimulating their myc-induced proliferation ( Strasser et al. 1990); further, 50% of the infrequent lymphomas arising in bcl-2 single transgenic transgenic mice had somatic translocations activating c-myc, confirming a selective pressure during lymphomagenesis to upregulate both Bcl-2 and c-Myc ( McDonnell and Korsmeyer 1991).
+
+Further insight into the myc-bcl-2 interaction emerged later from studying the effects of a myc oncogene on fibroblasts cultured in low serum. Widespread apoptosis was induced in myc-expressing cells lacking serum; the consequent apoptosis could be abrogated by exogenous survival factors (e.g., IGF-1), by forced overexpression of Bcl-2 or the related Bcl-XL protein, or by disruption of the FAS death signaling circuit ( Hueber et al. 1997). Collectively, the data indicate that a cell's apoptotic program can be triggered by an overexpressed oncogene. Indeed, elimination of cells bearing activated oncogenes by apoptosis may represent the primary means by which such mutant cells are continually culled from the body's tissues.
+
+Other examples strengthen the consensus that apoptosis is a major barrier to cancer that must be circumvented. Thus, in transgenic mice where the pRb tumor suppressor was functionally inactivated in the choroid plexus, slowly growing microscopic tumors arose, exhibiting high apoptotic rates; the additional inactivation of the p53 tumor suppressor protein, a component of the apoptotic signaling circuitry, led to rapidly growing tumors containing low numbers of apoptotic cells (Symonds et al. 1994). The role of extracellular survival factors is illustrated by disease progression in transgenic mice prone to pancreatic islet tumors. If IGF-2 gene expression, which is activated in this tumorigenesis pathway, was abrogated using gene knockout mice, tumor growth and progression were impaired, as evidenced by the appearance of comparatively small, benign tumors showing high rates of apoptosis ( Christofori et al. 1994). In these cells, the absence of IGF-2 did not affect cell proliferation rates, clearly identifying it as an antiapoptotic survival factor. Collectively, these observations argue that altering components of the apoptotic machinery can dramatically affect the dynamics of tumor progression, providing a rationale for the inactivation of this machinery during tumor development.
+
+Resistance to apoptosis can be acquired by cancer cells through a variety of strategies. Surely, the most commonly occurring loss of a proapoptotic regulator through mutation involves the p53 tumor suppressor gene. The resulting functional inactivation of its product, the p53 protein, is seen in greater than 50% of human cancers and results in the removal of a key component of the DNA damage sensor that can induce the apoptotic effector cascade ( Harris 1996). Signals evoked by other abnormalities, including hypoxia and oncogene hyperexpression, are also funneled in part via p53 to the apoptotic machinery; these too are impaired at eliciting apoptosis when p53 function is lost ( Levine 1997). Additionally, the PI3 kinase–AKT/PKB pathway, which transmits antiapoptotic survival signals, is likely involved in mitigating apoptosis in a substantial fraction of human tumors. This survival signaling circuit can be activated by extracellular factors such as IGF-1/2 or IL-3 ( Evan and Littlewood 1998), by intracellular signals emanating from Ras ( Downward 1998), or by loss of the pTEN tumor suppressor, a phospholipid phosphatase that normally attenuates the AKT survival signal ( Cantley and Neel 1999). Recently, a mechanism for abrogating the FAS death signal has been revealed in a high fraction of lung and colon carcinoma cell lines: a nonsignaling decoy receptor for FAS ligand is upregulated, titrating the death-inducing signal away from the FAS death receptor ( Pitti et al. 1998). We expect that virtually all cancer cells harbor alterations that enable evasion of apoptosis.
+
+It is now possible to lay out a provisional apoptotic signaling circuitry (Figure 2); while incomplete, it is evident that most regulatory and effector components are present in redundant form. This redundancy holds important implications for the development of novel types of antitumor therapy, since tumor cells that have lost proapoptotic components are likely to retain other similar ones. We anticipate that new technologies will be able to display the apoptotic pathways still operative in specific types of cancer cells and that new drugs will enable cross-talk between the still intact components of parallel apoptotic signaling pathways in tumor cells, resulting in restoration of the apoptotic defense mechanism, with substantial therapeutic benefit.
+
+Acquired Capability: Limitless Replicative Potential
+Three acquired capabilities—growth signal autonomy, insensitivity to antigrowth signals, and resistance to apoptosis—all lead to an uncoupling of a cell's growth program from signals in its environment. In principle, the resulting deregulated proliferation program should suffice to enable the generation of the vast cell populations that constitute macroscopic tumors. However, research performed over the past 30 years indicates that this acquired disruption of cell-to-cell signaling, on its own, does not ensure expansive tumor growth. Many and perhaps all types of mammalian cells carry an intrinsic, cell-autonomous program that limits their multiplication. This program appears to operate independently of the cell-to-cell signaling pathways described above. It too must be disrupted in order for a clone of cells to expand to a size that constitutes a macroscopic, life-threatening tumor.
+
+The early work of Hayflick demonstrated that cells in culture have a finite replicative potential (reviewed in Hayflick 1997). Once such cell populations have progressed through a certain number of doublings, they stop growing—a process termed senescence. The senescence of cultured human fibroblasts can be circumvented by disabling their pRb and p53 tumor suppressor proteins, enabling these cells to continue multiplying for additional generations until they enter into a second state termed crisis. The crisis state is characterized by massive cell death, karyotypic disarray associated with end-to-end fusion of chromosomes, and the occasional emergence of a variant (1 in 107) cell that has acquired the ability to multiply without limit, the trait termed immortalization (Wright et al. 1989).
+
+Provocatively, most types of tumor cells that are propagated in culture appear to be immortalized, suggesting that limitless replicative potential is a phenotype that was acquired in vivo during tumor progression and was essential for the development of their malignant growth state (Hayflick 1997). This result suggests that at some point during the course of multistep tumor progression, evolving premalignant cell populations exhaust their endowment of allowed doublings and can only complete their tumorigenic agenda by breaching the mortality barrier and acquiring unlimited replicative potential.
+
+Observations of cultured cells indicate that various normal human cell types have the capacity for 60–70 doublings. Taken at face value, these numbers make little sense when attempting to invoke cell mortality as an impediment to cancer formation: 60–70 doublings should enable clones of tumor cells to expand to numbers that vastly exceed the number of cells in the human body. If clues from evaluation of proliferation and apoptotic rates in certain human tumors (Wyllie et al. 1980) and transgenic mouse models (88, 80 and 4) prove generalizable, the paradox can be resolved: evolving premalignant and malignant cell populations evidence chronic, widespread apoptosis and consequently suffer considerable cell attrition concomitant with cell accumulation. Thus, the number of cells in a tumor greatly underrepresents the cell generations required to produce it, raising the generational limit of normal somatic cells as a barrier to cancer.
+
+The counting device for cell generations has been discovered over the past decade: the ends of chromosomes, telomeres, which are composed of several thousand repeats of a short 6 bp sequence element. Replicative generations are counted by the 50–100 bp loss of telomeric DNA from the ends of every chromosome during each cell cycle. This progressive shortening has been attributed to the inability of DNA polymerases to completely replicate the 3′ ends of chromosomal DNA during each S phase. The progressive erosion of telomeres through successive cycles of replication eventually causes them to lose their ability to protect the ends of chromosomal DNA. The unprotected chromosomal ends participate in end-to-end chromosomal fusions, yielding the karyotypic disarray associated with crisis and resulting, almost inevitably, in the death of the affected cell (Counter et al. 1992).
+
+Telomere maintenance is evident in virtually all types of malignant cells (Shay and Bacchetti 1997); 85%–90% of them succeed in doing so by upregulating expression of the telomerase enzyme, which adds hexanucleotide repeats onto the ends of telomeric DNA (Bryan and Cech 1999), while the remainder have invented a way of activating a mechanism, termed ALT, which appears to maintain telomeres through recombination-based interchromosomal exchanges of sequence information (Bryan et al. 1995). By one or the other mechanism, telomeres are maintained at a length above a critical threshold, and this in turn permits unlimited multiplication of descendant cells. Both mechanisms seem to be strongly suppressed in most normal human cells in order to deny them unlimited replicative potential.
+
+The role of telomerase in immortalizing cells can be demonstrated directly by ectopically expressing the enzyme in cells, where it can convey unlimited replicative potential onto a variety of normal early passage, presenescent cells in vitro (7 and 92). Further, late passage cells poised to enter crisis continue to proliferate without giving any evidence of crisis when supplied with this enzyme (20, 40 and 101). Additional clues into the importance of telomere maintenance for cancer comes from analysis of mice lacking telomerase function. For example, mice carrying a homozygous knockout of the cell cycle inhibitor p16INK4A are tumor prone, particularly when exposed to carcinogens; the tumors that arise show comparatively elevated telomerase activity. When carcinogens were applied to p16INK4A-null mice that also lacked telomerase, tumor incidence was reduced, concomitant with substantial telomere shortening and karyotypic disarray in those tumors that did appear (Greenberg et al. 1999).
+
+While telomere maintenance is clearly a key component of the capability for unlimited replication, we remain uncertain about another one, the circumvention of cellular senescence. The phenomenon of senescence was originally observed as a delayed response of primary cells to extended propagation in vitro and has thus been associated with mechanisms of divisional counting (Hayflick 1997). More recently, the senescent state has been observed to be inducible in certain cultured cells in response to high level expression of genes such as the activated ras oncogene ( Serrano et al. 1997).
+
+The above-cited observations might argue that senescence, much like apoptosis, reflects a protective mechanism that can be activated by shortened telomeres or conflicting growth signals that forces aberrant cells irreversibly into a G0-like state, thereby rendering them incapable of further proliferation. If so, circumvention of senescence in vivo may indeed represent an essential step in tumor progression that is required for the subsequent approach to and breaching of the crisis barrier. But we consider an alternative model equally plausible: senescence could be an artifact of cell culture that does not reflect a phenotype of cells within living tissues and does not represent an impediment to tumor progression in vivo. Resolution of this quandary will be critical to completely understand the acquisition of limitless replicative potential.
+
+Acquired Capability: Sustained Angiogenesis
+The oxygen and nutrients supplied by the vasculature are crucial for cell function and survival, obligating virtually all cells in a tissue to reside within 100 μm of a capillary blood vessel. During organogenesis, this closeness is ensured by coordinated growth of vessels and parenchyma. Once a tissue is formed, the growth of new blood vessels—the process of angiogenesis—is transitory and carefully regulated. Because of this dependence on nearby capillaries, it would seem plausible that proliferating cells within a tissue would have an intrinsic ability to encourage blood vessel growth. But the evidence is otherwise. The cells within aberrant proliferative lesions initially lack angiogenic ability, curtailing their capability for expansion. In order to progress to a larger size, incipient neoplasias must develop angiogenic ability (8, 41 and 32).
+
+Counterbalancing positive and negative signals encourage or block angiogenesis. One class of these signals is conveyed by soluble factors and their receptors, the latter displayed on the surface of endothelial cells; integrins and adhesion molecules mediating cell–matrix and cell–cell association also play critical roles. The angiogenesis-initiating signals are exemplified by vascular endothelial growth factor (VEGF) and acidic and basic fibroblast growth factors (FGF1/2). Each binds to transmembrane tyrosine kinase receptors displayed by endothelial cells (29 and 93). A prototypical angiogenesis inhibitor is thrombospondin-1, which binds to CD36, a transmembrane receptor on endothelial cells coupled to intracellular Src-like tyrosine kinases (Bull et al. 1994). There are currently more than two dozen angiogenic inducer factors known and a similar number of endogenous inhibitor proteins.
+
+Integrin signaling also contributes to this regulatory balance. Quiescent vessels express one class of integrins, whereas sprouting capillaries express another. Interference with signaling from the latter class of integrins can inhibit angiogenesis (90 and 36), underscoring the important contribution of cell adhesion to the angiogenic program (Hynes and Wagner 1996). Extracellular proteases are physically and functionally connected with proangiogenic integrins, and both help dictate the invasive capability of angiogenic endothelial cells (Stetler-Stevenson 1999).
+
+Experimental evidence for the importance of inducing and sustaining angiogenesis in tumors is both extensive and compelling (8, 41 and 32). The story begins almost 30 years ago with Folkman and colleagues, who used in vivo bioassays to demonstrate the necessity of angiogenesis for explosive growth of tumor explants (reviewed in Folkman 1997). Molecular proof of principle came, for example, when anti-VEGF antibodies proved able to impair neovascularization and growth of subcutaneous tumors in mice (Kim et al. 1993), as did a dominant-interfering version of the VEGF receptor 2 (flk-1) (Millauer et al. 1994); both results have motivated the development of specific VEGF/VEGF-R inhibitors now in late stage clinical trials.
+
+The essential role of angiogenesis is further supported by the ability of an increasing catalog of antiangiogenic substances to impair the growth of tumor cells inoculated subcutaneously in mice (Folkman 1997). Tumors arising in cancer-prone transgenic mice are similarly susceptible to angiogenic inhibitors (Bergers et al. 1999).
+
+The ability to induce and sustain angiogenesis seems to be acquired in a discrete step (or steps) during tumor development, via an “angiogenic switch” from vascular quiescence. When three transgenic mouse models were analyzed throughout multistep tumorigenesis, in each case angiogenesis was found to be activated in midstage lesions, prior to the appearance of full-blown tumors. Similarly, angiogenesis can be discerned in premalignant lesions of the human cervix, breast, and skin (melanocytes) (Hanahan and Folkman 1996); we expect that induction of angiogenesis will prove to be an early to midstage event in many human cancers. These observations, taken together with the effects of angiogenesis inhibitors, indicate that neovascularization is a prerequisite to the rapid clonal expansion associated with the formation of macroscopic tumors.
+
+Tumors appear to activate the angiogenic switch by changing the balance of angiogenesis inducers and countervailing inhibitors (Hanahan and Folkman 1996). One common strategy for shifting the balance involves altered gene transcription. Many tumors evidence increased expression of VEGF and/or FGFs compared to their normal tissue counterparts. In others, expression of endogenous inhibitors such as thrombospondin-1 or β-interferon is downregulated. Moreover, both transitions may occur, and indeed be linked, in some tumors (82 and 94).
+
+The mechanisms underlying shifts in the balances between angiogenic regulators remain incompletely understood. In one well-documented example, the inhibitor thrombospondin-1 has been found to positively regulated by the p53 tumor suppressor protein in some cell types. Consequently, loss of p53 function, which occurs in most human tumors, can cause thrombospondin-1 levels to fall, liberating endothelial cells from its inhibitory effects (Dameron et al. 1994). The VEGF gene is also under complex transcriptional control. For example, activation of the ras oncogene or loss of the VHL tumor suppressor gene in certain cell types causes upregulation of VEGF expression ( 75 and 66).
+
+Another dimension of regulation is emerging in the form of proteases, which can control the bioavailability of angiogenic activators and inhibitors. Thus, a variety of proteases can release bFGF stored in the ECM (Whitelock et al. 1996), whereas plasmin, a proangiogenic component of the clotting system, can cleave itself into an angiogenesis inhibitor form called angiostatin (Gately et al. 1997). The coordinated expression of pro- and antiangiogenic signaling molecules, and their modulation by proteolysis, appear to reflect the complex homeostatic regulation of normal tissue angiogenesis and of vascular integrity.
+
+As is already apparent, tumor angiogenesis offers a uniquely attractive therapeutic target, indeed one that is shared in common by most and perhaps all types of human tumors. The next decade will produce a catalog of the angiogenic regulatory molecules expressed by different types of tumors, and in many cases, by their progenitor stages. Use of increasingly sophisticated mouse models will make it possible to assign specific roles to each of these regulators and to discern the molecular mechanisms that govern their production and activity. Already available evidence indicates that different types of tumor cells use distinct molecular strategies to activate the angiogenic switch. This raises the question of whether a single antiangiogenic therapeutic will suffice to treat all tumor types, or whether an ensemble of such therapeutics will need to be developed, each responding to a distinct program of angiogenesis that has been developed by a specific class of human tumors.
+
+Acquired Capability: Tissue Invasion and Metastasis
+Sooner or later during the development of most types of human cancer, primary tumor masses spawn pioneer cells that move out, invade adjacent tissues, and thence travel to distant sites where they may succeed in founding new colonies. These distant settlements of tumor cells—metastases—are the cause of 90% of human cancer deaths (Sporn 1996). The capability for invasion and metastasis enables cancer cells to escape the primary tumor mass and colonize new terrain in the body where, at least initially, nutrients and space are not limiting. The newly formed metastases arise as amalgams of cancer cells and normal supporting cells conscripted from the host tissue. Like the formation of the primary tumor mass, successful invasion and metastasis depend upon all of the other five acquired hallmark capabilities. But what additional cellular changes enable the acquisition of these final capabilities during tumorigenesis?
+
+Invasion and metastasis are exceedingly complex processes, and their genetic and biochemical determinants remain incompletely understood. At the mechanistic level, they are closely allied processes, which justifies their association with one another as one general capability of cancer cells. Both utilize similar operational strategies, involving changes in the physical coupling of cells to their microenvironment and activation of extracellular proteases.
+
+Several classes of proteins involved in the tethering of cells to their surroundings in a tissue are altered in cells possessing invasive or metastatic capabilities. The affected proteins include cell–cell adhesion molecules (CAMs)—notably members of the immunoglobulin and calcium-dependent cadherin families, both of which mediate cell-to-cell interactions—and integrins, which link cells to extracellular matrix substrates. Notably, all of these “adherence” interactions convey regulatory signals to the cell (Aplin et al. 1998). The most widely observed alteration in cell-to-environment interactions in cancer involves E-cadherin, a homotypic cell-to-cell interaction molecule ubiquitously expressed on epithelial cells. Coupling between adjacent cells by E-cadherin bridges results in the transmission of antigrowth and other signals via cytoplasmic contacts with β-catenin to intracellular signaling circuits that include the Lef/Tcf transcription factor (Christofori and Semb 1999). E-cadherin function is apparently lost in a majority of epithelial cancers, by mechanisms that include mutational inactivation of the E-cadherin or β-catenin genes, transcriptional repression, or proteolysis of the extracellular cadherin domain (Christofori and Semb 1999). Forced expression of E-cadherin in cultured cancer cells and in a transgenic mouse model of carcinogenesis impairs invasive and metastatic phenotypes, whereas interference with E-cadherin function enhances both capabilities (Christofori and Semb 1999). Thus, E-cadherin serves as a widely acting suppressor of invasion and metastasis by epithelial cancers, and its functional elimination represents a key step in the acquisition of this capability.
+
+Changes in expression of CAMs in the immunoglobulin superfamily also appear to play critical roles in the processes of invasion and metastasis (Johnson 1991). The clearest case involves N-CAM, which undergoes a switch in expression from a highly adhesive isoform to poorly adhesive (or even repulsive) forms in Wilms' tumor, neuroblastoma, and small cell lung cancer (52 and 54) and reduction in overall expression level in invasive pancreatic and colorectal cancers (Fogar et al. 1997). Experiments in transgenic mice support a functional role for the normal adhesive form of N-CAM in suppressing metastasis (Perl et al. 1999).
+
+Changes in integrin expression are also evident in invasive and metastatic cells. Invading and metastasizing cancer cells experience changing tissue microenvironments during their journeys, which can present novel matrix components. Accordingly, successful colonization of these new sites (both local and distant) demands adaptation, which is achieved through shifts in the spectrum of integrin α or β subunits displayed by the migrating cells. These novel permutations result in different integrin subtypes (of which there are greater than 22) having distinct substrate preferences. Thus, carcinoma cells facilitate invasion by shifting their expression of integrins from those that favor the ECM present in normal epithelium to other integrins (e.g., α3β1 and αVβ3) that preferentially bind the degraded stromal components produced by extracellular proteases (90 and 64). Forced expression of integrin subunits in cultured cells can induce or inhibit invasive and metastatic behavior, consistent with a role of these receptors in acting as central determinants of these processes (Varner and Cheresh 1996).
+
+Attempts at explaining the cell biological effects of integrins in terms of a small number of mechanistic rules have been confounded by the large number of distinct integrin genes, by the even larger number of heterodimeric receptors resulting from combinatorial expression of various α and β receptor subunits, and by the increasing evidence of complex signals emitted by the cytoplasmic domains of these receptors (1 and 36). Still, there is little doubt that these receptors play central roles in the capability for tissue invasion and metastasis.
+
+The second general parameter of the invasive and metastatic capability involves extracellular proteases (21 and 14). Protease genes are upregulated, protease inhibitor genes are downregulated, and inactive zymogen forms of proteases are converted into active enzymes. Matrix-degrading proteases are characteristically associated with the cell surface, by synthesis with a transmembrane domain, binding to specific protease receptors, or association with integrins (96 and 86). One imagines that docking of active proteases on the cell surface can facilitate invasion by cancer cells into nearby stroma, across blood vessel walls, and through normal epithelial cell layers. That notion notwithstanding, it is difficult to unambiguously ascribe the functions of particular proteases solely to this capability, given their evident roles in other hallmark capabilities, including angiogenesis (Stetler-Stevenson 1999) and growth signaling (96 and 3), which in turn contribute directly or indirectly to the invasive/metastatic capability.
+
+A further dimension of complexity derives from the multiple cell types involved in protease expression and display. In many types of carcinomas, matrix-degrading proteases are produced not by the epithelial cancer cells but rather by conscripted stromal and inflammatory cells (Werb 1997); once released by these cells, they may be wielded by the carcinoma cells. For example, certain cancer cells induce urokinase (uPA) expression in cocultured stromal cells, which then binds to the urokinase receptor (uPAR) expressed on the cancer cells (Johnsen et al. 1998).
+
+The activation of extracellular proteases and the altered binding specificities of cadherins, CAMs, and integrins are clearly central to the acquisition of invasiveness and metastatic ability. But the regulatory circuits and molecular mechanisms that govern these shifts remain elusive and, at present, seem to differ from one tissue environment to another. The acquired capability for invasion and metastasis represents the last great frontier for exploratory cancer research. We envision that evolving analytic techniques will soon make it possible to construct comprehensive profiles of the expression and functional activities of proteases, integrins, and CAMs in a wide variety of cancer types, both before and after they acquire invasive and metastatic abilities. The challenge will then be to apply the new molecular insights about tissue invasiveness and metastasis to the development of effective therapeutic strategies.
+
+An Enabling Characteristic: Genome Instability
+The acquisition of the enumerated six capabilities during the course of tumor progression creates a dilemma. The available evidence suggests that most are acquired, directly or indirectly, through changes in the genomes of cancer cells. But mutation of specific genes is an inefficient process, reflecting the unceasing, fastidious maintenance of genomic integrity by a complex array of DNA monitoring and repair enzymes. These genome maintenance teams strive to ensure that DNA sequence information remains pristine. Karyotypic order is guaranteed by yet other watchmen, manning so-called checkpoints, that operate at critical times in the cell's life, notably mitosis. Together, these systems ensure that mutations are rare events, indeed so rare that the multiple mutations known to be present in tumor cell genomes are highly unlikely to occur within a human life span.
+
+Yet cancers do appear at substantial frequency in the human population, causing some to argue that the genomes of tumor cells must acquire increased mutability in order for the process of tumor progression to reach completion in several decades time (Loeb 1991). Malfunction of specific components of these genomic “caretaker” systems has been invoked to explain this increased mutability (Lengauer et al. 1998). The most prominent member of these systems is the p53 tumor suppressor protein, which, in response to DNA damage, elicits either cell cycle arrest to allow DNA repair to take place or apoptosis if the damage is excessive. Indeed, it is now clear that the functioning of the p53 DNA damage signaling pathway is lost in most, if not all, human cancers (Levine 1997). Moreover, a growing number of other genes involved in sensing and repairing DNA damage, or in assuring correct chromosomal segregation during mitosis, is found to be lost in different cancers, labeling these caretakers as tumor suppressors (Lengauer et al. 1998). Their loss of function is envisioned to allow genome instability and variability and the generation of consequently mutant cells with selective advantages. Interestingly, recent evidence suggests that apoptosis may also be a vehicle of genomic instability, in that DNA within apoptotic cell bodies can be incorporated into neighboring cells following phagoctytosis (Holmgren et al. 1999), in principle genetically diversifying any of the constituent cell types of a tumor. We place this acquired characteristic of genomic instability apart from the six acquired capabilities associated with tumor cell phenotype and tumor physiology: it represents the means that enables evolving populations of premalignant cells to reach these six biological endpoints.
+
+Alternative Pathways to Cancer
+The paths that cells take on their way to becoming malignant are highly variable. Within a given cancer type, mutation of particular target genes such as ras or p53 may be found in only a subset of otherwise histologically identical tumors. Further, mutations in certain oncogenes and tumor suppressor genes can occur early in some tumor progression pathways and late in others. As a consequence, the acquisition of biological capabilities such as resistance to apoptosis, sustained angiogenesis, and unlimited replicative potential can appear at different times during these various progressions. Accordingly, the particular sequence in which capabilities are acquired can vary widely, both among tumors of the same type and certainly between tumors of different types ( Figure 4). Furthermore, in certain tumors, a specific genetic event may, on its own, contribute only partially to the acquisition of a single capability, while in others, this event may aid in the simultaneous acquisition of several distinct capabilities. Nonetheless, we believe that independent of how the steps in these genetic pathways are arranged, the biological endpoints that are ultimately reached—the hallmark capabilities of cancer—will prove to be shared in common by all types of tumors.
+
+Full-size image (180 K)
+Figure 4. 
+Parallel Pathways of Tumorigenesis
+While we believe that virtually all cancers must acquire the same six hallmark capabilities (A), their means of doing so will vary significantly, both mechanistically (see text) and chronologically (B). Thus, the order in which these capabilities are acquired seems likely be quite variable across the spectrum of cancer types and subtypes. Moreover, in some tumors, a particular genetic lesion may confer several capabilities simultaneously, decreasing the number of distinct mutational steps required to complete tumorigenesis. Thus, loss of function of the p53 tumor suppressor can facilitate both angiogenesis and resistance to apoptosis (e.g., in the five-step pathway shown), as well as enabling the characteristic of genomic instability. In other tumors, a capability may only be acquired through the collaboration of two or more distinct genetic changes, thereby increasing the total number necessary for completion of tumor progression. Thus, in the eight-step pathway shown, invasion/metastasis and resistance to apoptosis are each acquired in two steps.
+Figure options
+Synthesis
+Cancer cells propagated in culture and dissected into their molecular components have yielded much of the wealth of information that we currently possess about the molecular processes underlying cancer development. Yet by simplifying the nature of cancer—portraying it as a cell-autonomous process intrinsic to the cancer cell—these experimental models have turned their back on a central biological reality of tumor formation in vivo: cancer development depends upon changes in the heterotypic interactions between incipient tumor cells and their normal neighbors. Moreover, once formed, virtually all types of human tumors, including their metastatic outgrowths, continue to harbor complex mixtures of several cell types that collaborate to create malignant growth (Figure 3). This reconceptualization of cancer cell biology has begun to drive profound changes in how we study this disease experimentally. Continuing elucidation of cancer pathogenesis will depend increasingly upon heterotypic organ culture systems in vitro and evermore refined mouse models in vivo. Looking ahead into the future, these systems will help us chart comprehensive maps of growth signaling networks in cancer, an endeavor that will depend on defining all of the signals exchanged between the various cell types existing symbiotically within a tumor mass and knowing their effects on the integrated circuits of each of those cell types.
+
+Our ability to analyze individual human cancers at the genetic and biochemical levels will also undergo a dramatic change. At present, description of a recently diagnosed tumor in terms of its underlying genetic lesions remains a distant prospect. Nonetheless, we look ahead 10 or 20 years to the time when the diagnosis of all the somatically acquired lesions present in a tumor cell genome will become a routine procedure. By then, genome-wide gene expression profiles of tumor cells will also be routine. With all this information in hand, it will become possible to test definitively our proposition that the development of all types of human tumor cells is governed by a common set of rules such as those implied by the six acquired capabilities enumerated here.
+
+We anticipate far deeper insight into the roles played by inherited alleles in cancer susceptibility and pathogenesis. At present, our understanding of the interplay at the cellular level between inherited cancer modifier genes with oncogenes and tumor suppressor genes that are altered somatically is rudimentary; modifiers can in principle act in any of the constituent cell types of a tumor, or elsewhere in the body, whereas the classical cancer genes largely act in the cancer cells themselves. These gaps will be bridged in part by new informatics technologies, enabling us to process and interpret the inundation of genetic information that will soon flow from automated sequencing instruments. New technologies will also aid us in rationalizing the complex constellations of interacting alleles in terms of a systematics of cancer formation of the type that we propose here.
+
+The metaphors used to conceptualize cancer cell function will also shift dramatically. For decades now, we have been able to predict with precision the behavior of an electronic integrated circuit in terms of its constituent parts—its interconnecting components, each responsible for acquiring, processing, and emitting signals according to a precisely defined set of rules. Two decades from now, having fully charted the wiring diagrams of every cellular signaling pathway, it will be possible to lay out the complete “integrated circuit of the cell” upon its current outline (Figure 2). We will then be able to apply the tools of mathematical modeling to explain how specific genetic lesions serve to reprogram this integrated circuit in each of the constituent cell types so as to manifest cancer.
+
+With holistic clarity of mechanism, cancer prognosis and treatment will become a rational science, unrecognizable by current practitioners. It will be possible to understand with precision how and why treatment regimens and specific antitumor drugs succeed or fail. We envision anticancer drugs targeted to each of the hallmark capabilities of cancer; some, used in appropriate combinations and in concert with sophisticated technologies to detect and identify all stages of disease progression, will be able to prevent incipient cancers from developing, while others will cure preexisting cancers, elusive goals at present. One day, we imagine that cancer biology and treatment—at present, a patchwork quilt of cell biology, genetics, histopathology, biochemistry, immunology, and pharmacology—will become a science with a conceptual structure and logical coherence that rivals that of chemistry or physics.
+
+Acknowledgements
+We wish to thank Terry Schoop of Biomed Arts Associates, San Francisco, for preparation of the figures, Cori Bargmann and Zena Werb for insightful comments on the manuscript, and Normita Santore for editorial assistance. In addition, we are indebted to Joe Harford and Richard Klausner, who allowed us to adapt and expand their depiction of the cell signaling network, and we appreciate suggestions on signaling pathways from Randy Watnick, Brian Elenbas, Bill Lundberg, Dave Morgan, and Henry Bourne. R. A. W. is a Ludwig Foundation and American Cancer Society Professor of Biology. His work has been supported by the Department of the Army and the National Institutes of Health. D. H. acknowledges the support and encouragement of the National Cancer Institute. Editorial policy has rendered the citations illustrative but not comprehensive.
+
+References
+1
+A.E Aplin, A Howe, S.K Alahari, R.L Juliano
+Signal transduction and signal modulation by cell adhesion receptors: the role of integrins, cadherins, immunoglobulin-cell adhesion molecules, and selectins
+Pharmacol. Rev., 50 (1998), pp. 197–263
+
+View Record in Scopus | Cited By in Scopus (576)
+2
+A Ashkenazi, V.M Dixit
+Apoptosis control by death and decoy receptors
+Curr. Opin. Cell Biol., 11 (1999), pp. 255–260
+
+Article |  PDF (90 K) | View Record in Scopus | Cited By in Scopus (934)
+3
+G Bergers, L.M Coussens
+Extrinsic regulators of epithelial tumor progression: metalloproteinases
+Curr. Opin. Genet. Dev., in press (2000)
+
+4
+G Bergers, D Hanahan, L.M Coussens
+Angiogenesis and apoptosis are cellular parameters of neoplastic progression in transgenic mouse models of tumorigenesis
+Int. J. Dev. Biol., 42 (1998), pp. 995–1002
+
+View Record in Scopus | Cited By in Scopus (57)
+5
+G Bergers, K Javaherian, K.-M Lo, J Folkman, D Hanahan
+Effects of angiogenesis inhibitors on multistage carcinogenesis in mice
+Science, 284 (1999), pp. 808–812
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (747)
+6
+J.M Bishop, R.A Weinberg (Eds.), Molecular Oncology, Scientific American, Inc, New York (1996)
+
+7
+A.G Bodnar, M Ouellete, M Frolkis, S.E Holt, C Chiu, G.B Morin, C.B Harley, J.W Shay, S Lichtsteiner, W.E Wright
+Extension of life-span by introduction of telomerase into normal human cells
+Science, 279 (1998), pp. 349–352
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2965)
+8
+N Bouck, V Stellmach, S.C Hsu
+How tumors become angiogenic
+Adv. Cancer Res., 69 (1996), pp. 135–174
+
+Article |  PDF (2251 K) | View Record in Scopus | Cited By in Scopus (391)
+9
+T.M Bryan, T.R Cech
+Telomerase and the maintenance of chromosome ends
+Curr. Opin. Cell Biol., 11 (1999), pp. 318–324
+
+Article |  PDF (907 K) | View Record in Scopus | Cited By in Scopus (183)
+10
+T.M Bryan, A Englezou, J Gupta, S Bacchetti, R.R Reddel
+Telomere elongation in immortal human cells without detectable telomerase activity
+EMBO J., 14 (1995), pp. 4240–4248
+
+View Record in Scopus | Cited By in Scopus (811)
+11
+H.A Bull, P.M Brickell, P.M Dowd
+Src-related protein tyrosine kinases are physically associated with the surface antigen CD36 in human dermal microvascular endothelial cells
+FEBS Lett., 351 (1994), pp. 41–44
+
+Article |  PDF (623 K) | View Record in Scopus | Cited By in Scopus (68)
+12
+A.J Butt, S.M Firth, R.C Baxter
+The IGF axis and programmed cell death
+Immunol. Cell Biol., 77 (1999), pp. 256–262
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (135)
+13
+L.C Cantley, B.G Neel
+New insights into tumor suppression: PTEN suppresses tumor formation by restraining the phosphoinositide 3-kinase/AKT pathway
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 4240–4245
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1281)
+14
+A.F Chambers, L.M Matrisian
+Changing views of the role of matrix metalloproteinases in metastasis
+J. Natl. Cancer Inst., 89 (1997), pp. 1260–1270
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1109)
+15
+L Chin, J Pomerantz, R.A DePinho
+The INK4a/ARF tumor suppressor: one gene—two products—two pathways
+Trends Biochem. Sci., 23 (1998), pp. 291–296
+
+Article |  PDF (307 K) | View Record in Scopus | Cited By in Scopus (220)
+16
+G Christofori, H Semb
+The role of the cell-adhesion molecule E-cadherin as a tumour-suppressor gene
+Trends Biochem. Sci., 24 (1999), pp. 73–76
+
+Article |  PDF (217 K) | View Record in Scopus | Cited By in Scopus (465)
+17
+G Christofori, P Naik, D Hanahan
+A second signal supplied by insulin-like growth factor II in oncogene-induced tumorigenesis
+Nature, 369 (1994), pp. 414–418
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (295)
+18
+C Cordon-Cardo, C Prives
+At the crossroads of inflammation and tumorigenesis
+J. Exp. Med., 190 (1999), pp. 1367–1370
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (90)
+19
+C.M Counter, A.A Avilion, C.E LeFeuvre, N.G Stewart, C.W Greider, C.B Harley, S Bacchetti
+Telomere shortening associated with chromosome instability is arrested in immortal cells which express telomerase activity
+EMBO J., 11 (1992), pp. 1921–1929
+
+View Record in Scopus | Cited By in Scopus (1484)
+20
+C.M Counter, W.C Hahn, W Wei, S Dickinson Caddle, R.L Beijersbergen, P.M Lansdorp, J.M Sedivy, R.A Weinberg
+Dissociation between telomerase activity, telomere maintenance and cellular immortalization
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 14723–14728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (422)
+21
+L.M Coussens, Z Werb
+Matrix metalloproteinases and the development of cancer
+Chem. Biol., 3 (1996), pp. 895–904
+
+Article |  PDF (1835 K) | View Record in Scopus | Cited By in Scopus (392)
+22
+L.M Coussens, W.W Raymond, G Bergers, M Laig-Webster, O Behrendtsen, Z Werb, G.H Caughey, D Hanahan
+Inflammatory mast cells up-regulate angiogenesis during squamous epithelial carcinogenesis
+Genes Dev., 13 (1999), pp. 1382–1397
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (536)
+23
+K.M Dameron, O.V Volpert, M.A Tainsky, N Bouck
+Control of angiogenesis in fibroblasts by p53 regulation of thrombospondin-1
+Science, 265 (1994), pp. 1582–1584
+
+View Record in Scopus | Cited By in Scopus (1098)
+24
+M.B Datto, P.P Hu, T.F Kowalik, J Yingling, X.F Wang
+The viral oncoprotein E1A blocks transforming growth factor β-mediated induction of p21/WAF1/Cip1 and p15/INK4B Mol
+Cell. Biol., 17 (1997), pp. 2030–2037
+
+View Record in Scopus | Cited By in Scopus (76)
+25
+P.P DiFiore, J.H Pierce, M.H Kraus, O Segatto, C.R King, S.A Aaronson
+erb B-2 is a potent oncogene when overexpressed in NIH/3T3 cells
+Science, 237 (1987), pp. 178–182
+
+View Record in Scopus | Cited By in Scopus (544)
+26
+J Downward
+Mechanisms and consequences of activation of protein kinase B/Akt
+Curr. Opin. Cell Biol., 10 (1998), pp. 262–267
+
+Article |  PDF (587 K) | View Record in Scopus | Cited By in Scopus (994)
+27
+N Dyson, P.M Howley, K Munger, E Harlow
+The human papillomavirus-16 E7 oncoprotein is able to bind to the retinoblastoma gene product
+Science, 243 (1989), pp. 934–937
+
+View Record in Scopus | Cited By in Scopus (1409)
+28
+G Evan, T Littlewood
+A matter of life and cell death
+Science, 281 (1998), pp. 1317–1322
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1189)
+29
+P Fedi, S.R Tronick, S.A Aaronson
+Growth factors
+J.F Holland, R.C Bast, D.L Morton, E Frei, D.W Kufe, R.R Weichselbaum (Eds.), Cancer Medicine, Williams and Wilkins, Baltimore, MD (1997) 41–64.pp
+
+30
+P Fogar, D Basso, C Pasquali, C De Paoli, C Sperti, G Roveroni, G Pedrazzoli, M Plebani
+Neural cell adhesion molecule (N-CAM) in gastrointestinal neoplasias
+Anticancer Res., 17 (1997), pp. 1227–1230
+
+View Record in Scopus | Cited By in Scopus (46)
+31
+K.P Foley, R.N Eisenman
+Two MAD tails: what the recent knockouts of Mad1 and Mx1 tell us about the MYC/MAX/MAD network
+Biochim. Biophys. Acta, 1423 (1999), pp. M37–47
+
+32
+J Folkman
+Tumor angiogenesis
+J.F Holland, R.C Bast, D.L Morton, E Frei, D.W Kufe, R.R Weichselbaum (Eds.), Cancer Medicine, Williams and Wilkins, Baltimore, MD (1997) 181–204.pp
+
+33
+L Foulds
+The Experimental Study of Tumor Progression. Volumes I–IIIAcademic Press, London (1954)
+
+34
+T.M Fynan, M Reiss
+Resistance to inhibition of cell growth by transforming growth factor-β and its role in oncogenesis
+Crit. Rev. Oncog., 4 (1993), pp. 493–540
+
+View Record in Scopus | Cited By in Scopus (229)
+35
+S Gately, P Twardowski, M.S Stack, D.L Cundiff, D Grella, F.J Castellino, J Enghild, H.C Kwaan, F Lee, R.A Kramer et al.
+The mechanism of cancer-mediated conversion of plasminogen to the angiogenesis inhibitor angiostatin
+Proc. Natl. Acad. Sci. USA, 94 (1997), pp. 10868–10872
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (243)
+36
+F.G Giancotti, E Ruoslahti
+Integrin signaling
+Science, 285 (1999), pp. 1028–1032
+
+View Record in Scopus | Cited By in Scopus (2768)
+37
+D.R Green, J.C Reed
+Mitochondria and apoptosis
+Science, 281 (1998), pp. 1309–1312
+
+View Record in Scopus | Cited By in Scopus (6223)
+38
+R.A Greenberg, L Chin, A Femino, K.H Lee, G.J Gottlieb, R.H Singer, C.W Greider, R.A DePinho
+Short dysfunctional telomeres impair tumorigenesis in the INK4aΔ2/3 cancer-prone mouse
+Cell, 97 (1999), pp. 515–525
+
+Article |  PDF (412 K) | View Record in Scopus | Cited By in Scopus (270)
+39
+W.C Hahn, C.M Counter, A.S Lundberg, R.L Beijersbgern, M.W Brooks, R.A Weinberg
+Creation of human tumor cells with defined genetic elements
+Nature, 400 (1999), pp. 464–468
+
+View Record in Scopus | Cited By in Scopus (1481)
+40
+T.L Halvorsen, G Leibowitz, F Levine
+Telomerase activity is sufficient to allow transformed cells to escape from crisis
+Mol. Cell. Biol., 19 (1999), pp. 1864–1870
+
+View Record in Scopus | Cited By in Scopus (125)
+41
+D Hanahan, J Folkman
+Patterns and emerging mechanisms of the angiogenic switch during tumorigenesis
+Cell, 86 (1996), pp. 353–364
+
+Article |  PDF (8230 K) | View Record in Scopus | Cited By in Scopus (4578)
+42
+G.J Hannon, D Beach
+P15INK4B is a potential effector of TGF-beta-induced cell cycle arrest
+Nature, 371 (1994), pp. 257–261
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1462)
+43
+C.C Harris
+p53 tumor suppressor gene: from the basic research laboratory to the clinic—an abridged historical perspective
+Carcinogenesis, 17 (1996), pp. 1187–1198
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (195)
+44
+L Hayflick
+Mortality and immortality at the cellular level. A review
+Biochemistry, 62 (1997), pp. 1180–1190
+
+View Record in Scopus | Cited By in Scopus (90)
+45
+L Holmgren, A Szeles, E Rajnavolgyi, J Folkman, G Klein, I Ernberg, K.I Falk
+Horizontal transfer of DNA by the uptake of apoptotic bodies
+Blood, 93 (1999), pp. 3956–3963
+
+View Record in Scopus | Cited By in Scopus (166)
+46
+J.D Hudson, M.A Shoaibi, R Maestro, A Carnero, G.J Hannon, D.H Beach
+A proinflammatory cytokine inhibits p53 tumor suppressor activity
+J. Exp. Med., 190 (1999), pp. 1375–1382
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (388)
+47
+A.O Hueber, M Zornig, D Lyon, T Suda, S Nagata, G.I Evan
+Requirement for the CD95 receptor-ligand pathway in c-Myc-induced apoptosis
+Science, 278 (1997), pp. 1305–1309
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (298)
+48
+T Hunter
+Oncoprotein networks
+Cell, 88 (1997), pp. 333–346
+
+Article |  PDF (293 K) | View Record in Scopus | Cited By in Scopus (565)
+49
+R.O Hynes, D.D Wagner
+Genetic manipulation of vascular adhesion molecules in mice
+J. Clin. Invest., 98 (1996), pp. 2193–2195
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (54)
+50
+Y Ishizaki, L Cheng, A.W Mudge, M.C Raff
+Programmed cell death by default in embryonic cells, fibroblasts, and cancer cells
+Mol. Biol. Cell, 6 (1995), pp. 1443–1458
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (116)
+51
+M Johnsen, L.R Lund, J Romer, K Almholt, K Dano
+Cancer invasion and tissue remodeling: common themes in proteolytic matrix degradation
+Curr. Opin. Cell Biol., 10 (1998), pp. 667–671
+
+Article |  PDF (501 K) | View Record in Scopus | Cited By in Scopus (262)
+52
+J.P Johnson
+Cell adhesion molecules of the immunoglobulin supergene family and their role in malignant transformation and progression to metastatic disease
+Cancer Metastasis Rev., 10 (1991), pp. 11–22
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (96)
+53
+P Kahn, L Frykberg, C Brady, I Stanley, H Beug, B Vennström, T Graf
+v-erbA cooperates with sarcoma oncogenes in leukemic cell transformation
+Cell, 45 (1986), pp. 349–356
+
+Article |  PDF (1471 K) | View Record in Scopus | Cited By in Scopus (26)
+54
+U Kaiser, B Auerbach, M Oldenburg
+The neural cell adhesion molecule NCAM in multiple myeloma
+Leuk. Lymphoma, 20 (1996), pp. 389–395
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (33)
+55
+J.F Kerr, A.H Wyllie, A.R Currie
+Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics
+Br. J. Cancer, 26 (1972), pp. 239–257
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (8499)
+56
+K.J Kim, B Li, J Winer, M Armanini, N Gillett, H.S Philipps, N Ferrara
+Inhibition of vascular endothelial growth factor-induced angiogenesis suppresses tumour growth in vivo
+Nature, 362 (1993), pp. 841–844
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2534)
+57
+K.W Kinzler, B Vogelstein
+Lessons from hereditary colorectal cancer
+Cell, 87 (1996), pp. 159–170
+
+Article |  PDF (1687 K) | View Record in Scopus | Cited By in Scopus (3298)
+58
+K.W Kinzler, B Vogelstein
+Landscaping the cancer terrain
+Science, 280 (1998), pp. 1036–1037
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (346)
+59
+S.J Korsmeyer
+Chromosomal translocations in lymphoid malignancies reveal novel proto-oncogenes
+Annu. Rev. Immunol., 10 (1992), pp. 785–807
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (154)
+60
+C Lengauer, K.W Kinzler, B Vogelstein
+Genetic instabilities in human cancers
+Nature, 396 (1998), pp. 643–649
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2530)
+61
+A.J Levine
+p53, the cellular gatekeeper for growth and division
+Cell, 88 (1997), pp. 323–331
+
+Article |  PDF (247 K) | View Record in Scopus | Cited By in Scopus (5322)
+62
+L.A Loeb
+Mutator phenotype may be required for multistep carcinogenesis
+Cancer Res., 51 (1991), pp. 3073–3079
+
+63
+J Lotem, L Sachs
+Control of apoptosis in hematopoiesis and leukemia by cytokines, tumor suppressor and oncogenes
+Leukemia, 10 (1996), pp. 925–931
+
+View Record in Scopus | Cited By in Scopus (82)
+64
+M.E Lukashev, Z Werb
+ECM signaling: orchestrating cell behaviour and misbehaviour
+Trends Cell Biol., 8 (1998), pp. 437–441
+
+Article |  PDF (90 K) | View Record in Scopus | Cited By in Scopus (279)
+65
+S Markowitz, J Wang, L Meyeroff, R Parsons, L Sun, J Lutterbaugh, R Fan, E Zborowska, K Kinzler, B Vogelstein et al.
+Inactivation of the type II TGF-β receptor in colon cancer cells with microsatellite instability
+Science, 268 (1995), pp. 1336–1338
+
+View Record in Scopus | Cited By in Scopus (1776)
+66
+P.H Maxwell, M.S Wiesener, G.-W Chang, S.C Clifford, E.C Vaux, M.E Cockman, C.C Wykoff, C.W Pugh, E.R Maher, P.J Ratcliffe
+The tumour suppressor protein VHL targets hypoxia-inducible factors for oxygen-dependent proteolysis
+Nature, 399 (1999), pp. 271–275
+
+View Record in Scopus | Cited By in Scopus (2565)
+67
+T.J McDonnell, S.J Korsmeyer
+Progression from lymphoid hyperplasia to high-grade malignant lymphoma in mice transgenic for the t(14;18)
+Nature, 349 (1991), pp. 254–256
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (523)
+68
+R.H Medema, J.L Bos
+The role of p21-ras in receptor tyrosine kinase signaling
+Crit. Rev. Oncog., 4 (1993), pp. 615–661
+
+View Record in Scopus | Cited By in Scopus (101)
+69
+B Millauer, L.K Shawver, K.H Plate, W Risau, A Ullrich
+Glioblastoma growth inhibited in vivo by a dominant-negative Flk-1 mutant
+Nature, 367 (1994), pp. 576–579
+
+Full Text via CrossRef
+70
+H.L Moses, E.Y Yang, J.A Pietenpol
+TGF-β stimulation and inhibition of cell proliferation: new mechanistic insights
+Cell, 63 (1990), pp. 245–247
+
+Article |  PDF (350 K) | View Record in Scopus | Cited By in Scopus (541)
+71
+P.C Nowell
+The clonal evolution of tumor cell populations
+Science, 194 (1976), pp. 23–28
+
+View Record in Scopus | Cited By in Scopus (1805)
+72
+A.F Olumi, G.D Grossfeld, S.W Hayward, P.R Carroll, T.D Tlsty, G.R Cunha
+Carcinoma-associated fibroblasts direct tumor progression of initiated human prostatic epithelium
+Cancer Res., 59 (1999), pp. 5002–5011
+
+View Record in Scopus | Cited By in Scopus (776)
+73
+A.-K Perl, U Dahl, P Wilgenbus, H Cremer, H Semb, G Christofori
+Reduced expresion of neural cell adhesion molecule induces metastatic dissemination of pancreatic β tumor cells
+Nat. Med., 5 (1999), pp. 286–291
+
+View Record in Scopus | Cited By in Scopus (103)
+74
+R.M Pitti, S.A Marsters, D.A Lawrence, M Roy, F.C Kischkel, P Dowd, A Huang, C.J Donahue, S.W Sherwood, D.T Baldwin et al.
+Genomic amplification of a decoy receptor for Fas ligand in lung and colon cancer
+Nature, 396 (1998), pp. 699–703
+
+View Record in Scopus | Cited By in Scopus (512)
+75
+J Rak, J Filmus, G Finkenzeller, S Grugel, D Marme, R.S Kerbel
+Oncogenes as inducers of tumor angiogenesis
+Cancer Metastasis Rev., 14 (1995), pp. 263–277
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (185)
+76
+M.J Renan
+How many mutations are required for tumorigenesis? Implications from human cancer data
+Mol. Carcinogenesis, 7 (1993), pp. 139–146
+
+View Record in Scopus | Cited By in Scopus (277)
+77
+C Rommel, E Hafen
+Ras—a versatile cellular switch
+Curr. Opin. Genet. Dev., 8 (1998), pp. 412–418
+
+Article |  PDF (855 K) | View Record in Scopus | Cited By in Scopus (89)
+78
+M Schutte, R Hruban, L Hedrick, K Cho, G Nadasdy, C Weinstein, G Bova, W Isaacs, P Cairns, H Nawroz et al.
+DPC4 gene in various tumor types
+Cancer Res., 56 (1996), pp. 2527–2530
+
+View Record in Scopus | Cited By in Scopus (572)
+79
+M Serrano, A.W Lin, M.E McCurrach, D Beach, S.W Lowe
+Oncogeneic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4A
+Cell, 88 (1997), pp. 593–602
+
+Article |  PDF (2176 K) | View Record in Scopus | Cited By in Scopus (2462)
+80
+M.A Shibata, I.G Maroulakou, C.L Jorcyk, L.G Gold, J.M Ward, J.E Green
+p53-independent apoptosis during mammary tumor progression in C3(1)/SV40 large T antigen transgenic mice: suppression of apoptosis during the transition from preneoplasia to carcinoma
+Cancer Res., 56 (1996), pp. 2998–3003
+
+View Record in Scopus | Cited By in Scopus (61)
+81
+J.W Shay, S Bacchetti
+A survey of telomerase activity in human cancer
+Eur. J. Cancer, 33 (1997), pp. 787–791
+
+Article |  PDF (427 K) | View Record in Scopus | Cited By in Scopus (1639)
+82
+R.K Singh, M Gutman, C.D Bucana, R Sanchez, N Llansa, I.J Fidler
+Interferons alpha and beta down-regulate the expression of basic fibroblast growth factor in human carcinomas
+Proc. Natl. Acad. Sci. USA, 92 (1995), pp. 4562–4566
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (364)
+83
+M Skobe, N.E Fusenig
+Tumorigenic conversion of immortal human keratinocytes through stromal cell activation
+Proc. Natl. Acad. Sci. USA, 95 (1998), pp. 1050–1055
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (163)
+84
+D.J Slamon, G.M Clark, S.G Wong, W.J Levin, A Ullrich, W.L McGuire
+Human breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene
+Science, 235 (1987), pp. 177–182
+
+View Record in Scopus | Cited By in Scopus (4743)
+85
+M.B Sporn
+The war on cancer
+Lancet, 347 (1996), pp. 1377–1381
+
+Article |  PDF (834 K) | View Record in Scopus | Cited By in Scopus (322)
+86
+W.G Stetler-Stevenson
+Matrix metalloproteinases in angiogenesis: a moving target for therapeutic intervention
+J. Clin. Invest., 103 (1999), pp. 1237–1241
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (507)
+87
+A Strasser, A.W Harris, M.L Bath, S Cory
+Novel primitive lymphoid tumours induced in transgenic mice by cooperation between myc and bcl-2
+Nature, 348 (1990), pp. 331–333
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (502)
+88
+H Symonds, L Krall, L Remington, M Saenz-Robles, S Lowe, T Jacks, T Van Dyke
+p53-dependent apoptosis suppresses tumor growth and progression in vivo
+Cell, 78 (1994), pp. 703–711
+
+Article |  PDF (11077 K) | View Record in Scopus | Cited By in Scopus (696)
+89
+N.A Thornberry, Y Lazebnik
+Caspases: enemies within
+Science, 281 (1998), pp. 1312–1316
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (5070)
+90
+J.A Varner, D.A Cheresh
+Integrins and cancer
+Curr. Opin. Cell Biol., 8 (1996), pp. 724–730
+
+Article |  PDF (753 K) | View Record in Scopus | Cited By in Scopus (382)
+91
+D.L Vaux, S Cory, T.M Adams
+Bcl-2 promotes the survival of hematopoietic cells and cooperates with c-myc to immortalize pre-B cells
+Nature, 335 (1988), pp. 440–442
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1715)
+92
+H Vaziri, S Benchimol
+Reconstitution of telomerase activity in normal human cells leads to elongation of telomeres and extended replicative life span
+Curr. Biol., 8 (1998), pp. 279–282
+
+Article |  PDF (107 K) | View Record in Scopus | Cited By in Scopus (725)
+93
+T Veikkola, K Alitalo
+VEGFs, receptors and angiogenesis
+Semin. Cancer Biol., 9 (1999), pp. 211–220
+
+Article |  PDF (328 K) | View Record in Scopus | Cited By in Scopus (356)
+94
+O.V Volpert, K.M Dameron, N Bouck
+Sequential development of an angiogenic phenotype by human fibroblasts progressing to tumorigenicity
+Oncogene, 14 (1997), pp. 1495–1502
+
+View Record in Scopus | Cited By in Scopus (146)
+95
+R.A Weinberg
+The retinoblastoma protein and cell cycle control
+Cell, 81 (1995), pp. 323–330
+
+Article |  PDF (817 K) | View Record in Scopus | Cited By in Scopus (3486)
+96
+Z Werb
+ECM and cell surface proteolysis: regulating cellular ecology
+Cell, 91 (1997), pp. 439–442
+
+Article |  PDF (799 K) | View Record in Scopus | Cited By in Scopus (928)
+97
+J.M Whitelock, A.D Murdoch, R.V Iozzo, P.A Underwood
+The degradation of human endothelial cell-derived perlecan and release of bound basic fibroblast growth factor by stromelysin, collagenase, plasmin, and heparanases
+J. Biol. Chem., 271 (1996), pp. 10079–10086
+
+View Record in Scopus | Cited By in Scopus (378)
+98
+W.E Wright, O.M Pereira-Smith, J.W Shay
+Reversible cellular senescence: implications for immortalization of normal human diploid fibroblasts
+Mol. Cell. Biol., 9 (1989), pp. 3088–3092
+
+View Record in Scopus | Cited By in Scopus (262)
+99
+A.H Wyllie, J.F Kerr, A.R Currie
+Cell death: the significance of apoptosis
+Int. Rev. Cytol., 68 (1980), pp. 251–306
+
+Article |  PDF (4878 K) | View Record in Scopus | Cited By in Scopus (4774)
+100
+Y Yarden, A Ullrich
+EGF and erbB2 receptor overexpression in human tumors. Growth factor recepor tyrosine kinases
+Annu. Rev. Biochem., 57 (1988), pp. 443–478
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (613)
+101
+J Zhu, H Wang, J.M Bishop, E.H Blackburn
+Telomerase extends the lifespan of virus-transformed human cells without net telomere lengthening
+Proc. Natl. Acad. Sci. USA, 96 (1999), pp. 3723–3728
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (309)
+102
+L Zuo, J Weger, Q Yang, A.M Goldstein, M.A Tucker, G.J Walker, N Hayward, N.C Dracopoli
+Germline mutations in the p16INK4A binding domain of CDK4 in familial melanoma
+Nat. Genet., 12 (1996), pp. 97–99
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (487)
+Corresponding author contact information
+Correspondence: Douglas Hanahan, 415 476 9209 (phone), 415 731 3612 (fax)

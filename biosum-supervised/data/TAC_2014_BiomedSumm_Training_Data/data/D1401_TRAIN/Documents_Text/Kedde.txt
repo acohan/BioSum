@@ -1,0 +1,418 @@
+Cell
+Volume 131, Issue 7, 28 December 2007, Pages 1273–1286
+ Cover image
+Article
+RNA-Binding Protein Dnd1 Inhibits MicroRNA Access to Target mRNA
+Martijn Kedde1, Markus J. Strasser2, Bijan Boldajipour2, Joachim A.F. Oude Vrielink1, Krasimir Slanchev2, 5, Carlos le Sage1, Remco Nagel1, P. Mathijs Voorhoeve1, Josyanne van Duijse1, Ulf Andersson Ørom3, Anders H. Lund3, Anastassis Perrakis4, Erez Raz2, Corresponding author contact information, E-mail the corresponding author, Reuven Agami1, Corresponding author contact information, E-mail the corresponding author
+Show more
+http://dx.doi.org/10.1016/j.cell.2007.11.034
+Referred to by
+René F. Ketting
+A Dead End for MicroRNAs
+Cell, Volume 131, Issue 7, 28 December 2007, Pages 1226-1227
+ PDF (197 K)         
+  Open Archive
+Summary
+MicroRNAs (miRNAs) are inhibitors of gene expression capable of controlling processes in normal development and cancer. In mammals, miRNAs use a seed sequence of 6–8 nucleotides (nt) to associate with 3′ untranslated regions (3′UTRs) of mRNAs and inhibit their expression. Intriguingly, occasionally not only the miRNA-targeting site but also sequences in its vicinity are highly conserved throughout evolution. We therefore hypothesized that conserved regions in mRNAs may serve as docking platforms for modulators of miRNA activity. Here we demonstrate that the expression of dead end 1 (Dnd1), an evolutionary conserved RNA-binding protein (RBP), counteracts the function of several miRNAs in human cells and in primordial germ cells of zebrafish by binding mRNAs and prohibiting miRNAs from associating with their target sites. These effects of Dnd1 are mediated through uridine-rich regions present in the miRNA-targeted mRNAs. Thus, our data unravel a novel role of Dnd1 in protecting certain mRNAs from miRNA-mediated repression.
+
+Author Keywords
+RNA; PROTEINS; DEVBIO
+Introduction
+MicroRNAs (miRNAs) constitute a family of ∼22 nucleotide (nt) RNAs widely expressed in metazoans (Lee et al., 1993 and Pillai et al., 2007). These regulators of gene expression are capable of defining and altering cell fate. Recent estimations suggest the existence of 500–1000 miRNAs per genome and that a large proportion of human protein-coding genes are under the regulation of one or more miRNAs (Aravin and Tuschl, 2005 and Lewis et al., 2005). Evidence suggests that miRNAs participate in the regulation of a large variety of cellular processes and that the vast majority of miRNAs show tissue or developmental stage-specific expression (Lagos-Quintana et al., 2002, Lim et al., 2005 and Wienholds et al., 2005). Importantly, aberrant expression or activity of miRNAs can lead to disease (Kloosterman and Plasterk, 2006, Pillai et al., 2007 and Voorhoeve and Agami, 2006).
+
+Most miRNAs are transcribed by RNA polymerase II as long RNAs that are converted to ∼70-nt-long pre-miRNAs by Drosha (Lee et al., 2003). The pre-miRNAs are then exported to the cytoplasm by Exportin 5, converted to ∼22 nt mature miRNAs by Dicer, and one strand of the duplex is incorporated into the RNA-induced silencing complex (RISC) (Gregory et al., 2005 and Maniataki and Mourelatos, 2005). In animals, miRNAs utilize a seed sequence at their 5′ end (nt 2–8) to associate with 3′UTR regions of mRNAs to suppress gene expression by inhibiting translation that occasionally is associated with mRNA decay (Bagga et al., 2005, Lim et al., 2005 and Pillai et al., 2005). Repressed mRNAs, miRNAs, and most proteins constituting the miRNA-RISC complex (miRNP) are enriched in cytoplasmic processing bodies called P bodies. P bodies are known to be sites of translational repression and mRNA decay. They are enriched in factors involved in inhibition of translation and lack ribosomes and translation-initiation factors (Liu et al., 2005 and Pillai et al., 2005).
+
+Importantly, it is becoming increasingly clear that during their biogenesis, the activity of miRNAs is subjected to intense regulation. For example, the nuclear processing of certain miRNAs (e.g., let-7 in ES cells) can be repressed by a yet unknown mechanism (Thomson et al., 2006). Furthermore, certain miRNAs are modified by RNA editing, a process that can lead to changes in miRNA stability or alter their target selection (Kawahara et al., 2007, Knight and Bass, 2002 and Yang et al., 2006). Additionally, two recent reports indicated that miRNA-mediated repression in neurons is reversible. Treatment of cultured rat neurons with brain-derived neurotrophic factor leads to partial relief of Limk1 mRNA repression by miRNA-134 (Schratt et al., 2006). This process possibly involves the mTOR pathway, although the mechanism of miRNA derepression remains unknown. Second, external stimulation of Drosophila olfactory neurons induces degradation of the Armitage protein, which is required for miRNP assembly ( Ashraf et al., 2006). As a result, the translation of the protein kinase CaMKII mRNA, which is controlled by miRNAs, is enhanced. Last, the repression of CAT-1 mRNA by miR-122 in hepatocarcinoma cells is relieved in stress conditions by binding of HuR, an AU-rich element-binding protein, to a region at the end of the 3′UTR of CAT-1 ( Bhattacharyya et al., 2006).
+
+In addition, evidence in zebrafish suggests that, a subset of miR-430 targets is protected from repression in germ cells (Mishima et al., 2006). In particular, miR-430-mediated repression of nanos1 and TDRD7 is not effective in germ cells. As specific regions in the 3′UTR of these genes counteract their repression in germline cells, it is reasonable to assume that germ cell-specific factors bind and counteract miR-430 function in these cells. Germ cells are known to contain structures referred to as germ plasm that resemble P bodies; these contain an array of RNA-binding proteins (RBPs) giving these cells unique control over translation and the stability of mRNA and proteins (Kotaja et al., 2006 and Kotaja and Sassone-Corsi, 2007). Together, these observations indicate that the miRNA pathway can be controlled at different levels, from stability, processing, sequence identity, and binding to target mRNAs. Here we show that the RBP dead end 1 (Dnd1) prohibits miRNA-dependent inhibition of gene expression in human cells and in zebrafish primordial germ cells.
+
+Results
+Dnd1 Relieves miRNA Repression in Human Germline Cells
+Using functional genetic-screening approaches, we have recently identified the miRNA-mRNA interactions between p27 and miR-221 and between LATS2 and miR-372 as promoting cancer (le Sage et al., 2007 and Voorhoeve et al., 2006). Both p27 and LATS2 harbor at their 3′UTR two nearby evolutionary conserved target sequences for miRNA-221 or -372, respectively, that are required and sufficient for miRNA function (Figures 1A, S1A, and S1B). Interestingly, in both cases the conservation was not restricted to the miRNA-targeting sequences, but rather included the whole region in between the two miRNA-targeting sites. This observation suggests that other factors (proteins or RNA) could associate with these regions to influence miRNA/mRNA function and/or interaction. To investigate the possibility that RBPs influence the activity of the miRNA pathway, we examined the effect of expression of several RBPs on miR-221-mediated repression of p27. We utilized a reporter assay with the wild-type 3′UTR of p27 coupled to luciferase and measured miRNA-induced repression. We found that human dead end 1 (Dnd1), a protein whose function is required for germ cell survival and migration in zebrafish (Weidinger et al., 2003), affects miRNA activity. Specifically, cotransfection of Dnd1 diminished miR-221-mediated inhibition of luciferase-p27-3′UTR expression (Figure 1B). Dnd1 had no effect on expression from either a construct encoding luciferase-p27 3′UTR that is mutated at the two miR-221 sites or on an empty luciferase reporter vector, suggesting that the increase in luciferase expression was not caused by a general effect on transcription or translation efficiency but rather was specific to miRNA-repressed translation. Similar results were obtained with LATS2/miR-372 and connexin-43/miR-1 and -206 (Figure S1C). To further test whether Dnd1 activity depends on miRNA function we inactivated miRNA synthesis with an shRNA vector targeting Pasha, a component specific to the miRNA pathway (Gregory et al., 2004). Figure S1D demonstrates the inhibitory effect of shPasha on miR-221 processing. In HEK293 cells, which endogenously express p27 and miR-221 (Figure 2C), introduction of Dnd1 or inhibition of Pasha, elevated endogenous p27 protein levels to a comparable extent (∼4-fold, Figure 1C). Interestingly, cointroduction of Dnd1 and shPasha did not cause further elevation in p27 levels, further supporting the idea that Dnd1 activity depends on miRNA function.
+
+Full-size image (144 K)
+Figure 1. 
+Dnd1 Counteracts the Inhibition of p27 Expression by miR-221
+(A) Conservation analysis of p27-3′UTR from human to fish (from Kent et al. [2002]). The positions of the two target sequences of miR-221 are marked.
+(B) Expression vectors for miR-221 and human Dnd1 (huDnd1) were cotransfected with the indicated luciferase constructs. Relative luciferase activity is the ratio between firefly luciferase and renilla control luciferase, adjusted to 100%. An immunostaining with anti-HA antibody demonstrates the expression of huDnd1 while H2B-GFP was used to control transfection efficiency. The results are represented as means and SD from three independent experiments.
+(C) HEK293T cells were transfected with the indicated constructs and whole-cell lysates were immunostained with anti-Tubulin, p27, and HA antibodies. p27 protein level was analyzed using Tina 2.0 software (Raytest, Sheffield, UK).
+(D and E) Similar to (B), only that several RBPs, as well as the zebrafish Dnd1 homolog (drDnd1) and a mutant in the RNA-binding domain (drDnd1Y104C), were cotransfected together with pGL3-p27-3′UTR and renilla luciferase control.
+(F) HEK293T cells were transfected with the indicated constructs and subjected to RPA with probes to detect p27 mRNA and control cyclophilin and to immunoblot analysis using p27 and control Tubulin antibodies. Quantification of protein levels was performed using Tina 2.0 software (Raytest; Sheffield, UK).
+(G) Tera1 cells were transfected with shDnd1 and subjected to quantitative RT-PCR analysis for LATS2, Dnd1, and GAPDH control. The results are represented as means and SD from three independent experiments.
+(H) Similar to (B), Tera1 cells were transfected with the indicated constructs.
+Figure options
+Full-size image (75 K)
+Figure 2. 
+Dnd1 Preferentially Associates with mRNAs
+(A) MCF-7 cells were transfected with the indicated constructs and subjected to subcellular fractionation to separate nuclear from cytoplasmic material, and both protein and RNA were extracted. RPA was performed with probes to detect miR-221 and cyclophilin. Immunoblot analysis was performed with HA antibodies to demonstrate expression of Dnd1 and to detect Cdc6 and Tubulin, to test the purity of fractionation. P is probes alone, Y is yeast total RNA.
+(B) Expression vectors for miR-221 and human Dnd1 (huDnd1) were cotransfected with the indicated luciferase constructs and proceeded as in Figure 1B. Blue and brown bars represent control and Dnd1 vectors, respectively.
+(C) HEK293 cells were cotransfected with the indicated expression constructs and subjected to IP with anti-HA antibodies. RNA was extracted from 80% of each IP and 5% from each input and subjected to RPA analysis to detect p27 and control cyclophilin mRNAs, human telomerase RNA (hTR), and miR-221. Below, a blow up of p27 signal in control and wild-type IP samples is shown for clarity.
+(D) The same amount of extracts from input and IP (marked T and IP, respectively) was used for immunoblot analysis with anti-HA and control anti-Tubulin antibodies.
+Figure options
+Dnd1 contains a conserved RNA-binding domain that bears high similarity to that of apobec complementation factor (ACF), LOC166863, Syncrip, hnRNPR, ELAV4, and DAZ. To test whether the effect of Dnd1 on miRNA activity is specific and mediated through its RNA-binding domain, we used expression plasmids of Dnd1 homologs and related genes and found neither to significantly inhibit miR-221-mediated suppression of luciferase-p27 3′UTR (Figure 1D, expression controls shown in Figure S1E). In contrast, repression of miR-221 activity was observed also when the zebrafish and mouse homologs of Dnd1 were introduced (Figure 1E and data not shown). Interestingly, transfection of a zebrafish Dnd1 mutated at a single conserved residue within its RNA-binding domain (Y104C, a mutant that cannot rescue loss of germ cells when Dnd1 is depleted in zebrafish embryos; K.S and E.R., unpublished data) hampered Dnd1's ability to inhibit miR-221 function (Figure 1E). Also substituting the RNA-binding domain of Dnd1 for that of ACF resulted in loss of Dnd1 function (Figure S1F). Collectively, these results suggest that inhibiting miRNA function is specific to Dnd1 and indicate that for counteracting miRNA activity, Dnd1 requires an intact RNA-binding domain.
+
+Suppression of gene expression by miRNAs is exerted by translational inhibition that occasionally is associated with mRNA decay (Bagga et al., 2005, Lim et al., 2005 and Pillai et al., 2005). To test the possible effect of Dnd1 on these pathways, we examined the endogenous p27 RNA and protein levels in HEK293 cells (expressing endogenous p27 and miR-221and -222, Figure 2C). Figure 1F shows that transfection of either human or wild-type zebrafish Dnd1, but not the Y104C mutant, caused elevation in p27 mRNA (up to 1.5-fold) and protein (up to 5-fold), indicating that Dnd1 can potently block endogenous miR-221 and -222-mediated mRNA decay and translation inhibition.
+
+In all our experiments so far we examined the function of human Dnd1 by ectopic introduction. To study endogenous Dnd1 function, we first tested by quantitative RT-PCR several human cancer cell lines for the expression of Dnd1 and found the teratoma Tera1 cell line to be positive. Interestingly, Tera1 cells express high levels of the miR-372 family, which we have previously shown to target LATS2 through two sites at its 3′UTR (Figure S1B). We therefore examined endogenous LATS2 expression in Tera1 cells following suppression of Dnd1 expression by an effective shRNA vector (Figure S1G). As Dnd1 affected both miRNA-mediated translation inhibition and mRNA stability (Figure 1F), we used quantitative RT-PCR and found a marked reduction in LATS2 mRNA levels associated with the inhibition of endogenous Dnd1 expression (Figure 1G), suggesting that Dnd1 protects LATS2 expression. To directly measure the effect of endogenous Dnd1 on the activity of endogenous miR-372 family, we used sensor molecules containing the luciferase gene under the control of either wild-type LATS2-3′UTR or a mutant in the 372 target sites (le Sage et al., 2007 and Voorhoeve et al., 2006). Figure 1H shows that transfection of shDnd1, but not a control vector, reduced the expression of a cotransfected luciferase LATS2 3′UTR reporter gene only when the miR-372 targeting sites were present. Altogether, these results indicate that endogenous Dnd1 in Tera1 cells protects the expression of endogenous LATS2 from being targeted by the miR-372 family.
+
+Preferential Association of Dnd1 with mRNAs
+Since Dnd1 requires an intact RNA-binding domain to counteract miRNA function, it is conceivable that Dnd1 interferes with either the expression, the processing to mature miRNA, or the subcellular localization of miR-221. To examine the effects of Dnd1 on miR-221 biogenesis, MCF-7 cells were cotransfected with vectors encoding either human or zebrafish Dnd1 and miR-221 or control miRNA, and subsequently subjected to subcellular fractionation, RNA isolation, and to an RNase protection assay (RPA) to detect cyclophilin control RNA and miR-221 precursor and mature forms. As shown in Figure 2A, the expression level, efficiency of processing, or subcellular localization of mature miR-221 were not altered by Dnd1. Western blot analysis with anti-HA confirmed the expression of human and zebrafish proteins, whereas nuclear Cdc6 and cytoplasmic Tubulin verified cellular fractionation (Figure 2A, bottom).
+
+An alternative explanation that could account for Dnd1 activity is that the protein binds miRNAs and inhibits their function. To test this option we converted one miR-221-targeting site in p27 3′UTR to an RNAi site (named FC, a full complementary region to miR-221) and mutated the seed of the second site ( Figure 2B). In this way, p27-3′UTR FC was solely subjected to RNAi-mediated degradation by miR-221. In cotransfection assays, the presence of Dnd1 did not reduce miR-221 activity toward p27-3′UTR FC, suggesting that Dnd1 was unable to counteract the RNAi pathway. These results are in line with the assumption that Dnd1 counteracts miR-221 activity either at the level of RISC-incorporated-mature miR-221 or downstream, rather than by steric hindrance of miR-221.
+
+Next, we checked whether Dnd1 interacts with mature miR-221 or with p27 3′UTR. We transfected HEK293 cells with HA-tagged Dnd1, Dnd1Y104C, and as controls HA-tagged PAK4 and empty vector. We also cotransfected an expression vector for miR-221 to enhance the possible association with Dnd1. Subsequently, we subjected whole-cell extracts to immunoprecipitation (IP) using anti-HA antibodies, extracted RNA, and performed RPAs to detect the interacting RNAs. This analysis revealed clear binding of Dnd1 to endogenous p27 and cyclophilin mRNAs but not to hTR, a nontranslated-RNA coding for human telomerase RNA (Figure 2C) (Kedde et al., 2006). The interaction of Dnd1 with p27 and cyclophilin required its intact RNA-binding capacity, as no apparent interaction was observed with the Dnd1Y104C mutant. Furthermore, no specific association was detected with miR-221, even when it was cotransfected with Dnd1. Immunoblot analysis with HA antibody confirmed the expression and equal immunoprecipitation of Dnd1 and PAK4 (Figure 2D). Altogether, these results demonstrate that Dnd1 binds mRNAs but not miRNAs to block miRNA activity.
+
+Dnd1 Alleviates miR-430 Repression of Nanos1 and TDRD7 in Primordial Germ Cells of Zebrafish
+We next examined the function of Dnd1 in zebrafish to question whether the relief of mRNA-mediated repression described above is part of the in vivo function of Dnd1 in the context of a developing organism. Whereas Dnd1 has been shown to be essential for germline development in zebrafish and mouse, the actual molecular mechanisms by which it exerts its function are unknown (Weidinger et al., 2003 and Youngren et al., 2005). We followed the expression changes of three germline specific genes: nanos1, TDRD7, and Vasa. The specific expression of nanos1 and TDRD7 in the PGCs is considered to be the result of miR-430-dependent inhibition in somatic cells, while Vasa regulation is miR-430 independent (Mishima et al., 2006). Indeed, mutating the single miR-430 site in the 3′UTR of either nanos1 or TDRD7 results in ubiquitous expression. However, while PGCs allow nanos1 and TDRD7 expression, they also express miR-430, suggesting that miR-430-induced repression of these genes is suppressed in PGCs (Mishima et al., 2006).
+
+To study Dnd1 function, we knocked down the translation of the gene in zebrafish embryos using morpholino antisense oligonucleotides. RNA was extracted from these embryos, and the endogenous levels of the germline-specific genes (nanos1, TDRD7, and Vasa) were compared to Odc1, a ubiquitously expressed gene. In line with our hypothesis, the inhibition of endogenous Dnd1 caused a marked reduction in endogenous nanos1 and TDRD7 mRNA levels, but not Vasa (Figures 3A and S2A). Then, we cloned the 3′UTRs of nanos1, TDRD7, and control Vasa downstream of fluorescence marker genes, to determine whether the Dnd1 effect is mediated through their 3′UTR. Similar to the endogenous expression pattern, the injection of RNA, encoding a fluorescent marker gene fused to the 3′UTR of nanos1, TDRD7, or Vasa, into zebrafish embryos leads to preferential fluorescence in PGCs ( Koprunner et al. [2001] and data not shown). Upon Dnd1 knockdown, quantitative pixel-intensity analysis shows a clear and significant reduction in red fluorescent signal (DsRed-nos1 3′UTR or DsRed-TDRD7 3′UTR), but not green (coinjected GFP-vasa 3′UTR) in PGCs ( Figures 3B and S2B), indicating that Dnd1 affects gene expression through the 3′UTR of nanos1 and TDRD7. Next, we examined whether the reduction in nanos1 and TDRD7 following loss of Dnd1 depends on the ability of miR-430 to interact with these genes. Both nanos1 and TDRD7 harbor one miR430-targeting site ( Figures 3C and S2C). We therefore compared the expression of marker genes fused to a wild-type or a mutated miR-430-targeting site in nos1 3′UTR and TDRD7 3′UTR. Quantitative pixel-intensity analysis showed that the reduction in fluorescence resulting from knocking down Dnd1 function was effectively suppressed by mutating the miR-430-targeting site ( Figures 3C and S2C). Altogether, our data suggest that Dnd1 functions to relieve miR-430-mediated nanos1 and TDRD7 inhibition in zebrafish PGCs.
+
+Full-size image (121 K)
+Figure 3. 
+Zebrafish Dnd1 (drDnd1) Counteracts Inhibition of Nanos by miR-430
+(A) One-cell-stage zebrafish embryos were injected with Dnd1 morpholino or control morpholino. RNA was extracted and subjected to quantitative RT-PCR analysis to compare endogenous levels of nanos1 and vasa to odc, and nanos to vasa.
+(B) One-cell-stage zebrafish embryos were coinjected with DsRed-nos1-3′UTR and gfp-vasa-3′UTR together with dead end morpholino or control morpholino.
+(C) One-cell-stage zebrafish embryos were coinjected with RNA containing the venus open-reading frame fused to the wild-type nanos1 3′UTR (3′nos1wt), RNA containing the cfp open-reading frame fused to the miR-430-binding site mutated nanos1 3′UTR (cfp-3′nos1mut1) and vasa-dsRed (for labeling the germinal granule for easier identification of germ cells) together with dead end morpholino or control morpholino. Error bars depict the standard error of the mean (SEM); the p value was calculated using t test.
+Figure options
+U-Rich Regions Mediate Dnd1 Binding and Function
+Dnd1 contains two single-strand RNA recognition motifs, spanning approximately residues 60–131 and 140–213. Our data suggest that these domains bind mRNAs at specific sites. A BLASTP search of the Dnd1 sequence against the database of known structures (the PDB) revealed several significant homologs (E values of 10−5 and 10−3) and allowed straightforward homology-based modeling using the SWISS-MODEL server (Schwede et al., 2003). Superimposing the two homology-modeled domains in the structure of the similar Drosophila sex-lethal protein bound to uridine-rich single-stranded RNA indicated clearly that Dnd1 has all the hallmarks necessary to bind U-rich single-stranded RNA ( Handa et al., 1999). We therefore reasoned that Dnd1 might also bind U-rich regions (URRs). Interestingly, two URRs are found in between the two miR-221-binding sites in p27 3′UTR ( Figure 4A, marked purple). To test whether the region in between the two miRNA sites is sufficient to confer Dnd1 activity, we cloned it into a luciferase reporter vector (p27 3′UTR(196–300)). Figure 4B shows that this minimal region is sufficient to allow full repression by miR-221 and derepression by Dnd1. To more specifically address the role of the URRs, we generated two mutants: mutant 1, in which the two URRs were replaced by non-URRs, and mutant 2, where adjacent sequences were similarly mutated as control. Importantly, mutating the URRs, but not the adjacent sites, conferred resistance to the Dnd1 effect ( Figure 4C). No significant change in the repression activity of miR-221 was noted in mutant 2 (data not shown), indicating that these mutations did not affect miR-221-mediated repression of the p27 3′UTR. To further investigate the role of each URR, three more mutants were produced where either URR 1 or 2 were mutated ( Figure 4A). Both mutants supported full Dnd1 activity ( Figures 4C and 4D), suggesting that Dnd1 requires at least one URR adjacent to the miR-221 sites to function.
+
+Full-size image (131 K)
+Figure 4. 
+Binding of Dnd1 to URRs Mediates Derepression of p27 Inhibition by miR-221
+(A) A diagram aligning the sequence area in p27-3′UTR containing the two miR-221 target regions. In red are regions mutated in the indicated constructs.
+(B–D) Luciferase reporter assay were performed as in Figure 1B using the indicated pGL3-p27-3′UTR constructs and the expression vectors for huDnd1 and miR-221. The results are represented as means and SD from three independent experiments.
+(E) HEK293 cells were transfected with the indicated Dnd1-HA expressing vectors, and Dnd1 was IPed using anti-HA antibody. Immunoblot analysis shows the expression and IP of Dnd1. MCF-7 cells were transfected with luciferase-p27-3′UTR constructs; RNA was extracted after 48 hr and equally divided between the IPs. Beads were incubated with the RNA for 45 min at 6°C, washed, and subjected to RPA using probes to detect luciferase and cyclophilin mRNAs, and the noncoding human telomerase RNA (hTR).
+Figure options
+Next, we examined whether the URRs serve as docking sites for Dnd1. We immunoprecipitated (IP) HA-tagged Dnd1, Dnd1(Y104C), or control proteins from HEK293 cells and incubated them with RNA purified from MCF-7 cells expressing control vector, wild-type, or mutant 1 luciferase-p27 3′UTR(196–300). As detected by RPA on the bound material, a clear and significant enrichment of luciferase-p27 3′UTR(196–300) was observed when wild-type Dnd1-HA was used for the pull down assay (Figure 4E). In contrast, no significant pull down of luciferase was observed when the URRs of luciferase-p27 3′UTR were mutated (mutant 1) or with Dnd1(Y104C). The specificity of the binding as well as the equal efficiency of pull-down was demonstrated by absence of binding between Dnd1 and endogenous hTR, while equal precipitation of endogenous cyclophilin was seen in all extracts (Figure 4E). Although we cannot rule out that mutations in URRs have effects on the binding of other RBPs, our results suggest that Dnd1 binds URRs and thereby mediates suppression of miRNAs.
+
+To test the in vivo relevance of URRs to Dnd1 function, we mutated URRs found within the zebrafish nos1 and TDRD7 3′UTRs and tested the effect of these mutations on gene expression. Figure 5A shows that mutating one URR (mut3, downstream of miR-430 site) of nos1 3′UTR reduced its expression. Similar results were obtained with TDRD7 3′UTR ( Figure S2D). To test whether the effect of URR mutation was dependent on miRNA function, we introduced the mutation of the URR in the background of the miR-430 target-site mutant. Figure 5B shows that mut3 did not reduce gene expression when miR-430 target site was mutated, suggesting that also in this case Dnd1 effect is miRNA dependent.
+
+Full-size image (123 K)
+Figure 5. 
+URRs Are Required for Dnd1 to Efficiently Repress miR-430-Mediated Nanos Inhibition
+(A) RNA containing the DsRed open-reading frame fused to the wild-type nanos1 3′UTR (3′nos1wt) was coinjected into one-cell-stage zebrafish embryos together with RNA containing the gfp open-reading frame fused to different versions of the nanos1 3′UTR. The different nanos1 3′UTRs that were used are shown above; mutations are marked in red. The ratio between the signal intensity provided by GFP whose open-reading frame was fused to either one of the nanos UTRs was divided by that originating from DsRed that was fused to the wild-type nanos RNA UTR. Representative single cells are shown in the right panels.
+(B) An experimental setting similar to that described in (A) was used to examine the function of nanos UTR containing a combination of mutations in the miR-430 and putative Dnd-binding sites. The different nanos1 3′UTRs that were used are shown above; mutations are marked in red. The ratio between the signal intensity provided dividing the signal intensity of GFP by that of DsRed whose open-reading frame was fused to the wild-type nanos RNA UTR. Representative single cells are shown in the right panels. Error bars depict the standard error of the mean (SEM); p value was calculated using Ttest.
+Figure options
+Mechanism of Dnd1 Function
+Our results point to a model by which Dnd1 positively regulates gene expression by prohibiting miRNA-mediated gene suppression. To test this model we examined the direct interaction of miR-221 with its target p27 in human HEK293 cells, in the presence or absence of human Dnd1. We designed a synthetic RNA duplex mimicking miR-221 where the sense oligo was tagged with a 3′-biotin group for efficient pull-down using streptavidin beads. As control, we used a seed mutated, biotin-tagged, miR-221 duplex. The activity of these tagged molecules toward p27 3′UTR was verified in a luciferase assay (Figure S3) and Dnd1 toward p27 in western blot (Figure 6A, left). As HEK293T cells express miR-221, exogenous introduction of miR-221 results in only a slight effect on p27 expression, while introduction of human Dnd1 raises p27 levels (see also Figure 1C). Subsequently, we examined whole-cell extracts and pull-downs from the same cell populations using RPA and detected a specific association between wild-type miR-221 and endogenous p27 mRNA (Figure 6A, middle and right panels). No specific interaction was observed with hTR, our negative control. Most intriguingly, introduction of human Dnd1 completely abolished the interaction of miR-221 with p27 mRNA, indicating that Dnd1 inhibits miR-221 accessibility. Collectively, our results indicate that Dnd1 counteracts miRNA function by binding URRs in 3′UTRs of mRNAs and reducing their affinity to miRNAs (Figure 6B). However, we cannot exclude at this point that additional functions, such as counteracting RISC activity or subcellular sequestration, may contribute to Dnd1 activity.
+
+Full-size image (41 K)
+Figure 6. 
+Mechanism of Dnd1 Function
+(A) HEK293T cells (endogenously expressing miR-221 and p27) were transfected as indicated. Cells were harvested 48 hr later and subjected to pull-down assay with streptavidin beads. Pull-down and whole-cell extracts were analyzed by immunoblot and RPA. Note, because HEK293T cells endogenously express miR-221, only a moderate reduction in p27 level was observed upon introduction of miR-221 oligos, while Dnd1 expression induced p27 expression. The results are represented as means and SD from three independent experiments.
+(B) Schematic model depicting the mechanism of Dnd1 action. The miRNA-RISC loaded with miRNAs targeting a 3′UTR inhibits its translation (upper panel). By binding to URRs in the 3′UTR, Dnd1 prevents miRNAs from binding to and inhibiting translation, thereby prohibiting miRNA function (lower panel). CR is coding region.
+Figure options
+Discussion
+In this study we provide evidence that primordial germ cells possess factors such as Dnd1 that protect the expression of several genes from repression by miRNAs, as exemplified by miR-430. The expression of at least some miR-430 RNA targets, such as nanos1 and TDRD7, is allowed in primordial germ cells in the presence of miR-430. Similarly, the expression of LATS2, a target gene for the miR-372-family, is dependent on the expression of Dnd1 in Tera1, a human cell line derived from a germ-cell tumor that contains high levels of the miR-372 family. Our findings provide an explanation for this phenomenon. We suggest that Dnd1 suppresses miR-430 and miR-372-family function toward several of its mRNA targets by binding to URRs that are located within these mRNAs. Our results pinpoint the mechanism by which Dnd1 exerts its function. Binding of Dnd1 to mRNAs prohibits miRNA interaction.
+
+Dnd1 in Germ-Cell Development
+Both in zebrafish and in mouse, Dnd1 is essential for germ-cell survival, whereas in the 129-mouse background it induces testicular germ-cell tumors (TGCTs) arising from the few germ cells that develop in the absence of Dnd1 (Weidinger et al., 2003 and Youngren et al., 2005). These tumors resemble human testicular germ-cell tumors, which are the most common cancers affecting young men (Oosterhuis and Looijenga, 2005 and Youngren et al., 2005). It remains to be established which mutation(s) from the 129 strain synergize with the Dnd1 mutation to cause the development of TGCTs. However, recently three protein-coding genes, from which two are RBPs and one miRNA, were identified to be candidate disease genes from the 129 strain (Zhu et al., 2007). Additionally, a recent finding in C. elegans showed that disruption of the germ plasm by loss of two genes involved in RNA biology in these animals can also lead to the development of similar tumors ( Ciosk et al., 2006). Our results demonstrate that loss of Dnd1 enhances miRNA repression of some genes that are essential for primordial germ-cell development ( Koprunner et al., 2001) (among them nanos1 and TDRD7) and predict that this mechanism can be responsible for defects in germ-cell survival or for tumor formation. Whether protection of mRNAs from miRNAs is the only function of Dnd1 in germ cells remains to be investigated. Nevertheless, our results show that counteracting or balancing miRNA function is important during development, at least to maintain viable and functional germ lines in zebrafish and mouse.
+
+Dnd1 and Other RBPs
+Recent publications have implicated mechanisms that counteract the activity of miRNAs on specific mRNAs (Ashraf et al., 2006, Bhattacharyya et al., 2006 and Schratt et al., 2006). Together with these studies, our data unveil a dynamic regulation of miRNA suppression on the 3′UTRs of target mRNAs. The most relevant work showed that HuR (ELAV1), an AU-rich element (ARE) binding protein, relieves CAT-1 mRNA from miR-122-mediated repression, a process that involves binding of HuR to the 3′UTR of CAT-1 mRNA (Bhattacharyya et al., 2006). The mechanism of HuR action is yet unknown. Here, we identified Dnd1, another RBP, whose activity is comparable to HuR. However, our results highlight several differences between Dnd1 and HuR. While Dnd1 depends on URRs to relieve the miRNA repression, HuR depends on AU-rich elements. Second, Dnd1 seems to have a broad effect, as we have strong evidence showing that the repression of p27 by miR-221, LATS2 by miR-372, connexin-43 by miR-1 and -206 (Anderson et al., 2006), and Nanos and TDRD7 by miR-430 in zebrafish PGCs, are all being antagonized by Dnd1; for now HuR seems to have a more restricted function, suppressing CAT-1 expression. Last, the expression of HuR is induced following stress in liver cells, whereas Dnd1 expression is restricted to primordial germ cells and certain neuronal tissues (Youngren et al., 2005). By binding to mRNA, Dnd1 prevents miRNA-mediated repression. Whether this is a general mechanism applicable to HuR, or other RBPs, remains to be seen.
+
+Counteracting miRNAs and siRNAs
+Our work shows that Dnd1 activity can counteract gene silencing induced by miRNAs but not by siRNA-mediated RNA interference (RNAi). When one miR-221-targeting site in p27 3′UTR was converted to a full miR-221 complementary sequence (Figure 2B) as well as when a fully complementary shRNA was used to target the 3′UTR of LATS2 (Figure S4), Dnd1 function was lost. Since Dnd1 associates with mRNA and not with miRNAs, we can envision two possibilities that could provide an explanation. (1) Dnd1 binding could change the RNA structure to be unfavorable for miRNA binding by, for example, enforcing a secondary structure that hides the sequence required for miRNA-seed recognition. As siRNAs do not entirely depend on seed sequences and their association with mRNAs is tighter, their binding to 3′UTRs could therefore be less affected. (2) Dnd1 could localize mRNAs to locations in the cell that are not accessible to miRNA-mediated silencing but still mRNA degradation by an RNAi-mediated mechanism is possible.
+
+3′UTRs as Binding Platforms for Regulating miRNAs and RBPs
+Our results strongly suggest that the 3′UTRs of at least some mRNAs are binding platforms for both miRNAs that repress translation and RBPs that regulate this repression. In particular, RBPs can restore gene expression in the presence of inhibitory miRNAs. This mode of regulation has several consequences. First, as it affects protein synthesis and mRNA stability rather than controlling the expression of miRNAs in the cells, it is potentially a very rapid mechanism. Second, relief of repression can be exerted simultaneously on only a subset of the miRNA-targeted mRNAs, thereby giving modularity to miRNA function. Third, it adds robustness to expression patterns as different RBPs can in principle relieve the repression of different sets of mRNAs, even if these are regulated by the same miRNA. Fourth, this mechanism allows differential gene regulation in different tissues while keeping the expression of both miRNAs and mRNAs constant in the cell. One implication of this mode of regulation is that the presence of a miRNA and its target in the same tissue does not necessarily result in repression, therefore allowing coexpression of both miRNA and target mRNA. However, how broad Dnd1 function is: how many mRNAs and how many miRNAs are affected by Dnd1 remains to be elucidated. Our results indicate that several mRNAs and miRNAs are potentially regulated by Dnd1. Genome-wide proteome and RNome analysis comparing normal cells to cells lacking Dnd1 may address these issues in the future.
+
+Experimental Procedures
+Constructs and Antibodies
+miR-Vec constructs were described before (Voorhoeve et al., 2006), and Dnd1 open-reading frames were cloned as described (Weidinger et al., 2003) into a pCS2-based CMV expression vector to contain a double carboxy-terminal HA tag. Dnd1 homologs ACF (IOH52413.1), HNRPR (IRALp962F134.1), LOC-166863 (IRAKp961H0534.1), and SYNCRIP (IRATp970H1055D) were similarly cloned into this vector (sequences obtained from RZPD Deutsches Ressourcenzentrum für Genomforschung GmbH; Berlin, Germany). The PAK4-HA expression vector was described (Wells et al., 2002). The 3′UTRs of p27 and connexin-43 were PCR amplified from genomic DNA and cloned into pGL3 (Promega) downstream of the luciferase gene; constructs bearing the LATS2 3′UTR were described (Voorhoeve et al., 2006). The mutations in pGL3-p27mut-3′UTR were cloned by PCR to contain the following sequences from the original 3′UTR from nt 183–282: GCCTCTAAAAGCGTTGGGGATCCCATTATGCAATTAGGTTTTTCCTTATTTGCTTCATTGTACTACCTGTGTATATAGTTTTTACCTTTTGGATCCCAC. In italics are the BamHI sites that substituted the two seed sequences. The other mutants were similarly cloned to contain the following sequences from nt 183–282; miRNA seeds are shown in bold and mutations in italics. FC: GCgaaacccagcagacaatgtagctTTATGCAATTAGGTTTTTCCTTATTTGCTTCATTGTACTACCTGTGTATATAGTTTTTACCTTTTGGATCCCAC; MUT1: GCCTCTAAAAGCGTTGGATGTAGCATTATGCAATTAGGTgctcatggcTTTGCTTCATTGTACTACCTGTGTATATAGTgctcatggcTTATGTAGCAC; MUT2: GCCTCTAAAAGCGTTGGATGTAGCATTgctcatggcGGTTTTTCCTTATTTGCTTCATTGTACTACCTgctcatggcGTTTTTACCTTTTATGTAGCAC; MUT3: GCCTCTAAAAGCGTTGGATGTAGCATTATGCAATTAGGTTTTTCCTTATTTGCTTCATTGTACTACCTGTGTATATAGTgctcatggcTTATGTAGCAC; MUT4: GCCTCTAAAAGCGTTGGATGTAGCATgtgattgcgatgcgctcatggcggTGCTTCATTGTACTACCTGTGTATATAGTTTTTACCTTTTATGTAGCAC; MUT5: GCCTCTAAAAGCGTTGGATGTAGCATgtgattgcgatgcgctcatggcgggtgattgcgatgcgctcatggcgtatagtttttaccttttatgtagcac. Constructs for RPA detection of hTR and cyclophilin were described ( Kedde et al., 2006), antisense probes for detection of p27 (nt 340–577) and firefly luciferase (nucleotides 0–156) were generated by PCR, a T7 promoter sequence was included for labeling. shRNA for pasha was described before ( Gregory et al., 2004); the shDnd1 sequence is GCAGCGACTTCGCCAGCAG—this was cloned in pSUPER. All constructs were sequence verified.
+
+Antibodies used were CDK4 (C-22), HA Y-11 (sc805), Cdc6 180.2 (sc9964) from Santa Cruz Biotechnology, Tubulin (YL1/2 ECACC), and rabbit GFP.
+
+Cell Culture, Transfections, and Dual Luciferase-Activity Analysis
+MCF7 and HEK293 cells were cultured in DMEM and Tera1 in McCoy's 5A supplemented with 10% heat-inactivated fetal calf serum in 5% CO2 at 37°C. For protein-expression analysis and immunoprecipitation HEK293 cells were transiently transfected using calcium-phosphate precipitation.
+
+MCF7- and Tera1 cells were transfected using PEI (Polysciences, Inc.) or Fugene (Roche), respectively, for luciferase analysis with 10 ng of reporter, 5 ng of renilla control plasmid, and 250 ng of either miR-Vec or miR-Vec control, and 250 ng of either miR-Vec control or expression plasmid for Dnd1 or homologs. Dual luciferase-activity assays were performed 48 hr after transfection according to the manufacturer's directions (Promega). The results are represented as means and standard deviation (SD) from three independent experiments.
+
+Immunoprecipitation, Western Blotting, miRNA Pull-Down, and RNase Protection Assays
+Dnd1 was IPed from extracts of transfected HEK293 cells using GammaBind G Sepharose (GE Healthcare). Extracts were made and beads were washed with lysis buffer (125 mM NaCl, 50 mM HEPES (pH 7.5), 0,1% Nonidet P-40, 0.5% Tween-20, 10 mM MgCl2, and protease inhibitor mixture [Roche Applied Science]). Interaction studies were performed with total RNA from transfected MCF7 cells extracted with Trizol reagent (Invitrogen) and split over IP samples in 50 μl lysis buffer suplemented with RNase-OUT (Invitrogen). Reactions were carried out for 45 min in an orbital shaker placed at 6°C; thereafter, beads were washed and RNA was extracted to be subjected to RPA.
+
+For western blot analysis, extracts were separated on 10% SDS-PAGE gels and transferred to Immobilon-P membranes (Milipore). Western blots were developed with Supersignal (Pierce) or ECL (Amersham Biosciences) and exposed to film (Kodak). Cellular fractionation was performed on MCF7 cells with NE-PER kits from Pierce, according to manufacturer's instructions.
+
+Pull-downs with miRNAs were performed with miRNA oligos where the sense strand contains a biotin group at its 3′ end (Dharmacon) in the mutant miRNA the seed (AGC UAC AUU) was mutated to AGG AUC CUU. Cells were transfected with FuGENE (Roche) (150 nM miRNA and 10 μg of control or Dnd1 vector) and after 48 hr lysed in 20 mM Tris with pH 7.5, 200 mM NaCl, 2.5 mM MgCl2, 0.05% NP40, 60U RNaseOUT/ml (invitrogen), 1 mM DTT, and protease inhibitors (Roche). miRNAs were pulled down with streptavidin sepharose beads (GE healthcare) preblocked with yeast tRNA (Invitrogen) and RNase free BSA, (Ambion), and washed four times with lysis buffer. RNA was extracted and subjected to RPA.
+
+RPAs for Luciferase, p27, cyclophilin, and hTR were performed using the HybSpeed RPA and MAXIscript kits from Ambion as described (Kedde et al., 2006). For miR-221 we used mirVana kits (Ambion) according to the manufacturer's instructions and the primer GCAACAGCTACATTGTCTGCTGGGTTTCAGGCTcctgtctc. We used 2 μg of total RNA (∼2% of input) and half of IP samples per reaction.
+
+Quantitative RT-PCR Analysis
+RNA was extracted using Trizol reagent (Invitrogen), and cDNA (from 3 μg RNA) was synthesized with superscript III and primed with oligo-dT according to manufacturer's instructions (Invitogen). Primers for zebrafish qPCR were nanos1 For/Rev: AGACTGAGGCCGTGTACACCTCTCACTACT / GAGCAGTAGTTCTTGTCCACCATCG, ODC For/Rev: ACACTATGACGGCTTGCACCG / CCCACTGACTGCACGATCTGG, vasa1 For/Rev: CCTGCTGCCTATCCTACAGC / CAGGTCCCGTATGCAAACTT, TDRD7 For/Rev: TCTACCCAGCGGAAGCTTTA / CTGGTGTCCCACTGGTCTTT. Primers for human Dnd1 were For/Rev: CTCCACAGGCACCCTGAATG / GGTGCCATAGGTCCCTGTCC; other primers were as described (Voorhoeve et al., 2006). Analyses were carried out using SYBR Green PCR master mix (Applied Biosystems) and Chromo 4 system (BioRad Laboratories).
+
+Zebrafish Strain and Fish Maintenance
+Zebrafish (Danio rerio) of the AB genetic background were maintained, raised, and staged as previously described ( Kimmel et al., 1995 and Westerfield, 1995).
+
+Morpholino Knockdown of Dnd1
+The dead end morpholino antisense oligonucleotide (dnd MO, 5′-GCTGGGCATCCATGTCTCCGACCAT-3′) and the standard control MO were obtained from Genetools, Philomath, OR. Six hundred picograms were injected into one-cell stage embryos to efficiently knock down Dnd1 function (Weidinger et al., 2003).
+
+RNA Expression Constructs
+Capped sense RNA was synthesized using the mMessageMachine kit (Ambion) and microinjected into one-cell stage embryos. The following constructs were used: pSP64T-mgfp-vasa-3′UTR (GFP-3′vasa in Figure 3A) ( Wolke et al., 2002), pSP64T-mgfp-nos1-3′UTR ( Koprunner et al., 2001), pSP64T-vasa-dsRedEx-nos1-3′UTR (Ds-Red-3′nos1 in Figure 3B), pSP64T-dsRedEx-nos1-3′UTR, T3-venus-nos1-3′UTR (3′nos1wt in Figures 3C and 5). To obtain a mutation in the miR-430-binding site pSP64T-ecfp-nos1-3′UTR was amplified using primers (GTCTTTTTGTGTGTGTGTAT and CAAAATCAAACAGTGAACGC) resulting in pSP64T-ecfp-nos1-3′UTRmut1 (3′nos1mut1 in Figure 3C). To obtain a mutation in the putative Dnd interacting sequence 1 pSP64T-mgfp-nos1-3′UTR was amplified using primers (CAGCACTTTTTGTGTGTGTGTATA and GCTCAAACAGTGAACGCACACAT) resulting in pSP64T-mgfp-nos1-3′UTRmut2 (3′nos1mut2 in Figure 5). To obtain a mutation in the putative Dnd-interacting sequence 2 pSP64T-mgfp-nos1-3′UTR was amplified using primers (CAGTGTGCACTGGTGTTGTGTT and GCTAAAACACAGCAAACACACACA) resulting in pSP64T-mgfp-nos1-3′UTRmut3 (3′nos1mut3 in Figure 5). To obtain a double mutation in both putative Dnd-interacting sequences pSP64T-mgfp-nos1-3′UTRmut2 was amplified using primers (CAGTGTGCACTGGTGTTGTGTT and GCTAAAACACAGCAAACACACACA) resulting in pSP64T-mgfp-nos1-3′UTRmut2+3 (3′nos1mut2+3 in Figure 5). To obtain a double mutation in the putative Dnd-interacting sequence 2 and in the miR-430-binding site, pSP64T-mgfp-nos1-3′UTRmut1 was amplified using primers (CAGTGTGCACTGGTGTTGTGTT and GCTAAAACACAGCAAACACACACA) resulting in pSP64T-mgfp-nos1-3′UTRmut1+3 (3′nos1mut1+3 in Figure 5). To obtain a triple mutation in both putative Dnd-interacting sequences and in the miR-430-binding site, pSP64T-mgfp-nos1-3′UTRmut2+3 was amplified using primers (GTCTTTTTGTGTGTGTGTAT and ACCTGGCTCAAACAGTGAACGC) resulting in pSP64T-mgfp-nos1-3′UTRmut1+2+3 (3′nos1mut1+2+3 in Figure 5). To obtain pSP64T-dsRedEx-TDRD7-3′UTR (3′TDRD7 in Figures S2B and S2C), pSP64T-mgfp-TDRD7-3′UTR (3′TDRD7wt in Figure S2D) and pSP6T-eyfp-TDRD7-3′UTR the 3′UTR of TDRD7 (EF643554) was amplified using primers (AAACTCGAGTACTCTCAGAACTGCACTTTC and AAATCTAGATAATACAACAAAACCTGAACACC) and cloned into corresponding vectors. To obtain a mutation in the miR-430- binding site pSP64T-mgfp-TDRD7-3′UTR was amplified with primer (TCTTTGGTTTGTTTTGCTGTGTTT/CCAAAATCAAAAAGTACAAACAATG) and subloned into an ecfp-containing vector resulting in pSP64T-ecfp-TDRD7-3′UTRmut1 (3′TDRD7mut1 in Figure S2). To obtain a mutation in the putative Dnd-interacting sequence 2 pSP64T-mgfp-TDRD7-3′UTR was amplified using primers (CAGCACTTTGGTTTGTTTGCT and GCTCAAAAAGTACAAACAATGC) resulting in pSP64T-mgfp-TDRD7-3′UTRmut2 (3′TDRD7mut1 in Figure S2).
+
+Fluorescence Microscopy and Imaging of Live Cells
+Images were obtained using a Zeiss Axioplan2 microscope controlled by the Metamorph software (Universal Imaging). Average pixel intensity in germ cells was measured and subtracted from the background signal using the ImageJ software. Error bars represent the SEM. The p values were calculated using t test.
+
+Acknowledgments
+We thank all members of the Agami Lab for help and discussions. We thank Dieuwke Engelsma and Coenraad Kuijl for providing help and reagents. This work was supported by grants from the Max-Planck Society and the DFG to E.R. and the Dutch Cancer Society (KWF, NKI 2003-2963) and European Young Investigator (EURYI) grants to R.A.
+
+Supplemental Data
+ 
+Document S1. Four Figures.  
+Help with PDF filesOptions
+References
+Anderson et al., 2006
+C. Anderson, H. Catoe, R. Werner
+MIR-206 regulates connexin43 expression during skeletal muscle development
+Nucleic Acids Res., 34 (2006), pp. 5863–5871
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (148)
+Aravin and Tuschl, 2005
+A. Aravin, T. Tuschl
+Identification and characterization of small RNAs involved in RNA silencing
+FEBS Lett., 579 (2005), pp. 5830–5840
+
+Article |  PDF (238 K) | View Record in Scopus | Cited By in Scopus (126)
+Ashraf et al., 2006
+S.I. Ashraf, A.L. McLoon, S.M. Sclarsic, S. Kunes
+Synaptic protein synthesis associated with memory is regulated by the RISC pathway in Drosophila
+Cell, 124 (2006), pp. 191–205
+
+Article |  PDF (1720 K) | View Record in Scopus | Cited By in Scopus (244)
+Bagga et al., 2005
+S. Bagga, J. Bracht, S. Hunter, K. Massirer, J. Holtz, R. Eachus, A.E. Pasquinelli
+Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation
+Cell, 122 (2005), pp. 553–563
+
+Article |  PDF (443 K) | View Record in Scopus | Cited By in Scopus (677)
+Bhattacharyya et al., 2006
+S.N. Bhattacharyya, R. Habermacher, U. Martine, E.I. Closs, W. Filipowicz
+Relief of microRNA-mediated translational repression in human cells subjected to stress
+Cell, 125 (2006), pp. 1111–1124
+
+Article |  PDF (979 K) | View Record in Scopus | Cited By in Scopus (665)
+Ciosk et al., 2006
+R. Ciosk, M. DePalma, J.R. Priess
+Translational regulators maintain totipotency in the Caenorhabditis elegans germline
+Science, 311 (2006), pp. 851–853
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (66)
+Gregory et al., 2004
+R.I. Gregory, K.P. Yan, G. Amuthan, T. Chendrimada, B. Doratotaj, N. Cooch, R. Shiekhattar
+The Microprocessor complex mediates the genesis of microRNAs
+Nature, 432 (2004), pp. 235–240
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1036)
+Gregory et al., 2005
+R.I. Gregory, T.P. Chendrimada, N. Cooch, R. Shiekhattar
+Human RISC couples microRNA biogenesis and posttranscriptional gene silencing
+Cell, 123 (2005), pp. 631–640
+
+Article |  PDF (419 K) | View Record in Scopus | Cited By in Scopus (598)
+Handa et al., 1999
+N. Handa, O. Nureki, K. Kurimoto, I. Kim, H. Sakamoto, Y. Shimura, Y. Muto, S. Yokoyama
+Structural basis for recognition of the tra mRNA precursor by the Sex-lethal protein
+Nature, 398 (1999), pp. 579–585
+
+Kawahara et al., 2007
+Y. Kawahara, B. Zinshteyn, P. Sethupathy, H. Iizasa, A.G. Hatzigeorgiou, K. Nishikura
+Redirection of silencing targets by adenosine-to-inosine editing of miRNAs
+Science, 315 (2007), pp. 1137–1140
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (301)
+Kedde et al., 2006
+M. Kedde, C. le Sage, A. Duursma, E. Zlotorynski, B. van Leeuwen, W. Nijkamp, R. Beijersbergen, R. Agami
+Telomerase-independent regulation of ATR by human telomerase RNA
+J. Biol. Chem., 281 (2006), pp. 40503–40514
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (24)
+Kent et al., 2002
+W.J. Kent, C.W. Sugnet, T.S. Furey, K.M. Roskin, T.H. Pringle, A.M. Zahler, D. Haussler
+The human genome browser at UCSC
+Genome Res., 12 (2002), pp. 996–1006
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1)
+Kimmel et al., 1995
+C.B. Kimmel, W.W. Ballard, S.R. Kimmel, B. Ullmann, T.F. Schilling
+Stages of embryonic development of the zebrafish
+Dev. Dyn., 203 (1995), pp. 253–310
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (3974)
+Kloosterman and Plasterk, 2006
+W.P. Kloosterman, R.H. Plasterk
+The diverse functions of microRNAs in animal development and disease
+Dev. Cell, 11 (2006), pp. 441–450
+
+Article |  PDF (257 K) | View Record in Scopus | Cited By in Scopus (764)
+Knight and Bass, 2002
+S.W. Knight, B.L. Bass
+The role of RNA editing by ADARs in RNAi
+Mol. Cell, 10 (2002), pp. 809–817
+
+Article |  PDF (313 K) | View Record in Scopus | Cited By in Scopus (94)
+Koprunner et al., 2001
+M. Koprunner, C. Thisse, B. Thisse, E. Raz
+A zebrafish nanos-related gene is essential for the development of primordial germ cells
+Genes Dev., 15 (2001), pp. 2877–2885
+
+View Record in Scopus | Cited By in Scopus (208)
+Kotaja and Sassone-Corsi, 2007
+N. Kotaja, P. Sassone-Corsi
+The chromatoid body: a germ-cell-specific RNA-processing centre
+Nat. Rev. Mol. Cell Biol., 8 (2007), pp. 85–90
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (127)
+Kotaja et al., 2006
+N. Kotaja, S.N. Bhattacharyya, L. Jaskiewicz, S. Kimmins, M. Parvinen, W. Filipowicz, P. Sassone-Corsi
+The chromatoid body of male germ cells: similarity with processing bodies and presence of Dicer and microRNA pathway components
+Proc. Natl. Acad. Sci. USA, 103 (2006), pp. 2647–2652
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (182)
+Lagos-Quintana et al., 2002
+M. Lagos-Quintana, R. Rauhut, A. Yalcin, J. Meyer, W. Lendeckel, T. Tuschl
+Identification of tissue-specific microRNAs from mouse
+Curr. Biol., 12 (2002), pp. 735–739
+
+Article |  PDF (117 K) | View Record in Scopus | Cited By in Scopus (1391)
+le Sage et al., 2007
+C. le Sage, R. Nagel, D.A. Egan, M. Schrier, E. Mesman, A. Mangiola, C. Anile, G. Maira, N. Mercatelli, S.A. Ciafre et al.
+Regulation of the p27(Kip1) tumor suppressor by miR-221 and miR-222 promotes cancer cell proliferation
+EMBO J., 26 (2007), pp. 3699–3708
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (347)
+Lee et al., 1993
+R.C. Lee, R.L. Feinbaum, V. Ambros
+The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14
+Cell, 75 (1993), pp. 843–854
+
+Article |  PDF (2574 K) | View Record in Scopus | Cited By in Scopus (3814)
+Lee et al., 2003
+Y. Lee, C. Ahn, J. Han, H. Choi, J. Kim, J. Yim, J. Lee, P. Provost, O. Radmark, S. Kim, V.N. Kim
+The nuclear RNase III Drosha initiates microRNA processing
+Nature, 425 (2003), pp. 415–419
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (1915)
+Lewis et al., 2005
+B.P. Lewis, C.B. Burge, D.P. Bartel
+Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets
+Cell, 120 (2005), pp. 15–20
+
+Article |  PDF (304 K) | View Record in Scopus | Cited By in Scopus (4215)
+Lim et al., 2005
+L.P. Lim, N.C. Lau, P. Garrett-Engele, A. Grimson, J.M. Schelter, J. Castle, D.P. Bartel, P.S. Linsley, J.M. Johnson
+Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs
+Nature, 433 (2005), pp. 769–773
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2204)
+Liu et al., 2005
+J. Liu, M.A. Valencia-Sanchez, G.J. Hannon, R. Parker
+MicroRNA-dependent localization of targeted mRNAs to mammalian P-bodies
+Nat. Cell Biol., 7 (2005), pp. 719–723
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (635)
+Maniataki and Mourelatos, 2005
+E. Maniataki, Z. Mourelatos
+A human, ATP-independent, RISC assembly machine fueled by pre-miRNA
+Genes Dev., 19 (2005), pp. 2979–2990
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (202)
+Mishima et al., 2006
+Y. Mishima, A.J. Giraldez, Y. Takeda, T. Fujiwara, H. Sakamoto, A.F. Schier, K. Inoue
+Differential regulation of germline mRNAs in soma and germ cells by zebrafish miR-430
+Curr. Biol., 16 (2006), pp. 2135–2142
+
+Article |  PDF (1094 K) | View Record in Scopus | Cited By in Scopus (133)
+Oosterhuis and Looijenga, 2005
+J.W. Oosterhuis, L.H. Looijenga
+Testicular germ-cell tumours in a broader perspective
+Nat. Rev. Cancer, 5 (2005), pp. 210–222
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (389)
+Pillai et al., 2005
+R.S. Pillai, S.N. Bhattacharyya, C.G. Artus, T. Zoller, N. Cougot, E. Basyuk, E. Bertrand, W. Filipowicz
+Inhibition of translational initiation by Let-7 MicroRNA in human cells
+Science, 309 (2005), pp. 1573–1576
+
+View Record in Scopus | Cited By in Scopus (747)
+Pillai et al., 2007
+R.S. Pillai, S.N. Bhattacharyya, W. Filipowicz
+Repression of protein synthesis by miRNAs: how many mechanisms?
+Trends Cell Biol., 17 (2007), pp. 118–126
+
+Article |  PDF (575 K) | View Record in Scopus | Cited By in Scopus (499)
+Schratt et al., 2006
+G.M. Schratt, F. Tuebing, E.A. Nigh, C.G. Kane, M.E. Sabatini, M. Kiebler, M.E. Greenberg
+A brain-specific microRNA regulates dendritic spine development
+Nature, 439 (2006), pp. 283–289
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (734)
+Schwede et al., 2003
+T. Schwede, J. Kopp, N. Guex, M.C. Peitsch
+SWISS-MODEL: An automated protein homology-modeling server
+Nucleic Acids Res., 31 (2003), pp. 3381–3385
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (2744)
+Thomson et al., 2006
+J.M. Thomson, M. Newman, J.S. Parker, E.M. Morin-Kensicki, T. Wright, S.M. Hammond
+Extensive post-transcriptional regulation of microRNAs and its implications for cancer
+Genes Dev., 20 (2006), pp. 2202–2207
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (483)
+Voorhoeve and Agami, 2006
+P.M. Voorhoeve, R. Agami
+Classifying microRNAs in cancer: The good, the bad and the ugly (
+Biochim. Biophys. Acta, 1775 (2006), pp. 274–282
+
+Voorhoeve et al., 2006
+P.M. Voorhoeve, C. le Sage, M. Schrier, A.J. Gillis, H. Stoop, R. Nagel, Y.P. Liu, J. van Duijse, J. Drost, A. Griekspoor et al.
+A genetic screen implicates miRNA-372 and miRNA-373 as oncogenes in testicular germ cell tumors
+Cell, 124 (2006), pp. 1169–1181
+
+Article |  PDF (863 K) | View Record in Scopus | Cited By in Scopus (622)
+Weidinger et al., 2003
+G. Weidinger, J. Stebler, K. Slanchev, K. Dumstrei, C. Wise, R. Lovell-Badge, C. Thisse, B. Thisse, E. Raz
+dead end, a novel vertebrate germ plasm component, is required for zebrafish primordial germ cell migration and survival
+Curr. Biol., 13 (2003), pp. 1429–1434
+
+Article |  PDF (260 K) | View Record in Scopus | Cited By in Scopus (136)
+Wells et al., 2002
+C.M. Wells, A. Abo, A.J. Ridley
+PAK4 is activated via PI3K in HGF-stimulated epithelial cells
+J. Cell Sci., 115 (2002), pp. 3947–3956
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (47)
+Westerfield, 1995
+M. Westerfield
+The Zebrafish Book
+University of Oregon Press, Oregon (1995)
+
+Wienholds et al., 2005
+E. Wienholds, W.P. Kloosterman, E. Miska, E. Alvarez-Saavedra, E. Berezikov, E. de Bruijn, H.R. Horvitz, S. Kauppinen, R.H. Plasterk
+MicroRNA expression in zebrafish embryonic development
+Science, 309 (2005), pp. 310–311
+
+View Record in Scopus | Cited By in Scopus (729)
+Wolke et al., 2002
+U. Wolke, G. Weidinger, M. Koprunner, E. Raz
+Multiple levels of posttranscriptional control lead to germ line-specific gene expression in the zebrafish
+Curr. Biol., 12 (2002), pp. 289–294
+
+Article |  PDF (458 K) | View Record in Scopus | Cited By in Scopus (73)
+Yang et al., 2006
+W. Yang, T.P. Chendrimada, Q. Wang, M. Higuchi, P.H. Seeburg, R. Shiekhattar, K. Nishikura
+Modulation of microRNA processing and expression through RNA editing by ADAR deaminases
+Nat. Struct. Mol. Biol., 13 (2006), pp. 13–21
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (288)
+Youngren et al., 2005
+K.K. Youngren, D. Coveney, X. Peng, C. Bhattacharya, L.S. Schmidt, M.L. Nickerson, B.T. Lamb, J.M. Deng, R.R. Behringer, B. Capel et al.
+The Ter mutation in the dead end gene causes germ cell loss and testicular germ cell tumours
+Nature, 435 (2005), pp. 360–364
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (152)
+Zhu et al., 2007
+R. Zhu, Y. Ji, L. Xiao, A. Matin
+Testicular germ cell tumor susceptibility genes from the consomic 129.MOLF-Chr19 mouse strain (
+Mamm. Genome, 18 (2007), pp. 584–595
+
+View Record in Scopus | Full Text via CrossRef | Cited By in Scopus (7)
