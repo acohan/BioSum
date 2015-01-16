@@ -22,7 +22,10 @@ reserved_chars = ['+', '-', '&&', '||', '!', '(', ')',
                   '{', '}', '[', ']', '^', '"', '~',
                   '*', '?', ':', '\\', '/']
 
+verbs = {'VB', 'VBD', 'VBG', 'VBN', 'VBZ', 'VBP'}
+
 CMD = 'curl -XPOST \'http://localhost:9200/index_name/type/idx\' -d '
+pos_tagger = Extract_NLP_Tags()
 
 
 def filter_text(sentences, offsets, data):
@@ -150,26 +153,65 @@ def dump_for_index(res, out_file, index_name):
     f.close()
 
 
-def sent_tokenize(data):
+def multi_delete(list_, indices):
+    """
+    delete multiple indices from a list
+    """
+    indexes = sorted(indices, reverse=True)
+    for index in indexes:
+        del list_[index]
+    return list_
+
+
+def sent_tokenize(data, filter_short=False, filter_verbless=False):
+    """
+    Tokenize sentences 
+
+    Tokenize `data` into two arrays: sentences and offsets
+    Returns a tuple (`sentences`,`offsets`)
+    """
     punkt_param = PunktParameters()
     punkt_param.abbrev_types = set(
         ['dr', 'vs', 'mr', 'mrs', 'prof', 'inc', 'et', 'al', 'Fig', 'fig'])
     sent_detector = PunktSentenceTokenizer(punkt_param)
     sentences = sent_detector.tokenize(data)
     offsets = sent_detector.span_tokenize(data)
-    new_sentences = deepcopy(sentences)
-    new_offsets = deepcopy(offsets)
-    for i, off in enumerate(offsets):
-        if i < len(offsets) - 1:
-            if ((offsets[i + 1][0] - offsets[i][1]) < 5):
-                new_sentences.append(sentences[i] + ' ' + sentences[i + 1])
-                new_offsets.append((offsets[i][0], offsets[i + 1][1]))
-        if i < len(offsets) - 2:
-            if ((offsets[i + 2][0] - offsets[i + 1][1]) < 5) and\
-                    ((offsets[i + 1][0] - offsets[i][0]) < 5):
-                new_sentences.append(
-                    sentences[i] + ' ' + sentences[i + 1] + ' ' + sentences[i + 2])
-                new_offsets.append((offsets[i][0], offsets[i + 2][1]))
+    new_sentences = []
+    new_offsets = []
+    to_del = []
+    if filter_verbless:
+        pos = pos_tagger.extract_nlp_batch()
+        for i in range(sentences):
+            okay = False
+            for word in pos['sentences'][i]['words']:
+                if word[1]['PartOfSpeech'] in verbs:
+                    okay = True
+                    break
+            if not okay:  # the sentence doesn't have verb,
+                to_del.append(i)  # mark for deletion
+        sentences = multi_delete(sentences, to_del)
+        offsetes = multi_delete(offsets, to_del)
+    if filter_short and not filter_verbless:
+        for i in range(len(sentences)):
+            if len(sentences[i]) >= filter_short:
+                new_sentences.append(sentences[i])
+                new_offsets.append(new_offsets[i])
+        new_sentences = [s for s in sentences if sentences]
+
+
+#     new_sentences = deepcopy(sentences)
+#     new_offsets = deepcopy(offsets)
+#     for i, off in enumerate(offsets):
+#         if i < len(offsets) - 1:
+#             if ((offsets[i + 1][0] - offsets[i][1]) < 5):
+#                 new_sentences.append(sentences[i] + ' ' + sentences[i + 1])
+#                 new_offsets.append((offsets[i][0], offsets[i + 1][1]))
+#         if i < len(offsets) - 2:
+#             if ((offsets[i + 2][0] - offsets[i + 1][1]) < 5) and\
+#                     ((offsets[i + 1][0] - offsets[i][0]) < 5):
+#                 new_sentences.append(
+#                     sentences[i] + ' ' + sentences[i + 1] + ' ' + sentences[i + 2])
+#                 new_offsets.append((offsets[i][0], offsets[i + 2][1]))
 #         if i < len(offsets) - 3:
 #             if (((offsets[i + 3][0] - offsets[i + 2][1]) < 5) and
 #                     ((offsets[i + 2][0] - offsets[i + 1][0]) < 5) and
@@ -182,7 +224,7 @@ def sent_tokenize(data):
 #                  ((offsets[i + 3][0] - offsets[i + 2][1]) < 5) and
 #                     ((offsets[i + 2][0] - offsets[i + 1][0]) < 5) and
 #                     ((offsets[i + 1][0] - offsets[i][0]) < 5)):
-#           #         if i < len(offsets) - 3:
+# if i < len(offsets) - 3:
 #             if (((offsets[i + 3][0] - offsets[i + 2][1]) < 5) and
 #                     ((offsets[i + 2][0] - offsets[i + 1][0]) < 5) and
 #                     ((offsets[i + 1][0] - offsets[i][0]) < 5)):

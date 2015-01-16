@@ -19,41 +19,9 @@ from common import hash_file, prep_for_json
 
 class Extract_NLP_Tags(object):
 
-    '''
-    classdocs
-    '''
-
-    def parse_by_mbsp(self, text):
-        '''
-        returns the parse tree of the text using MBSP
-        output format:
-        WORD, POS, CHUNK, PNP, RELATION, ANCHOR, LEMMA]
-        for more info: http://www.clips.ua.ac.be/pages/MBSP
-        '''
-        
-        digest_data = 'nlptags_mbsp.cache_' + \
-            md5(text.encode('ascii', 'ignore')).hexdigest()
-        if not os.path.exists(self.cachedir):
-            print >> sys.stderr, '[cache error] directory %s does not exists' % self.cachedir
-            try:
-                print '[cache info] Creating caches directory'
-                os.makedirs(self.cachedir)
-            except:
-                print >> sys.stderr, '[cache error] Failed to create caches directory'
-                sys.exit(1)
-        cache_path = os.path.join(self.cachedir, digest_data)
-        if os.path.exists(cache_path):
-            with codecs.open(cache_path, mode='rb', encoding='utf-8') as f:
-                return f.read()
-        else:
-            try:
-                s = MBSP.parse(text)
-                terms = [(a.split('/')[0], a.split('/')[6]) for a in s.split(' ')]
-                with codecs.open(cache_path, mode='wb', encoding='utf-8') as f:
-                    json.dump(s, f)
-                return s
-            except:
-                return None
+    """
+    Class for extracting NLP information such as POS, coref, parsetree, etc from input
+    """
 
     def _extract_NP(self, text, mode='simple'):
         parse_tree = text
@@ -138,11 +106,15 @@ class Extract_NLP_Tags(object):
             return all_flattened_sublists(fun1(nps))
 
     def extract_NP(self, text, mode='simple'):
-        '''
-        params: mode=simple : extracts consecutive terms forming a noun phrase
-        mode = detailed: extracts a list of terms and their POS tag in a NP
-        mode = flattened: flat list of terms
-        '''
+        """
+        Extract noun phrases from a given `text`
+        :arg    mode = simple : extracts consecutive terms forming a noun phrase
+                mode = detailed: extracts a list of terms and their POS tag in a NP
+                mode = flattened: flat list of terms
+
+        Returns a list of Noun Phrases
+        """
+
         parse_trees = self.extract_nlp(text)['parsetree']
         out = [self._extract_NP(e, mode=mode) for e in parse_trees]
         return out
@@ -150,8 +122,8 @@ class Extract_NLP_Tags(object):
     def parse_parsetree(self, text):
         a = text.replace(':',
                          '##COLON##').replace(',',
-                                              '##COMMA##').replace('\\','\\\\').\
-                                              replace(') (', '),(').replace(
+                                              '##COMMA##').replace('\\', '\\\\').\
+            replace(') (', '),(').replace(
             ' ', ':').replace('(', '{').replace(')', '}')
         a = re.sub(r'([^}:{,]+)', '"\g<1>"', a)
         a = a.replace('##COMMA##', ',').replace('##COLON##', ':')
@@ -171,6 +143,56 @@ class Extract_NLP_Tags(object):
                 b += a[i]
         b = b + '}'
         return json.loads(b)
+
+    def extract_nlp_batch(self, input_list):
+        """
+        Extract NLP information from `input_list`
+
+        Returns a <dict> {`sentences<list>`: nlp info,
+                          `corefs<list>`: coreference info}
+                      `sentences` is a list of nlp info corresponding to entries in `input_list`
+                       See method *parse* for more info
+        """
+        digest_data = 'nlptags_batch.cache_' + \
+            md5(str(input_list).encode('ascii', 'ignore')).hexdigest()
+
+        if not os.path.exists(self.cachedir):
+            print >> sys.stderr, '[cache error] directory %s does not exists' % self.cachedir
+            try:
+                print '[cache info] Creating caches directory'
+                os.makedirs(self.cachedir)
+            except:
+                print >> sys.stderr, '[cache error] Failed to create caches directory'
+                sys.exit(1)
+        cache_path = os.path.join(self.cachedir, digest_data)
+        if os.path.exists(cache_path):
+            with codecs.open(cache_path, mode='rb', encoding='utf-8') as f:
+                return json.load(f)
+        else:
+            nlptags = []
+            corefs = []
+            for i in input_list:
+                parsed = self.parse(i)
+                nlptags.append(parsed['sentences'])
+                corefs.append(parsed['coref'])
+            res = prep_for_json(
+                {'sentences': nlptags, 'corefs': corefs})
+            with codecs.open(cache_path, mode='wb', encoding='utf-8') as f:
+                json.dump(out, f)
+            return res
+
+    def parse(self, text):
+        """
+        Parses sentences in text
+
+        :arg text: sentences
+        returns <dict>{'coref': <list>, 'sentences': <list>}
+            This dictionary contains the keys sentences and coref.
+            The key sentences contains a list of dictionaries for each
+            sentence, which contain `parsetree`, `text` and `words`, 
+            containing information about parts of speech, recognized named-entities, etc
+        """
+        return simplejson.loads(self.server.parse(text))
 
     def extract_nlp(self, text):
         digest_data = 'nlptags.cache_' + \
@@ -201,7 +223,10 @@ class Extract_NLP_Tags(object):
             return out
 
     def __init__(self, cachedir='cache',
-                 corenlp_server="http://localhost:8080"):
+                 corenlp_server="http://localhost:8083"):
+        """
+        Connect to the server
+        """
         self.server = jsonrpclib.Server(corenlp_server)
         self.cachedir = cachedir
 
