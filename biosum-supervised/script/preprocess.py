@@ -34,15 +34,26 @@ def union(s):
     return y
 
 
-def sent_tokenize(data):
+def sent_tokenize(data, filter_threshold=None):
+    '''
+    Tokenizes a string into sentences and corresponding offsets
+
+    Args:
+        data(str): The document itself 
+        filter_threshold(int): if sentence length is
+            less than this, it will be ignored
+
+    Returns:
+        tuple(list(str), list(list))): tokenized
+            sentences and corresponding offsets
+    '''
     punkt_param = PunktParameters()
     punkt_param.abbrev_types = set(
         ['dr', 'vs', 'mr', 'mrs', 'prof', 'inc', 'et', 'al', 'Fig', 'fig'])
     sent_detector = PunktSentenceTokenizer(punkt_param)
     sentences = sent_detector.tokenize(data)
     offsets = sent_detector.span_tokenize(data)
-    new_sentences = deepcopy(sentences)
-    new_offsets = deepcopy(offsets)
+    return (sentences, offsets)
 
 
 def get_data():
@@ -83,8 +94,13 @@ def get_data():
                                      docs_new[tid][cit]['cit_art'].lower(),
                                      interval=s)) for s in
                  docs_new[tid][cit]['cit_offset']]
-            docs_new[tid][cid]['not_relevant']
+            docs_new[tid][cit]['not_relevant'] = doc_mod.get_doc(
+                tid, docs_new[tid][cit]['cit_art'].lower())
+#             docs_new[tid][cit]['relevant'] = 
 
 #     print docs_new.keys()
 #     print docs_new['D1418_TRAIN'.lower()]
-    return docs_new
+#     return docs_new
+
+get_data()
+print docs_new.values()[0].values()[0]['cit_text']

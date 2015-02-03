@@ -66,16 +66,39 @@ class DocumentsModel(object):
                         'offset': [s, e]}
 
     def get_doc(self, topic_id, doc_name, interval=None):
+        '''
+        Gets the document text
+        Args:
+            topic_id(str): id of the topic e.g. D1401_TRAIN
+            doc_name(str): Document name e.g. chen.txt
+            interval(tuple, optional): If specified, returns
+                the text at a given interval offset
+
+        Returns:
+            unicode
+        '''
         if self.verbose:
             print('request for "%s", "%s", "%s"' %
                   (topic_id, doc_name, interval))
-        if not interval:
-            i = (None, None)
-        else:
-            i = interval[:]
         tid = topic_id.lower()
         did = doc_name.lower().replace('.txt', '')
-        return self.docs[tid][did][i[0]:i[1]]
+        if interval:
+            return self.docs[tid][did][interval[0]:interval[1]]
+        else:
+            return self.docs[tid][did]
+
+    def get_doc_sentences(self, document, num, excetp_intervals):
+        '''
+        Returns a set of sentences from a document
+        '''
+
+    def get_doc_len(self, topic_id, doc_name):
+        if self.verbose:
+            print('request for "%s", "%s", "%s"' %
+                  (topic_id, doc_name))
+        tid = topic_id.lower()
+        did = doc_name.lower().replace('.txt', '')
+        self.docs[tid][did]
 
     def get_all(self):
         return self.docs
