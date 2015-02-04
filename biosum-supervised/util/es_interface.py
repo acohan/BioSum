@@ -1,0 +1,470 @@
+import hashlib
+import shelve
+import json
+from sys import stderr
+
+from elasticsearch import Elasticsearch as ES
+from elasticsearch.client.indices import IndicesClient
+from elasticsearch.exceptions import RequestError, TransportError
+import os
+
+import requests
+
+SIM_MODELS_NAMES = ['LMDirichlet', 'LMJelinekMercer',
+                    'IB', 'BM25', 'default', 'DFR']
+
+TO_ESCAPE = ['+', '-', '&&', '||', '!', '(', ')', '{', '}', '[',
+             ']', '^', '"', '~', '*', '?', ':', '/']
+
+
+class ESInterface():
+
+    """Interface for ElasticSearch"""
+
+    def __init__(self, host='localhost', port=9200,
+                 index_name='pubmed', cred_path='../../.cred'):
+        self.host = host
+        self.port = port
+        self.index_name = index_name
+        self.cred_path = cred_path
+        # self.doc_type = 'papers'
+        self.es = self.__connect()
+        self.ic = IndicesClient(self.es)
+        try:
+            path = os.path.dirname(
+                os.path.dirname(__file__)) + '/cache/pages.p'
+            self.page_cache = shelve.open(path, writeback=False)
+        except:
+            raise
+
+    def login(self, username, password):
+        pass
+
+    @property
+    def description(self):
+        # get mapping, clean it up
+        p = {'token': self.auth_token}
+        m = self.es.indices.get_mapping(self.index_name, params=p)
+        m = m[self.index_name]['mappings']
+
+        description = {'host': self.host,
+                       'port': self.port,
+                       'index_name': self.index_name,
+                       'mapping': m}
+        return description
+
+    @property
+    def size(self):
+        p = {'token': self.auth_token}
+        stats = self.es.indices.stats(params=p)['indices'][self.index_name]
+        return stats['total']['docs']['count']
+
+    def __connect(self):
+        '''Private method used to connect to the ElasticSearch instance.'''
+        es = ES(hosts=[{'host': self.host, 'port': self.port}])
+
+        # checks if server exists
+        if not es.ping():
+            err = ('It appears that nothing is running at http://%s:%s' %
+                   (self.host, self.port))
+            raise OSError(err)
+
+        # load the credentials file (if possible)
+        with file(self.cred_path) as cf:
+            username, password = [l.strip() for l in cf.readlines()][:2]
+        data = json.dumps({'username': username, 'password': password})
+        url = 'http://%s:%s/login' % (self.host, self.port)
+        resp = json.loads(requests.post(url, data=data).text)
+        if resp['status'] == 200:
+            self.auth_token = resp['token']
+        else:
+            self.auth_token = ''
+
+        # checks if index exists
+        try:
+            es.indices.get_mapping(self.index_name,
+                                   params={'token': self.auth_token})
+        except TransportError as e:
+            if e.args[0] == 403:
+                err = list(e.args)
+                err[1] = ('Credentials not valid for %s:%s/%s' %
+                          (self.host, self.port, self.index_name))
+                e.args = tuple(err)
+            elif e.args[0] == 404:
+                self.__del__()
+                err = list(e.args)
+                err[1] = ('No index named "%s" is avaliable at %s:%s' %
+                          (self.index_name, self.host, self.port))
+                e.args = tuple(err)
+            raise
+        return es
+
+    def __del__(self):
+        requests.post('http://%s:%s/logout' % (self.host, self.port),
+                      params={'token': self.auth_token})
+
+    # def get_scroll(self, scroll_size, scroll_timeout):
+    #     q_body = {"query": {"match_all": {}}}
+    #     return self.es.search(self.index_name, self.doc_type, q_body,
+    #                           search_type='scan', scroll='100m',
+    #                           size='10000')
+
+    # def scroll(self, scroll_id):
+    #     return self.es.scroll(scroll_id, scroll='10m')
+
+    # def scan_and_scroll(self, doc_type, scroll_size=50, scroll_timeout=10):
+    #     """
+    #     The scan search type allows to efficiently scroll a large result set.
+    #     The response will include no hits, with two important results,
+    #     the total_hits will include the total hits that match the query
+    #     and the scroll_id that allows to start the scroll process.
+
+    #     @param scroll_size: scroll size
+    #     @param scroll_timeout: rountdtrip timeout
+    #     """
+    #     q_body = {"query": {
+    #         "match_all": {}
+    #     }}
+    #     result = self.es.search(self.index_name,
+    #                             doc_type,
+    #                             q_body,
+    #                             search_type='scan',
+    #                             scroll=str(scroll_timeout) +
+    #                             'm',
+    #                             size=scroll_size)
+    #     res = self.es.scroll(
+    #         result['_scroll_id'], scroll=str(scroll_timeout) + 'm')
+    #     finalres = []
+    #     while len(res['hits']['hits']) > 0:
+    #         finalres.append(res)
+    #         res = self.es.scroll(
+    #             res['_scroll_id'], scroll=str(scroll_timeout) + 'm')
+    #     return finalres
+
+    # def esc(self, txt):
+    #     for e in TO_ESCAPE:
+    #         txt = txt.replace(e, '\%s' % e)
+    #     return txt
+
+    def find_all(self, source_fields, doc_type=''):
+        q_body = {
+            "fields": source_fields,
+            "query": {
+                "match_all": {}
+            }
+        }
+        return self.es.search(
+            body=q_body, size=1000000, index=self.index_name, doc_type=doc_type)['hits']['hits']
+
+    def multi_field_search(self,
+                           field_vals,
+                           fields=['sentence', 'mm-concepts', 'noun_phrases'],
+                           maxsize=1000,
+                           field_boost=[1, 3, 2],
+                           offset=0,
+                           source_fields=[],
+                           doc_type='',
+                           params=None):
+        '''Interface for simple query tasks.
+        Parameters:
+            - field_vals [requried]: a list of field values to query
+            - maxsize [optional]:   number of results to get.
+                                    default is 1000.
+        Returns results.'''
+#         q_body = {
+#             "fields": source_fields,
+#             "query": {
+#                 "dis_max": {
+#                     "queries": [
+#                         {"match": {
+#                             "sentence":  {
+#                                 "query": sentence,
+#                                 "boost": field_boost[0]
+#                             }}},
+#                         {"match": {
+#                             "mm-concepts":  {
+#                                 "query": concepts,
+#                                 "boost": field_boost[1]
+#                             }}},
+#                         {"match": {
+#                             "noun_phrases":  {
+#                                 "query": noun_phrases,
+#                                 "boost": field_boost[2]
+#                             }}}
+#                     ]
+#                 }
+#             }
+#         }
+        q_body = {
+            "fields": source_fields,
+            "query": {
+                "dis_max": {
+                    "queries": [
+                    ]
+                }
+            }
+        }
+        for idx in range(len(field_vals)):
+            q_body['query']['dis_max']['queries'].append({"match": {
+                fields[idx]:  {
+                    "query": field_vals[idx],
+                    "boost": field_boost[idx]
+                }}})
+
+        if params is not None:
+            for key in params:
+                q_body['query']['dis_max'][key] = params[key]
+
+        return self._cursor_search(q_body, maxsize, offset, doc_type)
+
+    def simple_search(self, query, field='_all', maxsize=1000,
+                      offset=0, source_fields=[], doc_type='',
+                      operator='or', phrase_slop=0, escape=False, params=None):
+        '''Interface for simple query tasks.
+        Parameters:
+            - query [requried]: the string to query
+            - maxsize [optional]:   number of results to get.
+                                    default is 1000.
+        Returns results.'''
+
+        if escape:
+            query = self.esc(query)
+
+        q_body = {
+            "fields": source_fields,
+            'query': {
+                'query_string': {
+                    'query': query,
+                    'default_operator': operator,
+                    'use_dis_max': True,
+                    'auto_generate_phrase_queries': True,
+                    'phrase_slop': phrase_slop
+                }
+            }
+        }
+        if params is not None:
+            for key in params:
+                q_body['query']['query_string'][key] = params[key]
+
+        if field:
+            q_body['query']['query_string']['default_field'] = field
+
+        return self._cursor_search(q_body, maxsize, offset, doc_type)
+
+    def count(self, query, field='_all', operator="AND"):
+        q = {
+            'query': {
+                "query_string": {
+                    "default_field": field,
+                    "default_operator": operator,
+                    "query": query
+                }
+            }
+        }
+        p = {'token': self.auth_token}
+        resp = self.es.count(body=q, index=self.index_name, params=p)
+        if resp['_shards']['failed'] > 0:
+            raise RuntimeError("ES count failed: %s", resp)
+
+        return resp['count']
+
+    def _cursor_search(self, q, maxsize, offset, doc_type):
+        p = {'token': self.auth_token}
+        return self.es.search(index=self.index_name,
+                              body=q,
+                              params=p,
+                              size=maxsize,
+                              from_=offset,
+                              doc_type=doc_type)['hits']['hits']
+
+    def update_field(self, docid, doc_type,
+                     field_name, field_value):
+        ''' Update field field_name with field_value'''
+        p = {'token': self.auth_token}
+        body = {'doc': {field_name: field_value}}
+        self.es.update(id=docid, doc_type=doc_type, params=p,
+                       index=self.index_name, body=body)
+
+    def get_page_by_res(self, res_dict, cache=False):
+        return self.get_page(res_dict['_id'],
+                             res_dict['_type'],
+                             cache=cache)
+
+    def get_page(self, docid, doc_type, cache=False):
+        ''' Retrieve a page's source from the index
+        Parameters:
+            - id [required]: the ES id of the page to retrieve
+            - doc_type [required]: the ES document type to retrieve
+        '''
+        p = {'token': self.auth_token}
+        k = str("-".join((docid, self.index_name, doc_type)))
+
+        if not cache or k not in self.page_cache:
+            page = self.es.get_source(id=docid,
+                                      params=p,
+                                      index=self.index_name,
+                                      doc_type=doc_type)
+
+            if cache:
+                self.page_cache[k] = page
+                self.page_cache.sync()
+        else:
+            page = self.page_cache[k]
+
+        return page
+
+    def get_index_analyzer(self):
+        return self.ic.get_settings(index=self.index_name)\
+            [self.index_name]['settings']['index']\
+            ['analysis']['analyzer'].keys()[0]
+
+    def tokenize(self, text, field="text", analyzer=None):
+        ''' Return a list of tokenized tokens
+        Parameters:
+            - text [required]: the text to tokenize
+            - field [optional]: the field whose ES analyzer
+                                should be used (default: text)
+        '''
+        params = {'token': self.auth_token}
+        if analyzer is not None:
+            params['analyzer'] = analyzer
+        try:
+            response = self.ic.analyze(body=text, field=field,
+                                       index=self.index_name,
+                                       params={'token': self.auth_token}
+                                       )
+            return [d['token'] for d in response['tokens']]
+        except RequestError:
+            return []
+
+    def phrase_search(self, phrase, doc_type='',
+                      field='_all', slop=0, in_order=True,
+                      maxsize=1000, offset=0, source_fields=[]):
+        ''' Retrieve documents containing a phrase.
+            Does not return the documents' source. '''
+
+        phraseterms = self.tokenize(phrase, field=field)
+        if len(phraseterms) == 0:
+            return []
+
+        q = {
+            "fields": source_fields,
+            "query": {
+                "span_near": {
+                    "clauses": [{"span_term": {field: term}}
+                                for term in phraseterms],
+                    "slop": slop,  # max number of intervening unmatched pos.
+                    "in_order": in_order,
+                    "collect_payloads": False
+                }
+            }
+        }
+        return self._cursor_search(q, maxsize, offset, doc_type)
+
+    def phrase_count(self, phrase, field='_all', slop=0, in_order=True):
+        phraseterms = self.tokenize(phrase, field=field)
+
+        if len(phraseterms) == 0:
+            return []
+
+        q = {
+            "query": {
+                "span_near": {
+                    "clauses": [{"span_term": {field: term}}
+                                for term in phraseterms],
+                    "slop": slop,  # max number of intervening unmatched pos.
+                    "in_order": in_order,
+                    "collect_payloads": False
+                }
+            }
+        }
+
+        p = {'token': self.auth_token}
+        resp = self.es.count(body=q, params=p, index=self.index_name)
+        if resp['_shards']['failed'] > 0:
+            raise RuntimeError("ES count failed: %s", resp)
+
+        return resp['count']
+
+    def index_hash(self):
+        ''' Weak hash (only considers mapping and size) of index_name '''
+        p = {'token': self.auth_token}
+        ic_sts = self.ic.stats(index=self.index_name,
+                               params=p)['_all']['total']['store']
+        ic_map = self.ic.get_mapping(index=self.index_name,
+                                     params=p)
+        s = "_".join((unicode(ic_sts), unicode(ic_map)))
+        return hashlib.md5(s).hexdigest()
+
+    # def get_mappings(self):
+    #     mappings = self.es.indices.get_mapping(self.index_name)
+    #     return mappings[self.index_name]['mappings']
+
+    def set_mappings(self, mapdict):
+        ''' Set mapping for documents in index according to map_dict;
+            only documents types with an entry in map dict are updated.
+            No input check; PLEASE FOLLOW SPECIFICATIONS!
+            format:
+            {<doc_type_1>: {'properties': {'doc_field_1': {<properties>}
+                                           ...
+                                           'doc_filed_n': {<properties>}
+                                           }
+                            }
+            }
+        '''
+        p = {'token': self.auth_token}
+        for doc_type, mapping in mapdict:
+            self.es.indices.put_mapping(index=self.index_name,
+                                        params=p,
+                                        doc_type=doc_type,
+                                        body=mapping)
+
+    # def get_ids(self, doc_type):
+    #     res = self.scan_and_scroll(doc_type, scroll_size=5000)
+    #     return res
+
+    # def get_types(self):
+    #     from subprocess import check_output
+    #     request = 'http://localhost:9200/indexname/_mapping?pretty=1'
+    #     request = request.replace('indexname', self.index_name)
+    #     res = json.loads(check_output(["curl", "-XGET", request]))
+    #     return res[self.index_name]['mappings'].keys()
+
+    def get_termvector(self, doc_type, docid, fields=None):
+        """ Return the term vector and stratistics
+            for document docid of type doc_type.
+            If fields is not provided, term vectors
+            are returned for each field.
+        """
+        if fields is None:
+            fields = []
+        p = {'token': self.auth_token}
+        body = {
+            "fields": fields,
+            "offsets": True,
+            "payloads": True,
+            "positions": True,
+            "term_statistics": True,
+            "field_statistics": True
+        }
+        p = {'token': self.auth_token}
+        resp = self.es.termvector(index=self.index_name,
+                                  doc_type=doc_type,
+                                  id=docid,
+                                  params=p,
+                                  body=body)
+        return resp
+
+    def add(self, index,
+            doc_type,
+            entry,
+            docid=None):
+        p = {'token': self.auth_token}
+        self.es.create(index=index, doc_type=doc_type, body=entry,
+                       id=docid, params=p)
+import re
+
+
+def sanitize_string_stringquery(input):
+    s = re.escape('\\+-&|!(){}[]^~*?:/')
+    return re.sub(r'([' + s + '])', '\\\\\g<1>', input)

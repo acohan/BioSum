@@ -6,6 +6,16 @@ import hashlib
 import os
 import sys
 from functools import wraps
+from nltk.tokenize.regexp import RegexpTokenizer
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem.porter import PorterStemmer
+stemmer = PorterStemmer()
+lmtzr = WordNetLemmatizer()
+tokenizer = RegexpTokenizer('[^\w\-\']+', gaps=True)
+STOPWORDS = '/home/rmn/dev/git/BioSum/biosum-supervised/data/stopwords.txt'
+with file(STOPWORDS) as f:
+    stopwords = frozenset([l.strip().lower() for l in f])
+
 
 from optparse import OptionParser
 
@@ -269,3 +279,35 @@ class VerbosePrinter(object):
                       sep=sep, end=end, file=file_)
             else:
                 print(message, sep=sep, end=end, file=file_)
+
+
+def tokenize(doc, stem=False, no_stopwords=True, lemmatize=False):
+    """
+    tokenizes a string
+    
+    Args:
+        stem(bool)
+        stopwords(bool)
+        lemmatize(bool): Does the lemmatization just for nouns
+
+    Returns:
+        list(str) 
+    """
+    terms = []
+    for w in tokenizer.tokenize(doc.lower()):
+        if no_stopwords:
+            if w not in stopwords:
+                if lemmatize:
+                    terms.append(lmtzr.lemmatize(w))
+                elif stem:
+                    terms.append(stemmer.stem(w))
+                else:
+                    terms.append(w)
+        else:
+            if lemmatize:
+                terms.append(lmtzr.lemmatize(w))
+            elif stem:
+                terms.append(stemmer.stem(w))
+            else:
+                terms.append(w)
+    return terms

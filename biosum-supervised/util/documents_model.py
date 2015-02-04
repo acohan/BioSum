@@ -91,6 +91,9 @@ class DocumentsModel(object):
         '''
         Returns a set of sentences from a document
         '''
+        
+        
+        
 
     def get_doc_len(self, topic_id, doc_name):
         if self.verbose:
