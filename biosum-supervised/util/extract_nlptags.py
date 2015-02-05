@@ -223,7 +223,7 @@ class Extract_NLP_Tags(object):
             return out
 
     def __init__(self, cachedir='cache',
-                 corenlp_server="http://localhost:8083"):
+                 corenlp_server="http://localhost:8080"):
         """
         Connect to the server
         """
