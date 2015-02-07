@@ -6,7 +6,6 @@ from sys import stderr
 from elasticsearch import Elasticsearch as ES
 from elasticsearch.client.indices import IndicesClient
 from elasticsearch.exceptions import RequestError, TransportError
-import os
 
 import requests
 
@@ -22,7 +21,7 @@ class ESInterface():
     """Interface for ElasticSearch"""
 
     def __init__(self, host='localhost', port=9200,
-                 index_name='pubmed', cred_path='../../.cred'):
+                 index_name='pubmed', cred_path='.cred'):
         self.host = host
         self.port = port
         self.index_name = index_name
@@ -30,12 +29,7 @@ class ESInterface():
         # self.doc_type = 'papers'
         self.es = self.__connect()
         self.ic = IndicesClient(self.es)
-        try:
-            path = os.path.dirname(
-                os.path.dirname(__file__)) + '/cache/pages.p'
-            self.page_cache = shelve.open(path, writeback=False)
-        except:
-            raise
+        self.page_cache = shelve.open("../../cache/pages.p", writeback=False)
 
     def login(self, username, password):
         pass
@@ -43,8 +37,7 @@ class ESInterface():
     @property
     def description(self):
         # get mapping, clean it up
-        p = {'token': self.auth_token}
-        m = self.es.indices.get_mapping(self.index_name, params=p)
+        m = self.es.indices.get_mapping(self.index_name)
         m = m[self.index_name]['mappings']
 
         description = {'host': self.host,
@@ -55,8 +48,7 @@ class ESInterface():
 
     @property
     def size(self):
-        p = {'token': self.auth_token}
-        stats = self.es.indices.stats(params=p)['indices'][self.index_name]
+        stats = self.es.indices.stats()['indices'][self.index_name]
         return stats['total']['docs']['count']
 
     def __connect(self):
@@ -70,20 +62,19 @@ class ESInterface():
             raise OSError(err)
 
         # load the credentials file (if possible)
-        with file(self.cred_path) as cf:
-            username, password = [l.strip() for l in cf.readlines()][:2]
-        data = json.dumps({'username': username, 'password': password})
+#         with file(self.cred_path) as cf:
+#             username, password = [l.strip() for l in cf.readlines()][:2]
+#         data = json.dumps({'username': username, 'password': password})
         url = 'http://%s:%s/login' % (self.host, self.port)
-        resp = json.loads(requests.post(url, data=data).text)
-        if resp['status'] == 200:
-            self.auth_token = resp['token']
-        else:
-            self.auth_token = ''
+        resp = json.loads(requests.post(url).text)
+#         if resp['status'] == 200:
+#             self.auth_token = resp['token']
+#         else:
+#             self.auth_token = ''
 
         # checks if index exists
         try:
-            es.indices.get_mapping(self.index_name,
-                                   params={'token': self.auth_token})
+            es.indices.get_mapping(self.index_name)
         except TransportError as e:
             if e.args[0] == 403:
                 err = list(e.args)
@@ -100,8 +91,7 @@ class ESInterface():
         return es
 
     def __del__(self):
-        requests.post('http://%s:%s/logout' % (self.host, self.port),
-                      params={'token': self.auth_token})
+        requests.post('http://%s:%s/logout' % (self.host, self.port))
 
     # def get_scroll(self, scroll_size, scroll_timeout):
     #     q_body = {"query": {"match_all": {}}}
@@ -261,18 +251,15 @@ class ESInterface():
                 }
             }
         }
-        p = {'token': self.auth_token}
-        resp = self.es.count(body=q, index=self.index_name, params=p)
+        resp = self.es.count(body=q, index=self.index_name)
         if resp['_shards']['failed'] > 0:
             raise RuntimeError("ES count failed: %s", resp)
 
         return resp['count']
 
     def _cursor_search(self, q, maxsize, offset, doc_type):
-        p = {'token': self.auth_token}
         return self.es.search(index=self.index_name,
                               body=q,
-                              params=p,
                               size=maxsize,
                               from_=offset,
                               doc_type=doc_type)['hits']['hits']
@@ -280,9 +267,8 @@ class ESInterface():
     def update_field(self, docid, doc_type,
                      field_name, field_value):
         ''' Update field field_name with field_value'''
-        p = {'token': self.auth_token}
         body = {'doc': {field_name: field_value}}
-        self.es.update(id=docid, doc_type=doc_type, params=p,
+        self.es.update(id=docid, doc_type=doc_type,
                        index=self.index_name, body=body)
 
     def get_page_by_res(self, res_dict, cache=False):
@@ -296,12 +282,10 @@ class ESInterface():
             - id [required]: the ES id of the page to retrieve
             - doc_type [required]: the ES document type to retrieve
         '''
-        p = {'token': self.auth_token}
         k = str("-".join((docid, self.index_name, doc_type)))
 
         if not cache or k not in self.page_cache:
             page = self.es.get_source(id=docid,
-                                      params=p,
                                       index=self.index_name,
                                       doc_type=doc_type)
 
@@ -325,13 +309,13 @@ class ESInterface():
             - field [optional]: the field whose ES analyzer
                                 should be used (default: text)
         '''
-        params = {'token': self.auth_token}
+        params = {}
         if analyzer is not None:
             params['analyzer'] = analyzer
         try:
             response = self.ic.analyze(body=text, field=field,
                                        index=self.index_name,
-                                       params={'token': self.auth_token}
+                                       params=params
                                        )
             return [d['token'] for d in response['tokens']]
         except RequestError:
@@ -379,8 +363,7 @@ class ESInterface():
             }
         }
 
-        p = {'token': self.auth_token}
-        resp = self.es.count(body=q, params=p, index=self.index_name)
+        resp = self.es.count(body=q, index=self.index_name)
         if resp['_shards']['failed'] > 0:
             raise RuntimeError("ES count failed: %s", resp)
 
@@ -388,11 +371,8 @@ class ESInterface():
 
     def index_hash(self):
         ''' Weak hash (only considers mapping and size) of index_name '''
-        p = {'token': self.auth_token}
-        ic_sts = self.ic.stats(index=self.index_name,
-                               params=p)['_all']['total']['store']
-        ic_map = self.ic.get_mapping(index=self.index_name,
-                                     params=p)
+        ic_sts = self.ic.stats(index=self.index_name)['_all']['total']['store']
+        ic_map = self.ic.get_mapping(index=self.index_name)
         s = "_".join((unicode(ic_sts), unicode(ic_map)))
         return hashlib.md5(s).hexdigest()
 
@@ -412,10 +392,8 @@ class ESInterface():
                             }
             }
         '''
-        p = {'token': self.auth_token}
         for doc_type, mapping in mapdict:
             self.es.indices.put_mapping(index=self.index_name,
-                                        params=p,
                                         doc_type=doc_type,
                                         body=mapping)
 
@@ -438,7 +416,6 @@ class ESInterface():
         """
         if fields is None:
             fields = []
-        p = {'token': self.auth_token}
         body = {
             "fields": fields,
             "offsets": True,
@@ -447,11 +424,9 @@ class ESInterface():
             "term_statistics": True,
             "field_statistics": True
         }
-        p = {'token': self.auth_token}
         resp = self.es.termvector(index=self.index_name,
                                   doc_type=doc_type,
                                   id=docid,
-                                  params=p,
                                   body=body)
         return resp
 
@@ -459,9 +434,37 @@ class ESInterface():
             doc_type,
             entry,
             docid=None):
-        p = {'token': self.auth_token}
-        self.es.create(index=index, doc_type=doc_type, body=entry,
-                       id=docid, params=p)
+        self.es.index(index=index, doc_type=doc_type, body=entry,
+                      id=docid)
+
+    def get_avg_size(self, field):
+        '''
+        Get the average document length for a given field
+        '''
+        q = {"fields": [
+            "sentence"
+        ],
+            "script_fields": {
+            "doc_length": {
+                "script": "doc['sentence'].size()"
+            }
+        },
+            "query": {
+            "match_all": {
+
+            }
+        },
+            "aggs": {
+            "my_agg": {
+                "avg": {
+                    "script": "doc['sentence'].size()"
+                }
+            }
+        }
+        }
+        res = self.es.search(index=self.index_name, body=q)
+        return res['aggregations']['my_agg']['value']
+
 import re
 
 

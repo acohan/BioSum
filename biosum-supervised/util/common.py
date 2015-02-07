@@ -12,7 +12,7 @@ from nltk.stem.porter import PorterStemmer
 stemmer = PorterStemmer()
 lmtzr = WordNetLemmatizer()
 tokenizer = RegexpTokenizer('[^\w\-\']+', gaps=True)
-STOPWORDS = '/home/rmn/dev/git/BioSum/biosum-supervised/data/stopwords.txt'
+STOPWORDS = '../../data/stopwords.txt'
 with file(STOPWORDS) as f:
     stopwords = frozenset([l.strip().lower() for l in f])
 
