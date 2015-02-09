@@ -1,6 +1,7 @@
 import hashlib
 import shelve
 import json
+import math
 from sys import stderr
 
 from elasticsearch import Elasticsearch as ES
@@ -19,6 +20,9 @@ TO_ESCAPE = ['+', '-', '&&', '||', '!', '(', ')', '{', '}', '[',
 class ESInterface():
 
     """Interface for ElasticSearch"""
+
+    _count_total = -1  # N: Number of docs
+    _idf = None  # dict for storing idf values
 
     def __init__(self, host='localhost', port=9200,
                  index_name='pubmed', cred_path='.cred'):
@@ -464,6 +468,32 @@ class ESInterface():
         }
         res = self.es.search(index=self.index_name, body=q)
         return res['aggregations']['my_agg']['value']
+
+    def get_idf(self, term):
+        '''
+        Returns the idf of a given term on the index
+
+        Args:
+            term(str)
+
+        Returns:
+            float -- idf value
+        '''
+        if self._count_total == -1:
+            self._count_total = self.count(query='*:*')
+        if self._idf is not None:
+            if term in self._idf:
+                return self._idf[term]
+            else:
+                count = self.count(term)
+                idf = math.log((self._count_total - count + 0.5) / count + 0.5)
+                self._idf[term] = idf
+        else:
+            count = self.count(term)
+            idf = math.log((self._count_total - count + 0.5) / count + 0.5)
+            self._idf = {term: idf}
+        return idf
+
 
 import re
 
