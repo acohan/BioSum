@@ -486,11 +486,19 @@ class ESInterface():
                 return self._idf[term]
             else:
                 count = self.count(term)
-                idf = math.log((self._count_total - count + 0.5) / count + 0.5)
+                if count == 0:
+                    idf = 0
+                else:
+                    idf = math.log(
+                        (self._count_total - count + 0.5) / (count + 0.5))
                 self._idf[term] = idf
         else:
             count = self.count(term)
-            idf = math.log((self._count_total - count + 0.5) / count + 0.5)
+            if count == 0:
+                idf = 0
+            else:
+                idf = math.log(
+                    (self._count_total - count + 0.5) / (count + 0.5))
             self._idf = {term: idf}
         return idf
 

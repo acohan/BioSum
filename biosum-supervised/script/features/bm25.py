@@ -4,16 +4,13 @@ Created on Feb 4, 2015
 @author: rmn
 '''
 from __future__ import division
-from util.common import tokenize
 from util.es_interface import ESInterface
-import math
-from nltk.tokenize.regexp import RegexpTokenizer
-reg_tok = RegexpTokenizer('[^\w\-\']+', gaps=True)
 count_total = -1
 avg_doc_length = -1
+from feature import Feature
 
 
-class Features(object):
+class BM25(Feature):
 
     def __init__(self, index_name):
         '''
@@ -27,7 +24,7 @@ class Features(object):
         print self.es_int.get_avg_size('sentence')
         self.avg_doc_length = -1
 
-    def BM25(self, query, document, stem=True, no_stopwords=True, b=0.75, k1=1.25):
+    def extract(self, query, document, stem=True, no_stopwords=True, b=0.75, k1=1.25):
         '''
         Args:
             query(str)
@@ -37,18 +34,19 @@ class Features(object):
             b(float): Controls to what degree document length normalizes tf values.
             k1(float): Controls non-linear term frequency normalization
         '''
-        q_terms = list(set([w for w in tokenize(
-            query, no_stopwords=no_stopwords, stem=stem)]))
-        d_terms = list(set([w for w in tokenize(
-            document, no_stopwords=no_stopwords, stem=stem)]))
-        d_len = len(tokenize(document, stem=False, no_stopwords=False))
-        if avg_doc_length == -1:
-            avg_doc_length = self.es_int.get_avg_size('sentence')
+        q_terms = list(set([w for w in self.tokenize(
+            query, stem=stem, no_stopwords=no_stopwords)]))
+        d_terms = list(set([w for w in self.tokenize(
+            document, stem=stem, no_stopwords=no_stopwords)]))
+        d_len = len(self.tokenize(document, stem=False, no_stopwords=False))
+        if self.avg_doc_length == -1:
+            self.avg_doc_length = self.es_int.get_avg_size('sentence')
         score = 0
         for t in q_terms:
             score += self.es_int.get_idf(t) *\
                 ((self._freq(t, d_terms) * (k1 + 1)) /
-                 (self._freq(t, d_terms) + k1 * (1 - b + b * (d_len / avg_doc_length))))
+                 (self._freq(t, d_terms) +
+                  k1 * (1 - b + b * (d_len / avg_doc_length))))
         return score
 
     def _freq(self, term, doc):
@@ -62,7 +60,7 @@ class Features(object):
         return len([1 for t in doc if t == term])
 
 if __name__ == '__main__':
-    f = Features('biosum')
-    f.BM25('Existing methods for ranking aggregation includes unsupervised learning methods such as BordaCount and Markov Chain, and supervised learning methods such as Cranking.', 'Markov Chain based ranking aggregation assumes that there exists a Markov Chain on the' +
-           'objects. The basic rankings of objects are utilized to construct the Markov Chain, in the way thatthe transition probabilities are estimated based on the order relations in the rankings.',
-           )
+    f = BM25('biosum')
+    print f.extract('Existing methods for ranking aggregation includes unsupervised learning methods such as BordaCount and Markov Chain, and supervised learning methods such as Cranking.',
+                    'Markov Chain based ranking aggregation assumes that there exists a Markov Chain on the' +
+                    'objects. The basic rankings of objects are utilized to construct the Markov Chain,')
