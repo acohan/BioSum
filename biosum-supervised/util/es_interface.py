@@ -140,13 +140,20 @@ class ESInterface():
     #         txt = txt.replace(e, '\%s' % e)
     #     return txt
 
-    def find_all(self, source_fields, doc_type=''):
-        q_body = {
-            "fields": source_fields,
-            "query": {
-                "match_all": {}
+    def find_all(self, source_fields=None, doc_type=''):
+        if source_fields:
+            q_body = {
+                "fields": source_fields,
+                "query": {
+                    "match_all": {}
+                }
             }
-        }
+        else:
+            q_body = {
+                "query": {
+                    "match_all": {}
+                }
+            }
         return self.es.search(
             body=q_body, size=1000000, index=self.index_name, doc_type=doc_type)['hits']['hits']
 
@@ -443,14 +450,14 @@ class ESInterface():
 
     def get_avg_size(self, field):
         '''
-        Get the average document length for a given field
+        Get the average document length for a the field sentence
         '''
         q = {"fields": [
             "sentence"
         ],
             "script_fields": {
             "doc_length": {
-                "script": "doc['sentence'].size()"
+                "classification": "doc['sentence'].size()"
             }
         },
             "query": {
@@ -461,7 +468,7 @@ class ESInterface():
             "aggs": {
             "my_agg": {
                 "avg": {
-                    "script": "doc['sentence'].size()"
+                    "classification": "doc['sentence'].size()"
                 }
             }
         }
@@ -501,6 +508,37 @@ class ESInterface():
                     (self._count_total - count + 0.5) / (count + 0.5))
             self._idf = {term: idf}
         return idf
+
+    def scan_and_scroll(self, doc_type, scroll_size=500, scroll_timeout=10):
+        """
+        The scan search type allows to efficiently scroll a large result set.
+        The response will include no hits, with two important results,
+        the total_hits will include the total hits that match the query
+        and the scroll_id that allows to start the scroll process.
+        Returns a list of results
+
+        @param scroll_size: scroll size
+        @param scroll_timeout: rountdtrip timeout
+        """
+        q_body = {"query": {
+            "match_all": {}
+        }}
+        result = self.es.search(self.index_name,
+                                doc_type,
+                                q_body,
+                                search_type='scan',
+                                scroll=str(scroll_timeout) +
+                                'm',
+                                size=scroll_size)
+        res = self.es.scroll(
+            result['_scroll_id'], scroll=str(scroll_timeout) + 'm')
+        finalres = []
+        while len(res['hits']['hits']) > 0:
+            print len(res['hits']['hits'])
+            finalres += res['hits']['hits']
+            res = self.es.scroll(
+                res['_scroll_id'], scroll=str(scroll_timeout) + 'm')
+        return finalres
 
 
 import re
