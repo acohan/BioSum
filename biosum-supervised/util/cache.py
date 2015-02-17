@@ -133,7 +133,7 @@ def simple_caching(cachedir=None,
             if not cachedir:
                 return method(*args, **kwargs)
 
-            if not local_cache_comment:
+            if local_cache_comment:
                 cache_comment = kwargs.pop('cache_comment', '')
             else:
                 cache_comment = local_cachedir

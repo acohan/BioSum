@@ -284,7 +284,7 @@ class VerbosePrinter(object):
 def tokenize(doc, stem=False, no_stopwords=True, lemmatize=False):
     """
     tokenizes a string
-    
+
     Args:
         stem(bool)
         stopwords(bool)
