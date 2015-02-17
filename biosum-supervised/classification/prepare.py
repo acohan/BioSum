@@ -13,6 +13,9 @@ class Prep(object):
         self.es_int = ESInterface(index_name=index)
 
     def prep_data(self, doc_type, relevant_offsets):
+        '''
+        Prepares the training data for leaning to rank
+        '''
         hits = self.es_int.find_all(doc_type=doc_type)
         x_train = []
         y_train = []
