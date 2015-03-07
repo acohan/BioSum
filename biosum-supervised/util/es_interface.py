@@ -33,7 +33,7 @@ class ESInterface():
         # self.doc_type = 'papers'
         self.es = self.__connect()
         self.ic = IndicesClient(self.es)
-        self.page_cache = shelve.open("../../cache/pages.p", writeback=False)
+        self.page_cache = shelve.open("../cache/pages.p", writeback=False)
 
     def login(self, username, password):
         pass

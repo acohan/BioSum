@@ -17,7 +17,7 @@ from gensim.corpora import MmCorpus
 from gensim.models.lsimodel import LsiModel
 from sklearn.metrics.pairwise import cosine_similarity
 
-CACHE_DIR = '../../cache'
+CACHE_DIR = '../../cache/'
 
 
 class LSA(Feature):
