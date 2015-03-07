@@ -91,9 +91,6 @@ class DocumentsModel(object):
         '''
         Returns a set of sentences from a document
         '''
-        
-        
-        
 
     def get_doc_len(self, topic_id, doc_name):
         if self.verbose:
@@ -104,4 +101,10 @@ class DocumentsModel(object):
         self.docs[tid][did]
 
     def get_all(self):
+        '''
+        Returns:
+            dict:
+                keys: topic_id e.g. d1418_train
+                    inner_keys:    document name e.g. 'yang,rosa'
+        '''
         return self.docs

@@ -4,26 +4,16 @@ Created on Jan 11, 2015
 @author: rmn
 '''
 from util.documents_model import DocumentsModel
-from collections import defaultdict
 import json
 import codecs
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
-from copy import deepcopy
-
-doc_mod = DocumentsModel('../data/TAC_2014_BiomedSumm_Training_Data')
-with codecs.open('../data/v1-2a.json', 'rb', 'utf-8') as mf:
-    data = json.load(mf)
-
-docs = doc_mod.get_all()
-docs_new = {}
-
-'''
-return a list which is the union of a list of offsets s
-e.g. [[1,10],[5,15]] -> [[1,15]]
-'''
 
 
 def union(s):
+    '''
+    return a list which is the union of a list of offsets s
+    e.g. [[1,10],[5,15]] -> [[1,15]]
+    '''
     s.sort(key=lambda x: x[0])
     y = [s[0]]
     for x in s[1:]:
@@ -39,7 +29,7 @@ def sent_tokenize(data, filter_threshold=None):
     Tokenizes a string into sentences and corresponding offsets
 
     Args:
-        data(str): The document itself 
+        data(str): The document itself
         filter_threshold(int): if sentence length is
             less than this, it will be ignored
 
@@ -56,51 +46,88 @@ def sent_tokenize(data, filter_threshold=None):
     return (sentences, offsets)
 
 
-def get_data():
-    for tid, did in docs.iteritems():
+def get_data(docs_path='../data/TAC_2014_BiomedSumm_Training_Data', json_data_path='../data/v1-2a.json'):
+    '''
+    Populates the docs_new object which stores information
+        about the topics
+        format of the docs_new:
+        [ <list>(dict) keys (topic_id): 'd1418_train', ...:
+            {'d1418_train' : [ <list>(dict) keys (citance_number): u'1', u'2', ...
+                {u'11': [ <list>(dict) keys (annotator_id): 'I', 'B',...
+                    {u'I': <dict>, keys:'ref_art',
+                                    'not_relevant',
+                                    'cit_offset',
+                                    'cit_art',
+                                    'ref_offset',
+                                    'cit_text',
+                                    'ref_text' }
+    Args:
+        docs_path(str): Path to the training data directory
+            e.g. data/TAC_2014_BiomedSumm_Training_Data
+
+        json_data_path(str): Path to the json training file (v1-2a.json)
+
+    Returns:
+        dict with the above format
+    '''
+    doc_mod = DocumentsModel(docs_path)
+    docs = doc_mod.get_all()
+    with codecs.open(json_data_path, 'rb', 'utf-8') as mf:
+        data = json.load(mf)
+    docs_new = {}
+#     print docs.keys()
+#     print docs.values()[0].keys()
+
+    for tid, annotations in data.iteritems():
         if tid not in docs_new:
             docs_new[tid] = {}
-        for _, ann in data[tid.upper()].iteritems():
-            for annotation in ann:
-                cit = annotation['citance_number']
+        for annotator_id, ann_list in annotations.iteritems():
+            for ann in ann_list:
+                cit = ann['citance_number']
                 if cit not in docs_new[tid]:
                     docs_new[tid][cit] = {}
-                if 'ref_offset' not in docs_new[tid][cit]:
-                    docs_new[tid][cit]['ref_offset'] =\
-                        annotation['reference_offset']
+                docs_new[tid][cit][annotator_id] = {}
+                if 'ref_offset' not in docs_new[tid][cit][annotator_id]:
+                    docs_new[tid][cit][annotator_id]['ref_offset'] =\
+                        ann['reference_offset']
                 else:
-                    docs_new[tid][cit]['ref_offset'] = union(
-                        docs_new[tid][cit]['ref_offset'] + annotation['reference_offset'])
-
-                if 'cit_offset' not in docs_new[tid][cit]:
-                    docs_new[tid][cit]['cit_offset'] =\
-                        [annotation['citation_offset']]
+                    docs_new[tid][cit][annotator_id]['ref_offset'] = union(
+                        docs_new[tid][cit][annotator_id]['ref_offset'] + ann['reference_offset'])
+                if 'cit_offset' not in docs_new[tid][cit][annotator_id]:
+                    docs_new[tid][cit][annotator_id]['cit_offset'] =\
+                        [ann['citation_offset']]
                 else:
-                    docs_new[tid][cit]['cit_offset'] = union(
-                        docs_new[tid][cit]['cit_offset'] + [annotation['citation_offset']])
-
-                docs_new[tid][cit]['ref_art'] = annotation['reference_article']
-                docs_new[tid][cit]['cit_art'] = annotation['citing_article']
+                    docs_new[tid][cit][annotator_id]['cit_offset'] = union(
+                        docs_new[tid][cit][annotator_id]['cit_offset'] + [ann['citation_offset']])
+                docs_new[tid][cit][annotator_id][
+                    'ref_art'] = ann['reference_article']
+                docs_new[tid][cit][annotator_id][
+                    'cit_art'] = ann['citing_article']
 
     for tid in docs_new:
         for cit in docs_new[tid]:
-            docs_new[tid][cit]['ref_text'] =\
-                [(s, doc_mod.get_doc(tid,
-                                     docs_new[tid][cit]['ref_art'].lower(),
-                                     interval=s)) for s in
-                 docs_new[tid][cit]['ref_offset']]
-            docs_new[tid][cit]['cit_text'] =\
-                [(s, doc_mod.get_doc(tid,
-                                     docs_new[tid][cit]['cit_art'].lower(),
-                                     interval=s)) for s in
-                 docs_new[tid][cit]['cit_offset']]
-            docs_new[tid][cit]['not_relevant'] = doc_mod.get_doc(
-                tid, docs_new[tid][cit]['cit_art'].lower())
-#             docs_new[tid][cit]['relevant'] = 
+            for ann in docs_new[tid][cit]:
+                docs_new[tid][cit][ann]['ref_text'] =\
+                    [(s, doc_mod.get_doc(tid,
+                                         docs_new[tid][cit][ann][
+                                             'ref_art'].lower(),
+                                         interval=s)) for s in
+                     docs_new[tid][cit][ann]['ref_offset']]
+                cit_off = union(docs_new[tid][cit][ann]['cit_offset'])
+                docs_new[tid][cit][ann]['cit_text'] =\
+                    ' '.join([doc_mod.get_doc(tid, docs_new[tid][cit][ann][
+                        'cit_art'].lower(), intrvl) for
+                        intrvl in cit_off])
 
-#     print docs_new.keys()
-#     print docs_new['D1418_TRAIN'.lower()]
-#     return docs_new
+    return docs_new
 
-get_data()
-print docs_new.values()[0].values()[0]['cit_text']
+    #                     [(s, doc_mod.get_doc(tid,
+    #                                          docs_new[tid][cit][ann][
+    #                                              'cit_art'].lower(),
+    #                                          interval=s)) for s in
+    #                      docs_new[tid][cit][ann]['cit_offset']]
+
+    # doc_mod =
+    # DocumentsModel('../data/TAC_2014_BiomedSumm_Training_Data')
+data = get_data()
+# print data.values()[0].values()[0].values()
