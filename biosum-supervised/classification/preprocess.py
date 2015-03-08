@@ -3,10 +3,11 @@ Created on Jan 11, 2015
 
 @author: rmn
 '''
-from util.documents_model import DocumentsModel
+
 import json
 import codecs
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
+from util.documents_model import DocumentsModel
 
 
 def union(s):
