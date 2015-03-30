@@ -34,11 +34,11 @@ class LSA(Feature):
             dictionary, corpus
         '''
         doc_hash = hash_obj(all_documents)
-        corp_cache_path = CACHE_DIR + doc_hash +\
+        corp_cache_path = CACHE_DIR + '/' + doc_hash +\
             '_corp_' + str(int(remove_once))
-        dic_cache_path = CACHE_DIR + doc_hash +\
+        dic_cache_path = CACHE_DIR + '/' + doc_hash +\
             '_dic_' + str(int(remove_once))
-        lsi_cache_path = CACHE_DIR + doc_hash +\
+        lsi_cache_path = CACHE_DIR + '/' + doc_hash +\
             '_lsi_' + str(int(remove_once))
         if os.path.exists(corp_cache_path) \
                 and os.path.exists(dic_cache_path)\

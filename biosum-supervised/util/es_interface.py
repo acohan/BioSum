@@ -33,7 +33,7 @@ class ESInterface():
         # self.doc_type = 'papers'
         self.es = self.__connect()
         self.ic = IndicesClient(self.es)
-        self.page_cache = shelve.open("../cache/pages.p", writeback=False)
+        self.page_cache = shelve.open("/Users/rmn/git/BioSum/biosum-supervised/cache/pages.p", writeback=False)
 
     def login(self, username, password):
         pass
@@ -455,11 +455,6 @@ class ESInterface():
         q = {"fields": [
             "sentence"
         ],
-            "script_fields": {
-            "doc_length": {
-                "classification": "doc['sentence'].size()"
-            }
-        },
             "query": {
             "match_all": {
 
@@ -468,7 +463,7 @@ class ESInterface():
             "aggs": {
             "my_agg": {
                 "avg": {
-                    "classification": "doc['sentence'].size()"
+                    "script": "doc['sentence'].size()"
                 }
             }
         }
